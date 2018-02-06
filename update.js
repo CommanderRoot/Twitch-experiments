@@ -12,7 +12,7 @@ function getData() {
 	console.log('getData');
 	return request.body({
 		baseUrl: 'https://www.twitch.tv/',
-		url: 'experiments.js',
+		url: 'experiments.json',
 		qs: {
 			v: Date.now()/1000
 		}
