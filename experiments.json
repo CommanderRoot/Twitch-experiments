@@ -2703,7 +2703,7 @@
 	},
 	"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
 		"name": "rtqos",
-		"v": 2993,
+		"v": 3003,
 		"t": 1,
 		"s": 1,
 		"groups": [
@@ -2712,11 +2712,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 10,
 				"value": "realtime"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "direct"
 			}
 		]
