@@ -5481,6 +5481,21 @@
 			}
 		]
 	},
+	"e0fdfc17-389d-4ba5-8596-065352ddc01e": {
+		"name": "twilight_browser_notifications_upsell",
+		"v": 3014,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "yes"
+			}
+		]
+	},
 	"e15d2a40-b2bb-4819-af2b-cb7a6f0e31cb": {
 		"name": "CHANNEL_SIGNUP_CTA_V2",
 		"v": 1436,
