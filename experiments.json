@@ -6018,6 +6018,21 @@
 			}
 		]
 	},
+	"f55858c9-1293-4574-83a1-3dc7592d93e8": {
+		"name": "ios_native_subs_iap_logging",
+		"v": 3024,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "inactive"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"f60b889e-0327-46a8-ad7b-0d402717da45": {
 		"name": "CREATIVE_SIDEBAR_NAVIGATION",
 		"v": 493,
