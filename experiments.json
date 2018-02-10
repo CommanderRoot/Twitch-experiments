@@ -1558,21 +1558,6 @@
 			}
 		]
 	},
-	"43213506-2eba-49c9-950a-db09cc8335a4": {
-		"name": "valkyrie_multi_region_upload",
-		"v": 3026,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "regional_routing"
-			},
-			{
-				"weight": 0,
-				"value": "control"
-			}
-		]
-	},
 	"43ce4dcb-ef59-489e-a163-685a939cea48": {
 		"name": "clips_sunday_candy",
 		"v": 2143,
