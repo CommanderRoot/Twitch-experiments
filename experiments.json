@@ -301,6 +301,21 @@
 			}
 		]
 	},
+	"0eb2d5ab-6334-4e3a-a109-259b56131279": {
+		"name": "ios_mixpanel_disable",
+		"v": 3041,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "mixpanel_disabled"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"0ff4ccc4-fb0f-41c0-b195-db9ccdb712d5": {
 		"name": "Bismol",
 		"v": 1414,
