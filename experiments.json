@@ -867,6 +867,25 @@
 			}
 		]
 	},
+	"26f888ed-2688-44f8-a38a-10ee61e7857c": {
+		"name": "clips_strobe",
+		"v": 3046,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant1"
+			},
+			{
+				"weight": 0,
+				"value": "variant2"
+			}
+		]
+	},
 	"274f6835-a41d-417c-ad58-f1321e2aac39": {
 		"name": "android_skippable_ads",
 		"v": 2582,
