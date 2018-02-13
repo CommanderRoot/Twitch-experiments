@@ -5507,15 +5507,15 @@
 		},
 		"d8c536f8-31a0-46d0-8e25-1bd5773aee2f": {
 			"name": "android_clip_editing",
-			"v": 2560,
+			"v": 3050,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 40,
+					"weight": 100,
 					"value": "active"
 				},
 				{
-					"weight": 60,
+					"weight": 0,
 					"value": "control"
 				}
 			]
