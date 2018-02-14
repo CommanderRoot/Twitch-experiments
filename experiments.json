@@ -3466,6 +3466,21 @@
 			}
 		]
 	},
+	"8ac1d417-13e1-443d-9fc2-717c1a699d42": {
+		"name": "ios_native_subs_iap_hidden_promo",
+		"v": 3062,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "inactive"
+			}
+		]
+	},
 	"8ace0f50-8afd-424a-a086-3e61b3e66da0": {
 		"name": "MESSAGE_HISTORY",
 		"v": 811,
