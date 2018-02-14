@@ -20,7 +20,7 @@
 	"community_theatres": ".",
 	"creative_promoted_communities": "animation",
 	"creative_banned_tags": "n3devtest,doonest,cosmos,doonbot,bobross,misterrogers,jwahbatest1,twitchpresents,shoutfactorytv,food",
-	"creative_fpage_darklaunch": 1,
+	"creative_fpage_darklaunch": 0,
 	"channel_feed_overrides": "food",
 	"authentic_biscuit": false,
 	"enable_rollbar_js": false,
@@ -657,11 +657,11 @@
 		},
 		"19cc1327-9436-4019-b71c-e2a1e41d3cb3": {
 			"name": "test",
-			"v": 3059,
+			"v": 3060,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 5,
+					"weight": 2,
 					"value": "a"
 				},
 				{
