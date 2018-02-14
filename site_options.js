@@ -657,11 +657,11 @@
 		},
 		"19cc1327-9436-4019-b71c-e2a1e41d3cb3": {
 			"name": "test",
-			"v": 3060,
+			"v": 3063,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 2,
+					"weight": 4,
 					"value": "a"
 				},
 				{
@@ -3571,6 +3571,21 @@
 				{
 					"weight": 100,
 					"value": "active"
+				}
+			]
+		},
+		"8ac1d417-13e1-443d-9fc2-717c1a699d42": {
+			"name": "ios_native_subs_iap_hidden_promo",
+			"v": 3062,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "active"
+				},
+				{
+					"weight": 0,
+					"value": "inactive"
 				}
 			]
 		},
