@@ -1516,6 +1516,21 @@
 				}
 			]
 		},
+		"3a823fae-acbe-40c4-9ed8-6b1e685eb4b2": {
+			"name": "ios_notification_center",
+			"v": 3073,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "off"
+				}
+			]
+		},
 		"3ba26ac2-a5db-4318-83c5-dcbe11e2774f": {
 			"name": "CLIPS_CLIPPY_PATENT_PENDING",
 			"v": 1392,
