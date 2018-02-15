@@ -20,7 +20,7 @@
 	"community_theatres": ".",
 	"creative_promoted_communities": "animation",
 	"creative_banned_tags": "n3devtest,doonest,cosmos,doonbot,bobross,misterrogers,jwahbatest1,twitchpresents,shoutfactorytv,food",
-	"creative_fpage_darklaunch": 0.5,
+	"creative_fpage_darklaunch": 0.6,
 	"channel_feed_overrides": "food",
 	"authentic_biscuit": false,
 	"enable_rollbar_js": false,
