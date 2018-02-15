@@ -2079,12 +2079,12 @@
 		},
 		"4badc757-13a7-468c-99b6-e42aef7fc286": {
 			"name": "spade_url",
-			"v": 3061,
+			"v": 3071,
 			"t": 1,
 			"groups": [
 				{
 					"weight": 1,
-					"value": "//video-edge-c1791d.sjc01.hls.ttvnw.net/v1/playlist/CnCGf2YHO7Oq3vFruJaCB-Cuh08xyeUgIr_pbHi8Vwh88xtvYEOh5lxDnHG627WEGCj34Q-YeHERR8XBkUZ5LhNdvxSR0QBOMjL4UkrgbFRiG-S2QCgeuPoad6PNSmXVhR6clwbiCBlrDwMSQKIX09_3o4yXoikwRVdHdpZVHU_bqh7g1nKU7M_L7mYxCycgizqNigNr0GRuH-Tvr6ylzSVGDu3e-TJIBZJNo17rbFXjs9kCzIezAnZdCelicdEcAybkHF1Hh_T2-uyHMADPMsUTxDcyFiy40bME9QkX8hxcDpvHn8J3IC89G39w1fQIDp-10tthRitRNuaRlKHPXdVtSc6VXMwqFJ0xHjIOI0T71anvFsuVkbA1l_qQQFERuvQIzdt3TnWOjVqaot1xHs3g6o6TLJUCiKopdmyOqKyfk-sIVTojAR9f1GO.m3u8"
+					"value": "//video-edge-ffe8f9.sjc01.hls.ttvnw.net/v1/playlist/Cn6ef_ALonPvxjZNo7Taz9xjPaopN2VpuK6hy4JKEhiezN5oGmTHVob5CclXP81nXt-ox5kZHU7fB-sgE6xekpt7KeUCXg7hyXgHTCZVgVMu11AoqBpP2SfUuhO1_-C5IolYSR8o_ld-XnXi51ipkhW1xY39W3jMLA5y3Lm3TnseKxb3fsJRH8wM-bzkoVzA1CRWErknc6Cts_w2VbOwh1FoeSOK9GaSQpZ2g-S8z0pKuOik5JUiOPjH5jZHDoKtzwo62oKh-ELXjVAajhhvI10WkwJZwGxXvuKLjE1xj8OILxITDE-mjCMI9dQ76gHgPwhTNsbukLUMFrseZ85zvuLDnLotJ7WaETke2tx6RppWbqCmSgN5arLo-7GVm_1t7TPY3NSDO0JmXxqDYNKUMtSnqvRWnrjYMQszaBjlZVJsPHhVzp1xq-j5YWrGlrgeSVUD3pmvHMnafQir9budg.m3u8"
 				}
 			]
 		},
@@ -6006,16 +6006,20 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3064,
+			"v": 3070,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 98,
+					"weight": 96,
 					"value": "2.2.401"
 				},
 				{
 					"weight": 2,
 					"value": "2.2.6"
+				},
+				{
+					"weight": 2,
+					"value": "2.2.8"
 				}
 			]
 		},
