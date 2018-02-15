@@ -2079,15 +2079,15 @@
 		},
 		"4b79ad96-2307-48fe-9bc5-f903a29dc55d": {
 			"name": "android_enable_rooms_release",
-			"v": 2740,
+			"v": 3076,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 0,
+					"weight": 100,
 					"value": "active"
 				},
 				{
-					"weight": 100,
+					"weight": 0,
 					"value": "control"
 				}
 			]
