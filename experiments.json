@@ -1808,15 +1808,15 @@
 	},
 	"47e578cf-6e7a-47ea-ba0d-5fb6a51a3b1d": {
 		"name": "android_extensions_dev_release",
-		"v": 3039,
+		"v": 3079,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
