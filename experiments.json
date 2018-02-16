@@ -3295,15 +3295,15 @@
 	},
 	"81134434-865b-4c9b-8349-239eae6596a1": {
 		"name": "android_player_refactor_release",
-		"v": 3016,
+		"v": 3085,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
@@ -5917,15 +5917,11 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-		"v": 3081,
+		"v": 3083,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
-				"value": "2.2.401"
-			},
-			{
-				"weight": 10,
+				"weight": 100,
 				"value": "2.2.402"
 			}
 		]
@@ -6242,7 +6238,7 @@
 	},
 	"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
 		"name": "pad_thai",
-		"v": 3032,
+		"v": 3084,
 		"t": 1,
 		"groups": [
 			{
@@ -6263,7 +6259,7 @@
 			},
 			{
 				"weight": 1,
-				"value": "maxbuf"
+				"value": "speed"
 			},
 			{
 				"weight": 1,
