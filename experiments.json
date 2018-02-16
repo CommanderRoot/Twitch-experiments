@@ -3783,15 +3783,15 @@
 	},
 	"97f8559c-1077-4480-ad07-b64f1c9b8529": {
 		"name": "android_auto_video_quality",
-		"v": 2201,
+		"v": 3078,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active"
 			}
 		]
