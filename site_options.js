@@ -68,7 +68,7 @@
 	"following_videos": true,
 	"dfp_sidebar_channel_ad": true,
 	"dfp_fp_sizzlestrip": true,
-	"chat_darklaunch_pct": 0,
+	"chat_darklaunch_pct": 1,
 	"dfp_esl": true,
 	"disable_youtube_exporter": false,
 	"aws_artificial_load_factor": "0",
