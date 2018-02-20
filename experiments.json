@@ -2551,6 +2551,25 @@
 			}
 		]
 	},
+	"5e532f0e-a835-44bf-9349-bd5cd2b6a416": {
+		"name": "ios_reward_exp",
+		"v": 3095,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 30,
+				"value": "a"
+			},
+			{
+				"weight": 40,
+				"value": "b"
+			},
+			{
+				"weight": 30,
+				"value": "c"
+			}
+		]
+	},
 	"5e739dab-ded8-4722-b9ee-6053bb34b48b": {
 		"name": "ios_chromecast_player_core",
 		"v": 2331,
