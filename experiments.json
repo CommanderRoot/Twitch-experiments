@@ -1001,15 +1001,15 @@
 	},
 	"29a37cfd-6a34-4624-970f-6b155b40636b": {
 		"name": "twilight_web_onboarding_randomized_games",
-		"v": 2709,
+		"v": 3101,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 2,
+				"weight": 0,
 				"value": "enabled"
 			}
 		]
