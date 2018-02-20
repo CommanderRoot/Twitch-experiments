@@ -2257,6 +2257,25 @@
 			}
 		]
 	},
+	"5192d294-a807-4eb6-aeef-141023684b88": {
+		"name": "android_reward_exp",
+		"v": 3097,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 30,
+				"value": "a"
+			},
+			{
+				"weight": 40,
+				"value": "b"
+			},
+			{
+				"weight": 30,
+				"value": "c"
+			}
+		]
+	},
 	"51e3d33c-157b-422d-9a15-b0f9e9c055b2": {
 		"name": "baking_bread_h",
 		"v": 2600,
