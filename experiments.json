@@ -1,15 +1,15 @@
 {
 	"00266295-54c5-46e6-a8ca-84165b807c8f": {
 		"name": "mobile_web_aa",
-		"v": 2943,
+		"v": 3112,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 5,
 				"value": "treatment"
 			},
 			{
-				"weight": 50,
+				"weight": 95,
 				"value": "control"
 			}
 		]
