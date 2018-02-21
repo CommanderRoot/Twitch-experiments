@@ -992,19 +992,19 @@
 		},
 		"26f888ed-2688-44f8-a38a-10ee61e7857c": {
 			"name": "clips_strobe",
-			"v": 3048,
+			"v": 3100,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 33,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 33,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 33,
 					"value": "variant2"
 				}
 			]
@@ -1109,15 +1109,15 @@
 		},
 		"29a37cfd-6a34-4624-970f-6b155b40636b": {
 			"name": "twilight_web_onboarding_randomized_games",
-			"v": 2709,
+			"v": 3101,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 98,
+					"weight": 1,
 					"value": "control"
 				},
 				{
-					"weight": 2,
+					"weight": 0,
 					"value": "enabled"
 				}
 			]
@@ -5261,19 +5261,19 @@
 		},
 		"ce512072-ab2b-4f44-892a-e203055d45da": {
 			"name": "clips_blessings",
-			"v": 2944,
+			"v": 3105,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 20,
 					"value": "control"
 				},
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "variant1"
 				},
 				{
-					"weight": 0,
+					"weight": 40,
 					"value": "variant2"
 				}
 			]
@@ -6078,11 +6078,15 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3083,
+			"v": 3104,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 100,
+					"weight": 5,
+					"value": "2.2.9"
+				},
+				{
+					"weight": 95,
 					"value": "2.2.402"
 				}
 			]
