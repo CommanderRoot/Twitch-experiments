@@ -609,15 +609,15 @@
 	},
 	"1adeeefb-a0cc-48a4-adbd-8c9a1bdaa06f": {
 		"name": "TWILIGHT_PAYMENTS_MANAGEMENT_PAGE",
-		"v": 3115,
+		"v": 3122,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "yes"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "no"
 			}
 		]
