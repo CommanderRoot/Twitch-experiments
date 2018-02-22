@@ -4682,15 +4682,15 @@
 	},
 	"b54f8797-2b35-4024-8a8c-0f2ef440e4fa": {
 		"name": "android_channel_deeplink_to_theatre",
-		"v": 2903,
+		"v": 3125,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
