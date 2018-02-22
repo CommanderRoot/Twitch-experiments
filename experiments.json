@@ -3734,6 +3734,21 @@
 			}
 		]
 	},
+	"8ffa63be-083f-4379-8e97-fd58b7701fa9": {
+		"name": "android_extensions_onboarding",
+		"v": 3132,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "control"
+			},
+			{
+				"weight": 95,
+				"value": "active"
+			}
+		]
+	},
 	"903fb381-dbeb-466b-9c88-7b4da328fb2d": {
 		"name": "android_autoplay_pulse",
 		"v": 1150,
@@ -6401,32 +6416,24 @@
 	},
 	"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
 		"name": "pad_thai",
-		"v": 3084,
+		"v": 3133,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 94,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 2,
 				"value": "treatment"
 			},
 			{
-				"weight": 1,
-				"value": "agrobuf"
+				"weight": 2,
+				"value": "spdlow"
 			},
 			{
-				"weight": 1,
-				"value": "lowbuf"
-			},
-			{
-				"weight": 1,
-				"value": "speed"
-			},
-			{
-				"weight": 1,
-				"value": "offseg"
+				"weight": 2,
+				"value": "jorge"
 			}
 		]
 	},
