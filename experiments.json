@@ -3508,6 +3508,33 @@
 			}
 		]
 	},
+	"88c522d7-c0a9-438b-b0c6-aaf4a6117c45": {
+		"name": "android_videoplayer_v6",
+		"v": 3121,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "playercore"
+			},
+			{
+				"weight": 1,
+				"value": "native"
+			},
+			{
+				"weight": 78,
+				"value": "exoplayer"
+			},
+			{
+				"weight": 1,
+				"value": "exoplayer_2"
+			}
+		]
+	},
 	"8a1fbb7b-4b26-4d3c-8ad6-bbfeb72831f8": {
 		"name": "VODS_IN_CAROUSEL_EXPERIMENT",
 		"v": 1855,
