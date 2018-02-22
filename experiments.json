@@ -346,6 +346,25 @@
 			}
 		]
 	},
+	"1233e3a4-d72f-48e5-b4b4-67856afdd7d5": {
+		"name": "ios_end_of_clips_prerelease",
+		"v": 3130,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "no_autoplay"
+			},
+			{
+				"weight": 0,
+				"value": "autoplay"
+			}
+		]
+	},
 	"1318509a-bf97-475d-acdc-df6a24ef6e3e": {
 		"name": "twilight_videos_in_sidenav",
 		"v": 2842,
