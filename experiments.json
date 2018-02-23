@@ -2683,6 +2683,21 @@
 			}
 		]
 	},
+	"5fbc7acf-f2ad-4024-9f23-987e9a74093c": {
+		"name": "mobile_web_survey",
+		"v": 3136,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "treatment"
+			}
+		]
+	},
 	"61b169ff-bc62-4725-a40e-1be627197c6f": {
 		"name": "Recommended Games",
 		"v": 139,
