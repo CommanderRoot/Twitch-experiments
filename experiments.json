@@ -5881,6 +5881,21 @@
 			}
 		]
 	},
+	"e33a85a2-43ab-425b-bc2e-555a650b7f2a": {
+		"name": "broadcaster_ad_revenue_estimate",
+		"v": 3145,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "true"
+			},
+			{
+				"weight": 5,
+				"value": "false"
+			}
+		]
+	},
 	"e3493262-e9b1-4ea8-b621-1f7ed544fad2": {
 		"name": "twitch_prime_poc",
 		"v": 2688,
