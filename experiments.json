@@ -331,6 +331,21 @@
 			}
 		]
 	},
+	"0f2d4069-61a8-415a-9cf4-abe1cda6d43d": {
+		"name": "ios_app_badge_5.10.1",
+		"v": 3154,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			}
+		]
+	},
 	"0ff4ccc4-fb0f-41c0-b195-db9ccdb712d5": {
 		"name": "Bismol",
 		"v": 1414,
