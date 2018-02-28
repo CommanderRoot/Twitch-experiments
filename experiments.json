@@ -3485,6 +3485,21 @@
 			}
 		]
 	},
+	"82fa1d06-a80c-4646-ae58-0dd2ad883d0b": {
+		"name": "android_extensions_public_release",
+		"v": 3156,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"84d81180-6faa-4c58-98d7-48bbff5035c7": {
 		"name": "baking_bread_us",
 		"v": 658,
