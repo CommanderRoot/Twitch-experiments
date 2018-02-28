@@ -3427,15 +3427,15 @@
 	},
 	"81134434-865b-4c9b-8349-239eae6596a1": {
 		"name": "android_player_refactor_release",
-		"v": 3163,
+		"v": 3164,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			}
 		]
