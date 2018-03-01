@@ -1547,6 +1547,21 @@
 			}
 		]
 	},
+	"3fc50829-31d6-449a-a757-7a3f44d77ab3": {
+		"name": "twilight_new_reporting_wizard",
+		"v": 3170,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "yes"
+			},
+			{
+				"weight": 100,
+				"value": "no"
+			}
+		]
+	},
 	"3fc5b1e2-5580-464e-bc32-21d07a4a1df8": {
 		"name": "android_enable_rooms",
 		"v": 2386,
