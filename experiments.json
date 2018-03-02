@@ -6351,15 +6351,15 @@
 	},
 	"f3373266-ba22-4e0b-b56a-9e79fb53f62e": {
 		"name": "mobile_web_atlas",
-		"v": 2952,
+		"v": 3179,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "treatment"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			}
 		]
