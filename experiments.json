@@ -331,6 +331,21 @@
 			}
 		]
 	},
+	"0e636d13-56a8-44f4-bd51-7e65cd5a5225": {
+		"name": "twilight_clips_howdy_partner",
+		"v": 3193,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant1"
+			}
+		]
+	},
 	"0eb2d5ab-6334-4e3a-a109-259b56131279": {
 		"name": "ios_mixpanel_disable",
 		"v": 3041,
