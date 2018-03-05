@@ -2749,15 +2749,15 @@
 	},
 	"5fbc7acf-f2ad-4024-9f23-987e9a74093c": {
 		"name": "mobile_web_survey",
-		"v": 3136,
+		"v": 3203,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
