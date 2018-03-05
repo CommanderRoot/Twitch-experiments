@@ -5092,15 +5092,15 @@
 	},
 	"c2a121ef-cd70-423f-8e65-de028477a140": {
 		"name": "ios_profile_redesign_tab_reorder",
-		"v": 2983,
+		"v": 3197,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "enabled"
 			}
 		]
