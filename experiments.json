@@ -2963,16 +2963,12 @@
 	},
 	"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
 		"name": "rtqos",
-		"v": 3211,
+		"v": 3212,
 		"t": 1,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 20,
-				"value": "control"
-			},
-			{
-				"weight": 70,
+				"weight": 90,
 				"value": "direct"
 			},
 			{
