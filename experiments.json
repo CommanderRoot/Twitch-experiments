@@ -1048,6 +1048,33 @@
 			}
 		]
 	},
+	"28b6971c-5784-4ded-9d56-ea3b1f6a7f0b": {
+		"name": "android_videoplayer_v7",
+		"v": 3214,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "playercore"
+			},
+			{
+				"weight": 0,
+				"value": "native"
+			},
+			{
+				"weight": 79,
+				"value": "exoplayer"
+			},
+			{
+				"weight": 1,
+				"value": "exoplayer_2"
+			}
+		]
+	},
 	"296d3795-062c-49cc-8e1a-2d3e4e8a5b50": {
 		"name": "android_phone_landscape_chat_write_2",
 		"v": 2234,
@@ -6181,12 +6208,16 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-		"v": 3208,
+		"v": 3213,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "2.2.404"
+			},
+			{
+				"weight": 5,
+				"value": "2.3.1"
 			}
 		]
 	},
