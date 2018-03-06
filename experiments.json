@@ -2926,15 +2926,15 @@
 	},
 	"67118dd1-5594-41af-80e8-420571737679": {
 		"name": "android_profile_tab_order",
-		"v": 3215,
+		"v": 3217,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
