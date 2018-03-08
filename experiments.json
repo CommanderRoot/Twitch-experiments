@@ -2322,6 +2322,21 @@
 			}
 		]
 	},
+	"50e947d4-24b7-4000-a046-f48f4072b7cf": {
+		"name": "TWILIGHT_SUBSCRIBED_CHANNELS_SIDENAV",
+		"v": 3243,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant_a"
+			}
+		]
+	},
 	"5192d294-a807-4eb6-aeef-141023684b88": {
 		"name": "android_reward_exp",
 		"v": 3097,
