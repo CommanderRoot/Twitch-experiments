@@ -1627,21 +1627,6 @@
 			}
 		]
 	},
-	"409b22a0-4f72-49ca-881a-a08cb28d4f11": {
-		"name": "android_track_network_request_latency",
-		"v": 3175,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 99,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "active"
-			}
-		]
-	},
 	"409d6b75-c64e-449c-b6ec-130118312d3f": {
 		"name": "ios_raids",
 		"v": 2391,
