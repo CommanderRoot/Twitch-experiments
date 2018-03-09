@@ -5959,16 +5959,16 @@
 	},
 	"e33a85a2-43ab-425b-bc2e-555a650b7f2a": {
 		"name": "BROADCASTER_AD_REVENUE_ESTIMATE",
-		"v": 3229,
+		"v": 3245,
 		"t": 3,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "yes"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "no"
 			}
 		]
