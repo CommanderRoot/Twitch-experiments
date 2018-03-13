@@ -3851,6 +3851,21 @@
 			}
 		]
 	},
+	"91198f7d-490a-42ce-a3b1-474f58673998": {
+		"name": "ios_staff_xarth_beta_prompt",
+		"v": 3256,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"9326b2a6-4d2c-4835-95c3-52e3cb567d54": {
 		"name": "android_uploads_top_videos_time",
 		"v": 806,
