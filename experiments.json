@@ -333,15 +333,15 @@
 	},
 	"0eb2d5ab-6334-4e3a-a109-259b56131279": {
 		"name": "ios_mixpanel_disable",
-		"v": 3041,
+		"v": 3273,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "mixpanel_disabled"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -2522,15 +2522,15 @@
 	},
 	"586ba4e6-2954-4fd1-b317-e3c7c14bfa3f": {
 		"name": "android_mp_disable",
-		"v": 3017,
+		"v": 3272,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
