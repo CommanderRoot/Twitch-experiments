@@ -1458,6 +1458,33 @@
 			}
 		]
 	},
+	"3864f7e2-8c1a-482f-a539-cb1765cda31d": {
+		"name": "android_videoplayer_r6_0_0",
+		"v": 3282,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "playercore"
+			},
+			{
+				"weight": 79,
+				"value": "exoplayer"
+			},
+			{
+				"weight": 1,
+				"value": "exoplayer_2"
+			},
+			{
+				"weight": 0,
+				"value": "native"
+			}
+		]
+	},
 	"3886e2be-85fd-43a4-84b9-02024290026a": {
 		"name": "TWITCH_RAID_PROMO",
 		"v": 2335,
