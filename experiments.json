@@ -2890,15 +2890,15 @@
 	},
 	"66018bed-5b79-4d2c-9773-29295e4f89f6": {
 		"name": "ios_wateb",
-		"v": 3299,
+		"v": 3308,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active"
 			}
 		]
@@ -5117,15 +5117,15 @@
 	},
 	"bf7566f3-241b-4ade-95d4-381a7e7dd390": {
 		"name": "android_wateb_6.0_release",
-		"v": 3298,
+		"v": 3309,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active"
 			}
 		]
