@@ -5598,15 +5598,15 @@
 	},
 	"d22b1724-f9ba-4470-99ab-f3f193034394": {
 		"name": "ios_autoplay_feed_v5.9",
-		"v": 3190,
+		"v": 3310,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active"
 			}
 		]
