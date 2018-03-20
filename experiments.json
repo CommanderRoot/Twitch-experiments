@@ -2982,6 +2982,21 @@
 			}
 		]
 	},
+	"697896b3-a4b9-4c00-a1a2-7fa35ec9a8e4": {
+		"name": "notifications_disable",
+		"v": 3303,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
 		"name": "rtqos",
 		"v": 3293,
@@ -6149,6 +6164,21 @@
 			{
 				"weight": 5,
 				"value": "yes_100"
+			}
+		]
+	},
+	"e875da19-becb-450a-84f9-6267b4e529bd": {
+		"name": "tst",
+		"v": 3301,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "a"
+			},
+			{
+				"weight": 2,
+				"value": "b"
 			}
 		]
 	},
