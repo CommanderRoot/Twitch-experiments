@@ -2534,7 +2534,7 @@
 	},
 	"560f30f8-b4fc-4a9d-96ac-9143dc1f4110": {
 		"name": "recommended_clips_live_recs",
-		"v": 2578,
+		"v": 3322,
 		"t": 2,
 		"groups": [
 			{
@@ -6680,19 +6680,19 @@
 	},
 	"ff8e8dba-1168-459f-b131-7be5b5e7ba4d": {
 		"name": "clips_champagne_supernova",
-		"v": 2899,
+		"v": 3323,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "variant1"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "variant2"
 			}
 		]
