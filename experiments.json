@@ -1845,25 +1845,6 @@
 			}
 		]
 	},
-	"4723fff0-7f41-43c7-88b3-246b014dfaf1": {
-		"name": "TWILIGHT_CHANNEL_LOGIN_UPSELL_V1",
-		"v": 2523,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 60,
-				"value": "control"
-			},
-			{
-				"weight": 20,
-				"value": "thin"
-			},
-			{
-				"weight": 20,
-				"value": "none"
-			}
-		]
-	},
 	"474db509-7fb8-403e-97da-66dae8954e6d": {
 		"name": "android_home_games_carousel",
 		"v": 643,
