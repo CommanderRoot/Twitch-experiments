@@ -5675,6 +5675,21 @@
 			}
 		]
 	},
+	"d54399a7-7956-4a20-b46b-47af282d7f66": {
+		"name": "twilight_theatre_fullscreen",
+		"v": 3316,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "theatre"
+			}
+		]
+	},
 	"d5ceeac2-4734-46f3-a1a6-8edba1c6839c": {
 		"name": "android_raids_ads",
 		"v": 2774,
