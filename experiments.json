@@ -1590,6 +1590,21 @@
 			}
 		]
 	},
+	"3fa31c3d-1477-40a5-9433-0b64b398c86a": {
+		"name": "TWILIGHT_SUB_CHECKOUT_VARIANT",
+		"v": 3312,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "recurly"
+			},
+			{
+				"weight": 50,
+				"value": "zuora"
+			}
+		]
+	},
 	"3fc50829-31d6-449a-a757-7a3f44d77ab3": {
 		"name": "twilight_new_reporting_wizard",
 		"v": 3170,
