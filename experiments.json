@@ -6023,21 +6023,6 @@
 			}
 		]
 	},
-	"e3493262-e9b1-4ea8-b621-1f7ed544fad2": {
-		"name": "twitch_prime_poc",
-		"v": 2688,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"e35023b2-1cfc-4e73-b5ab-30f36d2afc4d": {
 		"name": "ios_host_transition",
 		"v": 2351,
@@ -6532,7 +6517,7 @@
 	},
 	"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
 		"name": "pad_thai",
-		"v": 3280,
+		"v": 3329,
 		"t": 1,
 		"s": 1,
 		"groups": [
