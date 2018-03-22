@@ -5222,15 +5222,15 @@
 	},
 	"c4e51121-af38-46de-a93d-a7e10590a1ee": {
 		"name": "ios_clip_editing",
-		"v": 3307,
+		"v": 3332,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "active"
 			}
 		]
