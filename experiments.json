@@ -4674,6 +4674,21 @@
 			}
 		]
 	},
+	"adaef0a3-ffca-4124-b3b8-0ae13c9dd562": {
+		"name": "ios_swifty_chromecast",
+		"v": 3358,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 95,
+				"value": "disabled"
+			},
+			{
+				"weight": 5,
+				"value": "enabled"
+			}
+		]
+	},
 	"adff30ad-0ef3-4b61-9892-1c6b10500bd4": {
 		"name": "ios_extensions",
 		"v": 3318,
