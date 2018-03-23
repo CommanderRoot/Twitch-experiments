@@ -1607,7 +1607,7 @@
 	},
 	"3fc50829-31d6-449a-a757-7a3f44d77ab3": {
 		"name": "twilight_new_reporting_wizard",
-		"v": 3170,
+		"v": 3362,
 		"t": 2,
 		"groups": [
 			{
@@ -4826,6 +4826,21 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"b24e5cd6-c649-4cab-b768-03ad6cf488be": {
+		"name": "TWILIGHT_EXTENDED_PRESENCE",
+		"v": 3361,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant_a"
 			}
 		]
 	},
