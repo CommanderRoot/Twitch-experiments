@@ -2734,6 +2734,21 @@
 			}
 		]
 	},
+	"5ebec6bf-b492-4ce2-a6b7-153bddbf3640": {
+		"name": "android_branch_io_2",
+		"v": 3401,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"5f94f02e-56fd-4681-bcba-95f37a7d83fa": {
 		"name": "ZUORA_PHASE_1",
 		"v": 2378,
