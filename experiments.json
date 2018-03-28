@@ -2946,19 +2946,19 @@
 	},
 	"680113ed-4ef6-4006-b4cf-259ee8213079": {
 		"name": "clips_no_problem",
-		"v": 2897,
+		"v": 3395,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "variant1"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "variant2"
 			}
 		]
