@@ -5154,15 +5154,15 @@
 	},
 	"bb654f3c-166a-49fa-9030-c6f4bcda2ebd": {
 		"name": "android_autoplay_browse",
-		"v": 3399,
+		"v": 3403,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
