@@ -3040,15 +3040,15 @@
 	},
 	"697896b3-a4b9-4c00-a1a2-7fa35ec9a8e4": {
 		"name": "pushy_notifications_disable",
-		"v": 3393,
+		"v": 3420,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "treatment"
 			}
 		]
