@@ -6577,15 +6577,15 @@
 	},
 	"f866f89d-85de-4a5b-9b00-d97c791bc16d": {
 		"name": "TWILIGHT_RAID_AUTO_JOIN",
-		"v": 2745,
+		"v": 3413,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "yes"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "no"
 			}
 		]
