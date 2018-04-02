@@ -905,6 +905,21 @@
 			}
 		]
 	},
+	"2402b465-5769-4591-a8d2-365d11ba67d8": {
+		"name": "pushy_notifications_disable_actual",
+		"v": 3424,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"243467cb-2393-41cf-a1a9-526ee51f95f8": {
 		"name": "android_chomments_posting_5.4",
 		"v": 2214,
