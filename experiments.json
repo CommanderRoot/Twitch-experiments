@@ -2916,15 +2916,15 @@
 	},
 	"64c787d2-7a36-447b-bba3-8bbab6846da6": {
 		"name": "android_browse_for_tablet",
-		"v": 2836,
+		"v": 3431,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "holdout"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "active"
 			}
 		]
