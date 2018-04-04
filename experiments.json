@@ -907,15 +907,15 @@
 	},
 	"2402b465-5769-4591-a8d2-365d11ba67d8": {
 		"name": "pushy_notifications_disable_actual",
-		"v": 3445,
+		"v": 3446,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 94,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 6,
 				"value": "treatment"
 			}
 		]
