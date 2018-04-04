@@ -2762,15 +2762,15 @@
 	},
 	"5ebec6bf-b492-4ce2-a6b7-153bddbf3640": {
 		"name": "android_branch_io_2",
-		"v": 3401,
+		"v": 3450,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
