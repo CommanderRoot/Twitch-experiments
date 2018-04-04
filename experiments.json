@@ -907,15 +907,15 @@
 	},
 	"2402b465-5769-4591-a8d2-365d11ba67d8": {
 		"name": "pushy_notifications_disable_actual",
-		"v": 3427,
+		"v": 3440,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 94,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 6,
 				"value": "treatment"
 			}
 		]
@@ -6349,7 +6349,7 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-		"v": 3438,
+		"v": 3441,
 		"t": 1,
 		"groups": [
 			{
@@ -6357,11 +6357,11 @@
 				"value": "2.2.404"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "2.3.3"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "2.4.2"
 			}
 		]
