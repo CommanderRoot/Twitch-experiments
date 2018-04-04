@@ -197,15 +197,15 @@
 	},
 	"0ace5fda-aa24-4263-9b07-e8a3099729d6": {
 		"name": "ios_theater_offline_channel_deeplink_to_profile",
-		"v": 2986,
+		"v": 3453,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "enabled"
 			}
 		]
