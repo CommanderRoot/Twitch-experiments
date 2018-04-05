@@ -3267,15 +3267,15 @@
 	},
 	"73e0d181-8d03-4456-ba76-c0f04c2b5da3": {
 		"name": "android_animated_bits",
-		"v": 3398,
+		"v": 3455,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
