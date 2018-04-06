@@ -2100,12 +2100,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 3454,
+		"v": 3469,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-8863e5.sjc01.hls.ttvnw.net/v1/segment/CvzfYUtbLRoxkZUN5lfJQlCfOIHLeILSHr4fk0ows0K49MrlBpXnetDY0gwQsYrJxvSTtnOrbdnGA-0k--cL5Jk4D4hHskBqRG8j9-4pOnlj5XwmvzFOgLubmvsDhQuRBujH3loOqrffL5MGprIkIJqE-ZN0tS2SQ94Fvr37m5-kEzp3Zj46XQqWVtekV_cCzfzwz1378QWWoUgeTTxhDB2XnPo2SiXbjCrnem62h6agr72cAOwZrlX3rmRhtIkMdFR2XJ7laPvf8GazfOa7Y58BqlnWAMguJtoQOdxdFtyRndqXD2fm8xOLnExQatFMcsR1iZ0zNoSh7ZzObncE1-aT5YZQ0g7FAIQFqXbHgUUWE-d9K2k7X-q1TLNWxLtEG2fYVI2soBbVRmjgk-h4d315OYcp9AikwIDQ1iIc2nvSi0RKuSBezIIWZgIDwBMRIemrCL1n1i0RRXtFSgh60xjwybnfF_jlj7AtQGWebpXhMQeMnmpSC8ktn9qQG1pxfgGQJW9zViOUx-sfvKFyDTrtz6GkxgTCQy1v3RxU.ts"
+				"value": "//video-edge-da55af.sjc01.hls.ttvnw.net/v1/segment/Cihwl0zpknqtW3UG6bGA86eaQcDgfPkdiL_zjsCc2kV1iEhUz8jXWA-naYktBdOXEaqh50gGxbqDz-rtf19TzV74T1Ctf_IZ_3gXOP81Dj3Nmwf8U_Sksu5-_X6rHKiTKXadBjuHgHSoIk0lq3pz5fBQoYmMu1pyMD7hDXeAoKY8V-fqp7Xae710powjIwdNyrgZni8sVB0aOoR21w-nhh5mUyDnX7FdYz67Jj0bYvHWtQPlkcr2NWNwvYniW3REd3FCJlHlZVKi85YEcc6mzrgji2z8WIuRW8pVVv_LmMF9NmSoEfCq0u16M1gSVRPw0xISzbEBr2kwJrNZFOV8Bt_G0Qc2rdIFzG9h5VpcCRmFFToijfnjOISAH257E8pluMNfW7nrlnlInKFSVmq5KE5X66tqhVIcI-z5YXzQvUNw_9M6Ze7Ua4sNi8G2EXr8iPD7wOaLtyPKS1hQrH1PnMOId069Y8J7bfhdfCbVSeVIDYm0owXCCCCnppV0OV5D5uuOz8_WswJ_nd5MFtpeS--JOeQellxcAQ37F48o2P.ts"
 			}
 		]
 	},
@@ -3913,6 +3913,25 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"8e15c9aa-bddc-4791-9a90-3df842c82f05": {
+		"name": "ios_end_of_clips_v6.1",
+		"v": 3468,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "autoplay"
+			},
+			{
+				"weight": 0,
+				"value": "no_autoplay"
 			}
 		]
 	},
