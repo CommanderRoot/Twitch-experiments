@@ -378,19 +378,19 @@
 	},
 	"1233e3a4-d72f-48e5-b4b4-67856afdd7d5": {
 		"name": "ios_end_of_clips",
-		"v": 3457,
+		"v": 3467,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "no_autoplay"
 			},
 			{
-				"weight": 34,
+				"weight": 0,
 				"value": "autoplay"
 			}
 		]
