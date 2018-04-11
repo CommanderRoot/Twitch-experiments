@@ -5237,15 +5237,15 @@
 	},
 	"bf7566f3-241b-4ade-95d4-381a7e7dd390": {
 		"name": "android_wateb_6.0_release",
-		"v": 3459,
+		"v": 3499,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
