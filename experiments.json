@@ -2794,21 +2794,6 @@
 			}
 		]
 	},
-	"5fbc7acf-f2ad-4024-9f23-987e9a74093c": {
-		"name": "mobile_web_survey",
-		"v": 3348,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"5fd568be-2073-4f99-84d5-565e8b2a3343": {
 		"name": "TWILIGHT_AAX_DISPLAY",
 		"v": 3416,
@@ -6754,21 +6739,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"feb4fffb-c997-47f7-a2e4-25d463f125ba": {
-		"name": "mobile_web_muted_autoplay",
-		"v": 2942,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "treatment"
-			},
-			{
-				"weight": 50,
-				"value": "control"
 			}
 		]
 	},
