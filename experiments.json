@@ -982,19 +982,19 @@
 	},
 	"26f888ed-2688-44f8-a38a-10ee61e7857c": {
 		"name": "clips_strobe",
-		"v": 3100,
+		"v": 3488,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "variant1"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "variant2"
 			}
 		]
