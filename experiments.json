@@ -1,19 +1,4 @@
 {
-	"00266295-54c5-46e6-a8ca-84165b807c8f": {
-		"name": "mobile_web_aa",
-		"v": 3112,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "treatment"
-			},
-			{
-				"weight": 95,
-				"value": "control"
-			}
-		]
-	},
 	"00683bde-a79d-4b9d-a7cc-b0549f854d36": {
 		"name": "offline_recs",
 		"v": 1520,
@@ -132,21 +117,6 @@
 			{
 				"weight": 3,
 				"value": "b"
-			}
-		]
-	},
-	"06379cc6-3e00-4359-b1fa-e79850909226": {
-		"name": "mobile_web_aa90",
-		"v": 3140,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
-				"value": "treatment"
 			}
 		]
 	},
@@ -5969,21 +5939,6 @@
 			{
 				"weight": 0,
 				"value": "variant3"
-			}
-		]
-	},
-	"d9bc21e1-9cf9-4594-9b66-066eecfe0f7b": {
-		"name": "mobile_web_aa80",
-		"v": 3131,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 80,
-				"value": "control"
-			},
-			{
-				"weight": 20,
-				"value": "treatment"
 			}
 		]
 	},
