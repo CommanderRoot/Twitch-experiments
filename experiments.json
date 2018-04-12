@@ -5720,6 +5720,21 @@
 			}
 		]
 	},
+	"d1fe9a0a-e9f2-4450-ac57-4ff2eefa0dcf": {
+		"name": "twilight_get_bits_top_nav",
+		"v": 3506,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "treatment"
+			},
+			{
+				"weight": 95,
+				"value": "control"
+			}
+		]
+	},
 	"d22b1724-f9ba-4470-99ab-f3f193034394": {
 		"name": "ios_autoplay_feed_v5.9",
 		"v": 3310,
