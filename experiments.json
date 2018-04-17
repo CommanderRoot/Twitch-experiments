@@ -2841,15 +2841,15 @@
 	},
 	"60936fd6-ef0a-49f1-9421-712f2ba02513": {
 		"name": "TWILIGHT_DASHBOARD_SETTINGS_LAUNCH",
-		"v": 3529,
+		"v": 3530,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "no"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "yes"
 			}
 		]
