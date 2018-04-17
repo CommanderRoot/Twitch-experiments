@@ -4834,15 +4834,15 @@
 	},
 	"adaef0a3-ffca-4124-b3b8-0ae13c9dd562": {
 		"name": "ios_swifty_chromecast",
-		"v": 3512,
+		"v": 3532,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "disabled"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "enabled"
 			}
 		]
