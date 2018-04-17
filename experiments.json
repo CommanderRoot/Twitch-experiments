@@ -5284,6 +5284,21 @@
 			}
 		]
 	},
+	"bb2d1459-65c5-49df-a5a0-b1c76ff23a85": {
+		"name": "ios_chromecast_control_center",
+		"v": 3533,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "enabled"
+			}
+		]
+	},
 	"bb614c04-fce4-4abb-9686-a38022f4284e": {
 		"name": "ios_autoplay_browse",
 		"v": 3473,
