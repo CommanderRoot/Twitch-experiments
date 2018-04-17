@@ -5518,21 +5518,6 @@
 			}
 		]
 	},
-	"c54a638b-0db6-49ca-b513-345df41ca971": {
-		"name": "ios_avplayer_proxy",
-		"v": 3513,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "disabled"
-			},
-			{
-				"weight": 100,
-				"value": "enabled"
-			}
-		]
-	},
 	"c5b39c2e-17e2-4226-b59e-ba48d940a855": {
 		"name": "ios_native_bits_iap_onboarding",
 		"v": 2908,
