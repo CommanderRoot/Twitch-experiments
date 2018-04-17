@@ -824,15 +824,15 @@
 	},
 	"1f57c754-ceb2-40e4-8d49-c51cfc007f14": {
 		"name": "TWILIGHT_SUB_CHECKOUT",
-		"v": 3521,
+		"v": 3535,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "yes"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "no"
 			}
 		]
