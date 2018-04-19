@@ -3992,6 +3992,33 @@
 			}
 		]
 	},
+	"8e09e8c6-cea7-4afb-be62-9c9fdc8eedf7": {
+		"name": "Test-v1",
+		"v": 3548,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "variant1"
+			},
+			{
+				"weight": 5,
+				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "variant1"
+			},
+			{
+				"weight": 80,
+				"value": "disabled"
+			}
+		]
+	},
 	"8e15c9aa-bddc-4791-9a90-3df842c82f05": {
 		"name": "ios_end_of_clips_v6.1",
 		"v": 3470,
