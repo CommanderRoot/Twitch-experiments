@@ -2671,19 +2671,19 @@
 	},
 	"5c8e4a59-8c63-4000-9c4e-6224f34b7c21": {
 		"name": "twilight_web_onboarding_channel_surfing",
-		"v": 3185,
+		"v": 3549,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 34,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "chat"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "no_chat"
 			}
 		]
