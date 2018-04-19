@@ -4944,6 +4944,21 @@
 			}
 		]
 	},
+	"afcda2ba-dd12-4d9a-9428-df6a71104db8": {
+		"name": "new_homepage",
+		"v": 3556,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "experiment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"b0033638-a84e-4f57-8952-7115be4dc3b6": {
 		"name": "also_known_as",
 		"v": 749,
