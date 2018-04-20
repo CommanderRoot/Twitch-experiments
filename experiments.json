@@ -3274,6 +3274,33 @@
 			}
 		]
 	},
+	"728b6ff4-10f7-414e-abd7-acae0384ba20": {
+		"name": "android_videoplayer_r6_1_2",
+		"v": 3566,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "playercore"
+			},
+			{
+				"weight": 79,
+				"value": "exoplayer"
+			},
+			{
+				"weight": 1,
+				"value": "exoplayer_2"
+			},
+			{
+				"weight": 0,
+				"value": "native"
+			}
+		]
+	},
 	"72c14aa9-d78d-4095-8f27-d97b9aac4233": {
 		"name": "TWILIGHT_SUB_CHECKOUT_POPUP",
 		"v": 3022,
