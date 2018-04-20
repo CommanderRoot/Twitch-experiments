@@ -5677,19 +5677,19 @@
 	},
 	"ce512072-ab2b-4f44-892a-e203055d45da": {
 		"name": "clips_blessings",
-		"v": 3105,
+		"v": 3565,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 100,
 				"value": "variant1"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "variant2"
 			}
 		]
