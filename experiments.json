@@ -1364,6 +1364,21 @@
 			}
 		]
 	},
+	"326523fd-48bf-4043-9635-7bef334069e0": {
+		"name": "TWILIGHT_AUTOMOD_LAUNCH",
+		"v": 3570,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "true"
+			},
+			{
+				"weight": 100,
+				"value": "false"
+			}
+		]
+	},
 	"33a4ec99-5100-4831-b04a-f6a725c334f5": {
 		"name": "android_recently_watched",
 		"v": 330,
@@ -6529,16 +6544,12 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-		"v": 3558,
+		"v": 3569,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "2.4.3"
-			},
-			{
-				"weight": 1,
-				"value": "2.4.303"
 			}
 		]
 	},
