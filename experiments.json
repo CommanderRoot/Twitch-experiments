@@ -333,15 +333,15 @@
 	},
 	"0f2d4069-61a8-415a-9cf4-abe1cda6d43d": {
 		"name": "ios_app_badge_5.10.1",
-		"v": 3198,
+		"v": 3582,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "enabled"
 			}
 		]
