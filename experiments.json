@@ -2202,19 +2202,19 @@
 	},
 	"4ce15ce7-a4fc-40df-812d-847467f0572d": {
 		"name": "ios_mobile_promotions",
-		"v": 2867,
+		"v": 3588,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "active_first_tab"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_last_tab"
 			}
 		]
