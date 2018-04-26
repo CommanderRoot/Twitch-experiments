@@ -2130,12 +2130,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 3587,
+		"v": 3593,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-7ec657.sjc02.hls.ttvnw.net/v1/segment/ClCCMPnFe0Vllqm1o7Sci6l2VgofSyYfUiph5w7YtErTkJq1kt1BEwwt7WLXV5VH0tPDV-tCtN1u1O6PlMsotT-gD3m3CX897wG9FBSjQh0kph4vtUB6mHTc1aMR6j2wp_E11EbOCeU2l-rzZRDSfS3i_q_OfT6GYeYn1_ku1kifETGhDtxOgbG4xOHa7jE_YhsXzdr_dXCcvpWoBgOcsZ4RAyxxNKRvY7Uhj9EUY6a7Vuu25z5Ow4gsKQdaJFVwIbcyJlLDVxppIUudpH0JdyJk0NzOJIFVfGlICrg7Cv4NCw9kTuqvKRbiOl00sz4-S-rSvmjn2fxEyYP0efbVK8p9NdZI--8o89hZGkAyCpnIr-l23Y3jSM6AOJl7MShzDcKxt4-mevOdIQZGhh94lzNfME0rg_GMSxa4Sk8YelTRON9cxtRi_WT-E4GVhxaebltJQ7DsfN0ehnvONtmNxkZKKaWyrrxtvwBDOO3_46vYC0MNnJJgWIZcFeyTKDHqAI_-GuMiSIiEzE40qzQpZDX4.ts"
+				"value": "//video-edge-ed3c0f.sjc02.hls.ttvnw.net/v1/segment/ChJ87xxU5zioh1DmBgNVXqyJNALbVXINjtF3oR3CTv72sx2XH-gNuZyrpC4P7HqCjr7NUgBri0gbx2BDtEDqfxmbLjsWhYjfD9BNT7CUjfP20FKMcTo58yCVz7UsN6ghvRxAHe3s6gZymNDCukLJ0MDDgvfPYCPO9GGx6OumgkGPXaRkRJFssPsIzyXRvqTfwMx9QDQNPWV2JvQ0BDKL9qBSDrv1rpFx3ethFkw3e0jZYr9LfYHLxgQdsDPB6vRhBxS8gJi1nxHrRDDhOm1mAuL1vkaXdUwQvmtKsmA8tD1XXKb_0g_Xzke8DEdTvOOwa-ODAAhhOJVXUykZ-TImnoPFjb1JxhHrt-bHCJVr8l5jjO5K6snRcAK0PjmH73ozC1Ex46DD_eo7TODlPXPaahF0L8Rk20Q-Vv80_440BKYCrUJ25s1bFODRlGqwJk7tqfmOXV0axwgvXSIsJWZwo5Im-7U90bNxIGZIILoGsITx9UtTTWRmslkG4AiCc-Cb0P-AEIseDENGXmQehdEwumR.ts"
 			}
 		]
 	},
@@ -5176,15 +5176,15 @@
 	},
 	"b54f8797-2b35-4024-8a8c-0f2ef440e4fa": {
 		"name": "android_channel_deeplink_to_theatre",
-		"v": 3125,
+		"v": 3592,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
