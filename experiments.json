@@ -3319,6 +3319,21 @@
 			}
 		]
 	},
+	"72f2dac1-1fa4-48f1-adb2-081bc76cf953": {
+		"name": "ios_disable_manifest_expiration",
+		"v": 3605,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"7351db93-1494-464e-b019-b1d4a18da8ed": {
 		"name": "android_onboarding_1_1",
 		"v": 1799,
