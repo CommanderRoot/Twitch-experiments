@@ -3321,15 +3321,15 @@
 	},
 	"72f2dac1-1fa4-48f1-adb2-081bc76cf953": {
 		"name": "ios_disable_manifest_expiration",
-		"v": 3605,
+		"v": 3606,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active"
 			}
 		]
