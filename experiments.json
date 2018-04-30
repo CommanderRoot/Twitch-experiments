@@ -3645,15 +3645,15 @@
 	},
 	"7f165f9d-e0ef-4749-af62-98109b2ea888": {
 		"name": "ios_onboarding_channel_surfing_v6.2",
-		"v": 3472,
+		"v": 3618,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "channel_surfing"
 			}
 		]
