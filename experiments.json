@@ -5006,15 +5006,15 @@
 	},
 	"afcda2ba-dd12-4d9a-9428-df6a71104db8": {
 		"name": "twilight_new_homepage",
-		"v": 3563,
+		"v": 3637,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "experiment"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			}
 		]
