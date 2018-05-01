@@ -1682,15 +1682,15 @@
 	},
 	"3fc50829-31d6-449a-a757-7a3f44d77ab3": {
 		"name": "twilight_new_reporting_wizard",
-		"v": 3611,
+		"v": 3641,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "yes"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "no"
 			}
 		]
