@@ -2363,6 +2363,21 @@
 			}
 		]
 	},
+	"4f2ebce8-68ed-40a4-afb2-9db8fb09711d": {
+		"name": "vod_qos_model",
+		"v": 3653,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "control20"
+			}
+		]
+	},
 	"4f5c0aa5-292d-4ed3-9b2a-f9da6ea195f2": {
 		"name": "Resume Watching Banner",
 		"v": 320,
