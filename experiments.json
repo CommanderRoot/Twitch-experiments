@@ -4558,6 +4558,21 @@
 			}
 		]
 	},
+	"9a93c54d-a771-4dd6-ab25-02216c2d6c2a": {
+		"name": "twilight_pubg_filters",
+		"v": 3661,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"9acd1217-f98c-419a-b39a-0e7fb9e5f325": {
 		"name": "ios_pipboy_browse_ccus",
 		"v": 1544,
