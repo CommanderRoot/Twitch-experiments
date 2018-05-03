@@ -6315,15 +6315,15 @@
 	},
 	"e0fdfc17-389d-4ba5-8596-065352ddc01e": {
 		"name": "twilight_browser_notifications_upsell",
-		"v": 3590,
+		"v": 3659,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "yes"
 			}
 		]
