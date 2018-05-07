@@ -1456,7 +1456,7 @@
 	},
 	"3468778b-76fe-4cdf-add6-1be0dceea214": {
 		"name": "TWILIGHT_DASHBOARD_LIVE",
-		"v": 3689,
+		"v": 3693,
 		"t": 2,
 		"groups": [
 			{
@@ -1464,11 +1464,11 @@
 				"value": "disabled"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "twilight"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "ember"
 			}
 		]
