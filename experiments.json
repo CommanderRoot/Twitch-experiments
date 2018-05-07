@@ -5791,6 +5791,21 @@
 			}
 		]
 	},
+	"c9fb1ee5-b3ff-4bfb-9584-4412a8878f16": {
+		"name": "TWILIGHT_SUBS_AFFILIATE_BADGES",
+		"v": 3688,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "affiliate_access"
+			}
+		]
+	},
 	"ca305459-aec3-4d0c-b4e4-93d8cda54bba": {
 		"name": "DEMOGRAPHIC_STATS",
 		"v": 1839,
