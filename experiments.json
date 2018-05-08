@@ -4644,6 +4644,21 @@
 			}
 		]
 	},
+	"9c1c65b0-607c-497c-b89f-cd14e84f08d0": {
+		"name": "android_gdpr",
+		"v": 3703,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"9c843e59-0208-4c83-ae5a-620fb05508ef": {
 		"name": "ios_making_the_doughnuts",
 		"v": 1035,
