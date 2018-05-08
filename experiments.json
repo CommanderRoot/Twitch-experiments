@@ -4645,16 +4645,16 @@
 		]
 	},
 	"9c1c65b0-607c-497c-b89f-cd14e84f08d0": {
-		"name": "android_gdpr",
-		"v": 3703,
+		"name": "android_gdpr_track_personal_data",
+		"v": 3710,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
