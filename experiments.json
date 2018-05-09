@@ -167,15 +167,15 @@
 	},
 	"080c0331-3073-4539-992f-93274236a97d": {
 		"name": "TWILIGHT_PAY__SAVED_PAYMENT_METHODS",
-		"v": 3707,
+		"v": 3733,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "yes"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "no"
 			}
 		]
