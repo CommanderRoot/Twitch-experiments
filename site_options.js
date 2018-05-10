@@ -6864,7 +6864,7 @@
 		},
 		"eb66ec49-f377-4ad0-8d3e-7c3ecfafd8fa": {
 			"name": "android_videoplayer_r6_2_0",
-			"v": 3603,
+			"v": 3755,
 			"t": 1,
 			"groups": [
 				{
@@ -6872,11 +6872,11 @@
 					"value": "native"
 				},
 				{
-					"weight": 10,
+					"weight": 30,
 					"value": "control"
 				},
 				{
-					"weight": 10,
+					"weight": 30,
 					"value": "playercore"
 				},
 				{
@@ -6884,7 +6884,7 @@
 					"value": "exoplayer_2"
 				},
 				{
-					"weight": 70,
+					"weight": 30,
 					"value": "exoplayer"
 				}
 			]
@@ -6933,16 +6933,16 @@
 		},
 		"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 			"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-			"v": 3737,
+			"v": 3756,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 80,
 					"value": "2.5.1"
 				},
 				{
-					"weight": 50,
-					"value": "2.5.0"
+					"weight": 20,
+					"value": "2.5.3+rebuf2"
 				}
 			]
 		},
