@@ -5,8 +5,8 @@ const path = require('path'),
 	fs = require('ab-fs'),
 	request = require('ab-request');
 
-let file = path.resolve(__dirname, 'experiments.json'),
-	newData;
+let file = path.resolve(__dirname, 'experiments.json'), newData;
+let file2 = path.resolve(__dirname, 'site_options.js'), newData2;
 
 function getData() {
 	console.log('getData');
@@ -19,9 +19,29 @@ function getData() {
 	});
 }
 
+function getData2() {
+	console.log('getData2');
+	return request.body({
+		baseUrl: 'https://www.twitch.tv/',
+		url: 'site_options.js',
+		qs: {
+			v: Date.now()/1000
+		}
+	});
+}
+
+function removeJavascript(data) {
+	console.log('removeJavascript');
+	return data.replace(/(^window.SiteOptions = |;$)/g, '');
+}
+
 function setVariable(data) {
 	console.log('setVariable');
 	newData = JSON.stringify(data, null, '\t')
+}
+function setVariable2(data) {
+	console.log('setVariable2');
+	newData2 = JSON.stringify(data, null, '\t')
 }
 
 function checkAgainstOld() {
@@ -34,9 +54,24 @@ function checkAgainstOld() {
 	});
 }
 
+function checkAgainstOld2() {
+	console.log('checkAgainstOld2');
+	return fs.readFileUTF8(file2)
+	.then(data => {
+		if(data === newData2) {
+			throw false;
+		}
+	});
+}
+
 function saveNewData() {
 	console.log('saveNewData');
 	return fs.writeFile(file, newData);
+}
+
+function saveNewData2() {
+	console.log('saveNewData2');
+	return fs.writeFile(file2, newData2);
 }
 
 function exec(command, options) {
@@ -58,12 +93,24 @@ function updateToGithub() {
 		.then(out => console.log(out))
 	)
 	.then(() => exec('git add experiments.json'))
-	.then(() => exec('git commit -m "Update"'))
+	.then(() => exec('git commit -m "Update experiments.json"'))
+	.then(() => exec('git push'));
+}
+
+function updateToGithub2() {
+	console.log('updateToGithub2');
+	return Promise.resolve()
+	.then(() => exec('git diff --color site_options.js')
+		.then(out => console.log(out))
+	)
+	.then(() => exec('git add site_options.js'))
+	.then(() => exec('git commit -m "Update site_options.js"'))
 	.then(() => exec('git push'));
 }
 
 void function init() {
 	console.log('init');
+
 	console.time('time');
 	getData()
 	.then(JSON.parse)
@@ -73,4 +120,16 @@ void function init() {
 	.then(updateToGithub)
 	.catch(console.log.bind(console))
 	.then(() => console.timeEnd('time'));
+
+	console.time('time2');
+	getData2()
+	.then(removeJavascript)
+	.then(JSON.parse)
+	.then(setVariable2)
+	.then(checkAgainstOld2)
+	.then(saveNewData2)
+	.then(updateToGithub2)
+	.catch(console.log.bind(console))
+	.then(() => console.timeEnd('time2'));
+
 }();
