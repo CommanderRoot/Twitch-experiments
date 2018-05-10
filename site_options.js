@@ -5920,6 +5920,25 @@
 				}
 			]
 		},
+		"c5aad1ae-5be5-4a6c-8279-ecb3a0de10e9": {
+			"name": "twilight_vod_shoryuken",
+			"v": 3753,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 100,
+					"value": "control"
+				},
+				{
+					"weight": 0,
+					"value": "variant1"
+				},
+				{
+					"weight": 0,
+					"value": "variant2"
+				}
+			]
+		},
 		"c5b39c2e-17e2-4226-b59e-ba48d940a855": {
 			"name": "ios_native_bits_iap_onboarding",
 			"v": 2908,
