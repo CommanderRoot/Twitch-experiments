@@ -3497,6 +3497,21 @@
 				}
 			]
 		},
+		"6f35b29f-bedf-4023-8002-652a308ee963": {
+			"name": "REMOVE_DASHBOARD_STATS_AND_REVENUE",
+			"v": 3758,
+			"t": 1,
+			"groups": [
+				{
+					"weight": 0,
+					"value": "yes"
+				},
+				{
+					"weight": 100,
+					"value": "no"
+				}
+			]
+		},
 		"6f822381-f41d-445e-bf88-36fb9095a7b5": {
 			"name": "twilight_v_ember",
 			"v": 3139,
