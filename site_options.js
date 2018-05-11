@@ -2529,11 +2529,11 @@
 		},
 		"4f2ebce8-68ed-40a4-afb2-9db8fb09711d": {
 			"name": "vod_qos_model",
-			"v": 3760,
+			"v": 3772,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 70,
+					"weight": 60,
 					"value": "control"
 				},
 				{
@@ -2547,6 +2547,10 @@
 				{
 					"weight": 10,
 					"value": "open_asia"
+				},
+				{
+					"weight": 10,
+					"value": "poisson_v1"
 				}
 			]
 		},
