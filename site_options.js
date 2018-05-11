@@ -2529,16 +2529,24 @@
 		},
 		"4f2ebce8-68ed-40a4-afb2-9db8fb09711d": {
 			"name": "vod_qos_model",
-			"v": 3653,
+			"v": 3760,
 			"t": 1,
 			"groups": [
 				{
-					"weight": 80,
+					"weight": 70,
 					"value": "control"
 				},
 				{
-					"weight": 20,
-					"value": "control20"
+					"weight": 10,
+					"value": "control10"
+				},
+				{
+					"weight": 10,
+					"value": "business_logic_reverse"
+				},
+				{
+					"weight": 10,
+					"value": "open_asia"
 				}
 			]
 		},
@@ -5808,15 +5816,15 @@
 		},
 		"c2a121ef-cd70-423f-8e65-de028477a140": {
 			"name": "ios_profile_redesign_tab_reorder",
-			"v": 3197,
+			"v": 3763,
 			"t": 2,
 			"groups": [
 				{
-					"weight": 50,
+					"weight": 0,
 					"value": "control"
 				},
 				{
-					"weight": 50,
+					"weight": 100,
 					"value": "enabled"
 				}
 			]
