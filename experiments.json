@@ -4669,15 +4669,15 @@
 	},
 	"9a93c54d-a771-4dd6-ab25-02216c2d6c2a": {
 		"name": "twilight_pubg_filters",
-		"v": 3661,
+		"v": 3780,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 95,
 				"value": "variant"
 			}
 		]
