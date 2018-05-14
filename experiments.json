@@ -5849,19 +5849,19 @@
 	},
 	"c5aad1ae-5be5-4a6c-8279-ecb3a0de10e9": {
 		"name": "twilight_vod_shoryuken",
-		"v": 3773,
+		"v": 3785,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "variant1"
 			},
 			{
-				"weight": 100,
+				"weight": 98,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "variant2"
 			}
 		]
