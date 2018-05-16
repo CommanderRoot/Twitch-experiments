@@ -3426,15 +3426,15 @@
 	},
 	"6f35b29f-bedf-4023-8002-652a308ee963": {
 		"name": "TWILIGHT_REMOVE_DASHBOARD_STATS_AND_REVENUE",
-		"v": 3759,
+		"v": 3810,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "yes"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "no"
 			}
 		]
