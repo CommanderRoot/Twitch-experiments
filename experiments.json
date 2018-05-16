@@ -2686,6 +2686,21 @@
 			}
 		]
 	},
+	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
+		"name": "live_qos_model",
+		"v": 3809,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "control10"
+			}
+		]
+	},
 	"54b18ea6-2b6a-4ed7-9128-2497572d31e2": {
 		"name": "twilight_web_onboarding_following_for_you",
 		"v": 2919,
