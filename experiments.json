@@ -884,19 +884,15 @@
 	},
 	"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
 		"name": "android_chromecast_player_core",
-		"v": 3812,
+		"v": 3815,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
-				"value": "player_core"
-			},
-			{
-				"weight": 5,
+				"weight": 100,
 				"value": "player_core"
 			}
 		]
