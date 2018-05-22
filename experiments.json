@@ -3432,6 +3432,21 @@
 			}
 		]
 	},
+	"7058f60c-4817-4781-9ab5-6907e0b9c234": {
+		"name": "vod_pop",
+		"v": 3842,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment"
+			}
+		]
+	},
 	"711aaaf6-61c0-4cc4-9469-0dfc9908785a": {
 		"name": "VP_QOS_TEST",
 		"v": 819,
