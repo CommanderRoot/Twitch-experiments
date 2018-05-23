@@ -3634,19 +3634,19 @@
 	},
 	"76a67969-399d-44c3-ad37-f726a10bf54d": {
 		"name": "android_end_of_clips",
-		"v": 3456,
+		"v": 3847,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "recommendations"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "autoplay"
 			}
 		]
