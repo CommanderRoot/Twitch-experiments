@@ -3414,6 +3414,21 @@
 			}
 		]
 	},
+	"6fff56b3-f76e-47d9-bd4d-ad1b1bd03fff": {
+		"name": "ios_airplay_seek_fix",
+		"v": 3857,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"6fffb6c6-19d4-4172-980f-498079d99b9c": {
 		"name": "Overwatch Directory Filter",
 		"v": 2181,
