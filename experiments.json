@@ -3446,15 +3446,15 @@
 	},
 	"7058f60c-4817-4781-9ab5-6907e0b9c234": {
 		"name": "vod_pop",
-		"v": 3868,
+		"v": 3870,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 100,
 				"value": "experiment"
 			}
 		]
