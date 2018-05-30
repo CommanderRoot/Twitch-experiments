@@ -7210,15 +7210,15 @@
 	},
 	"f75ab09d-daf7-46db-bdd5-bb5a2f413cf7": {
 		"name": "twilight_clips_on_the_brain",
-		"v": 3876,
+		"v": 3877,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "variant1"
 			}
 		]
