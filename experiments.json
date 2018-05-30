@@ -3043,15 +3043,15 @@
 	},
 	"633fce9b-1bb8-49ea-886a-52e91a1b4575": {
 		"name": "ios_clips_sleepy_time",
-		"v": 3873,
+		"v": 3880,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "sleepy"
 			}
 		]
@@ -5168,15 +5168,15 @@
 	},
 	"add0c209-b45c-4ea5-b6f8-96a3d9e85699": {
 		"name": "android_clips_sleepy_time",
-		"v": 3872,
+		"v": 3879,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "sleepy"
 			}
 		]
