@@ -3461,19 +3461,15 @@
 	},
 	"70a03c8f-25cf-4bd0-bdcf-ba1459727023": {
 		"name": "TWILIGHT_PLS_RAID_MORE",
-		"v": 3890,
+		"v": 3892,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "yes"
+				"value": "test"
 			},
 			{
-				"weight": 50,
-				"value": "no"
-			},
-			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			}
 		]
