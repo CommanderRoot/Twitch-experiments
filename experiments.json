@@ -474,6 +474,21 @@
 			}
 		]
 	},
+	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
+		"name": "enable_live_sorting",
+		"v": 3919,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "control10"
+			}
+		]
+	},
 	"1710cf57-352c-4d09-b2c1-3d40bdf79b30": {
 		"name": "vod_upload_units_v3",
 		"v": 834,
@@ -4697,15 +4712,15 @@
 	},
 	"9a93c54d-a771-4dd6-ab25-02216c2d6c2a": {
 		"name": "twilight_pubg_filters",
-		"v": 3780,
+		"v": 3918,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
