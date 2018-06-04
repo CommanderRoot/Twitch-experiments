@@ -780,21 +780,6 @@
 			}
 		]
 	},
-	"1e406d0d-c293-4c4e-812f-049db8c7e3ec": {
-		"name": "vod_upload_units",
-		"v": 3913,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "experiment"
-			}
-		]
-	},
 	"1e899717-a0a8-4922-b0e7-bb6d71e4ed20": {
 		"name": "android_mobile_promotions",
 		"v": 3589,
