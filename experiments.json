@@ -882,6 +882,25 @@
 			}
 		]
 	},
+	"20253846-f6eb-4268-b228-2178e33e1c2e": {
+		"name": "ios_native_login",
+		"v": 3933,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_with_verification"
+			}
+		]
+	},
 	"21084181-ee54-486d-8eb2-09a317143a8e": {
 		"name": "pushy_notifications_fatigue_v2",
 		"v": 3930,
