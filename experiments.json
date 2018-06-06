@@ -476,16 +476,24 @@
 	},
 	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
 		"name": "enable_live_sorting",
-		"v": 3919,
+		"v": 3943,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 88,
 				"value": "control"
 			},
 			{
 				"weight": 10,
 				"value": "control10"
+			},
+			{
+				"weight": 1,
+				"value": "control1"
+			},
+			{
+				"weight": 1,
+				"value": "enable"
 			}
 		]
 	},
