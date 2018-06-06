@@ -7312,6 +7312,21 @@
 			}
 		]
 	},
+	"fa443b30-d363-4978-a831-14c653eb6f41": {
+		"name": "TWILIGHT_AD_DENSITY_WIDGET",
+		"v": 3940,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "yes"
+			},
+			{
+				"weight": 5,
+				"value": "no"
+			}
+		]
+	},
 	"fa99a372-3bd3-422d-8937-4de546931a37": {
 		"name": "directory_events_suggestions",
 		"v": 1529,
