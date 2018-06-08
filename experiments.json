@@ -911,15 +911,15 @@
 	},
 	"21084181-ee54-486d-8eb2-09a317143a8e": {
 		"name": "pushy_notifications_fatigue_v2",
-		"v": 3955,
+		"v": 3960,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -4639,6 +4639,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"984a3442-3ed6-43ce-a483-6c3b8a9861f0": {
+		"name": "ios_dashboard_with_activity_feed",
+		"v": 3961,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
 			}
 		]
 	},
