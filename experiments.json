@@ -4844,15 +4844,15 @@
 	},
 	"9ba74270-ecf4-466d-b04e-f66b9883d632": {
 		"name": "TWILIGHT_WORLD_CUP_EVENT_SETTINGS",
-		"v": 3937,
+		"v": 3973,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
