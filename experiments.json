@@ -476,7 +476,7 @@
 	},
 	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
 		"name": "enable_live_sorting",
-		"v": 3954,
+		"v": 3982,
 		"t": 1,
 		"groups": [
 			{
@@ -493,7 +493,7 @@
 			},
 			{
 				"weight": 1,
-				"value": "enable_dl_only"
+				"value": "enable"
 			}
 		]
 	},
