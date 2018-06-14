@@ -76,7 +76,7 @@
 	},
 	"03f25f55-ded6-417a-b241-d656571c4a1f": {
 		"name": "twilight_watch_symmetra",
-		"v": 3510,
+		"v": 3999,
 		"t": 1,
 		"groups": [
 			{
@@ -1720,7 +1720,7 @@
 	},
 	"3f03eebb-3cbb-4f7c-b64b-e1ed0115a773": {
 		"name": "twilight_watch_winston",
-		"v": 3511,
+		"v": 3998,
 		"t": 1,
 		"groups": [
 			{
@@ -3136,6 +3136,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"647bfc96-3fc6-4f5e-ab95-38c4eab60830": {
+		"name": "twilight_watch_sombra",
+		"v": 3997,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "off"
+			},
+			{
+				"weight": 0,
+				"value": "on"
 			}
 		]
 	},
