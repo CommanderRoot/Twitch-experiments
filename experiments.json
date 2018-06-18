@@ -5096,15 +5096,15 @@
 	},
 	"a451e1bd-07af-443f-ade7-9e7dcdf8e9a8": {
 		"name": "pushy_device_token_pruning",
-		"v": 4018,
+		"v": 4022,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
