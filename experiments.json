@@ -6428,15 +6428,15 @@
 	},
 	"d1fe9a0a-e9f2-4450-ac57-4ff2eefa0dcf": {
 		"name": "twilight_get_bits_top_nav",
-		"v": 3869,
+		"v": 4017,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "treatment"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			}
 		]
