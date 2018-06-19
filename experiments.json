@@ -6737,15 +6737,15 @@
 	},
 	"db6dc127-b372-48fe-9d8b-493ea6c51c57": {
 		"name": "twilight_preview_card_iconic_images",
-		"v": 3980,
+		"v": 4031,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "boxart"
 			}
 		]
