@@ -5782,15 +5782,15 @@
 	},
 	"ba44e8c9-0beb-4982-b48f-87457bfa962c": {
 		"name": "twilight_extensions_discovery_release",
-		"v": 4020,
+		"v": 4029,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "off"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "on"
 			}
 		]
