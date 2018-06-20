@@ -1857,6 +1857,21 @@
 			}
 		]
 	},
+	"40f4fd80-86ca-44f4-9abc-0324d24908bc": {
+		"name": "TWILIGHT_RAID_UPSELL",
+		"v": 4051,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "test"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"414161d0-ddc1-449f-8c22-d42cbeb77a91": {
 		"name": "android_live_tab_v5.6",
 		"v": 3040,
