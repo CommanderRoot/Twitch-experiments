@@ -3769,6 +3769,21 @@
 			}
 		]
 	},
+	"784edc9a-06c1-4b4a-98cd-b55458dea164": {
+		"name": "ios_gdpr_user_consent_kill_switch",
+		"v": 4044,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"7889f422-980d-4df3-8c99-02e6d0367445": {
 		"name": "android_channel_specific_notifications",
 		"v": 2397,
