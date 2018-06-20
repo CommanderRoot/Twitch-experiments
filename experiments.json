@@ -1226,6 +1226,21 @@
 			}
 		]
 	},
+	"29f1bdd3-58a1-439d-be0a-4953c086ecef": {
+		"name": "ios_chat_rules",
+		"v": 4049,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			}
+		]
+	},
 	"2b5c426e-3b29-4bad-a4be-5f8bea3ad8af": {
 		"name": "baking_bread_j",
 		"v": 2771,
@@ -3543,21 +3558,6 @@
 			{
 				"weight": 100,
 				"value": "experiment"
-			}
-		]
-	},
-	"70a03c8f-25cf-4bd0-bdcf-ba1459727023": {
-		"name": "TWILIGHT_RAID_UPSELL",
-		"v": 3977,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "test"
-			},
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
