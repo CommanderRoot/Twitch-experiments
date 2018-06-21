@@ -6569,29 +6569,6 @@
 			}
 		]
 	},
-	"d48fe249-fd73-4c8f-bd17-415b70dc3708": {
-		"name": "chomperz",
-		"v": 1964,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 2,
-				"value": "skipcontrol"
-			},
-			{
-				"weight": 0,
-				"value": "skip15"
-			},
-			{
-				"weight": 3,
-				"value": "skip5"
-			},
-			{
-				"weight": 95,
-				"value": "holdout"
-			}
-		]
-	},
 	"d51e556e-b8c8-4bdd-bc69-7acb169849da": {
 		"name": "android_playercore_8",
 		"v": 1786,
