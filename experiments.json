@@ -3991,21 +3991,6 @@
 			}
 		]
 	},
-	"7e81d1d7-80a5-4eef-8828-185256ed2c0b": {
-		"name": "ios_airplay_playback_interruption_avqueueplayer_workaround",
-		"v": 3883,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "enabled"
-			}
-		]
-	},
 	"7ecd2720-5df0-4111-8060-58335f050866": {
 		"name": "ios_native_subs_iap",
 		"v": 2888,
