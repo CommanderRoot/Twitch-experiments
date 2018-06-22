@@ -4738,7 +4738,7 @@
 	},
 	"984a3442-3ed6-43ce-a483-6c3b8a9861f0": {
 		"name": "ios_dashboard_with_activity_feed",
-		"v": 3961,
+		"v": 4066,
 		"t": 1,
 		"groups": [
 			{
@@ -4747,7 +4747,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "enabled"
+				"value": "enabled_v6.6_and_later"
 			}
 		]
 	},
