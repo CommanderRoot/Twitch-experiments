@@ -2130,15 +2130,15 @@
 	},
 	"49083595-80d4-4c13-93a2-20a605b3318e": {
 		"name": "Player Core WASM experiment",
-		"v": 4060,
+		"v": 4071,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "wasm"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "asmjs"
 			}
 		]
