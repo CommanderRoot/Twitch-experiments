@@ -508,6 +508,37 @@
 			}
 		]
 	},
+	"164332c9-759a-46f5-92de-63d43ff2fd35": {
+		"name": "twilight_web_side_nav_upsell_center_channels",
+		"v": 4088,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "learn"
+			},
+			{
+				"weight": 0,
+				"value": "support"
+			},
+			{
+				"weight": 0,
+				"value": "liveup"
+			},
+			{
+				"weight": 0,
+				"value": "rec"
+			},
+			{
+				"weight": 0,
+				"value": "bullet"
+			}
+		]
+	},
 	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
 		"name": "enable_live_sorting",
 		"v": 4033,
