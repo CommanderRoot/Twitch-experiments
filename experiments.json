@@ -2881,21 +2881,6 @@
 			}
 		]
 	},
-	"59c5198b-ea6d-423d-b337-ea93d0dc8d66": {
-		"name": "TWILIGHT_LEEROY_JENKINS",
-		"v": 2282,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
-				"value": "no"
-			}
-		]
-	},
 	"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 		"name": "aml_ranking_follows",
 		"v": 4106,
@@ -3574,21 +3559,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"6f35b29f-bedf-4023-8002-652a308ee963": {
-		"name": "TWILIGHT_REMOVE_DASHBOARD_STATS_AND_REVENUE",
-		"v": 3810,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
-				"value": "no"
 			}
 		]
 	},
@@ -7520,21 +7490,6 @@
 			{
 				"weight": 0,
 				"value": "alphabetical_sort"
-			}
-		]
-	},
-	"f866f89d-85de-4a5b-9b00-d97c791bc16d": {
-		"name": "TWILIGHT_RAID_AUTO_JOIN",
-		"v": 3413,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
-				"value": "no"
 			}
 		]
 	},
