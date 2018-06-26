@@ -1704,21 +1704,6 @@
 			}
 		]
 	},
-	"3886e2be-85fd-43a4-84b9-02024290026a": {
-		"name": "TWITCH_RAID_PROMO",
-		"v": 2335,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "yes"
-			},
-			{
-				"weight": 10,
-				"value": "no"
-			}
-		]
-	},
 	"395edcd7-3a9e-4693-8162-eec4252e731f": {
 		"name": "almanac_vod_rtqos",
 		"v": 2857,
