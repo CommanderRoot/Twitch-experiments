@@ -3324,6 +3324,21 @@
 			}
 		]
 	},
+	"67073a66-8131-41e0-acf1-73a9ec14f3f1": {
+		"name": "ios_airplay_reset_fix",
+		"v": 4111,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "enabled"
+			}
+		]
+	},
 	"67118dd1-5594-41af-80e8-420571737679": {
 		"name": "android_profile_tab_order",
 		"v": 3771,
