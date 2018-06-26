@@ -2678,16 +2678,36 @@
 	},
 	"51efc82d-cfe8-42bd-ae4b-9304112ed9df": {
 		"name": "twilight_vod_provocateur",
-		"v": 4087,
+		"v": 4105,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 3,
 				"value": "variant1"
+			},
+			{
+				"weight": 3,
+				"value": "variant4"
+			},
+			{
+				"weight": 3,
+				"value": "variant5"
+			},
+			{
+				"weight": 3,
+				"value": "variant6"
+			},
+			{
+				"weight": 9,
+				"value": "variant7"
+			},
+			{
+				"weight": 9,
+				"value": "variant8"
 			}
 		]
 	},
@@ -2882,12 +2902,12 @@
 	},
 	"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 		"name": "aml_ranking_follows",
-		"v": 3278,
+		"v": 4106,
 		"t": 2,
 		"s": 3,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -2907,7 +2927,7 @@
 				"value": "just_one"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "complete"
 			}
 		]
