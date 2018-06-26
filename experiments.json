@@ -3422,6 +3422,21 @@
 			}
 		]
 	},
+	"68e81235-d069-4c70-b8b4-22a5a9719a50": {
+		"name": "bf_recs_test",
+		"v": 4107,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "bf_legacy"
+			},
+			{
+				"weight": 50,
+				"value": "bf_recs"
+			}
+		]
+	},
 	"697896b3-a4b9-4c00-a1a2-7fa35ec9a8e4": {
 		"name": "pushy_notifications_disable",
 		"v": 3420,
