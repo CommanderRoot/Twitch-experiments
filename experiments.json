@@ -423,7 +423,7 @@
 	},
 	"10c75b60-f4c7-460b-99c8-e5caa22fd61f": {
 		"name": "twilight_web_side_nav_upsell_center",
-		"v": 4039,
+		"v": 4096,
 		"t": 1,
 		"groups": [
 			{
@@ -556,28 +556,16 @@
 	},
 	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
 		"name": "enable_live_sorting",
-		"v": 4033,
+		"v": 4095,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 78,
-				"value": "control"
-			},
-			{
-				"weight": 10,
-				"value": "control10"
-			},
-			{
-				"weight": 1,
-				"value": "control1"
-			},
-			{
-				"weight": 10,
+				"weight": 50,
 				"value": "enable"
 			},
 			{
-				"weight": 1,
-				"value": "control1b"
+				"weight": 50,
+				"value": "control50"
 			}
 		]
 	},
