@@ -6360,19 +6360,19 @@
 	},
 	"cedb939e-3bea-49aa-a666-a6f2f599664d": {
 		"name": "ios_big_goku",
-		"v": 4120,
+		"v": 4122,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 45,
+				"weight": 50,
 				"value": "treatment"
 			},
 			{
-				"weight": 45,
+				"weight": 50,
 				"value": "collection"
 			}
 		]
