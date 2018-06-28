@@ -4465,15 +4465,15 @@
 	},
 	"8e177f68-71cc-491c-96f5-35e25db2b61d": {
 		"name": "twilight_native_login",
-		"v": 4082,
+		"v": 4128,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "variant"
 			}
 		]
@@ -7362,15 +7362,15 @@
 	},
 	"f3920cff-ef57-46c9-8dd9-b4f145acf6e5": {
 		"name": "twilight_discovery_frontpage_mvp",
-		"v": 4084,
+		"v": 4127,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 95,
 				"value": "variant"
 			}
 		]
