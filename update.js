@@ -32,7 +32,7 @@ function getData2() {
 
 function removeJavascript(data) {
 	console.log('removeJavascript');
-	return data.replace(/(^window.SiteOptions = |;$)/g, '');
+	return data.replace(/(^window.SiteOptions = )/g, '').replace(/(;(\s+)?$)/g, '');
 }
 
 function setVariable(data) {
@@ -121,6 +121,7 @@ void function init() {
 	.catch(console.log.bind(console))
 	.then(() => console.timeEnd('time'));
 
+	/*
 	console.time('time2');
 	getData2()
 	.then(removeJavascript)
@@ -131,5 +132,6 @@ void function init() {
 	.then(updateToGithub2)
 	.catch(console.log.bind(console))
 	.then(() => console.timeEnd('time2'));
+	*/
 
 }();
