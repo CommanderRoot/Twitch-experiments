@@ -1850,6 +1850,25 @@
 			}
 		]
 	},
+	"3fc50c9d-2d0b-4e78-a99f-d0808a7aac7b": {
+		"name": "ios_finish_it",
+		"v": 4145,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "above_hosting"
+			},
+			{
+				"weight": 0,
+				"value": "below_hosting"
+			}
+		]
+	},
 	"3fc5b1e2-5580-464e-bc32-21d07a4a1df8": {
 		"name": "android_enable_rooms",
 		"v": 2386,
