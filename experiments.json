@@ -6695,6 +6695,21 @@
 			}
 		]
 	},
+	"d69601e2-1fa4-4602-9d80-38086b0b05c4": {
+		"name": "choose_pop_first",
+		"v": 4159,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"d6ba259c-3f82-48ac-b158-bf4760fc864b": {
 		"name": "android_playercore_6",
 		"v": 1596,
