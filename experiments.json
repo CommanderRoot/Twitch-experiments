@@ -4819,15 +4819,15 @@
 	},
 	"984a3442-3ed6-43ce-a483-6c3b8a9861f0": {
 		"name": "ios_dashboard_with_activity_feed",
-		"v": 4066,
+		"v": 4157,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "enabled_v6.6_and_later"
 			}
 		]
