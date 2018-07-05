@@ -6716,16 +6716,12 @@
 	},
 	"d69601e2-1fa4-4602-9d80-38086b0b05c4": {
 		"name": "choose_pop_first",
-		"v": 4159,
+		"v": 4167,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": ""
 			}
 		]
 	},
