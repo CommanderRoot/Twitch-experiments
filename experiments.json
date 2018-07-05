@@ -6036,15 +6036,15 @@
 	},
 	"bf00cae3-c729-4ff9-816c-f9ede2f69f02": {
 		"name": "twilight_vod_used_to_this",
-		"v": 4171,
+		"v": 4174,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "variant1"
 			}
 		]
@@ -6716,15 +6716,15 @@
 	},
 	"d69601e2-1fa4-4602-9d80-38086b0b05c4": {
 		"name": "choose_pop_first",
-		"v": 4169,
+		"v": 4173,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "enable"
 			}
 		]
