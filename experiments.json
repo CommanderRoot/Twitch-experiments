@@ -4519,15 +4519,15 @@
 	},
 	"8e177f68-71cc-491c-96f5-35e25db2b61d": {
 		"name": "twilight_native_login",
-		"v": 4142,
+		"v": 4184,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
