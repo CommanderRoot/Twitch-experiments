@@ -423,15 +423,15 @@
 	},
 	"10c75b60-f4c7-460b-99c8-e5caa22fd61f": {
 		"name": "twilight_web_side_nav_upsell_center",
-		"v": 4110,
+		"v": 4183,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "yes"
 			}
 		]
