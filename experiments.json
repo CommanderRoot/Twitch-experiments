@@ -203,6 +203,21 @@
 			}
 		]
 	},
+	"096252ea-5fc8-43c1-868a-d5c686b11742": {
+		"name": "ios_web_login_disable_implicit_flow",
+		"v": 4193,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"099f5ff5-819d-4927-a1c4-8c9061545ac6": {
 		"name": "TWILIGHT_VOD_VOLTRON",
 		"v": 4091,
