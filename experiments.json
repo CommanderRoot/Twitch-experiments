@@ -76,7 +76,7 @@
 	},
 	"03f25f55-ded6-417a-b241-d656571c4a1f": {
 		"name": "twilight_watch_symmetra",
-		"v": 3999,
+		"v": 4191,
 		"t": 1,
 		"groups": [
 			{
@@ -86,6 +86,14 @@
 			{
 				"weight": 0,
 				"value": "on"
+			},
+			{
+				"weight": 0,
+				"value": "variant_a"
+			},
+			{
+				"weight": 0,
+				"value": "variant_b"
 			}
 		]
 	},
