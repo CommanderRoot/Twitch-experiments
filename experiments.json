@@ -280,15 +280,15 @@
 	},
 	"0ca9c0f5-f9fc-40c6-be3f-52a9fa69a8b9": {
 		"name": "twilight_animated_directory_thumbnails",
-		"v": 3227,
+		"v": 4192,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "experiment"
 			}
 		]
