@@ -5270,6 +5270,21 @@
 			}
 		]
 	},
+	"a36b2c77-e7ab-4836-8f8b-0a0bc6a23bf3": {
+		"name": "ios_tag_along",
+		"v": 4202,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"a39cd18b-c3fb-46ad-a6a8-0c2e8686d978": {
 		"name": "clips_teach_me",
 		"v": 1859,
