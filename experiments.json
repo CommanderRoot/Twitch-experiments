@@ -7681,19 +7681,19 @@
 	},
 	"f8348703-2a66-4016-bc73-02273ef8fe77": {
 		"name": "ios_voffline_sort",
-		"v": 3991,
+		"v": 4204,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 33,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "video_count_sort"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "alphabetical_sort"
 			}
 		]
