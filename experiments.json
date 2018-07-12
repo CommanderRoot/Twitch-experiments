@@ -3247,6 +3247,21 @@
 			}
 		]
 	},
+	"635c1961-3efe-444b-8b40-94b96e64abac": {
+		"name": "video_edge_reassignment",
+		"v": 4214,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"64207922-aa6c-475e-b53d-84ce535d0d04": {
 		"name": "ios_chomments_v2",
 		"v": 1730,
