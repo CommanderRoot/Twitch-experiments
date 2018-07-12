@@ -514,15 +514,15 @@
 	},
 	"158b4a89-454f-496c-aa2d-646886c43ec4": {
 		"name": "ios_discover",
-		"v": 4104,
+		"v": 4209,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "enabled_6.4_and_later"
 			},
 			{
@@ -6481,6 +6481,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"cc8f3a72-0b42-4f44-88ab-c63fd6211e97": {
+		"name": "TWILIGHT_VOD_LINNAEUS",
+		"v": 4210,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "on"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
