@@ -579,11 +579,11 @@
 	},
 	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
 		"name": "enable_live_sorting",
-		"v": 4221,
+		"v": 4235,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 88,
+				"weight": 69,
 				"value": "control"
 			},
 			{
@@ -595,12 +595,16 @@
 				"value": "control5"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "russia"
 			},
 			{
 				"weight": 1,
 				"value": "control1"
+			},
+			{
+				"weight": 10,
+				"value": "control10"
 			}
 		]
 	},
