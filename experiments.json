@@ -1421,6 +1421,21 @@
 			}
 		]
 	},
+	"2daa3d46-bdf8-484a-8e42-022906b1699f": {
+		"name": "android_tag_along",
+		"v": 4232,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"2e0cb30b-7aaa-4e01-9fdd-b7046605b41f": {
 		"name": "Mobile Web Chat Experiment",
 		"v": 1178,
