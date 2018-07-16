@@ -3753,6 +3753,21 @@
 			}
 		]
 	},
+	"729ce2e7-e410-4755-9875-1fb437191d7c": {
+		"name": "recommended_carousel_backfill",
+		"v": 4234,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "LEGACY"
+			},
+			{
+				"weight": 0,
+				"value": "LIVERECS"
+			}
+		]
+	},
 	"72c14aa9-d78d-4095-8f27-d97b9aac4233": {
 		"name": "TWILIGHT_SUB_CHECKOUT_POPUP",
 		"v": 3022,
