@@ -59,6 +59,25 @@
 			}
 		]
 	},
+	"022cf7ca-3dcc-4a29-b2ee-c220ada8bc2e": {
+		"name": "ios_new_followed_screen",
+		"v": 4243,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_forced"
+			}
+		]
+	},
 	"0238d763-05ee-4d27-ba3f-0b7d45346102": {
 		"name": "android_spade_batching_v2",
 		"v": 2916,
