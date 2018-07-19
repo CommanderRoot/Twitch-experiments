@@ -582,31 +582,31 @@
 	},
 	"164332c9-759a-46f5-92de-63d43ff2fd35": {
 		"name": "twilight_web_side_nav_upsell_center_channels",
-		"v": 4088,
+		"v": 4256,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 16,
 				"value": "learn"
 			},
 			{
-				"weight": 0,
+				"weight": 16,
 				"value": "support"
 			},
 			{
-				"weight": 0,
+				"weight": 16,
 				"value": "liveup"
 			},
 			{
-				"weight": 0,
+				"weight": 16,
 				"value": "rec"
 			},
 			{
-				"weight": 0,
+				"weight": 16,
 				"value": "bullet"
 			}
 		]
