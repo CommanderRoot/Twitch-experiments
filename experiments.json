@@ -7840,15 +7840,16 @@
 	},
 	"fa443b30-d363-4978-a831-14c653eb6f41": {
 		"name": "TWILIGHT_AD_DENSITY_WIDGET",
-		"v": 3940,
+		"v": 4284,
 		"t": 3,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "yes"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "no"
 			}
 		]
