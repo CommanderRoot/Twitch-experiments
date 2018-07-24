@@ -4434,6 +4434,21 @@
 			}
 		]
 	},
+	"88c6dc9d-eb3c-4763-966d-e5537e78af50": {
+		"name": "xarth_debug_menu_whitelisted_users",
+		"v": 4292,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "175711974"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"8a1fbb7b-4b26-4d3c-8ad6-bbfeb72831f8": {
 		"name": "VODS_IN_CAROUSEL_EXPERIMENT",
 		"v": 1855,
