@@ -3566,6 +3566,21 @@
 			}
 		]
 	},
+	"699d4aa7-30e1-4eac-9fae-25c7ced3e58a": {
+		"name": "ios_broadcast_categories",
+		"v": 4299,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "classic"
+			},
+			{
+				"weight": 0,
+				"value": "new"
+			}
+		]
+	},
 	"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
 		"name": "rtqos",
 		"v": 3701,
