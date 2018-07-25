@@ -3203,16 +3203,16 @@
 	},
 	"6147aed8-6beb-4c24-a00b-a9ec189a4c1d": {
 		"name": "twilight_channel_analytics_content_overlap_panels",
-		"v": 4136,
+		"v": 4301,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "no"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "yes"
 			}
 		]
