@@ -6959,6 +6959,21 @@
 			}
 		]
 	},
+	"d5d09c71-530f-430b-a55a-4bb5c84ce977": {
+		"name": "ios_chat_input_emotes",
+		"v": 4327,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			}
+		]
+	},
 	"d5d96231-332d-4538-92c5-bdadbf938201": {
 		"name": "mobile_web_branch",
 		"v": 3979,
