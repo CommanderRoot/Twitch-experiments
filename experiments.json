@@ -5388,15 +5388,15 @@
 	},
 	"a36b2c77-e7ab-4836-8f8b-0a0bc6a23bf3": {
 		"name": "ios_tag_along",
-		"v": 4202,
+		"v": 4334,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
