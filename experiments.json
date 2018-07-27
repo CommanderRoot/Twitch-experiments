@@ -146,6 +146,21 @@
 			}
 		]
 	},
+	"05dc2471-5696-4e15-9ff6-57d2fd4837c2": {
+		"name": "pushy_onsite_email_verification",
+		"v": 4337,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"05f51b55-9ce2-4d95-9896-8fdfb83b0b04": {
 		"name": "test1",
 		"v": 2965,
