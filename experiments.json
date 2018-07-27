@@ -7648,6 +7648,21 @@
 			}
 		]
 	},
+	"eef9c444-e095-4a80-9207-5981fb3d9c86": {
+		"name": "ios_auto_enable_beta_features_for_testers",
+		"v": 4335,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"ef25ca44-13bd-4e89-99d2-f9939c013fec": {
 		"name": "twilight_streamer_trailers",
 		"v": 2273,
