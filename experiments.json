@@ -1472,15 +1472,15 @@
 	},
 	"2daa3d46-bdf8-484a-8e42-022906b1699f": {
 		"name": "android_tag_along",
-		"v": 4232,
+		"v": 4342,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
