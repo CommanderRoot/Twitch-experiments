@@ -4155,6 +4155,21 @@
 			}
 		]
 	},
+	"7cdee701-0ac3-4b47-94d3-b47b3b707dc8": {
+		"name": "nielsen_analytics",
+		"v": 4345,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "yes"
+			},
+			{
+				"weight": 1,
+				"value": "no"
+			}
+		]
+	},
 	"7d9127aa-c26f-4b80-a04d-e6ed38e18b78": {
 		"name": "GET_BITS_BUTTON",
 		"v": 2250,
