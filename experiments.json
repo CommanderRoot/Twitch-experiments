@@ -4157,16 +4157,16 @@
 	},
 	"7cdee701-0ac3-4b47-94d3-b47b3b707dc8": {
 		"name": "nielsen_analytics",
-		"v": 4345,
+		"v": 4347,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "yes"
+				"weight": 1,
+				"value": "on"
 			},
 			{
-				"weight": 1,
-				"value": "no"
+				"weight": 0,
+				"value": "off"
 			}
 		]
 	},
