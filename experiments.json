@@ -2034,15 +2034,15 @@
 	},
 	"40f4fd80-86ca-44f4-9abc-0324d24908bc": {
 		"name": "TWILIGHT_RAID_UPSELL",
-		"v": 4129,
+		"v": 4359,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "test"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
