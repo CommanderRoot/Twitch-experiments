@@ -4745,7 +4745,7 @@
 	},
 	"8f29eb23-cdb8-43a2-bb0f-7d0e0232f918": {
 		"name": "ios_graphql_faceted_browse",
-		"v": 4365,
+		"v": 4370,
 		"t": 1,
 		"groups": [
 			{
@@ -4755,6 +4755,10 @@
 			{
 				"weight": 0,
 				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_forced"
 			}
 		]
 	},
