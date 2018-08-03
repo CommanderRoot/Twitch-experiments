@@ -6538,15 +6538,15 @@
 	},
 	"c57795e2-3be1-4782-ac54-7ca3480544d0": {
 		"name": "ios_tags_nav",
-		"v": 4217,
+		"v": 4378,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "traditional_nav"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "tags_nav"
 			},
 			{
