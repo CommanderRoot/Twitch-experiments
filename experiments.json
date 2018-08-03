@@ -1989,19 +1989,19 @@
 	},
 	"3fc50c9d-2d0b-4e78-a99f-d0808a7aac7b": {
 		"name": "ios_finish_it",
-		"v": 4145,
+		"v": 4380,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 33,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "above_hosting"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "below_hosting"
 			}
 		]
