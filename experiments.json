@@ -3302,15 +3302,15 @@
 	},
 	"61c448f5-7169-45f2-8834-2569bb18a02b": {
 		"name": "android_category_page",
-		"v": 4296,
+		"v": 4385,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
