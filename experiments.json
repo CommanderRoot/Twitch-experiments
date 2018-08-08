@@ -3155,6 +3155,21 @@
 			}
 		]
 	},
+	"5db52781-526c-4ff1-9602-ae6cfd25ff65": {
+		"name": "low_latency_toggle_and_popups",
+		"v": 4406,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "show"
+			}
+		]
+	},
 	"5e532f0e-a835-44bf-9349-bd5cd2b6a416": {
 		"name": "ios_reward_exp",
 		"v": 3290,
