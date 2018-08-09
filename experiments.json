@@ -3157,12 +3157,12 @@
 	},
 	"5db52781-526c-4ff1-9602-ae6cfd25ff65": {
 		"name": "low_latency_toggle",
-		"v": 4414,
+		"v": 4416,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "hide"
+				"value": "control"
 			},
 			{
 				"weight": 0,
