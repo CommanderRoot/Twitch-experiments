@@ -1957,6 +1957,21 @@
 			}
 		]
 	},
+	"3f8094fb-2ae3-4c19-b86d-05e935d972f8": {
+		"name": "AGS_HEDGEHOG_TWITCH_ARCADE_RANDOM_ORDER",
+		"v": 4420,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "true"
+			},
+			{
+				"weight": 100,
+				"value": "false"
+			}
+		]
+	},
 	"3f821134-e203-49f0-92a7-4440c22f0f26": {
 		"name": "Console A/B Tracing",
 		"v": 1062,
