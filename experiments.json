@@ -3156,16 +3156,16 @@
 		]
 	},
 	"5db52781-526c-4ff1-9602-ae6cfd25ff65": {
-		"name": "low_latency_toggle_and_popups",
-		"v": 4411,
+		"name": "low_latency_toggle",
+		"v": 4413,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "show"
 			}
 		]
