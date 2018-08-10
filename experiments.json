@@ -4225,15 +4225,15 @@
 	},
 	"7cdee701-0ac3-4b47-94d3-b47b3b707dc8": {
 		"name": "nielsen_analytics",
-		"v": 4348,
+		"v": 4425,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "inactive"
 			}
 		]
