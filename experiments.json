@@ -5049,15 +5049,15 @@
 	},
 	"96bdeb52-260d-4b6d-8ff8-5f4c13f450c2": {
 		"name": "TWILIGHT_RAID_NOW",
-		"v": 4150,
+		"v": 4434,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "test"
 			},
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			}
 		]
