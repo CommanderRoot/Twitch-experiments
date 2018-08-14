@@ -6774,6 +6774,21 @@
 			}
 		]
 	},
+	"cddbe1bc-f0a6-430e-a6c4-bf06107e5027": {
+		"name": "android_skippable_onboarding",
+		"v": 4444,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"ce512072-ab2b-4f44-892a-e203055d45da": {
 		"name": "clips_blessings",
 		"v": 3565,
