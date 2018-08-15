@@ -5049,15 +5049,15 @@
 	},
 	"96bdeb52-260d-4b6d-8ff8-5f4c13f450c2": {
 		"name": "TWILIGHT_RAID_NOW",
-		"v": 4437,
+		"v": 4448,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "test"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -6112,23 +6112,23 @@
 	},
 	"b40e065c-7a73-4c4f-b060-a6b1647fc1a2": {
 		"name": "twilight_editing_im_upset",
-		"v": 4446,
+		"v": 4447,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "variant1"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "variant2"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "variant3"
 			}
 		]
