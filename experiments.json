@@ -4522,15 +4522,15 @@
 	},
 	"882294a9-7a32-418d-8fae-08c4f737fe7d": {
 		"name": "android_alt_ad_player",
-		"v": 4218,
+		"v": 4458,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
