@@ -3763,6 +3763,21 @@
 			}
 		]
 	},
+	"6c7ee3f8-e783-46d7-b620-d82273cc17da": {
+		"name": "ios_automod_cheering",
+		"v": 4465,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"6cc85744-ded0-481a-a6ea-38c4b13cea64": {
 		"name": "ios_aax",
 		"v": 2457,
