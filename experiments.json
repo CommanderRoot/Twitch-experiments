@@ -1959,15 +1959,15 @@
 	},
 	"3f8094fb-2ae3-4c19-b86d-05e935d972f8": {
 		"name": "AGS_HEDGEHOG_TWITCH_ARCADE_RANDOM_ORDER",
-		"v": 4436,
+		"v": 4464,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "TRUE"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "FALSE"
 			}
 		]
