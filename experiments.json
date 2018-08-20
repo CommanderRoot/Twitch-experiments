@@ -5563,6 +5563,25 @@
 			}
 		]
 	},
+	"a5f389c3-afbb-408b-b01a-9a91398a991c": {
+		"name": "ios_delayed_onboarding",
+		"v": 4473,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment1"
+			},
+			{
+				"weight": 0,
+				"value": "treatment2"
+			}
+		]
+	},
 	"a60d1100-a94d-4981-bb7d-2393ce193b39": {
 		"name": "LIVERECS_RECOMMENDED_BACKFILL",
 		"v": 4233,
