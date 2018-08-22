@@ -5565,7 +5565,7 @@
 	},
 	"a5f389c3-afbb-408b-b01a-9a91398a991c": {
 		"name": "ios_delayed_onboarding",
-		"v": 4473,
+		"v": 4492,
 		"t": 1,
 		"groups": [
 			{
@@ -5579,6 +5579,14 @@
 			{
 				"weight": 0,
 				"value": "treatment2"
+			},
+			{
+				"weight": 0,
+				"value": "debug_treatment1"
+			},
+			{
+				"weight": 0,
+				"value": "debug_treatment2"
 			}
 		]
 	},
