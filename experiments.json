@@ -2231,6 +2231,21 @@
 			}
 		]
 	},
+	"4567829d-4953-4029-884a-0eec9879d7a3": {
+		"name": "ios_drm",
+		"v": 4506,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"45d73059-3cea-436a-b41f-86bb05f845f2": {
 		"name": "CVP May 18",
 		"v": 1904,
@@ -3381,7 +3396,7 @@
 	},
 	"635c1961-3efe-444b-8b40-94b96e64abac": {
 		"name": "video_edge_reassignment",
-		"v": 4474,
+		"v": 4505,
 		"t": 1,
 		"groups": [
 			{
