@@ -7531,15 +7531,15 @@
 	},
 	"e2fecbd4-98e4-45e0-aad5-624cc70d6b85": {
 		"name": "video_edge_reassignment",
-		"v": 4470,
+		"v": 4499,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 1,
 				"value": "yes"
 			},
 			{
-				"weight": 70,
+				"weight": 99,
 				"value": "no"
 			}
 		]
