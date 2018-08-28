@@ -3439,6 +3439,21 @@
 			}
 		]
 	},
+	"646e8b92-33d7-43b7-893b-dc4de7d6e64a": {
+		"name": "ios_disable_oauth_refresh",
+		"v": 4524,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"647ac2c7-7650-4e06-87c0-2e3098c7f70a": {
 		"name": "android_bits_iap_onboarding",
 		"v": 2907,
