@@ -3444,17 +3444,17 @@
 		]
 	},
 	"646e8b92-33d7-43b7-893b-dc4de7d6e64a": {
-		"name": "ios_disable_oauth_refresh",
-		"v": 4524,
+		"name": "ios_oauth_refresh",
+		"v": 4533,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "oauth_refresh_enabled"
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "skip_oauth_refresh"
 			}
 		]
 	},
