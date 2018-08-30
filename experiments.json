@@ -222,21 +222,6 @@
 			}
 		]
 	},
-	"080c0331-3073-4539-992f-93274236a97d": {
-		"name": "TWILIGHT_PAY__SAVED_PAYMENT_METHODS",
-		"v": 3958,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
-				"value": "no"
-			}
-		]
-	},
 	"096252ea-5fc8-43c1-868a-d5c686b11742": {
 		"name": "ios_web_login_disable_implicit_flow",
 		"v": 4193,
@@ -865,21 +850,6 @@
 			},
 			{
 				"weight": 50,
-				"value": "no"
-			}
-		]
-	},
-	"1adeeefb-a0cc-48a4-adbd-8c9a1bdaa06f": {
-		"name": "TWILIGHT_PAYMENTS_MANAGEMENT_PAGE",
-		"v": 3122,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
 				"value": "no"
 			}
 		]
