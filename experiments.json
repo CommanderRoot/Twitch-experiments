@@ -1765,6 +1765,21 @@
 			}
 		]
 	},
+	"35ce0677-ffcb-4395-b824-3e854af7b74e": {
+		"name": "android_auto_mod_cheering",
+		"v": 4540,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"36a0e500-f117-41dd-8421-3e3db7d567dd": {
 		"name": "CREATIVE_DIRECTORY_CVS",
 		"v": 386,
