@@ -8149,7 +8149,7 @@
 	},
 	"fc31301f-e92d-4f69-ab09-2cdf5f10937d": {
 		"name": "android_videoplayer_r6_8_0",
-		"v": 4538,
+		"v": 4539,
 		"t": 1,
 		"groups": [
 			{
@@ -8159,6 +8159,10 @@
 			{
 				"weight": 95,
 				"value": "playercore"
+			},
+			{
+				"weight": 0,
+				"value": "exoplayer_2"
 			}
 		]
 	},
