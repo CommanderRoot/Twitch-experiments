@@ -628,13 +628,9 @@
 	},
 	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
 		"name": "enable_live_sorting",
-		"v": 4527,
+		"v": 4537,
 		"t": 1,
 		"groups": [
-			{
-				"weight": 8,
-				"value": "control"
-			},
 			{
 				"weight": 5,
 				"value": "reverse"
@@ -644,12 +640,8 @@
 				"value": "control5"
 			},
 			{
-				"weight": 40,
+				"weight": 88,
 				"value": "russia"
-			},
-			{
-				"weight": 40,
-				"value": "control40"
 			},
 			{
 				"weight": 1,
@@ -5513,7 +5505,7 @@
 	},
 	"9edf91e6-0499-49f2-b171-30f85573bf5a": {
 		"name": "TWILIGHT_VOD_TOP_SHELF",
-		"v": 4535,
+		"v": 4536,
 		"t": 2,
 		"groups": [
 			{
