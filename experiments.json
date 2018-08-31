@@ -1018,19 +1018,19 @@
 	},
 	"20253846-f6eb-4268-b228-2178e33e1c2e": {
 		"name": "ios_native_login",
-		"v": 4423,
+		"v": 4546,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "enabled"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "enabled_with_verification"
 			}
 		]
