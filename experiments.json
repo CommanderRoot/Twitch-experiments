@@ -6394,30 +6394,30 @@
 	},
 	"bb614c04-fce4-4abb-9686-a38022f4284e": {
 		"name": "ios_autoplay_browse",
-		"v": 4487,
+		"v": 4554,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active"
 			}
 		]
 	},
 	"bb654f3c-166a-49fa-9030-c6f4bcda2ebd": {
 		"name": "android_autoplay_browse",
-		"v": 3403,
+		"v": 4553,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "active"
 			}
 		]
