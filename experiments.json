@@ -282,6 +282,21 @@
 			}
 		]
 	},
+	"0b2e962b-c870-4401-9320-114ff2c6b717": {
+		"name": "tachyon_legacy",
+		"v": 4569,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "variant"
+			}
+		]
+	},
 	"0bb7fc0a-c4ae-4972-8d5d-cc09dcfbb458": {
 		"name": "AUTOMOD_SMALLER",
 		"v": 1658,
