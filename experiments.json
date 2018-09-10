@@ -3392,15 +3392,15 @@
 	},
 	"635c1961-3efe-444b-8b40-94b96e64abac": {
 		"name": "video_edge_reassignment",
-		"v": 4515,
+		"v": 4583,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
