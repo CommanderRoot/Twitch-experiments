@@ -2531,12 +2531,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 4578,
+		"v": 4586,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-f429dd.sjc02.hls.ttvnw.net/v1/segment/Coz3mvwikNdw_r2POd3UeUh4hc04787lYRFOlK4778LP3LoCjFV3dv7bP69uBqHykV1mzDuMkuiIBHKRTYePwILB-IJJGG7yDWwepJE09HEpXjHQrxQgylr-kRcFae1lsudXP-hYxdk3h0rz1Sw5M57jOO-X7Y9LACAFq6pNWz0wGtsLR5oZLPLw4S3xAL0rxLrU-cezR2T_De1czq0q6K6V9XH5deUulePE9fqV-p3QnCD5LRerFyxCB6abPajjZFBkyKvo21rkysY7iDUsoztQUfc32ctkH3np7aSXFfdss6UcBotlXmATsoXp2r5jdBjovsi1jd2UPi9nviuDSh8gAsR_Nc6OZpMrCL0I7ZB0FEySg4FOg__zgK_55NIRUL6cqR3eBUkiNVkGLEZxZ6AdgTk5yxd01PUWSmVzXoQqFp-XuMhL3q5hvLdznD0bxGgYpEsFX3Hl2_YlrJL6Y0Q6yh1Q4KkgDSii1To6jrzrDtyR8R5-86GdRg2T5emVJMqM9lc_khQDBfS8Aw18vDBXXv60_AhdpCrlJmC2v9t4cNcmr-wAFEXzPl1l5czS7vpqe9kYSp5gAbzexeFiUWAYZ_0YNQJnhm8C6haSUTxDeXWPHblDTZyHyPJD1vb971f91wQ8it6Mt1624eIGdmMB_YQsBgzaBGw4260X0r6loONIpi_iTapbPYsmyTAgMJ6iD8cnxnfk7WdT9mdxtHgA04AmHdFRLXasjR-dlxirm4--QARArK5E42pxVOw8ZeIiw7.ts"
+				"value": "//video-edge-1d210f.sjc02.hls.ttvnw.net/v1/segment/Cg7x48HRxWfRsEFnh1vj6quav9J2t-D_XOh8VC0jbVZ1CJg1cXxmJEBQ4eHf0phsG6SXY_VKBCRBPoCQQa8oGFvTRFgq0Xjh0SlmpDVDPcBfIa2YkCj9M6IkFarPZpUiQqfiiK2M60IOORoCgzOyjyfBjz7DxbfIM9WyI5REUNUyS3o00dGw39_4gFioiSOYkw21YbRRGApa1hxkZ-eegjQrz8eC-bZFW_Ae_4r0pBddb_5M9FTpfk3Uu8YJsAxPAhy8dNNvMOrrcz-oBFr5jMC_5CWGYm4nksBo1iF5MFf_aeO2d9V565dqYqRiGK9YWOgsBZ72-AnTnDyF445CdNm-jUwa_cZFf5lmJuG8OV2kUrLUnLuECUqBhmMm1opVGZ7LDLAB3bT5TIQBvAHEKn44V5ERWETpnDzWpU2L5MKIQmJwFUv0twlqaAjFgJJfZ7LaKdLKVGSMKj62XpRzuhJ2tAxeDZLoaUFoshYXMMks-JP8Ebqni55VBq9b1zPdwRLFhDEy_hUWfFTluevbe6wPT6_dJREGmz2sqOcxnMi1NhkaJjLsJSrQwNvJTxJEt2G115JGR7GUL-DVafMu7D8qUx8Sd8VoF98EsGjMhyldhVa1UqSh7N5ISVCSOoLpvaZKAogQ58Z3YUSaYyR4Y1JxwuHhy1MdzsBNGPC2zfFnTtG1QkUw3sBpSUZMQ1BbWkfOMfFdWFFzDDjXos40DhoLamm_ByJk9bAPIzltamF-a1ksLZHYG1ZQ.ts"
 			}
 		]
 	},
@@ -7391,7 +7391,7 @@
 	},
 	"de013c6f-a800-45ee-9ab4-7965c405e3eb": {
 		"name": "TWILIGHT_ARCHER",
-		"v": 4582,
+		"v": 4587,
 		"t": 1,
 		"groups": [
 			{
@@ -7399,11 +7399,11 @@
 				"value": "moments"
 			},
 			{
-				"weight": 80,
+				"weight": 65,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "moments_with_images"
 			},
 			{
