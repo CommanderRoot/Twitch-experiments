@@ -5611,15 +5611,15 @@
 	},
 	"a5f389c3-afbb-408b-b01a-9a91398a991c": {
 		"name": "ios_delayed_onboarding",
-		"v": 4526,
+		"v": 4604,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment1"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "treatment2"
 			}
 		]
