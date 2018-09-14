@@ -963,29 +963,6 @@
 			}
 		]
 	},
-	"1ef32b26-85c3-4e36-bece-4d3aea3a7604": {
-		"name": "clips_no_long_talk",
-		"v": 1518,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 25,
-				"value": "control"
-			},
-			{
-				"weight": 25,
-				"value": "variant1"
-			},
-			{
-				"weight": 25,
-				"value": "variant2"
-			},
-			{
-				"weight": 25,
-				"value": "variant3"
-			}
-		]
-	},
 	"1ef5f796-bb61-4c56-9bd7-0ee44162ebc7": {
 		"name": "android_dashboard",
 		"v": 2278,
@@ -1485,21 +1462,6 @@
 			}
 		]
 	},
-	"2e735d16-3892-462e-8ce7-833fa5ff8309": {
-		"name": "clips_gooey",
-		"v": 2708,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
-			}
-		]
-	},
 	"2f6b028c-c2a5-462c-8daf-3bcb394839bb": {
 		"name": "android_playercore",
 		"v": 1023,
@@ -1853,21 +1815,6 @@
 			{
 				"weight": 0,
 				"value": "off"
-			}
-		]
-	},
-	"3ba26ac2-a5db-4318-83c5-dcbe11e2774f": {
-		"name": "CLIPS_CLIPPY_PATENT_PENDING",
-		"v": 1392,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
 			}
 		]
 	},
@@ -4566,21 +4513,6 @@
 			}
 		]
 	},
-	"88ad36bd-f5ba-4c8c-8d06-30e486cd5d07": {
-		"name": "clips_scared_to_be_lonely",
-		"v": 1170,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "variant1"
-			}
-		]
-	},
 	"88c522d7-c0a9-438b-b0c6-aaf4a6117c45": {
 		"name": "android_videoplayer_v6",
 		"v": 3121,
@@ -6371,21 +6303,6 @@
 			{
 				"weight": 100,
 				"value": "treatment"
-			}
-		]
-	},
-	"baddf9d7-496a-4507-a0b4-6357b95d3ca8": {
-		"name": "CLIPS_STARBOY",
-		"v": 921,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
 			}
 		]
 	},
@@ -8286,25 +8203,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"ff8e8dba-1168-459f-b131-7be5b5e7ba4d": {
-		"name": "clips_champagne_supernova",
-		"v": 3323,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			},
-			{
-				"weight": 100,
-				"value": "variant2"
 			}
 		]
 	},
