@@ -4852,21 +4852,6 @@
 			}
 		]
 	},
-	"955b258f-0cf0-48ed-b525-9bdd57a0fc5f": {
-		"name": "ios_drm_vaes_hotfix",
-		"v": 4610,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
 	"95869c70-08ce-4e58-a82e-bcaaaf1f8dc2": {
 		"name": "DISCOVER_HIDE_RECENTLY_WATCHED_STREAMS",
 		"v": 702,
