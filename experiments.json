@@ -2171,21 +2171,6 @@
 			}
 		]
 	},
-	"43ce4dcb-ef59-489e-a163-685a939cea48": {
-		"name": "clips_sunday_candy",
-		"v": 2143,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
-			}
-		]
-	},
 	"44a503af-d77f-4f1d-9fa4-c99c5f783f9c": {
 		"name": "twilight_video_manager_release",
 		"v": 2850,
@@ -2481,21 +2466,6 @@
 			{
 				"weight": 100,
 				"value": "v2"
-			}
-		]
-	},
-	"4b724df5-bf1c-4e8b-98b6-2c24fc9af1ae": {
-		"name": "clips_slow_down",
-		"v": 2117,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "control"
-			},
-			{
-				"weight": 80,
-				"value": "variant1"
 			}
 		]
 	},
