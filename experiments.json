@@ -342,25 +342,6 @@
 			}
 		]
 	},
-	"0d140c71-9264-4646-bc2c-743089cb9386": {
-		"name": "clips_shelter",
-		"v": 1725,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			},
-			{
-				"weight": 100,
-				"value": "variant2"
-			}
-		]
-	},
 	"0d5fb9e1-227c-4aea-94d3-414836081d58": {
 		"name": "android_videoplayer_v5",
 		"v": 2963,
@@ -1136,21 +1117,6 @@
 			}
 		]
 	},
-	"24790bc9-1beb-4cf1-bc75-fe22c400805d": {
-		"name": "clips_loyalty",
-		"v": 1196,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			}
-		]
-	},
 	"264f75af-a787-4a40-8654-40d78b4d8b41": {
 		"name": "extensions",
 		"v": 1360,
@@ -1163,25 +1129,6 @@
 			{
 				"weight": 0,
 				"value": "no"
-			}
-		]
-	},
-	"26f888ed-2688-44f8-a38a-10ee61e7857c": {
-		"name": "clips_strobe",
-		"v": 3488,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			},
-			{
-				"weight": 100,
-				"value": "variant2"
 			}
 		]
 	},
@@ -1205,21 +1152,6 @@
 			{
 				"weight": 100,
 				"value": "holdout"
-			}
-		]
-	},
-	"2858bc04-3f98-4808-a2dd-86555885ca90": {
-		"name": "clips_feel_it_coming",
-		"v": 983,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
 			}
 		]
 	},
@@ -3517,25 +3449,6 @@
 			}
 		]
 	},
-	"680113ed-4ef6-4006-b4cf-259ee8213079": {
-		"name": "clips_no_problem",
-		"v": 3395,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			},
-			{
-				"weight": 0,
-				"value": "variant2"
-			}
-		]
-	},
 	"680b5624-5ada-4e0f-9f33-0264eb318777": {
 		"name": "pushy_ios_streamup_stream_title_unused",
 		"v": 3598,
@@ -4645,21 +4558,6 @@
 			}
 		]
 	},
-	"8c2302fe-4f40-4c08-89d1-ee438d562da1": {
-		"name": "clips_shape_of_you",
-		"v": 1089,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
-			}
-		]
-	},
 	"8c505ba8-1381-4f54-ad7f-5dbbde9beee0": {
 		"name": "TWILIGHT_INSTREAM_CHECKOUT",
 		"v": 4405,
@@ -4977,36 +4875,6 @@
 			{
 				"weight": 0,
 				"value": "show"
-			}
-		]
-	},
-	"95e8b0f0-ec63-4660-ba5b-859ac1adc5f8": {
-		"name": "clips_bluebird_story",
-		"v": 3359,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 80,
-				"value": "control"
-			},
-			{
-				"weight": 20,
-				"value": "variant1"
-			}
-		]
-	},
-	"9649684c-6d3f-423d-9d3c-f4296efee975": {
-		"name": "clips_hear_me_now",
-		"v": 1582,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
 			}
 		]
 	},
@@ -6782,25 +6650,6 @@
 			}
 		]
 	},
-	"ce512072-ab2b-4f44-892a-e203055d45da": {
-		"name": "clips_blessings",
-		"v": 3565,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
-			},
-			{
-				"weight": 0,
-				"value": "variant2"
-			}
-		]
-	},
 	"ce62423f-4298-4448-bd1c-5421d96f65d6": {
 		"name": "ios_dashboard",
 		"v": 2544,
@@ -7086,15 +6935,15 @@
 	},
 	"d5d09c71-530f-430b-a55a-4bb5c84ce977": {
 		"name": "ios_chat_input_emotes",
-		"v": 4327,
+		"v": 4625,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "enabled"
 			}
 		]
@@ -7318,21 +7167,6 @@
 			{
 				"weight": 1,
 				"value": "holdback"
-			}
-		]
-	},
-	"dcbdb47a-707d-40f0-828f-2e7910210a4d": {
-		"name": "clips_fake_love",
-		"v": 1569,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
 			}
 		]
 	},
