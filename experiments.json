@@ -2834,7 +2834,7 @@
 	},
 	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
 		"name": "live_qos_model",
-		"v": 4650,
+		"v": 4651,
 		"t": 1,
 		"groups": [
 			{
@@ -2842,8 +2842,16 @@
 				"value": "control1"
 			},
 			{
-				"weight": 99,
+				"weight": 10,
+				"value": "control10"
+			},
+			{
+				"weight": 79,
 				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "entry_pop"
 			}
 		]
 	},
