@@ -1992,15 +1992,15 @@
 	},
 	"41cc8630-60da-4689-a8aa-7bf6f414faca": {
 		"name": "ride_the_wave",
-		"v": 4375,
+		"v": 4654,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "wave"
 			}
 		]
