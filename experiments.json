@@ -146,6 +146,25 @@
 			}
 		]
 	},
+	"058b4987-7889-4d6c-8722-6c4d4d1e6efd": {
+		"name": "android_videoplayer_r6_9_0",
+		"v": 4664,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "playercore"
+			},
+			{
+				"weight": 0,
+				"value": "exoplayer_2"
+			}
+		]
+	},
 	"05dc2471-5696-4e15-9ff6-57d2fd4837c2": {
 		"name": "pushy_onsite_email_verification",
 		"v": 4337,
