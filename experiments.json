@@ -2702,6 +2702,21 @@
 			}
 		]
 	},
+	"51901421-e768-4e77-a176-118295d7f6c6": {
+		"name": "ios_chat_connect_latency_improvement",
+		"v": 4660,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"5192d294-a807-4eb6-aeef-141023684b88": {
 		"name": "android_reward_exp",
 		"v": 3291,
