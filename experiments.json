@@ -6250,6 +6250,21 @@
 			}
 		]
 	},
+	"bcea9594-9761-4804-9d23-5b281512950b": {
+		"name": "android_native_login",
+		"v": 4662,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"bf00cae3-c729-4ff9-816c-f9ede2f69f02": {
 		"name": "twilight_vod_used_to_this",
 		"v": 4174,
