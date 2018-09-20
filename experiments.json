@@ -1640,6 +1640,21 @@
 			}
 		]
 	},
+	"35b1e483-c6ca-4efa-b58e-fed92ef91290": {
+		"name": "disco_gladiator",
+		"v": 4668,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant1"
+			}
+		]
+	},
 	"35cab256-3d86-4e12-ae24-0ee4fa20ef52": {
 		"name": "ios_tags_display",
 		"v": 4361,
