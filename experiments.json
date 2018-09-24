@@ -6996,15 +6996,15 @@
 	},
 	"d5d09c71-530f-430b-a55a-4bb5c84ce977": {
 		"name": "ios_chat_input_emotes",
-		"v": 4625,
+		"v": 4689,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "enabled"
 			}
 		]
