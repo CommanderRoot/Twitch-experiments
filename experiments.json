@@ -2403,15 +2403,15 @@
 	},
 	"4b7abdb2-226a-491b-82c6-92407d16012b": {
 		"name": "ios_category_terminology",
-		"v": 4237,
+		"v": 4714,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "game"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "category"
 			}
 		]
@@ -3587,15 +3587,15 @@
 	},
 	"699d4aa7-30e1-4eac-9fae-25c7ced3e58a": {
 		"name": "ios_broadcast_categories",
-		"v": 4299,
+		"v": 4713,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "classic"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "new"
 			}
 		]
@@ -7571,15 +7571,15 @@
 	},
 	"e911d915-baca-46b8-b6fe-e991baee776b": {
 		"name": "TWILIGHT_TAGS",
-		"v": 4708,
+		"v": 4712,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "experiment"
 			}
 		]
