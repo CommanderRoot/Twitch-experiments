@@ -1680,15 +1680,15 @@
 	},
 	"35ce0677-ffcb-4395-b824-3e854af7b74e": {
 		"name": "android_auto_mod_cheering",
-		"v": 4540,
+		"v": 4722,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -3686,15 +3686,15 @@
 	},
 	"6c7ee3f8-e783-46d7-b620-d82273cc17da": {
 		"name": "ios_auto_mod_cheering",
-		"v": 4466,
+		"v": 4721,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -7571,15 +7571,15 @@
 	},
 	"e911d915-baca-46b8-b6fe-e991baee776b": {
 		"name": "TWILIGHT_TAGS",
-		"v": 4720,
+		"v": 4723,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 65,
+				"weight": 55,
 				"value": "control"
 			},
 			{
-				"weight": 35,
+				"weight": 45,
 				"value": "experiment"
 			}
 		]
