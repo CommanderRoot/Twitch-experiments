@@ -2159,6 +2159,21 @@
 			}
 		]
 	},
+	"46e725e9-90e2-4597-8ef9-441978ef1626": {
+		"name": "hose_control_governor",
+		"v": 4730,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"474db509-7fb8-403e-97da-66dae8954e6d": {
 		"name": "android_home_games_carousel",
 		"v": 643,
