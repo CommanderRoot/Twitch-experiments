@@ -4274,15 +4274,15 @@
 	},
 	"7f165f9d-e0ef-4749-af62-98109b2ea888": {
 		"name": "ios_onboarding_channel_surfing_v6.2",
-		"v": 3618,
+		"v": 4772,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "channel_surfing"
 			}
 		]
@@ -4409,15 +4409,15 @@
 	},
 	"85ef02f8-911c-45f4-9042-8e0c9d9face3": {
 		"name": "android_onboarding_surf",
-		"v": 3430,
+		"v": 4770,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
