@@ -1917,7 +1917,7 @@
 	},
 	"3f864789-56c3-4d77-ae6d-e2f5dc4f5b05": {
 		"name": "android_videoplayer_r6_9_2",
-		"v": 4782,
+		"v": 4784,
 		"t": 1,
 		"groups": [
 			{
@@ -1925,11 +1925,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "playercore"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "exoplayer_2"
 			}
 		]
