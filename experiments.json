@@ -6471,6 +6471,21 @@
 			}
 		]
 	},
+	"c4449650-cd83-4a31-8d7d-40c7452e736e": {
+		"name": "android_remote_config_test",
+		"v": 4790,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "test"
+			}
+		]
+	},
 	"c48618ad-fde4-4c67-9f4c-b89f3c633cf9": {
 		"name": "android_pipboy_homepage",
 		"v": 1304,
