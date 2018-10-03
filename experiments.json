@@ -1672,15 +1672,15 @@
 	},
 	"35cab256-3d86-4e12-ae24-0ee4fa20ef52": {
 		"name": "ios_tags_display",
-		"v": 4361,
+		"v": 4788,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "not_displayed"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "displayed"
 			},
 			{
