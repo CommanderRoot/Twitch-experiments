@@ -3399,16 +3399,12 @@
 	},
 	"646e8b92-33d7-43b7-893b-dc4de7d6e64a": {
 		"name": "ios_oauth_refresh",
-		"v": 4533,
+		"v": 4796,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "oauth_refresh_enabled"
-			},
-			{
-				"weight": 0,
-				"value": "skip_oauth_refresh"
 			}
 		]
 	},
@@ -5365,6 +5361,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"9df89947-d819-4ed5-b3ab-72c7073b8451": {
+		"name": "ios_oauth_refresh_7_0",
+		"v": 4797,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "oauth_refresh_enabled"
+			},
+			{
+				"weight": 0,
+				"value": "skip_oauth_refresh"
 			}
 		]
 	},
@@ -7726,15 +7737,11 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-		"v": 4791,
+		"v": 4795,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
-				"value": "2.6.23"
-			},
-			{
-				"weight": 50,
+				"weight": 100,
 				"value": "2.6.24"
 			}
 		]
