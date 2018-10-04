@@ -7063,16 +7063,20 @@
 	},
 	"d5d09c71-530f-430b-a55a-4bb5c84ce977": {
 		"name": "ios_chat_input_emotes",
-		"v": 4689,
+		"v": 4794,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "enabled"
+			},
+			{
+				"weight": 1,
+				"value": "enabled_v6.10"
 			}
 		]
 	},
