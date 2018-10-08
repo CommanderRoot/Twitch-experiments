@@ -7396,15 +7396,15 @@
 	},
 	"dfbed154-e2f1-41e7-962c-10309e62583a": {
 		"name": "TWILIGHT_VOD_PIKE",
-		"v": 4766,
+		"v": 4816,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
