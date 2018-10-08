@@ -3354,15 +3354,15 @@
 	},
 	"635c1961-3efe-444b-8b40-94b96e64abac": {
 		"name": "video_edge_reassignment",
-		"v": 4765,
+		"v": 4813,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active"
 			}
 		]
@@ -7486,15 +7486,15 @@
 	},
 	"e2fecbd4-98e4-45e0-aad5-624cc70d6b85": {
 		"name": "video_edge_reassignment",
-		"v": 4764,
+		"v": 4812,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 50,
 				"value": "yes"
 			},
 			{
-				"weight": 70,
+				"weight": 50,
 				"value": "no"
 			}
 		]
