@@ -6926,6 +6926,21 @@
 			}
 		]
 	},
+	"d0ecd325-f23b-4dd7-803f-37f5885daabc": {
+		"name": "android_low_latency",
+		"v": 4819,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"d1aef411-5131-4ffe-8dc8-f6f1f9c05e78": {
 		"name": "android_playercore_4",
 		"v": 1484,
