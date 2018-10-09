@@ -1083,6 +1083,21 @@
 			}
 		]
 	},
+	"23763b93-4da3-4680-960c-2ba7a8006070": {
+		"name": "ios_vaes_enabled",
+		"v": 4821,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"23edd834-27d9-4bae-bcde-1e59b25aff51": {
 		"name": "android_big_goku",
 		"v": 1755,
