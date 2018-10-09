@@ -3719,15 +3719,15 @@
 	},
 	"6c1591ea-6186-4310-bb23-c350eb713d52": {
 		"name": "TWILIGHT_DASHBOARD_COLLAB",
-		"v": 4402,
+		"v": 4836,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "yes"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
