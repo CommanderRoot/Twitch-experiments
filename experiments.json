@@ -7031,6 +7031,21 @@
 			}
 		]
 	},
+	"d3dbaf7f-35e8-40b7-8488-df5f6097e50e": {
+		"name": "stream_summary_email",
+		"v": 4835,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "yes"
+			},
+			{
+				"weight": 50,
+				"value": "no"
+			}
+		]
+	},
 	"d4752777-a16a-4128-bcfb-42cbd4a53613": {
 		"name": "TWILIGHT_OWL_ROOM_CHEERING",
 		"v": 3846,
