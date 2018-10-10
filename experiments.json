@@ -167,15 +167,15 @@
 	},
 	"05dc2471-5696-4e15-9ff6-57d2fd4837c2": {
 		"name": "pushy_onsite_email_verification",
-		"v": 4849,
+		"v": 4852,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
@@ -4180,15 +4180,15 @@
 	},
 	"7aa589f3-34d8-425f-8227-29007d50757e": {
 		"name": "twilight_growth_email_verify_bar",
-		"v": 4850,
+		"v": 4851,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "enabled"
 			}
 		]
