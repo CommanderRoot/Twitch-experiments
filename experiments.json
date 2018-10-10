@@ -167,15 +167,15 @@
 	},
 	"05dc2471-5696-4e15-9ff6-57d2fd4837c2": {
 		"name": "pushy_onsite_email_verification",
-		"v": 4846,
+		"v": 4848,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "treatment"
 			}
 		]
