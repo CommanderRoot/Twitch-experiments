@@ -167,15 +167,15 @@
 	},
 	"05dc2471-5696-4e15-9ff6-57d2fd4837c2": {
 		"name": "pushy_onsite_email_verification",
-		"v": 4779,
+		"v": 4840,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -8035,6 +8035,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"f6356d80-57ce-4bb9-a9bc-fdca30752223": {
+		"name": "ios_vip_roles",
+		"v": 4839,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
