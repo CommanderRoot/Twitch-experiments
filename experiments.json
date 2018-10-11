@@ -2478,12 +2478,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 4838,
+		"v": 4856,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-5835af.sjc02.hls.ttvnw.net/v1/segment/CrSyr9UAMFrmKB7D6ayj0q4gVxnNSn-Yx7L8q0_8GGqKlGtpv0tf60QcssBTqjoMrLHz0BkPnmeyAeBgM9fXtOXWbYDvtKFX5YX8rc4du4vWlea0TvYGJdFeTW1ed-aqjOzIFXnFgB28T1QnxVv0a77e9FUTNS5LfmF85DpwGSlb8-2sLuiJbM28Q0pqGVEqs44ZwtU0G6jO63cFvLj7DKxTA0hlckTKgkrxkl28r94RWk-BryR_zXJ2baBubxjuLlmA-cYN0ej7_s5DpFNACeTihnBhCiOJuveKuCnHJYuVVoUTrk_8vOH7a_Grqrrjzvi6SQVWmfJp5Tt2hATpbY-1KU8IGm9IeFUm_jD9V_LloFlSSprhuSyftMXXl4Yhfq0C2igfzndu5hKWNJYBownH3RnmMa5dA9iyhKPQ2WjDDTAD3X6Vf3W9iU84WhabZ-rsj4xEZkErpFGkUTLh-39A9Lv1zVkwm-GSUUzkUwyfCXAcV2gM-IU0qnE_cHoTF9wbZOiKGmIOMI73leGLAs304MnZVYQLpdFBlbhev5Z3a-VFSrKCAEJqkraMkonA-UWWOnzu9Yd_JsLI5MMpzqkZyjWqisQRYE7j_H-xoGEjc3sDkM_yttevB95c0VY-qiNNSVKGFokkulsJex1_eoFnuDNLsOdBlfAYVtEyEzG_s1TYViwdTfJ0sIQymb4khKExwzDS7nS0gQ4ubfCvZ7_7uX4ccCtbXszbFX3jwEbE30XVxZ6StaBslg-_.ts"
+				"value": "//video-edge-01870d.sjc02.hls.ttvnw.net/v1/segment/Cg-v7oIw_qeCfiP4jP0T29hYx-JSyq36-vw0krYr40D-fj_PSTj0m-qF355NJaxXAorWvXlj3gKs9ocT9YRc9J8gEwK4l1kS4YWT4nX1EeR65OY1RhLsbTMgp5qekKop3CV5RqaUK3j0_hAf3zQqlm_rCM0L7EFtXoRunXx6ZksYBLTtTTBZ1HhYhEaponCWYHSd2a-v2QFFaDoZCDMzwqfhPFwn1xe0I6RRJpVC60eqdo1hteCE-DUHa0qCNNkqE7GpsFeJUYQObi0wKFYr55FlhYMtWQwCi6zbiP-5d1nFxYPIhq_NcYg2-pquXUBc_AVCadw9Ph7YTBNkeQK6hjKhO5JP9Qa_bZJ3RY95UvZMxNUEU20NH-8OiOCLd670MfV5exafpJ0JwPpTiCNk0Ntl93FlKdUIWOYPL-HYz-lpab49Td57WPFR7Fwx96XuhLI_5E-VJL9iohIFlpVkO6c4sTlJVv9Mu6Rej5-m6N1WOTbNLq3TcliOh67Gsi_g5VyvwRwIrlPWXLA9PUvTjIMzHuuTkB5fTUtwodJrxw_A7aBzzyVrJQsc2fdTW4z1P6o4LcmLzCoYozqembDt3sVfZt2Hz6vvw01ytki1IzB2GLeJJDIATtOSjrELkx7w5pcHQgZjxB954-OlUAAwVNvvHPpqbtbqGVYXV0adZC1JoHPjcDMNk3t4P9qQ0zwgifSkBXGRsfSysPpVcN_PdNZ7BmvvQ7lLnh7rxprRihel0GcD7pTLBytCmX3JsteDneF4f3c.ts"
 			}
 		]
 	},
@@ -7771,15 +7771,15 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-		"v": 4843,
+		"v": 4857,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "2.6.27"
 			},
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "2.6.26"
 			},
 			{
