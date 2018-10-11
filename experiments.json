@@ -3687,6 +3687,21 @@
 			}
 		]
 	},
+	"6ab108f7-14e3-4773-a252-364a58fc9ba5": {
+		"name": "mobile_web_aa",
+		"v": 4858,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"6b4086ea-dcce-41c9-a57b-000fa9366e35": {
 		"name": "clips_you_were_right",
 		"v": 1722,
