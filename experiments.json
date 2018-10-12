@@ -6973,15 +6973,15 @@
 	},
 	"d0ecd325-f23b-4dd7-803f-37f5885daabc": {
 		"name": "android_low_latency",
-		"v": 4864,
+		"v": 4866,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
