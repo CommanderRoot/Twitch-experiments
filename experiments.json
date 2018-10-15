@@ -1,4 +1,23 @@
 {
+	"0016759f-1344-45de-99e2-f9bfa46a8a6a": {
+		"name": "android_videoplayer_r7",
+		"v": 4877,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "playercore"
+			},
+			{
+				"weight": 50,
+				"value": "exoplayer_2"
+			}
+		]
+	},
 	"00683bde-a79d-4b9d-a7cc-b0549f854d36": {
 		"name": "offline_recs",
 		"v": 1520,
