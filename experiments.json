@@ -5503,6 +5503,21 @@
 			}
 		]
 	},
+	"a342fd79-b34a-4fdc-acb8-3bd2082d72f7": {
+		"name": "tvapps_firetv_playercore",
+		"v": 4876,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"a36b2c77-e7ab-4836-8f8b-0a0bc6a23bf3": {
 		"name": "ios_tag_along",
 		"v": 4334,
@@ -6377,6 +6392,21 @@
 			},
 			{
 				"weight": 5,
+				"value": "active"
+			}
+		]
+	},
+	"bbd81d40-9d60-4ae8-bba1-861ca09c5086": {
+		"name": "tvapps_androidtv_playercore",
+		"v": 4875,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
 				"value": "active"
 			}
 		]
