@@ -2977,15 +2977,11 @@
 	},
 	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
 		"name": "live_qos_model",
-		"v": 4750,
+		"v": 4878,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
-				"value": "control50"
-			},
-			{
-				"weight": 50,
+				"weight": 100,
 				"value": "entry_pop"
 			}
 		]
