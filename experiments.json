@@ -1996,19 +1996,19 @@
 	},
 	"3fc50c9d-2d0b-4e78-a99f-d0808a7aac7b": {
 		"name": "ios_finish_it",
-		"v": 4380,
+		"v": 4883,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "above_hosting"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "below_hosting"
 			}
 		]
@@ -5719,19 +5719,19 @@
 	},
 	"ab358fea-fca1-40a2-b60c-a042d7ea8cac": {
 		"name": "android_finish_it",
-		"v": 4160,
+		"v": 4882,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "above_hosting"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "below_hosting"
 			}
 		]
