@@ -565,6 +565,21 @@
 			}
 		]
 	},
+	"13198dad-8463-4a94-a3ee-560d8740877b": {
+		"name": "Hidden MW",
+		"v": 4881,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment"
+			}
+		]
+	},
 	"143da2f9-bf80-4555-a661-76c378fcd5c8": {
 		"name": "ios_aa",
 		"v": 1919,
@@ -1400,7 +1415,7 @@
 	},
 	"2d4ba176-3f24-49b6-bf92-dba1287cfeaa": {
 		"name": "android_vaes",
-		"v": 4798,
+		"v": 4880,
 		"t": 1,
 		"groups": [
 			{
