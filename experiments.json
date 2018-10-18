@@ -7980,6 +7980,21 @@
 			}
 		]
 	},
+	"ef22b9f1-49da-4971-80ac-70ab6d3cb005": {
+		"name": "ios_native_forgot_password",
+		"v": 4908,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"ef25ca44-13bd-4e89-99d2-f9939c013fec": {
 		"name": "twilight_streamer_trailers",
 		"v": 2273,
