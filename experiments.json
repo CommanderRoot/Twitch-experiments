@@ -1413,6 +1413,21 @@
 			}
 		]
 	},
+	"2c9bc904-90e2-469f-9f09-d2eb5fddeadc": {
+		"name": "android_squad_streaming_alpha",
+		"v": 4901,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"2d4ba176-3f24-49b6-bf92-dba1287cfeaa": {
 		"name": "android_vaes",
 		"v": 4880,
@@ -3070,6 +3085,21 @@
 			{
 				"weight": 0,
 				"value": "liverecs"
+			}
+		]
+	},
+	"582e8787-2402-407c-8957-57da6adc2f98": {
+		"name": "android_multi_view_alpha",
+		"v": 4902,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
 			}
 		]
 	},
@@ -6710,6 +6740,21 @@
 			{
 				"weight": 0,
 				"value": "variant2"
+			}
+		]
+	},
+	"c5ae3cc0-8fc2-4dcd-b3a3-fa63b13990f5": {
+		"name": "android_squad_streaming",
+		"v": 4900,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
 			}
 		]
 	},
