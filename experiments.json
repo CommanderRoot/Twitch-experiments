@@ -886,15 +886,15 @@
 	},
 	"1a42d36b-3f3f-4b80-8252-bdd6cc675ec3": {
 		"name": "Pineapple",
-		"v": 4906,
+		"v": 4912,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "yes"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "no"
 			}
 		]
@@ -1667,21 +1667,6 @@
 			{
 				"weight": 0,
 				"value": "ember"
-			}
-		]
-	},
-	"354aaebd-7643-434f-be37-98fe12c01220": {
-		"name": "HTML5_Toggle_Removal",
-		"v": 1604,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "remove"
-			},
-			{
-				"weight": 99,
-				"value": "keep"
 			}
 		]
 	},
