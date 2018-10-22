@@ -1415,15 +1415,15 @@
 	},
 	"2c9bc904-90e2-469f-9f09-d2eb5fddeadc": {
 		"name": "android_squad_streaming_alpha",
-		"v": 4901,
+		"v": 4919,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -3090,15 +3090,15 @@
 	},
 	"582e8787-2402-407c-8957-57da6adc2f98": {
 		"name": "android_multi_view_alpha",
-		"v": 4902,
+		"v": 4920,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
