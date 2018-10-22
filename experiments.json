@@ -7196,6 +7196,25 @@
 			}
 		]
 	},
+	"d3dcfaf6-ed3c-4935-ae56-250f7f01afc4": {
+		"name": "android_kamehameha",
+		"v": 4922,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "follow_no_surf"
+			},
+			{
+				"weight": 100,
+				"value": "follow_surf"
+			}
+		]
+	},
 	"d4752777-a16a-4128-bcfb-42cbd4a53613": {
 		"name": "TWILIGHT_OWL_ROOM_CHEERING",
 		"v": 3846,
