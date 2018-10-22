@@ -1,7 +1,7 @@
 {
 	"0016759f-1344-45de-99e2-f9bfa46a8a6a": {
 		"name": "android_videoplayer_r7",
-		"v": 4877,
+		"v": 4918,
 		"t": 1,
 		"groups": [
 			{
@@ -9,11 +9,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 95,
 				"value": "playercore"
 			},
 			{
-				"weight": 50,
+				"weight": 5,
 				"value": "exoplayer_2"
 			}
 		]
