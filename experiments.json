@@ -5486,15 +5486,15 @@
 	},
 	"9df89947-d819-4ed5-b3ab-72c7073b8451": {
 		"name": "ios_oauth_refresh_7_0",
-		"v": 4893,
+		"v": 4928,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "oauth_refresh_enabled"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "skip_oauth_refresh"
 			}
 		]
