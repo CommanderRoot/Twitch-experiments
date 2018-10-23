@@ -7915,6 +7915,21 @@
 			}
 		]
 	},
+	"ebae4615-0993-47dd-a06f-27f36dc53a7c": {
+		"name": "ios_disco_gladiator",
+		"v": 4930,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"ec27e6fe-dabc-4fd3-ab62-a2cffc8fe316": {
 		"name": "coview_with_regression",
 		"v": 1420,
