@@ -7448,6 +7448,21 @@
 			}
 		]
 	},
+	"d92998ee-3ac6-4196-842f-0f30fd4de83e": {
+		"name": "directory_ttl",
+		"v": 4937,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "experiment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"d932e71d-23b9-4562-a2d3-2c57761cbfc6": {
 		"name": "clips_love_story",
 		"v": 2913,
