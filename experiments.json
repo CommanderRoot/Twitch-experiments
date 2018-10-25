@@ -2827,12 +2827,12 @@
 	},
 	"50e947d4-24b7-4000-a046-f48f4072b7cf": {
 		"name": "TWILIGHT_SUBSCRIBED_CHANNELS_SIDENAV",
-		"v": 4325,
+		"v": 4941,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -2840,7 +2840,7 @@
 				"value": "variant_a"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "left_nav_order_exp"
 			}
 		]
