@@ -2238,6 +2238,21 @@
 			}
 		]
 	},
+	"45ceb247-f097-45f5-bf47-11e2d123c437": {
+		"name": "android_group_notifications_2",
+		"v": 4953,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"45d73059-3cea-436a-b41f-86bb05f845f2": {
 		"name": "CVP May 18",
 		"v": 1904,
