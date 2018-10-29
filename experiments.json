@@ -1072,6 +1072,21 @@
 			}
 		]
 	},
+	"215c4fb8-bb72-4dbc-a4e6-ddd11941fdb3": {
+		"name": "android_group_notifications",
+		"v": 4955,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"21eae6bf-b120-4cd0-a513-5612ea0fb51c": {
 		"name": "ps4_playercore",
 		"v": 1121,
@@ -2220,21 +2235,6 @@
 			{
 				"weight": 100,
 				"value": "enabled"
-			}
-		]
-	},
-	"45ceb247-f097-45f5-bf47-11e2d123c437": {
-		"name": "android_group_notifications_2",
-		"v": 4953,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "active"
 			}
 		]
 	},
