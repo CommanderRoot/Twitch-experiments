@@ -2434,6 +2434,21 @@
 			}
 		]
 	},
+	"49fc6817-ba19-4a19-b7a6-c87ab7234eb3": {
+		"name": "ios_squad_streaming",
+		"v": 4974,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"4aa9ee11-136c-4521-a139-e2abb718ec07": {
 		"name": "Gabriel",
 		"v": 841,
@@ -6701,6 +6716,21 @@
 			{
 				"weight": 1,
 				"value": "browse"
+			}
+		]
+	},
+	"c49b9b31-320b-47b8-a79e-eb5a0c81682f": {
+		"name": "ios_multiview",
+		"v": 4975,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
