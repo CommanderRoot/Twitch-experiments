@@ -8019,23 +8019,19 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-		"v": 4977,
+		"v": 4978,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 2,
-				"value": "2.6.292"
+				"weight": 5,
+				"value": "2.6.31+abrreset"
 			},
 			{
-				"weight": 2,
-				"value": "2.6.29+ctrl"
+				"weight": 5,
+				"value": "2.6.31+control"
 			},
 			{
-				"weight": 46,
-				"value": "2.6.29"
-			},
-			{
-				"weight": 50,
+				"weight": 90,
 				"value": "2.6.31"
 			}
 		]
