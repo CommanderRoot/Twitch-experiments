@@ -4328,6 +4328,25 @@
 			}
 		]
 	},
+	"7c153584-d5ad-4e97-a9a9-f87095b6967a": {
+		"name": "ios_onboarding_impact",
+		"v": 4980,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 33,
+				"value": "control"
+			},
+			{
+				"weight": 33,
+				"value": "game_selection"
+			},
+			{
+				"weight": 33,
+				"value": "full_onboarding"
+			}
+		]
+	},
 	"7cdee701-0ac3-4b47-94d3-b47b3b707dc8": {
 		"name": "nielsen_analytics",
 		"v": 4425,
