@@ -4557,6 +4557,21 @@
 			}
 		]
 	},
+	"84768cc8-b1f7-4af2-a258-4e0910c0829c": {
+		"name": "stream_summary_notifications_analytics",
+		"v": 4992,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"84d81180-6faa-4c58-98d7-48bbff5035c7": {
 		"name": "baking_bread_us",
 		"v": 658,
@@ -8019,7 +8034,7 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-		"v": 4978,
+		"v": 4993,
 		"t": 1,
 		"groups": [
 			{
@@ -8031,8 +8046,20 @@
 				"value": "2.6.31+control"
 			},
 			{
-				"weight": 90,
+				"weight": 84,
 				"value": "2.6.31"
+			},
+			{
+				"weight": 2,
+				"value": "2.6.31+abrctrl"
+			},
+			{
+				"weight": 2,
+				"value": "2.6.310+abrprobe"
+			},
+			{
+				"weight": 2,
+				"value": "2.6.310"
 			}
 		]
 	},
