@@ -112,6 +112,21 @@
 			}
 		]
 	},
+	"026bb688-f793-4745-921b-9350a04bcd5e": {
+		"name": "ios_video_edge_reassignment",
+		"v": 4994,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "active"
+			}
+		]
+	},
 	"03f25f55-ded6-417a-b241-d656571c4a1f": {
 		"name": "twilight_watch_symmetra",
 		"v": 4191,
