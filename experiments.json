@@ -3502,21 +3502,6 @@
 			}
 		]
 	},
-	"6452eb30-73ed-4c21-9cda-53a44f83c184": {
-		"name": "ios_pipboy_flicker_ads",
-		"v": 1303,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
-				"value": "test"
-			}
-		]
-	},
 	"646e8b92-33d7-43b7-893b-dc4de7d6e64a": {
 		"name": "ios_oauth_refresh",
 		"v": 4796,
