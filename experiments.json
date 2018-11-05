@@ -4281,11 +4281,11 @@
 	},
 	"7a2d8915-c3b5-4418-8200-6d979dc1d8e9": {
 		"name": "ios_chromecast_mini_player",
-		"v": 4190,
+		"v": 5002,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "disabled"
 			},
 			{
@@ -4293,7 +4293,7 @@
 				"value": "enabled"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "enabled_6_6_and_later"
 			}
 		]
