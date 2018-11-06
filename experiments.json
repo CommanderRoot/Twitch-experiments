@@ -2557,12 +2557,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 4999,
+		"v": 5006,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-a61e74.sjc02.hls.ttvnw.net/v1/segment/ChDt9ERIZeQmqnWNd_8B81xJ116QnENikuBDJvhzqKaa6obff2jVjDHnvrSqGxAMFjGBuzlyAHjhWJ5VU4iFN2lBH3T3UfLN3_7qvQ7z9Bv2yTKbTFnPjBwKZjM_JlOwVNbq0BpAdjSh9oSmNZ4JusymaT_-W34d3pQpEjG9S-JxCLH2_j6Eq8LSoxsMYF3v0p9OQIpwNMEzYNW_sfl4oY_nMcl1JbRGJwVzMU_5J-qETlhnwFC3o0kzfuNbUx1uKrinVSgrUc50a9yw5e3J9eG5YH5knJM8tyEKCTEFOCKluYFjpyytuFUXR-7lXAkRnkAdSio_qlS812IPmkf07hrre4mnamzPNgfUiLh2J_vkWS_RL3zitexbY3yqoJX9TrgQCOBvwdJskbgwKDHzYg0f_xyXhhO5dYgSTD2d4Mri8gcNnfzuPRqf16_h7IB7MlW9amJrwHV34JsdA0hfqxHDJg93Q2jnoXgaeJ5_zfnnlNeUrDEuk2YklCYH3F907VkH8HuPEuavc8tga9D2TVZY7R-B5bCtm1hqw5KVeqw6HoSonPOXDyfHv8L268p4OVt20OEOoIAVV_LIavS-Nd-wW47WwRv5Bu4Ln0RiGeMkli505rwjJG9IdlS5nueB1nqlStyam0EojTS44TQUNW5r6syy9fxfRQzDc38Dy5LMbfHQhAU9pqlEArzJf148jK8P8jVBbVXo2R9H2TXMqsYnvj9wQLYr9RyOp4iDoxsw0EqMsRv4127RRS0.ts"
+				"value": "//video-edge-d4040c.sjc02.hls.ttvnw.net/v1/segment/Cp5S6XQLcRQ3IqGoZgFPPRfDH1ABs4UdE-Q5MQUsmwTFn2_t-yhhbMw60B7a9mjF9myXRQ-4Tu2QF96Nq-I_AbzTWffBssvv6U8ZMTr65kVAiOXFOxvdI8GvbSf53JZAEUhgbXRuCg52MAQR07CdpaZsA7B5fhgAPULtw7MT1UO7BGFrKffwxTeZkMrnU-OiTxF6jLboN7EzCPUXbqYRFooBP40VDR4mTgW4h0TNZwfmmZ_Gutn-g81zB_8LjDCjuiktBGmQdmwhBfpKb4gCm616QKLXpTqTkUe6pim0kUXGexpgzFRu-atJyxUreAwCVHLQjKtFnCwcnZtEnwxLOQKXtc5Anbe-1KbtisVKaW0f-_iQqPQwbGLj_dNIXdYWVMl8Wf7RAEXpPz-jBCauPOHucJUmrCrMAaDBPZxWe3AAZfr-tnM0vNB1XpI0-dvUO6Q-livgwB_HmtoHdrz_T_icvo16723RjNIjFPzZprBN31a9guxYHXNvEls_CIMbgnHR3C96Fzydjrhgw5hScjhAOJZbLQbYwXIF6UMfXuRGnv3OTC600PvRUay3jUXSVUPDb4jwF5OXXcBlS99nHe50CuMggW5XYe0OLDdlePBWP8syKvQgL2HqJ81sQcZovbvZj1cQQqtTrt1A7d59-6-GPkC8xaRdgrhvhmQQosf5ud_MvjTkPq3INH7zwd1puvl8Pmcgq7o148yIksHHDSyTRM_AopSxFLWq4aIysfTKz5pNQxwBnad0YdMJt80N0m13.ts"
 			}
 		]
 	},
@@ -4266,11 +4266,11 @@
 	},
 	"7a2d8915-c3b5-4418-8200-6d979dc1d8e9": {
 		"name": "ios_chromecast_mini_player",
-		"v": 5004,
+		"v": 5005,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 95,
 				"value": "disabled"
 			},
 			{
@@ -4282,7 +4282,7 @@
 				"value": "enabled_6_6_and_later"
 			},
 			{
-				"weight": 100,
+				"weight": 5,
 				"value": "enabled_7_1_1_and_later"
 			}
 		]
