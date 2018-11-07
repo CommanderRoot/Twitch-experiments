@@ -3957,6 +3957,21 @@
 			}
 		]
 	},
+	"70c05c72-ccfe-4604-895c-48ff3fc98128": {
+		"name": "untrusted_tier_1_metrics",
+		"v": 5030,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "send"
+			},
+			{
+				"weight": 0,
+				"value": "donotsend"
+			}
+		]
+	},
 	"711aaaf6-61c0-4cc4-9469-0dfc9908785a": {
 		"name": "VP_QOS_TEST",
 		"v": 819,
