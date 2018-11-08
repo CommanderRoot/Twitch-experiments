@@ -292,15 +292,15 @@
 	},
 	"099f5ff5-819d-4927-a1c4-8c9061545ac6": {
 		"name": "TWILIGHT_VOD_VOLTRON",
-		"v": 4212,
+		"v": 5059,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "variant1"
 			}
 		]
