@@ -3033,12 +3033,16 @@
 	},
 	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
 		"name": "live_qos_model",
-		"v": 4878,
+		"v": 5077,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "entry_pop"
+			},
+			{
+				"weight": 10,
+				"value": "control10"
 			}
 		]
 	},
