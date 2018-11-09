@@ -1130,15 +1130,15 @@
 	},
 	"23763b93-4da3-4680-960c-2ba7a8006070": {
 		"name": "ios_vaes_enabled",
-		"v": 5056,
+		"v": 5083,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -1441,15 +1441,15 @@
 	},
 	"2d4ba176-3f24-49b6-bf92-dba1287cfeaa": {
 		"name": "android_vaes",
-		"v": 5049,
+		"v": 5084,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			}
 		]
