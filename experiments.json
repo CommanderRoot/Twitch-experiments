@@ -1911,6 +1911,21 @@
 			}
 		]
 	},
+	"3e00e6a3-77d3-41ab-a587-9618050a519a": {
+		"name": "onaffiliate_twitch_prime_extension_staging",
+		"v": 5081,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "experiment_cohort"
+			}
+		]
+	},
 	"3e011e23-ef29-46a5-af4b-a86e15d8c9e6": {
 		"name": "DISCOVER_SHOW_COVIEWS",
 		"v": 669,
@@ -3033,16 +3048,20 @@
 	},
 	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
 		"name": "live_qos_model",
-		"v": 5077,
+		"v": 5078,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
-				"value": "entry_pop"
+				"weight": 80,
+				"value": "control"
 			},
 			{
 				"weight": 10,
 				"value": "control10"
+			},
+			{
+				"weight": 10,
+				"value": "sticky_v1"
 			}
 		]
 	},
@@ -3393,21 +3412,6 @@
 			{
 				"weight": 5,
 				"value": "no"
-			}
-		]
-	},
-	"60c56c78-2078-4015-9214-fda1c31ed3f5": {
-		"name": "onaffiliate_twitch_prime_extension",
-		"v": 5076,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "experiment_cohort"
 			}
 		]
 	},
@@ -7656,6 +7660,21 @@
 			}
 		]
 	},
+	"de582455-1d02-48e4-9ff5-9fbe029ad978": {
+		"name": "onaffiliate_twitch_prime_experiment",
+		"v": 5082,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment_cohort"
+			}
+		]
+	},
 	"dea90efd-4f1b-419f-995e-a7f203e1224f": {
 		"name": "android_voffline_sort",
 		"v": 3993,
@@ -8125,21 +8144,6 @@
 			{
 				"weight": 100,
 				"value": "yes_play_1050"
-			}
-		]
-	},
-	"ed9d5860-7baa-4990-85c2-f3c84572f93b": {
-		"name": "onaffiliate_twitch_prime_extension_staging",
-		"v": 5075,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "experiment_cohort"
 			}
 		]
 	},
