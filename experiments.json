@@ -3392,6 +3392,21 @@
 			}
 		]
 	},
+	"60c56c78-2078-4015-9214-fda1c31ed3f5": {
+		"name": "onaffiliate_twitch_prime_extension",
+		"v": 5076,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment_cohort"
+			}
+		]
+	},
 	"6147aed8-6beb-4c24-a00b-a9ec189a4c1d": {
 		"name": "twilight_channel_analytics_content_overlap_panels",
 		"v": 4301,
@@ -8106,6 +8121,21 @@
 			{
 				"weight": 100,
 				"value": "yes_play_1050"
+			}
+		]
+	},
+	"ed9d5860-7baa-4990-85c2-f3c84572f93b": {
+		"name": "onaffiliate_twitch_prime_extension_staging",
+		"v": 5075,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "experiment_cohort"
 			}
 		]
 	},
