@@ -2568,12 +2568,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 5091,
+		"v": 5092,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-1e4779.sjc02.hls.ttvnw.net/v1/segment/CmpSLnKFRwK7xthiGm30TN4RQ-V-Ff2z3dv7vTRhrrVfTZVNNbmTu8Rp91XRpB-ob7lr1sX0d2z7VlgBO2GE_UsnHTFwYb2NR2yhe4rSUO1vdiYrxRcld-7wmCSwa_ybTSDaDisgEA-cULG7sOTVLAUdiLTV1-_F9Bi2wuCN83sAAau6MCcfESqPjd_igcAA9ymqvQGzaN-t6ko3ZpyJj7ryP1AnfpTVanZg2nwK13vKVT2S_IDQycjN43JVr0Q4K7eEqDStWowCPW7mwso5u3QFY4gfGCvKP6Br__rHtcSWZNhT1zlMGwZwdINH50LOktKUvJg1doYuB0zUm6e0Lk103ujNzYhGz3jh0X0OSZIBJIsk0WWoZYu5rsxgf6k9Jla8-nyj6R5-q-W6Eq4aaHQ0as6SvgWYTVzZVGp0SstAh0mOFUqqlIeKNFjrL8QENLp_UV_G7hDJlXXXjHQ517Hj0PCY96VfT9pn8iKJ2bdyW0lmAw1z7s8HESLVdIE4iF3yU9wqQyfbmbx7rpgTGl9Unir5xaaVjmVFVhObKucoXdX2a2xxyZeLZ207lt1eq4ILRRbjqegJ-4WgSkXaQmtzkmmkLe4leGjBnj3PM_idYzAHNbqIlc7KHhfqz8eunfVg9ZMWSzh9rxTG9zDGg7Bj0d1tiK30zodSZKJSr7VmHsLK8LeSmeIsHJ16lTVMImXbgR9rjZyT9VoIltppJkfyCxoDiAavrVegPrvbhhwqC-P6pD2m_vL0YNyC4FVV2J7G1xk55mSarJ7uw2lvkf6ap.ts"
+				"value": "//video-edge-6921c6.sjc02.hls.ttvnw.net/v1/segment/CgokPibpZmud_2lcQPLAp5OC2s10xoCpGayl37YHB3nCvNuxAZm6T1gB6ECGxYQA1GAW7voKXCzAKXNr3TytPnTjgzA_XH7cLIAXQeOHHG6NE7k_PTXosm-An-WrHH7tDxJ8NmmnkPtVWgcWYclppnXypuKoJgU_PfpV9b82B0UAJFwIhyEkFBlWkYXFiSII49RIhjUvImWAvs7ZxvaGtQiZ5E6j27EsT-RRyw9QBfgYSr8l-PKhqmyg3tWY7oLSiinMIfr6_ACic7LAZNQEYg3ZUbM8hEIyJRvpgq916EQwQ51CCNSI6p2Cic130-PW-Bv63Sa2HY219Hx2hrifx8KczqSs9ewh24etF2M-1EaMi_MWWazOP6B6cHvLJPzRy_n_UkGgZq-qzI7pi1dsYhcoOid8XHxashvd-pftunS_lx9_F3EixvfGB0MfERhFtEVDGxBGCHwm51cP1PXMd54OUXcswSIdJbEXdDf23xtVIkb5hQ_r5uT58IuXmLbHGLjUCdzBEUdZiexTlIkyyF6Y5ycu9ZbyfFKrwIqgDVkT0-yxrUxiD8VB73pUl0wRA5HWhOJ54K-Io0vHbtbIB_IIJfi4uS-ny_-NXxRCUHQpSAzaLmBORYhGkmOcXC0HBQNWLrgvVXPwf2wyyXjvqIEnLLIKvkF3jKZcKQcd6VxXVVMylJpXaPz4lcKy_ou_Xx6lu1IMRQwoevpAULELKHUmX_WU6QBNCgx_pvSSGuMV48V1eRxpomirsAuYwvyK7_3ZIWnsFqkZ-KEoH.ts"
 			}
 		]
 	},
@@ -7827,6 +7827,21 @@
 			{
 				"weight": 95,
 				"value": "enabled"
+			}
+		]
+	},
+	"e2b1eebd-2c78-4798-885b-d884123796af": {
+		"name": "vod_cloudfront_shift",
+		"v": 5093,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "default"
+			},
+			{
+				"weight": 0,
+				"value": "cloudfront"
 			}
 		]
 	},
