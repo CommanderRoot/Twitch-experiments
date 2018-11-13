@@ -3063,19 +3063,15 @@
 	},
 	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
 		"name": "live_qos_model",
-		"v": 5089,
+		"v": 5119,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
-				"value": "control20"
+				"weight": 50,
+				"value": "control50"
 			},
 			{
-				"weight": 60,
-				"value": "control"
-			},
-			{
-				"weight": 20,
+				"weight": 50,
 				"value": "sticky_v1"
 			}
 		]
