@@ -7843,15 +7843,15 @@
 	},
 	"e2b1eebd-2c78-4798-885b-d884123796af": {
 		"name": "vod_cloudfront_shift",
-		"v": 5124,
+		"v": 5125,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 10,
 				"value": "default"
 			},
 			{
-				"weight": 75,
+				"weight": 90,
 				"value": "cloudfront"
 			}
 		]
