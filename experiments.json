@@ -6614,6 +6614,21 @@
 			}
 		]
 	},
+	"bd9234fc-3c40-45f6-a544-868478744ba7": {
+		"name": "featured_collection_disable",
+		"v": 5130,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"bf00cae3-c729-4ff9-816c-f9ede2f69f02": {
 		"name": "twilight_vod_used_to_this",
 		"v": 4174,
