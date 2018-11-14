@@ -6616,15 +6616,15 @@
 	},
 	"bd9234fc-3c40-45f6-a544-868478744ba7": {
 		"name": "featured_collection_disable",
-		"v": 5132,
+		"v": 5135,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 95,
 				"value": "disabled"
 			}
 		]
