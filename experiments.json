@@ -4501,6 +4501,21 @@
 			}
 		]
 	},
+	"7f6c9e38-b147-4ea1-9e25-2654a42977e2": {
+		"name": "ios_chromecast_vod_seek",
+		"v": 5154,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "no_seek"
+			},
+			{
+				"weight": 100,
+				"value": "seek"
+			}
+		]
+	},
 	"80a4bf5b-0897-4ae6-bf0b-70357524c39b": {
 		"name": "ios_feed_display_content_type_indicator",
 		"v": 2357,
