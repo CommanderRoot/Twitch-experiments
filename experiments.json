@@ -2326,15 +2326,15 @@
 	},
 	"47597570-dd4e-4996-85eb-86db164cae9c": {
 		"name": "TWILIGHT_AML_RANKING_FOLLOWS",
-		"v": 5162,
+		"v": 5165,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
