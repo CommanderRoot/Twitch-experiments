@@ -1484,21 +1484,6 @@
 			}
 		]
 	},
-	"2daa3d46-bdf8-484a-8e42-022906b1699f": {
-		"name": "android_tag_along",
-		"v": 4342,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"2e0cb30b-7aaa-4e01-9fdd-b7046605b41f": {
 		"name": "Mobile Web Chat Experiment",
 		"v": 1178,
@@ -7100,15 +7085,15 @@
 	},
 	"cddbe1bc-f0a6-430e-a6c4-bf06107e5027": {
 		"name": "android_skippable_onboarding",
-		"v": 4444,
+		"v": 5206,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
