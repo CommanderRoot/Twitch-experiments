@@ -2583,12 +2583,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 5199,
+		"v": 5201,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-17b99d.sjc02.hls.ttvnw.net/v1/segment/CmTS0SU3hY4BbGOrSHxjW_4QTtbSEvSbYz6hL7nhxqSTmacNVqexE0L9gZ03KP2Qm_MuHJgoPdbNpGjmAjB3I1FqXjHZcI0lolOqILFeffOCUQYQEsz2LN2gcaKLjCCqR6QLgErYAXtpkkP8stArpmJW9iGt8x9LOVM4EbTEan5I5CgYn1-oRsXmWZMzsnTo-S7O5F-qjcFpU8sAQi0tn2jsofGOdOqsMgWM1D-sJvIp5ZdRCgsqWc8h67ZbPBk5g5UceNvOkcXfCC_wc77o6HAV88HUjSVL11op2Q0kPJkwL1Aw_gSprBseGmqPBFVDwvAF17orJ7qVM-03NEq2hrPV00F1kY8ttDkusElY1oTx8vEmksZ1wn-GPccOHb-qCwSFJFoGm4AvhDIAiXWeckMMU1LKvIUadrsMOM_f7u0LqgGyS4DhQN1bkCl_IIa4GUAvgTpqGynbL6k4sygmernbXzjICkuZx_wO_tdWJETNlONnsCunI0eAgdjrLaf1IERUTTAXPe4-manrzKsx34Fi5HuB6E8snSZLRY0_wQCcfu6z9k81SfHrNOgjj7EeadPFcWbubcP_GWxQkLQ8Rd8mVQO-G-BDG9gEHJ9FN6VpsXDQEPnf_ac1tSBpA341L6GnyFopoNgzPfVT5VWtuBkajG8ZvgoT3gE85UEFLDZA4U7I5qCDvZALXy_skWIGFJYHxt-nNfBP2-NZvE-iE9re87KN0J36xHeDJTSgHJTEd7l7xMSN_F2QNIbf-Azc9r.ts"
+				"value": "//video-edge-88e570.sjc02.hls.ttvnw.net/v1/segment/CllfuT5Xlgt0bJ6taIjp_3frdGyzwQIGGpIuqZJvLzdXJURSLmSWGuGZuVcEYTv08kfa_QbU4Uh5FFJxgTZl4Ti0T7z9af1Dy8pqs4lPvhmq_a36FhuqiiWF6ERP82bHbfN-wDMX6GoU9xlyOnyUCA5K_mId72q07tjDNyxDwH1GuPtIsKu_ZhlwevSFGMkbS4ozjqIPwbrnuF1iPhm5wgb1DPSisuBAeWn2dTFFaiov0IY2Twv9glzaWOxj0ZYg6obY1KnD5nfW6C9uZXbGIt0r8fcRpXeLPs3nfZT0CJ2p3YK9pU9_UNEs5RDyK6zbdKXnkfdA3FByipXPyuHN5kPBT2ReHrj1AxIpvYmjZf_NT9MoZLUgotEajPADDpdMnoiMHCnAXlrx3k__IkzFVDv2oVpA8Gy1JKQ6lgylFFwUrLnMLYHM5R5paxa8HTpzm5Lvaq812Vpi28Ts_6ascV4rNBee2OzehWNUpiIjtA43CJ3PLs3_LNSB4rrwcJ_lHZYTYGIecEs4hbPpeGkcnbrmhpIExjdc6LqBLxl_HaBcchCpvrqpxyV4OsP6xqoggnO-sLWxpDvADso4KB_v4CBqxKUhq5z75C0pyyCBXAFlsyc2XEf2pPImfe7BufKTT-A1SXILEDMYyvqD1D9dshEN09pTU1PI8Xmozw3CJAe1s0HhxJSF26jTiCRL_jb-pYUFWIWnOGb3yIbib3-iNLWFull63QShajqt6FvdphVgjBPxc1QU1kSQX-Gu7kSZ0xrJ.ts"
 			}
 		]
 	},
@@ -3765,6 +3765,33 @@
 			{
 				"weight": 100,
 				"value": "new"
+			}
+		]
+	},
+	"6a1cba54-d5d3-4117-ab42-06bd5514a134": {
+		"name": "ios_user_id_experiment",
+		"v": 5202,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "b1"
+			},
+			{
+				"weight": 20,
+				"value": "b2"
+			},
+			{
+				"weight": 20,
+				"value": "b3"
+			},
+			{
+				"weight": 20,
+				"value": "b4"
+			},
+			{
+				"weight": 20,
+				"value": "b5"
 			}
 		]
 	},
