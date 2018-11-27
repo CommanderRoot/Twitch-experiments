@@ -5022,21 +5022,6 @@
 			}
 		]
 	},
-	"8fbe429a-3ca2-4909-a8ef-68cd9f5ed7dd": {
-		"name": "android_user_id_experiment",
-		"v": 4868,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 2,
-				"value": "active"
-			}
-		]
-	},
 	"8feaebce-0955-4d59-bbad-4e3469dbb2f8": {
 		"name": "android_chomments_posting",
 		"v": 2067,
