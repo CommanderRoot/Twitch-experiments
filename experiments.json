@@ -7083,21 +7083,6 @@
 			}
 		]
 	},
-	"cddbe1bc-f0a6-430e-a6c4-bf06107e5027": {
-		"name": "android_skippable_onboarding",
-		"v": 5206,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"ce62423f-4298-4448-bd1c-5421d96f65d6": {
 		"name": "ios_dashboard",
 		"v": 2544,
