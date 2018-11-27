@@ -557,25 +557,6 @@
 			}
 		]
 	},
-	"1233e3a4-d72f-48e5-b4b4-67856afdd7d5": {
-		"name": "ios_end_of_clips",
-		"v": 3467,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "no_autoplay"
-			},
-			{
-				"weight": 0,
-				"value": "autoplay"
-			}
-		]
-	},
 	"1318509a-bf97-475d-acdc-df6a24ef6e3e": {
 		"name": "twilight_videos_in_sidenav",
 		"v": 2842,
@@ -3114,21 +3095,6 @@
 			}
 		]
 	},
-	"55a65e97-f220-4fff-af0a-e70c12ff279c": {
-		"name": "ios_clips_editing_prerelease",
-		"v": 2533,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"560f30f8-b4fc-4a9d-96ac-9143dc1f4110": {
 		"name": "recommended_clips_live_recs",
 		"v": 3322,
@@ -4200,25 +4166,6 @@
 			}
 		]
 	},
-	"76a67969-399d-44c3-ad37-f726a10bf54d": {
-		"name": "android_end_of_clips",
-		"v": 3847,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "recommendations"
-			},
-			{
-				"weight": 100,
-				"value": "autoplay"
-			}
-		]
-	},
 	"784edc9a-06c1-4b4a-98cd-b55458dea164": {
 		"name": "ios_gdpr_user_consent_kill_switch",
 		"v": 4125,
@@ -4932,25 +4879,6 @@
 			{
 				"weight": 80,
 				"value": "disabled"
-			}
-		]
-	},
-	"8e15c9aa-bddc-4791-9a90-3df842c82f05": {
-		"name": "ios_end_of_clips_v6.1",
-		"v": 3470,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 33,
-				"value": "control"
-			},
-			{
-				"weight": 33,
-				"value": "autoplay"
-			},
-			{
-				"weight": 34,
-				"value": "no_autoplay"
 			}
 		]
 	},
