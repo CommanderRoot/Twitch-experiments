@@ -35,15 +35,15 @@
 	},
 	"00cf4222-ae71-42ba-8f7a-7f0ffb589d24": {
 		"name": "TWILIGHT_DASHBOARD_COLLABORATION_2",
-		"v": 5109,
+		"v": 5237,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "yes"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
