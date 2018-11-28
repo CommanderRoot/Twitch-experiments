@@ -4576,6 +4576,21 @@
 			}
 		]
 	},
+	"8475cd6f-1eaa-428c-85a2-6db8b3ca99f2": {
+		"name": "ios_tags_in_dashboard",
+		"v": 5233,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"84768cc8-b1f7-4af2-a258-4e0910c0829c": {
 		"name": "stream_summary_notifications_analytics",
 		"v": 4992,
@@ -5048,6 +5063,21 @@
 			{
 				"weight": 100,
 				"value": "month"
+			}
+		]
+	},
+	"939f4935-0311-453b-b089-c35f89e6cccf": {
+		"name": "ios_tags_in_dashboard",
+		"v": 5234,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
