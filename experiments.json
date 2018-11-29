@@ -216,15 +216,15 @@
 	},
 	"05dc2471-5696-4e15-9ff6-57d2fd4837c2": {
 		"name": "pushy_onsite_email_verification",
-		"v": 4855,
+		"v": 5240,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -4289,15 +4289,15 @@
 	},
 	"7aa589f3-34d8-425f-8227-29007d50757e": {
 		"name": "twilight_growth_email_verify_bar",
-		"v": 4854,
+		"v": 5239,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "enabled"
 			}
 		]
