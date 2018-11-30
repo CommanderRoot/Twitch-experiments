@@ -3267,21 +3267,6 @@
 			}
 		]
 	},
-	"5db52781-526c-4ff1-9602-ae6cfd25ff65": {
-		"name": "low_latency_toggle",
-		"v": 4792,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "show"
-			}
-		]
-	},
 	"5e532f0e-a835-44bf-9349-bd5cd2b6a416": {
 		"name": "ios_reward_exp",
 		"v": 3290,
@@ -7303,8 +7288,8 @@
 		]
 	},
 	"d4bc07e9-bb6d-403e-9574-6def01fe08cb": {
-		"name": "forced_low_latency",
-		"v": 5248,
+		"name": "forced_future",
+		"v": 5249,
 		"t": 1,
 		"groups": [
 			{
