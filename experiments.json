@@ -260,21 +260,6 @@
 			}
 		]
 	},
-	"0670f0ea-3b5c-41a8-946d-114ef4a42540": {
-		"name": "INTL_I18N",
-		"v": 5280,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "enabled"
-			}
-		]
-	},
 	"070d88d9-02da-42cf-a83d-4f884878f93a": {
 		"name": "MOBILE_CHECKOUT",
 		"v": 2097,
@@ -1632,21 +1617,6 @@
 			}
 		]
 	},
-	"355ff3e2-38b5-449a-8ab8-a52b5d3ab817": {
-		"name": "remove csgo directory",
-		"v": 5279,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "remove"
-			}
-		]
-	},
 	"35731f0a-bd57-4582-915d-907dee75b3d4": {
 		"name": "trending_emotes",
 		"v": 1708,
@@ -2333,21 +2303,6 @@
 			{
 				"weight": 1,
 				"value": "asmjs"
-			}
-		]
-	},
-	"497e1277-7fff-4c16-98f0-6b55c8b59a4f": {
-		"name": "I18N_GAME_NAMES",
-		"v": 5281,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "enabled"
 			}
 		]
 	},
@@ -7479,37 +7434,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"df008233-c0f2-46dc-92a2-61396ae402e3": {
-		"name": "Similar Channels",
-		"v": 5278,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "d,nhs,f,c,a"
-			},
-			{
-				"weight": 0,
-				"value": "d,nhs,f,c,b"
-			},
-			{
-				"weight": 0,
-				"value": "d,nhs,c"
-			},
-			{
-				"weight": 0,
-				"value": "d,hs,2r"
-			},
-			{
-				"weight": 100,
-				"value": "d,hs,c"
 			}
 		]
 	},
