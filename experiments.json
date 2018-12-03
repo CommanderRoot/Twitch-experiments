@@ -395,21 +395,6 @@
 			}
 		]
 	},
-	"0ca9c0f5-f9fc-40c6-be3f-52a9fa69a8b9": {
-		"name": "twilight_animated_directory_thumbnails",
-		"v": 4192,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "experiment"
-			}
-		]
-	},
 	"0d5fb9e1-227c-4aea-94d3-414836081d58": {
 		"name": "android_videoplayer_v5",
 		"v": 2963,
@@ -5307,29 +5292,6 @@
 			{
 				"weight": 95,
 				"value": "live"
-			}
-		]
-	},
-	"9cb0fb03-a804-4e1e-94bc-12052b96e41a": {
-		"name": "BROWSE_SORT",
-		"v": 2208,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variantB"
-			},
-			{
-				"weight": 0,
-				"value": "variantC"
-			},
-			{
-				"weight": 0,
-				"value": "variantD"
 			}
 		]
 	},
