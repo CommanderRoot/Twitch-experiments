@@ -1647,21 +1647,6 @@
 			}
 		]
 	},
-	"354aaebd-7643-434f-be37-98fe12c01220": {
-		"name": "HTML5_Toggle_Removal",
-		"v": 4914,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "remove"
-			},
-			{
-				"weight": 100,
-				"value": "keep"
-			}
-		]
-	},
 	"355ff3e2-38b5-449a-8ab8-a52b5d3ab817": {
 		"name": "remove csgo directory",
 		"v": 324,
@@ -2287,21 +2272,6 @@
 			{
 				"weight": 0,
 				"value": "treatment"
-			}
-		]
-	},
-	"479d9473-bf6e-4d74-8f9b-dd85d6f98921": {
-		"name": "LOL_METADATA_EXPERIMENT",
-		"v": 1419,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "treatment"
-			},
-			{
-				"weight": 0,
-				"value": "control"
 			}
 		]
 	},
@@ -5228,21 +5198,6 @@
 			}
 		]
 	},
-	"9985aa41-ce6a-48ab-abae-b0e0c34dca71": {
-		"name": "LTV",
-		"v": 1713,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
-				"value": "no"
-			}
-		]
-	},
 	"99c425d5-7d9f-47bd-a13a-409903cd6515": {
 		"name": "SIGNUP_REDIRECT",
 		"v": 2033,
@@ -6894,21 +6849,6 @@
 	"ca305459-aec3-4d0c-b4e4-93d8cda54bba": {
 		"name": "DEMOGRAPHIC_STATS",
 		"v": 1839,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
-				"value": "no"
-			}
-		]
-	},
-	"cc164e1e-1361-4730-8d9b-0091a0f9cb8f": {
-		"name": "DETERMINATION",
-		"v": 2448,
 		"t": 1,
 		"groups": [
 			{
