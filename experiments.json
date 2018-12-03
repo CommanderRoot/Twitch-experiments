@@ -2974,6 +2974,21 @@
 			}
 		]
 	},
+	"5684b8eb-5d61-4685-84e2-43090b32179d": {
+		"name": "extensions_turn_off_for_viewers",
+		"v": 5287,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "test"
+			}
+		]
+	},
 	"582e8787-2402-407c-8957-57da6adc2f98": {
 		"name": "android_multi_view_alpha",
 		"v": 4920,
