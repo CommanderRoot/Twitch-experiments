@@ -6054,21 +6054,6 @@
 			}
 		]
 	},
-	"afcda2ba-dd12-4d9a-9428-df6a71104db8": {
-		"name": "twilight_new_homepage",
-		"v": 3731,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "experiment"
-			},
-			{
-				"weight": 0,
-				"value": "control"
-			}
-		]
-	},
 	"b0033638-a84e-4f57-8952-7115be4dc3b6": {
 		"name": "also_known_as",
 		"v": 749,
@@ -8207,21 +8192,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"f3920cff-ef57-46c9-8dd9-b4f145acf6e5": {
-		"name": "twilight_discovery_frontpage_mvp",
-		"v": 4532,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant"
 			}
 		]
 	},
