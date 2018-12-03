@@ -1553,21 +1553,6 @@
 			}
 		]
 	},
-	"30a7dfaa-e3d2-477e-a4f1-28e2ffb80e72": {
-		"name": "NEWSFEED_RECOMMENDATIONS",
-		"v": 1568,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant"
-			}
-		]
-	},
 	"31827b23-ea01-48b8-87c6-1503656957fd": {
 		"name": "SISKO",
 		"v": 1248,
@@ -1625,21 +1610,6 @@
 			{
 				"weight": 5,
 				"value": "control"
-			}
-		]
-	},
-	"33d53034-cd8b-408f-abe7-e740f2fec303": {
-		"name": "Hearthstone Directory Filter",
-		"v": 2182,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
-				"value": "no"
 			}
 		]
 	},
@@ -3917,21 +3887,6 @@
 			{
 				"weight": 0,
 				"value": "disabled"
-			}
-		]
-	},
-	"6fffb6c6-19d4-4172-980f-498079d99b9c": {
-		"name": "Overwatch Directory Filter",
-		"v": 2181,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
-				"value": "no"
 			}
 		]
 	},
@@ -7571,7 +7526,7 @@
 	},
 	"de013c6f-a800-45ee-9ab4-7965c405e3eb": {
 		"name": "TWILIGHT_ARCHER",
-		"v": 5256,
+		"v": 5268,
 		"t": 1,
 		"groups": [
 			{
@@ -7579,11 +7534,11 @@
 				"value": "moments"
 			},
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 30,
 				"value": "moments_with_images"
 			},
 			{
