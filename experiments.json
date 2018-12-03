@@ -2802,26 +2802,6 @@
 			}
 		]
 	},
-	"50e947d4-24b7-4000-a046-f48f4072b7cf": {
-		"name": "TWILIGHT_SUBSCRIBED_CHANNELS_SIDENAV",
-		"v": 4941,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant_a"
-			},
-			{
-				"weight": 100,
-				"value": "left_nav_order_exp"
-			}
-		]
-	},
 	"50f7ac3e-3b9c-42ee-ba89-2981e2b78b31": {
 		"name": "ios_raid_now",
 		"v": 4598,
@@ -3380,15 +3360,15 @@
 	},
 	"635c1961-3efe-444b-8b40-94b96e64abac": {
 		"name": "video_edge_reassignment",
-		"v": 4813,
+		"v": 5273,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active"
 			}
 		]
