@@ -2991,15 +2991,15 @@
 	},
 	"5684b8eb-5d61-4685-84e2-43090b32179d": {
 		"name": "extensions_turn_off_for_viewers",
-		"v": 5294,
+		"v": 5297,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "test"
 			}
 		]
