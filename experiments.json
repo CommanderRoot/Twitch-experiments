@@ -5205,6 +5205,21 @@
 			}
 		]
 	},
+	"9ab23a00-5050-4113-bb2c-d59016a1f516": {
+		"name": "android_vaes_sdk",
+		"v": 5303,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"9acd1217-f98c-419a-b39a-0e7fb9e5f325": {
 		"name": "ios_pipboy_browse_ccus",
 		"v": 1544,
