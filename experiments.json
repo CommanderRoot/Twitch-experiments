@@ -1823,12 +1823,12 @@
 	},
 	"3c3a5d48-117f-43ac-8b35-091f13b2d479": {
 		"name": "MediaPlayer Staff Version",
-		"v": 5161,
+		"v": 5314,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "2.7.1+abrall"
+				"value": "2.7.2"
 			}
 		]
 	},
@@ -7844,13 +7844,17 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "CVP Player Core 2.0 Mediaplayer Experiment Aug 2017",
-		"v": 5253,
+		"v": 5315,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "2.7.1"
+			},
+			{
+				"weight": 5,
+				"value": "2.7.2"
 			}
 		]
 	},
