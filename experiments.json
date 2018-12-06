@@ -7408,7 +7408,7 @@
 	},
 	"de013c6f-a800-45ee-9ab4-7965c405e3eb": {
 		"name": "TWILIGHT_ARCHER",
-		"v": 5302,
+		"v": 5310,
 		"t": 1,
 		"groups": [
 			{
@@ -7416,11 +7416,11 @@
 				"value": "moments"
 			},
 			{
-				"weight": 60,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 100,
 				"value": "moments_with_images"
 			},
 			{
