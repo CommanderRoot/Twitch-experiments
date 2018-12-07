@@ -4410,6 +4410,21 @@
 			}
 		]
 	},
+	"8140d736-e8dd-49bc-b7cb-0d5b65d4cd5b": {
+		"name": "ios_chat_filter_existing_users",
+		"v": 5319,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "opt-in"
+			}
+		]
+	},
 	"81bb4059-ff06-446e-86f4-d6e59ae0fe21": {
 		"name": "android_live_tab",
 		"v": 2268,
@@ -7839,6 +7854,25 @@
 			{
 				"weight": 0,
 				"value": "8"
+			}
+		]
+	},
+	"ec640f44-d211-4331-9cee-bc2716b3130e": {
+		"name": "ios_chat_filter_new_users",
+		"v": 5318,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "opt-out"
+			},
+			{
+				"weight": 0,
+				"value": "opt-in"
 			}
 		]
 	},
