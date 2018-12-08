@@ -6391,6 +6391,21 @@
 			}
 		]
 	},
+	"bc4939c7-3ff9-42e7-bcf3-12bed7b60135": {
+		"name": "android_chat_filters",
+		"v": 5324,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"bcea9594-9761-4804-9d23-5b281512950b": {
 		"name": "android_native_login",
 		"v": 4663,
