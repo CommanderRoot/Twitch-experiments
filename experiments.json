@@ -5483,6 +5483,21 @@
 			}
 		]
 	},
+	"a1a2b4e3-9ad9-4ccc-bef0-edf449a73a16": {
+		"name": "mobile_web_worker_images",
+		"v": 5331,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"a1ce3d24-076a-4664-be4c-f9046fdce18c": {
 		"name": "baking_bread_uk",
 		"v": 657,
