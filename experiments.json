@@ -1649,15 +1649,15 @@
 	},
 	"35b1e483-c6ca-4efa-b58e-fed92ef91290": {
 		"name": "disco_gladiator",
-		"v": 5220,
+		"v": 5328,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 100,
 				"value": "variant1"
 			}
 		]
