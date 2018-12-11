@@ -6192,6 +6192,21 @@
 			}
 		]
 	},
+	"b507e7da-edb7-4a87-af80-3ebbfd762e84": {
+		"name": "ios_chat_filters",
+		"v": 5347,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"b54f8797-2b35-4024-8a8c-0f2ef440e4fa": {
 		"name": "android_channel_deeplink_to_theatre",
 		"v": 3592,
