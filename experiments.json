@@ -5494,6 +5494,25 @@
 			}
 		]
 	},
+	"9fa764ee-7293-4c1f-a0b6-b23c2f28c2cc": {
+		"name": "android_recommendations_in_following",
+		"v": 5383,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "variant_1"
+			},
+			{
+				"weight": 10,
+				"value": "variant_2"
+			},
+			{
+				"weight": 80,
+				"value": "control"
+			}
+		]
+	},
 	"a1a2b4e3-9ad9-4ccc-bef0-edf449a73a16": {
 		"name": "mobile_web_worker_images",
 		"v": 5331,
