@@ -8209,6 +8209,21 @@
 			}
 		]
 	},
+	"f71e2a10-4625-44fa-ab75-dddf8c7c0d41": {
+		"name": "ios_fix_pip_during_ads",
+		"v": 5465,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "enabled"
+			}
+		]
+	},
 	"f75ab09d-daf7-46db-bdd5-bb5a2f413cf7": {
 		"name": "twilight_clips_on_the_brain",
 		"v": 4094,
