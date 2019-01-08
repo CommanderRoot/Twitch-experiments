@@ -8395,6 +8395,21 @@
 			}
 		]
 	},
+	"fe0516b2-890f-41e0-8d9c-97055327f7e4": {
+		"name": "ios_chat_input_mode_verified_only",
+		"v": 5476,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			}
+		]
+	},
 	"fe5bad1f-521b-4ab9-9cd4-8161ef779550": {
 		"name": "crunchyroll_button",
 		"v": 1723,
@@ -8434,6 +8449,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"fea7487a-95ca-49bc-8f40-ce79618ff131": {
+		"name": "ios_chat_input_mode_subs_only",
+		"v": 5475,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
 			}
 		]
 	},
