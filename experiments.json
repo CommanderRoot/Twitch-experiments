@@ -20,15 +20,15 @@
 	},
 	"00cf4222-ae71-42ba-8f7a-7f0ffb589d24": {
 		"name": "TWILIGHT_DASHBOARD_COLLABORATION_2",
-		"v": 5237,
+		"v": 5497,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "yes"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -4185,6 +4185,21 @@
 			{
 				"weight": 100,
 				"value": "enabled_7_1_1_and_later"
+			}
+		]
+	},
+	"7a8644c3-2d4a-42fa-85cd-bdd6041ed732": {
+		"name": "android_multi_view_free_trial",
+		"v": 5496,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
