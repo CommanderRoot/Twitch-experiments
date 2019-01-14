@@ -4010,6 +4010,33 @@
 			}
 		]
 	},
+	"742b7531-8f5c-4c62-9099-7b2a60048ab2": {
+		"name": "Player Cost Savings",
+		"v": 5534,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "hidden_mw"
+			},
+			{
+				"weight": 0,
+				"value": "exclude_source"
+			},
+			{
+				"weight": 0,
+				"value": "reset_auto"
+			},
+			{
+				"weight": 0,
+				"value": "ex_src_resetauto"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"74bdc2cf-2caf-4775-8ac2-c0c7258742bf": {
 		"name": "ios_chat_filters_account_creation_date",
 		"v": 5358,
