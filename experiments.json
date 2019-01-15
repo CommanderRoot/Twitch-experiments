@@ -4882,6 +4882,21 @@
 			}
 		]
 	},
+	"8e60fcf8-7696-4d1a-8b7f-645b82359f69": {
+		"name": "Cloudfront Live Test",
+		"v": 5547,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "cloudfront"
+			}
+		]
+	},
 	"8f29eb23-cdb8-43a2-bb0f-7d0e0232f918": {
 		"name": "ios_graphql_faceted_browse",
 		"v": 4370,
