@@ -4117,6 +4117,21 @@
 			}
 		]
 	},
+	"76e37713-fdde-4e04-80f5-42594e0e21b6": {
+		"name": "remove_shadow_gradient",
+		"v": 5557,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "experiment"
+			}
+		]
+	},
 	"781530f1-5a77-449c-9d1e-604db8050127": {
 		"name": "stream_summary_email",
 		"v": 5541,
