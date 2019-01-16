@@ -292,15 +292,15 @@
 	},
 	"0a31a3f1-14eb-428d-bcbd-1c30fecf1bad": {
 		"name": "ios_email_settings",
-		"v": 5402,
+		"v": 5550,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
