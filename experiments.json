@@ -4012,24 +4012,16 @@
 	},
 	"742b7531-8f5c-4c62-9099-7b2a60048ab2": {
 		"name": "Player Cost Savings",
-		"v": 5542,
+		"v": 5553,
 		"t": 1,
 		"groups": [
-			{
-				"weight": 0,
-				"value": "hidden_mw"
-			},
 			{
 				"weight": 0,
 				"value": "exclude_source"
 			},
 			{
 				"weight": 0,
-				"value": "reset_auto"
-			},
-			{
-				"weight": 0,
-				"value": "ex_src_resetauto"
+				"value": "force_auto"
 			},
 			{
 				"weight": 0,
