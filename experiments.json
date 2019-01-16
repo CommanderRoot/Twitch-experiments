@@ -290,6 +290,25 @@
 			}
 		]
 	},
+	"09cea69f-96f8-48ad-90fe-547dc3fe97a0": {
+		"name": "android_extensions_entry_point",
+		"v": 5554,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "control"
+			},
+			{
+				"weight": 40,
+				"value": "variant_a"
+			},
+			{
+				"weight": 40,
+				"value": "variant_b"
+			}
+		]
+	},
 	"0a31a3f1-14eb-428d-bcbd-1c30fecf1bad": {
 		"name": "ios_email_settings",
 		"v": 5550,
