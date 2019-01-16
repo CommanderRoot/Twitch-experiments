@@ -548,15 +548,15 @@
 	},
 	"13198dad-8463-4a94-a3ee-560d8740877b": {
 		"name": "Hidden MW",
-		"v": 4997,
+		"v": 5548,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "experiment"
 			}
 		]
