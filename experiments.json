@@ -4544,15 +4544,15 @@
 	},
 	"8140d736-e8dd-49bc-b7cb-0d5b65d4cd5b": {
 		"name": "ios_chat_filter_existing_users",
-		"v": 5319,
+		"v": 5572,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "opt-in"
 			}
 		]
@@ -8040,19 +8040,19 @@
 	},
 	"ec640f44-d211-4331-9cee-bc2716b3130e": {
 		"name": "ios_chat_filter_new_users",
-		"v": 5318,
+		"v": 5571,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "opt-out"
 			},
 			{
-				"weight": 0,
+				"weight": 30,
 				"value": "opt-in"
 			}
 		]
