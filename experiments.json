@@ -4469,15 +4469,15 @@
 	},
 	"7f8a0641-dbf1-4485-8f7b-b547c0cebb4a": {
 		"name": "mobile_web_search",
-		"v": 5329,
+		"v": 5565,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
