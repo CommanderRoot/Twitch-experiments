@@ -6589,15 +6589,15 @@
 	},
 	"bc4939c7-3ff9-42e7-bcf3-12bed7b60135": {
 		"name": "android_chat_filters",
-		"v": 5324,
+		"v": 5584,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
