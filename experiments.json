@@ -6379,16 +6379,20 @@
 	},
 	"b507e7da-edb7-4a87-af80-3ebbfd762e84": {
 		"name": "ios_chat_filters",
-		"v": 5347,
+		"v": 5608,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "v7.4"
 			}
 		]
 	},
