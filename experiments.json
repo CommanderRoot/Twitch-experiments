@@ -2024,6 +2024,21 @@
 			}
 		]
 	},
+	"40620994-52b2-4d6c-9ceb-f3c03e270f6f": {
+		"name": "android_chat_input_verified",
+		"v": 5627,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"409d6b75-c64e-449c-b6ec-130118312d3f": {
 		"name": "ios_raids",
 		"v": 2391,
@@ -3470,6 +3485,21 @@
 			},
 			{
 				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
+	"650aa8bd-247b-4505-8df5-621d415c76c6": {
+		"name": "android_chat_input_subscriber",
+		"v": 5626,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -8540,6 +8570,21 @@
 			{
 				"weight": 5,
 				"value": "yes"
+			}
+		]
+	},
+	"fde76f29-f060-4893-96db-378c35384af3": {
+		"name": "android_chat_input_follower",
+		"v": 5625,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
