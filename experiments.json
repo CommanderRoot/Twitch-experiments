@@ -4955,15 +4955,15 @@
 	},
 	"8e60fcf8-7696-4d1a-8b7f-645b82359f69": {
 		"name": "Cloudfront Live Test",
-		"v": 5601,
+		"v": 5624,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 999,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 1,
 				"value": "override"
 			}
 		]
