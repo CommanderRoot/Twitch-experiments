@@ -1177,6 +1177,21 @@
 			}
 		]
 	},
+	"252e18cd-8286-4026-b63c-fe567d54cbca": {
+		"name": "mobile_web_offline_experience",
+		"v": 5645,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"264f75af-a787-4a40-8654-40d78b4d8b41": {
 		"name": "extensions",
 		"v": 1360,
