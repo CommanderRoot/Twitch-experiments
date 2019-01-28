@@ -925,21 +925,6 @@
 			}
 		]
 	},
-	"1b959783-5196-4c52-863d-06949b814e43": {
-		"name": "clips_got_em",
-		"v": 3319,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			}
-		]
-	},
 	"1bca04fa-2aa1-4694-891b-c5a7417260b4": {
 		"name": "clips_dont_mind_me",
 		"v": 2434,
@@ -6408,29 +6393,6 @@
 			}
 		]
 	},
-	"b40e065c-7a73-4c4f-b060-a6b1647fc1a2": {
-		"name": "twilight_editing_im_upset",
-		"v": 4447,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			},
-			{
-				"weight": 100,
-				"value": "variant2"
-			},
-			{
-				"weight": 0,
-				"value": "variant3"
-			}
-		]
-	},
 	"b451a3d9-79f4-4743-89c1-719335c2c974": {
 		"name": "CPR_SUB_NAV_V2",
 		"v": 727,
@@ -6736,21 +6698,6 @@
 			{
 				"weight": 95,
 				"value": "disabled"
-			}
-		]
-	},
-	"bf00cae3-c729-4ff9-816c-f9ede2f69f02": {
-		"name": "twilight_vod_used_to_this",
-		"v": 4174,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
 			}
 		]
 	},
@@ -7672,25 +7619,6 @@
 			{
 				"weight": 0,
 				"value": "variant3"
-			}
-		]
-	},
-	"dadbbe2e-7a79-4d10-8d29-cbff8101ac30": {
-		"name": "clips_make_me",
-		"v": 2130,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
-			},
-			{
-				"weight": 0,
-				"value": "variant2"
 			}
 		]
 	},
