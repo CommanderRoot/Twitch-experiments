@@ -1979,6 +1979,21 @@
 			}
 		]
 	},
+	"3fcce7ae-1799-4635-aed8-890f014d5992": {
+		"name": "ios_phone_signup",
+		"v": 5674,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"40322537-01de-41e2-b46e-0ac2e4a98035": {
 		"name": "ios_chromecast_player_core_test",
 		"v": 3435,
@@ -6137,6 +6152,21 @@
 			},
 			{
 				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
+	"af972d55-a450-4bf5-b3e8-247828a2d9ce": {
+		"name": "ios_pns_email_upsell",
+		"v": 5675,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
 				"value": "active"
 			}
 		]
