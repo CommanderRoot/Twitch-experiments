@@ -5705,19 +5705,19 @@
 	},
 	"9fa764ee-7293-4c1f-a0b6-b23c2f28c2cc": {
 		"name": "android_recommendations_in_following",
-		"v": 5383,
+		"v": 5662,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 100,
 				"value": "variant_1"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "variant_2"
 			},
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -6857,7 +6857,7 @@
 	},
 	"c49b9b31-320b-47b8-a79e-eb5a0c81682f": {
 		"name": "ios_multiview",
-		"v": 4975,
+		"v": 5665,
 		"t": 1,
 		"groups": [
 			{
@@ -6866,7 +6866,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_v7.4.1"
 			}
 		]
 	},
