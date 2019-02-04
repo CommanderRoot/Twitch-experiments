@@ -4023,15 +4023,15 @@
 	},
 	"72dc195b-a0de-47c0-a621-a05d0b4cafdc": {
 		"name": "mobile_web_worker_images_v2",
-		"v": 5714,
+		"v": 5730,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
@@ -8037,16 +8037,16 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "Twilight Player Core Distribution (Global)",
-		"v": 5727,
+		"v": 5729,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "2.8.4"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "2.8.5"
 			}
 		]
