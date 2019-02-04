@@ -1827,12 +1827,12 @@
 	},
 	"3c3a5d48-117f-43ac-8b35-091f13b2d479": {
 		"name": "MediaPlayer Staff Version",
-		"v": 5603,
+		"v": 5724,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "2.8.4"
+				"value": "2.8.5"
 			}
 		]
 	},
@@ -4187,15 +4187,15 @@
 	},
 	"76e37713-fdde-4e04-80f5-42594e0e21b6": {
 		"name": "remove_shadow_gradient",
-		"v": 5604,
+		"v": 5725,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "experiment"
 			}
 		]
