@@ -3342,6 +3342,25 @@
 			}
 		]
 	},
+	"603ea784-c7d1-4556-993a-c3aa0d673062": {
+		"name": "ios_recs_in_following",
+		"v": 5728,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "control"
+			},
+			{
+				"weight": 45,
+				"value": "always_show"
+			},
+			{
+				"weight": 45,
+				"value": "limited_show"
+			}
+		]
+	},
 	"6147aed8-6beb-4c24-a00b-a9ec189a4c1d": {
 		"name": "twilight_channel_analytics_content_overlap_panels",
 		"v": 4301,
