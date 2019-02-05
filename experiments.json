@@ -2402,15 +2402,15 @@
 	},
 	"4a567053-3ece-44bc-9496-9519a37a6053": {
 		"name": "theatre-mode-social-panel-v2",
-		"v": 5564,
+		"v": 5745,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant_a"
 			}
 		]
@@ -3177,15 +3177,15 @@
 	},
 	"5c8ff7ce-4dd4-4523-ba33-c91d3a25cae0": {
 		"name": "theatre_mode_social_panel",
-		"v": 5742,
+		"v": 5743,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant_a"
 			}
 		]
