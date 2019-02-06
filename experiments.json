@@ -486,6 +486,21 @@
 			}
 		]
 	},
+	"0fd0ab7f-b90b-4573-81ab-d0b28fd62242": {
+		"name": "cc_xo_avs",
+		"v": 5754,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "on"
+			},
+			{
+				"weight": 50,
+				"value": "off"
+			}
+		]
+	},
 	"0ff4ccc4-fb0f-41c0-b195-db9ccdb712d5": {
 		"name": "Bismol",
 		"v": 1414,
