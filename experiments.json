@@ -4434,6 +4434,21 @@
 			}
 		]
 	},
+	"7d0b5fe2-55d4-432f-aa05-ec588d36dd15": {
+		"name": "twilight_channel_analytics_notifications_analytics",
+		"v": 5752,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"7d9127aa-c26f-4b80-a04d-e6ed38e18b78": {
 		"name": "GET_BITS_BUTTON",
 		"v": 2250,
