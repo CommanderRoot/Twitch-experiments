@@ -3919,6 +3919,21 @@
 			}
 		]
 	},
+	"6fa8d1db-2457-4e6d-99f3-23cf96f844d1": {
+		"name": "mobile_web_bucket_uniformity",
+		"v": 5762,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"6fff56b3-f76e-47d9-bd4d-ad1b1bd03fff": {
 		"name": "ios_airplay_seek_fix",
 		"v": 3857,
@@ -4352,6 +4367,21 @@
 			{
 				"weight": 100,
 				"value": "enabled_7_1_1_and_later"
+			}
+		]
+	},
+	"7a5c7ce6-63ab-48a8-87f3-a761478b4cc0": {
+		"name": "mobile_web_bucket_uniformity",
+		"v": 5763,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
 			}
 		]
 	},
