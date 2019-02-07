@@ -488,15 +488,15 @@
 	},
 	"0fd0ab7f-b90b-4573-81ab-d0b28fd62242": {
 		"name": "cc_xo_avs",
-		"v": 5754,
+		"v": 5761,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "on"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "off"
 			}
 		]
