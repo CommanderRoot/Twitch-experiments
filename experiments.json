@@ -4599,21 +4599,6 @@
 			}
 		]
 	},
-	"7f8a0641-dbf1-4485-8f7b-b547c0cebb4a": {
-		"name": "mobile_web_search",
-		"v": 5672,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "treatment"
-			}
-		]
-	},
 	"80a4bf5b-0897-4ae6-bf0b-70357524c39b": {
 		"name": "ios_feed_display_content_type_indicator",
 		"v": 2357,
