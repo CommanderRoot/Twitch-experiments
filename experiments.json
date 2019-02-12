@@ -8585,15 +8585,15 @@
 	},
 	"fde76f29-f060-4893-96db-378c35384af3": {
 		"name": "android_chat_input_follower",
-		"v": 5625,
+		"v": 5786,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
