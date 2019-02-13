@@ -8137,17 +8137,13 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "Twilight Player Core Distribution (Global)",
-		"v": 5802,
+		"v": 5803,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "2.8.5"
-			},
-			{
-				"weight": 5,
-				"value": "2.9.0"
 			}
 		]
 	},
