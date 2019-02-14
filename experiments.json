@@ -7725,6 +7725,21 @@
 			}
 		]
 	},
+	"dc455db1-deb3-42eb-a090-6bcecc415151": {
+		"name": "android_phone_number_signup",
+		"v": 5808,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"de013c6f-a800-45ee-9ab4-7965c405e3eb": {
 		"name": "TWILIGHT_ARCHER",
 		"v": 5310,
