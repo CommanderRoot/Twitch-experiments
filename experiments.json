@@ -6816,6 +6816,21 @@
 			}
 		]
 	},
+	"c16c2cfe-0a43-4b1b-8591-595c37946e61": {
+		"name": "ios_strength",
+		"v": 5830,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "owasp"
+			},
+			{
+				"weight": 0,
+				"value": "endpoint"
+			}
+		]
+	},
 	"c270e8a5-57f8-413f-a238-7872a6ecbcc5": {
 		"name": "android_native_subs_iap",
 		"v": 2905,
@@ -7086,6 +7101,21 @@
 			{
 				"weight": 5,
 				"value": "yes_100"
+			}
+		]
+	},
+	"c84b614c-8eb6-4ab9-bb64-806170ff1e2b": {
+		"name": "android_strength",
+		"v": 5829,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "owasp"
+			},
+			{
+				"weight": 0,
+				"value": "endpoint"
 			}
 		]
 	},
