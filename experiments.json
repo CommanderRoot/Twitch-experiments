@@ -6382,15 +6382,15 @@
 	},
 	"b253f060-19fc-4539-98e2-391a55354741": {
 		"name": "vaes_wave_3",
-		"v": 5578,
+		"v": 5828,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "treatment"
 			}
 		]
