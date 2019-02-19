@@ -8036,6 +8036,21 @@
 			}
 		]
 	},
+	"e6aeada3-c8c1-427c-9871-6a2b962455fa": {
+		"name": "android_squad_streaming",
+		"v": 5853,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"e875da19-becb-450a-84f9-6267b4e529bd": {
 		"name": "tst",
 		"v": 3301,
