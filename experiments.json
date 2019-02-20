@@ -4276,15 +4276,15 @@
 	},
 	"76e37713-fdde-4e04-80f5-42594e0e21b6": {
 		"name": "remove_shadow_gradient",
-		"v": 5725,
+		"v": 5872,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "experiment"
 			}
 		]
