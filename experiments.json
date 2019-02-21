@@ -1565,6 +1565,25 @@
 			}
 		]
 	},
+	"306b5fc1-d28c-4603-b2de-462d32c207bd": {
+		"name": "ads_countdown_timers",
+		"v": 5877,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "A"
+			},
+			{
+				"weight": 5,
+				"value": "B"
+			},
+			{
+				"weight": 90,
+				"value": "control"
+			}
+		]
+	},
 	"31935f88-873a-484d-83be-c238a2a5693e": {
 		"name": "ios_app_badge_5.10",
 		"v": 3174,
@@ -8522,6 +8541,25 @@
 			{
 				"weight": 0,
 				"value": "Variant"
+			}
+		]
+	},
+	"f7ab448a-7c54-4d2c-80f9-32df5a09a073": {
+		"name": "ads_countdown_timers",
+		"v": 5878,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "A"
+			},
+			{
+				"weight": 5,
+				"value": "B"
+			},
+			{
+				"weight": 90,
+				"value": "control"
 			}
 		]
 	},
