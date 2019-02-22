@@ -6294,6 +6294,25 @@
 			}
 		]
 	},
+	"af3153dc-5bdf-474e-8bb4-3f15f9f4c70c": {
+		"name": "ad_countdown_timers",
+		"v": 5881,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "A"
+			},
+			{
+				"weight": 0,
+				"value": "B"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"af972d55-a450-4bf5-b3e8-247828a2d9ce": {
 		"name": "ios_pns_email_upsell",
 		"v": 5675,
