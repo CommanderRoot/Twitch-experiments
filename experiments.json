@@ -2083,15 +2083,15 @@
 	},
 	"40620994-52b2-4d6c-9ceb-f3c03e270f6f": {
 		"name": "android_chat_input_verified",
-		"v": 5627,
+		"v": 5883,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -3537,15 +3537,15 @@
 	},
 	"650aa8bd-247b-4505-8df5-621d415c76c6": {
 		"name": "android_chat_input_subscriber",
-		"v": 5626,
+		"v": 5882,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
