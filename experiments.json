@@ -4182,72 +4182,12 @@
 	},
 	"742b7531-8f5c-4c62-9099-7b2a60048ab2": {
 		"name": "player_cs",
-		"v": 5842,
+		"v": 5885,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 1,
 				"value": "control"
-			},
-			{
-				"weight": 5,
-				"value": "ad_1"
-			},
-			{
-				"weight": 5,
-				"value": "ad_125"
-			},
-			{
-				"weight": 5,
-				"value": "ad_15"
-			},
-			{
-				"weight": 5,
-				"value": "h_mw_1_nobs"
-			},
-			{
-				"weight": 5,
-				"value": "h_mw_1"
-			},
-			{
-				"weight": 5,
-				"value": "h_mw_2"
-			},
-			{
-				"weight": 5,
-				"value": "h_mw_5"
-			},
-			{
-				"weight": 5,
-				"value": "h_mw_10"
-			},
-			{
-				"weight": 5,
-				"value": "h_mw_30"
-			},
-			{
-				"weight": 5,
-				"value": "x_1"
-			},
-			{
-				"weight": 5,
-				"value": "x_2"
-			},
-			{
-				"weight": 5,
-				"value": "x_3"
-			},
-			{
-				"weight": 5,
-				"value": "x_4"
-			},
-			{
-				"weight": 5,
-				"value": "x_5"
-			},
-			{
-				"weight": 25,
-				"value": "ignore"
 			}
 		]
 	},
