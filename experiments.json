@@ -6251,7 +6251,7 @@
 	},
 	"af3153dc-5bdf-474e-8bb4-3f15f9f4c70c": {
 		"name": "ad_countdown_timers",
-		"v": 5881,
+		"v": 5904,
 		"t": 1,
 		"groups": [
 			{
@@ -6263,8 +6263,12 @@
 				"value": "B"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "off"
 			}
 		]
 	},
