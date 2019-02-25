@@ -935,7 +935,7 @@
 	},
 	"1b5d8be5-6c20-4eec-99a1-832cede6b3dd": {
 		"name": "android_vaes_sdk_752",
-		"v": 5899,
+		"v": 5901,
 		"t": 1,
 		"groups": [
 			{
@@ -8530,25 +8530,6 @@
 			{
 				"weight": 0,
 				"value": "Variant"
-			}
-		]
-	},
-	"f7ab448a-7c54-4d2c-80f9-32df5a09a073": {
-		"name": "ads_countdown_timers",
-		"v": 5878,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "A"
-			},
-			{
-				"weight": 5,
-				"value": "B"
-			},
-			{
-				"weight": 90,
-				"value": "control"
 			}
 		]
 	},
