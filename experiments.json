@@ -933,6 +933,21 @@
 			}
 		]
 	},
+	"1b5d8be5-6c20-4eec-99a1-832cede6b3dd": {
+		"name": "android_vaes_sdk_752",
+		"v": 5899,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"1b6d4038-40ca-455a-81c7-e239d7568de9": {
 		"name": "ios_dynamic_spade_url",
 		"v": 2199,
@@ -5569,15 +5584,15 @@
 	},
 	"9ab23a00-5050-4113-bb2c-d59016a1f516": {
 		"name": "android_vaes_sdk",
-		"v": 5895,
+		"v": 5898,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
