@@ -935,15 +935,15 @@
 	},
 	"1b5d8be5-6c20-4eec-99a1-832cede6b3dd": {
 		"name": "android_vaes_sdk_752",
-		"v": 5901,
+		"v": 5909,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
