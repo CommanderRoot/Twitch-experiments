@@ -7726,6 +7726,21 @@
 			}
 		]
 	},
+	"d9d2b394-5e99-4d8e-9c61-c60621c7f4e4": {
+		"name": "ios_swift_player_stack",
+		"v": 5914,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"da7ab4d6-4545-462f-a2f4-67c2652a2866": {
 		"name": "android_sub_only_error_mvp",
 		"v": 5753,
