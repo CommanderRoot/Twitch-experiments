@@ -935,15 +935,15 @@
 	},
 	"1b5d8be5-6c20-4eec-99a1-832cede6b3dd": {
 		"name": "android_vaes_sdk_752",
-		"v": 5909,
+		"v": 5911,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -3948,15 +3948,15 @@
 	},
 	"6d1f2ccc-5787-4f00-9872-8af9366e7dd1": {
 		"name": "ios_swift_ads_v2",
-		"v": 5865,
+		"v": 5912,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v2"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
