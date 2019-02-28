@@ -2156,6 +2156,21 @@
 			}
 		]
 	},
+	"4146db1d-102d-49f7-a185-7c2d3d3b0126": {
+		"name": "mobile_native_savant_test_experiment",
+		"v": 5931,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"416c1ee6-9adc-43e1-8e98-cd761068bc0b": {
 		"name": "twilight_player_version",
 		"v": 2325,
@@ -6826,15 +6841,15 @@
 	},
 	"bf7566f3-241b-4ade-95d4-381a7e7dd390": {
 		"name": "android_wateb_6.0_release",
-		"v": 5905,
+		"v": 5932,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
