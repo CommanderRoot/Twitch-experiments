@@ -5305,19 +5305,19 @@
 	},
 	"921a6d36-7e97-4908-9b29-e4198fa3e34d": {
 		"name": "ad_libs",
-		"v": 5927,
+		"v": 5940,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "A"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "B"
 			},
 			{
-				"weight": 34,
+				"weight": 100,
 				"value": "control"
 			}
 		]
