@@ -1038,6 +1038,21 @@
 			}
 		]
 	},
+	"1c727c0e-698b-4968-b01b-2fb636408a81": {
+		"name": "ios_merry_go_round",
+		"v": 5967,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "round"
+			}
+		]
+	},
 	"1c7c4872-f75b-4b29-a695-c5919fac68b9": {
 		"name": "android_clip_theatre_mode_release",
 		"v": 2034,
