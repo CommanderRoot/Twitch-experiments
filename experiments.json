@@ -978,6 +978,21 @@
 			}
 		]
 	},
+	"1b64edc3-63c3-4f1c-ba7f-e02f9ac27679": {
+		"name": "ios_multitheater_close_theater",
+		"v": 5961,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "keep_open"
+			},
+			{
+				"weight": 100,
+				"value": "close_theater"
+			}
+		]
+	},
 	"1b6d4038-40ca-455a-81c7-e239d7568de9": {
 		"name": "ios_dynamic_spade_url",
 		"v": 2199,
