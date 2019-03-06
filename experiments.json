@@ -4611,19 +4611,19 @@
 	},
 	"7c153584-d5ad-4e97-a9a9-f87095b6967a": {
 		"name": "ios_onboarding_impact",
-		"v": 4980,
+		"v": 5970,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "game_selection"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "full_onboarding"
 			}
 		]
