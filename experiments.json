@@ -8677,15 +8677,15 @@
 	},
 	"f7927cc5-60c2-457a-b396-9089c3977d3c": {
 		"name": "AF",
-		"v": 5984,
+		"v": 5989,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "Control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "Variant"
 			}
 		]
