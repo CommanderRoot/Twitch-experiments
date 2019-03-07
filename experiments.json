@@ -458,15 +458,15 @@
 	},
 	"0dc9a9c9-fee5-4b5f-a462-f07675713e5e": {
 		"name": "TWILIGHT_FOLLOWING_INDEX_LATEST_VIDEOS_V2",
-		"v": 2874,
+		"v": 5983,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "enabled"
 			}
 		]
@@ -2685,12 +2685,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 5972,
+		"v": 5982,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-335382.sjc02.hls.ttvnw.net/v1/segment/Ct4cn-Vbq2b-kJa8U6XcfzTiX_AVp1TvU3P9Klvx9m_bneb_aW-sTJJRi88wWRV71i6uDyphr8AnOcz-32I-u5IN3vMN7xCnc63MbImHXQflYtvMR0tFhF8pnft2nHiOSLXrLPdeQMav_2h4Jw9ILp1Q8xAthbQMlGgi-_1a1bbBltYjeFlVOAqKzD1-4CxnqFibz2-JFhks_Equw0wtEU4U3q-Ml8tadCT9I2I8pn9ViJ52r-V4BtddacdpYePJKMiSAF-JGhyhqZQr5KP6LEUnm9mXlMFs1er-MDq8DKt_djOENyAlWprtViKvWv49N8wF1M45DnmaMzEn1jjwBjwBbfIPXxK49FMo91H7n5qlxq22bcXrG8CCOeiSZUsi9SK6Ybh0LSxZU8Zv7l24NlH4lVlYlocbekvzyzHhNze848FqsjRcIvEQW0WOxa3pMXYVNO5Bua_B5XVwxq3QGtArI_jKIeA72Y1WMx4TZC6UvsvIaPHL3SRNMTwRCBaCQeu8-zktBRzDHhExPB1bO_iP85CSE9aWmqmHTeVjtt2UlJbk-2Xn9R1BpakdrpVrUR2dh29H00iKMpWUHXs6igZ_DNcWYy35u9sA6zuRlXVbJQVfp_iLUc-LUiVxTMhzsxAwGMisTOUxATAx_Xznr8w6OLOzWTlguTYLVTgSZkfEe-5xyU_MTCUxh0NdpE67k6fzILPnTCFU7yN4bVXbwKm5-3w9DsETUMv28X30FhT809W0Xurolbe-zcm.ts"
+				"value": "//video-edge-0df678.sjc02.hls.ttvnw.net/v1/segment/CkU8-x3ZzHLAbDfSUUt982TuKzF87m1d73P3MB__dUtP6fPfmWMu5ihRyHwUciNdaYyXizIS8J0FeUfBf2PGM1BKkCsclXkKZxFtBbeHouPyDaRzJrIfZtEXWZOUoz0VONpuIokPgJzriJ61WN3DHnTXzjJcceHTTIW7FrT55GsZBqR2MWHHOaJfLgVngRn-zT4_w0DNEzVxMfGbuzGRIjVmt_uwzWEnnrxOKIiE_idwu9XHN_-hoik2b0Yol7RYTR0XBnSaTIxvZeJlawoDaClhXj4ZsVnIDnUp1CPm9KjTpf8i4Yq3N3aWrvCwd5u3M-FLfEzwhCVdcaPpVVfIkcu0oDvfTxhUWdWzaCyc_8fezyukYG3Uh_IqV_C89cIylz2oRxXwkywgSICRyHXkLwSoyc5LNgrGAGeugzBFvmpfl64Kz5OtMbYHdjyEVXMFSK0p2YOOp32ca-c2q89DGDF7XZL-_nLVTWIklZsVid_NQrLgi3bJexI4BqZIW1EVMSykGHFvs--LujwBMIGC9TLRY2m5Up9IomyIiGmkhfAR2auw6iCpm0fVFjxlEqvN4U7dygQZ_OTDKQzgzcvFkxYoUAqEr_LKwtGFppwdvUrwLrq63YaDQwoSrt83KwNaR8CVJHaTQQSUoX4ixd96V-TMNy07H37k-xLvKXxjB7W00mxWqo46-LKh34IuclkpEFkSgth-iDBIxGEB9csqcJJhXOy7tVvFtV1wW91ETjYkEEmR__f3YIGAoPN-NVb7qvStNYxzqkyRRdYIF9WtaxMLsJAR.ts"
 			}
 		]
 	},
