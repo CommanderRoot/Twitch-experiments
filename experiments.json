@@ -4113,15 +4113,15 @@
 	},
 	"6e32819f-69cf-4c6d-92e3-0aceb7c38501": {
 		"name": "android_nielsen",
-		"v": 5999,
+		"v": 6010,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
