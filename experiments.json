@@ -339,6 +339,21 @@
 			}
 		]
 	},
+	"0a324094-71b4-43aa-924b-2130183f7836": {
+		"name": "aperture_viewcount_staging",
+		"v": 6005,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "test"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"0a4d513f-0274-4b33-b04f-287521abd51b": {
 		"name": "ZACH_MODE",
 		"v": 2287,
@@ -1989,12 +2004,12 @@
 	},
 	"3c3a5d48-117f-43ac-8b35-091f13b2d479": {
 		"name": "Twilight Player Core Distribution (Staff)",
-		"v": 5956,
+		"v": 6007,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "2.9.2"
+				"value": "2.9.2+speed5"
 			}
 		]
 	},
