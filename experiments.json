@@ -341,15 +341,15 @@
 	},
 	"0a324094-71b4-43aa-924b-2130183f7836": {
 		"name": "aperture_viewcount_staging",
-		"v": 6025,
+		"v": 6033,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "test"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -4944,6 +4944,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"84a5b770-f444-45ab-9a57-5755cdb10072": {
+		"name": "twilight_quarterly_streamer_survey_for_affiliates",
+		"v": 6034,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
