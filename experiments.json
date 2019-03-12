@@ -3275,6 +3275,21 @@
 			}
 		]
 	},
+	"5846909c-a259-49c6-b235-ccb9507aaf4d": {
+		"name": "twilight_quarterly_streamer_survey_for_partners",
+		"v": 6037,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "Control"
+			},
+			{
+				"weight": 0,
+				"value": "Variant"
+			}
+		]
+	},
 	"586ba4e6-2954-4fd1-b317-e3c7c14bfa3f": {
 		"name": "android_mp_disable",
 		"v": 3272,
@@ -4949,16 +4964,16 @@
 	},
 	"84a5b770-f444-45ab-9a57-5755cdb10072": {
 		"name": "twilight_quarterly_streamer_survey_for_affiliates",
-		"v": 6034,
+		"v": 6035,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "Control"
 			},
 			{
 				"weight": 0,
-				"value": "variant"
+				"value": "Variant"
 			}
 		]
 	},
