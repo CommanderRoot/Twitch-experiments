@@ -341,15 +341,15 @@
 	},
 	"0a324094-71b4-43aa-924b-2130183f7836": {
 		"name": "aperture_viewcount_staging",
-		"v": 6049,
+		"v": 6051,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "test"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
