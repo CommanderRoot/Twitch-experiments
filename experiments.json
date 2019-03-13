@@ -3588,6 +3588,25 @@
 			}
 		]
 	},
+	"61a88b03-5eaa-4693-9beb-99d0695432da": {
+		"name": "es_kr",
+		"v": 6046,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "ctrl"
+			},
+			{
+				"weight": 0,
+				"value": "es"
+			},
+			{
+				"weight": 0,
+				"value": "es_hd"
+			}
+		]
+	},
 	"61b169ff-bc62-4725-a40e-1be627197c6f": {
 		"name": "Recommended Games",
 		"v": 139,
