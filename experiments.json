@@ -2583,15 +2583,15 @@
 	},
 	"49fc6817-ba19-4a19-b7a6-c87ab7234eb3": {
 		"name": "ios_squad_streaming",
-		"v": 5863,
+		"v": 6060,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v7.6"
 			}
 		]
@@ -4783,6 +4783,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"7e88bb01-0674-499a-9fa6-f886f8b77b65": {
+		"name": "ios_swift_theater_coordinator",
+		"v": 6059,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "disabled"
 			}
 		]
 	},
