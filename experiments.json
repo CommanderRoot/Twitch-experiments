@@ -4741,6 +4741,21 @@
 			}
 		]
 	},
+	"7d9a80a5-5a46-4c8b-8e9f-7fc2dc48bd53": {
+		"name": "android_pns_email",
+		"v": 6062,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
 	"7da9cda1-2d29-4917-b595-0c1ea27121e3": {
 		"name": "TEST_EXPERIMENT_TESTING",
 		"v": 1554,
