@@ -7951,6 +7951,21 @@
 			}
 		]
 	},
+	"da98a601-b3c4-4eed-bf75-330fa0497dda": {
+		"name": "aperture_viewcount_pubsub",
+		"v": 6056,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "test"
+			}
+		]
+	},
 	"daf63994-587b-4062-8978-d970027af40f": {
 		"name": "SOCIAL_RECOMMENDATIONS_2",
 		"v": 2226,
