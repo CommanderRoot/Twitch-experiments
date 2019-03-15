@@ -4136,15 +4136,15 @@
 	},
 	"6d1f2ccc-5787-4f00-9872-8af9366e7dd1": {
 		"name": "ios_swift_ads_v2",
-		"v": 5924,
+		"v": 6073,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v2"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
