@@ -3277,15 +3277,15 @@
 	},
 	"5846909c-a259-49c6-b235-ccb9507aaf4d": {
 		"name": "twilight_quarterly_streamer_survey_for_partners",
-		"v": 6037,
+		"v": 6083,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "Control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "Variant"
 			}
 		]
@@ -4181,15 +4181,15 @@
 	},
 	"6f33392a-9868-4993-82e8-0a7f4c61e248": {
 		"name": "aperture_viewcount",
-		"v": 5926,
+		"v": 6081,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "test"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -5028,15 +5028,15 @@
 	},
 	"84a5b770-f444-45ab-9a57-5755cdb10072": {
 		"name": "twilight_quarterly_streamer_survey_for_affiliates",
-		"v": 6035,
+		"v": 6082,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "Control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "Variant"
 			}
 		]
