@@ -6529,15 +6529,15 @@
 	},
 	"af3153dc-5bdf-474e-8bb4-3f15f9f4c70c": {
 		"name": "ad_countdown_timers",
-		"v": 5922,
+		"v": 6103,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "treatment"
+				"weight": 10,
+				"value": "test"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			}
 		]
