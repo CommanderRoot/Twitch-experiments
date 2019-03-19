@@ -275,6 +275,21 @@
 			}
 		]
 	},
+	"076af520-5b70-4249-8f25-3d500fdb9c85": {
+		"name": "android_squad_streaming",
+		"v": 6094,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"096252ea-5fc8-43c1-868a-d5c686b11742": {
 		"name": "ios_web_login_disable_implicit_flow",
 		"v": 4193,
@@ -7327,7 +7342,7 @@
 	},
 	"c5ae3cc0-8fc2-4dcd-b3a3-fa63b13990f5": {
 		"name": "android_squad_streaming_0",
-		"v": 6091,
+		"v": 6092,
 		"t": 2,
 		"groups": [
 			{
@@ -8364,8 +8379,8 @@
 		]
 	},
 	"e6aeada3-c8c1-427c-9871-6a2b962455fa": {
-		"name": "android_squad_streaming",
-		"v": 6088,
+		"name": "android_squad_streaming_1",
+		"v": 6095,
 		"t": 1,
 		"groups": [
 			{
