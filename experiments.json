@@ -2370,6 +2370,21 @@
 			}
 		]
 	},
+	"437fe86e-f266-4902-8bb1-a6a1b5cda299": {
+		"name": "dads_experiment_user_test",
+		"v": 6126,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "default"
+			},
+			{
+				"weight": 1,
+				"value": "treatment"
+			}
+		]
+	},
 	"44a503af-d77f-4f1d-9fa4-c99c5f783f9c": {
 		"name": "twilight_video_manager_release",
 		"v": 2850,
@@ -8023,6 +8038,21 @@
 			{
 				"weight": 0,
 				"value": "off"
+			}
+		]
+	},
+	"db8150ee-b487-4e8c-b691-21579b29effd": {
+		"name": "dads_experiment_user_test",
+		"v": 6127,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "default"
+			},
+			{
+				"weight": 1,
+				"value": "treatment"
 			}
 		]
 	},
