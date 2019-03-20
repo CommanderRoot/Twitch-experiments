@@ -5187,15 +5187,15 @@
 	},
 	"89328310-2ae2-448b-9cf6-b801b20470f7": {
 		"name": "player_watch_anon_notifications",
-		"v": 5596,
+		"v": 6123,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "on"
 			}
 		]
