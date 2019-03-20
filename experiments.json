@@ -5101,6 +5101,21 @@
 			}
 		]
 	},
+	"86643c06-e786-4b51-92cd-2f0097ab8ec4": {
+		"name": "rina_dev",
+		"v": 6130,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 60,
+				"value": "MODEL_A"
+			},
+			{
+				"weight": 40,
+				"value": "MODEL_B"
+			}
+		]
+	},
 	"8751df7a-c44b-460b-b291-6ae249202626": {
 		"name": "android_videoplayer_v4",
 		"v": 2956,
