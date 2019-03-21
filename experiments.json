@@ -7998,15 +7998,15 @@
 	},
 	"da98a601-b3c4-4eed-bf75-330fa0497dda": {
 		"name": "aperture_viewcount_pubsub",
-		"v": 6056,
+		"v": 6145,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "test"
 			}
 		]
