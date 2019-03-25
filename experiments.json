@@ -3320,6 +3320,21 @@
 			}
 		]
 	},
+	"58a899e7-7186-4e1c-bd53-795b31c08cb8": {
+		"name": "aperture_viewcount_jax_prod",
+		"v": 6181,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "test"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 		"name": "aml_ranking_follows",
 		"v": 4106,
@@ -8455,15 +8470,15 @@
 	},
 	"e992f057-f2c6-4ec0-9e02-60110dbed834": {
 		"name": "aperture_viewcount_jax",
-		"v": 6179,
+		"v": 6180,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "test"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
