@@ -1804,15 +1804,15 @@
 	},
 	"34d5f32d-b32c-4976-86ab-2ddfcc750d29": {
 		"name": "ios_nielsen",
-		"v": 6074,
+		"v": 6174,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v2"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -4166,15 +4166,15 @@
 	},
 	"6d1f2ccc-5787-4f00-9872-8af9366e7dd1": {
 		"name": "ios_swift_ads_v2",
-		"v": 6073,
+		"v": 6172,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v2"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
