@@ -7089,15 +7089,15 @@
 	},
 	"bd9234fc-3c40-45f6-a544-868478744ba7": {
 		"name": "featured_collection_disable",
-		"v": 5135,
+		"v": 6184,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "disabled"
 			}
 		]
@@ -8588,16 +8588,16 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "Twilight Player Core Distribution (Global)",
-		"v": 6156,
+		"v": 6183,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "2.9.2"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "2.9.3"
 			}
 		]
