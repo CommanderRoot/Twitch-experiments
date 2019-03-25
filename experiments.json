@@ -3322,15 +3322,15 @@
 	},
 	"58a899e7-7186-4e1c-bd53-795b31c08cb8": {
 		"name": "aperture_viewcount_jax_prod",
-		"v": 6181,
+		"v": 6185,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "test"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
