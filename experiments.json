@@ -8103,15 +8103,15 @@
 	},
 	"dc455db1-deb3-42eb-a090-6bcecc415151": {
 		"name": "android_phone_number_signup",
-		"v": 5808,
+		"v": 6192,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
