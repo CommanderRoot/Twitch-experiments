@@ -7559,6 +7559,21 @@
 			}
 		]
 	},
+	"cef8768a-6e62-491b-9a81-1892e0633861": {
+		"name": "android_truffle_hunt",
+		"v": 6194,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "active"
+			}
+		]
+	},
 	"cf2033c8-5313-4abe-8142-61b9072c9d26": {
 		"name": "baking_bread_e",
 		"v": 2592,
