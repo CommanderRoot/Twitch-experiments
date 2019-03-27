@@ -3292,15 +3292,15 @@
 	},
 	"5846909c-a259-49c6-b235-ccb9507aaf4d": {
 		"name": "twilight_quarterly_streamer_survey_for_partners",
-		"v": 6113,
+		"v": 6202,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "Control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "Variant"
 			}
 		]
