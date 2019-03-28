@@ -3632,6 +3632,21 @@
 			}
 		]
 	},
+	"6089f3cb-f2c8-4f4c-8ea9-d55a21f16de5": {
+		"name": "dads_experiment_device_test",
+		"v": 6211,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "SURESTREAM_ON"
+			},
+			{
+				"weight": 100,
+				"value": "SURESTREAM_OFF"
+			}
+		]
+	},
 	"6147aed8-6beb-4c24-a00b-a9ec189a4c1d": {
 		"name": "twilight_channel_analytics_content_overlap_panels",
 		"v": 4301,
@@ -8088,16 +8103,16 @@
 	},
 	"db8150ee-b487-4e8c-b691-21579b29effd": {
 		"name": "dads_experiment_user_test",
-		"v": 6127,
+		"v": 6210,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
-				"value": "default"
+				"weight": 0,
+				"value": "SURESTREAM_ON"
 			},
 			{
 				"weight": 1,
-				"value": "treatment"
+				"value": "SURESTREAM_OFF"
 			}
 		]
 	},
