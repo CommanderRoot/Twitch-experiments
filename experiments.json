@@ -1029,15 +1029,15 @@
 	},
 	"1b64edc3-63c3-4f1c-ba7f-e02f9ac27679": {
 		"name": "ios_multitheater_close_theater",
-		"v": 6047,
+		"v": 6213,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "keep_open"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "close_theater"
 			}
 		]
