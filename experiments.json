@@ -4863,15 +4863,15 @@
 	},
 	"7e88bb01-0674-499a-9fa6-f886f8b77b65": {
 		"name": "ios_swift_theater_coordinator",
-		"v": 6155,
+		"v": 6216,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "disabled"
 			}
 		]
