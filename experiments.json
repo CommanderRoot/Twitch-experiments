@@ -6139,6 +6139,21 @@
 			}
 		]
 	},
+	"a12e6150-15d5-45ce-8db8-bbaf49f4ec8c": {
+		"name": "vaes_rollout_t1",
+		"v": 6249,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"a1ce3d24-076a-4664-be4c-f9046fdce18c": {
 		"name": "baking_bread_uk",
 		"v": 657,
@@ -6825,6 +6840,21 @@
 			}
 		]
 	},
+	"b3097df3-6109-47f5-ba41-32b5a5de1ce0": {
+		"name": "vaes_rollout_row",
+		"v": 6250,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"b3dbd888-3ed2-4129-a6a9-7ad4c3d866d7": {
 		"name": "urgent_pie",
 		"v": 476,
@@ -7344,6 +7374,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"c4fe8184-0fdd-4fc2-9a66-d8d3433b2171": {
+		"name": "vaes_rollout_t1",
+		"v": 6248,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
@@ -8824,6 +8869,21 @@
 	"f3373266-ba22-4e0b-b56a-9e79fb53f62e": {
 		"name": "mobile_web_atlas",
 		"v": 3179,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
+	"f3d4cc84-9704-45f7-89ae-4a94a823f0ad": {
+		"name": "vaes_rollout_row",
+		"v": 6251,
 		"t": 1,
 		"groups": [
 			{
