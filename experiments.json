@@ -4490,24 +4490,16 @@
 	},
 	"742b7531-8f5c-4c62-9099-7b2a60048ab2": {
 		"name": "player_cs",
-		"v": 6218,
+		"v": 6258,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 40,
 				"value": "ctrl"
 			},
 			{
-				"weight": 20,
+				"weight": 40,
 				"value": "fa"
-			},
-			{
-				"weight": 20,
-				"value": "es"
-			},
-			{
-				"weight": 20,
-				"value": "es_hd"
 			},
 			{
 				"weight": 20,
