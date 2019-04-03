@@ -5268,6 +5268,21 @@
 			}
 		]
 	},
+	"89af3848-0aba-4e27-bb4b-d16c6f29e1c2": {
+		"name": "android_channel_points_alpha",
+		"v": 6267,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8ab1d7cc-6c63-4105-a5d3-5d5bb926b5f6": {
 		"name": "android_bits_purchase_webview",
 		"v": 1850,
