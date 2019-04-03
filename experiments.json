@@ -767,7 +767,7 @@
 	},
 	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
 		"name": "enable_live_sorting",
-		"v": 6030,
+		"v": 6259,
 		"t": 1,
 		"groups": [
 			{
@@ -775,19 +775,19 @@
 				"value": "reverse"
 			},
 			{
-				"weight": 10,
-				"value": "control10"
+				"weight": 20,
+				"value": "control20"
 			},
 			{
 				"weight": 5,
 				"value": "control5"
 			},
 			{
-				"weight": 69,
+				"weight": 49,
 				"value": "free_only"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "qos_peering"
 			},
 			{
