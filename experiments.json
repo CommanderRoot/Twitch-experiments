@@ -4781,15 +4781,15 @@
 	},
 	"7d0b5fe2-55d4-432f-aa05-ec588d36dd15": {
 		"name": "twilight_channel_analytics_notifications_analytics",
-		"v": 5752,
+		"v": 6277,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
