@@ -3615,19 +3615,19 @@
 	},
 	"603ea784-c7d1-4556-993a-c3aa0d673062": {
 		"name": "ios_recs_in_following",
-		"v": 5728,
+		"v": 6276,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 45,
+				"weight": 90,
 				"value": "always_show"
 			},
 			{
-				"weight": 45,
+				"weight": 10,
 				"value": "limited_show"
 			}
 		]
