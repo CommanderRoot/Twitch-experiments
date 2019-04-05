@@ -1772,15 +1772,15 @@
 	},
 	"313f8746-5de5-432f-a484-31a17daaad39": {
 		"name": "android_wateb_7.6.0_release",
-		"v": 6068,
+		"v": 6285,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -3907,15 +3907,15 @@
 	},
 	"66018bed-5b79-4d2c-9773-29295e4f89f6": {
 		"name": "ios_wateb",
-		"v": 5908,
+		"v": 6286,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
