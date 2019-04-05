@@ -1354,6 +1354,53 @@
 			}
 		]
 	},
+	"25b8b06e-fbe7-4a2d-9d79-3cb343ae73fa": {
+		"name": "ad_loudness_phase_1",
+		"v": 6281,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "treatmentA"
+			},
+			{
+				"weight": 1,
+				"value": "treatmentB"
+			},
+			{
+				"weight": 1,
+				"value": "treatmentC"
+			},
+			{
+				"weight": 1,
+				"value": "treatmentD"
+			},
+			{
+				"weight": 1,
+				"value": "treatmentE"
+			},
+			{
+				"weight": 1,
+				"value": "treatmentF"
+			},
+			{
+				"weight": 1,
+				"value": "treatmentG"
+			},
+			{
+				"weight": 1,
+				"value": "treatmentH"
+			},
+			{
+				"weight": 1,
+				"value": "treatmentI"
+			}
+		]
+	},
 	"264f75af-a787-4a40-8654-40d78b4d8b41": {
 		"name": "extensions",
 		"v": 1360,
