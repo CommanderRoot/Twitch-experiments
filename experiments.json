@@ -5405,6 +5405,21 @@
 			}
 		]
 	},
+	"8c4ef9dd-5c74-46eb-bb58-aecf627fba98": {
+		"name": "ios_swift_video_player_controller",
+		"v": 6284,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "objc"
+			},
+			{
+				"weight": 0,
+				"value": "swift"
+			}
+		]
+	},
 	"8ce5b50b-429b-4c20-a0f3-1b22eb577673": {
 		"name": "ios_rollout_vod_uploads",
 		"v": 804,
