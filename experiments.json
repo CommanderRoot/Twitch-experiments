@@ -4522,12 +4522,21 @@
 	},
 	"742b7531-8f5c-4c62-9099-7b2a60048ab2": {
 		"name": "player_cs",
-		"v": 6300,
+		"v": 6303,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 1,
-				"value": "control"
+				"weight": 40,
+				"value": "ctrl"
+			},
+			{
+				"weight": 40,
+				"value": "fa"
+			},
+			{
+				"weight": 20,
+				"value": "spare"
 			}
 		]
 	},
