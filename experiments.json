@@ -6882,15 +6882,15 @@
 	},
 	"b3097df3-6109-47f5-ba41-32b5a5de1ce0": {
 		"name": "vaes_rollout_row",
-		"v": 6250,
+		"v": 6307,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "treatment"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
