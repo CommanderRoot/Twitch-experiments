@@ -5052,21 +5052,6 @@
 			}
 		]
 	},
-	"818df54c-26d6-4367-94a9-dbf541a1169e": {
-		"name": "mobile_web_inline_player",
-		"v": 6143,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"81bb4059-ff06-446e-86f4-d6e59ae0fe21": {
 		"name": "android_live_tab",
 		"v": 2268,
@@ -8957,15 +8942,15 @@
 	},
 	"f3efbb9d-473c-415e-93ef-7d2cce634534": {
 		"name": "mobile_web_inline_player_v2",
-		"v": 6222,
+		"v": 6319,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
