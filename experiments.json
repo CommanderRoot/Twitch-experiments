@@ -4599,15 +4599,15 @@
 	},
 	"781530f1-5a77-449c-9d1e-604db8050127": {
 		"name": "stream_summary_email",
-		"v": 5617,
+		"v": 6317,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "test"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			}
 		]
