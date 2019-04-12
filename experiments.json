@@ -6380,16 +6380,16 @@
 	},
 	"aa3f6646-3239-465d-a3ce-d65e120764c3": {
 		"name": "android_broadcaster_dashboard",
-		"v": 6346,
+		"v": 6359,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "disabled"
+				"weight": 100,
+				"value": "control"
 			},
 			{
-				"weight": 100,
-				"value": "enabled_v7.8"
+				"weight": 0,
+				"value": "disabled_v7.8"
 			}
 		]
 	},
