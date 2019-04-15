@@ -7722,15 +7722,15 @@
 	},
 	"cef8768a-6e62-491b-9a81-1892e0633861": {
 		"name": "android_truffle_hunt",
-		"v": 6194,
+		"v": 6366,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active"
 			}
 		]
