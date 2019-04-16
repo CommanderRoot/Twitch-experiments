@@ -1341,11 +1341,11 @@
 	},
 	"25b8b06e-fbe7-4a2d-9d79-3cb343ae73fa": {
 		"name": "ad_loudness_phase_1",
-		"v": 6369,
+		"v": 6371,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 91,
 				"value": "control"
 			},
 			{
@@ -4492,21 +4492,13 @@
 	},
 	"742b7531-8f5c-4c62-9099-7b2a60048ab2": {
 		"name": "player_cs",
-		"v": 6305,
+		"v": 6372,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 40,
-				"value": "ctrl"
-			},
-			{
-				"weight": 40,
-				"value": "fa"
-			},
-			{
-				"weight": 20,
-				"value": "spare"
+				"weight": 1,
+				"value": "control"
 			}
 		]
 	},
