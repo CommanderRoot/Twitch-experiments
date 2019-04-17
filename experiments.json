@@ -307,19 +307,19 @@
 	},
 	"09cea69f-96f8-48ad-90fe-547dc3fe97a0": {
 		"name": "android_extensions_entry_point",
-		"v": 5554,
+		"v": 6382,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "variant_a"
 			},
 			{
-				"weight": 40,
+				"weight": 100,
 				"value": "variant_b"
 			}
 		]
@@ -5552,19 +5552,19 @@
 	},
 	"907a7923-cd5f-473f-8a4f-ef97355bce74": {
 		"name": "ios_extensions_entry_point",
-		"v": 5760,
+		"v": 6383,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "variant_a"
 			},
 			{
-				"weight": 40,
+				"weight": 100,
 				"value": "variant_b"
 			}
 		]
