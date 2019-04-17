@@ -4301,6 +4301,21 @@
 			}
 		]
 	},
+	"701d9250-8bed-47ca-b34f-ee5c144e0539": {
+		"name": "mobile_web_worker_images_v3",
+		"v": 6385,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"7058f60c-4817-4781-9ab5-6907e0b9c234": {
 		"name": "vod_pop",
 		"v": 4498,
