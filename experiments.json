@@ -8771,16 +8771,16 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "Twilight Player Core Distribution (Global)",
-		"v": 6368,
+		"v": 6391,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "2.10.1"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "2.9.3"
 			}
 		]
