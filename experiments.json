@@ -4303,15 +4303,15 @@
 	},
 	"701d9250-8bed-47ca-b34f-ee5c144e0539": {
 		"name": "mobile_web_worker_images_v3",
-		"v": 6385,
+		"v": 6388,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
