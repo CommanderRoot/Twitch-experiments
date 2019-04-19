@@ -1591,6 +1591,21 @@
 			}
 		]
 	},
+	"2b639910-796b-498d-bca5-6a748d9fd1cd": {
+		"name": "ios_resub_notices",
+		"v": 6395,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 100,
+				"value": "disabled"
+			}
+		]
+	},
 	"2be750b2-f97a-41e5-a699-0d934cefc05c": {
 		"name": "ios_onboarding_recommendations_v5.3",
 		"v": 1933,
