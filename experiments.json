@@ -1200,21 +1200,6 @@
 			}
 		]
 	},
-	"215c4fb8-bb72-4dbc-a4e6-ddd11941fdb3": {
-		"name": "android_group_notifications",
-		"v": 4955,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "active"
-			}
-		]
-	},
 	"21eae6bf-b120-4cd0-a513-5612ea0fb51c": {
 		"name": "ps4_playercore",
 		"v": 1121,
@@ -1752,21 +1737,6 @@
 			{
 				"weight": 90,
 				"value": "control"
-			}
-		]
-	},
-	"313f8746-5de5-432f-a484-31a17daaad39": {
-		"name": "android_wateb_7.6.0_release",
-		"v": 6285,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
@@ -7229,21 +7199,6 @@
 			}
 		]
 	},
-	"bf7566f3-241b-4ade-95d4-381a7e7dd390": {
-		"name": "android_wateb_6.0_release",
-		"v": 5932,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"bfc54618-1905-49ed-ab8e-e72af763f553": {
 		"name": "android_story_card_v2.5",
 		"v": 2363,
@@ -7950,25 +7905,6 @@
 			}
 		]
 	},
-	"d3dcfaf6-ed3c-4935-ae56-250f7f01afc4": {
-		"name": "android_kamehameha",
-		"v": 4926,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "follow_no_surf"
-			},
-			{
-				"weight": 100,
-				"value": "follow_surf"
-			}
-		]
-	},
 	"d4752777-a16a-4128-bcfb-42cbd4a53613": {
 		"name": "TWILIGHT_OWL_ROOM_CHEERING",
 		"v": 3846,
@@ -8372,25 +8308,6 @@
 			{
 				"weight": 0,
 				"value": "experiment_cohort"
-			}
-		]
-	},
-	"dea90efd-4f1b-419f-995e-a7f203e1224f": {
-		"name": "android_voffline_sort",
-		"v": 3993,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 33,
-				"value": "control"
-			},
-			{
-				"weight": 33,
-				"value": "video_count_sort"
-			},
-			{
-				"weight": 33,
-				"value": "alphabetical_sort"
 			}
 		]
 	},
@@ -9141,25 +9058,6 @@
 			{
 				"weight": 100,
 				"value": "Variant"
-			}
-		]
-	},
-	"f8348703-2a66-4016-bc73-02273ef8fe77": {
-		"name": "ios_voffline_sort",
-		"v": 4204,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 33,
-				"value": "control"
-			},
-			{
-				"weight": 33,
-				"value": "video_count_sort"
-			},
-			{
-				"weight": 33,
-				"value": "alphabetical_sort"
 			}
 		]
 	},
