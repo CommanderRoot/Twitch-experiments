@@ -1894,6 +1894,21 @@
 			}
 		]
 	},
+	"3571e123-fb7a-44fa-8993-9b55665d07d4": {
+		"name": "surestream_rollout_androidtv",
+		"v": 6413,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "SURESTREAM_ON"
+			},
+			{
+				"weight": 100,
+				"value": "SURESTREAM_OFF"
+			}
+		]
+	},
 	"35731f0a-bd57-4582-915d-907dee75b3d4": {
 		"name": "trending_emotes",
 		"v": 1708,
@@ -5478,6 +5493,21 @@
 			}
 		]
 	},
+	"8e192b51-d61b-448a-add9-a53ab224b733": {
+		"name": "surestream_rollout_android",
+		"v": 6411,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "SURESTREAM_ON"
+			},
+			{
+				"weight": 100,
+				"value": "SURESTREAM_OFF"
+			}
+		]
+	},
 	"8e60fcf8-7696-4d1a-8b7f-645b82359f69": {
 		"name": "Cloudfront Live Test",
 		"v": 5710,
@@ -6854,21 +6884,6 @@
 			{
 				"weight": 0,
 				"value": "variant_a"
-			}
-		]
-	},
-	"b253f060-19fc-4539-98e2-391a55354741": {
-		"name": "vaes_wave_3",
-		"v": 5870,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "treatment"
 			}
 		]
 	},
