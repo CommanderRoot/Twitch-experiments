@@ -2008,21 +2008,6 @@
 			}
 		]
 	},
-	"395edcd7-3a9e-4693-8162-eec4252e731f": {
-		"name": "almanac_vod_rtqos",
-		"v": 2857,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 9,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "almanac_realtime"
-			}
-		]
-	},
 	"3a823fae-acbe-40c4-9ed8-6b1e685eb4b2": {
 		"name": "ios_notification_center",
 		"v": 3073,
