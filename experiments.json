@@ -275,6 +275,21 @@
 			}
 		]
 	},
+	"088f409b-3e9d-4ebe-aeb7-4df12f825f6f": {
+		"name": "surestream_rollout_uwp",
+		"v": 6409,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "SURESTREAM_ON"
+			},
+			{
+				"weight": 100,
+				"value": "SURESTREAM_OFF"
+			}
+		]
+	},
 	"096252ea-5fc8-43c1-868a-d5c686b11742": {
 		"name": "ios_web_login_disable_implicit_flow",
 		"v": 4193,
@@ -7170,6 +7185,21 @@
 			{
 				"weight": 5,
 				"value": "active"
+			}
+		]
+	},
+	"bbb3bde7-7101-4d10-b3ca-2ed73e8044ab": {
+		"name": "surestream_rollout_ps4",
+		"v": 6408,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "SURESTREAM_ON"
+			},
+			{
+				"weight": 100,
+				"value": "SURESTREAM_OFF"
 			}
 		]
 	},
