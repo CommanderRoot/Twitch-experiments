@@ -48,21 +48,6 @@
 			}
 		]
 	},
-	"0173154a-7fa4-4a76-b8e1-0575eb3a7fcd": {
-		"name": "android_live_preview",
-		"v": 6427,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
-				"value": "live"
-			}
-		]
-	},
 	"022cf7ca-3dcc-4a29-b2ee-c220ada8bc2e": {
 		"name": "ios_new_followed_screen",
 		"v": 4276,
@@ -131,21 +116,6 @@
 			},
 			{
 				"weight": 50,
-				"value": "active"
-			}
-		]
-	},
-	"04b8f9e1-4849-48fa-8d33-c56ec9f040a0": {
-		"name": "android_video_paint",
-		"v": 6428,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
 				"value": "active"
 			}
 		]
@@ -7619,25 +7589,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"cedb939e-3bea-49aa-a666-a6f2f599664d": {
-		"name": "ios_big_goku",
-		"v": 4122,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
-			},
-			{
-				"weight": 50,
-				"value": "collection"
 			}
 		]
 	},
