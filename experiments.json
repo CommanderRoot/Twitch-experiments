@@ -1511,33 +1511,6 @@
 			}
 		]
 	},
-	"2be750b2-f97a-41e5-a699-0d934cefc05c": {
-		"name": "ios_onboarding_recommendations_v5.3",
-		"v": 6487,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "control"
-			},
-			{
-				"weight": 20,
-				"value": "opt_in"
-			},
-			{
-				"weight": 20,
-				"value": "opt_in_situ"
-			},
-			{
-				"weight": 20,
-				"value": "in_situ"
-			},
-			{
-				"weight": 20,
-				"value": "hold_out"
-			}
-		]
-	},
 	"2c9bc904-90e2-469f-9f09-d2eb5fddeadc": {
 		"name": "android_squad_streaming_alpha",
 		"v": 6098,
@@ -5078,21 +5051,6 @@
 			}
 		]
 	},
-	"8adde0fd-4f64-43e9-a7b0-1367306a6b26": {
-		"name": "android_onboarding_recomendations ",
-		"v": 6485,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 75,
-				"value": "control"
-			},
-			{
-				"weight": 25,
-				"value": "opt_in"
-			}
-		]
-	},
 	"8bc4faaa-b4df-4862-b249-ac153de6294a": {
 		"name": "Seaweed",
 		"v": 875,
@@ -5576,21 +5534,6 @@
 			}
 		]
 	},
-	"9966ac82-62e7-43b2-b6dc-8e8fd03dd1c5": {
-		"name": "android_playercore_3",
-		"v": 6484,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 99,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "active"
-			}
-		]
-	},
 	"99c425d5-7d9f-47bd-a13a-409903cd6515": {
 		"name": "SIGNUP_REDIRECT",
 		"v": 2033,
@@ -5723,25 +5666,6 @@
 			}
 		]
 	},
-	"9cf2abef-ad3f-4999-baf4-feaab8ec607d": {
-		"name": "ios_pipboy_homepage",
-		"v": 6483,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 98,
-				"value": "live"
-			},
-			{
-				"weight": 1,
-				"value": "pulse"
-			},
-			{
-				"weight": 1,
-				"value": "browse"
-			}
-		]
-	},
 	"9d1ee56c-22dc-4d5c-96dd-5ee393c6cd4b": {
 		"name": "xboxone_playercore",
 		"v": 1119,
@@ -5753,21 +5677,6 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
-	"9d6138b7-c07a-40af-88d7-9636f02bec17": {
-		"name": "android_pipboy_flicker_ads",
-		"v": 6482,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
 				"value": "active"
 			}
 		]
@@ -6622,21 +6531,6 @@
 			},
 			{
 				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
-	"b6400c92-a229-462e-bfb0-9dcf456b5b61": {
-		"name": "ios_google_ima",
-		"v": 6481,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
 				"value": "active"
 			}
 		]
