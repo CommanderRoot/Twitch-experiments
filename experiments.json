@@ -4909,21 +4909,6 @@
 			}
 		]
 	},
-	"84d81180-6faa-4c58-98d7-48bbff5035c7": {
-		"name": "baking_bread_us",
-		"v": 658,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 95,
-				"value": "yes"
-			},
-			{
-				"weight": 5,
-				"value": "no"
-			}
-		]
-	},
 	"85ef02f8-911c-45f4-9042-8e0c9d9face3": {
 		"name": "android_onboarding_surf",
 		"v": 4770,
@@ -5932,21 +5917,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"a1ce3d24-076a-4664-be4c-f9046fdce18c": {
-		"name": "baking_bread_uk",
-		"v": 657,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 95,
-				"value": "yes"
-			},
-			{
-				"weight": 5,
-				"value": "no"
 			}
 		]
 	},
