@@ -6535,6 +6535,21 @@
 			}
 		]
 	},
+	"b6400c92-a229-462e-bfb0-9dcf456b5b61": {
+		"name": "ios_google_ima",
+		"v": 6494,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "active"
+			}
+		]
+	},
 	"b691208a-1e25-4c51-8be6-76d9ed0f0e43": {
 		"name": "android_raid_now",
 		"v": 4612,
@@ -6911,25 +6926,6 @@
 			{
 				"weight": 0,
 				"value": "test"
-			}
-		]
-	},
-	"c48618ad-fde4-4c67-9f4c-b89f3c633cf9": {
-		"name": "android_pipboy_homepage",
-		"v": 6479,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 98,
-				"value": "live"
-			},
-			{
-				"weight": 1,
-				"value": "pulse"
-			},
-			{
-				"weight": 1,
-				"value": "browse"
 			}
 		]
 	},
@@ -7915,21 +7911,6 @@
 			{
 				"weight": 0,
 				"value": "off"
-			}
-		]
-	},
-	"e3c3a143-0f85-4e84-9b08-73b3ee3ae171": {
-		"name": "ios_onboarding_recommendations",
-		"v": 6478,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 75,
-				"value": "control"
-			},
-			{
-				"weight": 25,
-				"value": "opt_in"
 			}
 		]
 	},
