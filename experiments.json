@@ -2567,21 +2567,6 @@
 			}
 		]
 	},
-	"4d606c20-13e7-4949-b8d5-b34492db4662": {
-		"name": "android_miniplayer_width_change",
-		"v": 2429,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "control"
-			},
-			{
-				"weight": 95,
-				"value": "active"
-			}
-		]
-	},
 	"4dbc0ece-9392-421b-bf3d-7ace54428241": {
 		"name": "ios_social_t1_tab",
 		"v": 2186,
@@ -6258,21 +6243,6 @@
 			},
 			{
 				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
-	"b6400c92-a229-462e-bfb0-9dcf456b5b61": {
-		"name": "ios_google_ima",
-		"v": 6494,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
 				"value": "active"
 			}
 		]
