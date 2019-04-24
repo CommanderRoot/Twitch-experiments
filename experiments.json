@@ -1613,33 +1613,6 @@
 			}
 		]
 	},
-	"2f8b56a6-609f-44e9-a65b-3c3277be5a90": {
-		"name": "android_videoplayer_v0",
-		"v": 2111,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "native"
-			},
-			{
-				"weight": 5,
-				"value": "playercore"
-			},
-			{
-				"weight": 88,
-				"value": "exoplayer"
-			},
-			{
-				"weight": 1,
-				"value": "exoplayer_2"
-			}
-		]
-	},
 	"301a4a68-7d71-4dcb-a35c-890690fd2671": {
 		"name": "TWILIGHT_HOMEPAGE_REDESIGN",
 		"v": 2973,
@@ -4250,33 +4223,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"7351db93-1494-464e-b019-b1d4a18da8ed": {
-		"name": "android_onboarding_1_1",
-		"v": 6426,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "control"
-			},
-			{
-				"weight": 20,
-				"value": "variant_a"
-			},
-			{
-				"weight": 20,
-				"value": "variant_b"
-			},
-			{
-				"weight": 20,
-				"value": "variant_c"
-			},
-			{
-				"weight": 20,
-				"value": "holdout"
 			}
 		]
 	},
@@ -7506,21 +7452,6 @@
 			}
 		]
 	},
-	"d3882247-a37e-4aae-a35f-f109b51ee083": {
-		"name": "android_playercore_9",
-		"v": 2053,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 98,
-				"value": "control"
-			},
-			{
-				"weight": 2,
-				"value": "active"
-			}
-		]
-	},
 	"d4752777-a16a-4128-bcfb-42cbd4a53613": {
 		"name": "TWILIGHT_OWL_ROOM_CHEERING",
 		"v": 3846,
@@ -8370,21 +8301,6 @@
 			},
 			{
 				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
-	"efe4cedd-7ea4-4d78-a9e4-5fad8dd9de79": {
-		"name": "android_playercore_2",
-		"v": 6434,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 99,
-				"value": "control"
-			},
-			{
-				"weight": 1,
 				"value": "active"
 			}
 		]
