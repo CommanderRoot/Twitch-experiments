@@ -7970,6 +7970,29 @@
 			}
 		]
 	},
+	"f56286de-6921-4bb6-aa39-162b71d06948": {
+		"name": "twilight_bits_bundle_presentation_update",
+		"v": 6525,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "precent_more"
+			},
+			{
+				"weight": 0,
+				"value": "precent_savings"
+			},
+			{
+				"weight": 0,
+				"value": "bonus_amount"
+			}
+		]
+	},
 	"f60b889e-0327-46a8-ad7b-0d402717da45": {
 		"name": "CREATIVE_SIDEBAR_NAVIGATION",
 		"v": 493,
