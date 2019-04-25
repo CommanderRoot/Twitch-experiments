@@ -7224,15 +7224,15 @@
 	},
 	"d9d2b394-5e99-4d8e-9c61-c60621c7f4e4": {
 		"name": "ios_swift_player_stack",
-		"v": 6514,
+		"v": 6527,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 15,
 				"value": "active_v781"
 			},
 			{
-				"weight": 100,
+				"weight": 85,
 				"value": "control"
 			}
 		]
