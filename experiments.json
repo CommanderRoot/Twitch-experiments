@@ -2077,21 +2077,6 @@
 			}
 		]
 	},
-	"42c46cf2-6a2e-49cb-9a68-622999710fed": {
-		"name": "FOLLOWING_COMMUNITIES",
-		"v": 1374,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 75,
-				"value": "bottom"
-			},
-			{
-				"weight": 25,
-				"value": "priority"
-			}
-		]
-	},
 	"42f5eea6-c548-4791-b767-9c7e29b73ef6": {
 		"name": "CLIENT_BATCH_MIXPANEL",
 		"v": 729,
