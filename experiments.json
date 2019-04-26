@@ -3156,20 +3156,12 @@
 	},
 	"601d9012-0c9d-4f18-bcaf-5301831d186a": {
 		"name": "qs-logged-in",
-		"v": 6405,
+		"v": 6530,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
-				"value": "MODEL_A"
-			},
-			{
-				"weight": 50,
-				"value": "MODEL_B"
-			},
-			{
-				"weight": 0,
-				"value": "DUMMY"
+				"weight": 100,
+				"value": "DUMMY-DATA"
 			}
 		]
 	},
@@ -4610,20 +4602,12 @@
 	},
 	"86643c06-e786-4b51-92cd-2f0097ab8ec4": {
 		"name": "qs-logged-out",
-		"v": 6404,
+		"v": 6531,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 60,
-				"value": "MODEL_A"
-			},
-			{
-				"weight": 40,
-				"value": "MODEL_B"
-			},
-			{
-				"weight": 0,
-				"value": "DUMMY"
+				"weight": 100,
+				"value": "DUMMY-DATA"
 			}
 		]
 	},
