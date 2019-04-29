@@ -5367,7 +5367,7 @@
 	},
 	"9d2d9208-9af3-48e3-b8d6-06d991b8586c": {
 		"name": "android_phone_number_signup_2",
-		"v": 6568,
+		"v": 6569,
 		"t": 1,
 		"groups": [
 			{
@@ -6494,6 +6494,25 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"c0fb59fc-52b5-4e39-bce7-5a7ec95d1888": {
+		"name": "ios_phone_number_signup_2",
+		"v": 6570,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "phone-first"
+			},
+			{
+				"weight": 10,
+				"value": "phone-or-email"
 			}
 		]
 	},
