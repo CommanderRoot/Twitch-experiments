@@ -2850,6 +2850,25 @@
 			}
 		]
 	},
+	"56d12a0d-d7da-417b-8571-e0aa10a06279": {
+		"name": "watch_blockbuster",
+		"v": 6572,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "autoplay"
+			},
+			{
+				"weight": 0,
+				"value": "no_autoplay"
+			}
+		]
+	},
 	"582e8787-2402-407c-8957-57da6adc2f98": {
 		"name": "android_multi_view_alpha",
 		"v": 6100,
@@ -8156,6 +8175,25 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"fd2caaad-6db4-4631-8679-3b30d085c2ce": {
+		"name": "watch_blockbuster",
+		"v": 6571,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "autoplay"
+			},
+			{
+				"weight": 0,
+				"value": "no_autoplay"
 			}
 		]
 	},
