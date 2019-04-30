@@ -1894,6 +1894,21 @@
 			}
 		]
 	},
+	"3f59e63a-3389-463c-87d2-1105e7c8d0fe": {
+		"name": "mobile_recommendations_in_following_2",
+		"v": 6575,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"3f8094fb-2ae3-4c19-b86d-05e935d972f8": {
 		"name": "AGS_HEDGEHOG_TWITCH_ARCADE_RANDOM_ORDER",
 		"v": 4464,
