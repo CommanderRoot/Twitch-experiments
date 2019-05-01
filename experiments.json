@@ -3583,6 +3583,21 @@
 			}
 		]
 	},
+	"69206b81-29ba-4e10-b3eb-bdf9c898baa4": {
+		"name": "mobile_web_pulsar_ios_v1",
+		"v": 6583,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "treatment"
+			}
+		]
+	},
 	"697896b3-a4b9-4c00-a1a2-7fa35ec9a8e4": {
 		"name": "pushy_notifications_disable",
 		"v": 3420,
