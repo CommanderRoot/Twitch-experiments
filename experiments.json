@@ -6533,7 +6533,7 @@
 	},
 	"c0fb59fc-52b5-4e39-bce7-5a7ec95d1888": {
 		"name": "ios_phone_number_signup_2",
-		"v": 6570,
+		"v": 6590,
 		"t": 1,
 		"groups": [
 			{
@@ -6542,11 +6542,11 @@
 			},
 			{
 				"weight": 10,
-				"value": "phone-first"
+				"value": "keyboard-suggester"
 			},
 			{
 				"weight": 10,
-				"value": "phone-or-email"
+				"value": "no-keyboard-suggester"
 			}
 		]
 	},
