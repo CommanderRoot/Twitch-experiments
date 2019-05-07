@@ -1888,15 +1888,15 @@
 	},
 	"3f59e63a-3389-463c-87d2-1105e7c8d0fe": {
 		"name": "mobile_native_recommendations_in_following_2",
-		"v": 6576,
+		"v": 6614,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
