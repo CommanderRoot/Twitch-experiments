@@ -414,6 +414,21 @@
 			}
 		]
 	},
+	"0cc08918-eff5-49d3-92cf-efd8999a4477": {
+		"name": "ios_community_points_alpha",
+		"v": 6636,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"0dc9a9c9-fee5-4b5f-a462-f07675713e5e": {
 		"name": "TWILIGHT_FOLLOWING_INDEX_LATEST_VIDEOS_V2",
 		"v": 5983,
