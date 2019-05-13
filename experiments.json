@@ -200,6 +200,21 @@
 			}
 		]
 	},
+	"070499d0-bfdc-454c-9e09-34b1c92061a1": {
+		"name": "sunlight_new_user",
+		"v": 6643,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"070d88d9-02da-42cf-a83d-4f884878f93a": {
 		"name": "MOBILE_CHECKOUT",
 		"v": 2097,
@@ -1014,6 +1029,21 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"1dc56b20-6d61-4a53-a087-727efafe06d8": {
+		"name": "sunlight_new_user",
+		"v": 6644,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
