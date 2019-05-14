@@ -3649,15 +3649,15 @@
 	},
 	"69206b81-29ba-4e10-b3eb-bdf9c898baa4": {
 		"name": "mobile_web_pulsar_ios_v1",
-		"v": 6597,
+		"v": 6654,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "treatment"
 			}
 		]
@@ -3998,21 +3998,6 @@
 			{
 				"weight": 100,
 				"value": "no"
-			}
-		]
-	},
-	"72dc195b-a0de-47c0-a621-a05d0b4cafdc": {
-		"name": "mobile_web_worker_images_v2",
-		"v": 5811,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
