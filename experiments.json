@@ -4677,12 +4677,16 @@
 	},
 	"86643c06-e786-4b51-92cd-2f0097ab8ec4": {
 		"name": "qs-logged-out",
-		"v": 6531,
+		"v": 6649,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "DUMMY-DATA"
+			},
+			{
+				"weight": 100,
+				"value": "DUMMY-MODEL"
 			}
 		]
 	},
