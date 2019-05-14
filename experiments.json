@@ -3484,15 +3484,15 @@
 	},
 	"6522baf6-dc69-4461-bed6-a41cfe1f4213": {
 		"name": "ios_chat_input_mode_followers_only",
-		"v": 6626,
+		"v": 6656,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active7.9"
 			}
 		]
