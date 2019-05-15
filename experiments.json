@@ -3053,19 +3053,19 @@
 	},
 	"5b4c5718-e66d-4e5f-9075-0dba3ac6b69f": {
 		"name": "ad_loudness_phase_4",
-		"v": 6668,
+		"v": 6678,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "treatment_always_adjust"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "treatment_only_down"
 			}
 		]
