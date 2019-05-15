@@ -1496,15 +1496,15 @@
 	},
 	"2b639910-796b-498d-bca5-6a748d9fd1cd": {
 		"name": "ios_resub_notices",
-		"v": 6672,
+		"v": 6674,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "enabled"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "disabled"
 			}
 		]
@@ -4090,15 +4090,15 @@
 	},
 	"74faa05a-b304-4b75-920b-be61038a4ef6": {
 		"name": "vod_clips_winter_is_here",
-		"v": 6664,
+		"v": 6673,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "off"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "on"
 			}
 		]
