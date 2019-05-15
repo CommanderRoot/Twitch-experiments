@@ -2162,23 +2162,23 @@
 	},
 	"42a1e26c-b3db-420f-a21f-5eba13902252": {
 		"name": "twilight_bits_bundle_presentation_update_on_user_id",
-		"v": 6666,
+		"v": 6669,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "percent_more"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "percent_savings"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "bonus_amount"
 			}
 		]
