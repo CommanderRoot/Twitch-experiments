@@ -1496,15 +1496,15 @@
 	},
 	"2b639910-796b-498d-bca5-6a748d9fd1cd": {
 		"name": "ios_resub_notices",
-		"v": 6658,
+		"v": 6670,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "enabled"
 			},
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "disabled"
 			}
 		]
