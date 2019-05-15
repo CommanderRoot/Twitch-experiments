@@ -4149,6 +4149,21 @@
 			}
 		]
 	},
+	"77694bf2-b690-46c7-8b6c-624ef477a53a": {
+		"name": "android_autoplay_disable",
+		"v": 6675,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"781530f1-5a77-449c-9d1e-604db8050127": {
 		"name": "stream_summary_email",
 		"v": 6317,
