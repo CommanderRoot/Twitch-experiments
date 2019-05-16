@@ -1600,6 +1600,21 @@
 			}
 		]
 	},
+	"3065be67-9b8a-42a7-89c2-9c682e36d8c3": {
+		"name": "mobile_web_pulsar_universal_v1",
+		"v": 6683,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"306b5fc1-d28c-4603-b2de-462d32c207bd": {
 		"name": "ads_countdown_timers",
 		"v": 5877,
