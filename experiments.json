@@ -4139,15 +4139,15 @@
 	},
 	"74faa05a-b304-4b75-920b-be61038a4ef6": {
 		"name": "vod_clips_winter_is_here",
-		"v": 6676,
+		"v": 6695,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "off"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "on"
 			}
 		]
