@@ -2584,12 +2584,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 6691,
+		"v": 6697,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-c45a5c.sjc02.hls.ttvnw.net/v1/segment/CiORVTYmYO3PJLFedpVA_QlIx7TgSjpzdNwhmyPPb2mMf4-3FeGienapqTR2na7sU0zj18Z85rtHKdoC8IRSZk5KnrY_m3OgmuaM7G9oxgFU9OegM4emikFfVI7VjzAWP_BIqEdj1FADc7HiusDbH2SbQoXT8q0ZowqPImEUWO-PEnieANoR-0Dtw-erZk8MhP6keke1pGh5iJAyodN0thtxgwJGFpFTcnvYmSrciAbFBQDu7BRBjxJqh7_UhtbBdworJXYfZFsWRyI0tFqolDL45uWUO4vBP-ObJeoOvE2r0XNbTvUfim-i6hnnF7CyI071vCLkeiVDHnYTsvQ1TQJMR3liGTRBlrT9W2EM1GbMtP5qqEOo8swpiuXCVT99FDJf4oV7i3tsSKHhaPEzzNRmeEsAj5HcH0rpoAb5ARQmM3rgTl9cxmGZBlQWP8jvG16LE8BZT3QIXlqeabIdlXC6sr0aabAo1KUcQheie3V3pIC4-VLiiIjN3G-KF0XYyF0K-eRhBqH0wF3fRzq1X7CPM01k5UlFgWuXNbGxecx8p2u5f2rClUficE2KrzMSSHod4hFTs7kMm6VRIukH4R93QaTCGkr_q0A5xmYaxISdOqqh0TGMNWOVwW33aDARvmze1YDDLmzbwWoRmZb2x4Lfi9_dRtJt9SkhdqCFY6xbLV1VKs7219vo-NjuqzsfiJcan77ieDVdd1inl9u4A8TX1VQekU-Do0kDMQZbGensD3YRGMOtivGCPS8j1kqbuvjfW0.ts"
+				"value": "//video-edge-a2d878.sjc02.hls.ttvnw.net/v1/segment/CpDpDFRkMByymHaNGjKPrPkXgSRESAokw36zIDvnckEvqr8gw1T2IaUuL5NmjGMnhr0_5U9AO0MpjPdjfk4GoLfhW2lewPqWji1a9aN7KNHxRpNOdF9GFnzgEiOP13gV0igUF8lksd_GW0Y0SKh-Ipxscgb5HhXJirKe39xRqRR3MuaSUY9HWCXXlAVI13vt4Vq3k6njys_BgJnBDVzRUfyAUn0kZ11dxC7qMRy1Gs33nb7Hf4LM7HOCExFE8NwWQ7Bp3i2QdnkefQE1i9Xf2b4gWYGAjels_ALiTHLG-8uhW0aDgPJNE6RBkbPvaOU_LZRmRyEuy8XQF3VGnzn5HCwxaTNSAlLjcKCxj8DkQugdW_Cq8wpL9teD6Ak_M3veUFexGdH4efe-zunW541JJRrjt9AsfJdtklHGfZG81ojO_y7RDOZkMeicU2CNjaF7Xm3or8UFuCNi9pZe4hZB_cblTJkjiU7irCgqhdT3V2lT2PfHxqZ649xtFIPfHBCiNLbknvvsW1DU53mFKR7Q3wQOgRvdH7wWuy296AP_CNytk9K5Ggq6G2PoCdeXizonzMCkTF0YUgg-JYARyc5ITVrEb9W_pWEHVhm7XYitns4HmlVF1xeh0IAy6HGQR9HhoZvx7pJrekBrUe5XFtTQwlgqlyaMDhlWakDXjQOBCrFhLI4CjJBBY1gkcGhI2BMZxHJCuRDZ6Yie54PMWy0WUw7SgqgB04HpMnagF7TwAM7SnaFMMVqnLfgI_xQMMiwWIjdjt7FpZgrFpkuPjs8zDSykzv5f.ts"
 			}
 		]
 	},
@@ -5260,6 +5260,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"974c2972-971c-4296-bd3c-5230c3757755": {
+		"name": "ad_moat_s2s",
+		"v": 6696,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
