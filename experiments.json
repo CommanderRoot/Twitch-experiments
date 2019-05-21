@@ -290,6 +290,21 @@
 			}
 		]
 	},
+	"09a4eb6c-9fd0-4b3b-b9c4-92bff63b4137": {
+		"name": "ios_swift_minutes_watched",
+		"v": 6698,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "disabled"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			}
+		]
+	},
 	"09cea69f-96f8-48ad-90fe-547dc3fe97a0": {
 		"name": "android_extensions_entry_point",
 		"v": 6382,
