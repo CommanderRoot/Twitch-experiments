@@ -1603,21 +1603,6 @@
 			}
 		]
 	},
-	"2e0cb30b-7aaa-4e01-9fdd-b7046605b41f": {
-		"name": "Mobile Web Chat Experiment",
-		"v": 1178,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "Gets chat"
-			},
-			{
-				"weight": 10,
-				"value": "Doesn't get chat"
-			}
-		]
-	},
 	"2f6b028c-c2a5-462c-8daf-3bcb394839bb": {
 		"name": "android_playercore",
 		"v": 1023,
@@ -2614,12 +2599,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 6718,
+		"v": 6729,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-1cf194.sjc02.hls.ttvnw.net/v1/segment/CkOJMCBPkih-vGFnHKx5_9pGdeNuTFnj-5SCS2wITq8_WAsnzVCFDfLCuQb_ff5nIl-VdqlGBA5TMsXrTbfKs7duQh-RmbwvvFfOOyd7GBYwn7EpF0ztTFI9_Z0fexzFGiI5KWTzRLUBGfT4r63OoeFzsYkVoq2LsFEgb0DJaJvTP39wLXOy4omDjcbX9uBvcnDQ1yZ2D91AJ4H0q4Ae_EFODya9SKGotT7owlHGaeu57A8NdyD78nax_9a9HqpMbRTsRiLUoe9xvY5e0hSUuyxHuRyhRyBd34Zm5aIi19M2o9kXRckoXwnVscg2uAV54eL3NiqFjqeogVnFDFhuugJ-yAS9QHR51rzRhdq4G2iRxvUTTVtV5e6t_Tsss9wm0NGzMBPLQylOM1OFFkk3wR9EdVd1MPvwq7h-RDPdAVs4nqErKw8upVohBVc1IynQFlR4vsY2fbokkkKJEBdm0j7rhOMzTzg6RsKJNDQumur6M28I6gFBWTzAqeAMFFPgQE7CSC414ofeH177sc1x8nX6ZucZnfuxPp7QQng9-HlJSaGnL5nEghq90NXXr7FVc1ZSO4P2cvkNgJAAO7Qac13likfKsz1LviJL8E9yw_yHxQwMvOEyTCPQms1l0RXPejXKyV7IMONSo27Mjqx4fnC7cXyHLAp09szQygDslMcVAqbToqL3tmGDW1eeNr_iYRWcutS71w8duvJLM2mJQ2BnM2kWSoguHZbdnNiWyappCf9fK8Huo73o.ts"
+				"value": "//video-edge-0bc94a.sjc02.hls.ttvnw.net/v1/segment/ChwCLRNvfbCMKR55I8LPeeNfzxzGA_4dxjokd-9bkAl1fYQ-SL50QLy0qSFmAwhrcAk1OPHwpgmDixya5ZQo24KxgaAwCM_Lu3-Xw6kS6MDPnSiar8ZljcCohFKKDrC9L6Brm1SeJ4OM5ovcR5Pu_ZhyAIXYEYvNhH48kRbsy657CUMO4Kdn9GH-c9LbVipdduB6xlDS1qEieucaOFgk8_V0a14oRA_KRSdEs0Io0nmI9NoLJpfEFyY-yZB1phvnVS0-hekOv81cZ7Wj40a09OP0Jh9TnHO4f3qibY-W5Xke9ofaWknBv3nPxsLDTkeVgL9aHlsE2Wi9syxXhG8Evf3qvjg-9p1wJlljqrBQGQKl-xWWOYt-pdshUIXlGPGyBZHy4Hq4IdpEkn9ekyAL4k68hqruN9UYI2w9A49j4wRENsGEP5mfxd_VEPEqHxgUUvJAOxXqvS4hxHOa9wDnulGaWR9B188NF9-6CACVe20oeeYlkp-qZWX7BS-68R4Mbsv26meYgavNObVuTT03RqV3GJTI1w822J_Ao-v8GFmbr-OvUkUr6dOH9CGjZ7QZQGDkfX4l7CpEh5QtcRDVu-PxFEiO__rlBcQlcUbkz0faDssFafjfVs5_oammUB038GsN5fBFcsonQ41OhXGdo_4x96BIMrjVMJid4ZbhQPjRmW7XK0F-ZDWPJjDhOVGRKKvPtRBxGdu_6JJn47Ujar4ZW9Fb7lCIlu_FCE0ZWsThsBL52XbJXtsEBZuwWvKTj_qsdSpExMdkdnoUPgekQzlN.ts"
 			}
 		]
 	},
@@ -3856,21 +3841,6 @@
 			{
 				"weight": 100,
 				"value": "enabled"
-			}
-		]
-	},
-	"6ab108f7-14e3-4773-a252-364a58fc9ba5": {
-		"name": "mobile_web_aa",
-		"v": 4858,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
 			}
 		]
 	},
