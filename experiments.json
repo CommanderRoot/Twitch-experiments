@@ -4833,6 +4833,21 @@
 			}
 		]
 	},
+	"8a7f5215-ecad-441f-beaf-700e443005b9": {
+		"name": "player_ui_tick_tock",
+		"v": 6737,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"8ab1d7cc-6c63-4105-a5d3-5d5bb926b5f6": {
 		"name": "android_bits_purchase_webview",
 		"v": 1850,
