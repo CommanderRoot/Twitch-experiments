@@ -5974,6 +5974,21 @@
 			}
 		]
 	},
+	"adf8b74d-56a4-4766-9495-61500d120e85": {
+		"name": "player_ui_sunrise",
+		"v": 6736,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 100,
+				"value": "disabled"
+			}
+		]
+	},
 	"adff30ad-0ef3-4b61-9892-1c6b10500bd4": {
 		"name": "ios_extensions",
 		"v": 3318,
