@@ -1318,6 +1318,21 @@
 			}
 		]
 	},
+	"25590b1a-ef0c-40e5-8e3f-9ded2926d4b8": {
+		"name": "android_following_hosted_channels",
+		"v": 6741,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "hide_hosted"
+			}
+		]
+	},
 	"25b8b06e-fbe7-4a2d-9d79-3cb343ae73fa": {
 		"name": "ad_loudness_phase_1",
 		"v": 6639,
@@ -1560,7 +1575,7 @@
 	},
 	"2bb9900d-b5bf-4f8e-bf2d-3efdb3320a32": {
 		"name": "ios_following_hosted_channels",
-		"v": 6739,
+		"v": 6742,
 		"t": 1,
 		"groups": [
 			{
