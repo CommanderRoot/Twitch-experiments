@@ -1558,6 +1558,21 @@
 			}
 		]
 	},
+	"2bb9900d-b5bf-4f8e-bf2d-3efdb3320a32": {
+		"name": "ios_following_hosted_channels",
+		"v": 6739,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "hide_hosted"
+			}
+		]
+	},
 	"2c9bc904-90e2-469f-9f09-d2eb5fddeadc": {
 		"name": "android_squad_streaming_alpha",
 		"v": 6098,
