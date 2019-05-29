@@ -630,15 +630,15 @@
 	},
 	"127fb373-5ac3-4815-b7f2-012ddb5eca4a": {
 		"name": "android_merry_go_round",
-		"v": 5969,
+		"v": 6764,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "round"
 			}
 		]
@@ -1068,15 +1068,15 @@
 	},
 	"1c727c0e-698b-4968-b01b-2fb636408a81": {
 		"name": "ios_merry_go_round",
-		"v": 6595,
+		"v": 6765,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "round"
 			}
 		]
@@ -3859,18 +3859,6 @@
 			{
 				"weight": 20,
 				"value": "b5"
-			}
-		]
-	},
-	"6a2630a4-edc7-4f2a-8cfe-e4de75eb0d98": {
-		"name": "rtqos",
-		"v": 6647,
-		"t": 1,
-		"s": 2,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
 			}
 		]
 	},
