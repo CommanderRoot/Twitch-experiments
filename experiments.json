@@ -185,6 +185,21 @@
 			}
 		]
 	},
+	"06438e0a-0809-461b-b68f-40e37ca7cd33": {
+		"name": "mmr_impact",
+		"v": 6752,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"06aa0a5e-01f5-480d-8596-6bcf73a93ffe": {
 		"name": "android_email_settings",
 		"v": 5951,
