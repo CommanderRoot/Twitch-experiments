@@ -1096,6 +1096,21 @@
 			}
 		]
 	},
+	"1cc340a4-db86-4402-8780-c31884209a6d": {
+		"name": "ios_aa_2019",
+		"v": 6786,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "enabled"
+			}
+		]
+	},
 	"1dc56b20-6d61-4a53-a087-727efafe06d8": {
 		"name": "sunlight_new_user",
 		"v": 6644,
@@ -5367,6 +5382,21 @@
 			}
 		]
 	},
+	"989847c8-abd5-46f0-84a8-f560bc88954d": {
+		"name": "ios_aa_2019",
+		"v": 6787,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "enabled"
+			}
+		]
+	},
 	"98f3f2a5-9e4e-4ba8-aabe-2ff85e7309ee": {
 		"name": "CHAT_RULES_EXPERIMENT",
 		"v": 505,
@@ -6835,6 +6865,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"c35dcc1f-7617-4c17-b318-578897d50d2d": {
+		"name": "ios_swift_player_stack_v2",
+		"v": 6788,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v7.10"
 			}
 		]
 	},
