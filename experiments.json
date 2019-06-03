@@ -1648,21 +1648,6 @@
 			}
 		]
 	},
-	"2daa3d46-bdf8-484a-8e42-022906b1699f": {
-		"name": "android_tag_along",
-		"v": 5212,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"2f6b028c-c2a5-462c-8daf-3bcb394839bb": {
 		"name": "android_playercore",
 		"v": 1023,
@@ -5740,21 +5725,6 @@
 			}
 		]
 	},
-	"a36b2c77-e7ab-4836-8f8b-0a0bc6a23bf3": {
-		"name": "ios_tag_along",
-		"v": 5211,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"a39cd18b-c3fb-46ad-a6a8-0c2e8686d978": {
 		"name": "clips_teach_me",
 		"v": 1859,
@@ -7729,21 +7699,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"e20747aa-a503-436e-b104-27f974b3eecd": {
-		"name": "android_clips_paris",
-		"v": 1029,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
 			}
 		]
 	},
