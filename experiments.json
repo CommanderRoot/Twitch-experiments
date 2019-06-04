@@ -262,15 +262,15 @@
 	},
 	"088f409b-3e9d-4ebe-aeb7-4df12f825f6f": {
 		"name": "surestream_rollout_uwp",
-		"v": 6833,
+		"v": 6840,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "SURESTREAM_OFF"
 			}
 		]
@@ -645,15 +645,15 @@
 	},
 	"13181a0e-9be7-4d9f-b602-35d87e3dceed": {
 		"name": "surestream_rollout_firetv",
-		"v": 6836,
+		"v": 6841,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "SURESTREAM_OFF"
 			}
 		]
@@ -1286,15 +1286,15 @@
 	},
 	"23763b93-4da3-4680-960c-2ba7a8006070": {
 		"name": "ios_vaes_enabled",
-		"v": 6564,
+		"v": 6844,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v79"
 			}
 		]
@@ -1809,15 +1809,15 @@
 	},
 	"3571e123-fb7a-44fa-8993-9b55665d07d4": {
 		"name": "surestream_rollout_androidtv",
-		"v": 6839,
+		"v": 6842,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "SURESTREAM_OFF"
 			}
 		]
@@ -6656,15 +6656,15 @@
 	},
 	"bbb3bde7-7101-4d10-b3ca-2ed73e8044ab": {
 		"name": "surestream_rollout_ps4",
-		"v": 6835,
+		"v": 6843,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "SURESTREAM_OFF"
 			}
 		]
