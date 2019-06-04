@@ -1809,15 +1809,15 @@
 	},
 	"3571e123-fb7a-44fa-8993-9b55665d07d4": {
 		"name": "surestream_rollout_androidtv",
-		"v": 6798,
+		"v": 6839,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "SURESTREAM_OFF"
 			}
 		]
@@ -4979,6 +4979,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"8dbb035b-9d5a-4007-b72c-d4c75a760897": {
+		"name": "watch_account_reactivation",
+		"v": 6838,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
