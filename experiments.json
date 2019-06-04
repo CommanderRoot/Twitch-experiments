@@ -6626,15 +6626,15 @@
 	},
 	"bbb3bde7-7101-4d10-b3ca-2ed73e8044ab": {
 		"name": "surestream_rollout_ps4",
-		"v": 6800,
+		"v": 6835,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "SURESTREAM_OFF"
 			}
 		]
