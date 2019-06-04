@@ -919,6 +919,21 @@
 			}
 		]
 	},
+	"1978148f-bd51-453d-a55c-c30fa58ef4c8": {
+		"name": "watch_account_reactivation",
+		"v": 6837,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"198744b6-e96f-413b-aaf6-eab0128c9833": {
 		"name": "signup_redirect_search",
 		"v": 2153,
