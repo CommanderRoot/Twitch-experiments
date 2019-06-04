@@ -2271,23 +2271,23 @@
 	},
 	"42a1e26c-b3db-420f-a21f-5eba13902252": {
 		"name": "twilight_bits_bundle_presentation_update_on_user_id",
-		"v": 6669,
+		"v": 6827,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "percent_more"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "percent_savings"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "bonus_amount"
 			}
 		]
@@ -3196,7 +3196,7 @@
 	},
 	"5cd27833-d069-4259-bf8b-b1f4c60ec9b1": {
 		"name": "gem_gem_gem_gem",
-		"v": 6750,
+		"v": 6830,
 		"t": 2,
 		"groups": [
 			{
