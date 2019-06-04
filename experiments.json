@@ -645,15 +645,15 @@
 	},
 	"13181a0e-9be7-4d9f-b602-35d87e3dceed": {
 		"name": "surestream_rollout_firetv",
-		"v": 6797,
+		"v": 6836,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "SURESTREAM_OFF"
 			}
 		]
