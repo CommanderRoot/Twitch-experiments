@@ -5324,15 +5324,15 @@
 	},
 	"974c2972-971c-4296-bd3c-5230c3757755": {
 		"name": "ad_moat_s2s",
-		"v": 6696,
+		"v": 6867,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "treatment"
 			}
 		]
