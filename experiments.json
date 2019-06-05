@@ -3098,6 +3098,21 @@
 			}
 		]
 	},
+	"589aacad-cb0f-4cae-8494-dfba6acdf06e": {
+		"name": "mobile_web_pulsar_universal",
+		"v": 6861,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"58a899e7-7186-4e1c-bd53-795b31c08cb8": {
 		"name": "aperture_viewcount_jax_prod",
 		"v": 6185,
@@ -7744,6 +7759,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"e318ed5a-b4cd-44a5-a452-9fa4f9193aa4": {
+		"name": "mobile_web_pulsar_universal",
+		"v": 6860,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
