@@ -6765,15 +6765,15 @@
 	},
 	"c16c2cfe-0a43-4b1b-8591-595c37946e61": {
 		"name": "ios_strength",
-		"v": 6806,
+		"v": 6856,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "owasp"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "endpoint"
 			}
 		]
@@ -7009,15 +7009,15 @@
 	},
 	"c84b614c-8eb6-4ab9-bb64-806170ff1e2b": {
 		"name": "android_strength",
-		"v": 6807,
+		"v": 6857,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "owasp"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "endpoint"
 			}
 		]
