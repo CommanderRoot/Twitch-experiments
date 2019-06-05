@@ -5217,6 +5217,21 @@
 			}
 		]
 	},
+	"93404bb5-eb2b-4568-803b-e77ce64cac81": {
+		"name": "ads_moat",
+		"v": 6859,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "enabled"
+			},
+			{
+				"weight": 95,
+				"value": "control"
+			}
+		]
+	},
 	"939f4935-0311-453b-b089-c35f89e6cccf": {
 		"name": "ios_tags_in_dashboard",
 		"v": 5600,
