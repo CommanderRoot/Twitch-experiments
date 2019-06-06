@@ -844,21 +844,6 @@
 			}
 		]
 	},
-	"17f86567-52a8-4952-920b-ad685ba42fc7": {
-		"name": "android_age_gating",
-		"v": 6895,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
-			}
-		]
-	},
 	"183a7e9b-12bf-42fc-a91c-f8c6bb9a2e2b": {
 		"name": "AUTO_ON_NOTIFICATIONS",
 		"v": 1465,
@@ -7218,6 +7203,21 @@
 			{
 				"weight": 0,
 				"value": "rec_streams_ads"
+			}
+		]
+	},
+	"d0a13495-92d5-4c1e-a376-681dbe3873ef": {
+		"name": "android_age_gating2",
+		"v": 6901,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
 			}
 		]
 	},
