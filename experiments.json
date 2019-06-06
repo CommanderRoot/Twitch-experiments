@@ -4155,6 +4155,21 @@
 			}
 		]
 	},
+	"749739fe-5023-4c64-b299-3eb8c49cb3ee": {
+		"name": "android_sub_gift_onboarding",
+		"v": 6875,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"74bdc2cf-2caf-4775-8ac2-c0c7258742bf": {
 		"name": "mobile_native_chat_filters_account_creation_date",
 		"v": 6206,
