@@ -3036,19 +3036,19 @@
 	},
 	"56d12a0d-d7da-417b-8571-e0aa10a06279": {
 		"name": "watch_blockbuster",
-		"v": 6572,
+		"v": 6892,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 33,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 34,
 				"value": "autoplay"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "no_autoplay"
 			}
 		]
