@@ -8003,29 +8003,13 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "Twilight Player Core Distribution (Global)",
-		"v": 6904,
+		"v": 6907,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 60,
-				"value": "2.10.2"
-			},
-			{
-				"weight": 10,
-				"value": "2.10.200"
-			},
-			{
-				"weight": 10,
-				"value": "2.10.4"
-			},
-			{
-				"weight": 10,
+				"weight": 100,
 				"value": "2.10.400"
-			},
-			{
-				"weight": 10,
-				"value": "2.10.5"
 			}
 		]
 	},
