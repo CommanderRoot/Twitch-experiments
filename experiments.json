@@ -5584,7 +5584,7 @@
 	},
 	"9d1ee56c-22dc-4d5c-96dd-5ee393c6cd4b": {
 		"name": "xboxone_playercore",
-		"v": 1119,
+		"v": 6910,
 		"t": 1,
 		"groups": [
 			{
@@ -7079,6 +7079,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"cc382924-77c2-4b8f-b7df-8aaff898852d": {
+		"name": "tvapps_xboxone_player_native",
+		"v": 6911,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
