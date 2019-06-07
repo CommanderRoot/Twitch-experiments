@@ -1318,6 +1318,21 @@
 			}
 		]
 	},
+	"24d2ca90-8a02-4aae-aeff-377eca92eece": {
+		"name": "tvapps_tvos_player_native",
+		"v": 6915,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"252e18cd-8286-4026-b63c-fe567d54cbca": {
 		"name": "mobile_web_offline_experience",
 		"v": 5645,
@@ -2367,6 +2382,21 @@
 			}
 		]
 	},
+	"45b880e9-d5ac-46c5-93d2-7b13c93e5193": {
+		"name": "tvapps_androidtv_player_native",
+		"v": 6913,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"45d73059-3cea-436a-b41f-86bb05f845f2": {
 		"name": "CVP May 18",
 		"v": 1904,
@@ -2424,6 +2454,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"4767a77b-66e5-41ac-8adb-2d2773536aff": {
+		"name": "tvapps_firetv_player_native",
+		"v": 6914,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
@@ -7004,6 +7049,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"c7f532d2-817c-4677-811c-b611767c57ac": {
+		"name": "tvapps_ps4_player_native",
+		"v": 6912,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
