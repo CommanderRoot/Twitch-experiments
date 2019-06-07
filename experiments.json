@@ -2936,6 +2936,21 @@
 			}
 		]
 	},
+	"529a4ba6-f2a5-40fe-a704-cb89b14daa96": {
+		"name": "android_sub_gift",
+		"v": 6916,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"52cb0929-0af1-45ba-81ef-79d9ae80b342": {
 		"name": "GROWTH_SKIP_SEEN_FRIENDS_IN_NOTIFICATIONS",
 		"v": 1191,
