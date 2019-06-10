@@ -1365,47 +1365,47 @@
 	},
 	"25b8b06e-fbe7-4a2d-9d79-3cb343ae73fa": {
 		"name": "ad_loudness_phase_1",
-		"v": 6639,
+		"v": 6924,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "treatment10"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "treatment20"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "treatment30"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "treatment40"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "treatment50"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "treatment60"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "treatment70"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "treatment80"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "treatment90"
 			}
 		]
