@@ -7973,6 +7973,21 @@
 			}
 		]
 	},
+	"eb1b8c9b-cd6d-4221-ac97-4d12883921f1": {
+		"name": "extensions_dock",
+		"v": 6920,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "on"
+			},
+			{
+				"weight": 100,
+				"value": "off"
+			}
+		]
+	},
 	"eb66ec49-f377-4ad0-8d3e-7c3ecfafd8fa": {
 		"name": "android_videoplayer_r6_2_0",
 		"v": 4740,
