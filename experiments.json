@@ -6744,6 +6744,21 @@
 			}
 		]
 	},
+	"bcc03590-b147-4397-bf25-8aa0ace2162c": {
+		"name": "tv_recommendations",
+		"v": 6923,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "control"
+			},
+			{
+				"weight": 90,
+				"value": "variant"
+			}
+		]
+	},
 	"bcea9594-9761-4804-9d23-5b281512950b": {
 		"name": "android_native_login",
 		"v": 4663,
