@@ -4304,15 +4304,15 @@
 	},
 	"781530f1-5a77-449c-9d1e-604db8050127": {
 		"name": "stream_summary_email",
-		"v": 6317,
+		"v": 6932,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "test"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
