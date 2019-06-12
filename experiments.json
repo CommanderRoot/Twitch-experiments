@@ -3756,6 +3756,21 @@
 			}
 		]
 	},
+	"67e75e7c-e7c3-43ec-8f19-61bd02b21794": {
+		"name": "ios_player_ui_sunrise",
+		"v": 6949,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"680b5624-5ada-4e0f-9f33-0264eb318777": {
 		"name": "pushy_ios_streamup_stream_title_unused",
 		"v": 3598,
