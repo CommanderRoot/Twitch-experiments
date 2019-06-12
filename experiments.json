@@ -5027,6 +5027,21 @@
 			}
 		]
 	},
+	"8cfe008f-72c0-41d2-8b47-0c6a3c45291f": {
+		"name": "android_player_ui_sunrise",
+		"v": 6948,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8e09e8c6-cea7-4afb-be62-9c9fdc8eedf7": {
 		"name": "Test-v1",
 		"v": 3548,
