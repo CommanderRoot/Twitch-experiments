@@ -262,15 +262,15 @@
 	},
 	"088f409b-3e9d-4ebe-aeb7-4df12f825f6f": {
 		"name": "surestream_rollout_uwp",
-		"v": 6898,
+		"v": 6942,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "SURESTREAM_OFF"
 			}
 		]
@@ -645,15 +645,15 @@
 	},
 	"13181a0e-9be7-4d9f-b602-35d87e3dceed": {
 		"name": "surestream_rollout_firetv",
-		"v": 6939,
+		"v": 6943,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 15,
+				"weight": 25,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 85,
+				"weight": 75,
 				"value": "SURESTREAM_OFF"
 			}
 		]
@@ -1794,15 +1794,15 @@
 	},
 	"3571e123-fb7a-44fa-8993-9b55665d07d4": {
 		"name": "surestream_rollout_androidtv",
-		"v": 6940,
+		"v": 6944,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 15,
+				"weight": 25,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 85,
+				"weight": 75,
 				"value": "SURESTREAM_OFF"
 			}
 		]
