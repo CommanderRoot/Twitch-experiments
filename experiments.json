@@ -1924,21 +1924,6 @@
 			}
 		]
 	},
-	"3a42448b-71d7-4630-b36f-c21f8ed9c478": {
-		"name": "dart_nikki_exp_test_email",
-		"v": 6979,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"3a823fae-acbe-40c4-9ed8-6b1e685eb4b2": {
 		"name": "ios_notification_center",
 		"v": 3073,
@@ -1986,12 +1971,12 @@
 	},
 	"3c3a5d48-117f-43ac-8b35-091f13b2d479": {
 		"name": "Twilight Player Core Distribution (Staff)",
-		"v": 6906,
+		"v": 6990,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "2.10.400"
+				"value": "2.10.7"
 			}
 		]
 	},
@@ -7243,21 +7228,6 @@
 			},
 			{
 				"weight": 0,
-				"value": "variant"
-			}
-		]
-	},
-	"ccd35ac4-9bbc-4928-a089-5e0301d01f70": {
-		"name": "nikki_test_exp",
-		"v": 6961,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 15,
-				"value": "control"
-			},
-			{
-				"weight": 85,
 				"value": "variant"
 			}
 		]
