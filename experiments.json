@@ -741,21 +741,6 @@
 			}
 		]
 	},
-	"15ad1f97-6b46-4eeb-8503-afa4cbc7f27d": {
-		"name": "dart_nikki_exp_test_email",
-		"v": 6964,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"164332c9-759a-46f5-92de-63d43ff2fd35": {
 		"name": "twilight_web_side_nav_upsell_center_channels",
 		"v": 4951,
@@ -886,21 +871,6 @@
 			{
 				"weight": 200,
 				"value": "variant"
-			}
-		]
-	},
-	"1894d445-7ff7-4898-a459-e5a7f338e1a6": {
-		"name": "dart_nikki_exp_test_email",
-		"v": 6965,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 49,
-				"value": "Variant A"
-			},
-			{
-				"weight": 51,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -1951,6 +1921,21 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"3a42448b-71d7-4630-b36f-c21f8ed9c478": {
+		"name": "dart_nikki_exp_test_email",
+		"v": 6975,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -6943,21 +6928,6 @@
 			}
 		]
 	},
-	"c2cf084a-6157-4fd5-adcb-bd50a1befa6b": {
-		"name": "dart_nikki_exp_test_email",
-		"v": 6963,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"c2d3d8cb-713f-41eb-965e-07e88a94ccb4": {
 		"name": "android_player_refactor",
 		"v": 2575,
@@ -8015,6 +7985,21 @@
 			{
 				"weight": 0,
 				"value": "off"
+			}
+		]
+	},
+	"e544b6ce-312e-4f14-bdef-5495288b14f5": {
+		"name": "dart_nikki_exp_test_email",
+		"v": 6976,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
