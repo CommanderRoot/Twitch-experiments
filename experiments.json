@@ -1160,6 +1160,21 @@
 			}
 		]
 	},
+	"1fe5d04e-7c9c-4ca5-8be4-eb143341990a": {
+		"name": "dart_nikki_exp_test_2_email",
+		"v": 6992,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"2005226d-07fe-46cf-a229-d91dd03d8d3a": {
 		"name": "delete_XP",
 		"v": 3634,
@@ -1645,6 +1660,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"2dbce86a-271c-46b1-b0fc-973f54bda299": {
+		"name": "dart_nikki_exp_test_2_email",
+		"v": 6994,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -2412,6 +2442,21 @@
 			}
 		]
 	},
+	"45e51c4a-c2ed-423c-9532-655d602e199b": {
+		"name": "dart_nikki_exp_test_2_holdout",
+		"v": 6993,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 25,
+				"value": "holdout"
+			},
+			{
+				"weight": 75,
+				"value": "allowed"
+			}
+		]
+	},
 	"46e725e9-90e2-4597-8ef9-441978ef1626": {
 		"name": "hose_control_governor",
 		"v": 4747,
@@ -2895,6 +2940,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"51770ce4-d7f0-472c-a9ca-f84f28ed8849": {
+		"name": "dart_nikki_exp_test_2_holdout",
+		"v": 6991,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "holdout"
+			},
+			{
+				"weight": 85,
+				"value": "allowed"
 			}
 		]
 	},
