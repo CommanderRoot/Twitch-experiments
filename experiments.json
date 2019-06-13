@@ -1926,7 +1926,7 @@
 	},
 	"3a42448b-71d7-4630-b36f-c21f8ed9c478": {
 		"name": "dart_nikki_exp_test_email",
-		"v": 6975,
+		"v": 6979,
 		"t": 2,
 		"groups": [
 			{
@@ -7985,21 +7985,6 @@
 			{
 				"weight": 0,
 				"value": "off"
-			}
-		]
-	},
-	"e544b6ce-312e-4f14-bdef-5495288b14f5": {
-		"name": "dart_nikki_exp_test_email",
-		"v": 6976,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
