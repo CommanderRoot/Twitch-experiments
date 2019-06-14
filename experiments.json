@@ -1113,15 +1113,15 @@
 	},
 	"1e4f6a7b-b651-4f3e-95bb-aeaadeeeea68": {
 		"name": "ios_truffle_hunt",
-		"v": 6240,
+		"v": 7030,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			}
 		]
@@ -7279,15 +7279,15 @@
 	},
 	"cef8768a-6e62-491b-9a81-1892e0633861": {
 		"name": "android_truffle_hunt",
-		"v": 6366,
+		"v": 7029,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			}
 		]
