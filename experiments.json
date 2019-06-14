@@ -1648,21 +1648,6 @@
 			}
 		]
 	},
-	"2dbce86a-271c-46b1-b0fc-973f54bda299": {
-		"name": "dart_nikki_exp_test_2_email",
-		"v": 7021,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"2f6b028c-c2a5-462c-8daf-3bcb394839bb": {
 		"name": "android_playercore",
 		"v": 1023,
@@ -2424,21 +2409,6 @@
 			{
 				"weight": 95,
 				"value": "1.8.13"
-			}
-		]
-	},
-	"45e51c4a-c2ed-423c-9532-655d602e199b": {
-		"name": "dart_nikki_exp_test_2_holdout",
-		"v": 7020,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 25,
-				"value": "holdout"
-			},
-			{
-				"weight": 75,
-				"value": "allowed"
 			}
 		]
 	},
