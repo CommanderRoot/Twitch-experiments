@@ -3741,6 +3741,21 @@
 			}
 		]
 	},
+	"65c77ab6-3c82-40f6-a3b8-b652d405a0df": {
+		"name": "dart_nikki_test_v3_holdout",
+		"v": 6998,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 60,
+				"value": "holdout"
+			},
+			{
+				"weight": 40,
+				"value": "allowed"
+			}
+		]
+	},
 	"66018bed-5b79-4d2c-9773-29295e4f89f6": {
 		"name": "ios_wateb",
 		"v": 6286,
@@ -6286,6 +6301,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"af30c060-fa4e-4a67-bdf1-ea8e8e1be9b4": {
+		"name": "dart_nikki_test_v3_email",
+		"v": 6999,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
