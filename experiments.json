@@ -1160,21 +1160,6 @@
 			}
 		]
 	},
-	"1fe5d04e-7c9c-4ca5-8be4-eb143341990a": {
-		"name": "dart_nikki_exp_test_2_email",
-		"v": 6992,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"2005226d-07fe-46cf-a229-d91dd03d8d3a": {
 		"name": "delete_XP",
 		"v": 3634,
@@ -2442,21 +2427,6 @@
 			}
 		]
 	},
-	"45e51c4a-c2ed-423c-9532-655d602e199b": {
-		"name": "dart_nikki_exp_test_2_holdout",
-		"v": 7000,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 25,
-				"value": "holdout"
-			},
-			{
-				"weight": 75,
-				"value": "allowed"
-			}
-		]
-	},
 	"46e725e9-90e2-4597-8ef9-441978ef1626": {
 		"name": "hose_control_governor",
 		"v": 4747,
@@ -2719,12 +2689,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 6953,
+		"v": 7004,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-38d8e2.sjc02.hls.ttvnw.net/v1/segment/Crrh8kc4jLibWpWCbx072wpfJx3091XheXq7_EOrUlsbrj_xYfN9coXcOlD_DqgvViRS1-QAj2LS1Wiz3fzLA082ewL-MarA7mEqfVX6S9OYL5L6d5HZOqERMb58CAdgd3ker3DpajLovcXRQHStUKkAWrErPu9a-4Uc3aDwJ6JClHwaEaLSemi3sKmI-J0uyWzadbkBN-IJ--VTIMq-nSHrblqPJQudMDSp0ovUhPiqIdyIzJ5GsvaGTsw6E3DSxD_1xQGaZxbgqzw033Tnjnv434fH7b8ku4dhJ01QoNwCBOEgDsTeSDFdRGtjVDRz91q8Rez36QiPDaI6K28liP8BdLdlTC-fpwPOnu-Z_gfWf6BdU6Q0g6GOpIt-9u6ADYjIVw7Zi4QsVSEK06lPvnJjH8qLhWCmKstQBUASrRioQbz5y_HFDSlau9SK-Q5UA9t1v1wguuJVHPr-f5JhvtT5VHjR7TcaXhVFqYUe0cfifDsnC92MxdWqaL_E69hPxG6zRcQO0Ne1wlaUYRxaAaQtR-KNA43gn8Ye4tFQoZgWxJm7_HpcYC8WyiFZ83xyIfQ8266N8Nez96Ih2s92fLhKGqGyiFzvyHe_NC_2iiC7pxJkhUbGN2XOdiIKGQpf9V6aKgM0nuYlz171xyA57z1YoCHhW7EhgNw1WPV2VD1ypcQWsR6RTfg9QIlMjMlh3tB7gfOA_FE5xj3GmbpZHViEhFrieiz0KCRwJDbS2HV4bd36yxo8zCd77PP21yLp8Nt840Z-144nR46E_ePifw.ts"
+				"value": "//video-edge-348d12.sjc02.hls.ttvnw.net/v1/segment/Cl26mZgwQ3YNb52544Vdc-sfk5BqxDgYdD_ykquyT_y7ZDJf0WgLWPJq9sME_RRJX4UMrAvt79SSY6yL-uo7ahZ_2G8a-jOZtwkmqhXvnb2zfRbUtzlydqf78pnLlsPBawqkBcux7S7RvUWa3NuRFAjSl8sq31Tu3ZcDIEP2ZoCiwAA9Lv6x9qWiwTdV2xDTBupoafk3Zrb-6rX0ftDE5e3oOFMZAm7LON6ld01k5uL0oboTnXGJSmXxTI2pI0n88EroxxVNVqT6TNK72mYAr_kYIc9gbG_qSHVE-QoJhVDKL6bZgl51eVY8aM12qYa6S3YbtPC-oiEN0C_oCxfwi6P-szE3zKs16cTyL-8w-QIuWlTs5P_OCPHDXElxtQ8iVCc7XSfnJscPzZu8_-SR5s8TyPBrrYjOsS_jTZiUcpKYHyZ9d72S1DuMRpAONrLTnoCjQpb1S1b-DqwF2JWAR5JrLdMCg_-k7VbTzRwQa8kSAmCl42_hFTYQGzzymPIqN0wPrkcpRQ7Xcty2v6VWc92k1mctHP42G7ueJJVKN0tDwWECSc37VwnYNqWUFeKE_WYKmA-02hlGG5zmpNOAUi4Xe9zqvnsacfDyis0ggp6E21o3jYj32LTDBhdRI87nnKE-3hlpQ2tBjr2zenWpZDA0sE1CVWzCLB5t3DbpW_6FqNvtxsSFk0iVL1MQEab9AysTu-8hZwLiH51EbKRH4qv-gh3XFxwtPNqhjsCzu21riAvyvGYuVr1X2tiW.ts"
 			}
 		]
 	},
@@ -3738,21 +3708,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"65c77ab6-3c82-40f6-a3b8-b652d405a0df": {
-		"name": "dart_nikki_test_v3_holdout",
-		"v": 6998,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 60,
-				"value": "holdout"
-			},
-			{
-				"weight": 40,
-				"value": "allowed"
 			}
 		]
 	},
@@ -6301,21 +6256,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"af30c060-fa4e-4a67-bdf1-ea8e8e1be9b4": {
-		"name": "dart_nikki_test_v3_email",
-		"v": 6999,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
