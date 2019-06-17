@@ -262,15 +262,15 @@
 	},
 	"088f409b-3e9d-4ebe-aeb7-4df12f825f6f": {
 		"name": "surestream_rollout_uwp",
-		"v": 7053,
+		"v": 7058,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 45,
+				"weight": 50,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 55,
+				"weight": 50,
 				"value": "SURESTREAM_OFF"
 			}
 		]
@@ -6731,15 +6731,15 @@
 	},
 	"bbb3bde7-7101-4d10-b3ca-2ed73e8044ab": {
 		"name": "surestream_rollout_ps4",
-		"v": 7057,
+		"v": 7060,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 40,
+				"weight": 50,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 60,
+				"weight": 50,
 				"value": "SURESTREAM_OFF"
 			}
 		]
