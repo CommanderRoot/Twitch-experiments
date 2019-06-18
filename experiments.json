@@ -262,15 +262,15 @@
 	},
 	"088f409b-3e9d-4ebe-aeb7-4df12f825f6f": {
 		"name": "surestream_rollout_uwp",
-		"v": 7081,
+		"v": 7082,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 95,
+				"weight": 50,
 				"value": "SURESTREAM_OFF"
 			}
 		]
