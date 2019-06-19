@@ -187,15 +187,15 @@
 	},
 	"06438e0a-0809-461b-b68f-40e37ca7cd33": {
 		"name": "mmr_impact",
-		"v": 6851,
+		"v": 7091,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "treatment"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			}
 		]
@@ -5309,15 +5309,15 @@
 	},
 	"93404bb5-eb2b-4568-803b-e77ce64cac81": {
 		"name": "ads_moat",
-		"v": 7034,
+		"v": 7092,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "enabled"
 			},
 			{
-				"weight": 100,
+				"weight": 98,
 				"value": "control"
 			}
 		]
