@@ -7232,6 +7232,25 @@
 			}
 		]
 	},
+	"cc7f961a-861e-4bf8-b035-304b61f8de55": {
+		"name": "ios_followed_categories_position",
+		"v": 7089,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 33,
+				"value": "control"
+			},
+			{
+				"weight": 33,
+				"value": "below_live"
+			},
+			{
+				"weight": 33,
+				"value": "below_live_recs"
+			}
+		]
+	},
 	"cda5757e-2229-4d3c-9427-5ad3aa18b72f": {
 		"name": "ios_nux_preroll_test",
 		"v": 927,
