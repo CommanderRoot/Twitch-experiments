@@ -8553,6 +8553,25 @@
 			}
 		]
 	},
+	"fd69ae98-8bd8-4c37-adc3-79d16f534ccd": {
+		"name": "ad_loudness_real_time",
+		"v": 7098,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "treatment_always_adjust"
+			},
+			{
+				"weight": 5,
+				"value": "treatment_only_down"
+			}
+		]
+	},
 	"fd74ad1d-d885-4d12-9036-f571fc82e6df": {
 		"name": "JANEWAY",
 		"v": 2301,
