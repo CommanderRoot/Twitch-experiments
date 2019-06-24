@@ -6701,15 +6701,15 @@
 	},
 	"bb614c04-fce4-4abb-9686-a38022f4284e": {
 		"name": "ios_autoplay_browse",
-		"v": 6480,
+		"v": 7117,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "active"
 			}
 		]
