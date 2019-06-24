@@ -5309,15 +5309,15 @@
 	},
 	"93404bb5-eb2b-4568-803b-e77ce64cac81": {
 		"name": "ads_moat",
-		"v": 7094,
+		"v": 7130,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 15,
 				"value": "enabled"
 			},
 			{
-				"weight": 95,
+				"weight": 85,
 				"value": "control"
 			}
 		]
