@@ -2938,15 +2938,15 @@
 	},
 	"529a4ba6-f2a5-40fe-a704-cb89b14daa96": {
 		"name": "android_sub_gift",
-		"v": 6916,
+		"v": 7146,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -4217,15 +4217,15 @@
 	},
 	"749739fe-5023-4c64-b299-3eb8c49cb3ee": {
 		"name": "android_sub_gift_onboarding",
-		"v": 6986,
+		"v": 7145,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
