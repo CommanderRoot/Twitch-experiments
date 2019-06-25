@@ -645,15 +645,15 @@
 	},
 	"13181a0e-9be7-4d9f-b602-35d87e3dceed": {
 		"name": "surestream_rollout_firetv",
-		"v": 7056,
+		"v": 7135,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "SURESTREAM_OFF"
 			}
 		]
@@ -1794,15 +1794,15 @@
 	},
 	"3571e123-fb7a-44fa-8993-9b55665d07d4": {
 		"name": "surestream_rollout_androidtv",
-		"v": 7055,
+		"v": 7136,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "SURESTREAM_OFF"
 			}
 		]
@@ -5309,15 +5309,15 @@
 	},
 	"93404bb5-eb2b-4568-803b-e77ce64cac81": {
 		"name": "ads_moat",
-		"v": 7131,
+		"v": 7137,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "enabled"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			}
 		]
