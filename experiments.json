@@ -906,15 +906,15 @@
 	},
 	"1978148f-bd51-453d-a55c-c30fa58ef4c8": {
 		"name": "watch_account_reactivation",
-		"v": 6837,
+		"v": 7134,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "variant"
 			}
 		]
