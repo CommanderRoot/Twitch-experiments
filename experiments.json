@@ -906,15 +906,15 @@
 	},
 	"1978148f-bd51-453d-a55c-c30fa58ef4c8": {
 		"name": "watch_account_reactivation",
-		"v": 7149,
+		"v": 7165,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
@@ -1811,21 +1811,6 @@
 		"name": "trending_emotes",
 		"v": 1708,
 		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
-			}
-		]
-	},
-	"35b1e483-c6ca-4efa-b58e-fed92ef91290": {
-		"name": "disco_gladiator",
-		"v": 5328,
-		"t": 2,
 		"groups": [
 			{
 				"weight": 0,
