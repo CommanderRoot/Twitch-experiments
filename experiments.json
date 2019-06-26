@@ -7386,6 +7386,17 @@
 			}
 		]
 	},
+	"d0d1bc40-ca2a-423e-b539-70e39de71c95": {
+		"name": "player_ui_sunrise_2",
+		"v": 7158,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			}
+		]
+	},
 	"d0ecd325-f23b-4dd7-803f-37f5885daabc": {
 		"name": "android_low_latency",
 		"v": 6254,
