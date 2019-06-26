@@ -4468,21 +4468,6 @@
 			}
 		]
 	},
-	"7ad1325c-4495-450c-b26b-6f6a62c9a777": {
-		"name": "PRESENCE_SORT",
-		"v": 2064,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "experiment"
-			}
-		]
-	},
 	"7c153584-d5ad-4e97-a9a9-f87095b6967a": {
 		"name": "ios_onboarding_impact",
 		"v": 5970,
@@ -7626,21 +7611,6 @@
 			}
 		]
 	},
-	"d92998ee-3ac6-4196-842f-0f30fd4de83e": {
-		"name": "directory_ttl",
-		"v": 5335,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "experiment"
-			},
-			{
-				"weight": 50,
-				"value": "control"
-			}
-		]
-	},
 	"d9d2b394-5e99-4d8e-9c61-c60621c7f4e4": {
 		"name": "ios_swift_player_stack",
 		"v": 6705,
@@ -7996,21 +7966,6 @@
 			{
 				"weight": 100,
 				"value": "no"
-			}
-		]
-	},
-	"e911d915-baca-46b8-b6fe-e991baee776b": {
-		"name": "TWILIGHT_TAGS",
-		"v": 4729,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "experiment"
 			}
 		]
 	},
