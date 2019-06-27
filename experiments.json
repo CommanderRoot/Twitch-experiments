@@ -8419,6 +8419,21 @@
 			}
 		]
 	},
+	"f7c12503-ef4b-4d60-b669-6e3a8a075e9b": {
+		"name": "ios_ima_moat_tracking",
+		"v": 7200,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"fa2fa316-88b9-49b2-a96c-6ad4ecef2904": {
 		"name": "ios_enable_rooms",
 		"v": 2188,
@@ -8581,15 +8596,15 @@
 	},
 	"fe0516b2-890f-41e0-8d9c-97055327f7e4": {
 		"name": "ios_chat_input_mode_verified_only",
-		"v": 7126,
+		"v": 7198,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active7.11"
 			}
 		]
@@ -8638,15 +8653,15 @@
 	},
 	"fea7487a-95ca-49bc-8f40-ce79618ff131": {
 		"name": "ios_chat_input_mode_subs_only",
-		"v": 7127,
+		"v": 7197,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active7.11"
 			}
 		]
