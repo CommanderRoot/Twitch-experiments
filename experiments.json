@@ -7029,6 +7029,21 @@
 			}
 		]
 	},
+	"c4ffb9a9-0e6d-43a6-ac54-bfcac4728a59": {
+		"name": "player_ui_coinslot",
+		"v": 7260,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 100,
+				"value": "disabled"
+			}
+		]
+	},
 	"c57795e2-3be1-4782-ac54-7ca3480544d0": {
 		"name": "ios_tags_nav",
 		"v": 4378,
