@@ -3277,6 +3277,21 @@
 			}
 		]
 	},
+	"5de3e4c7-c788-4b1b-b0d0-3f8c4d67078a": {
+		"name": "android_nielsen_s2s",
+		"v": 7256,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"5e532f0e-a835-44bf-9349-bd5cd2b6a416": {
 		"name": "ios_reward_exp",
 		"v": 3290,
@@ -5427,6 +5442,21 @@
 			}
 		]
 	},
+	"980f04fc-87cc-4fb5-a9fb-1362a52b7f0e": {
+		"name": "android_seamless_onboarding",
+		"v": 7255,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"984a3442-3ed6-43ce-a483-6c3b8a9861f0": {
 		"name": "ios_dashboard_with_activity_feed",
 		"v": 4328,
@@ -7343,15 +7373,15 @@
 	},
 	"d0a13495-92d5-4c1e-a376-681dbe3873ef": {
 		"name": "android_age_gating2",
-		"v": 7244,
+		"v": 7254,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			}
 		]
