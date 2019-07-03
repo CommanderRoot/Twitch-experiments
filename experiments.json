@@ -6956,15 +6956,15 @@
 	},
 	"c35dcc1f-7617-4c17-b318-578897d50d2d": {
 		"name": "ios_swift_player_stack_v2",
-		"v": 7084,
+		"v": 7265,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "disabled_v2"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v7.10"
 			}
 		]
