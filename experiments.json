@@ -1941,12 +1941,12 @@
 	},
 	"3c3a5d48-117f-43ac-8b35-091f13b2d479": {
 		"name": "Twilight Player Core Distribution (Staff)",
-		"v": 7223,
+		"v": 7281,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "2.10.402"
+				"value": "2.12.0"
 			}
 		]
 	},
@@ -8179,13 +8179,17 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "Twilight Player Core Distribution (Global)",
-		"v": 7222,
+		"v": 7283,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "2.10.400"
+			},
+			{
+				"weight": 5,
+				"value": "2.12.0"
 			}
 		]
 	},
