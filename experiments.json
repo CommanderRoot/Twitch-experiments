@@ -2262,6 +2262,21 @@
 			}
 		]
 	},
+	"42f036af-7ea7-49ea-94ff-8b26918ee074": {
+		"name": "zraha-test-experiment",
+		"v": 7298,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "A"
+			},
+			{
+				"weight": 0,
+				"value": "B"
+			}
+		]
+	},
 	"42f5eea6-c548-4791-b767-9c7e29b73ef6": {
 		"name": "CLIENT_BATCH_MIXPANEL",
 		"v": 729,
