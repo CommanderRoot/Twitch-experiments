@@ -1924,6 +1924,21 @@
 			}
 		]
 	},
+	"3c11e182-c400-456f-bc4d-23fb1a9add47": {
+		"name": "android_ads_stream_presenter",
+		"v": 7304,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"3c2fb8a5-7914-4f4d-8f13-1cd3b4250919": {
 		"name": "ios_moat",
 		"v": 920,
@@ -4860,16 +4875,12 @@
 	},
 	"86643c06-e786-4b51-92cd-2f0097ab8ec4": {
 		"name": "qs-logged-out",
-		"v": 6812,
+		"v": 7305,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "elasticnet_cv_plain_features"
-			},
-			{
-				"weight": 0,
-				"value": "DUMMY-MODEL"
 			}
 		]
 	},
