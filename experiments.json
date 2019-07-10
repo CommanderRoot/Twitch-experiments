@@ -728,11 +728,11 @@
 	},
 	"164332c9-759a-46f5-92de-63d43ff2fd35": {
 		"name": "twilight_web_side_nav_upsell_center_channels",
-		"v": 4951,
+		"v": 7313,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -752,7 +752,7 @@
 				"value": "rec"
 			},
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "bullet"
 			}
 		]
