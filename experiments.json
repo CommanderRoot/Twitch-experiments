@@ -1955,13 +1955,13 @@
 		]
 	},
 	"3c3a5d48-117f-43ac-8b35-091f13b2d479": {
-		"name": "Twilight Player Core Distribution (Staff)",
-		"v": 7281,
+		"name": "Player UI Embed Player Core Version (Staff)",
+		"v": 7324,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "2.12.0"
+				"value": "2.10.402"
 			}
 		]
 	},
@@ -8223,14 +8223,14 @@
 		]
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
-		"name": "Twilight Player Core Distribution (Global)",
-		"v": 7308,
+		"name": "Player UI Embed Player Core Version (Public Non-Staff)",
+		"v": 7323,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "2.12.0"
+				"value": "2.10.402"
 			}
 		]
 	},
