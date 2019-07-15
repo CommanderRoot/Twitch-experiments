@@ -3595,6 +3595,21 @@
 			}
 		]
 	},
+	"635f2342-d579-4966-9710-c2a3f0157b06": {
+		"name": "player_ui_super_sunrise",
+		"v": 7333,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 100,
+				"value": "disabled"
+			}
+		]
+	},
 	"64207922-aa6c-475e-b53d-84ce535d0d04": {
 		"name": "ios_chomments_v2",
 		"v": 1730,
