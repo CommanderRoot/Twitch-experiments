@@ -3064,6 +3064,21 @@
 			}
 		]
 	},
+	"54fbc663-b353-4ec9-bffb-ca67a7993706": {
+		"name": "android_process_active_purchases",
+		"v": 7341,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"560f30f8-b4fc-4a9d-96ac-9143dc1f4110": {
 		"name": "recommended_clips_live_recs",
 		"v": 3322,
@@ -3402,6 +3417,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"5ec8d02e-42a5-44d4-b715-8774874ebd81": {
+		"name": "Android Ads PiP",
+		"v": 7340,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
