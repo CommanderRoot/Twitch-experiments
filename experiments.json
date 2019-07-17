@@ -8697,19 +8697,19 @@
 	},
 	"fd69ae98-8bd8-4c37-adc3-79d16f534ccd": {
 		"name": "ad_loudness_real_time",
-		"v": 7111,
+		"v": 7356,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 96,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "treatment_always_adjust"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "treatment_only_down"
 			}
 		]
