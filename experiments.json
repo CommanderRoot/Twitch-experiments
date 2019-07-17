@@ -4083,6 +4083,21 @@
 			}
 		]
 	},
+	"6d7baf70-b506-4bef-8b38-214227b80e53": {
+		"name": "ios_tearing_me_apart",
+		"v": 7352,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"6e2a89f6-a1e8-45c0-8cc9-77e1fc5590ad": {
 		"name": "ios_raids_ads",
 		"v": 2773,
@@ -8245,6 +8260,21 @@
 			{
 				"weight": 0,
 				"value": "8"
+			}
+		]
+	},
+	"ec5ae070-e422-4f4b-9bea-f619a31502dd": {
+		"name": "android_tearing_me_apart",
+		"v": 7353,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
