@@ -3145,15 +3145,15 @@
 	},
 	"5846909c-a259-49c6-b235-ccb9507aaf4d": {
 		"name": "twilight_quarterly_streamer_survey_for_partners",
-		"v": 7334,
+		"v": 7363,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "Control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "Variant"
 			}
 		]
@@ -4879,15 +4879,15 @@
 	},
 	"84a5b770-f444-45ab-9a57-5755cdb10072": {
 		"name": "twilight_quarterly_streamer_survey_for_affiliates",
-		"v": 7335,
+		"v": 7367,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "Control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "Variant"
 			}
 		]
