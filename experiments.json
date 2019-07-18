@@ -8104,6 +8104,21 @@
 			}
 		]
 	},
+	"e3b62ba6-3d27-4afa-a5a3-b75465b92106": {
+		"name": "android_orphaned_purchases",
+		"v": 7361,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "option3_bruteforce"
+			},
+			{
+				"weight": 100,
+				"value": "option2_consumables"
+			}
+		]
+	},
 	"e6aeada3-c8c1-427c-9871-6a2b962455fa": {
 		"name": "android_squad_streaming_1",
 		"v": 6101,
