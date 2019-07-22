@@ -1941,12 +1941,12 @@
 	},
 	"3c3a5d48-117f-43ac-8b35-091f13b2d479": {
 		"name": "Player UI Embed Player Core Version (Staff)",
-		"v": 7348,
+		"v": 7385,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "2.13.0"
+				"value": "2.13.1"
 			}
 		]
 	},
@@ -8299,17 +8299,13 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "Player UI Embed Player Core Version (Public)",
-		"v": 7347,
+		"v": 7386,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 95,
-				"value": "2.10.402"
-			},
-			{
-				"weight": 5,
-				"value": "2.13.0"
+				"weight": 100,
+				"value": "2.13.1"
 			}
 		]
 	},
