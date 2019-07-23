@@ -7335,19 +7335,19 @@
 	},
 	"cc7f961a-861e-4bf8-b035-304b61f8de55": {
 		"name": "ios_followed_categories_position",
-		"v": 7089,
+		"v": 7388,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "below_live"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "below_live_recs"
 			}
 		]
