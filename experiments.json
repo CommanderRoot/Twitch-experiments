@@ -613,6 +613,21 @@
 			}
 		]
 	},
+	"12481a33-daa7-4671-96bb-9d8ca7699602": {
+		"name": "watch_uv_hosting",
+		"v": 7394,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant_a"
+			}
+		]
+	},
 	"127fb373-5ac3-4815-b7f2-012ddb5eca4a": {
 		"name": "android_merry_go_round",
 		"v": 6764,
