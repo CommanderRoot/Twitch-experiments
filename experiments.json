@@ -7348,6 +7348,21 @@
 			}
 		]
 	},
+	"cbe89bdd-4882-4cf1-aea8-e5341a4a198a": {
+		"name": "dart_omertestfollowemail1_email",
+		"v": 7411,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"cc382924-77c2-4b8f-b7df-8aaff898852d": {
 		"name": "tvapps_xboxone_player_native",
 		"v": 6911,
