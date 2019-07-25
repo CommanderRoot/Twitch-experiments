@@ -5890,6 +5890,21 @@
 			}
 		]
 	},
+	"a22addbc-20aa-4f6b-8aa7-5d7f670fff69": {
+		"name": "dart_omertestfollowemail1_email",
+		"v": 7405,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"a23d9d11-be5e-4e7e-8f32-bc70ca8889c7": {
 		"name": "ios_ingest_test",
 		"v": 1223,
