@@ -3286,15 +3286,15 @@
 	},
 	"5cd1e8ab-eab3-4921-bf6b-8776c8117d5b": {
 		"name": "android_escape_hatch",
-		"v": 7428,
+		"v": 7446,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
