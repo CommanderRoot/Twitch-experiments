@@ -48,21 +48,6 @@
 			}
 		]
 	},
-	"01490b17-f96d-4297-89dc-a3a0a4a52724": {
-		"name": "dart_omertestfollowemail1_email",
-		"v": 7408,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"022cf7ca-3dcc-4a29-b2ee-c220ada8bc2e": {
 		"name": "ios_new_followed_screen",
 		"v": 4276,
@@ -5905,21 +5890,6 @@
 			}
 		]
 	},
-	"a22addbc-20aa-4f6b-8aa7-5d7f670fff69": {
-		"name": "dart_omertestfollowemail1_email",
-		"v": 7405,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"a23d9d11-be5e-4e7e-8f32-bc70ca8889c7": {
 		"name": "ios_ingest_test",
 		"v": 1223,
@@ -8040,6 +8010,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"e245ed22-1bb9-45d9-8328-5a7344beb427": {
+		"name": "dart_omertestfollowemail2_email",
+		"v": 7415,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
