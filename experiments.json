@@ -829,6 +829,21 @@
 			}
 		]
 	},
+	"1774729d-346d-4b28-8b32-df6dac1df603": {
+		"name": "dart_nikki_testerino_debuggerton_email",
+		"v": 7431,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 55,
+				"value": "Variant A"
+			},
+			{
+				"weight": 45,
+				"value": "Variant B"
+			}
+		]
+	},
 	"17b33c41-5bf3-40b7-8fc0-ea450d797b0b": {
 		"name": "ios_broadcasting",
 		"v": 1031,
@@ -3331,7 +3346,7 @@
 	},
 	"5cd1e8ab-eab3-4921-bf6b-8776c8117d5b": {
 		"name": "android_escape_hatch",
-		"v": 7427,
+		"v": 7428,
 		"t": 1,
 		"groups": [
 			{
@@ -5937,7 +5952,7 @@
 	},
 	"9fbbc1f9-9d07-47aa-a666-789a4d7f573c": {
 		"name": "ios_escape_hatch",
-		"v": 7426,
+		"v": 7429,
 		"t": 1,
 		"groups": [
 			{
@@ -7769,6 +7784,21 @@
 			{
 				"weight": 10,
 				"value": "theatre"
+			}
+		]
+	},
+	"d5c0e382-be3c-4a85-99cc-b47726ccb374": {
+		"name": "dart_nikki_testerino_debuggerton_holdout",
+		"v": 7430,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
