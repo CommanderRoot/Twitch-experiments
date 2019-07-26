@@ -1081,6 +1081,21 @@
 			}
 		]
 	},
+	"1db2d0f7-c3e5-4912-9086-3d4de98f89f4": {
+		"name": "dart_showandtell726_holdout",
+		"v": 7449,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
+				"value": "allowed"
+			}
+		]
+	},
 	"1dc56b20-6d61-4a53-a087-727efafe06d8": {
 		"name": "sunlight_new_user",
 		"v": 6644,
@@ -2424,6 +2439,21 @@
 			{
 				"weight": 0,
 				"value": "dont_skip"
+			}
+		]
+	},
+	"46c705fa-60ef-4477-b90b-d538f17dbae5": {
+		"name": "dart_showandtell726_email",
+		"v": 7450,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
