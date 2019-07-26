@@ -1909,6 +1909,21 @@
 			}
 		]
 	},
+	"3aac1901-56f9-4cdb-b21b-1a1ebc5f064c": {
+		"name": "dart_nikki_testerino_debuggerton_email",
+		"v": 7421,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 51,
+				"value": "Variant A"
+			},
+			{
+				"weight": 49,
+				"value": "Variant B"
+			}
+		]
+	},
 	"3bdd01d3-01c7-4ae8-a11c-1c0e8df9a642": {
 		"name": "ios_contextualized_t2",
 		"v": 4182,
@@ -3185,6 +3200,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"58c6fc85-253a-4c6c-8b6d-0ab7d19e4853": {
+		"name": "dart_nikki_testerino_debuggerton_email",
+		"v": 7420,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -6037,6 +6067,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"a7de106e-172d-4478-9d27-b0eba6c0a7c0": {
+		"name": "dart_nikki_testerino_debuggerton_email",
+		"v": 7422,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 52,
+				"value": "Variant A"
+			},
+			{
+				"weight": 48,
+				"value": "Variant B"
 			}
 		]
 	},
