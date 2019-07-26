@@ -2841,6 +2841,21 @@
 			}
 		]
 	},
+	"4f00a6b5-47ca-4982-801a-edf985ef4e5e": {
+		"name": "dart_nikki_testerino_debuggerton_email",
+		"v": 7423,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"4f2ebce8-68ed-40a4-afb2-9db8fb09711d": {
 		"name": "vod_qos_model",
 		"v": 3976,
@@ -6706,6 +6721,21 @@
 			}
 		]
 	},
+	"b6872713-bd39-4165-8950-e9d6169e6255": {
+		"name": "dart_nikki_testerino_debuggerton_email",
+		"v": 7425,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 52,
+				"value": "Variant A"
+			},
+			{
+				"weight": 48,
+				"value": "Variant B"
+			}
+		]
+	},
 	"b691208a-1e25-4c51-8be6-76d9ed0f0e43": {
 		"name": "android_raid_now",
 		"v": 4612,
@@ -8438,6 +8468,21 @@
 			{
 				"weight": 0,
 				"value": "name"
+			}
+		]
+	},
+	"eeabb051-8ecd-4f9e-989c-11d473e6d899": {
+		"name": "dart_nikki_testerino_debuggerton_email",
+		"v": 7424,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 51,
+				"value": "Variant A"
+			},
+			{
+				"weight": 49,
+				"value": "Variant B"
 			}
 		]
 	},
