@@ -8802,15 +8802,15 @@
 	},
 	"fe0516b2-890f-41e0-8d9c-97055327f7e4": {
 		"name": "ios_chat_input_mode_verified_only",
-		"v": 7198,
+		"v": 7413,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active7.11"
 			}
 		]
