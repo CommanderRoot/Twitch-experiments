@@ -6390,6 +6390,21 @@
 			}
 		]
 	},
+	"aed66c3f-fa7f-41a4-aad8-06c063b94920": {
+		"name": "iOS subtokens apple prototype",
+		"v": 7485,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"af191167-5620-45cc-9db9-e601d3e93b6f": {
 		"name": "android_granddads_final",
 		"v": 7292,
@@ -7315,6 +7330,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"c75c5774-db9a-4621-8de2-5df0f950a487": {
+		"name": "iOS subtokens apple prototype",
+		"v": 7484,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
 			}
 		]
 	},
