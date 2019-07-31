@@ -8286,15 +8286,15 @@
 	},
 	"eb1b8c9b-cd6d-4221-ac97-4d12883921f1": {
 		"name": "extensions_dock",
-		"v": 6920,
+		"v": 7479,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "on"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "off"
 			}
 		]
