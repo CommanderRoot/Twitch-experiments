@@ -4684,15 +4684,15 @@
 	},
 	"7d9a80a5-5a46-4c8b-8e9f-7fc2dc48bd53": {
 		"name": "android_phone_number_signup_email",
-		"v": 6355,
+		"v": 7486,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
