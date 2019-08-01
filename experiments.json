@@ -3317,15 +3317,15 @@
 	},
 	"5cd1e8ab-eab3-4921-bf6b-8776c8117d5b": {
 		"name": "android_escape_hatch",
-		"v": 7446,
+		"v": 7507,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 95,
 				"value": "active"
 			}
 		]
@@ -5938,15 +5938,15 @@
 	},
 	"9fbbc1f9-9d07-47aa-a666-789a4d7f573c": {
 		"name": "ios_escape_hatch",
-		"v": 7429,
+		"v": 7508,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 95,
 				"value": "active"
 			}
 		]
