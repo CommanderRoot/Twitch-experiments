@@ -1320,7 +1320,7 @@
 	},
 	"24d2ca90-8a02-4aae-aeff-377eca92eece": {
 		"name": "tvapps_tvos_player_native",
-		"v": 7503,
+		"v": 7506,
 		"t": 1,
 		"s": 1,
 		"groups": [
@@ -1329,12 +1329,8 @@
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "active"
-			},
-			{
-				"weight": 10,
-				"value": "test"
 			}
 		]
 	},
