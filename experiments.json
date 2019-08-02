@@ -8811,6 +8811,21 @@
 			}
 		]
 	},
+	"fcc79c1e-112a-4a51-9d72-b6b19bd9d48a": {
+		"name": "android_age_gating3",
+		"v": 7515,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
 	"fd1167fc-eb16-489a-91ea-0568fa04ae8a": {
 		"name": "ios_autoplay_profile",
 		"v": 1306,
