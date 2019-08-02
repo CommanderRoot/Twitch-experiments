@@ -2654,6 +2654,21 @@
 			}
 		]
 	},
+	"4abc50dc-41d1-413e-8d5b-64acd88f6938": {
+		"name": "ad_moat_s2s_vaes",
+		"v": 7516,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 100,
+				"value": "treatment"
+			}
+		]
+	},
 	"4aea0cbd-2a3b-4377-8fca-fbce7228ac5c": {
 		"name": "android_phone_landscape_chat_write",
 		"v": 1633,
