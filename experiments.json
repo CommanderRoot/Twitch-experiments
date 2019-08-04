@@ -6423,15 +6423,15 @@
 	},
 	"aed66c3f-fa7f-41a4-aad8-06c063b94920": {
 		"name": "iOS subtokens apple prototype",
-		"v": 7485,
+		"v": 7528,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -6562,15 +6562,15 @@
 	},
 	"b110ecaf-4082-4cf5-a396-b1f00f7bc437": {
 		"name": "ios_subtokens",
-		"v": 7481,
+		"v": 7529,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
