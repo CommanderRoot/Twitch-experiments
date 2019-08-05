@@ -2656,16 +2656,16 @@
 	},
 	"4abc50dc-41d1-413e-8d5b-64acd88f6938": {
 		"name": "ad_moat_amazon",
-		"v": 7521,
+		"v": 7543,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "enabled"
+				"value": "control"
 			},
 			{
 				"weight": 100,
-				"value": "treatment"
+				"value": "enabled"
 			}
 		]
 	},
