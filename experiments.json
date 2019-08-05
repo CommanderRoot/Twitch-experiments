@@ -3234,6 +3234,21 @@
 			}
 		]
 	},
+	"598fcc12-dd8f-4d02-864c-f7a5afa6ca2e": {
+		"name": "sunlight_dashboard",
+		"v": 7545,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 		"name": "aml_ranking_follows",
 		"v": 4106,
