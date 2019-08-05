@@ -6278,6 +6278,21 @@
 			}
 		]
 	},
+	"ac3b2071-3a44-4e27-8a80-ac72977fea63": {
+		"name": "WARP_IPv6",
+		"v": 7538,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"ac5e7a7f-2e7b-41b0-93d5-6ed68768d03b": {
 		"name": "pulse_a_a_test",
 		"v": 1928,
