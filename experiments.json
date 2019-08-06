@@ -645,7 +645,7 @@
 	},
 	"12c7e908-44b8-456f-9dad-b8660e6db1ab": {
 		"name": "vaes_rollout_GB",
-		"v": 7566,
+		"v": 7572,
 		"t": 1,
 		"groups": [
 			{
@@ -4974,15 +4974,15 @@
 	},
 	"81d6df9f-6870-4d90-85d4-69f96db1c432": {
 		"name": "vaes_rollout_DE",
-		"v": 7568,
+		"v": 7575,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "treatment"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -6983,7 +6983,7 @@
 	},
 	"ba438689-4e40-47fa-99e7-4bbee13c2f84": {
 		"name": "vaes_rollout_FR",
-		"v": 7564,
+		"v": 7574,
 		"t": 1,
 		"groups": [
 			{
