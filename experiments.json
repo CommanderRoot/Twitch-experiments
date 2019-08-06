@@ -643,6 +643,21 @@
 			}
 		]
 	},
+	"12c7e908-44b8-456f-9dad-b8660e6db1ab": {
+		"name": "vaes_rollout_GB",
+		"v": 7548,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"13181a0e-9be7-4d9f-b602-35d87e3dceed": {
 		"name": "surestream_rollout_firetv",
 		"v": 7139,
@@ -4942,6 +4957,21 @@
 			}
 		]
 	},
+	"81d6df9f-6870-4d90-85d4-69f96db1c432": {
+		"name": "vaes_rollout_DE",
+		"v": 7550,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"821d3e5f-5836-48d6-b203-a7973d6f097c": {
 		"name": "android_raids",
 		"v": 2339,
@@ -4999,6 +5029,21 @@
 			{
 				"weight": 0,
 				"value": "Variant"
+			}
+		]
+	},
+	"857c9fc7-9f51-41c2-b798-f92be1c0b72b": {
+		"name": "vaes_rollout_US",
+		"v": 7549,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
