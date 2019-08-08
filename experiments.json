@@ -6077,15 +6077,15 @@
 	},
 	"a12e6150-15d5-45ce-8db8-bbaf49f4ec8c": {
 		"name": "vaes_rollout_t1",
-		"v": 7562,
+		"v": 7583,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 30,
 				"value": "treatment"
 			},
 			{
-				"weight": 100,
+				"weight": 70,
 				"value": "control"
 			}
 		]
@@ -7361,21 +7361,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"c4fe8184-0fdd-4fc2-9a66-d8d3433b2171": {
-		"name": "vaes_rollout_t1",
-		"v": 6248,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "treatment"
-			},
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
@@ -8739,21 +8724,6 @@
 			{
 				"weight": 0,
 				"value": "experiment"
-			},
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
-	"f3d4cc84-9704-45f7-89ae-4a94a823f0ad": {
-		"name": "vaes_rollout_row",
-		"v": 6251,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "treatment"
 			},
 			{
 				"weight": 100,
