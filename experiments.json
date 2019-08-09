@@ -1349,21 +1349,6 @@
 			}
 		]
 	},
-	"252e18cd-8286-4026-b63c-fe567d54cbca": {
-		"name": "mobile_web_offline_experience",
-		"v": 5645,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"25590b1a-ef0c-40e5-8e3f-9ded2926d4b8": {
 		"name": "android_following_hosted_channels",
 		"v": 6741,
@@ -4668,21 +4653,6 @@
 			}
 		]
 	},
-	"7a5c7ce6-63ab-48a8-87f3-a761478b4cc0": {
-		"name": "mobile_web_bucket_uniformity",
-		"v": 5763,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": ""
-			}
-		]
-	},
 	"7a8644c3-2d4a-42fa-85cd-bdd6041ed732": {
 		"name": "android_multi_view_free_trial",
 		"v": 5496,
@@ -6592,15 +6562,15 @@
 	},
 	"af972d55-a450-4bf5-b3e8-247828a2d9ce": {
 		"name": "ios_phone_number_signup_email_upsell",
-		"v": 6354,
+		"v": 7602,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -7197,19 +7167,19 @@
 	},
 	"c0fb59fc-52b5-4e39-bce7-5a7ec95d1888": {
 		"name": "ios_phone_number_signup_2",
-		"v": 6590,
+		"v": 7601,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 100,
 				"value": "keyboard-suggester"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "no-keyboard-suggester"
 			}
 		]
@@ -8345,21 +8315,6 @@
 			{
 				"weight": 0,
 				"value": "no"
-			}
-		]
-	},
-	"e318ed5a-b4cd-44a5-a452-9fa4f9193aa4": {
-		"name": "mobile_web_pulsar_universal",
-		"v": 6860,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
