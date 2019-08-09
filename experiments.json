@@ -2011,6 +2011,21 @@
 			}
 		]
 	},
+	"3d05eebd-77c8-432a-a096-9662779d745c": {
+		"name": "mobile_web_pulsar_vod_v1",
+		"v": 7594,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"3e00e6a3-77d3-41ab-a587-9618050a519a": {
 		"name": "onaffiliate_twitch_prime_extension_staging",
 		"v": 5081,
