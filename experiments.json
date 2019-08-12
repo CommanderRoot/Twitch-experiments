@@ -2780,12 +2780,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 7606,
+		"v": 7611,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-983c93.sjc02.hls.ttvnw.net/v1/segment/CsXwM-Uw427NvoGMeUCAkK3IMHDuGBdiAJAgbxnPAMPwl0APHbZqrSlxODMQ4uHX8TMqdf395eVfDicFRs8vlYoRCWykEAK3hnT0TZemziYtDLkEZTWGvDajLaVImH_VYTFJA0wlyL190fzQHQrfhKwCIq3WQNhTNg3BHP87-wCf2JmT95_6br6mitZHdEssS0y-JyfctcUOOmsv0vY1w_l3CwUU19mOTJ3T4eqOYgDLD2hdJnI91YZ2kPREU9JFRd7rrhhMEi60PdLKhqPI2ZKfCXyoIHVgkHcrWcgWkfkq671MzKKsLF5_OPkvmV3er8GTtaHm4T-e0fPrxBDc6eeYNxcKVGTsNA3hDkR-h-IksW69YmVHRsuuG2Q7YsypUkRFojXPDCfMEYahukl3OAQWbQvuugT7XxTVufK5BwDI6D1ChtREV-IE2QTEX19Z_In4mYWRqLPAWGTjPdCd28vJkzq4kQvYITRWQL6iCdTLJn-D8ONa0UUTS6BoZZcnYu4ogauIN3Oc0cCGr7CirIqXdj17vtPKxdbD174OuOkUUqYPEEmdk03iUPm4VSeOZF0fCuDxdGC682NN4EDLV_au-seBQRuC8eYYYMRF7sXkmDpgAaScWMFhwAiuA8SVHQgvqDKdt31h0GyswHeY_GjRrXakeqKAg9FP1IRkgaVunKpihWu8k5ODUxOCvFGaQ8ItD5IccPXJVg2r5ZYQfP-m4nYPcNSSEstwnZvPyKrK4OWfchqIY-Ly7.ts"
+				"value": "//video-edge-99240e.sjc02.hls.ttvnw.net/v1/segment/CrhOBoBh18QzvjpB6FRJTbJf6DINrGCReZoQnz4x-NllSUAc0BlcI0Iu-zNANiIGc2QVgz11bZUcb7kmE-Dj0jtSehBSpgU1Jsp1CLEvvbu5DbCd6sv9TQd-uXLQWxb50vXxQgDliKFY7KMu5cJooWIcxIX94so27z8bAAaL_GZ97J8nXY_Yuck3J-VxhLLN2MdnGejWuTMUKxbU5DaO8VgTP8ivsTw-l_2__j_h8ElXElrS1jkeSCbngQkTcyY47cbmpPU1v6yBMmc7HVx_oH2On0gT58HDhztX_HlJwVeO7PDrxdoQ6VUNqZDDIDXPjDTrow6r7uapsB7r_9Ilo_uXBfBn9a-RbS3ZXfJFxQOTUUiBQIZpAg_4U_Fn8pkrGARI-PAsXlkshffHcNjOrkCz14TGwO5XBJVeIIUBjktzdi2-g4T0bly3YKMTn5k127EYVbNhiKoabktDqCIIyLLhhMUFRwrKXHFv6_5Vlcg3nHZjkdWsKUtRTiYtKjp8XiJEUpscL2CFYITiTiUjG2336Qqx_PR1o-6lz5VPMTGhaICVWWlYbimaa14vydoENCwo_TJdndI0A_uK-YLODVFoCtaRO6yXplAYpjkc_vR-KMnl4KhmCGvPdEpIZUq4u3PMr9Jt5cTZ1W5Ukw_xa5cNTXPWttS4exM9KTVwdOWjvi70Uk9bsQJ9R0bFNIStZF15ZP3WB_sKWzdxdSy86FFhXCLxKCZsLQ2AC6aMY4Phk_NFMFN_YK72w_.ts"
 			}
 		]
 	},
@@ -3392,15 +3392,15 @@
 	},
 	"5cd1e8ab-eab3-4921-bf6b-8776c8117d5b": {
 		"name": "android_escape_hatch",
-		"v": 7507,
+		"v": 7610,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -6062,30 +6062,30 @@
 	},
 	"9fbbc1f9-9d07-47aa-a666-789a4d7f573c": {
 		"name": "ios_escape_hatch",
-		"v": 7508,
+		"v": 7609,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 0,
 				"value": "active"
 			}
 		]
 	},
 	"a12e6150-15d5-45ce-8db8-bbaf49f4ec8c": {
 		"name": "vaes_rollout_t1",
-		"v": 7590,
+		"v": 7613,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 0,
 				"value": "treatment"
 			},
 			{
-				"weight": 70,
+				"weight": 100,
 				"value": "control"
 			}
 		]
