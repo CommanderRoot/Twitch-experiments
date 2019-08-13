@@ -1349,6 +1349,21 @@
 			}
 		]
 	},
+	"252e18cd-8286-4026-b63c-fe567d54cbca": {
+		"name": "mobile_web_offline_experience",
+		"v": 7630,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"25590b1a-ef0c-40e5-8e3f-9ded2926d4b8": {
 		"name": "android_following_hosted_channels",
 		"v": 6741,
@@ -3392,16 +3407,16 @@
 	},
 	"5b54a29f-6274-4ab9-be26-f8095ae78293": {
 		"name": "mobile_web_offline_experience",
-		"v": 7627,
+		"v": 7629,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
-				"value": ""
+				"weight": 100,
+				"value": "control"
 			},
 			{
 				"weight": 0,
-				"value": ""
+				"value": "treatment"
 			}
 		]
 	},
