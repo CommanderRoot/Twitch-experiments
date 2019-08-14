@@ -1891,6 +1891,21 @@
 			}
 		]
 	},
+	"3615bc9d-3e1f-44ac-8079-929fe9f23c9f": {
+		"name": "dart_dota2ti_groupreminder_holdout",
+		"v": 7648,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"36a0e500-f117-41dd-8421-3e3db7d567dd": {
 		"name": "CREATIVE_DIRECTORY_CVS",
 		"v": 386,
