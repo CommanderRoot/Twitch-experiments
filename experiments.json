@@ -7961,6 +7961,21 @@
 			}
 		]
 	},
+	"d48db3c4-d266-4919-b2d3-c4e01ff8f2f9": {
+		"name": "ios_suppress_video_play_event_after_ad",
+		"v": 7649,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"d4bc07e9-bb6d-403e-9574-6def01fe08cb": {
 		"name": "forced_future",
 		"v": 5249,
