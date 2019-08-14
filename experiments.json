@@ -371,11 +371,11 @@
 	},
 	"0a4046f8-c865-403c-84ef-1e6485de8a5d": {
 		"name": "android_phone_number_signup_3",
-		"v": 7634,
+		"v": 7635,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -383,7 +383,7 @@
 				"value": "email-first"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "hint-picker"
 			}
 		]
