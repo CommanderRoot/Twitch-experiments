@@ -1096,6 +1096,21 @@
 			}
 		]
 	},
+	"1d5060e9-4384-43c3-afc0-437f28c42555": {
+		"name": "dart_dota2ti_groupreminder_4_holdout",
+		"v": 7652,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"1db2d0f7-c3e5-4912-9086-3d4de98f89f4": {
 		"name": "dart_showandtell726_holdout",
 		"v": 7449,
@@ -1664,6 +1679,21 @@
 			}
 		]
 	},
+	"2ca1e3be-6560-4f2f-bc45-ecccbdbe7fd2": {
+		"name": "dart_dota2ti_groupreminder_2_holdout",
+		"v": 7654,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"2d4ba176-3f24-49b6-bf92-dba1287cfeaa": {
 		"name": "android_vaes",
 		"v": 5105,
@@ -1893,7 +1923,7 @@
 	},
 	"3615bc9d-3e1f-44ac-8079-929fe9f23c9f": {
 		"name": "dart_dota2ti_groupreminder_holdout",
-		"v": 7648,
+		"v": 7655,
 		"t": 2,
 		"groups": [
 			{
@@ -4762,6 +4792,21 @@
 			}
 		]
 	},
+	"7acc5ae9-484c-4e34-8c2c-c8e573c7351c": {
+		"name": "dart_dota2ti_groupreminder_3_holdout",
+		"v": 7653,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"7ad0012f-a7c7-41e0-875d-02d057b9dfef": {
 		"name": "ios_feed_autoplay_video_content",
 		"v": 2092,
@@ -7072,6 +7117,21 @@
 			{
 				"weight": 100,
 				"value": "treatment"
+			}
+		]
+	},
+	"ba7e9d3c-d86c-4da3-b7b0-d2cef640a173": {
+		"name": "dart_ dota2ti_groupreminder_5_holdout",
+		"v": 7651,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
