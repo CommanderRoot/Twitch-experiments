@@ -6996,6 +6996,21 @@
 			}
 		]
 	},
+	"b3914a40-d8f4-4a3c-ad18-b9147fbcf1c8": {
+		"name": "dart_notifications_team_test _holdout",
+		"v": 7672,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"b3dbd888-3ed2-4129-a6a9-7ad4c3d866d7": {
 		"name": "urgent_pie",
 		"v": 476,
