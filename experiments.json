@@ -2462,6 +2462,21 @@
 			}
 		]
 	},
+	"439281d1-c97e-48d1-a886-aaa25cbcab65": {
+		"name": "android_autoplay_last_one",
+		"v": 7667,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"44a503af-d77f-4f1d-9fa4-c99c5f783f9c": {
 		"name": "twilight_video_manager_release",
 		"v": 2850,
@@ -4309,6 +4324,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "active"
+			}
+		]
+	},
+	"6d66bea0-bd67-43d3-87b4-a41c182fc7d9": {
+		"name": "ios_autoplay_last_one",
+		"v": 7666,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
 				"value": "active"
 			}
 		]
