@@ -756,6 +756,21 @@
 			}
 		]
 	},
+	"1610e57d-fa7d-483b-89cc-97a3bd2f999d": {
+		"name": "android_polls_hack",
+		"v": 7673,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"164332c9-759a-46f5-92de-63d43ff2fd35": {
 		"name": "twilight_web_side_nav_upsell_center_channels",
 		"v": 7313,
