@@ -1913,6 +1913,21 @@
 			}
 		]
 	},
+	"35b3f451-bad7-4927-8503-fdc094e6e8f4": {
+		"name": "ios_community_points_final",
+		"v": 7676,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"35cab256-3d86-4e12-ae24-0ee4fa20ef52": {
 		"name": "ios_tags_display",
 		"v": 4788,
@@ -4088,6 +4103,21 @@
 			{
 				"weight": 0,
 				"value": "show"
+			}
+		]
+	},
+	"67749a51-05d3-4899-b16e-58f4aafb8020": {
+		"name": "android_community_points_final",
+		"v": 7677,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
