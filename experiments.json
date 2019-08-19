@@ -7242,15 +7242,15 @@
 	},
 	"ba438689-4e40-47fa-99e7-4bbee13c2f84": {
 		"name": "vaes_rollout_FR",
-		"v": 7588,
+		"v": 7684,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "treatment"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -8574,6 +8574,21 @@
 			{
 				"weight": 0,
 				"value": "yes"
+			}
+		]
+	},
+	"e16bb0ac-d794-44e5-a6d4-d132c71431a8": {
+		"name": "android_community_points_beta",
+		"v": 7683,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
