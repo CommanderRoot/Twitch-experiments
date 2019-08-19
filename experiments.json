@@ -6913,6 +6913,21 @@
 			}
 		]
 	},
+	"b1073c9e-5837-4767-977a-505a388d59c7": {
+		"name": "mgst_mobile_web_chat",
+		"v": 7686,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"b110ecaf-4082-4cf5-a396-b1f00f7bc437": {
 		"name": "ios_subtokens",
 		"v": 7531,
