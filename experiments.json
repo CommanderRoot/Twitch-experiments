@@ -2116,6 +2116,21 @@
 			}
 		]
 	},
+	"3cc258c8-1b3c-42e4-a22a-8a5c2836f56a": {
+		"name": "dart_dota2ti_maineventwelcome_holdout",
+		"v": 7688,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"3d05eebd-77c8-432a-a096-9662779d745c": {
 		"name": "mobile_web_pulsar_vod_v1",
 		"v": 7594,
