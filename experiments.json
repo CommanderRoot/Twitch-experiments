@@ -5126,6 +5126,29 @@
 			}
 		]
 	},
+	"8036e036-569d-459b-82df-c049f466f410": {
+		"name": "ios_browse_updates",
+		"v": 7700,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "grid"
+			},
+			{
+				"weight": 0,
+				"value": "cover_photo"
+			},
+			{
+				"weight": 0,
+				"value": "grid_cover_photo"
+			}
+		]
+	},
 	"80a4bf5b-0897-4ae6-bf0b-70357524c39b": {
 		"name": "ios_feed_display_content_type_indicator",
 		"v": 2357,
