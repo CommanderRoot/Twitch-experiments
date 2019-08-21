@@ -5128,7 +5128,7 @@
 	},
 	"8036e036-569d-459b-82df-c049f466f410": {
 		"name": "ios_browse_updates",
-		"v": 7700,
+		"v": 7702,
 		"t": 1,
 		"groups": [
 			{
@@ -5141,11 +5141,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "cover_photo"
+				"value": "banner_image"
 			},
 			{
 				"weight": 0,
-				"value": "grid_cover_photo"
+				"value": "grid_banner_image"
 			}
 		]
 	},
@@ -7111,7 +7111,7 @@
 	},
 	"b3914a40-d8f4-4a3c-ad18-b9147fbcf1c8": {
 		"name": "dart_notifications_team_test_holdout",
-		"v": 7687,
+		"v": 7701,
 		"t": 2,
 		"groups": [
 			{
