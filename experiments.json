@@ -5218,15 +5218,15 @@
 	},
 	"81d6df9f-6870-4d90-85d4-69f96db1c432": {
 		"name": "vaes_rollout_DE",
-		"v": 7589,
+		"v": 7695,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "treatment"
 			},
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			}
 		]
