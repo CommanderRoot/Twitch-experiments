@@ -7605,6 +7605,21 @@
 			}
 		]
 	},
+	"c1d758e5-b4cb-46b0-84d3-7b8688c039cc": {
+		"name": "android_logged_out",
+		"v": 7719,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"c270e8a5-57f8-413f-a238-7872a6ecbcc5": {
 		"name": "android_native_subs_iap",
 		"v": 2905,
