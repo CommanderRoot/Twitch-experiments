@@ -8059,6 +8059,21 @@
 			}
 		]
 	},
+	"cfc19aad-6f3c-4d7a-8728-42d136d80f13": {
+		"name": "dart_dota2ti_maineventreminder_holdout",
+		"v": 7704,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"d02fef29-1d9f-4ad1-b44e-6359d96a8501": {
 		"name": "pushy_device_token_pruning",
 		"v": 4005,
