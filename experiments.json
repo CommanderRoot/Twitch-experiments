@@ -6857,6 +6857,21 @@
 			}
 		]
 	},
+	"af645a1a-1764-45ac-96f2-a92a935a41f7": {
+		"name": "mgst_mobile_web_follow_button",
+		"v": 7706,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"af972d55-a450-4bf5-b3e8-247828a2d9ce": {
 		"name": "ios_phone_number_signup_email_upsell",
 		"v": 7602,
@@ -6952,8 +6967,8 @@
 		]
 	},
 	"b1073c9e-5837-4767-977a-505a388d59c7": {
-		"name": "mgst_mobile_web_chat",
-		"v": 7689,
+		"name": "mgst_mobile_web_chat_input",
+		"v": 7705,
 		"t": 1,
 		"groups": [
 			{
