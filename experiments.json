@@ -2176,6 +2176,21 @@
 			}
 		]
 	},
+	"3ea73879-f09e-4486-b0a0-b74d0a200799": {
+		"name": "dart_dota2ti_maineventrecap_holdout",
+		"v": 7732,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"3f03eebb-3cbb-4f7c-b64b-e1ed0115a773": {
 		"name": "twilight_watch_winston",
 		"v": 3998,
@@ -3385,6 +3400,21 @@
 			{
 				"weight": 0,
 				"value": "no_autoplay"
+			}
+		]
+	},
+	"58169399-8ee8-4ce0-ae4c-23700f5e470f": {
+		"name": "dart_dota2ti_maineventafter_holdout",
+		"v": 7731,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
