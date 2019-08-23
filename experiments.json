@@ -9010,16 +9010,12 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "Player UI Embed Player Core Version (Public)",
-		"v": 7661,
+		"v": 7728,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 95,
-				"value": "2.13.3"
-			},
-			{
-				"weight": 5,
+				"weight": 100,
 				"value": "2.14.0"
 			}
 		]
