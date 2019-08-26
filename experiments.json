@@ -4598,6 +4598,21 @@
 			}
 		]
 	},
+	"72243b7d-3774-4bf3-b87b-4bc5e4a23e46": {
+		"name": "ios_login_required",
+		"v": 7738,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "login_required"
+			},
+			{
+				"weight": 0,
+				"value": "no_login_required"
+			}
+		]
+	},
 	"729ce2e7-e410-4755-9875-1fb437191d7c": {
 		"name": "recommended_carousel_backfill",
 		"v": 6486,
