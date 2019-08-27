@@ -5271,15 +5271,15 @@
 	},
 	"81744e89-ce2b-448a-b205-6c41f18fb153": {
 		"name": "android_mgst_mobile_games_browse",
-		"v": 7740,
+		"v": 7741,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
