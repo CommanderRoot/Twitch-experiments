@@ -9366,6 +9366,21 @@
 			}
 		]
 	},
+	"f903a095-c5af-43b9-9480-5197c7bbb01f": {
+		"name": "mobile_web_mgst_open_app_contrast",
+		"v": 7752,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"fa2fa316-88b9-49b2-a96c-6ad4ecef2904": {
 		"name": "ios_enable_rooms",
 		"v": 2188,
