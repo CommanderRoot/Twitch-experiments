@@ -2964,12 +2964,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 7736,
+		"v": 7739,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-4422f3.sjc02.hls.ttvnw.net/v1/segment/Co_J7gl8YqoRB0PbRxEAfndiOddd4HuNznu_jgltTlEiHdWjwZQBNUdJtFyOkd9-WsRH11sdxN38-MmBfM0i7EkeMbaKBAC6vYjduE_sgOLxo6O64Evy1UAZNAi_deXwVjw8HxKM7dClx6Syv3-nuWJ-NO1bM4IxvMXMh3iq9K2EGEZFcydxdHMmq0I3shx08Y_sKeWQ2bXC9b3Hvh1v5IXC9ayNzD37ociG10O9WtK2Ap_6ySQNB-Gj8oNH9AGzKw1FIWV_AXCF9DPZN-jV8mWyH4JQVVe49NOmIR6hSnDYZL9mGW1FtmV-kOwdBAlH6gvK1tl5pAHYSyVD9L8bsyHUX43LDiInNupOgtl8eAvs0KYKiRLyFJACCddEtN6x5Q36Nmcw7G-P1YqLEm6N9Siv-dRICV_4dZ1dfFR3cufTj_mR8oZ_ee6x0pDJo-F6mUYauG9z3HCTlPrGYDmY8o6g9K6dUuXwXdS9n4kB3rJyP3qfzK1cbAI6vVesJ4Q12TrhHeK8h2l7W2V5FPevaDvA5k9nAdJv34xt3A2Fn2H-0iOtG0dGisW_5PUydEPWn4qvA7NvuRoZ0AlRwZAbKFanZdT8Vy5CIYydu9_cWrqg4LXBZEcjFA1EwctmUKQbkkjKyGxO33ypXMaX2SLqNnzArenwCaCb3rwiQLWzD7MvyiAZXP6nyDoY5LGmJK5vglCv6IwGU2esNGyXBWWIKqOstgcrMc0BqUb0bPNiKT4XYMRXJb8tenTdIs2j8zMFqJdawwegzqUNd1cZb7wXZSkQiNR.ts"
+				"value": "//video-edge-d2f60f.sjc02.hls.ttvnw.net/v1/segment/CkSqW1nmuJeM_z-LSbiuBsWx_w4_0butWH3pMGnjHWqcY7g51KyS8IGKPZACIo02kTBk8IugH2OlRhPDhfWf4luQdtS6bCL6lB0kGDt7Ze8aYd_ksxEGB0xo0xw5lSnBR9tV4GRfU2paXOzt11wCybCmOQgPuSJKMxYSCDOB8mGp5CrhExGBnX3myVJCymMJbdHZfvgQ67mKiB-46tVkK8ROzAHxOqnz5igvbzsuXSyRuHB5tvYJO1kThlhM4ip55PlumIUNSSxgqUJrVZYgsBwDIY5-STHeeHGnmuTw3KDB2CEzMmXQXUvxvUhi-tTPJCYZowjc0djoo8bUfRhdcktnlzyOr42rWRMg5IKk8lxUGv-IFdhp_opg0WFccDEjaHN9EbCGgc7huKV_cWHxmFKSzMLrTPJ3M8OQjDewDC_PYJT4hfUgd0kEfJNTmnE0ixf5l9MEHt27ihf0uQjZDi3uCCQLpp_0MCAgcR5XjfuEWwn7hxrRYUGg7KWGy8jANoV_knsSu4euOrqMKcfwwWpSX3EPf11z2jD3HBHJMcVYDJPii6kPmEml6nB9jbMoP9EhgWk8P-KACF6ZOUEmwn9naoNe1pXuKOfpv8krtKTKMmO22iG5Ytt82MXoK_fwstgZHriS95o2pyQkC5ZdqEuW4_cTLxtmNpBeCmXXNGl_mVU-J0rdjUArBy2zj6xIAzJgDEoSTAso1VkAqzVUOtw_ORJ0a9nimwU_A7YboOWpAxs7ow2Rm.ts"
 			}
 		]
 	},
@@ -5266,6 +5266,21 @@
 			{
 				"weight": 50,
 				"value": "opt-in"
+			}
+		]
+	},
+	"81744e89-ce2b-448a-b205-6c41f18fb153": {
+		"name": "android_mgst_mobile_games_browse",
+		"v": 7740,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
