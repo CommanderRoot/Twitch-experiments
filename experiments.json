@@ -758,15 +758,15 @@
 	},
 	"1610e57d-fa7d-483b-89cc-97a3bd2f999d": {
 		"name": "android_polls_hack",
-		"v": 7673,
+		"v": 7762,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -5658,15 +5658,15 @@
 	},
 	"8e0eaa8a-4835-491e-b37f-f36e81f4ebdb": {
 		"name": "ios_polls_vote_command",
-		"v": 7671,
+		"v": 7763,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			}
 		]
