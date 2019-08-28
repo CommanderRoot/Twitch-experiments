@@ -1819,6 +1819,21 @@
 			}
 		]
 	},
+	"319de98b-995e-49cf-9ea2-d3458dec504a": {
+		"name": "android_mgst_mobile_games_onboarding",
+		"v": 7764,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"326523fd-48bf-4043-9635-7bef334069e0": {
 		"name": "TWILIGHT_AUTOMOD_LAUNCH",
 		"v": 4201,
