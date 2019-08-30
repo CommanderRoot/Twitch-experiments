@@ -2979,12 +2979,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 7778,
+		"v": 7791,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-f78b62.sjc02.hls.ttvnw.net/v1/segment/CmfBxK2WfPX8ioo5DFSRZnZTcq0LPC_SoW_83FLkI7AKEhKva7jPAWhJcQydetE4xFqNqhz6Af5aH5gSVe_dpjeWAQe6yJ6c_w_xDSUqW291DdDNxQRKaS-LVyRMDMMoSKJvuckYd0Ow0_kHBFnaptf2tyM_NmKeqLa6ZBAMEPQ4nz5KcuXfzs2hAILDaNag33kA9tmSxdCy_19tIhi_0mvy5eF1whWNUSyqRmB7znsKk4D7SIx_o6upD_efnpHKAxqRP9hToefJVMuukMELTIe1T0AjCt41Xxi6kQI8AeaWMvzbtfTojjJkagmQcheHbsckwmqNLSp3LqoHG3m2gxYQdjrV-j6aC8GG-ehhzrPWjgiGviFGjM6xyvLQprEbg7ZfawEN5HR5hb2eTVJfgKSMZ91bBKQlxkGgPJ3_dRNlXhI0gP-8ZSMUlb1b7bzDjYFMXQUlTpYSbrdwD-kB8SBgRjDCBHU-ZzpB_deM_2O2LmgzuYG0rG4GOtAJE0ryRrW2XF1dpWT4rpa6DqIx1IetCXLBIPWFJTDdHPCyOo1Th-Hp9vFwrR3zjgudVMxnFuYpKiF7zYLWK8ijAqaWz11FpZAZ-EZNiaFB4Sro2op7GxP5DyCls5CnAQ5OECBprb3SH9ANagJHI7Il-tP9DvHZGiIfgJDuOjQ75p9gmbMVm2x9QWMC5tyPBkqGjVtYf0jB3ap8-4XMxic6MekLeF0X_M_ePb5VabpJEl8hEM2AUI0YU_8UM_aq821lSxGLEa2Jo5e8AXyaHqT0.ts"
+				"value": "//video-edge-294a4a.sjc02.hls.ttvnw.net/v1/segment/Cs16G-pT1jiZOeGJcvKAKpEwT_644BPtSGIVPfa_MZtzOxnZuM0oNbFpplZDq4HVl9isU5_10K8tcBu7WkR5o_YaG7epA07_vHYGyM0vZYECHFday_heG2a4TRxsTeCWR2eseWlB0Dcn-RvbQs96OoMnndYanOkTd49AEji4A6eLoVkWq_y34QXV8swVoa8bwHAtwOWTDWr9aHr94wSiwMCPkjCFljrVhBxUlhOl3Dy0Jpnd6e2jmde0kWz8UqR9iD-M2UGWCrKNwr6qJkKZKV2I6gfOjoVQCeycy0k5hJMPUQvy4oOdlWlD4vWR7rPKAlicpZu8IbJfYrvdu4Jv3yksSpsIugPS-NQrRaV77i5WfcaklGh7Yes1mEFSENB9NeMqrO1YaQPSCn3NhyFs8dpOToUw2TQdZIiAgyQ7Qimze13EfpZcdx9OmINlrC1q7YLNAJr9YdoiGyqH9kUG2vpR32eM3ZoFbbNL8wP1HbRaMXVMSc1ga1dGOOYlHZl415Z3KNO0nI9fw9B4IBVNAx7K2TBglJpi9S-V5sGRXwAZ-h-C1830gSW54HmhD3wcwa2CtG2Us6-lheog-Dbz_ekLkM5-2VBq7EgUhblVPGKx5Gxn_n6RlCykLkM85zv7XIRgZng78aAxvC-6DimtdUToOsEr_J3v0lQRWumehtKbwqtpHokKhU9IGUrm0fdnyun5oxIzk3LNnVLUrGQFAWZ3J2PBAwHn1TBJBA4cLWWguNdrrC2X6BY4S5EqtkNCnotECmdmYnHjszehe47OGbKcIv.ts"
 			}
 		]
 	},
@@ -5286,15 +5286,15 @@
 	},
 	"81744e89-ce2b-448a-b205-6c41f18fb153": {
 		"name": "android_mgst_mobile_games_browse",
-		"v": 7759,
+		"v": 7790,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -7667,15 +7667,15 @@
 	},
 	"c1d758e5-b4cb-46b0-84d3-7b8688c039cc": {
 		"name": "android_logged_out",
-		"v": 7719,
+		"v": 7789,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
