@@ -7830,6 +7830,25 @@
 			}
 		]
 	},
+	"c4cdad96-d445-4280-ad76-77e56a1dfb76": {
+		"name": "android_notification_opt_in",
+		"v": 7818,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "prompt"
+			},
+			{
+				"weight": 30,
+				"value": "auto-in"
+			},
+			{
+				"weight": 20,
+				"value": "auto-out"
+			}
+		]
+	},
 	"c4e51121-af38-46de-a93d-a7e10590a1ee": {
 		"name": "ios_clip_editing",
 		"v": 3332,
