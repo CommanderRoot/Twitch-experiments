@@ -1960,15 +1960,15 @@
 	},
 	"35b3f451-bad7-4927-8503-fdc094e6e8f4": {
 		"name": "ios_community_points_final",
-		"v": 7715,
+		"v": 7821,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -4198,15 +4198,15 @@
 	},
 	"67749a51-05d3-4899-b16e-58f4aafb8020": {
 		"name": "android_community_points_final",
-		"v": 7677,
+		"v": 7822,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
