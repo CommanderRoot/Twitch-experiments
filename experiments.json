@@ -4628,6 +4628,21 @@
 			}
 		]
 	},
+	"71fe4cc8-3852-4a59-9dab-1a1612fcd035": {
+		"name": "ios_rev_share_ad_copy",
+		"v": 7811,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"72243b7d-3774-4bf3-b87b-4bc5e4a23e46": {
 		"name": "ios_login_required",
 		"v": 7738,
@@ -9254,6 +9269,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"f41d7d52-a2b1-4e0a-89f8-2aba121f996b": {
+		"name": "android_mgst_broadcasting_upsell",
+		"v": 7810,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
