@@ -1539,6 +1539,21 @@
 			}
 		]
 	},
+	"2898a01e-3b3f-4ff8-958f-11bb4172742d": {
+		"name": "nydus_assignments",
+		"v": 7819,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "nydus"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
 	"295f24fe-045a-4739-9ca0-7dc824e3e19b": {
 		"name": "android_multiview",
 		"v": 5819,
