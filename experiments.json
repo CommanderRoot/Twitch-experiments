@@ -6815,6 +6815,21 @@
 			}
 		]
 	},
+	"ad048640-8726-433a-b822-69e30b8faa77": {
+		"name": "liverecs_holdout_device",
+		"v": 7826,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "control"
+			}
+		]
+	},
 	"ad39c35b-c6af-4687-b791-9ab408f825ef": {
 		"name": "VOD Thumbnail Previews Rollout",
 		"v": 272,
@@ -9228,6 +9243,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"efaa5444-36e4-4775-8b6d-5ab64f921bbc": {
+		"name": "liverecs_holdout_v2",
+		"v": 7825,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "control"
 			}
 		]
 	},
