@@ -7263,6 +7263,25 @@
 			}
 		]
 	},
+	"b2ce1edc-a3eb-4eb5-8f82-a445b79405d6": {
+		"name": "ios_prowse_v2",
+		"v": 7833,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "default_on"
+			}
+		]
+	},
 	"b3097df3-6109-47f5-ba41-32b5a5de1ce0": {
 		"name": "vaes_rollout_row",
 		"v": 7617,
