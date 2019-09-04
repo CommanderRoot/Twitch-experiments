@@ -8457,6 +8457,25 @@
 			}
 		]
 	},
+	"d364f0cb-8233-4557-a16f-23e40508f6e9": {
+		"name": "android_prowse_v2",
+		"v": 7832,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "enabled"
+			},
+			{
+				"weight": 20,
+				"value": "default_on"
+			}
+		]
+	},
 	"d4752777-a16a-4128-bcfb-42cbd4a53613": {
 		"name": "TWILIGHT_OWL_ROOM_CHEERING",
 		"v": 3846,
