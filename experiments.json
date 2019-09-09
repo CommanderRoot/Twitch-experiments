@@ -771,6 +771,21 @@
 			}
 		]
 	},
+	"1624c168-6f83-421f-90a6-3c0d0be252b9": {
+		"name": "mobile_web_mgst_experiment_baseline",
+		"v": 7881,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"164332c9-759a-46f5-92de-63d43ff2fd35": {
 		"name": "twilight_web_side_nav_upsell_center_channels",
 		"v": 7313,
@@ -6519,6 +6534,21 @@
 			{
 				"weight": 1,
 				"value": "variant1"
+			}
+		]
+	},
+	"a3c18184-3e25-42f1-aafe-8cc16b0faf76": {
+		"name": "mobile_web_mgst_locale_experiment_baseline",
+		"v": 7882,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
 			}
 		]
 	},
