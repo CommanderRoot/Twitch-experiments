@@ -9037,6 +9037,21 @@
 			}
 		]
 	},
+	"eaa83ba9-6d70-4427-bda2-9eacc0e6d276": {
+		"name": "android_mgst_low_latency_measure",
+		"v": 7872,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"eb1b8c9b-cd6d-4221-ac97-4d12883921f1": {
 		"name": "extensions_dock",
 		"v": 7479,
