@@ -7331,6 +7331,21 @@
 			}
 		]
 	},
+	"b3ffefb3-2209-407d-a099-b4fa2a820bfd": {
+		"name": "surestream_disable_android",
+		"v": 7897,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "surestream_enabled"
+			},
+			{
+				"weight": 0,
+				"value": "surestream_disabled"
+			}
+		]
+	},
 	"b451a3d9-79f4-4743-89c1-719335c2c974": {
 		"name": "CPR_SUB_NAV_V2",
 		"v": 727,
