@@ -4226,6 +4226,21 @@
 			}
 		]
 	},
+	"68326ce8-fb88-4ab9-8277-8fa658d94c8a": {
+		"name": "surestream_disable_firetv",
+		"v": 7900,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "surestream_enabled"
+			},
+			{
+				"weight": 0,
+				"value": "surestream_disabled"
+			}
+		]
+	},
 	"68ca29e7-fdd0-43f3-b3f4-9b97cf1341c0": {
 		"name": "ios_ipad_optimized_screens",
 		"v": 3373,
@@ -5461,6 +5476,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"860e36e9-58fd-4a62-b873-5916838b77ed": {
+		"name": "surestream_disable_androidtv",
+		"v": 7898,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "surestream_enabled"
+			},
+			{
+				"weight": 0,
+				"value": "surestream_disabled"
 			}
 		]
 	},
