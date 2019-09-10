@@ -4288,15 +4288,15 @@
 	},
 	"69206b81-29ba-4e10-b3eb-bdf9c898baa4": {
 		"name": "mobile_web_pulsar_ios_v1",
-		"v": 7858,
+		"v": 7908,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
