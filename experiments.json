@@ -9674,15 +9674,15 @@
 	},
 	"fabc51bb-ca48-415b-82ee-7dfff9146518": {
 		"name": "ios_stitched_ads",
-		"v": 7374,
+		"v": 7924,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
