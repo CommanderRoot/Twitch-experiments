@@ -4695,7 +4695,7 @@
 	},
 	"72243b7d-3774-4bf3-b87b-4bc5e4a23e46": {
 		"name": "ios_login_required",
-		"v": 7738,
+		"v": 7943,
 		"t": 1,
 		"groups": [
 			{
@@ -4705,6 +4705,10 @@
 			{
 				"weight": 0,
 				"value": "no_login_required"
+			},
+			{
+				"weight": 0,
+				"value": "no_login_required_forced"
 			}
 		]
 	},
