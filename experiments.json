@@ -3996,15 +3996,15 @@
 	},
 	"635f2342-d579-4966-9710-c2a3f0157b06": {
 		"name": "player_ui_super_sunrise",
-		"v": 7333,
+		"v": 7937,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "enabled"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disabled"
 			}
 		]
