@@ -204,6 +204,21 @@
 			}
 		]
 	},
+	"069be213-3e0e-49af-83fc-70dc82277146": {
+		"name": "android_mgst_profile_image_upload",
+		"v": 7940,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"06aa0a5e-01f5-480d-8596-6bcf73a93ffe": {
 		"name": "android_email_settings",
 		"v": 5951,
