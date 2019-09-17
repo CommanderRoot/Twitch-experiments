@@ -1520,6 +1520,25 @@
 			}
 		]
 	},
+	"2716fb22-101c-4369-a0c4-db24556829e3": {
+		"name": "android_goodbye_my_friend",
+		"v": 7947,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "pre_sunset"
+			},
+			{
+				"weight": 0,
+				"value": "post_sunset"
+			}
+		]
+	},
 	"274f6835-a41d-417c-ad58-f1321e2aac39": {
 		"name": "android_skippable_ads",
 		"v": 2582,
