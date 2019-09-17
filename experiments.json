@@ -5586,6 +5586,21 @@
 			}
 		]
 	},
+	"86e61b21-eeca-4bf0-93e9-e027d23bd537": {
+		"name": "mobile_web_mgst_offline_channel_entry",
+		"v": 7953,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"87d995c4-afbc-400e-a6e4-472419071e26": {
 		"name": "ios_pipboy_broadcasting",
 		"v": 1338,
