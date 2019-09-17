@@ -4442,6 +4442,25 @@
 			}
 		]
 	},
+	"6aa590d9-f066-463c-8aa8-9f46efeda47e": {
+		"name": "ios_goodbye_my_friend",
+		"v": 7948,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "pre_sunset"
+			},
+			{
+				"weight": 0,
+				"value": "post_sunset"
+			}
+		]
+	},
 	"6b4086ea-dcce-41c9-a57b-000fa9366e35": {
 		"name": "clips_you_were_right",
 		"v": 1722,
