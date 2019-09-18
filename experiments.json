@@ -647,6 +647,21 @@
 			}
 		]
 	},
+	"11c3b7a8-f0cf-49ea-8776-ebe87d84b782": {
+		"name": "twilight_quarterly_streamer_survey_for_new_streamers",
+		"v": 7979,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "Control"
+			},
+			{
+				"weight": 0,
+				"value": "Variant"
+			}
+		]
+	},
 	"12481a33-daa7-4671-96bb-9d8ca7699602": {
 		"name": "watch_uv_hosting",
 		"v": 7473,
