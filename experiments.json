@@ -1132,15 +1132,15 @@
 	},
 	"1bf73034-1ebe-4b74-b85b-eb28ef1cb0e7": {
 		"name": "dads_calling_granddads",
-		"v": 7925,
+		"v": 7977,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "CALL_GRANDDADS"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "DONT_CALL_GRANDDADS"
 			}
 		]
@@ -6821,6 +6821,21 @@
 			{
 				"weight": 50,
 				"value": "variant1"
+			}
+		]
+	},
+	"a9445a37-d1b7-45ee-9ea4-2d8da493bfb9": {
+		"name": "ad_affiliate_rev_share",
+		"v": 7976,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
