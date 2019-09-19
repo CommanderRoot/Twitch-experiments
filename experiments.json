@@ -1147,15 +1147,15 @@
 	},
 	"1bf73034-1ebe-4b74-b85b-eb28ef1cb0e7": {
 		"name": "dads_calling_granddads",
-		"v": 7987,
+		"v": 7990,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 7,
+				"weight": 10,
 				"value": "CALL_GRANDDADS"
 			},
 			{
-				"weight": 93,
+				"weight": 90,
 				"value": "DONT_CALL_GRANDDADS"
 			}
 		]
@@ -1609,15 +1609,15 @@
 	},
 	"2898a01e-3b3f-4ff8-958f-11bb4172742d": {
 		"name": "nydus_assignments",
-		"v": 7989,
+		"v": 7991,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "nydus"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			}
 		]
