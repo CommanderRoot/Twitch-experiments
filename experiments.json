@@ -1609,15 +1609,15 @@
 	},
 	"2898a01e-3b3f-4ff8-958f-11bb4172742d": {
 		"name": "nydus_assignments",
-		"v": 7991,
+		"v": 7994,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "nydus"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
