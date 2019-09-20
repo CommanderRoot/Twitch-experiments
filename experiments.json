@@ -9132,6 +9132,21 @@
 			}
 		]
 	},
+	"e23f364a-c8d3-4291-952e-18c81e392111": {
+		"name": "vitreous-rollout-staging",
+		"v": 8010,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "v1"
+			},
+			{
+				"weight": 100,
+				"value": "v2"
+			}
+		]
+	},
 	"e245ed22-1bb9-45d9-8328-5a7344beb427": {
 		"name": "dart_omertestfollowemail2_email",
 		"v": 7415,
