@@ -390,7 +390,7 @@
 	},
 	"0a4046f8-c865-403c-84ef-1e6485de8a5d": {
 		"name": "android_phone_number_signup_3",
-		"v": 7635,
+		"v": 8049,
 		"t": 1,
 		"groups": [
 			{
@@ -2503,21 +2503,6 @@
 			}
 		]
 	},
-	"414161d0-ddc1-449f-8c22-d42cbeb77a91": {
-		"name": "android_live_tab_v5.6",
-		"v": 3040,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"4146db1d-102d-49f7-a185-7c2d3d3b0126": {
 		"name": "mobile_native_savant_test_experiment",
 		"v": 5931,
@@ -3283,21 +3268,6 @@
 			{
 				"weight": 0,
 				"value": "experiment"
-			}
-		]
-	},
-	"50ab6187-6a5f-4e8f-bf7d-16be11d74f40": {
-		"name": "android_native_forgot_password",
-		"v": 4865,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
 			}
 		]
 	},
@@ -5248,21 +5218,6 @@
 			}
 		]
 	},
-	"7d9a80a5-5a46-4c8b-8e9f-7fc2dc48bd53": {
-		"name": "android_phone_number_signup_email",
-		"v": 7486,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
-			}
-		]
-	},
 	"7da9cda1-2d29-4917-b595-0c1ea27121e3": {
 		"name": "TEST_EXPERIMENT_TESTING",
 		"v": 1554,
@@ -5948,21 +5903,6 @@
 			}
 		]
 	},
-	"8f5277f3-7583-4fd9-ab09-e5a5c432b12b": {
-		"name": "android_autoplay_profile",
-		"v": 1263,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"8f6043c2-53b7-4ea7-991d-20c14dc2d1a7": {
 		"name": "ios_profile_upload_enhanced",
 		"v": 2266,
@@ -6516,25 +6456,6 @@
 			}
 		]
 	},
-	"9d2d9208-9af3-48e3-b8d6-06d991b8586c": {
-		"name": "android_phone_number_signup_2",
-		"v": 6569,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 80,
-				"value": "control"
-			},
-			{
-				"weight": 10,
-				"value": "phone-first"
-			},
-			{
-				"weight": 10,
-				"value": "phone-or-email"
-			}
-		]
-	},
 	"9daf3cbf-bd22-4101-95b9-b2c1b0461094": {
 		"name": "android_premieres_reruns",
 		"v": 2852,
@@ -6592,21 +6513,6 @@
 			{
 				"weight": 0,
 				"value": "on"
-			}
-		]
-	},
-	"9f207ac2-912b-4335-9e9d-1b990024bde1": {
-		"name": "android_disco_gladiator",
-		"v": 4929,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
 			}
 		]
 	},
@@ -6915,25 +6821,6 @@
 			{
 				"weight": 0,
 				"value": "disabled_v7.8"
-			}
-		]
-	},
-	"ab358fea-fca1-40a2-b60c-a042d7ea8cac": {
-		"name": "android_finish_it",
-		"v": 4882,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "above_hosting"
-			},
-			{
-				"weight": 0,
-				"value": "below_hosting"
 			}
 		]
 	},
@@ -7764,21 +7651,6 @@
 	"bb614c04-fce4-4abb-9686-a38022f4284e": {
 		"name": "ios_autoplay_browse",
 		"v": 7117,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
-	"bb654f3c-166a-49fa-9030-c6f4bcda2ebd": {
-		"name": "android_autoplay_browse",
-		"v": 6738,
 		"t": 1,
 		"groups": [
 			{
@@ -8982,21 +8854,6 @@
 			{
 				"weight": 1,
 				"value": "holdback"
-			}
-		]
-	},
-	"dc455db1-deb3-42eb-a090-6bcecc415151": {
-		"name": "android_phone_number_signup",
-		"v": 6584,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "active"
-			},
-			{
-				"weight": 80,
-				"value": "control"
 			}
 		]
 	},
