@@ -1102,15 +1102,15 @@
 	},
 	"1bf73034-1ebe-4b74-b85b-eb28ef1cb0e7": {
 		"name": "dads_calling_granddads",
-		"v": 8102,
+		"v": 8105,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 30,
 				"value": "CALL_GRANDDADS"
 			},
 			{
-				"weight": 75,
+				"weight": 70,
 				"value": "DONT_CALL_GRANDDADS"
 			}
 		]
