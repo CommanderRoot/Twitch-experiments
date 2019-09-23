@@ -1102,15 +1102,15 @@
 	},
 	"1bf73034-1ebe-4b74-b85b-eb28ef1cb0e7": {
 		"name": "dads_calling_granddads",
-		"v": 8032,
+		"v": 8087,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "CALL_GRANDDADS"
 			},
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "DONT_CALL_GRANDDADS"
 			}
 		]
@@ -3018,21 +3018,6 @@
 			}
 		]
 	},
-	"4dbc0ece-9392-421b-bf3d-7ace54428241": {
-		"name": "ios_social_t1_tab",
-		"v": 2186,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "enabled"
-			},
-			{
-				"weight": 90,
-				"value": "control"
-			}
-		]
-	},
 	"4e9d0a3c-4f43-4817-8db4-ac060fc32b74": {
 		"name": "latency_component_instrumentation",
 		"v": 1579,
@@ -4307,21 +4292,6 @@
 			{
 				"weight": 100,
 				"value": "variant1"
-			}
-		]
-	},
-	"6b6cb6bc-241d-4ef5-9c0f-0d2e6a38a88c": {
-		"name": "ios_live_channel_autoplay_iphone",
-		"v": 1821,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
@@ -8192,21 +8162,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"d22b1724-f9ba-4470-99ab-f3f193034394": {
-		"name": "ios_autoplay_feed_v5.9",
-		"v": 3310,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "active"
 			}
 		]
 	},
