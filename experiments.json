@@ -358,21 +358,6 @@
 			}
 		]
 	},
-	"0a31a3f1-14eb-428d-bcbd-1c30fecf1bad": {
-		"name": "ios_email_settings",
-		"v": 5550,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "active"
-			}
-		]
-	},
 	"0a324094-71b4-43aa-924b-2130183f7836": {
 		"name": "aperture_viewcount_staging",
 		"v": 6121,
@@ -2041,29 +2026,6 @@
 			}
 		]
 	},
-	"35cab256-3d86-4e12-ae24-0ee4fa20ef52": {
-		"name": "ios_tags_display",
-		"v": 4788,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "not_displayed"
-			},
-			{
-				"weight": 100,
-				"value": "displayed"
-			},
-			{
-				"weight": 0,
-				"value": "displayed_forced"
-			},
-			{
-				"weight": 0,
-				"value": "displayed_forced_fake"
-			}
-		]
-	},
 	"35ce0677-ffcb-4395-b824-3e854af7b74e": {
 		"name": "android_auto_mod_cheering",
 		"v": 4722,
@@ -3117,25 +3079,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"4ce15ce7-a4fc-40df-812d-847467f0572d": {
-		"name": "ios_mobile_promotions",
-		"v": 3588,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_first_tab"
-			},
-			{
-				"weight": 100,
-				"value": "active_last_tab"
 			}
 		]
 	},
@@ -5154,25 +5097,6 @@
 			}
 		]
 	},
-	"7c153584-d5ad-4e97-a9a9-f87095b6967a": {
-		"name": "ios_onboarding_impact",
-		"v": 5970,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "game_selection"
-			},
-			{
-				"weight": 0,
-				"value": "full_onboarding"
-			}
-		]
-	},
 	"7cdee701-0ac3-4b47-94d3-b47b3b707dc8": {
 		"name": "nielsen_analytics",
 		"v": 7985,
@@ -5275,21 +5199,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"7f165f9d-e0ef-4749-af62-98109b2ea888": {
-		"name": "ios_onboarding_channel_surfing_v6.2",
-		"v": 4772,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "channel_surfing"
 			}
 		]
 	},
@@ -6063,7 +5972,7 @@
 	},
 	"939f4935-0311-453b-b089-c35f89e6cccf": {
 		"name": "ios_tags_in_dashboard",
-		"v": 5600,
+		"v": 8058,
 		"t": 1,
 		"groups": [
 			{
@@ -6535,21 +6444,6 @@
 			}
 		]
 	},
-	"9fbbc1f9-9d07-47aa-a666-789a4d7f573c": {
-		"name": "ios_escape_hatch",
-		"v": 7609,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"a12e6150-15d5-45ce-8db8-bbaf49f4ec8c": {
 		"name": "vaes_rollout_t1",
 		"v": 7647,
@@ -6791,21 +6685,6 @@
 			{
 				"weight": 0,
 				"value": "skip"
-			}
-		]
-	},
-	"a9f7f84a-76fd-44f0-80b1-9421e714a1b7": {
-		"name": "ios_clips_paris",
-		"v": 1133,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
 			}
 		]
 	},
@@ -7645,21 +7524,6 @@
 			{
 				"weight": 100,
 				"value": "enabled_6_5_and_later"
-			}
-		]
-	},
-	"bb614c04-fce4-4abb-9686-a38022f4284e": {
-		"name": "ios_autoplay_browse",
-		"v": 7117,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
