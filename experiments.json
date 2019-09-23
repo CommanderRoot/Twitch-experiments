@@ -1226,7 +1226,7 @@
 	},
 	"20253846-f6eb-4268-b228-2178e33e1c2e": {
 		"name": "ios_native_login",
-		"v": 4546,
+		"v": 8110,
 		"t": 1,
 		"groups": [
 			{
@@ -6775,21 +6775,6 @@
 			}
 		]
 	},
-	"ae5fe654-f29f-435e-b1c9-4d106d51fd42": {
-		"name": "iOS_premieres_reruns_pastpremieres",
-		"v": 8100,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"aed66c3f-fa7f-41a4-aad8-06c063b94920": {
 		"name": "iOS_subtokens_apple_prototype",
 		"v": 7966,
@@ -8075,29 +8060,6 @@
 			}
 		]
 	},
-	"d09296ff-a271-4b44-8b6a-5c707943afe2": {
-		"name": "ios_onboarding_recommendations_v5.5",
-		"v": 8099,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "rec_streams"
-			},
-			{
-				"weight": 100,
-				"value": "clip_preview"
-			},
-			{
-				"weight": 0,
-				"value": "rec_streams_ads"
-			}
-		]
-	},
 	"d0a13495-92d5-4c1e-a376-681dbe3873ef": {
 		"name": "android_age_gating2",
 		"v": 7514,
@@ -9376,21 +9338,6 @@
 			}
 		]
 	},
-	"fd1167fc-eb16-489a-91ea-0568fa04ae8a": {
-		"name": "ios_autoplay_profile",
-		"v": 8098,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
 		"name": "pad_thai",
 		"v": 3449,
@@ -9510,21 +9457,6 @@
 			{
 				"weight": 25,
 				"value": "15sec"
-			}
-		]
-	},
-	"fe794438-043d-48dc-80b1-e2b069b88dbc": {
-		"name": "ios_autoplay_pulse",
-		"v": 8101,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
