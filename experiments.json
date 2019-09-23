@@ -662,21 +662,6 @@
 			}
 		]
 	},
-	"127fb373-5ac3-4815-b7f2-012ddb5eca4a": {
-		"name": "android_merry_go_round",
-		"v": 6764,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "round"
-			}
-		]
-	},
 	"12c7e908-44b8-456f-9dad-b8660e6db1ab": {
 		"name": "vaes_rollout_GB",
 		"v": 7751,
@@ -1142,21 +1127,6 @@
 			{
 				"weight": 100,
 				"value": "DONT_CALL_GRANDDADS"
-			}
-		]
-	},
-	"1c727c0e-698b-4968-b01b-2fb636408a81": {
-		"name": "ios_merry_go_round",
-		"v": 6765,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "round"
 			}
 		]
 	},
@@ -2371,25 +2341,6 @@
 			}
 		]
 	},
-	"3fc50c9d-2d0b-4e78-a99f-d0808a7aac7b": {
-		"name": "ios_finish_it",
-		"v": 4883,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "above_hosting"
-			},
-			{
-				"weight": 0,
-				"value": "below_hosting"
-			}
-		]
-	},
 	"3fc5b1e2-5580-464e-bc32-21d07a4a1df8": {
 		"name": "android_enable_rooms",
 		"v": 2386,
@@ -2401,21 +2352,6 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
-	"3fcce7ae-1799-4635-aed8-890f014d5992": {
-		"name": "ios_phone_signup",
-		"v": 6353,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 80,
-				"value": "control"
-			},
-			{
-				"weight": 20,
 				"value": "active"
 			}
 		]
@@ -6989,21 +6925,6 @@
 			}
 		]
 	},
-	"af972d55-a450-4bf5-b3e8-247828a2d9ce": {
-		"name": "ios_phone_number_signup_email_upsell",
-		"v": 7602,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"af9b4916-0aac-45cc-8cf1-24204640afff": {
 		"name": "android_sub_gifting_alpha",
 		"v": 5966,
@@ -7862,25 +7783,6 @@
 			{
 				"weight": 0,
 				"value": "disabled"
-			}
-		]
-	},
-	"c57795e2-3be1-4782-ac54-7ca3480544d0": {
-		"name": "ios_tags_nav",
-		"v": 4378,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "traditional_nav"
-			},
-			{
-				"weight": 100,
-				"value": "tags_nav"
-			},
-			{
-				"weight": 0,
-				"value": "tags_nav_forced"
 			}
 		]
 	},
@@ -9058,21 +8960,6 @@
 			{
 				"weight": 100,
 				"value": "exoplayer"
-			}
-		]
-	},
-	"ebae4615-0993-47dd-a06f-27f36dc53a7c": {
-		"name": "ios_disco_gladiator",
-		"v": 5191,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
 			}
 		]
 	},
