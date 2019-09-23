@@ -1102,15 +1102,15 @@
 	},
 	"1bf73034-1ebe-4b74-b85b-eb28ef1cb0e7": {
 		"name": "dads_calling_granddads",
-		"v": 8087,
+		"v": 8094,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "CALL_GRANDDADS"
 			},
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "DONT_CALL_GRANDDADS"
 			}
 		]
@@ -4847,15 +4847,15 @@
 	},
 	"79dd6ff1-6d80-43f6-b412-b7dbfa5d7297": {
 		"name": "vitreous-rollout",
-		"v": 8016,
+		"v": 8095,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "v2"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "v1"
 			}
 		]
