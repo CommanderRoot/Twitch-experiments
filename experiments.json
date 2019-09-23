@@ -527,21 +527,6 @@
 			}
 		]
 	},
-	"0f2d4069-61a8-415a-9cf4-abe1cda6d43d": {
-		"name": "ios_app_badge_5.10.1",
-		"v": 3582,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "enabled"
-			}
-		]
-	},
 	"0f308c04-8202-474b-820f-1f8e3dbc3c7b": {
 		"name": "android_vp9",
 		"v": 5964,
@@ -1854,21 +1839,6 @@
 			{
 				"weight": 90,
 				"value": "allowed"
-			}
-		]
-	},
-	"31935f88-873a-484d-83be-c238a2a5693e": {
-		"name": "ios_app_badge_5.10",
-		"v": 3174,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 95,
-				"value": "control"
-			},
-			{
-				"weight": 5,
-				"value": "enabled"
 			}
 		]
 	},
@@ -7411,21 +7381,6 @@
 			{
 				"weight": 90,
 				"value": "allowed"
-			}
-		]
-	},
-	"bafaf46f-6107-4cf8-bf65-36d604c6555a": {
-		"name": "ios_add_badging",
-		"v": 2864,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "badged"
 			}
 		]
 	},
