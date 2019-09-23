@@ -1793,21 +1793,6 @@
 			}
 		]
 	},
-	"3065be67-9b8a-42a7-89c2-9c682e36d8c3": {
-		"name": "mobile_web_pulsar_universal_v1",
-		"v": 6683,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"306b5fc1-d28c-4603-b2de-462d32c207bd": {
 		"name": "ads_countdown_timers",
 		"v": 5877,
@@ -3499,21 +3484,6 @@
 			{
 				"weight": 0,
 				"value": "B"
-			}
-		]
-	},
-	"5b149fa8-f8e1-4b30-aa30-f8e4bb648464": {
-		"name": "android_first_time_chatter_v5.7",
-		"v": 2536,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
 			}
 		]
 	},
