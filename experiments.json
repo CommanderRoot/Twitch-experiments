@@ -9074,6 +9074,21 @@
 			}
 		]
 	},
+	"f174687c-b2ed-48d7-a9f2-04a77d978a2f": {
+		"name": "android_mgst_cold_start_search_suggestions",
+		"v": 8137,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"f21b3a40-dd87-44eb-a7e6-1c9a1feb2816": {
 		"name": "player_watch_follow_twilight",
 		"v": 6139,
