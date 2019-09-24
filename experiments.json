@@ -3339,6 +3339,21 @@
 			}
 		]
 	},
+	"5766eac9-19a0-471b-8716-708987a0f62d": {
+		"name": "ios_om_vaes_enabled",
+		"v": 8142,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"5777c207-c176-4948-8cbd-f4ccb3fecf02": {
 		"name": "android_floating_chat",
 		"v": 7982,
