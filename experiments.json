@@ -8409,6 +8409,21 @@
 			}
 		]
 	},
+	"d998cd15-edd4-4813-8e31-d26b312d6ff8": {
+		"name": "android_mgst_alternate_ewma_abr",
+		"v": 8131,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "control"
+			},
+			{
+				"weight": 95,
+				"value": "active"
+			}
+		]
+	},
 	"d9d2b394-5e99-4d8e-9c61-c60621c7f4e4": {
 		"name": "ios_swift_player_stack",
 		"v": 6705,
