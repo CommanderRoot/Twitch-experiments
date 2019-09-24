@@ -619,15 +619,15 @@
 	},
 	"11c3b7a8-f0cf-49ea-8776-ebe87d84b782": {
 		"name": "twilight_quarterly_streamer_survey_for_new_streamers",
-		"v": 8015,
+		"v": 8141,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 60,
 				"value": "Control"
 			},
 			{
-				"weight": 10,
+				"weight": 40,
 				"value": "Variant"
 			}
 		]
@@ -5272,15 +5272,15 @@
 	},
 	"84a5b770-f444-45ab-9a57-5755cdb10072": {
 		"name": "twilight_quarterly_streamer_survey_for_affiliates",
-		"v": 8014,
+		"v": 8140,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 70,
 				"value": "Control"
 			},
 			{
-				"weight": 10,
+				"weight": 30,
 				"value": "Variant"
 			}
 		]
