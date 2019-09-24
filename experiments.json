@@ -8411,15 +8411,15 @@
 	},
 	"d998cd15-edd4-4813-8e31-d26b312d6ff8": {
 		"name": "android_mgst_alternate_ewma_abr",
-		"v": 8131,
+		"v": 8139,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 5,
 				"value": "active"
 			}
 		]
