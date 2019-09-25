@@ -619,15 +619,15 @@
 	},
 	"11c3b7a8-f0cf-49ea-8776-ebe87d84b782": {
 		"name": "twilight_quarterly_streamer_survey_for_new_streamers",
-		"v": 8141,
+		"v": 8150,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 60,
+				"weight": 100,
 				"value": "Control"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "Variant"
 			}
 		]
@@ -3401,15 +3401,15 @@
 	},
 	"5846909c-a259-49c6-b235-ccb9507aaf4d": {
 		"name": "twilight_quarterly_streamer_survey_for_partners",
-		"v": 8013,
+		"v": 8148,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "Control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "Variant"
 			}
 		]
@@ -5287,15 +5287,15 @@
 	},
 	"84a5b770-f444-45ab-9a57-5755cdb10072": {
 		"name": "twilight_quarterly_streamer_survey_for_affiliates",
-		"v": 8140,
+		"v": 8149,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 100,
 				"value": "Control"
 			},
 			{
-				"weight": 30,
+				"weight": 0,
 				"value": "Variant"
 			}
 		]
