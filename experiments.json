@@ -8544,6 +8544,21 @@
 			}
 		]
 	},
+	"dccf1db8-e8e5-4b3c-911f-4cb14fa9e278": {
+		"name": "ios_app_update_prompt",
+		"v": 8154,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "enabled"
+			}
+		]
+	},
 	"de013c6f-a800-45ee-9ab4-7965c405e3eb": {
 		"name": "TWILIGHT_ARCHER",
 		"v": 5310,
