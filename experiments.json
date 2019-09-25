@@ -1369,7 +1369,7 @@
 	},
 	"24d2ca90-8a02-4aae-aeff-377eca92eece": {
 		"name": "tvapps_tvos_player_native",
-		"v": 8163,
+		"v": 8170,
 		"t": 1,
 		"s": 3,
 		"groups": [
@@ -2580,7 +2580,7 @@
 	},
 	"45b880e9-d5ac-46c5-93d2-7b13c93e5193": {
 		"name": "tvapps_androidtv_player_native",
-		"v": 8161,
+		"v": 8167,
 		"t": 1,
 		"groups": [
 			{
@@ -2670,7 +2670,7 @@
 	},
 	"4767a77b-66e5-41ac-8adb-2d2773536aff": {
 		"name": "tvapps_firetv_player_native",
-		"v": 8162,
+		"v": 8169,
 		"t": 1,
 		"groups": [
 			{
@@ -6356,7 +6356,7 @@
 	},
 	"a342fd79-b34a-4fdc-acb8-3bd2082d72f7": {
 		"name": "tvapps_firetv_playercore",
-		"v": 4876,
+		"v": 8164,
 		"t": 1,
 		"groups": [
 			{
@@ -6645,15 +6645,15 @@
 	},
 	"ad048640-8726-433a-b822-69e30b8faa77": {
 		"name": "liverecs_holdout_device",
-		"v": 7826,
+		"v": 8171,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 2,
 				"value": "holdout"
 			},
 			{
-				"weight": 95,
+				"weight": 98,
 				"value": "control"
 			}
 		]
@@ -7807,7 +7807,7 @@
 	},
 	"c7f532d2-817c-4677-811c-b611767c57ac": {
 		"name": "tvapps_ps4_player_native",
-		"v": 8160,
+		"v": 8166,
 		"t": 1,
 		"groups": [
 			{
@@ -7912,7 +7912,7 @@
 	},
 	"cc382924-77c2-4b8f-b7df-8aaff898852d": {
 		"name": "tvapps_xboxone_player_native",
-		"v": 8159,
+		"v": 8165,
 		"t": 1,
 		"groups": [
 			{
@@ -9046,15 +9046,15 @@
 	},
 	"efaa5444-36e4-4775-8b6d-5ab64f921bbc": {
 		"name": "liverecs_holdout_v2",
-		"v": 7825,
+		"v": 8168,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 2,
 				"value": "holdout"
 			},
 			{
-				"weight": 95,
+				"weight": 98,
 				"value": "control"
 			}
 		]
