@@ -5302,15 +5302,15 @@
 	},
 	"84d30dc1-0308-42cc-849a-c7ff71f03dc4": {
 		"name": "ios_ads_eligibility_v2",
-		"v": 7806,
+		"v": 8187,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			}
 		]
@@ -6491,15 +6491,15 @@
 	},
 	"a6eef2bb-211a-4ba5-a438-c01e3afcf566": {
 		"name": "ios_ads_eligibility_enhanced",
-		"v": 7802,
+		"v": 8188,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
