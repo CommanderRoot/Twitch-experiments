@@ -6978,6 +6978,21 @@
 			}
 		]
 	},
+	"b06f8f27-e321-4f68-bf8b-eee419c3a8de": {
+		"name": "android_mgst_chat_microinteractions",
+		"v": 8199,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"b110ecaf-4082-4cf5-a396-b1f00f7bc437": {
 		"name": "ios_subtokens",
 		"v": 8184,
