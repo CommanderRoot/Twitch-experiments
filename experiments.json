@@ -2090,6 +2090,21 @@
 			}
 		]
 	},
+	"3b21f139-419e-4ec8-8923-6da5b05697f0": {
+		"name": "ios_nielsen_s2s",
+		"v": 8197,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"3bdd01d3-01c7-4ae8-a11c-1c0e8df9a642": {
 		"name": "ios_contextualized_t2",
 		"v": 4182,
