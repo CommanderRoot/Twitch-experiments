@@ -3604,6 +3604,21 @@
 			}
 		]
 	},
+	"5d2cc9d7-7c05-4ee2-af8e-269d507c1e46": {
+		"name": "android_mgst_localized_streams",
+		"v": 8200,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"5daee224-4c99-499f-b6e0-e308a5fa54f1": {
 		"name": "aws_roundtrip_latency_test_endpoint",
 		"v": 953,
