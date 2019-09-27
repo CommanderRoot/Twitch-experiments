@@ -1906,6 +1906,21 @@
 			}
 		]
 	},
+	"3556c468-850c-4d00-bb42-2d5883822859": {
+		"name": "ios_localized_streams",
+		"v": 8191,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "enabled"
+			}
+		]
+	},
 	"3571e123-fb7a-44fa-8993-9b55665d07d4": {
 		"name": "surestream_rollout_androidtv",
 		"v": 7138,
