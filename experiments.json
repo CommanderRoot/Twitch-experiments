@@ -5144,7 +5144,7 @@
 	},
 	"8036e036-569d-459b-82df-c049f466f410": {
 		"name": "ios_browse_updates",
-		"v": 7702,
+		"v": 8218,
 		"t": 1,
 		"groups": [
 			{
@@ -5152,15 +5152,15 @@
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "grid"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "banner_image"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "grid_banner_image"
 			}
 		]
@@ -7010,15 +7010,15 @@
 	},
 	"b06f8f27-e321-4f68-bf8b-eee419c3a8de": {
 		"name": "android_mgst_chat_microinteractions",
-		"v": 8199,
+		"v": 8217,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "active"
 			}
 		]
