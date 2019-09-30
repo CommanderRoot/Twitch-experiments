@@ -7328,6 +7328,21 @@
 			}
 		]
 	},
+	"b8a16ca4-02c9-4354-a239-5d2b61e9dbe2": {
+		"name": "ios_community_points_manual_rewards",
+		"v": 8209,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"b8ca66a8-ec36-422f-a8a2-256ef0e16e8d": {
 		"name": "CHANNEL_CHAT_CTA_V2",
 		"v": 1779,
