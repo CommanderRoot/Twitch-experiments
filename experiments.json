@@ -7165,19 +7165,19 @@
 	},
 	"b2ce1edc-a3eb-4eb5-8f82-a445b79405d6": {
 		"name": "ios_prowse_v2",
-		"v": 8036,
+		"v": 8215,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 45,
 				"value": "enabled"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "default_on"
 			}
 		]
@@ -8321,19 +8321,19 @@
 	},
 	"d364f0cb-8233-4557-a16f-23e40508f6e9": {
 		"name": "android_prowse_v2",
-		"v": 8035,
+		"v": 8216,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 45,
 				"value": "enabled"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "default_on"
 			}
 		]
