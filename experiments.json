@@ -5985,6 +5985,21 @@
 			}
 		]
 	},
+	"972d3986-543b-4e75-b690-ddcc73073510": {
+		"name": "ios_ad_pbyp",
+		"v": 8213,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"972e1ccb-1a06-4d0b-ad83-519df7b44891": {
 		"name": "ios_enable_rooms_v2",
 		"v": 2682,
