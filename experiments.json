@@ -6290,6 +6290,21 @@
 			}
 		]
 	},
+	"9caa36e6-063a-4132-8d72-102f8070e2e0": {
+		"name": "ios_apollo_caching",
+		"v": 8225,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"9ce10ee7-98ec-4126-a42f-28a6a129ca9d": {
 		"name": "ios_chomments",
 		"v": 1285,
