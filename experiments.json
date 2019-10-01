@@ -3911,6 +3911,21 @@
 			}
 		]
 	},
+	"630906bf-84b3-46ef-a0c4-c79807ecce37": {
+		"name": "android_update_prompt_rollout",
+		"v": 8222,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"635c1961-3efe-444b-8b40-94b96e64abac": {
 		"name": "video_edge_reassignment",
 		"v": 5491,
