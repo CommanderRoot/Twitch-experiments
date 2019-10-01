@@ -5097,6 +5097,21 @@
 			}
 		]
 	},
+	"7de95c94-6bf9-4c14-aa4e-15053de41c9d": {
+		"name": "ios_whispers_gate",
+		"v": 8226,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"7e23544d-0541-4c5f-8560-975ffe2f9026": {
 		"name": "SUB_GIFT_CHECKOUT",
 		"v": 2460,
@@ -8770,6 +8785,21 @@
 			},
 			{
 				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
+	"def2898a-9fec-4b3d-95f8-24b32916a6e9": {
+		"name": "android_whispers_gate",
+		"v": 8227,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
 				"value": "active"
 			}
 		]
