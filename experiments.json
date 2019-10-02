@@ -762,7 +762,7 @@
 	},
 	"1610e57d-fa7d-483b-89cc-97a3bd2f999d": {
 		"name": "android_polls_hack",
-		"v": 7762,
+		"v": 8257,
 		"t": 1,
 		"groups": [
 			{
@@ -2092,15 +2092,15 @@
 	},
 	"3b21f139-419e-4ec8-8923-6da5b05697f0": {
 		"name": "ios_nielsen_s2s",
-		"v": 8233,
+		"v": 8260,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -5689,7 +5689,7 @@
 	},
 	"8e0eaa8a-4835-491e-b37f-f36e81f4ebdb": {
 		"name": "ios_polls_vote_command",
-		"v": 7763,
+		"v": 8258,
 		"t": 1,
 		"groups": [
 			{
@@ -7691,15 +7691,15 @@
 	},
 	"c22ba599-db9b-4ec8-a41a-6613f4331639": {
 		"name": "surestream_rollout_android_jp",
-		"v": 8251,
+		"v": 8259,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "JP_SURESTREAM_ENABLED"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "JP_SURESTREAM_DISABLED"
 			}
 		]
