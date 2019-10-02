@@ -7691,15 +7691,15 @@
 	},
 	"c22ba599-db9b-4ec8-a41a-6613f4331639": {
 		"name": "surestream_rollout_android_jp",
-		"v": 8194,
+		"v": 8246,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "SURESTREAM_ON"
 			},
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "SURESTREAM_OFF"
 			}
 		]
