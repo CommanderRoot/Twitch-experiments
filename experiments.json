@@ -9375,6 +9375,21 @@
 			}
 		]
 	},
+	"f511cfe1-06df-497a-b3a1-cab37916b4c6": {
+		"name": "ios_play_session_changes",
+		"v": 8239,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_8_2"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"f55858c9-1293-4574-83a1-3dc7592d93e8": {
 		"name": "ios_native_iap_logging",
 		"v": 3025,
