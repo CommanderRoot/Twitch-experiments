@@ -7095,25 +7095,6 @@
 			}
 		]
 	},
-	"b2925d54-cebb-4e1d-a50d-9dd2b1ea850e": {
-		"name": "onsite_notifications",
-		"v": 1016,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			},
-			{
-				"weight": 100,
-				"value": "variant2"
-			}
-		]
-	},
 	"b29d055f-74f2-40b9-9383-9c4b79b30360": {
 		"name": "cloudfront web-cdn",
 		"v": 790,
