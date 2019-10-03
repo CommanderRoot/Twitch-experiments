@@ -5212,15 +5212,15 @@
 	},
 	"8140d736-e8dd-49bc-b7cb-0d5b65d4cd5b": {
 		"name": "mobile_native_chat_filter_existing_users",
-		"v": 5977,
+		"v": 8275,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "opt-in"
 			}
 		]
@@ -9041,19 +9041,19 @@
 	},
 	"ec640f44-d211-4331-9cee-bc2716b3130e": {
 		"name": "mobile_native_chat_filter_new_users",
-		"v": 5976,
+		"v": 8274,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "opt-out"
 			},
 			{
-				"weight": 30,
+				"weight": 0,
 				"value": "opt-in"
 			}
 		]
