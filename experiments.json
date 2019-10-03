@@ -893,21 +893,6 @@
 			}
 		]
 	},
-	"183a7e9b-12bf-42fc-a91c-f8c6bb9a2e2b": {
-		"name": "AUTO_ON_NOTIFICATIONS",
-		"v": 1465,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant"
-			}
-		]
-	},
 	"1890c9c4-e8fc-4ab3-b933-e44de461c538": {
 		"name": "experiments_client_integration_test",
 		"v": 1909,
@@ -1243,21 +1228,6 @@
 			}
 		]
 	},
-	"21084181-ee54-486d-8eb2-09a317143a8e": {
-		"name": "pushy_notifications_fatigue_v2",
-		"v": 4514,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
 		"name": "android_chromecast_player_core",
 		"v": 3815,
@@ -1334,21 +1304,6 @@
 			{
 				"weight": 0,
 				"value": "collection"
-			}
-		]
-	},
-	"2402b465-5769-4591-a8d2-365d11ba67d8": {
-		"name": "pushy_notifications_disable_actual",
-		"v": 3505,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
@@ -6519,21 +6474,6 @@
 			}
 		]
 	},
-	"a451e1bd-07af-443f-ade7-9e7dcdf8e9a8": {
-		"name": "pushy_device_token_pruning",
-		"v": 4022,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
-			}
-		]
-	},
 	"a51bc8be-9cad-477b-b084-83931bb04413": {
 		"name": "ad_countdown_timers_surestream",
 		"v": 6237,
@@ -8820,21 +8760,6 @@
 			{
 				"weight": 1,
 				"value": "control"
-			}
-		]
-	},
-	"e0fdfc17-389d-4ba5-8596-065352ddc01e": {
-		"name": "twilight_browser_notifications_upsell",
-		"v": 3659,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "yes"
 			}
 		]
 	},
