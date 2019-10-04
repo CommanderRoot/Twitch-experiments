@@ -7027,6 +7027,21 @@
 			}
 		]
 	},
+	"b0b11112-4034-4e87-a7ec-81c3e4b45525": {
+		"name": "android_community_points_manual_rewards",
+		"v": 8286,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"b110ecaf-4082-4cf5-a396-b1f00f7bc437": {
 		"name": "ios_subtokens",
 		"v": 8237,
