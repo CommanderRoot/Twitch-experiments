@@ -1160,6 +1160,21 @@
 			}
 		]
 	},
+	"1e826e43-17aa-41f4-8b4a-afd16217c97e": {
+		"name": "surestream_rollout_ios_jp",
+		"v": 8288,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "JP_IOS_SURESTREAM_ENABLED"
+			},
+			{
+				"weight": 100,
+				"value": "JP_IOS_SURESTREAM_DISABLED"
+			}
+		]
+	},
 	"1e899717-a0a8-4922-b0e7-bb6d71e4ed20": {
 		"name": "android_mobile_promotions",
 		"v": 3589,
