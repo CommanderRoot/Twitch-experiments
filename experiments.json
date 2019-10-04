@@ -1087,15 +1087,15 @@
 	},
 	"1bf73034-1ebe-4b74-b85b-eb28ef1cb0e7": {
 		"name": "dads_calling_granddads",
-		"v": 8207,
+		"v": 8293,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 70,
 				"value": "CALL_GRANDDADS"
 			},
 			{
-				"weight": 50,
+				"weight": 30,
 				"value": "DONT_CALL_GRANDDADS"
 			}
 		]
@@ -1162,16 +1162,16 @@
 	},
 	"1e826e43-17aa-41f4-8b4a-afd16217c97e": {
 		"name": "surestream_rollout_ios_jp",
-		"v": 8288,
+		"v": 8292,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "JP_IOS_SURESTREAM_ENABLED"
+				"value": "JP_SURESTREAM_ENABLED"
 			},
 			{
 				"weight": 100,
-				"value": "JP_IOS_SURESTREAM_DISABLED"
+				"value": "JP_SURESTREAM_DISABLED"
 			}
 		]
 	},
