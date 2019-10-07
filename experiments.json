@@ -1162,15 +1162,15 @@
 	},
 	"1e826e43-17aa-41f4-8b4a-afd16217c97e": {
 		"name": "surestream_rollout_ios_jp",
-		"v": 8292,
+		"v": 8332,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "JP_SURESTREAM_ENABLED"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "JP_SURESTREAM_DISABLED"
 			}
 		]
