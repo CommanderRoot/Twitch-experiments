@@ -4584,6 +4584,21 @@
 			}
 		]
 	},
+	"71df6456-28ff-4465-b540-c9af1f694344": {
+		"name": "ios_video_errors",
+		"v": 8298,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "all_errors"
+			},
+			{
+				"weight": 100,
+				"value": "fatal_only"
+			}
+		]
+	},
 	"71fe4cc8-3852-4a59-9dab-1a1612fcd035": {
 		"name": "ios_rev_share_ad_copy",
 		"v": 8077,
