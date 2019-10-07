@@ -20,11 +20,11 @@
 	},
 	"00d3dec6-a84e-4940-9ebc-25b95b1d3b8c": {
 		"name": "ios_profile_upload",
-		"v": 7911,
+		"v": 8299,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -32,7 +32,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v8_1"
 			}
 		]
