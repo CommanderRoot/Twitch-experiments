@@ -2062,15 +2062,15 @@
 	},
 	"3b21f139-419e-4ec8-8923-6da5b05697f0": {
 		"name": "ios_nielsen_s2s",
-		"v": 8285,
+		"v": 8300,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			}
 		]
