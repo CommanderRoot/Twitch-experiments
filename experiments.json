@@ -6646,15 +6646,15 @@
 	},
 	"a9445a37-d1b7-45ee-9ea4-2d8da493bfb9": {
 		"name": "ad_affiliate_rev_share",
-		"v": 8027,
+		"v": 8316,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
