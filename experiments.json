@@ -7502,6 +7502,21 @@
 			}
 		]
 	},
+	"bae761c8-29d7-4c14-afee-936d04afe40b": {
+		"name": "android_mgst_logged_out_v2",
+		"v": 8360,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"bb2d1459-65c5-49df-a5a0-b1c76ff23a85": {
 		"name": "ios_chromecast_control_center",
 		"v": 4034,
