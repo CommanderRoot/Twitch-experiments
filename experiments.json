@@ -5363,15 +5363,15 @@
 	},
 	"84d30dc1-0308-42cc-849a-c7ff71f03dc4": {
 		"name": "ios_ads_eligibility_v2",
-		"v": 8340,
+		"v": 8357,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -6417,15 +6417,15 @@
 	},
 	"9ec140f8-3b64-45d4-b7ed-b19870e29eac": {
 		"name": "android_granddads",
-		"v": 8341,
+		"v": 8358,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
