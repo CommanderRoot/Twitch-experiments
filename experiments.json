@@ -6979,6 +6979,21 @@
 			}
 		]
 	},
+	"af596140-c920-4555-b0a2-4e6c1389ce3f": {
+		"name": "mobile_web_native_stream_notification",
+		"v": 8371,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"af645a1a-1764-45ac-96f2-a92a935a41f7": {
 		"name": "mobile_web_mgst_channel_upsell",
 		"v": 7722,
