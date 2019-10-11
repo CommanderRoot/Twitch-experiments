@@ -2356,6 +2356,21 @@
 			}
 		]
 	},
+	"40f90081-bc8f-464a-b186-92e4ca6078a9": {
+		"name": "ios_stitched_ad_trigger",
+		"v": 8369,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"4146db1d-102d-49f7-a185-7c2d3d3b0126": {
 		"name": "mobile_native_savant_test_experiment",
 		"v": 5931,
