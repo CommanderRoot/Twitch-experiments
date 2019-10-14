@@ -124,6 +124,21 @@
 			}
 		]
 	},
+	"04e2b01c-12ba-4365-92d6-9115e9f79539": {
+		"name": "ios_include_source",
+		"v": 8378,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "omit_source"
+			},
+			{
+				"weight": 1,
+				"value": "include_source"
+			}
+		]
+	},
 	"058b4987-7889-4d6c-8722-6c4d4d1e6efd": {
 		"name": "android_videoplayer_r6_9_0",
 		"v": 4745,
