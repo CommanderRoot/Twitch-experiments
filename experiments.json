@@ -7326,6 +7326,21 @@
 			}
 		]
 	},
+	"b3886da6-e815-4ad1-86e5-d2cd00dbac0c": {
+		"name": "ios_watch_party_error",
+		"v": 8389,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"b3914a40-d8f4-4a3c-ad18-b9147fbcf1c8": {
 		"name": "dart_notifications_team_test_holdout",
 		"v": 7701,
@@ -9742,6 +9757,25 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"fba9e195-1661-42c2-85f5-64320965273e": {
+		"name": "subs_pif",
+		"v": 8388,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "gift_first"
+			},
+			{
+				"weight": 0,
+				"value": "thank_first"
 			}
 		]
 	},
