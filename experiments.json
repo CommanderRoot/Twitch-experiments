@@ -8433,6 +8433,21 @@
 			}
 		]
 	},
+	"d1cffa2b-e432-4a9e-958a-24842a9547fd": {
+		"name": "ios_vaes_enabled_v2",
+		"v": 8385,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_v8.2"
+			}
+		]
+	},
 	"d1fe9a0a-e9f2-4450-ac57-4ff2eefa0dcf": {
 		"name": "twilight_get_bits_top_nav",
 		"v": 4017,
