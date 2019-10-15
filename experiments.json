@@ -6428,19 +6428,19 @@
 	},
 	"9ea291fe-63ac-4234-b56e-bcc49f6085ea": {
 		"name": "android_ads_stream_presenter_8_1",
-		"v": 8283,
+		"v": 8384,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "control1"
 			},
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "control2"
 			}
 		]
