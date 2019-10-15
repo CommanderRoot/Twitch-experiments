@@ -1385,15 +1385,15 @@
 	},
 	"25590b1a-ef0c-40e5-8e3f-9ded2926d4b8": {
 		"name": "android_following_hosted_channels",
-		"v": 6741,
+		"v": 8386,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "hide_hosted"
 			}
 		]
@@ -4522,6 +4522,21 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"6f0ec17f-21c2-4994-8552-64b20b150132": {
+		"name": "ad_requester_analytics_refactor",
+		"v": 8387,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_8_2"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
