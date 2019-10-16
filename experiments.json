@@ -2839,15 +2839,15 @@
 	},
 	"4a567053-3ece-44bc-9496-9519a37a6053": {
 		"name": "theatre-mode-social-panel-v2",
-		"v": 5745,
+		"v": 8394,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "variant_a"
 			}
 		]
