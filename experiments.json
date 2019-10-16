@@ -8574,7 +8574,7 @@
 	},
 	"d48db3c4-d266-4919-b2d3-c4e01ff8f2f9": {
 		"name": "ios_suppress_video_play_event_after_ad",
-		"v": 8382,
+		"v": 8392,
 		"t": 1,
 		"groups": [
 			{
@@ -8582,11 +8582,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_8_1"
 			}
 		]
