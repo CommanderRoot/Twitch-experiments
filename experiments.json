@@ -2943,25 +2943,6 @@
 			}
 		]
 	},
-	"4b2a68a2-8ce1-4bf6-9a85-12d05f68b082": {
-		"name": "mobile_web_pulsar_player_core_android",
-		"v": 8104,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			},
-			{
-				"weight": 0,
-				"value": "treatment2"
-			}
-		]
-	},
 	"4b79ad96-2307-48fe-9bc5-f903a29dc55d": {
 		"name": "android_enable_rooms_release",
 		"v": 3336,
@@ -9947,25 +9928,6 @@
 			{
 				"weight": 100,
 				"value": "active7.11"
-			}
-		]
-	},
-	"ffbd45c9-452e-4fdb-87fe-b84d04f2e95a": {
-		"name": "mobile_web_pulsar_player_core_ios",
-		"v": 8103,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			},
-			{
-				"weight": 0,
-				"value": "treatment2"
 			}
 		]
 	},
