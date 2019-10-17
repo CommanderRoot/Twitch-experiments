@@ -7491,6 +7491,21 @@
 			}
 		]
 	},
+	"b8c23848-80fc-4ef2-bc51-bfae99d54fa8": {
+		"name": "mobile_web_pulsar_pc",
+		"v": 8409,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"b8ca66a8-ec36-422f-a8a2-256ef0e16e8d": {
 		"name": "CHANNEL_CHAT_CTA_V2",
 		"v": 1779,
