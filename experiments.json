@@ -5674,15 +5674,15 @@
 	},
 	"8c4ef9dd-5c74-46eb-bb58-aecf627fba98": {
 		"name": "ios_swift_video_player_controller",
-		"v": 8434,
+		"v": 8445,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "objc"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "swift"
 			}
 		]
