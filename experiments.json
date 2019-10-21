@@ -1224,6 +1224,21 @@
 			}
 		]
 	},
+	"1f7770c0-4f31-4093-928a-3b3c303f89c5": {
+		"name": "mobile_web_pulsar_ios_universal",
+		"v": 8432,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment"
+			}
+		]
+	},
 	"2005226d-07fe-46cf-a229-d91dd03d8d3a": {
 		"name": "delete_XP",
 		"v": 3634,
