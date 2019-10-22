@@ -938,6 +938,25 @@
 			}
 		]
 	},
+	"18e40adc-18ab-4d40-bb88-aa822a55d484": {
+		"name": "ios_notification_opt_in",
+		"v": 8452,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "prompt"
+			},
+			{
+				"weight": 30,
+				"value": "auto-in"
+			},
+			{
+				"weight": 20,
+				"value": "auto-out"
+			}
+		]
+	},
 	"18f450b9-5593-4d66-a5a7-c8b6fccf95c3": {
 		"name": "aax",
 		"v": 1545,
