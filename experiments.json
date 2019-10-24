@@ -9459,6 +9459,21 @@
 			}
 		]
 	},
+	"ee876010-0bad-4f76-af63-edb5b8393554": {
+		"name": "ios_dynamic_font",
+		"v": 8466,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"eef9c444-e095-4a80-9207-5981fb3d9c86": {
 		"name": "ios_auto_enable_beta_features_for_testers",
 		"v": 4335,
