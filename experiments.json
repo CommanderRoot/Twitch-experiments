@@ -3316,6 +3316,21 @@
 			}
 		]
 	},
+	"52a53731-c827-49df-8ccb-40c51407f932": {
+		"name": "ios_use_privacy_consent",
+		"v": 8496,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"52cb0929-0af1-45ba-81ef-79d9ae80b342": {
 		"name": "GROWTH_SKIP_SEEN_FRIENDS_IN_NOTIFICATIONS",
 		"v": 1191,
