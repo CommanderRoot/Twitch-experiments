@@ -2732,6 +2732,21 @@
 			}
 		]
 	},
+	"45d7b969-44db-4b37-8c42-c2591085cbe1": {
+		"name": "ios_use_legacy_gdpr",
+		"v": 8492,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"46bf9f05-d230-4b50-bc35-e015ce528241": {
 		"name": "ios_skip_kraken_information",
 		"v": 7193,
