@@ -4023,15 +4023,15 @@
 	},
 	"630906bf-84b3-46ef-a0c4-c79807ecce37": {
 		"name": "android_update_prompt_rollout",
-		"v": 8489,
+		"v": 8495,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			}
 		]
