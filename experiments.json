@@ -4576,15 +4576,15 @@
 	},
 	"6d66bea0-bd67-43d3-87b4-a41c182fc7d9": {
 		"name": "ios_autoplay_last_one",
-		"v": 8439,
+		"v": 8500,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 95,
 				"value": "active"
 			}
 		]
