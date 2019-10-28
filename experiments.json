@@ -7664,6 +7664,21 @@
 			}
 		]
 	},
+	"b9318c3d-54be-4f2b-8c89-8cad079e5be2": {
+		"name": "android_whispers_verification",
+		"v": 8494,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"ba438689-4e40-47fa-99e7-4bbee13c2f84": {
 		"name": "vaes_rollout_FR",
 		"v": 7684,
