@@ -4833,6 +4833,21 @@
 			}
 		]
 	},
+	"73427847-3a12-4109-a039-e7b7ed96631e": {
+		"name": "mobile_web_pulsar_android_test",
+		"v": 8535,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"73e0d181-8d03-4456-ba76-c0f04c2b5da3": {
 		"name": "android_animated_bits",
 		"v": 3455,
