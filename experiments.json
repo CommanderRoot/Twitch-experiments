@@ -4591,15 +4591,15 @@
 	},
 	"6d7baf70-b506-4bef-8b38-214227b80e53": {
 		"name": "ios_tearing_me_apart",
-		"v": 7901,
+		"v": 8523,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
@@ -4631,21 +4631,6 @@
 			{
 				"weight": 1,
 				"value": "active"
-			}
-		]
-	},
-	"6f0ec17f-21c2-4994-8552-64b20b150132": {
-		"name": "ad_requester_analytics_refactor",
-		"v": 8387,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active_8_2"
-			},
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
@@ -8363,6 +8348,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"cc0a8940-2e4b-4900-84ea-877762af934d": {
+		"name": "ios_ad_requester_analytics_refactor",
+		"v": 8526,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_8_3"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
