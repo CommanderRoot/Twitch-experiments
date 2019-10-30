@@ -356,15 +356,15 @@
 	},
 	"09a4eb6c-9fd0-4b3b-b9c4-92bff63b4137": {
 		"name": "ios_swift_minutes_watched",
-		"v": 7276,
+		"v": 8528,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "disabled"
 			},
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "enabled"
 			}
 		]
