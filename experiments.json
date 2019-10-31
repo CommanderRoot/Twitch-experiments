@@ -6477,15 +6477,15 @@
 	},
 	"9caa36e6-063a-4132-8d72-102f8070e2e0": {
 		"name": "ios_apollo_caching",
-		"v": 8532,
+		"v": 8541,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 70,
+				"weight": 50,
 				"value": "control"
 			}
 		]
