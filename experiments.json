@@ -4516,7 +4516,7 @@
 	},
 	"6bafb943-5523-438b-a77f-e9260d7c3dc3": {
 		"name": "black_widow",
-		"v": 8547,
+		"v": 8548,
 		"t": 1,
 		"s": 1,
 		"groups": [
@@ -8882,6 +8882,21 @@
 			{
 				"weight": 1,
 				"value": "control"
+			}
+		]
+	},
+	"d8bb0eee-b764-47d3-a7d9-a8ab437492d0": {
+		"name": "mobile_web_black_widow",
+		"v": 8549,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
