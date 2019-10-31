@@ -4516,15 +4516,15 @@
 	},
 	"6bafb943-5523-438b-a77f-e9260d7c3dc3": {
 		"name": "black_widow",
-		"v": 7847,
+		"v": 8542,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
