@@ -7575,6 +7575,21 @@
 			}
 		]
 	},
+	"b6d9e639-a33a-43ae-938d-426c7b317efd": {
+		"name": "ios_app_install_preroll",
+		"v": 8561,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"b7d320bf-c137-4c2d-b374-ea9fa20e3bd9": {
 		"name": "CHANNEL_CHAT_CTA",
 		"v": 1287,
