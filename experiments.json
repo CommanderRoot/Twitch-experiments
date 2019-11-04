@@ -2747,6 +2747,29 @@
 			}
 		]
 	},
+	"4649c348-a51d-4ae0-a3d9-316b451153f7": {
+		"name": "Celine (Catapush V2) Send Frequency",
+		"v": 8572,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 30,
+				"value": "Variant A"
+			},
+			{
+				"weight": 30,
+				"value": "Variant B"
+			},
+			{
+				"weight": 30,
+				"value": "Variant C"
+			},
+			{
+				"weight": 10,
+				"value": "Control"
+			}
+		]
+	},
 	"46bf9f05-d230-4b50-bc35-e015ce528241": {
 		"name": "ios_skip_kraken_information",
 		"v": 7193,
