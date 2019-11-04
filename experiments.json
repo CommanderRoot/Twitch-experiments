@@ -619,7 +619,7 @@
 	},
 	"10c91850-b17d-4f99-9a4f-4f58438582ef": {
 		"name": "ios_mgst_broadcasting_upsell",
-		"v": 7916,
+		"v": 8576,
 		"t": 1,
 		"groups": [
 			{
@@ -4600,15 +4600,15 @@
 	},
 	"6d66bea0-bd67-43d3-87b4-a41c182fc7d9": {
 		"name": "ios_autoplay_last_one",
-		"v": 8500,
+		"v": 8575,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "active"
 			}
 		]
