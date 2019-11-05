@@ -9804,15 +9804,15 @@
 	},
 	"f511cfe1-06df-497a-b3a1-cab37916b4c6": {
 		"name": "ios_play_session_changes",
-		"v": 8521,
+		"v": 8587,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_8_2"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
