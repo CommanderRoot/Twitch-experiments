@@ -6807,6 +6807,21 @@
 			}
 		]
 	},
+	"a7a6e4b0-49ea-419c-95f3-dbd967bdb1f9": {
+		"name": "ios_sub_gifting",
+		"v": 8595,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"a7b419e4-cd89-4a50-8334-4dbc29a407b0": {
 		"name": "ios_notification_permissions_for_upgraders",
 		"v": 2530,
