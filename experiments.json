@@ -5584,6 +5584,21 @@
 			}
 		]
 	},
+	"85738ca8-17cc-4c68-b6b8-b1fab8417df9": {
+		"name": "logged_out_notifications",
+		"v": 8619,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
 	"857c9fc7-9f51-41c2-b798-f92be1c0b72b": {
 		"name": "vaes_rollout_US",
 		"v": 7750,
