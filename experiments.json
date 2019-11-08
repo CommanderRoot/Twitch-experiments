@@ -4859,15 +4859,15 @@
 	},
 	"73427847-3a12-4109-a039-e7b7ed96631e": {
 		"name": "mobile_web_pulsar_android_universal",
-		"v": 8543,
+		"v": 8615,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
