@@ -3256,6 +3256,21 @@
 			}
 		]
 	},
+	"504dac66-92bb-4233-a35e-f174b4873bcb": {
+		"name": "android_ads_pbyp",
+		"v": 8618,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"505329a0-55a7-46e5-bf82-c320029e1539": {
 		"name": "Video_Manager_V2",
 		"v": 1792,
