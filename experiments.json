@@ -1846,6 +1846,21 @@
 			}
 		]
 	},
+	"310307c1-94a1-438c-95c3-ca88f2a5f757": {
+		"name": "android_mgst_follow_button_revamp",
+		"v": 8627,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"3124a793-c26b-4688-a6d3-7e09a2091c0e": {
 		"name": "dart_dota2ti_grouprecap_holdout",
 		"v": 7681,
