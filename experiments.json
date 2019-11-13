@@ -1878,15 +1878,15 @@
 	},
 	"319de98b-995e-49cf-9ea2-d3458dec504a": {
 		"name": "android_mgst_mobile_games_onboarding",
-		"v": 7764,
+		"v": 8658,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
