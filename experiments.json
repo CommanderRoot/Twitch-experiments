@@ -8634,6 +8634,21 @@
 			}
 		]
 	},
+	"ceef113c-084c-4991-a746-c732084998b0": {
+		"name": "dart_ff_world_series_finals_logged_out_11_19_holdout",
+		"v": 8677,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"cef8768a-6e62-491b-9a81-1892e0633861": {
 		"name": "android_truffle_hunt",
 		"v": 8498,
@@ -10115,6 +10130,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"fb928169-dc33-4495-8443-2f746da951d9": {
+		"name": "dart_ff_world_series_finals_logged_in_11_19_holdout",
+		"v": 8678,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
