@@ -9446,6 +9446,21 @@
 			}
 		]
 	},
+	"e4f268c8-b489-49e6-b045-3cadb5daaf92": {
+		"name": "android_app_install",
+		"v": 8676,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"e5119383-8e58-4218-9b23-e4de897907d8": {
 		"name": "ios_begin_ad_in_mini_theater",
 		"v": 8411,
