@@ -3154,21 +3154,6 @@
 			}
 		]
 	},
-	"4c0bf04d-9696-40ad-9589-a22684abb735": {
-		"name": "mobile_web_branch_open_in_app",
-		"v": 3404,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "treatment"
-			},
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
 	"4cfb5972-e20e-4ae1-92dd-7287ec58b4a4": {
 		"name": "twilight_theatre_fullscreen_v2",
 		"v": 3793,
@@ -8950,21 +8935,6 @@
 			{
 				"weight": 1,
 				"value": "enabled_v6.10"
-			}
-		]
-	},
-	"d5d96231-332d-4538-92c5-bdadbf938201": {
-		"name": "mobile_web_branch",
-		"v": 3979,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "treatment"
-			},
-			{
-				"weight": 0,
-				"value": "control"
 			}
 		]
 	},
