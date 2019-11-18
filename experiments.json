@@ -3092,19 +3092,19 @@
 	},
 	"4b2c3f01-27ca-41e7-a5db-6a72960b31c8": {
 		"name": "android_mgst_max_auto_bitrate",
-		"v": 8464,
+		"v": 8690,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "high"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "low"
 			}
 		]
