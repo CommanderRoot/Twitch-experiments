@@ -6256,15 +6256,15 @@
 	},
 	"972d3986-543b-4e75-b690-ddcc73073510": {
 		"name": "ios_ad_pbyp",
-		"v": 8688,
+		"v": 8700,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			}
 		]
