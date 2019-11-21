@@ -1753,15 +1753,15 @@
 	},
 	"2bb9900d-b5bf-4f8e-bf2d-3efdb3320a32": {
 		"name": "ios_following_hosted_channels",
-		"v": 6742,
+		"v": 8715,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "hide_hosted"
 			}
 		]
@@ -2779,23 +2779,23 @@
 	},
 	"4649c348-a51d-4ae0-a3d9-316b451153f7": {
 		"name": "Celine (Catapush V2) Send Frequency",
-		"v": 8644,
+		"v": 8714,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "Variant A"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Variant B"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Variant C"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Control"
 			}
 		]
