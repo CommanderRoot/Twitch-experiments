@@ -2779,11 +2779,11 @@
 	},
 	"4649c348-a51d-4ae0-a3d9-316b451153f7": {
 		"name": "Celine (Catapush V2) Send Frequency",
-		"v": 8718,
+		"v": 8719,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "Variant A"
 			},
 			{
@@ -2795,7 +2795,7 @@
 				"value": "Variant C"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Control"
 			}
 		]
@@ -3273,15 +3273,15 @@
 	},
 	"504dac66-92bb-4233-a35e-f174b4873bcb": {
 		"name": "android_ads_pbyp",
-		"v": 8618,
+		"v": 8720,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			}
 		]
