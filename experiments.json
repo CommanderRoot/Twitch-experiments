@@ -437,6 +437,21 @@
 			}
 		]
 	},
+	"0a4eab60-a882-4c78-b595-ab16ca672533": {
+		"name": "android_show_watch_party_ux",
+		"v": 8728,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"0ace5fda-aa24-4263-9b07-e8a3099729d6": {
 		"name": "ios_theater_offline_channel_deeplink_to_profile",
 		"v": 3764,
@@ -659,6 +674,21 @@
 			{
 				"weight": 0,
 				"value": "Variant"
+			}
+		]
+	},
+	"11f74ac7-7573-4827-acdd-d2b1b8b5d51a": {
+		"name": "android_transition_logging",
+		"v": 8729,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
 			}
 		]
 	},
