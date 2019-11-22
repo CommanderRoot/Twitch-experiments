@@ -2779,23 +2779,23 @@
 	},
 	"4649c348-a51d-4ae0-a3d9-316b451153f7": {
 		"name": "Celine (Catapush V2) Send Frequency",
-		"v": 8714,
+		"v": 8718,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 25,
 				"value": "Variant A"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "Variant B"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "Variant C"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "Control"
 			}
 		]
