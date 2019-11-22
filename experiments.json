@@ -439,15 +439,15 @@
 	},
 	"0a4eab60-a882-4c78-b595-ab16ca672533": {
 		"name": "android_show_watch_party_ux",
-		"v": 8728,
+		"v": 8730,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			}
 		]
