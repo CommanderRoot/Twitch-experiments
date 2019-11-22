@@ -5749,6 +5749,21 @@
 			}
 		]
 	},
+	"86b93049-f930-4dc1-8a1b-36070ea42703": {
+		"name": "android_hide_watch_party_monetization",
+		"v": 8731,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"86e61b21-eeca-4bf0-93e9-e027d23bd537": {
 		"name": "mobile_web_mgst_offline_channel_entry",
 		"v": 7953,
