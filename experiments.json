@@ -4295,6 +4295,21 @@
 			}
 		]
 	},
+	"66eef7be-86bb-4ca1-92ee-3a22099b6cc6": {
+		"name": "dart_PUBG1122E_holdout",
+		"v": 8725,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"67073a66-8131-41e0-acf1-73a9ec14f3f1": {
 		"name": "ios_airplay_reset_fix",
 		"v": 4111,
