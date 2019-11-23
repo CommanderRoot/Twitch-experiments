@@ -3384,6 +3384,21 @@
 			}
 		]
 	},
+	"526f0b70-d918-49dc-847b-0285757c36d0": {
+		"name": "dart_PUBG1124P_holdout",
+		"v": 8736,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"529a4ba6-f2a5-40fe-a704-cb89b14daa96": {
 		"name": "android_sub_gift",
 		"v": 7146,
