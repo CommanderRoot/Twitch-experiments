@@ -8799,6 +8799,21 @@
 			}
 		]
 	},
+	"d023d88d-2c4b-40d0-82f0-5f7fd538a1e6": {
+		"name": "bits_tier_emote_viewers",
+		"v": 8734,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "on"
+			},
+			{
+				"weight": 100,
+				"value": "off"
+			}
+		]
+	},
 	"d02fef29-1d9f-4ad1-b44e-6359d96a8501": {
 		"name": "pushy_device_token_pruning",
 		"v": 4005,
