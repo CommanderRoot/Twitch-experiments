@@ -8647,15 +8647,15 @@
 	},
 	"cc0a8940-2e4b-4900-84ea-877762af934d": {
 		"name": "ios_ad_requester_analytics_refactor",
-		"v": 8526,
+		"v": 8744,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_8_3"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			}
 		]
