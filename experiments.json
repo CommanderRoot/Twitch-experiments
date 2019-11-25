@@ -3789,6 +3789,21 @@
 			}
 		]
 	},
+	"5a7de183-7540-49ce-9082-d46e8f05b6d7": {
+		"name": "tvapps_firetv_legacy_recommendations",
+		"v": 8755,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"5b4b52f8-f313-466b-acd8-a4ddd9c89a87": {
 		"name": "ios_restart_mw_timer_after_video_play",
 		"v": 8706,
@@ -6864,6 +6879,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"a2303f76-3110-4ccf-93bd-74bd1dceed3b": {
+		"name": "tvapps_androidtv_legacy_recommendations",
+		"v": 8754,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
