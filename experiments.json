@@ -8082,6 +8082,21 @@
 			}
 		]
 	},
+	"bc65eb28-d8cc-4c70-be34-d6cf55965f5d": {
+		"name": "android_community_points_manual_rewards_final",
+		"v": 8747,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"bcc03590-b147-4397-bf25-8aa0ace2162c": {
 		"name": "tv_recommendations",
 		"v": 6923,
