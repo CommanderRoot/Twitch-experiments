@@ -8206,6 +8206,21 @@
 			}
 		]
 	},
+	"c21cac02-2392-4644-84ed-37b2534af5c7": {
+		"name": "tvapps_androidtv_channel_recommendations",
+		"v": 8745,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"c229a97c-6802-4a66-b905-42498958f7bd": {
 		"name": "dart_codmobilespanishhighfinal_push",
 		"v": 8330,
