@@ -8253,15 +8253,15 @@
 	},
 	"c21cac02-2392-4644-84ed-37b2534af5c7": {
 		"name": "tvapps_androidtv_channel_recommendations",
-		"v": 8745,
+		"v": 8760,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 75,
 				"value": "variant"
 			}
 		]
