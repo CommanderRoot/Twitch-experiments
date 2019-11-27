@@ -5471,6 +5471,21 @@
 			}
 		]
 	},
+	"7e5b08af-50cf-41c1-ab6c-2d2920b662d5": {
+		"name": "android_mgst_playercore_okhttp",
+		"v": 8779,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"7e75faa1-7a39-4c06-8474-c1b902ab9189": {
 		"name": "android_profile_upload_5.5",
 		"v": 2196,
