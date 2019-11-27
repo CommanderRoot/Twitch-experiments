@@ -5899,6 +5899,21 @@
 			}
 		]
 	},
+	"8935dd43-13ae-4ade-ba58-f188bcea7c9a": {
+		"name": "android_mgst_floating_chat_v2",
+		"v": 8778,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"89af3848-0aba-4e27-bb4b-d16c6f29e1c2": {
 		"name": "android_community_points_alpha",
 		"v": 6269,
