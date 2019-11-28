@@ -9580,6 +9580,21 @@
 			}
 		]
 	},
+	"df9ac8b2-d41d-495c-a34b-048c2436bc15": {
+		"name": "android_new_profile_card",
+		"v": 8781,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"e1e75bee-1e03-4633-b820-c03ec9dd1c30": {
 		"name": "android_profile_upload",
 		"v": 2051,
