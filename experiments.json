@@ -6314,6 +6314,21 @@
 			}
 		]
 	},
+	"932c988c-0a94-4e00-b44b-7f362babb91a": {
+		"name": "ios_community_points_manual_rewards_final",
+		"v": 8786,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"93404bb5-eb2b-4568-803b-e77ce64cac81": {
 		"name": "ads_moat",
 		"v": 8515,
