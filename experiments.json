@@ -3806,15 +3806,15 @@
 	},
 	"5b4b52f8-f313-466b-acd8-a4ddd9c89a87": {
 		"name": "ios_restart_mw_timer_after_video_play",
-		"v": 8706,
+		"v": 8792,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
@@ -6436,15 +6436,15 @@
 	},
 	"972d3986-543b-4e75-b690-ddcc73073510": {
 		"name": "ios_ad_pbyp",
-		"v": 8732,
+		"v": 8791,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -8677,15 +8677,15 @@
 	},
 	"c8de141f-9d9c-48b3-8de4-613e47b2a076": {
 		"name": "ios_external_playback_auto_refresh",
-		"v": 8651,
+		"v": 8790,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_8_4"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
