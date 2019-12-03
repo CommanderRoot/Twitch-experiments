@@ -602,6 +602,21 @@
 			}
 		]
 	},
+	"0f38e1d8-4437-473d-b75e-86d83a8f49fa": {
+		"name": "twitchguard-launch-experiment",
+		"v": 8802,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "On"
+			},
+			{
+				"weight": 90,
+				"value": "Off"
+			}
+		]
+	},
 	"0fd0ab7f-b90b-4573-81ab-d0b28fd62242": {
 		"name": "cc_xo_avs",
 		"v": 5761,
