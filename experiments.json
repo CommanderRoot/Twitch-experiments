@@ -4144,6 +4144,21 @@
 			}
 		]
 	},
+	"60a8ed8f-34a0-4802-81a6-ac213cd50cc9": {
+		"name": "android_mgst_160p_low_latency",
+		"v": 8796,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"6147aed8-6beb-4c24-a00b-a9ec189a4c1d": {
 		"name": "twilight_channel_analytics_content_overlap_panels",
 		"v": 4301,
