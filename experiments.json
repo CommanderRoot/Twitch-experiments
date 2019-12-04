@@ -9360,15 +9360,15 @@
 	},
 	"d8bb0eee-b764-47d3-a7d9-a8ab437492d0": {
 		"name": "mobile_web_black_widow",
-		"v": 8554,
+		"v": 8811,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
