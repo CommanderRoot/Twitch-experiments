@@ -3378,15 +3378,15 @@
 	},
 	"504dac66-92bb-4233-a35e-f174b4873bcb": {
 		"name": "android_ads_pbyp",
-		"v": 8798,
+		"v": 8818,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			}
 		]
