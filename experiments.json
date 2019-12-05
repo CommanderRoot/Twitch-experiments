@@ -604,15 +604,15 @@
 	},
 	"0f38e1d8-4437-473d-b75e-86d83a8f49fa": {
 		"name": "twitchguard-launch-experiment",
-		"v": 8806,
+		"v": 8830,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "Experiment"
 			},
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "Control"
 			}
 		]
