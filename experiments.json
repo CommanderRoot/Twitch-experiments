@@ -4928,6 +4928,21 @@
 			}
 		]
 	},
+	"6fe8a3d3-6afb-4b8d-b761-dc14eef55b21": {
+		"name": "tvapps_firetv_additional_crash_dump_info",
+		"v": 8846,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"6fff56b3-f76e-47d9-bd4d-ad1b1bd03fff": {
 		"name": "ios_airplay_seek_fix",
 		"v": 3857,
@@ -5761,6 +5776,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"831bbee2-ecb6-4805-8258-1d2209ba8eef": {
+		"name": "tvapps_androidtv_additional_crash_dump_info",
+		"v": 8844,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
 			}
 		]
 	},
