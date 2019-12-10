@@ -3851,15 +3851,15 @@
 	},
 	"5b4b52f8-f313-466b-acd8-a4ddd9c89a87": {
 		"name": "ios_restart_mw_timer_after_video_play",
-		"v": 8792,
+		"v": 8856,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
