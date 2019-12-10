@@ -724,15 +724,15 @@
 	},
 	"12481a33-daa7-4671-96bb-9d8ca7699602": {
 		"name": "watch_uv_hosting",
-		"v": 7473,
+		"v": 8854,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "variant_a"
 			}
 		]
