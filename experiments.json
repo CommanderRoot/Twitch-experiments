@@ -3849,6 +3849,21 @@
 			}
 		]
 	},
+	"5a90b2fe-9c3c-4ecc-9a6b-4a266c14a8b4": {
+		"name": "android_drops_2_0",
+		"v": 8868,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"5b4b52f8-f313-466b-acd8-a4ddd9c89a87": {
 		"name": "ios_restart_mw_timer_after_video_play",
 		"v": 8856,
