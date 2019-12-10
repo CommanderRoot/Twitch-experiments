@@ -7836,15 +7836,15 @@
 	},
 	"b2ee85f2-1d1e-4ad6-a1b4-86e8793587d1": {
 		"name": "ios_surestream_ad_pbyp",
-		"v": 8709,
+		"v": 8871,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -8005,15 +8005,15 @@
 	},
 	"b6d9e639-a33a-43ae-938d-426c7b317efd": {
 		"name": "ios_app_install_preroll",
-		"v": 8561,
+		"v": 8870,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			}
 		]
