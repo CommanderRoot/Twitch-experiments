@@ -8264,15 +8264,15 @@
 	},
 	"bc65eb28-d8cc-4c70-be34-d6cf55965f5d": {
 		"name": "android_community_points_manual_rewards_final",
-		"v": 8747,
+		"v": 8869,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
