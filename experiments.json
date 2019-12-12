@@ -9190,6 +9190,21 @@
 			}
 		]
 	},
+	"d1a829c9-7365-41fa-a642-7e64d5c8d475": {
+		"name": "per_s_integ_1",
+		"v": 8901,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"d1cffa2b-e432-4a9e-958a-24842a9547fd": {
 		"name": "ios_vaes_enabled_v2",
 		"v": 8385,
