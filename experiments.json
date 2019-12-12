@@ -9095,15 +9095,15 @@
 	},
 	"d023d88d-2c4b-40d0-82f0-5f7fd538a1e6": {
 		"name": "bits_tier_emote_viewers",
-		"v": 8897,
+		"v": 8899,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 75,
 				"value": "on"
 			},
 			{
-				"weight": 75,
+				"weight": 25,
 				"value": "off"
 			}
 		]
