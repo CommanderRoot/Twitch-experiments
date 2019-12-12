@@ -2839,15 +2839,15 @@
 	},
 	"45b880e9-d5ac-46c5-93d2-7b13c93e5193": {
 		"name": "tvapps_androidtv_player_native",
-		"v": 8797,
+		"v": 8886,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 0,
 				"value": "active"
 			}
 		]
