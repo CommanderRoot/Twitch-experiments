@@ -1412,6 +1412,21 @@
 			}
 		]
 	},
+	"2322f3a0-d84b-40a1-9b06-05c956c8a6e8": {
+		"name": "dart_Fortnite_Galileo_Event_holdout",
+		"v": 8909,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2352d0b6-7692-49f1-9f8d-88e6cc47994b": {
 		"name": "android_rollout_vod_uploads",
 		"v": 803,
@@ -3413,15 +3428,15 @@
 	},
 	"504dac66-92bb-4233-a35e-f174b4873bcb": {
 		"name": "android_ads_pbyp",
-		"v": 8818,
+		"v": 8910,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -7564,6 +7579,21 @@
 			{
 				"weight": 1,
 				"value": "control"
+			}
+		]
+	},
+	"af1c518c-6843-4966-9fab-764418da4315": {
+		"name": "dart_Fortnite_Galileo_Event_Viewer_Audience_2_holdout",
+		"v": 8908,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
