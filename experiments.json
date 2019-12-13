@@ -6039,6 +6039,21 @@
 			}
 		]
 	},
+	"8896fcd5-cdee-422d-91a9-0b9ce1672eb8": {
+		"name": "ios_pause_video_play_timer_for_autoplay",
+		"v": 8915,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"88c6dc9d-eb3c-4763-966d-e5537e78af50": {
 		"name": "xarth_debug_menu_whitelisted_users",
 		"v": 4292,
