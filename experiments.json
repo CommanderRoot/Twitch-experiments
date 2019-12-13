@@ -8372,6 +8372,21 @@
 			}
 		]
 	},
+	"bd1a48e3-d15a-440e-9e9b-f12aa82ca010": {
+		"name": "pur_rep",
+		"v": 8911,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"bd9234fc-3c40-45f6-a544-868478744ba7": {
 		"name": "featured_collection_disable",
 		"v": 6184,
