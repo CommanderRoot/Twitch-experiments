@@ -9192,16 +9192,20 @@
 	},
 	"d1a829c9-7365-41fa-a642-7e64d5c8d475": {
 		"name": "per_s_integ_1",
-		"v": 8901,
+		"v": 8905,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "treatment"
+			},
+			{
+				"weight": 1,
+				"value": "other"
 			}
 		]
 	},
