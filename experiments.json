@@ -2970,6 +2970,21 @@
 			}
 		]
 	},
+	"475099ce-3f45-4ba0-83aa-cdf3edde99e9": {
+		"name": "ios_avoid_infinite_retries",
+		"v": 8907,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "avoid"
+			}
+		]
+	},
 	"47597570-dd4e-4996-85eb-86db164cae9c": {
 		"name": "TWILIGHT_AML_RANKING_FOLLOWS",
 		"v": 5165,
