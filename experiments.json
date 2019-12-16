@@ -6189,6 +6189,21 @@
 			}
 		]
 	},
+	"8c4ecbde-bac4-4b30-a943-b8dacbedbbaf": {
+		"name": "dart_CPVIEW_holdout",
+		"v": 8919,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"8c4ef9dd-5c74-46eb-bb58-aecf627fba98": {
 		"name": "ios_swift_video_player_controller",
 		"v": 8457,
@@ -10461,6 +10476,21 @@
 			{
 				"weight": 1,
 				"value": "variant2"
+			}
+		]
+	},
+	"f4d2e615-f505-4888-995d-bc94ce1bc2b9": {
+		"name": "dart_CPLAUNCHSTRM_holdout",
+		"v": 8920,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
