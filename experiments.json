@@ -5583,15 +5583,15 @@
 	},
 	"7de95c94-6bf9-4c14-aa4e-15053de41c9d": {
 		"name": "ios_whispers_gate",
-		"v": 8226,
+		"v": 8924,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -9805,15 +9805,15 @@
 	},
 	"def2898a-9fec-4b3d-95f8-24b32916a6e9": {
 		"name": "android_whispers_gate",
-		"v": 8227,
+		"v": 8925,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
