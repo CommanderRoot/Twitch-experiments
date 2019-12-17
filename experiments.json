@@ -88,15 +88,15 @@
 	},
 	"03b5b01c-5522-4a85-9a1d-c1ddb44488bc": {
 		"name": "mobile_web_charlotte",
-		"v": 8928,
+		"v": 8930,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
