@@ -9977,6 +9977,21 @@
 			}
 		]
 	},
+	"e42aaa61-22ba-44f5-9627-02d7f39bf1b3": {
+		"name": "android_mgst_abr_network_link_filter",
+		"v": 8951,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"e4f268c8-b489-49e6-b045-3cadb5daaf92": {
 		"name": "android_app_install",
 		"v": 8676,
