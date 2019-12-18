@@ -3814,6 +3814,21 @@
 			}
 		]
 	},
+	"59734d48-9fb6-4098-88f9-7b3dcd54e4ca": {
+		"name": "android_mgst_abr_reset_estimate",
+		"v": 8953,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"598fcc12-dd8f-4d02-864c-f7a5afa6ca2e": {
 		"name": "sunlight_dashboard",
 		"v": 8315,
