@@ -5142,15 +5142,15 @@
 	},
 	"729ce2e7-e410-4755-9875-1fb437191d7c": {
 		"name": "recommended_carousel_backfill",
-		"v": 8961,
+		"v": 8973,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 99,
 				"value": "LEGACY"
 			},
 			{
-				"weight": 5,
+				"weight": 1,
 				"value": "LIVERECS"
 			}
 		]
