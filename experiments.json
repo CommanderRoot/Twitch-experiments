@@ -7151,8 +7151,8 @@
 		]
 	},
 	"a33b18f6-e4b3-4efe-999d-c723d1b7d7c7": {
-		"name": "tvapps_xboxone_test_2.8.5.0",
-		"v": 8969,
+		"name": "tvapps_xboxone_test_2.8.5.32",
+		"v": 8971,
 		"t": 1,
 		"groups": [
 			{
@@ -7692,6 +7692,21 @@
 			{
 				"weight": 100,
 				"value": "treatment"
+			}
+		]
+	},
+	"af710fda-ef11-4ce6-8e8b-2a42183ac0c1": {
+		"name": "tvapps_xboxone_test_2.8.5",
+		"v": 8970,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 23,
+				"value": "active"
+			},
+			{
+				"weight": 77,
+				"value": "control"
 			}
 		]
 	},
