@@ -1709,6 +1709,21 @@
 			}
 		]
 	},
+	"28a88ec4-f16b-4a66-993e-91ea6f4687cb": {
+		"name": "tvapps_xboxone_test_2.8",
+		"v": 8968,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "active"
+			},
+			{
+				"weight": 90,
+				"value": "control"
+			}
+		]
+	},
 	"295f24fe-045a-4739-9ca0-7dc824e3e19b": {
 		"name": "android_multiview",
 		"v": 5819,
@@ -7136,8 +7151,8 @@
 		]
 	},
 	"a33b18f6-e4b3-4efe-999d-c723d1b7d7c7": {
-		"name": "tvapps_xboxone_test_2.8.5.1234",
-		"v": 8964,
+		"name": "tvapps_xboxone_test_2.8.5.0",
+		"v": 8969,
 		"t": 1,
 		"groups": [
 			{
