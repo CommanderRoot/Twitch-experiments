@@ -7135,6 +7135,21 @@
 			}
 		]
 	},
+	"a33b18f6-e4b3-4efe-999d-c723d1b7d7c7": {
+		"name": "tvapps_androidtv_test_2.8.5.1234",
+		"v": 8962,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "active"
+			},
+			{
+				"weight": 90,
+				"value": "control"
+			}
+		]
+	},
 	"a342fd79-b34a-4fdc-acb8-3bd2082d72f7": {
 		"name": "tvapps_firetv_playercore",
 		"v": 8164,
