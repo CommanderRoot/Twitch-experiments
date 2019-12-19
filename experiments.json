@@ -7137,15 +7137,15 @@
 	},
 	"a33b18f6-e4b3-4efe-999d-c723d1b7d7c7": {
 		"name": "tvapps_xboxone_test_2.8.5.1234",
-		"v": 8963,
+		"v": 8964,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "active"
 			},
 			{
-				"weight": 90,
+				"weight": 85,
 				"value": "control"
 			}
 		]
