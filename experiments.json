@@ -2722,6 +2722,21 @@
 			}
 		]
 	},
+	"4237d222-c85f-43cc-b4ae-96239ef8a51e": {
+		"name": "mobile_web_charlotte_v2",
+		"v": 8974,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"428d3b07-cc7a-424f-aad0-971f5415879a": {
 		"name": "NEXUS_ROLLOUT",
 		"v": 1013,
@@ -7791,15 +7806,15 @@
 	},
 	"b06f8f27-e321-4f68-bf8b-eee419c3a8de": {
 		"name": "android_mgst_chat_microinteractions",
-		"v": 8217,
+		"v": 8975,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
