@@ -236,7 +236,7 @@
 	},
 	"069be213-3e0e-49af-83fc-70dc82277146": {
 		"name": "android_mgst_profile_image_upload",
-		"v": 7942,
+		"v": 8957,
 		"t": 1,
 		"groups": [
 			{
@@ -244,7 +244,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "active"
 			}
 		]
