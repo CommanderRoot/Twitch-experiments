@@ -5106,6 +5106,21 @@
 			}
 		]
 	},
+	"71c5e21b-22b6-4ccc-a11a-0da1c1aceab5": {
+		"name": "android_poliwag",
+		"v": 8984,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"71df6456-28ff-4465-b540-c9af1f694344": {
 		"name": "ios_video_errors",
 		"v": 8298,
