@@ -1500,6 +1500,21 @@
 			}
 		]
 	},
+	"25228944-d289-4e19-b34d-44f4d0060467": {
+		"name": "mobile_web_pulsar_pc_v3",
+		"v": 9030,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"252e18cd-8286-4026-b63c-fe567d54cbca": {
 		"name": "mobile_web_offline_experience",
 		"v": 7630,
@@ -4680,22 +4695,6 @@
 			{
 				"weight": 50,
 				"value": "bf_exp"
-			}
-		]
-	},
-	"69206b81-29ba-4e10-b3eb-bdf9c898baa4": {
-		"name": "mobile_web_pulsar_ios_v1",
-		"v": 7933,
-		"t": 1,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
 			}
 		]
 	},
@@ -8181,21 +8180,6 @@
 			}
 		]
 	},
-	"b8c23848-80fc-4ef2-bc51-bfae99d54fa8": {
-		"name": "mobile_web_pulsar_pc",
-		"v": 8877,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
-			}
-		]
-	},
 	"b8ca66a8-ec36-422f-a8a2-256ef0e16e8d": {
 		"name": "CHANNEL_CHAT_CTA_V2",
 		"v": 1779,
@@ -10755,21 +10739,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"fb6221d4-a026-4a5d-b6da-8a8e56517588": {
-		"name": "mobile_web_pulsar_pc_v2",
-		"v": 8938,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
 			}
 		]
 	},
