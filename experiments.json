@@ -1694,21 +1694,6 @@
 			}
 		]
 	},
-	"28a88ec4-f16b-4a66-993e-91ea6f4687cb": {
-		"name": "tvapps_xboxone_test_2.8",
-		"v": 8968,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "active"
-			},
-			{
-				"weight": 90,
-				"value": "control"
-			}
-		]
-	},
 	"295f24fe-045a-4739-9ca0-7dc824e3e19b": {
 		"name": "android_multiview",
 		"v": 5819,
@@ -6394,6 +6379,21 @@
 			}
 		]
 	},
+	"8f999215-8ab5-4c72-a7d9-e31eaccce1d1": {
+		"name": "ios_new_profile_card",
+		"v": 9023,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8feaebce-0955-4d59-bbad-4e3469dbb2f8": {
 		"name": "android_chomments_posting",
 		"v": 2067,
@@ -7165,21 +7165,6 @@
 			}
 		]
 	},
-	"a33b18f6-e4b3-4efe-999d-c723d1b7d7c7": {
-		"name": "tvapps_xboxone_test_2.8.5.32",
-		"v": 8971,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 15,
-				"value": "active"
-			},
-			{
-				"weight": 85,
-				"value": "control"
-			}
-		]
-	},
 	"a342fd79-b34a-4fdc-acb8-3bd2082d72f7": {
 		"name": "tvapps_firetv_playercore",
 		"v": 8164,
@@ -7707,21 +7692,6 @@
 			{
 				"weight": 100,
 				"value": "treatment"
-			}
-		]
-	},
-	"af710fda-ef11-4ce6-8e8b-2a42183ac0c1": {
-		"name": "tvapps_xboxone_test_2.8.5",
-		"v": 8970,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 23,
-				"value": "active"
-			},
-			{
-				"weight": 77,
-				"value": "control"
 			}
 		]
 	},
@@ -9020,7 +8990,7 @@
 	},
 	"cc0a8940-2e4b-4900-84ea-877762af934d": {
 		"name": "ios_ad_requester_analytics_refactor",
-		"v": 8867,
+		"v": 9022,
 		"t": 1,
 		"groups": [
 			{
@@ -9028,11 +8998,11 @@
 				"value": "active_8_3"
 			},
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_8_4"
 			}
 		]
