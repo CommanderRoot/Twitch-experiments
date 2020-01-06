@@ -10315,11 +10315,11 @@
 	},
 	"ee876010-0bad-4f76-af63-edb5b8393554": {
 		"name": "ios_dynamic_font",
-		"v": 8888,
+		"v": 9032,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -10327,7 +10327,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_v8.5"
 			}
 		]
