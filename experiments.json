@@ -2239,7 +2239,7 @@
 	},
 	"37f65fc7-c3f8-4321-b364-6a0ba9c0bb24": {
 		"name": "ios_mgst_cold_search_suggestions",
-		"v": 7970,
+		"v": 9052,
 		"t": 1,
 		"groups": [
 			{
@@ -2247,7 +2247,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -10440,7 +10440,7 @@
 	},
 	"f174687c-b2ed-48d7-a9f2-04a77d978a2f": {
 		"name": "android_mgst_cold_start_search_suggestions",
-		"v": 8137,
+		"v": 9053,
 		"t": 1,
 		"groups": [
 			{
@@ -10448,7 +10448,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
