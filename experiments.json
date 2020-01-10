@@ -7149,6 +7149,21 @@
 			}
 		]
 	},
+	"a16d5c24-5e0b-4c1f-894e-e7bd08d25de4": {
+		"name": "android_mgst_follow_button_revamp_v2",
+		"v": 9055,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"a2303f76-3110-4ccf-93bd-74bd1dceed3b": {
 		"name": "tvapps_androidtv_legacy_recommendations",
 		"v": 8754,
