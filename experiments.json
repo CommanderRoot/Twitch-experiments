@@ -5184,6 +5184,21 @@
 			}
 		]
 	},
+	"72eabfe6-2550-451e-b612-d768ca0521e7": {
+		"name": "android_nonnegative_transitions",
+		"v": 9074,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"72f2dac1-1fa4-48f1-adb2-081bc76cf953": {
 		"name": "ios_disable_manifest_expiration",
 		"v": 3825,
