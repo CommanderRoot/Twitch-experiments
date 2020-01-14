@@ -5186,15 +5186,15 @@
 	},
 	"72eabfe6-2550-451e-b612-d768ca0521e7": {
 		"name": "android_nonnegative_transitions",
-		"v": 9074,
+		"v": 9075,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			}
 		]
