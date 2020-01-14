@@ -1502,15 +1502,15 @@
 	},
 	"25228944-d289-4e19-b34d-44f4d0060467": {
 		"name": "mobile_web_pulsar_pc_v3",
-		"v": 9030,
+		"v": 9072,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
