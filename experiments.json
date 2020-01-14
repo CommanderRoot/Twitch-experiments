@@ -9221,6 +9221,21 @@
 			}
 		]
 	},
+	"cf0c67bd-c2bf-4fea-a124-6b25dab14b65": {
+		"name": "android_mgst_discover_vertical_cards",
+		"v": 9067,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"cfc19aad-6f3c-4d7a-8728-42d136d80f13": {
 		"name": "dart_dota2ti_maineventreminder_holdout",
 		"v": 7720,
