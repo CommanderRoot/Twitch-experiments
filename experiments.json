@@ -5710,7 +5710,7 @@
 	},
 	"8036e036-569d-459b-82df-c049f466f410": {
 		"name": "ios_browse_updates",
-		"v": 8218,
+		"v": 9089,
 		"t": 1,
 		"groups": [
 			{
@@ -5718,15 +5718,15 @@
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "grid"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "banner_image"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "grid_banner_image"
 			}
 		]
