@@ -6018,15 +6018,15 @@
 	},
 	"86e61b21-eeca-4bf0-93e9-e027d23bd537": {
 		"name": "mobile_web_mgst_offline_channel_entry",
-		"v": 7953,
+		"v": 9108,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
