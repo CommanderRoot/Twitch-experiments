@@ -1219,15 +1219,15 @@
 	},
 	"1c909a5a-6018-46b5-bf27-ecf00cf99e44": {
 		"name": "ios_ad_requester_manager",
-		"v": 8800,
+		"v": 9113,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			}
 		]
