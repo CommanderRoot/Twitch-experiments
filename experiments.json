@@ -2520,20 +2520,20 @@
 	},
 	"401c89a0-21cb-4bc7-9186-06023301db99": {
 		"name": "tvapps_tvos_topshelf",
-		"v": 9115,
+		"v": 9117,
 		"t": 1,
-		"s": 2,
+		"s": 3,
 		"groups": [
 			{
 				"weight": 1,
 				"value": "off"
 			},
 			{
-				"weight": 1,
+				"weight": 98,
 				"value": "new_style"
 			},
 			{
-				"weight": 98,
+				"weight": 1,
 				"value": "old_style"
 			}
 		]
