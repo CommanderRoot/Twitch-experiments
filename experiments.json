@@ -6869,7 +6869,7 @@
 	},
 	"99e3c673-866c-47f8-b2da-7c0885db78ee": {
 		"name": "ios_game_broadcasting",
-		"v": 9048,
+		"v": 9120,
 		"t": 1,
 		"groups": [
 			{
@@ -8381,7 +8381,7 @@
 	},
 	"bbd81d40-9d60-4ae8-bba1-861ca09c5086": {
 		"name": "tvapps_androidtv_playercore",
-		"v": 4875,
+		"v": 9123,
 		"t": 1,
 		"groups": [
 			{
@@ -9069,7 +9069,7 @@
 	},
 	"cc43d726-0287-43fa-ade6-0969e6203a10": {
 		"name": "ios_poliwag",
-		"v": 8831,
+		"v": 9124,
 		"t": 1,
 		"groups": [
 			{
@@ -10376,11 +10376,11 @@
 	},
 	"ee876010-0bad-4f76-af63-edb5b8393554": {
 		"name": "ios_dynamic_font",
-		"v": 9112,
+		"v": 9122,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
@@ -10388,7 +10388,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "active_v8.5"
 			}
 		]
