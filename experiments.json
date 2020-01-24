@@ -3909,15 +3909,15 @@
 	},
 	"5a7de183-7540-49ce-9082-d46e8f05b6d7": {
 		"name": "tvapps_firetv_legacy_recommendations",
-		"v": 8755,
+		"v": 9195,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
@@ -7181,15 +7181,15 @@
 	},
 	"a2303f76-3110-4ccf-93bd-74bd1dceed3b": {
 		"name": "tvapps_androidtv_legacy_recommendations",
-		"v": 8754,
+		"v": 9194,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
@@ -8566,15 +8566,15 @@
 	},
 	"c21cac02-2392-4644-84ed-37b2534af5c7": {
 		"name": "tvapps_androidtv_channel_recommendations",
-		"v": 8851,
+		"v": 9193,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
