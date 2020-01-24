@@ -5199,6 +5199,21 @@
 			}
 		]
 	},
+	"7381beb9-d692-464f-9b39-65b7df96a040": {
+		"name": "android_native_pip_default_on",
+		"v": 9200,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "active"
+			},
+			{
+				"weight": 90,
+				"value": "control"
+			}
+		]
+	},
 	"73e0d181-8d03-4456-ba76-c0f04c2b5da3": {
 		"name": "android_animated_bits",
 		"v": 3455,
