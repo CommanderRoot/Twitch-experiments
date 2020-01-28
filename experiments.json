@@ -7376,7 +7376,7 @@
 	},
 	"a7a6e4b0-49ea-419c-95f3-dbd967bdb1f9": {
 		"name": "ios_sub_gifting",
-		"v": 9250,
+		"v": 9253,
 		"t": 1,
 		"groups": [
 			{
@@ -7386,6 +7386,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "prod_enabled"
 			}
 		]
 	},
