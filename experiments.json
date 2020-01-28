@@ -9191,6 +9191,21 @@
 			}
 		]
 	},
+	"cdc6bb89-ea7c-4bb3-a68a-b2c4a819c5c2": {
+		"name": "ios_om_surestream_enabled",
+		"v": 9240,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"ce62423f-4298-4448-bd1c-5421d96f65d6": {
 		"name": "ios_dashboard",
 		"v": 2544,
