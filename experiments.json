@@ -1360,6 +1360,21 @@
 			}
 		]
 	},
+	"20a3c743-f570-442b-a0db-4dad344be426": {
+		"name": "android_ccpa_gdpr",
+		"v": 9241,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
 		"name": "android_chromecast_player_core",
 		"v": 3815,
