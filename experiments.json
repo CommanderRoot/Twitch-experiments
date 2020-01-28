@@ -4264,7 +4264,7 @@
 	},
 	"60a8ed8f-34a0-4802-81a6-ac213cd50cc9": {
 		"name": "android_mgst_160p_low_latency",
-		"v": 8796,
+		"v": 9236,
 		"t": 1,
 		"groups": [
 			{
@@ -5650,15 +5650,15 @@
 	},
 	"7e5b08af-50cf-41c1-ab6c-2d2920b662d5": {
 		"name": "android_mgst_playercore_okhttp",
-		"v": 8779,
+		"v": 9237,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 51,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 49,
 				"value": "active"
 			}
 		]
