@@ -7694,6 +7694,21 @@
 			}
 		]
 	},
+	"ae7811bb-0bf1-42ee-bae0-589e6d692a96": {
+		"name": "android_quick_cheer",
+		"v": 9262,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "alpha"
+			}
+		]
+	},
 	"aed66c3f-fa7f-41a4-aad8-06c063b94920": {
 		"name": "iOS_subtokens_apple_prototype",
 		"v": 7966,
