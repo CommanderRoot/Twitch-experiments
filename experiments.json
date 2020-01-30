@@ -7245,7 +7245,7 @@
 	},
 	"a2303f76-3110-4ccf-93bd-74bd1dceed3b": {
 		"name": "tvapps_androidtv_legacy_recommendations",
-		"v": 9197,
+		"v": 9302,
 		"t": 1,
 		"groups": [
 			{
@@ -7255,6 +7255,10 @@
 			{
 				"weight": 0,
 				"value": "variant"
+			},
+			{
+				"weight": 0,
+				"value": "newrecs"
 			}
 		]
 	},
@@ -8649,7 +8653,7 @@
 	},
 	"c21cac02-2392-4644-84ed-37b2534af5c7": {
 		"name": "tvapps_androidtv_channel_recommendations",
-		"v": 9196,
+		"v": 9303,
 		"t": 1,
 		"groups": [
 			{
@@ -8659,6 +8663,10 @@
 			{
 				"weight": 0,
 				"value": "variant"
+			},
+			{
+				"weight": 0,
+				"value": "newrecs"
 			}
 		]
 	},
