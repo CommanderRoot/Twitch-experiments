@@ -3924,7 +3924,7 @@
 	},
 	"5a7de183-7540-49ce-9082-d46e8f05b6d7": {
 		"name": "tvapps_firetv_legacy_recommendations",
-		"v": 9198,
+		"v": 9297,
 		"t": 1,
 		"groups": [
 			{
@@ -3934,6 +3934,10 @@
 			{
 				"weight": 0,
 				"value": "variant"
+			},
+			{
+				"weight": 0,
+				"value": "newrecs"
 			}
 		]
 	},
