@@ -6459,15 +6459,15 @@
 	},
 	"8f999215-8ab5-4c72-a7d9-e31eaccce1d1": {
 		"name": "ios_new_profile_card",
-		"v": 9023,
+		"v": 9365,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
