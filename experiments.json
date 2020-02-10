@@ -4298,15 +4298,15 @@
 	},
 	"60a8ed8f-34a0-4802-81a6-ac213cd50cc9": {
 		"name": "android_mgst_160p_low_latency",
-		"v": 9236,
+		"v": 9379,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -9791,15 +9791,15 @@
 	},
 	"d998cd15-edd4-4813-8e31-d26b312d6ff8": {
 		"name": "android_mgst_alternate_ewma_abr",
-		"v": 9155,
+		"v": 9380,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 95,
 				"value": "active"
 			}
 		]
