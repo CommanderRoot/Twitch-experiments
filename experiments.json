@@ -8796,15 +8796,15 @@
 	},
 	"c333b571-82e8-4392-b72d-1062c2b35ae1": {
 		"name": "tvapps_xboxone_additional_crash_dump_info",
-		"v": 9152,
+		"v": 9378,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
