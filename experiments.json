@@ -3660,6 +3660,21 @@
 			}
 		]
 	},
+	"54e5dc25-00d2-4ae2-8d4a-bc800d156042": {
+		"name": "ios_ups_readable_colors",
+		"v": 9400,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"54fbc663-b353-4ec9-bffb-ca67a7993706": {
 		"name": "android_process_active_purchases",
 		"v": 7341,
