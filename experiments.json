@@ -5960,6 +5960,21 @@
 			}
 		]
 	},
+	"8425f4db-a135-4da0-a3c0-0cb2e5d0a245": {
+		"name": "android_emote_card",
+		"v": 9401,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"84768cc8-b1f7-4af2-a258-4e0910c0829c": {
 		"name": "stream_summary_notifications_analytics",
 		"v": 4992,
