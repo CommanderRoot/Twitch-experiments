@@ -2004,6 +2004,21 @@
 			}
 		]
 	},
+	"317da15f-5ecf-47be-9055-e73f63fafd71": {
+		"name": "ios_offline_channel_v2",
+		"v": 9427,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"319de98b-995e-49cf-9ea2-d3458dec504a": {
 		"name": "android_mgst_mobile_games_onboarding",
 		"v": 9138,
