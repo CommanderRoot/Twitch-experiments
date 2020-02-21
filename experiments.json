@@ -10789,6 +10789,21 @@
 			}
 		]
 	},
+	"f37983ce-42f3-46e5-b6ac-231a47f00b7d": {
+		"name": "ios_thunderdome",
+		"v": 9452,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"f41d7d52-a2b1-4e0a-89f8-2aba121f996b": {
 		"name": "android_mgst_broadcasting_upsell",
 		"v": 9275,
@@ -11129,6 +11144,21 @@
 			{
 				"weight": 0,
 				"value": "exoplayer_2"
+			}
+		]
+	},
+	"fc539625-ebf2-4c54-88cc-acc2c0886a7c": {
+		"name": "android_thunderdome",
+		"v": 9451,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
