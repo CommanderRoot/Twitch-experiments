@@ -9379,7 +9379,7 @@
 	},
 	"cdc6bb89-ea7c-4bb3-a68a-b2c4a819c5c2": {
 		"name": "ios_om_surestream_enabled",
-		"v": 9240,
+		"v": 9464,
 		"t": 1,
 		"groups": [
 			{
@@ -9388,7 +9388,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_v8.8"
 			}
 		]
 	},
