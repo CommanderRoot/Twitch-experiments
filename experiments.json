@@ -9835,6 +9835,21 @@
 			}
 		]
 	},
+	"d82e3cd2-0481-4287-8d54-129f3913d87d": {
+		"name": "android_offline_channel_page",
+		"v": 9469,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"d87a0cc9-48e6-4a4b-8f2e-2f3082b11cc6": {
 		"name": "android_tnf_drm",
 		"v": 4640,
