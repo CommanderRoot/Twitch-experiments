@@ -6653,6 +6653,21 @@
 			}
 		]
 	},
+	"922769f9-325c-4c79-829e-9f085c791d40": {
+		"name": "mobile_web_charlotte_v3",
+		"v": 9480,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"92431fe1-66e1-4f09-9533-83c8f6c82fbd": {
 		"name": "twilight_bits_button_balance",
 		"v": 4200,
