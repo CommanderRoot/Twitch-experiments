@@ -10549,15 +10549,15 @@
 	},
 	"e949fd56-42a9-4485-a3cf-385d1c7b0749": {
 		"name": "android_mgst_mobile_games_broadcasting",
-		"v": 9445,
+		"v": 9488,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active_8.6"
 			}
 		]
