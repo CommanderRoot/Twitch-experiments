@@ -7789,6 +7789,21 @@
 			}
 		]
 	},
+	"ad1acd21-214a-433b-a28b-6e4c9fd9f6df": {
+		"name": "ios_keep_lights_on",
+		"v": 9495,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"ad39c35b-c6af-4687-b791-9ab408f825ef": {
 		"name": "VOD Thumbnail Previews Rollout",
 		"v": 272,
