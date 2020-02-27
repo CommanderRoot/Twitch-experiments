@@ -7419,15 +7419,15 @@
 	},
 	"a16d5c24-5e0b-4c1f-894e-e7bd08d25de4": {
 		"name": "android_mgst_follow_button_revamp_v2",
-		"v": 9055,
+		"v": 9486,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -9564,15 +9564,15 @@
 	},
 	"cf0c67bd-c2bf-4fea-a124-6b25dab14b65": {
 		"name": "android_mgst_discover_vertical_cards",
-		"v": 9067,
+		"v": 9487,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
