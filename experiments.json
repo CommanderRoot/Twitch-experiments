@@ -1308,6 +1308,21 @@
 			}
 		]
 	},
+	"1d77941b-e677-4747-9b4c-e5d53536533d": {
+		"name": "ios_offline_channel_page",
+		"v": 9494,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"1dc56b20-6d61-4a53-a087-727efafe06d8": {
 		"name": "sunlight_new_user",
 		"v": 6644,
