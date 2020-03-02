@@ -5332,6 +5332,21 @@
 			}
 		]
 	},
+	"72a79210-20ae-4a91-a3bc-6ac43b94016d": {
+		"name": "ios_emote_card",
+		"v": 9518,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"72c14aa9-d78d-4095-8f27-d97b9aac4233": {
 		"name": "TWILIGHT_SUB_CHECKOUT_POPUP",
 		"v": 3022,
