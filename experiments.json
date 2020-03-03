@@ -4096,6 +4096,21 @@
 			}
 		]
 	},
+	"5ba34d44-bc46-4962-8cf6-5ea9f8a28f2a": {
+		"name": "android_global_follow_button_revamp",
+		"v": 9533,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"5bdcd7ae-c35c-4c5a-80b4-72716c3f5612": {
 		"name": "android_disable_core_player_mp4_playback",
 		"v": 3738,
