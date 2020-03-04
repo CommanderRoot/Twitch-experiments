@@ -4098,15 +4098,15 @@
 	},
 	"5ba34d44-bc46-4962-8cf6-5ea9f8a28f2a": {
 		"name": "android_global_follow_button_revamp",
-		"v": 9533,
+		"v": 9545,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 20,
 				"value": "active"
 			}
 		]
