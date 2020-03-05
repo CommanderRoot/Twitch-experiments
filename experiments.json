@@ -6314,6 +6314,21 @@
 			}
 		]
 	},
+	"886ec848-a843-4006-836f-0e83384838d5": {
+		"name": "android_polls_final",
+		"v": 9547,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8896fcd5-cdee-422d-91a9-0b9ce1672eb8": {
 		"name": "ios_pause_video_play_timer_for_autoplay",
 		"v": 8915,
