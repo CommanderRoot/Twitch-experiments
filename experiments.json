@@ -4081,6 +4081,21 @@
 			}
 		]
 	},
+	"5a84c7d1-d298-4bd0-9ef6-8304094481f7": {
+		"name": "android_gdpr_server_side_migration",
+		"v": 9574,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"5a90b2fe-9c3c-4ecc-9a6b-4a266c14a8b4": {
 		"name": "android_drops_2_0",
 		"v": 8868,
