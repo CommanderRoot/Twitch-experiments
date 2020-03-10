@@ -5961,6 +5961,21 @@
 			}
 		]
 	},
+	"7fd1ea7d-82b5-4f9d-88f1-a34bc1c8d097": {
+		"name": "android_ccpa",
+		"v": 9577,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"8036e036-569d-459b-82df-c049f466f410": {
 		"name": "ios_browse_updates",
 		"v": 9179,
