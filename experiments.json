@@ -5362,6 +5362,21 @@
 			}
 		]
 	},
+	"727980ba-c2fc-4d9b-a346-0fb505289210": {
+		"name": "ios_ccpa_enabled",
+		"v": 9591,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"729ce2e7-e410-4755-9875-1fb437191d7c": {
 		"name": "recommended_carousel_backfill",
 		"v": 8973,
