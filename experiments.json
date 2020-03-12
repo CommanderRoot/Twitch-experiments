@@ -5766,6 +5766,21 @@
 			}
 		]
 	},
+	"7abc1144-8984-400c-97a3-12eefc8b7290": {
+		"name": "ios_celebrations_beta",
+		"v": 9588,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"7acc5ae9-484c-4e34-8c2c-c8e573c7351c": {
 		"name": "dart_dota2ti_groupreminder_3_holdout",
 		"v": 7653,
