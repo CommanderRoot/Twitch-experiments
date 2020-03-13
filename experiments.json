@@ -3702,6 +3702,21 @@
 			}
 		]
 	},
+	"52fddb9d-f51c-415c-8329-96eb7f464cbd": {
+		"name": "celebi_experiment",
+		"v": 9599,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment"
+			}
+		]
+	},
 	"533f9d45-9152-45a2-8ec7-dc44d40cce6f": {
 		"name": "ios_moat_3",
 		"v": 926,
