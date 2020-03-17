@@ -10335,6 +10335,21 @@
 			}
 		]
 	},
+	"db5e7866-e8a4-4522-adce-9035cbdb7717": {
+		"name": "ios_ads_identity",
+		"v": 9609,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"db8150ee-b487-4e8c-b691-21579b29effd": {
 		"name": "dads_experiment_user_test",
 		"v": 6210,
