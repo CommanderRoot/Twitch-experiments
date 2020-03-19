@@ -4128,15 +4128,15 @@
 	},
 	"5a90b2fe-9c3c-4ecc-9a6b-4a266c14a8b4": {
 		"name": "android_drops_2_0",
-		"v": 8868,
+		"v": 9618,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
