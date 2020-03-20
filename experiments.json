@@ -1466,6 +1466,21 @@
 			}
 		]
 	},
+	"20e9aae0-b4b6-4d47-b655-92e02da990ff": {
+		"name": "android_global_alternate_ewma_abr",
+		"v": 9625,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "active"
+			}
+		]
+	},
 	"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
 		"name": "android_chromecast_player_core",
 		"v": 3815,
