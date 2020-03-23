@@ -2830,15 +2830,15 @@
 	},
 	"41e640c8-c5ad-4e72-b32f-b3c36d70dbe3": {
 		"name": "ios_chomments_deprecation",
-		"v": 8469,
+		"v": 9634,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
