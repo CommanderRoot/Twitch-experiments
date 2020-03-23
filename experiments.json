@@ -7614,19 +7614,19 @@
 	},
 	"a2303f76-3110-4ccf-93bd-74bd1dceed3b": {
 		"name": "tvapps_androidtv_legacy_recommendations",
-		"v": 9414,
+		"v": 9630,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			},
 			{
-				"weight": 100,
+				"weight": 40,
 				"value": "newrecs"
 			}
 		]
