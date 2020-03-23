@@ -4046,16 +4046,16 @@
 	},
 	"598fcc12-dd8f-4d02-864c-f7a5afa6ca2e": {
 		"name": "sunlight_dashboard",
-		"v": 8315,
+		"v": 9635,
 		"t": 3,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
