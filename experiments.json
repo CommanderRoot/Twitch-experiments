@@ -1046,19 +1046,19 @@
 	},
 	"1829346a-791a-4f59-9a76-411cbd8f96b1": {
 		"name": "android_autoplay_last_one_promise",
-		"v": 9474,
+		"v": 9632,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 40,
 				"value": "exoplayer"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "player_core"
 			}
 		]
