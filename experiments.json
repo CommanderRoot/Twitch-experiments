@@ -4016,15 +4016,15 @@
 	},
 	"58bd0fa5-d564-42d5-a87d-67245379f723": {
 		"name": "ios_drops_2_0",
-		"v": 9606,
+		"v": 9633,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v8.8"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
