@@ -11295,16 +11295,16 @@
 	},
 	"f5958624-79f2-4738-919e-16843161e815": {
 		"name": "ios_remove_pause_when_setting_content_url",
-		"v": 9637,
+		"v": 9641,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "control"
+				"value": "pause"
 			},
 			{
 				"weight": 100,
-				"value": "active"
+				"value": "dont_pause"
 			}
 		]
 	},
