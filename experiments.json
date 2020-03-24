@@ -5671,6 +5671,21 @@
 			}
 		]
 	},
+	"783169cf-e5a2-45b5-9754-b80c9878a62f": {
+		"name": "ios_privacy_consent_show_vendors",
+		"v": 9645,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"784edc9a-06c1-4b4a-98cd-b55458dea164": {
 		"name": "ios_gdpr_user_consent_kill_switch",
 		"v": 4125,
