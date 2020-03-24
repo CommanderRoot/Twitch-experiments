@@ -6614,6 +6614,21 @@
 			}
 		]
 	},
+	"8bc8de38-443a-45e8-83f6-a430e609ab8b": {
+		"name": "MgstAbrBandwidthUsageFactor",
+		"v": 9642,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"8c4ecbde-bac4-4b30-a943-b8dacbedbbaf": {
 		"name": "dart_CPVIEW_holdout",
 		"v": 8923,
