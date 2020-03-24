@@ -7514,6 +7514,21 @@
 			}
 		]
 	},
+	"9df32fd0-9370-4a54-b7f1-11831da9d17d": {
+		"name": "android_mgst_playercore_default_buffer_options",
+		"v": 9651,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"9df89947-d819-4ed5-b3ab-72c7073b8451": {
 		"name": "ios_oauth_refresh_7_0",
 		"v": 9175,
@@ -9040,6 +9055,21 @@
 			{
 				"weight": 0,
 				"value": "no-keyboard-suggester"
+			}
+		]
+	},
+	"c10fa5f2-c9a8-479d-a8aa-efec7a7e9473": {
+		"name": "android_mgst_playercore_bandwith_usage_factor",
+		"v": 9650,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
 			}
 		]
 	},
