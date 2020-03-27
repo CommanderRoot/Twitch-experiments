@@ -6264,7 +6264,7 @@
 	},
 	"8425f4db-a135-4da0-a3c0-0cb2e5d0a245": {
 		"name": "android_emote_card",
-		"v": 9685,
+		"v": 9687,
 		"t": 1,
 		"groups": [
 			{
@@ -6277,7 +6277,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "prod_enabled"
+				"value": "active_8.9"
 			}
 		]
 	},
@@ -10812,7 +10812,7 @@
 	},
 	"e64fec06-e82c-4456-a0d0-02b9ee7b0a9b": {
 		"name": "android_celebrations_beta",
-		"v": 9674,
+		"v": 9688,
 		"t": 1,
 		"groups": [
 			{
@@ -10822,10 +10822,6 @@
 			{
 				"weight": 0,
 				"value": "active_8.9"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
