@@ -5443,7 +5443,7 @@
 	},
 	"72a79210-20ae-4a91-a3bc-6ac43b94016d": {
 		"name": "ios_emote_card",
-		"v": 9518,
+		"v": 9684,
 		"t": 1,
 		"groups": [
 			{
@@ -5453,6 +5453,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "prod_enabled"
 			}
 		]
 	},
