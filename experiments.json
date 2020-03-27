@@ -2021,15 +2021,15 @@
 	},
 	"2cfb6748-b8d9-4e2c-85c3-7c39ea51e37c": {
 		"name": "android_braavos",
-		"v": 9439,
+		"v": 9680,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -5675,21 +5675,6 @@
 			}
 		]
 	},
-	"783169cf-e5a2-45b5-9754-b80c9878a62f": {
-		"name": "ios_privacy_consent_show_vendors",
-		"v": 9645,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"784edc9a-06c1-4b4a-98cd-b55458dea164": {
 		"name": "ios_gdpr_user_consent_kill_switch",
 		"v": 4125,
@@ -6230,15 +6215,15 @@
 	},
 	"8230b88c-6367-4718-bd52-14fdce34e776": {
 		"name": "ios_braavos",
-		"v": 9440,
+		"v": 9681,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "active"
 			}
 		]
