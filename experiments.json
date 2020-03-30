@@ -126,15 +126,15 @@
 	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
-		"v": 9686,
+		"v": 9698,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy-sso"
 			},
 			{
