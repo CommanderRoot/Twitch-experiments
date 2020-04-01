@@ -2553,6 +2553,21 @@
 			}
 		]
 	},
+	"3cd10884-3eb5-4238-bbef-c85e74a937b7": {
+		"name": "mobile_web_mgst_auto_deeplink",
+		"v": 9719,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"3e00e6a3-77d3-41ab-a587-9618050a519a": {
 		"name": "onaffiliate_twitch_prime_extension_staging",
 		"v": 5081,
