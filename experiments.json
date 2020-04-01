@@ -7359,15 +7359,15 @@
 	},
 	"99e3c673-866c-47f8-b2da-7c0885db78ee": {
 		"name": "ios_game_broadcasting",
-		"v": 9560,
+		"v": 9724,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "enabled"
 			},
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "disabled"
 			}
 		]
