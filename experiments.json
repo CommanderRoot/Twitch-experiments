@@ -11621,6 +11621,21 @@
 			}
 		]
 	},
+	"fb1f9e8f-b689-4c3d-9f8d-5aa055e53dc5": {
+		"name": "community-gifting-recommendation-v2.5",
+		"v": 9720,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "new"
+			}
+		]
+	},
 	"fb928169-dc33-4495-8443-2f746da951d9": {
 		"name": "dart_ff_world_series_finals_logged_in_11_19_holdout",
 		"v": 8678,
