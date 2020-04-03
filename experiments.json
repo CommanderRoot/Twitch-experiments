@@ -3717,6 +3717,21 @@
 			}
 		]
 	},
+	"51a58423-d938-46fe-a2d5-d98f560c0b69": {
+		"name": "tvapps_firetv_httpservice",
+		"v": 9740,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "okhttp3"
+			},
+			{
+				"weight": 10,
+				"value": "java"
+			}
+		]
+	},
 	"526f0b70-d918-49dc-847b-0285757c36d0": {
 		"name": "dart_PUBG1124P_holdout",
 		"v": 8736,
