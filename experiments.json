@@ -7206,6 +7206,21 @@
 			}
 		]
 	},
+	"9770ba9d-2c51-42c7-a5a0-e7d681c2e6c3": {
+		"name": "following-test-1",
+		"v": 9742,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "variant"
+			}
+		]
+	},
 	"97da7a09-3dc7-483c-9087-608e35ba2cbf": {
 		"name": "android_extensions",
 		"v": 2685,
