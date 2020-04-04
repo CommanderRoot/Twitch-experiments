@@ -3489,12 +3489,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 9731,
+		"v": 9744,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-baf673.pdx01.abs.hls.ttvnw.net/v1/segment/CiGjlvWRG4W12uEyO0mVhdf4eN0jY3_1bsFVgPzN6fNynPUtGZ4QMdnw_A2VpqLdkhrK6L-G7_49IXX_77-ncWewjNfvpE16gpu96R_gYIJUATAMn-G2pa6pSSDB0TxBCPW-5g000RG0r93E5Scvf1BuCLFT7Obd88FhrIbHnZM_hCTLxVb2c2oEgZGbhzJT6wDHW4GI1bAva89tjkfY16A4BMtCYi1avwOTjqkeS4t22wh0tRpNmGPgpHwrFayRvrvAmQzXwBbd-7OuQt2XZk9VEk76rURV1yxJ9ynEKrticsF6SRQNqBHwOwlaKLIgRbIl53SvHCZr5cMW90YpRI1_uQVPKueA9by3j0PNY6T3DXqQVJWTshEj5_GgRnkluh1CncJlDtXwtxf5OfaM9DMzv9ixWajW1AkdvST7CDppBDRyZwzYJO7swXNf4j-cRT2blDFu-qo9vzBKC-x8fd48yNy5KepkWDXLpV-H4zGuBcLes_9OKe_MtZaU7XoT2IhbjQSaNklWuWi8BfHxigr1aiguKEPp4b0ak17ury5ptBSRFoRasodFLpOwBh1e1ubA5rRe_RLKTPloOtLF3BWBMvMJMViXxYS8QuR2COrsCU-_S-PCgqJokSkcvKA7wF8QXdZzkCXsJsuCWS_UfinZFIybIGQsZr0KMpQ-UHijC2RBQeiLJppfyOhozcaHiRUysSxh4KxO1pX15_OI47U3MtisnrQRedBHavYCJZxIhopE_1XcbQLJOgpJdXwdV7hI8tLLVY7m9P2XaHVH4iSF6cgm.ts"
+				"value": "//video-edge-d471cd.pdx01.abs.hls.ttvnw.net/v1/segment/CgpR0IkwMnCAOv1dj3vqYvGWEJdNuvEoH_dkKQwvtEzzQv1hd1AON5Qo_gYuEyDuYWGD1IDEtGgtpSNcSJKuvcZ_miAr4f4DBSZk0R2EAYvWGhYPqSKiIhWt0SV6B2SdMc6nwDI1-BDI-95lb3guwLCScBWD76sFE_IpRhYWNKRlOOqjXlcTjtt4kRJKUpmTcpxPJiYgyJUNN7PlNyFvAm-t5lhUpz-_OQ9Rgh__XHAF1y1-PxoM7_Q-WvGwswqqqgS87sHwcObKwfgfXG2v-GkO4ZS2pzlMLpn3zhg6NEd57hx90isj_IzxsGUXWy5GpCB4fxSffnmM1H2g8jkZM4GyR1G1TQ2DEBjGcDMX1o6WSJUFJ9p-mjNjDHmMCBsZSdPRtYseqoQxG7Q27y2KNKO12v2EFZTBIbiRewKtQuT26ziYTxEw26TvCvDzTfql1vmdowS7CmbFKWo5NYoOk0R1KNe07wwjqQ7RetCvvQOdRrTDlfuAFUqsWEhOdFOqXoVEvTTvlrllWANcYUGLuQJoeYdOVY9U4e-IdwNyhEO9BQRzoYXE8gAlq9_2JdwtG0Hfc2QVjqXC4-HIyDgT2wF75SD9qRTJQVLQqHvx1emm_qIBm9vYg9c7_As8zFsGmev-soWc-yuNZEvMtm0kf1sobFlpArMDmR40I-xQZgTvwyQE4QGNlSjBYWkn299RLGdT8A6v4IARB-1xgYG6g6dyCut16Ll8nUbLrVGbXXwIMxQ4dAXQl.ts"
 			}
 		]
 	},
@@ -10393,6 +10393,21 @@
 			{
 				"weight": 50,
 				"value": "experiment"
+			}
+		]
+	},
+	"d97b6b6f-5f4f-4655-b212-0bb21c2bcec9": {
+		"name": "ios_use_new_copy_for_legacy_gdpr",
+		"v": 9743,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
