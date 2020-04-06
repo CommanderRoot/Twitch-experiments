@@ -7981,6 +7981,33 @@
 			}
 		]
 	},
+	"a97e4052-8eea-4852-8c0b-09a5be390982": {
+		"name": "pur_rep_realtime",
+		"v": 9747,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 0,
+				"value": "treatment_v2"
+			},
+			{
+				"weight": 0,
+				"value": "treatment_realtime"
+			},
+			{
+				"weight": 0,
+				"value": "treatment_v1_realtime_combo"
+			}
+		]
+	},
 	"aa3f6646-3239-465d-a3ce-d65e120764c3": {
 		"name": "android_broadcaster_dashboard",
 		"v": 6360,
