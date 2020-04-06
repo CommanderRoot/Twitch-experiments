@@ -9411,19 +9411,19 @@
 	},
 	"c4cdad96-d445-4280-ad76-77e56a1dfb76": {
 		"name": "android_notification_opt_in",
-		"v": 7818,
+		"v": 9754,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "prompt"
 			},
 			{
-				"weight": 30,
+				"weight": 100,
 				"value": "auto-in"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "auto-out"
 			}
 		]
@@ -11703,15 +11703,15 @@
 	},
 	"fb1f9e8f-b689-4c3d-9f8d-5aa055e53dc5": {
 		"name": "community-gifting-recommendation-v2.5",
-		"v": 9730,
+		"v": 9755,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "new"
 			}
 		]
