@@ -9005,6 +9005,21 @@
 			}
 		]
 	},
+	"bb0a266a-39a7-4b40-82c3-24ff8801b7eb": {
+		"name": "tvapps_androidtv_httpservice",
+		"v": 9759,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "okhttp3"
+			},
+			{
+				"weight": 10,
+				"value": "java"
+			}
+		]
+	},
 	"bb2d1459-65c5-49df-a5a0-b1c76ff23a85": {
 		"name": "ios_chromecast_control_center",
 		"v": 4034,
