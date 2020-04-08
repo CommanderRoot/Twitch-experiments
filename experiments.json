@@ -2437,6 +2437,21 @@
 			}
 		]
 	},
+	"383ae8ec-2ed1-464e-8ff2-c67c981e077a": {
+		"name": "tvapps_xboxone_feature_tags",
+		"v": 9777,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"39c569b7-c58e-47c7-b975-7af0d2bcb31e": {
 		"name": "android_ima_om",
 		"v": 7295,
