@@ -3869,15 +3869,15 @@
 	},
 	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
 		"name": "live_qos_model",
-		"v": 9668,
+		"v": 9770,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "sticky_v2"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "qos_v6_exp"
 			}
 		]
