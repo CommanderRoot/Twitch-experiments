@@ -4465,6 +4465,21 @@
 			}
 		]
 	},
+	"5eadbb1e-f7d1-4426-b8b3-1708744c5472": {
+		"name": "tvapps_androidtv_feature_tags",
+		"v": 9782,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"5ebec6bf-b492-4ce2-a6b7-153bddbf3640": {
 		"name": "android_branch_io_2",
 		"v": 9143,
@@ -5622,6 +5637,21 @@
 			{
 				"weight": 90,
 				"value": "control"
+			}
+		]
+	},
+	"73a66c0d-d572-4b27-b3a0-2ee551bc65e9": {
+		"name": "tvapps_tvos_feature_tags",
+		"v": 9784,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
 			}
 		]
 	},
@@ -8979,6 +9009,21 @@
 			}
 		]
 	},
+	"ba0614e4-88d2-4279-8e82-57cd07b248c7": {
+		"name": "tvapps_ps4_feature_tags",
+		"v": 9781,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"ba438689-4e40-47fa-99e7-4bbee13c2f84": {
 		"name": "vaes_rollout_FR",
 		"v": 7684,
@@ -11022,6 +11067,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"e5cde01d-274d-4759-8552-d3aee714bbec": {
+		"name": "tvapps_firetv_feature_tags",
+		"v": 9783,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
 			}
 		]
 	},
