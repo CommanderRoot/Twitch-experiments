@@ -8844,6 +8844,21 @@
 			}
 		]
 	},
+	"b7a96629-46ee-4746-9063-973707fd8af3": {
+		"name": "android_mgst_broadcast_onboarding",
+		"v": 9774,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"b7d320bf-c137-4c2d-b374-ea9fa20e3bd9": {
 		"name": "CHANNEL_CHAT_CTA",
 		"v": 1287,
