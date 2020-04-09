@@ -1214,6 +1214,21 @@
 			}
 		]
 	},
+	"1abd6e2c-c0c8-4656-8bb6-8d37f009c7c6": {
+		"name": "ios_ad_requester_manager_squad_streams",
+		"v": 9801,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"1b5d8be5-6c20-4eec-99a1-832cede6b3dd": {
 		"name": "android_vaes_sdk_752",
 		"v": 5913,
