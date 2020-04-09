@@ -1434,15 +1434,15 @@
 	},
 	"1f2080d2-cd10-4712-9a7c-11a67c562f69": {
 		"name": "following-service-count-rollout",
-		"v": 9756,
+		"v": 9794,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
