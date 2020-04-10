@@ -6002,15 +6002,15 @@
 	},
 	"7abc1144-8984-400c-97a3-12eefc8b7290": {
 		"name": "ios_celebrations_beta",
-		"v": 9588,
+		"v": 9814,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -11119,11 +11119,11 @@
 	},
 	"e64fec06-e82c-4456-a0d0-02b9ee7b0a9b": {
 		"name": "android_celebrations_beta",
-		"v": 9769,
+		"v": 9813,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -11131,7 +11131,7 @@
 				"value": "active_8.9"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_8.9.1"
 			}
 		]
