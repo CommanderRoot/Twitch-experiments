@@ -1656,12 +1656,16 @@
 	},
 	"24a9fd71-71a6-4d1a-890a-9c61a6475f7e": {
 		"name": "flix_promoter_rollout",
-		"v": 9789,
+		"v": 9802,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "variant0"
 			}
 		]
 	},
