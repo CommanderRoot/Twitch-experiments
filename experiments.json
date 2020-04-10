@@ -6430,11 +6430,11 @@
 	},
 	"8425f4db-a135-4da0-a3c0-0cb2e5d0a245": {
 		"name": "android_emote_card",
-		"v": 9795,
+		"v": 9808,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -6442,7 +6442,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_8.9"
 			}
 		]
