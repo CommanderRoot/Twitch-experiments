@@ -3985,6 +3985,21 @@
 			}
 		]
 	},
+	"54f7366f-b9a0-4ce8-a228-6c9dff6fef4e": {
+		"name": "dart_AP01_2020.04.10_FollowFridays_Notifications_holdout",
+		"v": 9815,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"54fbc663-b353-4ec9-bffb-ca67a7993706": {
 		"name": "android_process_active_purchases",
 		"v": 7341,
