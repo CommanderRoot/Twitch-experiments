@@ -5686,6 +5686,25 @@
 			}
 		]
 	},
+	"73a3d666-c0cc-4eb1-8ba9-98a6b134825b": {
+		"name": "android_mgst_ingest_test_interval",
+		"v": 9836,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 25,
+				"value": "daily"
+			},
+			{
+				"weight": 0,
+				"value": "weekly"
+			}
+		]
+	},
 	"73a66c0d-d572-4b27-b3a0-2ee551bc65e9": {
 		"name": "tvapps_tvos_feature_tags",
 		"v": 9784,
