@@ -2191,8 +2191,8 @@
 		]
 	},
 	"315d45d5-d4ca-47fc-b29e-d832978d8032": {
-		"name": "tvapps_prospero_feature_tags",
-		"v": 9841,
+		"name": "tvapps_viridian_feature_tags",
+		"v": 9842,
 		"t": 1,
 		"groups": [
 			{
@@ -11958,6 +11958,21 @@
 			{
 				"weight": 50,
 				"value": "thank_first"
+			}
+		]
+	},
+	"fbeb06ec-2ecc-4a5f-80ec-0a307272b4b6": {
+		"name": "tvapps_viridian_player_native",
+		"v": 9843,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
