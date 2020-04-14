@@ -696,6 +696,21 @@
 			}
 		]
 	},
+	"10be999b-6dc1-46f6-a31d-759af02510c9": {
+		"name": "emote_good_standing",
+		"v": 9845,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "on"
+			},
+			{
+				"weight": 100,
+				"value": "off"
+			}
+		]
+	},
 	"10c75b60-f4c7-460b-99c8-e5caa22fd61f": {
 		"name": "twilight_web_side_nav_upsell_center",
 		"v": 4183,
@@ -8138,7 +8153,7 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 9835,
+		"v": 9846,
 		"t": 2,
 		"s": 3,
 		"groups": [
@@ -8147,7 +8162,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 90,
 				"value": "treatment"
 			},
 			{
@@ -8155,11 +8170,11 @@
 				"value": "treatment_v2"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "treatment_realtime"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "treatment_v1_realtime_combo"
 			}
 		]
