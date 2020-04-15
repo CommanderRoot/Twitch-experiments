@@ -7978,21 +7978,6 @@
 			}
 		]
 	},
-	"a41d576d-cd9d-49f7-8e59-9ea49e8a803d": {
-		"name": "twilight_use_kite_ss",
-		"v": 9851,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "yes"
-			},
-			{
-				"weight": 100,
-				"value": "no"
-			}
-		]
-	},
 	"a51bc8be-9cad-477b-b084-83931bb04413": {
 		"name": "ad_countdown_timers_surestream",
 		"v": 6237,
@@ -10754,6 +10739,21 @@
 			}
 		]
 	},
+	"db024908-d3f7-42a4-ad15-433ab9bf9484": {
+		"name": "twilight_stream_summary_use_kite",
+		"v": 9856,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "yes"
+			},
+			{
+				"weight": 100,
+				"value": "no"
+			}
+		]
+	},
 	"db5e7866-e8a4-4522-adce-9035cbdb7717": {
 		"name": "ios_ads_identity",
 		"v": 9609,
@@ -11534,7 +11534,7 @@
 	},
 	"f097a48e-5e38-4274-b170-b4f244c72760": {
 		"name": "twilight_use_kite",
-		"v": 9850,
+		"v": 9857,
 		"t": 3,
 		"groups": [
 			{
