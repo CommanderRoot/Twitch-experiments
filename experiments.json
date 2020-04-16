@@ -6971,15 +6971,15 @@
 	},
 	"8db2fa80-a33d-4826-93bc-375a776fbfea": {
 		"name": "android_readable_chat_color",
-		"v": 9871,
+		"v": 9873,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
