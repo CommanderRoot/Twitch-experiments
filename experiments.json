@@ -5404,6 +5404,21 @@
 			}
 		]
 	},
+	"6e4680aa-4dbc-462f-8ff9-03455570aa2b": {
+		"name": "ios_allow_play_pause_on_stream",
+		"v": 9864,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"6f3239de-c99d-437b-b6dc-344d9960b821": {
 		"name": "android_prowse",
 		"v": 7836,
