@@ -5419,6 +5419,29 @@
 			}
 		]
 	},
+	"6eaf8833-64d1-41d0-942b-8ccd12561b88": {
+		"name": "android_live_window_segments",
+		"v": 9868,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 85,
+				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "treatment_2"
+			},
+			{
+				"weight": 5,
+				"value": "treatment_3"
+			},
+			{
+				"weight": 5,
+				"value": "treatment_4"
+			}
+		]
+	},
 	"6f3239de-c99d-437b-b6dc-344d9960b821": {
 		"name": "android_prowse",
 		"v": 7836,
