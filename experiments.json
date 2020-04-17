@@ -283,6 +283,21 @@
 			}
 		]
 	},
+	"064a1feb-44d0-4d00-b8cd-71620493817b": {
+		"name": "dart_ap_follow_fridays_notification_holdout",
+		"v": 9881,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"069be213-3e0e-49af-83fc-70dc82277146": {
 		"name": "android_mgst_profile_image_upload",
 		"v": 8957,
