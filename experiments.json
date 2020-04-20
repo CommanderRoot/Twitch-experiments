@@ -3975,15 +3975,15 @@
 	},
 	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
 		"name": "live_qos_model",
-		"v": 9770,
+		"v": 9916,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "sticky_v2"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "qos_v6_exp"
 			}
 		]
@@ -4231,15 +4231,15 @@
 	},
 	"58bd0fa5-d564-42d5-a87d-67245379f723": {
 		"name": "ios_drops_2_0",
-		"v": 9633,
+		"v": 9915,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "active_v8.8"
+				"weight": 100,
+				"value": "active_v8.9.1"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
