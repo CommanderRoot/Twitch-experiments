@@ -9085,15 +9085,15 @@
 	},
 	"b7a96629-46ee-4746-9063-973707fd8af3": {
 		"name": "android_mgst_broadcast_onboarding",
-		"v": 9775,
+		"v": 9919,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
