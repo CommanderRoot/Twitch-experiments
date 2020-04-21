@@ -12125,15 +12125,15 @@
 	},
 	"fc539625-ebf2-4c54-88cc-acc2c0886a7c": {
 		"name": "android_thunderdome",
-		"v": 9922,
+		"v": 9923,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_9.0"
 			}
 		]
