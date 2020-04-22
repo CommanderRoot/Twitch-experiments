@@ -2237,15 +2237,15 @@
 	},
 	"317da15f-5ecf-47be-9055-e73f63fafd71": {
 		"name": "ios_offline_channel_v2",
-		"v": 9912,
+		"v": 9953,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -10914,15 +10914,15 @@
 	},
 	"db024908-d3f7-42a4-ad15-433ab9bf9484": {
 		"name": "twilight_stream_summary_use_kite",
-		"v": 9948,
+		"v": 9952,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 75,
 				"value": "yes"
 			},
 			{
-				"weight": 75,
+				"weight": 25,
 				"value": "no"
 			}
 		]
@@ -11797,15 +11797,15 @@
 	},
 	"f37983ce-42f3-46e5-b6ac-231a47f00b7d": {
 		"name": "ios_thunderdome",
-		"v": 9934,
+		"v": 9951,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 0,
 				"value": "active"
 			}
 		]
