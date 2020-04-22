@@ -5932,6 +5932,21 @@
 			}
 		]
 	},
+	"755ae2ed-7381-4e0e-841e-a42f34d9d540": {
+		"name": "android_example_experiment",
+		"v": 9949,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active "
+			}
+		]
+	},
 	"7582bc5a-db43-4579-a0e6-6c8fd79a41ba": {
 		"name": "android_first_time_chatter_prompt",
 		"v": 2768,
@@ -6159,6 +6174,21 @@
 			{
 				"weight": 100,
 				"value": "enabled"
+			}
+		]
+	},
+	"7ab4ae61-1615-465e-920d-30cad2579d12": {
+		"name": "android_example_experiment",
+		"v": 9950,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
 			}
 		]
 	},
