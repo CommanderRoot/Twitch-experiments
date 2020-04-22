@@ -7704,6 +7704,21 @@
 			}
 		]
 	},
+	"9aaa4575-3524-424c-961c-dc877d073a05": {
+		"name": "mobile_web_native_interstitial",
+		"v": 9940,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"9ab05b0c-4e16-49dd-91ab-473ad0fa00ff": {
 		"name": "tvapps_ps4_additional_crash_dump_info",
 		"v": 9369,
