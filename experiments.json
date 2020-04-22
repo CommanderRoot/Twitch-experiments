@@ -5962,6 +5962,21 @@
 			}
 		]
 	},
+	"762f9b46-da7e-48bf-8c1e-83dcd81341b4": {
+		"name": "dart_celebrations_reminder_holdout",
+		"v": 9945,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
+				"value": "allowed"
+			}
+		]
+	},
 	"77694bf2-b690-46c7-8b6c-624ef477a53a": {
 		"name": "android_autoplay_disable",
 		"v": 9150,
@@ -9836,15 +9851,15 @@
 	},
 	"c5e324a3-7acf-4f92-8c44-2cc24b72097e": {
 		"name": "ios_ez_mod_bottomsheet",
-		"v": 9615,
+		"v": 9944,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
