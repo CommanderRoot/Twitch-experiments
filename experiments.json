@@ -10884,15 +10884,15 @@
 	},
 	"db024908-d3f7-42a4-ad15-433ab9bf9484": {
 		"name": "twilight_stream_summary_use_kite",
-		"v": 9946,
+		"v": 9948,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "yes"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "no"
 			}
 		]
