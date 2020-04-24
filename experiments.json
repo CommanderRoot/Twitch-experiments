@@ -67,6 +67,25 @@
 			}
 		]
 	},
+	"01991538-1ad4-4fee-bae2-38245b3dbc8c": {
+		"name": "dart_nobru_has_arrived_inactive_push",
+		"v": 9981,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
+			}
+		]
+	},
 	"022cf7ca-3dcc-4a29-b2ee-c220ada8bc2e": {
 		"name": "ios_new_followed_screen",
 		"v": 4276,
@@ -3329,6 +3348,25 @@
 			}
 		]
 	},
+	"475c3333-1bfa-4191-ab43-5577d5bb4df8": {
+		"name": "dart_nobru_has_arrived_notification_active_notifs_off_push",
+		"v": 9982,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
+			}
+		]
+	},
 	"4767a77b-66e5-41ac-8adb-2d2773536aff": {
 		"name": "tvapps_firetv_player_native",
 		"v": 9130,
@@ -4256,6 +4294,21 @@
 			{
 				"weight": 50,
 				"value": "control"
+			}
+		]
+	},
+	"59367bd9-a62d-491f-8fca-f0e9618a52cf": {
+		"name": "dart_nobru_has_arrived_notification_active_notifs_off_holdout",
+		"v": 9980,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
@@ -11406,6 +11459,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"e8126944-c0a4-44e2-9ff2-15dcb645d6ee": {
+		"name": "dart_nobru_has_arrived_inactive_holdout",
+		"v": 9979,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
