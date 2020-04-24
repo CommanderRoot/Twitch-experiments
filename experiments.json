@@ -1686,16 +1686,16 @@
 	},
 	"24a9fd71-71a6-4d1a-890a-9c61a6475f7e": {
 		"name": "flix_promoter_rollout",
-		"v": 9962,
+		"v": 9970,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "variant0"
 			}
 		]
@@ -3610,12 +3610,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 9955,
+		"v": 9971,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-84087e.pdx01.abs.hls.ttvnw.net/v1/segment/Cvdwfbt9Rkov1SSAf-w_elmYAvPuyGnuqsf0tkf8qiPNsJejy7MfzmPLm1alilrMpBb76TlVAJcxc-9xiNIxo--WvJjDcLl9Fb5hdhjDzL_9oHcA5EPiNwEovLLZzd6nsqXcHDldD6WKtXvkjM5AcPrMeL6h3dUO87h6OIHwzRI-X6WH_EbUr63CYVqI2HNLujeRb3J_-KD3XZWnPYkJIstYqhYkHIxRFyvXwwEIxgKmoE-w3mdaDxn5vjBVh9qhWFn0OGmKYFOmAcpalGWXQ90tdLDKES9Fz4x_wCFLNd9cgSeIUQeoprZnbwUOl16z4Xqs2qy8ZSCF_E5aUGzJ-io4oKh_iFovAzvI2C75sYDpg-2amfl4i_Nv1mLlwRVP_Tpa5FyHDuhX5sMewoQCCIRwJRV0RE-sKe_IN1RlVIR_9ijZULxdbdFipEOsYBKUQruqc-_idl4yawcv49AyoN7xNH_DSHju8LL5OGOgD6fvnq7Y3VuZrXqwlQsh2QdiBA8GA1i1e92tkv-dP5_jjCI1UsuxQVNXJBo_yG11tjZT8JRys__MzUzR7ZWczoRNUP475lSkyB0I_2uLkTtinuxYBM8lxC-cXypiSMn6iLLfxGafPs34vW1xWiZ-AnVcC-nYu0nIE1WXKzBZhhdV7s8l-MrSrCa3TLtZgk2aHBkVvnHMm7VqhnP3GQ02lQqv-k_pmlAUV7pL2VGBEa0xozM7SBe-GG-r7-dLVIkREZP1QnZG1-olmD32G.ts"
+				"value": "//video-edge-70e4bd.pdx01.abs.hls.ttvnw.net/v1/segment/Cs1qC_ogMtjpM2L28t6CT42MDvT99pI08cN9JrMDOmfPVYqBlhlZP7zoGkMXIdLYcI_RJEq-YvqDItJ9Uwizxm3RGK4s3BrBi4AuIvFXl5xU4rUpXrf7Ab_R5mHaE5fExW6IFrvQz0ZLpWmRUHKGPVlM57CHqOzjZb0Pz8V5ESiXji7paYI4inO7veKDmtNnPy8roUDtwYjd_XiOXODy85rwQBFrhuBGbxk1F9do579NKMG21JlNC4Q52lR13tKvG7U1jwd_OlFM4xjTVb3KuSYrXkLmlnuyyCV5fbNce8ul91Lc_dvdwLqvjavEi06qGQNxCxUKe4ViU_zncSPI3jMPm2SQuVNOT19UHr2sUW87Kk351luU145I-RGqn36mPG_smFqE4pjZ338RfE_tmbsCzclBVo7jlkgQiBOvuS39cFY83MZOSfKJc_Vg_V2L0IK3HtgOCpxwWpVXIYKPgeegeJavn9ArzsVRQ1Cl465qrxOWutFMWZUXEK_lkSV1T5dnQOSuSO0yhFu8Og10yKLfp4bKnkVBOurFn88JHZSEV1vrrIqI-X7ijbcrnXHQg9zkCRh5z1EQqNqMFQWEpbr4ctKmf1qZdNq-_lgGqHlZQDabSwTLeR-vMzG9dt6GZEvA1oT9nkyOnuVg6y4EXlDkk-1YJEb3aJ2v1960Nk3Xa6wBUz2y8jaonRjqcEK8ivXQYyirhT3eTj4RuaqjEuUwJSJEu-85rlTcYrQ4yqLCQzZ-NnFLs93RYCGAaE9.ts"
 			}
 		]
 	},
