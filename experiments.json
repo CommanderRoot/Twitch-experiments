@@ -5805,11 +5805,11 @@
 	},
 	"72a79210-20ae-4a91-a3bc-6ac43b94016d": {
 		"name": "ios_emote_card",
-		"v": 9684,
+		"v": 9996,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -5817,7 +5817,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "prod_enabled"
 			}
 		]
@@ -7849,15 +7849,15 @@
 	},
 	"9ab05b0c-4e16-49dd-91ab-473ad0fa00ff": {
 		"name": "tvapps_ps4_additional_crash_dump_info",
-		"v": 9369,
+		"v": 9995,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -10798,15 +10798,15 @@
 	},
 	"d82e3cd2-0481-4287-8d54-129f3913d87d": {
 		"name": "android_offline_channel_page",
-		"v": 9986,
+		"v": 9994,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			}
 		]
