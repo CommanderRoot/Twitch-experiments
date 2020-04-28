@@ -10220,19 +10220,19 @@
 	},
 	"cc303f3b-6062-4491-bf3a-7599e676b3ed": {
 		"name": "subs_benefit_reminder",
-		"v": 9559,
+		"v": 10016,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "variant_a"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "variant_b"
 			}
 		]
