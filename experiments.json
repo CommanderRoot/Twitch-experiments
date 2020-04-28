@@ -8095,6 +8095,21 @@
 			}
 		]
 	},
+	"9ecb70d9-9f52-464b-9af6-d6a89489a1b2": {
+		"name": "android_mgst_player_ptb",
+		"v": 10018,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"9edf91e6-0499-49f2-b171-30f85573bf5a": {
 		"name": "TWILIGHT_VOD_TOP_SHELF",
 		"v": 9037,
@@ -9605,21 +9620,6 @@
 			},
 			{
 				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
-	"c0b39e16-c992-4abf-b555-dc94f7d2325d": {
-		"name": "android_mgst_playercore_abr_parallel_probe",
-		"v": 10001,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
 				"value": "active"
 			}
 		]
