@@ -8674,11 +8674,11 @@
 	},
 	"ae7811bb-0bf1-42ee-bae0-589e6d692a96": {
 		"name": "android_quick_cheer",
-		"v": 9463,
+		"v": 10006,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -8686,7 +8686,7 @@
 				"value": "alpha"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active"
 			}
 		]
