@@ -1265,15 +1265,15 @@
 	},
 	"1abd6e2c-c0c8-4656-8bb6-8d37f009c7c6": {
 		"name": "ios_ad_requester_manager_squad_streams",
-		"v": 9880,
+		"v": 10011,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_v9.0"
 			}
 		]
@@ -3923,7 +3923,7 @@
 	},
 	"52a53731-c827-49df-8ccb-40c51407f932": {
 		"name": "ios_use_privacy_consent",
-		"v": 8496,
+		"v": 10009,
 		"t": 1,
 		"groups": [
 			{
@@ -3933,6 +3933,10 @@
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v9.1"
 			}
 		]
 	},
@@ -10903,7 +10907,7 @@
 	},
 	"d97b6b6f-5f4f-4655-b212-0bb21c2bcec9": {
 		"name": "ios_use_new_copy_for_legacy_gdpr",
-		"v": 9743,
+		"v": 10010,
 		"t": 1,
 		"groups": [
 			{
@@ -10912,7 +10916,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_v9.1"
 			}
 		]
 	},
