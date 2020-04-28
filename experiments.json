@@ -973,7 +973,7 @@
 	},
 	"1611a289-0b01-44a5-a29f-e48ff3bfb693": {
 		"name": "tvapps_xboxone_devicecodeflow",
-		"v": 10013,
+		"v": 10014,
 		"t": 1,
 		"groups": [
 			{
@@ -981,11 +981,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "migrate"
 			}
 		]
