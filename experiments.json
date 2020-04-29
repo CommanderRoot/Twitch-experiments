@@ -8155,6 +8155,25 @@
 			}
 		]
 	},
+	"9f59f2bc-d56a-4ea8-b994-aecae5b5adb0": {
+		"name": "android_negative_transitions_fix",
+		"v": 10057,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "hardware_layer_fix"
+			},
+			{
+				"weight": 50,
+				"value": "overlap_rendering_fix"
+			}
+		]
+	},
 	"9fa764ee-7293-4c1f-a0b6-b23c2f28c2cc": {
 		"name": "android_recommendations_in_following",
 		"v": 9160,
