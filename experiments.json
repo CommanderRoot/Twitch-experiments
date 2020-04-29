@@ -3648,12 +3648,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 10008,
+		"v": 10024,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-0b6bb5.pdx01.abs.hls.ttvnw.net/v1/segment/CnHAcYQdquJoDiE-yVt07cM4enNJt37yUjWUjFbA7lnpPmvDt8kL1Eg4HRjW8Rra3DF7d7r_P6SflkJWtGI_d_oPwHpQ0mx1UxOxpvh_aFcqYiYE2BqbDu0p8x2R4ZvxS9zjEiNAZ2N-9xPDhPu4EeJWK_K9ucFjQhnRQaz-IXdDfhTNg8EQEQ3tU-C0HWksYHGmNjiHoH6LSQLl3UaKxshojA5EQmXaRw5nu0zmEumYjcimZkEdpZBRhvHKggEFEtNP8PWMhdRqtt4cZxU7BJ6xULhP1jnNvqm_3Fy46LsgKPe1goAHLWaW-_FFUKE2ncaqIKfx3VHWY3__cwiu5G9Cp256HR3XlNaqWQtYaPBYbNj-nqMoE0-vZuwrHoDWdXWEtPLTeuvpMfhZCsm4KmB3By_QwqSVgRXEzGoiNJrnmYyOipEUdRGNUVFNYAKug5Iww9S70chpQ0X0DMpyRzx_hP9b2mBeeVRPIwvVBVLTz2wid7djjzI6r9EPqB3Gutml-o5iAF_vfqVfQpYXEVXBkMMPSu3TtlnELNv46eovFzSkeM8Vi9oe34mV_KDUTTPypHlU-5YmUM4W2hR9LO6R1QU1iTcvCTJ-2Ug_CEn49Rr3Ml8IRjJsIPd59ql-FLTbYnJ7kvkY8NXD1HVpxhKxiEZUsCKRYObYRnw6M1xxey9-RbTyk60-UXQnmatG_J4byB9_RZmyYKVyh6jA3I8jMeRJvGJWO6aQK3HU1JIVV4FAX2COeLzc8lYVASPaieYF.ts"
+				"value": "//video-edge-34e66c.pdx01.abs.hls.ttvnw.net/v1/segment/CtwulaYrVv4_0HBRP3p0vpbV1mEKSIgMl_PbpspeIx7xjj3XAFHFg1_BoIy-izqI3_HzOYHZb_BJmVATOQClI7tcP0c781GeTfNu79Jy0VnQbDdUbq6HI1Fd5xpwHdELRmz0AUjeYAqneyBMrdpQIT48NPYsiXsskLPrKrZaVhUSmImzBOzSGy1CcnN2HRNdhZ8R-54QKdr9RGDYRzft0ZOF--ERwTkBdilD6JPhINshlopFt_FYPG__Lrifnpy1ytf26kQDEUDruTvviw-6felIF2tf0Sjeo8HI-nqtn_wY60mUo9vPTlQR_qUrHS-RTRvJY5JiucweOrS54_smhxgRukZ9_wF0nLB0PmHgOsluid3rPG6Wxq0X3bI_-UZhUOQo7cyyjbIT_eHONEr5SQz8BSpxQU3X3wbQP3a0GZLl0ilj9UG-Prc2ZLAPRqlEeMJmuORYizJHTSs7dZ6SRpMV42H-C_5HVJJxvc5SIf0TXpCc1-Kzi5m4sjqDbW7wbRczh_axXnTnymrTb6CmDxxgBphE3FhWJXv6LRpyFZqW-Q2OOqCm3ihPzS274F3Ek8ZAPFi_yazs9l_dEm5SEm50YFgl80jZ7_PSmS8GlWpr0gYmV3KR_hDSy4-mr1s_ABJvlh88SLIzCnChbQBfs-xUtaLxLDnuf0VQSvgmKGjqO_MMCZZjkSlQ2V4dtTcmQR7hSCTbf3IAYhQ6I9nvaxdDNV9CxlFkOoP7Eg34rAUDBLXe8qnyoHLzBB-r.ts"
 			}
 		]
 	},
@@ -5538,7 +5538,7 @@
 	},
 	"6e4680aa-4dbc-462f-8ff9-03455570aa2b": {
 		"name": "ios_allow_play_pause_on_stream",
-		"v": 9864,
+		"v": 10023,
 		"t": 1,
 		"groups": [
 			{
@@ -5547,7 +5547,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_v9.1"
 			}
 		]
 	},
