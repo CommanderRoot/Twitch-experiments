@@ -1545,6 +1545,21 @@
 			}
 		]
 	},
+	"2066395b-497b-4404-a8d9-b5d9c9e9372b": {
+		"name": "tvapps_viridian_additional_crash_dump_info",
+		"v": 10026,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"20a3c743-f570-442b-a0db-4dad344be426": {
 		"name": "android_ccpa_gdpr",
 		"v": 9241,
