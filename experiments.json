@@ -4079,29 +4079,6 @@
 			}
 		]
 	},
-	"54e455b2-9854-4c55-b926-cfadbff49324": {
-		"name": "LOGGED_OUT_HOMEPAGE_EXPERIMENTS",
-		"v": 1371,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "removeCarouselOnly"
-			},
-			{
-				"weight": 100,
-				"value": "localizeTopChannelsOnly"
-			},
-			{
-				"weight": 0,
-				"value": "removeCarouselAndLocalizeTopChannels"
-			}
-		]
-	},
 	"54e5dc25-00d2-4ae2-8d4a-bc800d156042": {
 		"name": "ios_ups_readable_colors",
 		"v": 9608,
