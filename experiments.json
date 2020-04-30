@@ -2329,6 +2329,21 @@
 			}
 		]
 	},
+	"344180c2-5108-452a-841c-5a244d8e6d01": {
+		"name": "promotions_holdout_user_id",
+		"v": 10063,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "holdout"
+			}
+		]
+	},
 	"3454d73f-f381-4453-93ad-3ea9d7209993": {
 		"name": "ios_gdpr_track_personal_data",
 		"v": 3839,
@@ -11103,15 +11118,15 @@
 	},
 	"db024908-d3f7-42a4-ad15-433ab9bf9484": {
 		"name": "twilight_stream_summary_use_kite",
-		"v": 10060,
+		"v": 10065,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "yes"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "no"
 			}
 		]
