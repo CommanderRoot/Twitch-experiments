@@ -8744,6 +8744,21 @@
 			}
 		]
 	},
+	"ae553f59-0a6e-4263-a637-871e7df7c5f4": {
+		"name": "promotions_holdout_device_id",
+		"v": 10062,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "holdout"
+			}
+		]
+	},
 	"ae7811bb-0bf1-42ee-bae0-589e6d692a96": {
 		"name": "android_quick_cheer",
 		"v": 10006,
