@@ -8040,15 +8040,15 @@
 	},
 	"9df32fd0-9370-4a54-b7f1-11831da9d17d": {
 		"name": "android_mgst_playercore_default_buffer_options",
-		"v": 9651,
+		"v": 10079,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -9705,15 +9705,15 @@
 	},
 	"c10fa5f2-c9a8-479d-a8aa-efec7a7e9473": {
 		"name": "android_mgst_playercore_bandwith_usage_factor",
-		"v": 9650,
+		"v": 10080,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
