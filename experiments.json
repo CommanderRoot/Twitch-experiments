@@ -3908,15 +3908,15 @@
 	},
 	"51a58423-d938-46fe-a2d5-d98f560c0b69": {
 		"name": "tvapps_firetv_httpservice",
-		"v": 9999,
+		"v": 10075,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "okhttp3"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "java"
 			}
 		]
