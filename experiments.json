@@ -4295,15 +4295,15 @@
 	},
 	"58e0b414-ee69-41d5-bd81-3127504e8555": {
 		"name": "ios_creator_settings",
-		"v": 9959,
+		"v": 10076,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			}
 		]
