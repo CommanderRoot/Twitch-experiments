@@ -11300,6 +11300,21 @@
 			}
 		]
 	},
+	"e194cac3-9798-49f6-ac2b-9b42b97b2ac1": {
+		"name": "ios_theater_prefer_os_pip",
+		"v": 10084,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"e1e75bee-1e03-4633-b820-c03ec9dd1c30": {
 		"name": "android_profile_upload",
 		"v": 2051,
