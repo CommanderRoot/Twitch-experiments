@@ -11652,15 +11652,15 @@
 	},
 	"eaa83ba9-6d70-4427-bda2-9eacc0e6d276": {
 		"name": "android_mgst_low_latency_measure",
-		"v": 7895,
+		"v": 10081,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "disabled"
 			}
 		]
