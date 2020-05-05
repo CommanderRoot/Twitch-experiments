@@ -9669,6 +9669,21 @@
 			}
 		]
 	},
+	"be03f934-72ca-4c26-9a3d-e70c0d5d3ed7": {
+		"name": "dart_tr_valorant_br_holdout",
+		"v": 10089,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"bfc54618-1905-49ed-ab8e-e72af763f553": {
 		"name": "android_story_card_v2.5",
 		"v": 2363,
@@ -12588,6 +12603,21 @@
 			{
 				"weight": 100,
 				"value": "active7.11"
+			}
+		]
+	},
+	"ff634def-1c77-4a02-a287-eef069fedcda": {
+		"name": "dart_tr_valorant_latam_holdout",
+		"v": 10088,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
