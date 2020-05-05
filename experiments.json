@@ -228,15 +228,15 @@
 	},
 	"05b34b7a-2e25-496f-a4ed-3b4740b8590e": {
 		"name": "android_ez_mod_bottomsheet",
-		"v": 9605,
+		"v": 10092,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
