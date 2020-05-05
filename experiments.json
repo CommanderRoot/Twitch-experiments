@@ -8514,6 +8514,21 @@
 			}
 		]
 	},
+	"ab22070a-64e4-418b-9095-59a59ce728a7": {
+		"name": "ios_chat_refactor",
+		"v": 10091,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"ab8bbd20-2f5d-4d4d-8cf3-023f08d8f64a": {
 		"name": "surestream_rollout_ios",
 		"v": 6801,
