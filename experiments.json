@@ -11332,16 +11332,16 @@
 	},
 	"e194cac3-9798-49f6-ac2b-9b42b97b2ac1": {
 		"name": "ios_theater_prefer_os_pip",
-		"v": 10084,
+		"v": 10094,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "enabled"
+				"value": "prefer_ios_pip"
 			},
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "prefer_app_pip"
 			}
 		]
 	},
