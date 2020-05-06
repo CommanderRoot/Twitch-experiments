@@ -4154,25 +4154,6 @@
 			}
 		]
 	},
-	"56d12a0d-d7da-417b-8571-e0aa10a06279": {
-		"name": "watch_blockbuster",
-		"v": 7329,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "autoplay"
-			},
-			{
-				"weight": 0,
-				"value": "no_autoplay"
-			}
-		]
-	},
 	"5766eac9-19a0-471b-8716-708987a0f62d": {
 		"name": "ios_om_vaes_enabled",
 		"v": 8302,
@@ -8149,23 +8130,24 @@
 	},
 	"9f59f2bc-d56a-4ea8-b994-aecae5b5adb0": {
 		"name": "android_negative_transitions_fix",
-		"v": 10058,
+		"v": 10106,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 10,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "hardware_layer_fix"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "overlap_rendering_fix"
 			},
 			{
-				"weight": 25,
+				"weight": 90,
 				"value": "hardware_layer_and_overlapping_rendering_fix"
 			}
 		]
