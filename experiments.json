@@ -145,7 +145,7 @@
 	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
-		"v": 9698,
+		"v": 10097,
 		"t": 1,
 		"groups": [
 			{
@@ -153,11 +153,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "migrate"
 			}
 		]
@@ -973,7 +973,7 @@
 	},
 	"1611a289-0b01-44a5-a29f-e48ff3bfb693": {
 		"name": "tvapps_xboxone_devicecodeflow",
-		"v": 10085,
+		"v": 10096,
 		"t": 1,
 		"groups": [
 			{
@@ -981,11 +981,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "migrate"
 			}
 		]
