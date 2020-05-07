@@ -11480,7 +11480,7 @@
 	},
 	"e40ce6cf-d8bd-4e98-b7dc-fbe2b7f13203": {
 		"name": "android_google_account_hold",
-		"v": 9779,
+		"v": 10107,
 		"t": 1,
 		"groups": [
 			{
@@ -11490,6 +11490,10 @@
 			{
 				"weight": 0,
 				"value": "prerelease"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
