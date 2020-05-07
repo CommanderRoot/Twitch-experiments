@@ -145,7 +145,7 @@
 	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
-		"v": 10097,
+		"v": 10115,
 		"t": 1,
 		"groups": [
 			{
@@ -153,11 +153,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "migrate"
 			}
 		]
@@ -2395,7 +2395,7 @@
 	},
 	"3525124a-9d15-4f8a-81b3-744bdcd4b003": {
 		"name": "ios_gql_start_commercial",
-		"v": 10114,
+		"v": 10116,
 		"t": 1,
 		"groups": [
 			{
