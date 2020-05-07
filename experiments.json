@@ -732,7 +732,7 @@
 	},
 	"10be999b-6dc1-46f6-a31d-759af02510c9": {
 		"name": "emote_good_standing",
-		"v": 9845,
+		"v": 10113,
 		"t": 2,
 		"groups": [
 			{
@@ -2271,15 +2271,15 @@
 	},
 	"317da15f-5ecf-47be-9055-e73f63fafd71": {
 		"name": "ios_offline_channel_v2",
-		"v": 10100,
+		"v": 10112,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 98,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 2,
 				"value": "active"
 			}
 		]
@@ -10908,15 +10908,15 @@
 	},
 	"d82e3cd2-0481-4287-8d54-129f3913d87d": {
 		"name": "android_offline_channel_page",
-		"v": 10101,
+		"v": 10111,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 2,
 				"value": "active"
 			},
 			{
-				"weight": 99,
+				"weight": 98,
 				"value": "control"
 			}
 		]
