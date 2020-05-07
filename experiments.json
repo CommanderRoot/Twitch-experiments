@@ -5239,15 +5239,15 @@
 	},
 	"68b0d8c6-59b3-4630-a975-f2e8f8047e15": {
 		"name": "ios_profile_header_v2",
-		"v": 10118,
+		"v": 10120,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
