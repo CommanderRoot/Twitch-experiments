@@ -11651,6 +11651,21 @@
 			}
 		]
 	},
+	"e80419c1-99e3-486f-a8c6-1c617e7b6626": {
+		"name": "android_surface_crash_fix",
+		"v": 10138,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"e8126944-c0a4-44e2-9ff2-15dcb645d6ee": {
 		"name": "dart_nobru_has_arrived_inactive_holdout",
 		"v": 10019,
