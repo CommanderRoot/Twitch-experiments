@@ -2099,6 +2099,21 @@
 			}
 		]
 	},
+	"2b6b86ea-9574-4da9-9808-c4498a8d25e6": {
+		"name": "ios_community_highlights",
+		"v": 10136,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"2bb9900d-b5bf-4f8e-bf2d-3efdb3320a32": {
 		"name": "ios_following_hosted_channels",
 		"v": 8715,
@@ -4958,7 +4973,7 @@
 	},
 	"63fc0f79-7415-4d4a-8d6b-748c1504783d": {
 		"name": "android_community_highlights",
-		"v": 9957,
+		"v": 10137,
 		"t": 1,
 		"groups": [
 			{
