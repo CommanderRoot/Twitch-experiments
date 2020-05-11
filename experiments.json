@@ -2286,15 +2286,15 @@
 	},
 	"317da15f-5ecf-47be-9055-e73f63fafd71": {
 		"name": "ios_offline_channel_v2",
-		"v": 10151,
+		"v": 10160,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 92,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 8,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -10968,15 +10968,15 @@
 	},
 	"d82e3cd2-0481-4287-8d54-129f3913d87d": {
 		"name": "android_offline_channel_page",
-		"v": 10150,
+		"v": 10161,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 8,
+				"weight": 16,
 				"value": "active"
 			},
 			{
-				"weight": 92,
+				"weight": 84,
 				"value": "control"
 			}
 		]
