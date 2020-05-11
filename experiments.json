@@ -1622,7 +1622,7 @@
 	},
 	"22fbff5c-df81-4fca-9c06-56317df1202b": {
 		"name": "tvapps_androidtv_devicecodeflow",
-		"v": 9483,
+		"v": 10149,
 		"t": 1,
 		"groups": [
 			{
@@ -1630,11 +1630,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "migrate"
 			}
 		]
@@ -2286,15 +2286,15 @@
 	},
 	"317da15f-5ecf-47be-9055-e73f63fafd71": {
 		"name": "ios_offline_channel_v2",
-		"v": 10133,
+		"v": 10151,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 96,
+				"weight": 92,
 				"value": "control"
 			},
 			{
-				"weight": 4,
+				"weight": 8,
 				"value": "active"
 			}
 		]
@@ -10968,15 +10968,15 @@
 	},
 	"d82e3cd2-0481-4287-8d54-129f3913d87d": {
 		"name": "android_offline_channel_page",
-		"v": 10132,
+		"v": 10150,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 4,
+				"weight": 8,
 				"value": "active"
 			},
 			{
-				"weight": 96,
+				"weight": 92,
 				"value": "control"
 			}
 		]
