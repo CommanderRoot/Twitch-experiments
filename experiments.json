@@ -8278,7 +8278,7 @@
 	},
 	"a2303f76-3110-4ccf-93bd-74bd1dceed3b": {
 		"name": "tvapps_androidtv_legacy_recommendations",
-		"v": 9630,
+		"v": 10175,
 		"t": 1,
 		"groups": [
 			{
@@ -8286,11 +8286,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant"
 			},
 			{
-				"weight": 40,
+				"weight": 90,
 				"value": "newrecs"
 			}
 		]
@@ -9589,15 +9589,15 @@
 	},
 	"bb0a266a-39a7-4b40-82c3-24ff8801b7eb": {
 		"name": "tvapps_androidtv_httpservice",
-		"v": 9759,
+		"v": 10174,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 0,
 				"value": "okhttp3"
 			},
 			{
-				"weight": 10,
+				"weight": 100,
 				"value": "java"
 			}
 		]
