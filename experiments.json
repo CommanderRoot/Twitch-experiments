@@ -7080,15 +7080,15 @@
 	},
 	"8935dd43-13ae-4ade-ba58-f188bcea7c9a": {
 		"name": "android_mgst_floating_chat_v2",
-		"v": 8778,
+		"v": 10199,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
