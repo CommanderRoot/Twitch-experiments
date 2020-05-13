@@ -1265,15 +1265,15 @@
 	},
 	"1abd6e2c-c0c8-4656-8bb6-8d37f009c7c6": {
 		"name": "ios_ad_requester_manager_squad_streams",
-		"v": 10077,
+		"v": 10194,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 50,
 				"value": "active_v9.0"
 			}
 		]
