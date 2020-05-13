@@ -6359,15 +6359,15 @@
 	},
 	"7abc1144-8984-400c-97a3-12eefc8b7290": {
 		"name": "ios_celebrations_beta",
-		"v": 9814,
+		"v": 10193,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
