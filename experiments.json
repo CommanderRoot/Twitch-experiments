@@ -287,6 +287,21 @@
 			}
 		]
 	},
+	"0637bccd-2a5b-49c7-9d01-0c431d14fc25": {
+		"name": "promotions_force_user_override",
+		"v": 10195,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "promotions_enabled"
+			}
+		]
+	},
 	"06438e0a-0809-461b-b68f-40e37ca7cd33": {
 		"name": "mmr_impact",
 		"v": 7091,
