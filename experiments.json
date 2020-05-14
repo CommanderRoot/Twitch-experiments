@@ -2528,6 +2528,21 @@
 			}
 		]
 	},
+	"35fb5877-241a-4012-842f-caeda51bd878": {
+		"name": "ios_polls_vote_tokens",
+		"v": 10203,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"3615bc9d-3e1f-44ac-8079-929fe9f23c9f": {
 		"name": "dart_dota2ti_groupreminder_holdout",
 		"v": 7655,
