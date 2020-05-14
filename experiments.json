@@ -289,7 +289,7 @@
 	},
 	"0637bccd-2a5b-49c7-9d01-0c431d14fc25": {
 		"name": "promotions_force_user_override",
-		"v": 10195,
+		"v": 10200,
 		"t": 2,
 		"groups": [
 			{
@@ -298,7 +298,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "promotions_enabled"
+				"value": "promotions_force_enabled"
 			}
 		]
 	},
