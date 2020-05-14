@@ -145,7 +145,7 @@
 	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
-		"v": 10156,
+		"v": 10204,
 		"t": 1,
 		"groups": [
 			{
@@ -153,11 +153,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "migrate"
 			}
 		]
@@ -1637,7 +1637,7 @@
 	},
 	"22fbff5c-df81-4fca-9c06-56317df1202b": {
 		"name": "tvapps_androidtv_devicecodeflow",
-		"v": 10154,
+		"v": 10205,
 		"t": 1,
 		"groups": [
 			{
@@ -1645,11 +1645,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "migrate"
 			}
 		]
