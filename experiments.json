@@ -12105,6 +12105,21 @@
 			}
 		]
 	},
+	"f0662984-49eb-47d8-956e-cd6292a5375b": {
+		"name": "ios_mgst_video_b_frames",
+		"v": 10210,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"f097a48e-5e38-4274-b170-b4f244c72760": {
 		"name": "twilight_use_kite",
 		"v": 10141,
