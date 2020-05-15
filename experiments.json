@@ -8254,12 +8254,12 @@
 	},
 	"9f59f2bc-d56a-4ea8-b994-aecae5b5adb0": {
 		"name": "android_negative_transitions_fix",
-		"v": 10106,
+		"v": 10209,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -8271,7 +8271,7 @@
 				"value": "overlap_rendering_fix"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "hardware_layer_and_overlapping_rendering_fix"
 			}
 		]
