@@ -11295,15 +11295,15 @@
 	},
 	"db024908-d3f7-42a4-ad15-433ab9bf9484": {
 		"name": "twilight_stream_summary_use_kite",
-		"v": 10140,
+		"v": 10235,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "yes"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "no"
 			}
 		]
@@ -12167,15 +12167,15 @@
 	},
 	"f097a48e-5e38-4274-b170-b4f244c72760": {
 		"name": "twilight_use_kite",
-		"v": 10141,
+		"v": 10236,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "yes"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "no"
 			}
 		]
