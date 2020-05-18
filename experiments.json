@@ -12167,15 +12167,15 @@
 	},
 	"f097a48e-5e38-4274-b170-b4f244c72760": {
 		"name": "twilight_use_kite",
-		"v": 10238,
+		"v": 10241,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "yes"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "no"
 			}
 		]
