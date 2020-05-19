@@ -820,6 +820,21 @@
 			}
 		]
 	},
+	"117e3dbc-fc17-49b4-9d07-34d09dd2c10d": {
+		"name": "promotions_live_recommended_android",
+		"v": 10266,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "promotions_enabled"
+			}
+		]
+	},
 	"11c3b7a8-f0cf-49ea-8776-ebe87d84b782": {
 		"name": "twilight_quarterly_streamer_survey_for_new_streamers",
 		"v": 8150,
