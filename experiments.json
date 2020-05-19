@@ -3871,6 +3871,21 @@
 			}
 		]
 	},
+	"4dced941-77cd-4290-9a41-5f0a563383e3": {
+		"name": "Promotions_Live_Recommended_iOS",
+		"v": 10261,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "promotions_enabled"
+			}
+		]
+	},
 	"4e9d0a3c-4f43-4817-8db4-ac060fc32b74": {
 		"name": "latency_component_instrumentation",
 		"v": 1579,
