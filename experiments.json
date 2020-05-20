@@ -822,15 +822,15 @@
 	},
 	"117e3dbc-fc17-49b4-9d07-34d09dd2c10d": {
 		"name": "promotions_live_recommended_android",
-		"v": 10266,
+		"v": 10272,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "promotions_enabled"
 			}
 		]
