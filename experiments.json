@@ -12315,6 +12315,21 @@
 			}
 		]
 	},
+	"f3d29de2-0403-499d-a5d2-cf1992e30f83": {
+		"name": "android_promotions_streams",
+		"v": 10275,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"f41d7d52-a2b1-4e0a-89f8-2aba121f996b": {
 		"name": "android_mgst_broadcasting_upsell",
 		"v": 9275,
