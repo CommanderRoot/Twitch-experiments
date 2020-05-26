@@ -1635,6 +1635,21 @@
 			}
 		]
 	},
+	"2126e914-e26c-484f-9fb3-e5c87cd282e1": {
+		"name": "dart_lol_extension_current_holdout",
+		"v": 10312,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
 		"name": "android_chromecast_player_core",
 		"v": 3815,
