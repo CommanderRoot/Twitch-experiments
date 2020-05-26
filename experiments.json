@@ -160,7 +160,7 @@
 	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
-		"v": 10281,
+		"v": 10309,
 		"t": 1,
 		"groups": [
 			{
@@ -168,11 +168,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "migrate"
 			}
 		]
@@ -1018,7 +1018,7 @@
 	},
 	"1611a289-0b01-44a5-a29f-e48ff3bfb693": {
 		"name": "tvapps_xboxone_devicecodeflow",
-		"v": 10264,
+		"v": 10308,
 		"t": 1,
 		"groups": [
 			{
@@ -1026,11 +1026,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "migrate"
 			}
 		]
@@ -1667,7 +1667,7 @@
 	},
 	"22fbff5c-df81-4fca-9c06-56317df1202b": {
 		"name": "tvapps_androidtv_devicecodeflow",
-		"v": 10280,
+		"v": 10310,
 		"t": 1,
 		"groups": [
 			{
@@ -1675,11 +1675,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "migrate"
 			}
 		]
@@ -11334,7 +11334,7 @@
 	},
 	"da4fd4e0-a006-4a1e-89eb-b2170a0e7520": {
 		"name": "tvapps_firetv_devicecodeflow",
-		"v": 9484,
+		"v": 10311,
 		"t": 1,
 		"groups": [
 			{
@@ -11342,11 +11342,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "migrate"
 			}
 		]
