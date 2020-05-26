@@ -1637,7 +1637,7 @@
 	},
 	"2126e914-e26c-484f-9fb3-e5c87cd282e1": {
 		"name": "dart_lol_extension_current_holdout",
-		"v": 10312,
+		"v": 10314,
 		"t": 2,
 		"groups": [
 			{
@@ -10382,6 +10382,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"c6b1b32a-7766-48bf-9eab-5ef2ba05c958": {
+		"name": "dart_lol_extension_reinstall_holdout",
+		"v": 10313,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
