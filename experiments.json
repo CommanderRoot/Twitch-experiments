@@ -5091,6 +5091,21 @@
 			}
 		]
 	},
+	"6326771d-52c4-4005-848f-842511727d82": {
+		"name": "ios_gql_actions_api",
+		"v": 10334,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"635c1961-3efe-444b-8b40-94b96e64abac": {
 		"name": "video_edge_reassignment",
 		"v": 5491,
