@@ -8458,6 +8458,21 @@
 			}
 		]
 	},
+	"9feb522b-7022-440f-b51e-400989c06723": {
+		"name": "ios_unify_fatal_player_errors",
+		"v": 10325,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "unified"
+			}
+		]
+	},
 	"a12e6150-15d5-45ce-8db8-bbaf49f4ec8c": {
 		"name": "vaes_rollout_t1",
 		"v": 7647,
