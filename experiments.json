@@ -1308,6 +1308,21 @@
 			}
 		]
 	},
+	"1a85f2c8-da8d-4c00-8c0f-0d8c456a3c31": {
+		"name": "ios_keyboard_shortcuts",
+		"v": 10343,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"1abd6e2c-c0c8-4656-8bb6-8d37f009c7c6": {
 		"name": "ios_ad_requester_manager_squad_streams",
 		"v": 10322,
