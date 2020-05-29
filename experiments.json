@@ -6215,15 +6215,15 @@
 	},
 	"749739fe-5023-4c64-b299-3eb8c49cb3ee": {
 		"name": "android_sub_gift_onboarding",
-		"v": 7145,
+		"v": 10336,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
