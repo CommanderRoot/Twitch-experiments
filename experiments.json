@@ -5168,7 +5168,7 @@
 	},
 	"63fc0f79-7415-4d4a-8d6b-748c1504783d": {
 		"name": "android_community_highlights",
-		"v": 10137,
+		"v": 10361,
 		"t": 1,
 		"groups": [
 			{
@@ -5178,6 +5178,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_9.2"
 			}
 		]
 	},
