@@ -11484,7 +11484,7 @@
 	},
 	"da4fd4e0-a006-4a1e-89eb-b2170a0e7520": {
 		"name": "tvapps_firetv_devicecodeflow",
-		"v": 10345,
+		"v": 10359,
 		"t": 1,
 		"groups": [
 			{
@@ -11492,11 +11492,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "migrate"
 			}
 		]
