@@ -8721,6 +8721,21 @@
 			}
 		]
 	},
+	"a6c4cd0f-4df1-4d45-b409-a77f10a4b2a1": {
+		"name": "android_creator_settings_menu",
+		"v": 10375,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"a6eef2bb-211a-4ba5-a438-c01e3afcf566": {
 		"name": "ios_ads_eligibility_enhanced",
 		"v": 8188,
@@ -12442,21 +12457,6 @@
 			{
 				"weight": 99,
 				"value": "false"
-			}
-		]
-	},
-	"f0662984-49eb-47d8-956e-cd6292a5375b": {
-		"name": "ios_mgst_video_b_frames",
-		"v": 10369,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "active"
 			}
 		]
 	},
