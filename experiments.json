@@ -1826,16 +1826,16 @@
 	},
 	"24d2ca90-8a02-4aae-aeff-377eca92eece": {
 		"name": "tvapps_tvos_player_native",
-		"v": 9893,
+		"v": 10367,
 		"t": 1,
-		"s": 5,
+		"s": 6,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "active"
 			}
 		]
