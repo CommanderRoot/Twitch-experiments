@@ -4471,15 +4471,15 @@
 	},
 	"58e0b414-ee69-41d5-bd81-3127504e8555": {
 		"name": "ios_creator_settings",
-		"v": 10358,
+		"v": 10373,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 80,
 				"value": "active_v9.2"
 			},
 			{
-				"weight": 100,
+				"weight": 20,
 				"value": "control"
 			}
 		]
@@ -10601,11 +10601,11 @@
 	},
 	"c89c0dae-5355-4765-b97a-5dd499e85245": {
 		"name": "ios_playercore",
-		"v": 10015,
+		"v": 10374,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "native"
 			},
 			{
@@ -10617,7 +10617,7 @@
 				"value": "playercore_beta"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "playercore_beta_v9_1"
 			}
 		]
