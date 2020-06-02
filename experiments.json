@@ -8736,6 +8736,21 @@
 			}
 		]
 	},
+	"a75597d9-15f1-48eb-b2cd-95f6dc107672": {
+		"name": "ios_mgst_video_b_frames_2",
+		"v": 10372,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"a7a6e4b0-49ea-419c-95f3-dbd967bdb1f9": {
 		"name": "ios_sub_gifting",
 		"v": 9353,
@@ -11488,7 +11503,7 @@
 	},
 	"da4fd4e0-a006-4a1e-89eb-b2170a0e7520": {
 		"name": "tvapps_firetv_devicecodeflow",
-		"v": 10359,
+		"v": 10371,
 		"t": 1,
 		"groups": [
 			{
@@ -11496,11 +11511,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "migrate"
 			}
 		]
