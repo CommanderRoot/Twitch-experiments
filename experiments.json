@@ -12432,15 +12432,15 @@
 	},
 	"f0662984-49eb-47d8-956e-cd6292a5375b": {
 		"name": "ios_mgst_video_b_frames",
-		"v": 10210,
+		"v": 10369,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
