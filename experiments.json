@@ -4148,7 +4148,7 @@
 	},
 	"52a53731-c827-49df-8ccb-40c51407f932": {
 		"name": "ios_use_privacy_consent",
-		"v": 10305,
+		"v": 10400,
 		"t": 1,
 		"groups": [
 			{
@@ -4156,11 +4156,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 99,
+				"weight": 98,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 2,
 				"value": "active_v9.1"
 			}
 		]
@@ -11533,15 +11533,15 @@
 	},
 	"d97b6b6f-5f4f-4655-b212-0bb21c2bcec9": {
 		"name": "ios_use_new_copy_for_legacy_gdpr",
-		"v": 10010,
+		"v": 10401,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_v9.1"
 			}
 		]
