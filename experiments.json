@@ -1556,21 +1556,6 @@
 			}
 		]
 	},
-	"1f2080d2-cd10-4712-9a7c-11a67c562f69": {
-		"name": "following-service-count-rollout",
-		"v": 9796,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant"
-			}
-		]
-	},
 	"2005226d-07fe-46cf-a229-d91dd03d8d3a": {
 		"name": "delete_XP",
 		"v": 3634,
