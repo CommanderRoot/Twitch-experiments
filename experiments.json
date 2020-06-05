@@ -4063,6 +4063,21 @@
 			}
 		]
 	},
+	"50fca003-6e39-46aa-a83d-33638654f348": {
+		"name": "following_service_upsert_list_rollout",
+		"v": 10411,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"51901421-e768-4e77-a176-118295d7f6c6": {
 		"name": "ios_chat_connect_latency_improvement",
 		"v": 4660,
