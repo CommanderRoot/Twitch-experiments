@@ -2325,6 +2325,21 @@
 			}
 		]
 	},
+	"3041f4a5-97dc-4864-a663-5ea31693a082": {
+		"name": "mobile_web_automatic_deepview",
+		"v": 10406,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"306b5fc1-d28c-4603-b2de-462d32c207bd": {
 		"name": "ads_countdown_timers",
 		"v": 5877,
@@ -4628,15 +4643,15 @@
 	},
 	"5ba34d44-bc46-4962-8cf6-5ea9f8a28f2a": {
 		"name": "android_global_follow_button_revamp",
-		"v": 9545,
+		"v": 10405,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "active"
 			}
 		]
