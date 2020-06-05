@@ -7906,6 +7906,21 @@
 			}
 		]
 	},
+	"957c74ff-8a3e-43c2-9cb3-606f32c5b6d0": {
+		"name": "following_service_count_rollout",
+		"v": 10408,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"95869c70-08ce-4e58-a82e-bcaaaf1f8dc2": {
 		"name": "DISCOVER_HIDE_RECENTLY_WATCHED_STREAMS",
 		"v": 702,
@@ -11413,7 +11428,7 @@
 	},
 	"d624c623-3d66-44fb-b084-89c4d33c3a31": {
 		"name": "following_service_get_follow_rollout",
-		"v": 10403,
+		"v": 10407,
 		"t": 2,
 		"groups": [
 			{
