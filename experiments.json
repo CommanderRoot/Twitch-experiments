@@ -4658,7 +4658,7 @@
 	},
 	"5ba34d44-bc46-4962-8cf6-5ea9f8a28f2a": {
 		"name": "android_global_follow_button_revamp",
-		"v": 10405,
+		"v": 10412,
 		"t": 1,
 		"groups": [
 			{
@@ -4666,8 +4666,12 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "active_9.2"
 			}
 		]
 	},
