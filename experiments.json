@@ -11971,6 +11971,21 @@
 			}
 		]
 	},
+	"e0473826-5fd9-40cc-8310-41e485f33bfd": {
+		"name": "ios_allow_mini_experiment_overrides_from_savant",
+		"v": 10421,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"e194cac3-9798-49f6-ac2b-9b42b97b2ac1": {
 		"name": "ios_theater_prefer_os_pip",
 		"v": 10129,
