@@ -6861,6 +6861,21 @@
 			}
 		]
 	},
+	"80534175-b71f-44ba-9e48-28493b39d153": {
+		"name": "dart_twitchrivals_en_valorant_620_pushemail_active_holdout",
+		"v": 10417,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"80a4bf5b-0897-4ae6-bf0b-70357524c39b": {
 		"name": "ios_feed_display_content_type_indicator",
 		"v": 2357,
@@ -6963,6 +6978,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"81bf64a1-6cb1-42ce-b2a2-82ba1a6709d6": {
+		"name": "dart_twitchrivals_br_valorant_620_pushemai_frozen_holdout",
+		"v": 10420,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
@@ -7267,6 +7297,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"887f2993-40ae-41a9-9ee1-d11b969d390d": {
+		"name": "dart_twitchrivals_br_valorant_620_pushemai_active_holdout",
+		"v": 10418,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
@@ -8628,6 +8673,21 @@
 			{
 				"weight": 100,
 				"value": "unified"
+			}
+		]
+	},
+	"a0a3d1d7-5a72-4fee-8093-ee9ba0025857": {
+		"name": "dart_twitchrivals_en_valorant_620_pushemail_frozen_holdout",
+		"v": 10419,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
