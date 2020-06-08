@@ -4065,15 +4065,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 10450,
+		"v": 10451,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
@@ -13316,6 +13316,21 @@
 			{
 				"weight": 100,
 				"value": "active7.11"
+			}
+		]
+	},
+	"feead3b1-dd13-4a2d-acb5-98d58dd84754": {
+		"name": "ios_watch_party_viewing",
+		"v": 10452,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
