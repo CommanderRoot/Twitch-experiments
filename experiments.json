@@ -7972,15 +7972,15 @@
 	},
 	"957c74ff-8a3e-43c2-9cb3-606f32c5b6d0": {
 		"name": "following_service_count_rollout",
-		"v": 10443,
+		"v": 10449,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
