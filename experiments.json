@@ -8337,15 +8337,15 @@
 	},
 	"9ab05b0c-4e16-49dd-91ab-473ad0fa00ff": {
 		"name": "tvapps_ps4_additional_crash_dump_info",
-		"v": 10198,
+		"v": 10424,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
