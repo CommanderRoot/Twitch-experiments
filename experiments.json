@@ -865,6 +865,21 @@
 			}
 		]
 	},
+	"1209dd85-fa46-490f-87e3-f2626ef86f8d": {
+		"name": "channel_benefits_page",
+		"v": 10467,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "on"
+			},
+			{
+				"weight": 100,
+				"value": "off"
+			}
+		]
+	},
 	"12c7e908-44b8-456f-9dad-b8660e6db1ab": {
 		"name": "vaes_rollout_GB",
 		"v": 7751,
