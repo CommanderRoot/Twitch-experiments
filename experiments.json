@@ -2206,7 +2206,7 @@
 	},
 	"2b6b86ea-9574-4da9-9808-c4498a8d25e6": {
 		"name": "ios_community_highlights",
-		"v": 10430,
+		"v": 10463,
 		"t": 1,
 		"groups": [
 			{
@@ -2216,6 +2216,10 @@
 			{
 				"weight": 1,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_9.2.1"
 			}
 		]
 	},
