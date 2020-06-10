@@ -2485,15 +2485,15 @@
 	},
 	"344180c2-5108-452a-841c-5a244d8e6d01": {
 		"name": "promotions_holdout_user_id",
-		"v": 10063,
+		"v": 10476,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 96,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 4,
 				"value": "holdout"
 			}
 		]
@@ -9349,15 +9349,15 @@
 	},
 	"ae553f59-0a6e-4263-a637-871e7df7c5f4": {
 		"name": "promotions_holdout_device_id",
-		"v": 10062,
+		"v": 10477,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 3,
 				"value": "holdout"
 			}
 		]
