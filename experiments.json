@@ -7485,17 +7485,17 @@
 		]
 	},
 	"8b1d580b-ce4e-4b99-92a3-56a63a7568b7": {
-		"name": "ios_remove_legacy_playback_state_change",
-		"v": 10485,
+		"name": "ios_use_legacy_playback_state_change",
+		"v": 10487,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "active"
+				"value": "control"
 			},
 			{
 				"weight": 0,
-				"value": "control"
+				"value": "legacy"
 			}
 		]
 	},
