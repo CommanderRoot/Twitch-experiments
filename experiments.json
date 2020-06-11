@@ -8881,15 +8881,15 @@
 	},
 	"a5eae104-286a-467e-a5fd-0131fd6f1636": {
 		"name": "promotions_relevance_ranking",
-		"v": 10468,
+		"v": 10503,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "ranking_on"
 			}
 		]
