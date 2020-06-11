@@ -6925,6 +6925,21 @@
 			}
 		]
 	},
+	"80ecf5a2-894a-47fd-9547-774b5c2896cd": {
+		"name": "dart_artificial_s3_e3_holdout",
+		"v": 10498,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"80ee272f-44ec-4d8c-8ad1-72f4933a3da4": {
 		"name": "android_pipboy_broadcasting",
 		"v": 1382,
@@ -11599,6 +11614,21 @@
 			}
 		]
 	},
+	"d738bbf5-4758-4925-bd1d-1de73b91988b": {
+		"name": "dart_sgf_playstation_active_ps5games_holdout",
+		"v": 10496,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"d76c815d-2f36-4548-8d48-daa8174bb382": {
 		"name": "ios_clip_theatre_mode",
 		"v": 2024,
@@ -13213,6 +13243,21 @@
 			{
 				"weight": 90,
 				"value": "active_9.0"
+			}
+		]
+	},
+	"fc9ab529-435d-42a4-8d5a-e316946cd774": {
+		"name": "dart_sgf_playstation_inactive_ps5games_holdout",
+		"v": 10497,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
