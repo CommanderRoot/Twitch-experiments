@@ -11616,15 +11616,15 @@
 	},
 	"d738bbf5-4758-4925-bd1d-1de73b91988b": {
 		"name": "dart_sgf_playstation_active_ps5games_holdout",
-		"v": 10496,
+		"v": 10499,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "holdout"
 			},
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "allowed"
 			}
 		]
