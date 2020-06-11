@@ -762,15 +762,15 @@
 	},
 	"10be999b-6dc1-46f6-a31d-759af02510c9": {
 		"name": "emote_good_standing",
-		"v": 10113,
+		"v": 10495,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "on"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "off"
 			}
 		]
