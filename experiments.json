@@ -11068,15 +11068,15 @@
 	},
 	"cd411260-9db8-442a-b75e-b0dc0d0234d8": {
 		"name": "android_mgst_player_ptb_final",
-		"v": 10323,
+		"v": 10510,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
