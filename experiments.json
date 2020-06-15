@@ -4197,7 +4197,7 @@
 	},
 	"52a53731-c827-49df-8ccb-40c51407f932": {
 		"name": "ios_use_privacy_consent",
-		"v": 10490,
+		"v": 10517,
 		"t": 1,
 		"groups": [
 			{
@@ -4205,11 +4205,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v9.1"
 			}
 		]
