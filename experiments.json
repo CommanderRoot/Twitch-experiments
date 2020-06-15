@@ -5718,7 +5718,7 @@
 	},
 	"6bb608e0-5917-4b8e-ae98-dc936aab49be": {
 		"name": "android_gdpr_migration_9_1",
-		"v": 10351,
+		"v": 10518,
 		"t": 1,
 		"groups": [
 			{
@@ -5726,11 +5726,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 99,
+				"weight": 98,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 2,
 				"value": "active_9_2"
 			}
 		]
@@ -7380,8 +7380,8 @@
 		]
 	},
 	"88c6dc9d-eb3c-4763-966d-e5537e78af50": {
-		"name": "xarth_debug_menu_whitelisted_users",
-		"v": 4292,
+		"name": "xarth_debug_menu_special_access_users",
+		"v": 10520,
 		"t": 1,
 		"groups": [
 			{
@@ -12399,7 +12399,7 @@
 	},
 	"e8e1055d-5752-4fc4-8a3e-93a3af6841cf": {
 		"name": "android_server_side_consent_9_1",
-		"v": 10349,
+		"v": 10519,
 		"t": 1,
 		"groups": [
 			{
@@ -12407,11 +12407,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 99,
+				"weight": 98,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 2,
 				"value": "active_9_2"
 			}
 		]
