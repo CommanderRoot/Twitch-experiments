@@ -5253,6 +5253,21 @@
 			}
 		]
 	},
+	"6455e6ec-0a0d-40a5-a69d-523fa47681e6": {
+		"name": "dart_sgf_eaplay_holdout",
+		"v": 10554,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"646e8b92-33d7-43b7-893b-dc4de7d6e64a": {
 		"name": "ios_oauth_refresh",
 		"v": 9176,
@@ -11605,15 +11620,15 @@
 	},
 	"d624c623-3d66-44fb-b084-89c4d33c3a31": {
 		"name": "following_service_get_follow_rollout",
-		"v": 10552,
+		"v": 10553,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant"
 			}
 		]
@@ -12874,6 +12889,21 @@
 			{
 				"weight": 90,
 				"value": "active"
+			}
+		]
+	},
+	"f3a5d6d7-39f4-491b-88f9-ba68da1ea1d0": {
+		"name": "dart_sgf_eaplay_push",
+		"v": 10555,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
