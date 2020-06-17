@@ -10023,15 +10023,15 @@
 	},
 	"b7a96629-46ee-4746-9063-973707fd8af3": {
 		"name": "android_mgst_broadcast_onboarding",
-		"v": 9919,
+		"v": 10561,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -11635,15 +11635,15 @@
 	},
 	"d624c623-3d66-44fb-b084-89c4d33c3a31": {
 		"name": "following_service_get_follow_rollout",
-		"v": 10559,
+		"v": 10560,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 65,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 35,
 				"value": "variant"
 			}
 		]
