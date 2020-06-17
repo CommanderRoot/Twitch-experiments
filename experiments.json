@@ -10832,6 +10832,21 @@
 			}
 		]
 	},
+	"c6fd0d37-c577-4e5f-a2a7-9d2e1c7c300b": {
+		"name": "community-gifting-recommendation-v2.6",
+		"v": 10569,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "model_2_6"
+			}
+		]
+	},
 	"c75c5774-db9a-4621-8de2-5df0f950a487": {
 		"name": "iOS subtokens apple prototype",
 		"v": 7484,
