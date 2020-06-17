@@ -11635,15 +11635,15 @@
 	},
 	"d624c623-3d66-44fb-b084-89c4d33c3a31": {
 		"name": "following_service_get_follow_rollout",
-		"v": 10558,
+		"v": 10559,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 30,
 				"value": "variant"
 			}
 		]
