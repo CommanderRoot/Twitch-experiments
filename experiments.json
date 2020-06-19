@@ -9260,6 +9260,21 @@
 			}
 		]
 	},
+	"ace3cec2-d08e-4d58-81ca-a6f103f6ccb3": {
+		"name": "ios_game_broadcasting_global",
+		"v": 10590,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "disabled"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			}
+		]
+	},
 	"ad048640-8726-433a-b822-69e30b8faa77": {
 		"name": "liverecs_holdout_device",
 		"v": 8980,
