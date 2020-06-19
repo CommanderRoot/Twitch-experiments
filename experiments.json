@@ -271,6 +271,21 @@
 			}
 		]
 	},
+	"05ea49a8-7f49-4124-bcce-ab145401a1ba": {
+		"name": "ios_seek_to_live_on_stream_play",
+		"v": 10593,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v9.3"
+			}
+		]
+	},
 	"05f51b55-9ce2-4d95-9896-8fdfb83b0b04": {
 		"name": "test1",
 		"v": 6533,
@@ -4197,7 +4212,7 @@
 	},
 	"52a53731-c827-49df-8ccb-40c51407f932": {
 		"name": "ios_use_privacy_consent",
-		"v": 10517,
+		"v": 10592,
 		"t": 1,
 		"groups": [
 			{
