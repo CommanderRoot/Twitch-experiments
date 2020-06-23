@@ -7424,6 +7424,21 @@
 			}
 		]
 	},
+	"88850d5d-792b-4b07-88a3-be291d87f7d9": {
+		"name": "use_novus",
+		"v": 10617,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "yes"
+			},
+			{
+				"weight": 100,
+				"value": "no"
+			}
+		]
+	},
 	"8896fcd5-cdee-422d-91a9-0b9ce1672eb8": {
 		"name": "ios_pause_video_play_timer_for_autoplay",
 		"v": 8915,
