@@ -8096,15 +8096,15 @@
 	},
 	"957c74ff-8a3e-43c2-9cb3-606f32c5b6d0": {
 		"name": "following_service_count_rollout",
-		"v": 10613,
+		"v": 10616,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 97,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 3,
+				"weight": 5,
 				"value": "variant"
 			}
 		]
