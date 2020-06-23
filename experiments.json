@@ -3995,6 +3995,21 @@
 			}
 		]
 	},
+	"4e10cdad-1f9d-4556-8617-122179c39d9b": {
+		"name": "ios_age_gating",
+		"v": 10609,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"4e9d0a3c-4f43-4817-8db4-ac060fc32b74": {
 		"name": "latency_component_instrumentation",
 		"v": 1579,
