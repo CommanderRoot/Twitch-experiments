@@ -5825,6 +5825,21 @@
 			}
 		]
 	},
+	"6cdaf310-1b21-441c-8d25-c967fe22126e": {
+		"name": "ios_hypetrain",
+		"v": 10618,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"6d07fedb-c0e6-4eae-9082-d4c100eade25": {
 		"name": "android_aax",
 		"v": 2096,
