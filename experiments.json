@@ -8096,15 +8096,15 @@
 	},
 	"957c74ff-8a3e-43c2-9cb3-606f32c5b6d0": {
 		"name": "following_service_count_rollout",
-		"v": 10611,
+		"v": 10613,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 3,
 				"value": "variant"
 			}
 		]
@@ -9031,15 +9031,15 @@
 	},
 	"a75597d9-15f1-48eb-b2cd-95f6dc107672": {
 		"name": "ios_mgst_video_b_frames_2",
-		"v": 10391,
+		"v": 10612,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active"
 			}
 		]
