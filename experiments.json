@@ -5778,7 +5778,7 @@
 	},
 	"6bb608e0-5917-4b8e-ae98-dc936aab49be": {
 		"name": "android_gdpr_migration_9_1",
-		"v": 10600,
+		"v": 10614,
 		"t": 1,
 		"groups": [
 			{
@@ -5786,11 +5786,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_9_2"
 			}
 		]
@@ -12504,7 +12504,7 @@
 	},
 	"e8e1055d-5752-4fc4-8a3e-93a3af6841cf": {
 		"name": "android_server_side_consent_9_1",
-		"v": 10601,
+		"v": 10615,
 		"t": 1,
 		"groups": [
 			{
@@ -12512,11 +12512,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_9_2"
 			}
 		]
