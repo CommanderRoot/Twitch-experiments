@@ -2909,15 +2909,15 @@
 	},
 	"3cd10884-3eb5-4238-bbef-c85e74a937b7": {
 		"name": "mobile_web_mgst_auto_deeplink",
-		"v": 9719,
+		"v": 10622,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
