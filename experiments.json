@@ -2883,7 +2883,7 @@
 	},
 	"3c3a5d48-117f-43ac-8b35-091f13b2d479": {
 		"name": "Player UI Embed Player Core Version (Staff)",
-		"v": 8765,
+		"v": 10627,
 		"t": 1,
 		"groups": [
 			{
@@ -8156,15 +8156,15 @@
 	},
 	"957c74ff-8a3e-43c2-9cb3-606f32c5b6d0": {
 		"name": "following_service_count_rollout",
-		"v": 10616,
+		"v": 10623,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "variant"
 			}
 		]
@@ -12761,7 +12761,7 @@
 	},
 	"ec70bd08-dbc8-4f48-9f60-d035fec3eb20": {
 		"name": "Player UI Embed Player Core Version (Public)",
-		"v": 8769,
+		"v": 10626,
 		"t": 1,
 		"s": 1,
 		"groups": [
