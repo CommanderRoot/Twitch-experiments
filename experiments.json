@@ -8175,15 +8175,15 @@
 	},
 	"957c74ff-8a3e-43c2-9cb3-606f32c5b6d0": {
 		"name": "following_service_count_rollout",
-		"v": 10642,
+		"v": 10647,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 43,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 57,
 				"value": "variant"
 			}
 		]
