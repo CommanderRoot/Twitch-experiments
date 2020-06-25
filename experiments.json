@@ -5972,6 +5972,21 @@
 			}
 		]
 	},
+	"6ec0cc4b-771d-4e43-8cf8-8dba9562f78a": {
+		"name": "android_amazon_identity_integration",
+		"v": 10654,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"6f3239de-c99d-437b-b6dc-344d9960b821": {
 		"name": "android_prowse",
 		"v": 7836,
