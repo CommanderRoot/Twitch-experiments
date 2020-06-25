@@ -2169,6 +2169,21 @@
 			}
 		]
 	},
+	"2a413858-4aab-4033-9ff9-f7dca3d4d1ae": {
+		"name": "dart_blackpowerlive_onsite_holdout",
+		"v": 10652,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"2aab6066-cac1-4c33-8e04-a93498012f20": {
 		"name": "dart_artificial_s3_e1_onsite",
 		"v": 10293,
@@ -11115,6 +11130,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"ca511f83-c383-4a54-a96a-3c395ab2c356": {
+		"name": "dart_blackpowerlive_push_holdout",
+		"v": 10653,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
