@@ -7184,6 +7184,21 @@
 			}
 		]
 	},
+	"82213125-aa4e-4b49-a971-234966f00789": {
+		"name": "dart_artificial_ep5_holdout",
+		"v": 10646,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"8230b88c-6367-4718-bd52-14fdce34e776": {
 		"name": "ios_braavos",
 		"v": 9681,
