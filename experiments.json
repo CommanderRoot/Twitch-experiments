@@ -8220,15 +8220,15 @@
 	},
 	"957c74ff-8a3e-43c2-9cb3-606f32c5b6d0": {
 		"name": "following_service_count_rollout",
-		"v": 10656,
+		"v": 10658,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 7,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 93,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
