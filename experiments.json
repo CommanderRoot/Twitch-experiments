@@ -3896,12 +3896,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 10645,
+		"v": 10664,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-0a3c75.pdx01.abs.hls.ttvnw.net/v1/segment/CnYe7UD_pqJr-BICi9Mjy14pOZFZThpDYiFwJk7Ss_xxfAFXWmftiWJn2kl5avaELU1ZSqacqfu4kkgxy04TCk4ajnjcu5MpQOU24X-MlnrV3ZldEwc7yWCuHWHHXx8yhGvJIVtbMp1N7aGF8xbU1BZsu6TM00w27feM1BMqADcSlWoIDQtbbbOQuurXZWjRVkqQqRcJCKZ5NN9MyTcs46ELmodLDnMv1utHn0F6DQXr1sRuZ6zWkssbR4T3LtDh0Lx9JMrVXPSZovxaaLqCfp0lIxbgsP9XhOuLIii62wEtokVlGtmVfe0lpsoX-RghLaO-z14JoV4QNr9RGB7RVRreSPzJnZ_ROXeOY4A0mqSaXwncJjSWddJYo0oA63t29vsaTbUPsc-DZc-xRkJN-Ui8Zn8bwuZ0J9k6iMhhFU8KvSdiMVwwena_gsCMdqhEs43pyNz40_AJumQb_imSCuIXtNoIdZJNbnqCI3GfKQNnCPD9x2xgpDzJ4ccuS1kMyrW-bEfAQGsABZaViRnHzsbDveWqHHue4PwBBFLK8CmYm1w4iJuWsklGrE_8NBsQeGTmyVbV05KF7AGdcKAnGVsCoSrZ44iYT60vYFPN3MoT7LydkebW5ogJP3y5EpXvuuK1O1RZIW4NFvTYtoz0Ae7yOq3FneKz7PRbDlUNt3btJdYxnGCSoWSxVb4nK-BFeao8EEU31gubf9L11uB0nGLa4uRoWHy8c-CHDlZt0S1jY5pTj09q1UUJVXoxHejRIHeY9Sz3gwuefzFUSwRuTN.ts"
+				"value": "//video-edge-e603e7.pdx01.abs.hls.ttvnw.net/v1/segment/CvJfH5g26b_jGqjzatJcB7GynnhvksgBztUzkF8ceWPfFBsy6FQaqO_kqJPx-IiBkKgezQMYYoV5tN5lfAuPt3sjbWPm2z9Tmyfk0HK1YUwB-MHdmSgzl2pP2g_G6H7q1eaASogeNAxcxasI0Cbq5UukEzq2p96txVRwiI1hKxaF1390XP9vue5R6HYfTAMfGA9e7QFLAjjVam0qilCwtH1FPe5miJ34Y57JxVUPeExUE8oL0HARe3chTbAu04uc4W4xw-gZDQ9KILvMCw7RGMqKHJ9p0uQ8lud_MCNF8ZdKZxEaKtWDh0iswhoZm05OaXGmS0I6MdXbyktiDjRY-y-jUKz3JRzTqgFEdsWfVqTahYR_-2rASy__keNCtmv1JIFeZoAkL0v_oNkQtEJSyDJZFSt-c8OtpRVqviTJjc3W0c_nXWMoK07APEka6DTaTR2KZz4hP1MkAgPGTmw2apqBCR1V__cUzkpZPnnfO_68kCN8zm5knH6BVvaa9LFzs3l6xF9iVfEQA391U9jOW8pug4wi06hG82VUgHROUVfkzUX6HSXp39KVxuR0MqoR7wrqhNi99PrGDPhJjm0TN-UTL3MPQmpJyiR_oWdHyskYe7ECCP87GmapeU2_IEHXpC_XXfnJCTMp53pWq_Q0JwB4cjKplu0hBhl_SQSOcqiEFvTcX0mtHFb-vqohKFcSwzHsyG_6RM4twnScUYU3rF46B0eO9IEOraIks8NSnkKPXfwvYlQFJ6MJ36eZ43lRL7haeCnVLQJtTw.ts"
 			}
 		]
 	},
@@ -8080,6 +8080,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"930dd06b-08da-4d7b-bd66-f57cd03502ad": {
+		"name": "android_hypetrain",
+		"v": 10663,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_9.4"
 			}
 		]
 	},
