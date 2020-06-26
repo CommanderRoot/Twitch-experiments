@@ -8085,7 +8085,7 @@
 	},
 	"930dd06b-08da-4d7b-bd66-f57cd03502ad": {
 		"name": "android_hypetrain",
-		"v": 10672,
+		"v": 10674,
 		"t": 1,
 		"groups": [
 			{
@@ -11934,6 +11934,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"d859382b-4059-423c-96d3-b6d7be4dc553": {
+		"name": "dart_sgf_indie_ejam_push_holdout",
+		"v": 10675,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
