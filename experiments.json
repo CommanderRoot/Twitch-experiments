@@ -1219,19 +1219,19 @@
 	},
 	"18e40adc-18ab-4d40-bb88-aa822a55d484": {
 		"name": "ios_notification_opt_in",
-		"v": 8452,
+		"v": 10667,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "prompt"
 			},
 			{
-				"weight": 30,
+				"weight": 100,
 				"value": "auto-in"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "auto-out"
 			}
 		]
