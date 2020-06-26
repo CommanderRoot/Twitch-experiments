@@ -5570,15 +5570,15 @@
 	},
 	"68b0d8c6-59b3-4630-a975-f2e8f8047e15": {
 		"name": "ios_profile_header_v2",
-		"v": 10120,
+		"v": 10670,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -8160,15 +8160,15 @@
 	},
 	"941723e1-bb28-4b8f-9c88-4709de1684ce": {
 		"name": "android_profile_header_v2",
-		"v": 10119,
+		"v": 10669,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
