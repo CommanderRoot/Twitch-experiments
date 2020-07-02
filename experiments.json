@@ -7245,8 +7245,8 @@
 		]
 	},
 	"82213125-aa4e-4b49-a971-234966f00789": {
-		"name": "dart_artificial_ep5_holdout",
-		"v": 10681,
+		"name": "dart_artificial_ep6_holdout",
+		"v": 10725,
 		"t": 2,
 		"groups": [
 			{
@@ -11491,6 +11491,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"ceb950a6-f5c4-4fd8-b00d-d689540abb04": {
+		"name": "dart_sgf_neville_onsite_holdout",
+		"v": 10724,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
