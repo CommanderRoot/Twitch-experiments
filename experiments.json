@@ -3911,12 +3911,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 10715,
+		"v": 10722,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-c66ddb.pdx01.abs.hls.ttvnw.net/v1/segment/CtNETHHUIk5V0xp1YN6rt77h5mXwTPHFCC1_kwDdIiYjvCcXLmXRIijBppEJlB4DCIcaBmoD8WW49QsleFgfDebWnRANSDBynzYHX2ggJR5lPvdyBfn0ib-OSz5LkK8RY8u-zQF2seedmHdbTu7amthk8iDYw8bNOIAJZsSssUKUrwebY3hDKl6g-hkSBHASPFI0Nk_zyUXsQPSdMFjm_1f3HAyfEaHcTamZjDDun9AEWhmc1kB8tFhKGNXQX2iEqf-3-MAotPkZWo3rFyrIDmhMkzQxvVs-1pfru2aWfQ57wNkJ9kNGHy2hYj2Hw9Xrfh2iH_Wn8j1feoRktJ39gYPL1nuuEbkyBLT5CKu0ogTg2u_g1BTXhJFyWjaMv3aHKHB7r2cPaknVl2p6SGO6Jar5rbwzr14eeC3v8952eWdzHcpOGRENaBCzfXW_m159OcGDiSdhxF0NgxxWWQo9-hZRlQjMeyjXXfaW_P_7flbifUKNaxTrXXmkEsJnUXBwdcLtJaES-DgiTD9AoScJieXJq-32toLoO5vNmQId8Xaw5ma5dKNPbhaNn-jVeJZZvngUq0Ekt5qce4CTWQLtYNwdOhzYRQ-BZBykfEpzouJBqL16QfqSvJXOTo3y-3XM3OTSEQhYYwS5Rv_tBLa6riAATRhXDInJTyUnDOhHvfdERzhhOCiLEazkVxdh6esgf5MllVrSLezyCGe3SdeNc24ih284a0AqFlLJpvvmnUNhvYaZdqfftvdmjjIgdBssKLWfGMB_Mvq.ts"
+				"value": "//video-edge-bc1e1b.pdx01.abs.hls.ttvnw.net/v1/segment/CkH0aPscMacTZv6bu1Tb9oKpZM3E91a-h1-Ihz4zud09z2Wr7zJncC_UwSYLZpGRYBLZW4rzOeqFT2ciog9m2-toMoRINQrko0gPIOBJRHI63ZkwYkfkKv_sbQmPO5Z6AdnNaxColfBaogddc5q4PlSv_QycE8xW1sFx_j93cBi6fCKAazsCNZgAHVmqlSnmDyYYBJ2G397pgenRsACnCfwEQX6ye0hFKJpM5IGJ8bugFp02TykMU6Joou40cZvHOm2A8OLwaxezU1_9zggRbdaorqWAswkVV7CITNPRBb4dFm43LZ5fISldYubPgogz4-1shFCGzB1c48qAnovN09dd0vKjxwUbwvzzGeW7MCuaZAiDsd2aYO9d9oqUAoZBlaguDTWQ3ek2IurLVf7f7fk76zEAsCSvCSBXgeDVuiAS_O3szBkbCBLfUgZ3uleo7EoRSfhlOHoqPdu4Zt9qJQLYYg3zIJGPA7_JV0wk_R6zO2AOc-nQ1tKva-3L98qjSKSBGmtErFgLcCtHiBTMwktOEhE1HTU8CXyebBkKDBjfr5FBcmMTTStx5O7qbAqfW58rsjDurRvAM26NDdFyy98CrceT3E1St3qFkCtWC_G4mukqegqyH1EeR8uMC0JeS_aFXZEfv1qsZGs7DHaOVOeDrPmcchLO47Lk3h3Qx-O_NtK0kVkrO5wHsKiOC52lAWqp8s5Bzf5wrPIIRyCwXqKgKpHuBxHvj-KLOP3359UBNK0HrA68ZL3fCSlhRT0edSOkqQZl-IAKeg.ts"
 			}
 		]
 	},
@@ -13546,6 +13546,21 @@
 			{
 				"weight": 0,
 				"value": "new"
+			}
+		]
+	},
+	"fb3e0455-b4c6-4802-b1c4-9975cdea3e27": {
+		"name": "ios_automatic_persisted_queries",
+		"v": 10723,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
+			},
+			{
+				"weight": 50,
+				"value": "control"
 			}
 		]
 	},
