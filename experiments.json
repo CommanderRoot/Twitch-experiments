@@ -2928,15 +2928,15 @@
 	},
 	"3cd10884-3eb5-4238-bbef-c85e74a937b7": {
 		"name": "mobile_web_mgst_auto_deeplink",
-		"v": 10622,
+		"v": 10730,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
@@ -4824,15 +4824,15 @@
 	},
 	"5cd1b965-dc4b-4dce-836f-53c7353a1b88": {
 		"name": "ios_mgst_broadcast_async_flvmuxer",
-		"v": 10684,
+		"v": 10729,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active"
 			}
 		]
@@ -6573,15 +6573,15 @@
 	},
 	"76c19512-f352-4e7a-9d9d-1608ff792865": {
 		"name": "android_mgst_stream_manager_badge_states",
-		"v": 10462,
+		"v": 10728,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_9.3"
 			}
 		]
