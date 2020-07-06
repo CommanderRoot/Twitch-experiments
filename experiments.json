@@ -8220,7 +8220,7 @@
 	},
 	"9440ea75-53aa-443a-8e3c-e8b1b09106f2": {
 		"name": "android_clipfinity_v1",
-		"v": 10637,
+		"v": 10746,
 		"t": 1,
 		"groups": [
 			{
@@ -8229,7 +8229,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_9.4"
+			},
+			{
+				"weight": 0,
+				"value": "active_with_entry_points"
 			}
 		]
 	},
