@@ -6996,6 +6996,21 @@
 			}
 		]
 	},
+	"7e5e8a28-f599-4fee-9ad6-d1acc242cd29": {
+		"name": "android_visage_tracking",
+		"v": 10748,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "active"
+			},
+			{
+				"weight": 95,
+				"value": "control"
+			}
+		]
+	},
 	"7e75faa1-7a39-4c06-8474-c1b902ab9189": {
 		"name": "android_profile_upload_5.5",
 		"v": 2196,
