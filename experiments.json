@@ -2528,6 +2528,21 @@
 			}
 		]
 	},
+	"331ed7a2-b3f6-4217-ba79-70f485cc5a51": {
+		"name": "ios_push_notification_settings",
+		"v": 10741,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"344180c2-5108-452a-841c-5a244d8e6d01": {
 		"name": "promotions_holdout_user_id",
 		"v": 10476,
