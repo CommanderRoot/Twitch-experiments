@@ -2094,6 +2094,21 @@
 			}
 		]
 	},
+	"28ca5427-cb5e-4bf4-a286-9ccc59b8ee03": {
+		"name": "tvapps_global_player_low_latency_experiment",
+		"v": 10751,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"295f24fe-045a-4739-9ca0-7dc824e3e19b": {
 		"name": "android_multiview",
 		"v": 9135,
