@@ -12482,6 +12482,21 @@
 			}
 		]
 	},
+	"e162969c-9106-49f3-8bb3-a0e2100676be": {
+		"name": "ios_browse_page_size_decrease",
+		"v": 10765,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
 	"e194cac3-9798-49f6-ac2b-9b42b97b2ac1": {
 		"name": "ios_theater_prefer_os_pip",
 		"v": 10431,
