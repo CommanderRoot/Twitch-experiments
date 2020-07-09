@@ -13220,7 +13220,7 @@
 	},
 	"f15d932e-99a9-4e80-a9aa-0aa6f9f4ad13": {
 		"name": "android_t2_t3_modified_emotes",
-		"v": 10580,
+		"v": 10829,
 		"t": 1,
 		"groups": [
 			{
@@ -13230,6 +13230,10 @@
 			{
 				"weight": 0,
 				"value": "active_9.3"
+			},
+			{
+				"weight": 0,
+				"value": "active_9.4"
 			}
 		]
 	},
@@ -13295,15 +13299,15 @@
 	},
 	"f37983ce-42f3-46e5-b6ac-231a47f00b7d": {
 		"name": "ios_thunderdome",
-		"v": 10054,
+		"v": 10823,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -13758,15 +13762,15 @@
 	},
 	"fc539625-ebf2-4c54-88cc-acc2c0886a7c": {
 		"name": "android_thunderdome",
-		"v": 10056,
+		"v": 10824,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "active_9.0"
 			}
 		]
