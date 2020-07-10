@@ -12213,15 +12213,15 @@
 	},
 	"d97b6b6f-5f4f-4655-b212-0bb21c2bcec9": {
 		"name": "ios_use_new_copy_for_legacy_gdpr",
-		"v": 10401,
+		"v": 10837,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_v9.1"
 			}
 		]
