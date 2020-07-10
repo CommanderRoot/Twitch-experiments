@@ -3031,6 +3031,21 @@
 			}
 		]
 	},
+	"3e6edc54-69dd-4793-b056-22a77a477aa1": {
+		"name": "android_graphql_apq",
+		"v": 10835,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"3ea73879-f09e-4486-b0a0-b74d0a200799": {
 		"name": "dart_dota2ti_maineventrecap_holdout",
 		"v": 7732,
