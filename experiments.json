@@ -6981,6 +6981,21 @@
 			}
 		]
 	},
+	"7d46d35a-02ce-4f3f-ad1c-6d7e7d59a610": {
+		"name": "ios_multiplayer_ad_polls",
+		"v": 10838,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v9.5"
+			}
+		]
+	},
 	"7d9127aa-c26f-4b80-a04d-e6ed38e18b78": {
 		"name": "GET_BITS_BUTTON",
 		"v": 2250,
@@ -13080,7 +13095,7 @@
 	},
 	"ec640f44-d211-4331-9cee-bc2716b3130e": {
 		"name": "mobile_native_chat_filter_new_users",
-		"v": 9187,
+		"v": 10839,
 		"t": 2,
 		"groups": [
 			{
