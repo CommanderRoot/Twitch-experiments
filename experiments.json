@@ -12994,6 +12994,21 @@
 			}
 		]
 	},
+	"ea95816a-846e-428e-b2fd-9ed1c32631b3": {
+		"name": "ios_push_notification_signup_prompt",
+		"v": 10850,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"eaa83ba9-6d70-4427-bda2-9eacc0e6d276": {
 		"name": "android_mgst_low_latency_measure",
 		"v": 10081,
