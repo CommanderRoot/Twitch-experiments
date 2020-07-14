@@ -5390,19 +5390,15 @@
 	},
 	"63fc0f79-7415-4d4a-8d6b-748c1504783d": {
 		"name": "android_community_highlights",
-		"v": 10857,
+		"v": 10871,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_9.2"
 			}
 		]
