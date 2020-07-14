@@ -10678,6 +10678,21 @@
 			}
 		]
 	},
+	"bb8aab4d-5317-417c-88e7-23ffc7049ced": {
+		"name": "mobile_web_new_search",
+		"v": 10873,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"bbb3bde7-7101-4d10-b3ca-2ed73e8044ab": {
 		"name": "surestream_rollout_ps4",
 		"v": 7144,
