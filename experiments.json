@@ -2744,7 +2744,7 @@
 	},
 	"35fb5877-241a-4012-842f-caeda51bd878": {
 		"name": "ios_polls_vote_tokens",
-		"v": 10203,
+		"v": 10876,
 		"t": 1,
 		"groups": [
 			{
@@ -2754,6 +2754,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_9.5"
 			}
 		]
 	},
