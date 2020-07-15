@@ -5478,6 +5478,21 @@
 			}
 		]
 	},
+	"64bfcb47-6285-4036-ab8f-0a8634d4f352": {
+		"name": "following_service_cache_removal",
+		"v": 10892,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"64c787d2-7a36-447b-bba3-8bbab6846da6": {
 		"name": "android_browse_for_tablet",
 		"v": 3431,
