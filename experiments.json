@@ -14039,6 +14039,21 @@
 			}
 		]
 	},
+	"fe574bc6-755a-4545-9a5a-b98222f7382f": {
+		"name": "dart_amsot_session2_holdout",
+		"v": 10896,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"fe5bad1f-521b-4ab9-9cd4-8161ef779550": {
 		"name": "crunchyroll_button",
 		"v": 1723,
