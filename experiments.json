@@ -4095,15 +4095,15 @@
 	},
 	"4dced941-77cd-4290-9a41-5f0a563383e3": {
 		"name": "Promotions_Live_Recommended_iOS",
-		"v": 10262,
+		"v": 10907,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "promotions_enabled"
 			}
 		]
