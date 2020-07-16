@@ -5480,15 +5480,15 @@
 	},
 	"64bfcb47-6285-4036-ab8f-0a8634d4f352": {
 		"name": "following_service_cache_removal",
-		"v": 10892,
+		"v": 10903,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
@@ -9313,15 +9313,15 @@
 	},
 	"a5eae104-286a-467e-a5fd-0131fd6f1636": {
 		"name": "promotions_relevance_ranking",
-		"v": 10506,
+		"v": 10902,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "ranking_on"
 			}
 		]
