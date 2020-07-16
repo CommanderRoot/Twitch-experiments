@@ -867,15 +867,15 @@
 	},
 	"117e3dbc-fc17-49b4-9d07-34d09dd2c10d": {
 		"name": "Promotions_Live_Recommended_Android",
-		"v": 10273,
+		"v": 10908,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "promotions_enabled"
 			}
 		]
