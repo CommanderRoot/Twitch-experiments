@@ -5209,15 +5209,15 @@
 	},
 	"60661573-f49b-448a-97b9-69e10c0bb7a1": {
 		"name": "ios_infinite_animator_repeat",
-		"v": 10843,
+		"v": 10915,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
