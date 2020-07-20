@@ -2513,6 +2513,21 @@
 			}
 		]
 	},
+	"3160a338-89e0-4c1b-aa5c-4881ea46494f": {
+		"name": "dart_epl_sheffieldxeverton_holdout",
+		"v": 10925,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"317da15f-5ecf-47be-9055-e73f63fafd71": {
 		"name": "ios_offline_channel_v2",
 		"v": 10481,
