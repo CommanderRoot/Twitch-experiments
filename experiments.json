@@ -7167,15 +7167,15 @@
 	},
 	"7e0b82e9-617c-4c47-b9fd-f8b7f47ba04d": {
 		"name": "android_broadcasting_sports_rename",
-		"v": 10832,
+		"v": 10965,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
