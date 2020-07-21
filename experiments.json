@@ -1665,6 +1665,21 @@
 			}
 		]
 	},
+	"209952d8-c999-4d39-b748-98a3b16adb2d": {
+		"name": "dart_logic_onsite_holdout",
+		"v": 10960,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"20a3c743-f570-442b-a0db-4dad344be426": {
 		"name": "android_ccpa_gdpr",
 		"v": 9241,
@@ -3740,6 +3755,21 @@
 			{
 				"weight": 0,
 				"value": "streams"
+			}
+		]
+	},
+	"47dc3b2f-05ac-43c9-9e94-1b8277d81ae6": {
+		"name": "dart_logic_push_holdout",
+		"v": 10959,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
