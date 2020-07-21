@@ -8419,15 +8419,15 @@
 	},
 	"9440ea75-53aa-443a-8e3c-e8b1b09106f2": {
 		"name": "android_clipfinity_v1",
-		"v": 10746,
+		"v": 10948,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_9.4"
 			},
 			{
