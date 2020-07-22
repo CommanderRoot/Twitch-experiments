@@ -13927,20 +13927,25 @@
 	},
 	"fba9e195-1661-42c2-85f5-64320965273e": {
 		"name": "subs_pif",
-		"v": 10969,
+		"v": 10978,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "gift_first"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "thank_first"
+			},
+			{
+				"weight": 50,
+				"value": "use_ml"
 			}
 		]
 	},
