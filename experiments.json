@@ -9437,15 +9437,15 @@
 	},
 	"a6c4cd0f-4df1-4d45-b409-a77f10a4b2a1": {
 		"name": "android_creator_settings_menu",
-		"v": 10375,
+		"v": 10979,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 80,
 				"value": "active"
 			}
 		]
