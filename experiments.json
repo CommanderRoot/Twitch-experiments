@@ -3344,6 +3344,21 @@
 			}
 		]
 	},
+	"41e18f7f-1f82-4f85-96df-768b78692345": {
+		"name": "ios_let_ads_transition_play_state",
+		"v": 10975,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "ads_can_play"
+			},
+			{
+				"weight": 0,
+				"value": "ads_ignore_state"
+			}
+		]
+	},
 	"41e640c8-c5ad-4e72-b32f-b3c36d70dbe3": {
 		"name": "ios_chomments_deprecation",
 		"v": 9634,
