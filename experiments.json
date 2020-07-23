@@ -4982,15 +4982,15 @@
 	},
 	"5cd1b965-dc4b-4dce-836f-53c7353a1b88": {
 		"name": "ios_mgst_broadcast_async_flvmuxer",
-		"v": 10926,
+		"v": 10990,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -5544,15 +5544,15 @@
 	},
 	"64bfcb47-6285-4036-ab8f-0a8634d4f352": {
 		"name": "following_service_cache_removal",
-		"v": 10974,
+		"v": 10991,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 87,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 13,
 				"value": "variant"
 			}
 		]
