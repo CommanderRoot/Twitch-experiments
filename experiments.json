@@ -5559,15 +5559,15 @@
 	},
 	"64bfcb47-6285-4036-ab8f-0a8634d4f352": {
 		"name": "following_service_cache_removal",
-		"v": 10994,
+		"v": 10995,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 84,
+				"weight": 81,
 				"value": "control"
 			},
 			{
-				"weight": 16,
+				"weight": 19,
 				"value": "variant"
 			}
 		]
