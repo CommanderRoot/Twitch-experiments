@@ -13209,6 +13209,21 @@
 			}
 		]
 	},
+	"ec47a1b5-2f8d-4b56-b874-71b05b8c03b2": {
+		"name": "dart_amsot_session3_holdout",
+		"v": 10987,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"ec57d33c-2d58-4088-9ff6-617418a6cf1b": {
 		"name": "citadel",
 		"v": 2406,
