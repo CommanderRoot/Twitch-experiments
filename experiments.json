@@ -2919,6 +2919,21 @@
 			}
 		]
 	},
+	"3a0a2a8e-4f85-4f3c-af2c-31d4a8217e11": {
+		"name": "android_drops_inventory_mw",
+		"v": 10992,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"3a1a377e-969a-49cf-8df4-d4b45a1d5d1e": {
 		"name": "ios_chat_replay_rewrite",
 		"v": 8476,
