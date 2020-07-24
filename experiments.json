@@ -82,6 +82,21 @@
 			}
 		]
 	},
+	"00f33793-651e-4ea1-b6bb-00a9a9479fbf": {
+		"name": "android_creator_settings_menu_9.5",
+		"v": 11015,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"011d1499-61b3-49b2-92b2-b2ffd353ef00": {
 		"name": "twilight_sub_gifting",
 		"v": 2462,
@@ -9453,7 +9468,7 @@
 	},
 	"a6c4cd0f-4df1-4d45-b409-a77f10a4b2a1": {
 		"name": "android_creator_settings_menu",
-		"v": 11012,
+		"v": 11014,
 		"t": 2,
 		"groups": [
 			{
