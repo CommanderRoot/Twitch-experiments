@@ -3897,6 +3897,29 @@
 			}
 		]
 	},
+	"49d102ea-7013-4fdc-ba8d-6a16f99a1a1e": {
+		"name": "android_emote_avatars",
+		"v": 11032,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development_global_emotes"
+			},
+			{
+				"weight": 0,
+				"value": "active_development_sub_emotes"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"49f40b88-2044-409d-b306-2eb308489a60": {
 		"name": "Twilight_Upsell",
 		"v": 4195,
