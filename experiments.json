@@ -12667,6 +12667,21 @@
 			}
 		]
 	},
+	"dd92ae9c-16e3-4726-9f53-fefef4ef8731": {
+		"name": "android_notifications_sorting",
+		"v": 11063,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"de013c6f-a800-45ee-9ab4-7965c405e3eb": {
 		"name": "TWILIGHT_ARCHER",
 		"v": 9036,
