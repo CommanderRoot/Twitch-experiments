@@ -10935,6 +10935,21 @@
 			}
 		]
 	},
+	"bcdcd379-1e9a-44f2-b137-b6c4cedb04ab": {
+		"name": "ios_drops_inventory_mw",
+		"v": 11060,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"bcea9594-9761-4804-9d23-5b281512950b": {
 		"name": "android_native_login",
 		"v": 9166,
