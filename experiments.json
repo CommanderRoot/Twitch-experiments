@@ -9429,6 +9429,21 @@
 			}
 		]
 	},
+	"a426b4ec-a5a6-4b9b-bd6b-9f4f53a694ba": {
+		"name": "dart_shinodavol2_push_holdout",
+		"v": 11103,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"a51bc8be-9cad-477b-b084-83931bb04413": {
 		"name": "ad_countdown_timers_surestream",
 		"v": 6237,
@@ -13900,6 +13915,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"f8c5973e-cf39-4d9e-8bcb-5717ccacdb60": {
+		"name": "dart_shinodavol2_onsite_holdout",
+		"v": 11102,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
