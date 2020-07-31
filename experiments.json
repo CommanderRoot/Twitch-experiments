@@ -561,6 +561,21 @@
 			}
 		]
 	},
+	"0a1a5f41-2552-43b8-b469-4fb61668f966": {
+		"name": "tvapps_xboxone_feature_cloud_broadcasting",
+		"v": 11112,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enable_cloud_broadcasting"
+			},
+			{
+				"weight": 100,
+				"value": "Is_feature_in_beta"
+			}
+		]
+	},
 	"0a324094-71b4-43aa-924b-2130183f7836": {
 		"name": "aperture_viewcount_staging",
 		"v": 6121,
