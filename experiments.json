@@ -4149,21 +4149,6 @@
 			}
 		]
 	},
-	"4cfb5972-e20e-4ae1-92dd-7287ec58b4a4": {
-		"name": "twilight_theatre_fullscreen_v2",
-		"v": 3793,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
-				"value": "treatment"
-			}
-		]
-	},
 	"4d2a343e-eee1-46fa-9fba-eee3fbc43172": {
 		"name": "android_surestream",
 		"v": 6012,
@@ -4545,25 +4530,6 @@
 			{
 				"weight": 100,
 				"value": "qos_v6_exp"
-			}
-		]
-	},
-	"54b18ea6-2b6a-4ed7-9128-2497572d31e2": {
-		"name": "twilight_web_onboarding_following_for_you",
-		"v": 2919,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "first"
-			},
-			{
-				"weight": 50,
-				"value": "last"
 			}
 		]
 	},
