@@ -3791,25 +3791,6 @@
 			}
 		]
 	},
-	"47c76558-9d79-4181-9e43-d7c440a1a148": {
-		"name": "twilight_web_onboarding_categories_anon_front_page",
-		"v": 3021,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "games"
-			},
-			{
-				"weight": 0,
-				"value": "streams"
-			}
-		]
-	},
 	"47dc3b2f-05ac-43c9-9e94-1b8277d81ae6": {
 		"name": "dart_logic_push_holdout",
 		"v": 10959,
@@ -6269,21 +6250,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"6f822381-f41d-445e-bf88-36fb9095a7b5": {
-		"name": "twilight_v_ember",
-		"v": 3139,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "control"
-			},
-			{
-				"weight": 90,
-				"value": "treatment"
 			}
 		]
 	},
