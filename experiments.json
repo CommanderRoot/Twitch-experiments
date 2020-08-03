@@ -1125,21 +1125,6 @@
 			}
 		]
 	},
-	"1624c168-6f83-421f-90a6-3c0d0be252b9": {
-		"name": "mobile_web_mgst_experiment_baseline",
-		"v": 7881,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
-			}
-		]
-	},
 	"164332c9-759a-46f5-92de-63d43ff2fd35": {
 		"name": "twilight_web_side_nav_upsell_center_channels",
 		"v": 7313,
@@ -7815,21 +7800,6 @@
 			}
 		]
 	},
-	"86e61b21-eeca-4bf0-93e9-e027d23bd537": {
-		"name": "mobile_web_mgst_offline_channel_entry",
-		"v": 9329,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
-			}
-		]
-	},
 	"87d995c4-afbc-400e-a6e4-472419071e26": {
 		"name": "ios_pipboy_broadcasting",
 		"v": 1338,
@@ -9429,21 +9399,6 @@
 			}
 		]
 	},
-	"a3c18184-3e25-42f1-aafe-8cc16b0faf76": {
-		"name": "mobile_web_mgst_locale_experiment_baseline",
-		"v": 7882,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
-			}
-		]
-	},
 	"a426b4ec-a5a6-4b9b-bd6b-9f4f53a694ba": {
 		"name": "dart_shinodavol2_push_holdout",
 		"v": 11103,
@@ -10126,21 +10081,6 @@
 			},
 			{
 				"weight": 50,
-				"value": "treatment"
-			}
-		]
-	},
-	"af645a1a-1764-45ac-96f2-a92a935a41f7": {
-		"name": "mobile_web_mgst_channel_upsell",
-		"v": 8454,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
 				"value": "treatment"
 			}
 		]
@@ -13945,21 +13885,6 @@
 			{
 				"weight": 90,
 				"value": "allowed"
-			}
-		]
-	},
-	"f903a095-c5af-43b9-9480-5197c7bbb01f": {
-		"name": "mobile_web_mgst_open_app_contrast",
-		"v": 7752,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
 			}
 		]
 	},
