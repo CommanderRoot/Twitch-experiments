@@ -563,16 +563,20 @@
 	},
 	"0a1a5f41-2552-43b8-b469-4fb61668f966": {
 		"name": "tvapps_xboxone_feature_cloud_broadcasting",
-		"v": 11113,
+		"v": 11146,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "enable_cloud_broadcasting"
+				"value": "disable"
+			},
+			{
+				"weight": 0,
+				"value": "enable"
 			},
 			{
 				"weight": 100,
-				"value": "is_feature_in_beta"
+				"value": "enable_as_beta"
 			}
 		]
 	},
@@ -11699,21 +11703,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"cc4bd705-0646-45f3-b607-c70e1623a279": {
-		"name": "browse_sort",
-		"v": 7336,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "control"
-			},
-			{
-				"weight": 95,
-				"value": "variant"
 			}
 		]
 	},
