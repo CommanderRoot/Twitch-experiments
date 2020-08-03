@@ -11589,6 +11589,21 @@
 			}
 		]
 	},
+	"ca8b257c-6656-4ecd-8cc3-bd61240ce20d": {
+		"name": "ios_deliver_playback_updates_during_ads",
+		"v": 11131,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "deliver"
+			},
+			{
+				"weight": 0,
+				"value": "dont_deliver"
+			}
+		]
+	},
 	"cbe89bdd-4882-4cf1-aea8-e5341a4a198a": {
 		"name": "dart_omertestfollowemail1_email",
 		"v": 7411,
