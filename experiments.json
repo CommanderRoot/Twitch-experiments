@@ -2922,6 +2922,21 @@
 			}
 		]
 	},
+	"385ee89f-3063-4471-a379-de527dfbb169": {
+		"name": "ios_sentry_crash_reporter",
+		"v": 11187,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "crashlytics"
+			},
+			{
+				"weight": 0,
+				"value": "sentry"
+			}
+		]
+	},
 	"39c569b7-c58e-47c7-b975-7af0d2bcb31e": {
 		"name": "android_ima_om",
 		"v": 7295,
