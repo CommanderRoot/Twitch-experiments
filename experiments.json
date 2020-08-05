@@ -4211,11 +4211,11 @@
 	},
 	"4e10cdad-1f9d-4556-8617-122179c39d9b": {
 		"name": "ios_age_gating",
-		"v": 11195,
+		"v": 11200,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -4223,7 +4223,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v9.5"
 			}
 		]
@@ -10353,6 +10353,21 @@
 			{
 				"weight": 90,
 				"value": "allowed"
+			}
+		]
+	},
+	"b3aebe8f-daa6-4a7b-be71-97af8da9e6c7": {
+		"name": "android_rebuffer_to_live",
+		"v": 11202,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 95,
+				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "active"
 			}
 		]
 	},
