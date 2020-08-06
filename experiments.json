@@ -3124,21 +3124,6 @@
 			}
 		]
 	},
-	"3f03eebb-3cbb-4f7c-b64b-e1ed0115a773": {
-		"name": "twilight_watch_winston",
-		"v": 3998,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "off"
-			},
-			{
-				"weight": 0,
-				"value": "on"
-			}
-		]
-	},
 	"3f3117d1-ff5c-4097-97cf-36321e4f307b": {
 		"name": "android_prime_subs",
 		"v": 4377,
@@ -5526,21 +5511,6 @@
 			}
 		]
 	},
-	"647bfc96-3fc6-4f5e-ab95-38c4eab60830": {
-		"name": "twilight_watch_sombra",
-		"v": 3997,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "off"
-			},
-			{
-				"weight": 0,
-				"value": "on"
-			}
-		]
-	},
 	"64bfcb47-6285-4036-ab8f-0a8634d4f352": {
 		"name": "following_service_cache_removal",
 		"v": 11101,
@@ -7863,21 +7833,6 @@
 			{
 				"weight": 0,
 				"value": ""
-			}
-		]
-	},
-	"89328310-2ae2-448b-9cf6-b801b20470f7": {
-		"name": "player_watch_anon_notifications",
-		"v": 6123,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 80,
-				"value": "control"
-			},
-			{
-				"weight": 20,
-				"value": "on"
 			}
 		]
 	},
@@ -13557,21 +13512,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"f21b3a40-dd87-44eb-a7e6-1c9a1feb2816": {
-		"name": "player_watch_follow_twilight",
-		"v": 6139,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "on"
 			}
 		]
 	},
