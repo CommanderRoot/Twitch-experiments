@@ -11949,21 +11949,6 @@
 			}
 		]
 	},
-	"d02fef29-1d9f-4ad1-b44e-6359d96a8501": {
-		"name": "pushy_device_token_pruning",
-		"v": 4005,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"d0518b75-fbba-418a-9445-ff7c517beb32": {
 		"name": "Watch_Party_Player_UI",
 		"v": 1388,
