@@ -6000,6 +6000,21 @@
 			}
 		]
 	},
+	"6b9ac189-a168-4750-b169-c4eca1ed04af": {
+		"name": "dart_amsot_session5_push",
+		"v": 11214,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"6bafb943-5523-438b-a77f-e9260d7c3dc3": {
 		"name": "black_widow",
 		"v": 8548,
@@ -9659,6 +9674,21 @@
 			}
 		]
 	},
+	"ab03c8bd-0ac6-49fb-a35f-415a6bdbad01": {
+		"name": "dart_amsot_session5_holdout",
+		"v": 11213,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"ab22070a-64e4-418b-9095-59a59ce728a7": {
 		"name": "ios_chat_refactor",
 		"v": 10091,
@@ -10180,6 +10210,21 @@
 			{
 				"weight": 0,
 				"value": "active_8_1_1_staff"
+			}
+		]
+	},
+	"b15411c7-9bf7-407d-b1e4-150656614faa": {
+		"name": "dart_amsot_session5_onsite",
+		"v": 11215,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
