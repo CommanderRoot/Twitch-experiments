@@ -6822,6 +6822,21 @@
 			}
 		]
 	},
+	"767cca3e-a413-4408-8fc8-20e3d232f55a": {
+		"name": "ios_chat_connection_aggressive_pruning",
+		"v": 11226,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
+			}
+		]
+	},
 	"76c19512-f352-4e7a-9d9d-1608ff792865": {
 		"name": "android_mgst_stream_manager_badge_states",
 		"v": 10854,
