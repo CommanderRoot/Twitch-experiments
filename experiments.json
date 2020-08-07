@@ -12063,16 +12063,20 @@
 	},
 	"d41b345c-67a6-49d4-b396-c56f62c2d38c": {
 		"name": "android_poll_vote_with_bits_and_copo",
-		"v": 10282,
+		"v": 11242,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "active_9.5"
 			}
 		]
 	},
