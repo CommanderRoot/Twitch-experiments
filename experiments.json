@@ -4621,15 +4621,15 @@
 	},
 	"580ed101-5afc-4228-bf77-e831860b6801": {
 		"name": "ios_country_code_signup",
-		"v": 10853,
+		"v": 11245,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -8387,6 +8387,25 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"93c75b09-a624-4f8d-bf34-318011ae4f22": {
+		"name": "android_mgst_capped_rebuffer_penalty_and_dynamic_bandwidth_usage",
+		"v": 11244,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "capped_rebuffer_penalty"
+			},
+			{
+				"weight": 0,
+				"value": "dynamic_bandwidth_usage_factor"
 			}
 		]
 	},
