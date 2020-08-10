@@ -1394,6 +1394,21 @@
 			}
 		]
 	},
+	"1ab8854c-163d-4640-ac49-8bd6291135bf": {
+		"name": "ios_battery_tracking",
+		"v": 11258,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "disabled"
+			},
+			{
+				"weight": 1,
+				"value": "enabled"
+			}
+		]
+	},
 	"1abd6e2c-c0c8-4656-8bb6-8d37f009c7c6": {
 		"name": "ios_ad_requester_manager_squad_streams",
 		"v": 10322,
