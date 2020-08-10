@@ -1015,6 +1015,21 @@
 			}
 		]
 	},
+	"15418977-9c99-45b6-8509-ba405a220497": {
+		"name": "dart_sgf_cyberpunk2_onsite_holdout",
+		"v": 11251,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"158b4a89-454f-496c-aa2d-646886c43ec4": {
 		"name": "ios_discover",
 		"v": 4209,
@@ -5473,6 +5488,21 @@
 	"6455e6ec-0a0d-40a5-a69d-523fa47681e6": {
 		"name": "dart_sgf_eaplay_holdout",
 		"v": 10554,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"645b419d-7c34-448b-91e5-e52000bc17f1": {
+		"name": "dart_sgf_cyberpunk2_push_holdout",
+		"v": 11252,
 		"t": 2,
 		"groups": [
 			{
