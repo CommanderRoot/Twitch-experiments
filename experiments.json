@@ -2916,15 +2916,15 @@
 	},
 	"385ee89f-3063-4471-a379-de527dfbb169": {
 		"name": "ios_sentry_crash_reporter",
-		"v": 11224,
+		"v": 11253,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "crashlytics"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "sentry"
 			}
 		]
