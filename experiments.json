@@ -10962,15 +10962,15 @@
 	},
 	"bcdcd379-1e9a-44f2-b137-b6c4cedb04ab": {
 		"name": "ios_drops_inventory_mw",
-		"v": 11060,
+		"v": 11263,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
