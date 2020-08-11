@@ -2961,15 +2961,15 @@
 	},
 	"3a0a2a8e-4f85-4f3c-af2c-31d4a8217e11": {
 		"name": "android_drops_inventory_mw",
-		"v": 11220,
+		"v": 11267,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
