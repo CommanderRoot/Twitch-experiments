@@ -6179,15 +6179,15 @@
 	},
 	"6e4680aa-4dbc-462f-8ff9-03455570aa2b": {
 		"name": "ios_allow_play_pause_on_stream",
-		"v": 10437,
+		"v": 11281,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_v9.1"
 			}
 		]
