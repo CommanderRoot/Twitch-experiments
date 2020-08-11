@@ -7029,6 +7029,21 @@
 			}
 		]
 	},
+	"7a6eea22-8ddc-4e9c-8c84-0f677c7dca1f": {
+		"name": "tvapps_search_results_redesign",
+		"v": 11287,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"7a8644c3-2d4a-42fa-85cd-bdd6041ed732": {
 		"name": "android_multi_view_free_trial",
 		"v": 9159,
