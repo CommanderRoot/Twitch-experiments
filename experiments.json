@@ -10521,6 +10521,21 @@
 			}
 		]
 	},
+	"b40df9a0-9dcd-4946-b364-830b7693d2dd": {
+		"name": "avs_checkout",
+		"v": 11309,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "experiment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"b451a3d9-79f4-4743-89c1-719335c2c974": {
 		"name": "CPR_SUB_NAV_V2",
 		"v": 727,
