@@ -6480,7 +6480,7 @@
 	},
 	"7263473f-8597-4be5-ab30-73d278ab3c12": {
 		"name": "tvapps_ps4_devicecodeflow",
-		"v": 11256,
+		"v": 11297,
 		"t": 1,
 		"groups": [
 			{
@@ -6488,11 +6488,11 @@
 				"value": "device-code-flow"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "legacy-sso"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "migrate"
 			}
 		]
