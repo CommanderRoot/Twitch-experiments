@@ -9428,6 +9428,21 @@
 			}
 		]
 	},
+	"a4fa6114-e59c-47a6-9059-ac5c91ee0429": {
+		"name": "dart_amsot_session_holdout",
+		"v": 11317,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a51bc8be-9cad-477b-b084-83931bb04413": {
 		"name": "ad_countdown_timers_surestream",
 		"v": 6237,
