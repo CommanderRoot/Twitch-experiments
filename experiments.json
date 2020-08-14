@@ -2422,6 +2422,21 @@
 			}
 		]
 	},
+	"2ca1c35c-fdbe-4b82-a1e2-33b9e3cffe90": {
+		"name": "ios_viewer_level_ads_enabled",
+		"v": 11331,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"2ca1e3be-6560-4f2f-bc45-ecccbdbe7fd2": {
 		"name": "dart_dota2ti_groupreminder_2_holdout",
 		"v": 7654,
