@@ -11690,6 +11690,21 @@
 			}
 		]
 	},
+	"c941a1bf-ab9e-429d-b0a5-6087e3ac64d0": {
+		"name": "ads_test_mobile_web",
+		"v": 11353,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "ADS_ON"
+			},
+			{
+				"weight": 100,
+				"value": "ADS_OFF"
+			}
+		]
+	},
 	"c96f651c-0d69-43cf-9127-7eab817e5ebd": {
 		"name": "android_dead_channel_to_profile",
 		"v": 3770,
