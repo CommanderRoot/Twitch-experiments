@@ -6279,6 +6279,21 @@
 			}
 		]
 	},
+	"6fdd956e-23a3-48ed-afcd-2b7342d62cda": {
+		"name": "dart_hyperscape_emotes_holdout",
+		"v": 11352,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"6fe8a3d3-6afb-4b8d-b761-dc14eef55b21": {
 		"name": "tvapps_firetv_additional_crash_dump_info",
 		"v": 9127,
