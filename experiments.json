@@ -9567,6 +9567,21 @@
 			}
 		]
 	},
+	"a6133d69-00d9-4a41-996e-590f33b7900f": {
+		"name": "navi_web_similar_section",
+		"v": 11375,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"a6896ac8-2d90-4342-840b-b48573b00d62": {
 		"name": "ios_autoplay_videos_setting",
 		"v": 2197,
