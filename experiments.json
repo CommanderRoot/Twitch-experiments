@@ -10414,19 +10414,15 @@
 	},
 	"b1f4084a-2953-4489-a6db-49a7819f6924": {
 		"name": "ios_suppress_id3_midrolls",
-		"v": 11330,
+		"v": 11371,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_v9.4"
-			},
-			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v9.6"
 			}
 		]
