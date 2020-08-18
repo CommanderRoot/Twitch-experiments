@@ -8954,15 +8954,15 @@
 	},
 	"9a4ee74d-731c-4ba1-9509-4f0e73eec33f": {
 		"name": "ios_broadcasting_music_rename",
-		"v": 10331,
+		"v": 11366,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -9755,15 +9755,15 @@
 	},
 	"aa00a750-2bf2-43d7-b02f-a190b9497e5b": {
 		"name": "android_broadcasting_music_rename",
-		"v": 10332,
+		"v": 11365,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
