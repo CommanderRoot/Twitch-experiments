@@ -13933,6 +13933,21 @@
 			}
 		]
 	},
+	"f53d54a7-292c-4ae2-9d5c-63c9410358ca": {
+		"name": "dart_twitchrivals_hyperscape_081920_holdout",
+		"v": 11387,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f55858c9-1293-4574-83a1-3dc7592d93e8": {
 		"name": "ios_native_iap_logging",
 		"v": 9174,
