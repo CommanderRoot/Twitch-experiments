@@ -540,11 +540,11 @@
 	},
 	"0a1a5f41-2552-43b8-b469-4fb61668f966": {
 		"name": "tvapps_xboxone_feature_cloud_broadcasting",
-		"v": 11381,
+		"v": 11382,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "disable"
 			},
 			{
@@ -552,7 +552,7 @@
 				"value": "enable"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "enable_as_beta"
 			}
 		]
