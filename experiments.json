@@ -12570,6 +12570,21 @@
 			}
 		]
 	},
+	"d6fc811f-05b0-4506-8a7d-f8787a0bf62b": {
+		"name": "android_pip_surface_fix",
+		"v": 11420,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"d70100c0-dc50-46e3-b007-049a5b270dec": {
 		"name": "android_video_edge_reassign",
 		"v": 5635,
