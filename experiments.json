@@ -11642,15 +11642,15 @@
 	},
 	"c7a41a16-bd95-40d4-a346-67ecf77202da": {
 		"name": "android_rtmps",
-		"v": 11348,
+		"v": 11399,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
