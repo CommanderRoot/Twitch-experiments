@@ -9353,6 +9353,21 @@
 			}
 		]
 	},
+	"a08f8d09-7890-4eae-914f-6b272d05d1aa": {
+		"name": "prioritized_APM_icons",
+		"v": 11405,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment"
+			}
+		]
+	},
 	"a0a3d1d7-5a72-4fee-8093-ee9ba0025857": {
 		"name": "dart_twitchrivals_en_valorant_620_pushemail_frozen_holdout",
 		"v": 10419,
