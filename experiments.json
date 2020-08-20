@@ -9603,7 +9603,7 @@
 	},
 	"a6133d69-00d9-4a41-996e-590f33b7900f": {
 		"name": "leftnav_li_similarity",
-		"v": 11408,
+		"v": 11410,
 		"t": 1,
 		"groups": [
 			{
@@ -9612,7 +9612,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "variant"
+				"value": "variant1"
+			},
+			{
+				"weight": 0,
+				"value": "variant2"
 			}
 		]
 	},
@@ -11954,6 +11958,25 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"cc5fd3e8-7afb-41e4-ab62-29546e226dc8": {
+		"name": "leftnav_lo_similarity",
+		"v": 11409,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant1"
+			},
+			{
+				"weight": 0,
+				"value": "variant2"
 			}
 		]
 	},
