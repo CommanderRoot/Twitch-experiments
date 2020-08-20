@@ -4443,6 +4443,21 @@
 			}
 		]
 	},
+	"5215fdf9-f0b5-4d87-be64-f5466658b723": {
+		"name": "android_disable_native_pip_xiaomi",
+		"v": 11407,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"526f0b70-d918-49dc-847b-0285757c36d0": {
 		"name": "dart_PUBG1124P_holdout",
 		"v": 8736,
