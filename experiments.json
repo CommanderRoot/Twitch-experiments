@@ -10670,15 +10670,15 @@
 	},
 	"b40df9a0-9dcd-4946-b364-830b7693d2dd": {
 		"name": "avs_checkout",
-		"v": 11309,
+		"v": 11422,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "experiment"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
