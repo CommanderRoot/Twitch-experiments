@@ -1911,11 +1911,11 @@
 	},
 	"245067fb-f8d2-4f32-8059-7e20a37f6e16": {
 		"name": "android_surface_view",
-		"v": 11316,
+		"v": 11406,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -1929,6 +1929,10 @@
 			{
 				"weight": 0,
 				"value": "active_9.5.1"
+			},
+			{
+				"weight": 20,
+				"value": "active_9.6.0"
 			}
 		]
 	},
