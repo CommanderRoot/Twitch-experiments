@@ -309,6 +309,21 @@
 			}
 		]
 	},
+	"05f6fef4-4622-4ea2-8aef-e8113dd0b3ac": {
+		"name": "dart_sgf_chat_awards_082020_regular_holdout",
+		"v": 11417,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0603a05f-f19f-4c8f-b294-6da498e499ab": {
 		"name": "ios_animated_cheermotes",
 		"v": 9177,
@@ -12856,6 +12871,21 @@
 			{
 				"weight": 1,
 				"value": "SURESTREAM_OFF"
+			}
+		]
+	},
+	"dbc4c003-7b79-48fe-b384-12c717ed7680": {
+		"name": "dart_sgf_chat_awards_082020_occasional_holdout",
+		"v": 11416,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
