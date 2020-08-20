@@ -8831,6 +8831,25 @@
 			}
 		]
 	},
+	"98268c27-df2b-42e9-bf41-01cc64564f6d": {
+		"name": "leftnav_li_similarity",
+		"v": 11413,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant1"
+			},
+			{
+				"weight": 0,
+				"value": "variant2"
+			}
+		]
+	},
 	"984a3442-3ed6-43ce-a483-6c3b8a9861f0": {
 		"name": "ios_dashboard_with_activity_feed",
 		"v": 4328,
@@ -9598,25 +9617,6 @@
 			{
 				"weight": 100,
 				"value": "LEGACY"
-			}
-		]
-	},
-	"a6133d69-00d9-4a41-996e-590f33b7900f": {
-		"name": "leftnav_li_similarity",
-		"v": 11410,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			},
-			{
-				"weight": 0,
-				"value": "variant2"
 			}
 		]
 	},
