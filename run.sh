@@ -1,3 +1,12 @@
 #!/bin/bash
 
-node update.js
+# Get experiments.json
+curl --connect-timeout 10 -s --compressed 'https://www.twitch.tv/experiments.json' | jq -M --tab . > experiments.json
+git add experiments.json && git commit -m 'Update experiments.json'
+
+# Get site_options.js
+curl --connect-timeout 10 -s --compressed 'https://www.twitch.tv/site_options.js' | tail -c +22 | head -c -2 | jq -M --tab . > site_options.js
+git add site_options.js && git commit -m 'Update site_options.js'
+
+# Push to repo
+git push
