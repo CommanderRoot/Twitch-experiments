@@ -3147,6 +3147,21 @@
 			}
 		]
 	},
+	"3d1975d9-f969-46d2-89fe-d2eeed5c367c": {
+		"name": "ios_inventory_future_campaigns",
+		"v": 11436,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"3e00e6a3-77d3-41ab-a587-9618050a519a": {
 		"name": "onaffiliate_twitch_prime_extension_staging",
 		"v": 5081,
@@ -14231,6 +14246,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"f7d79abf-ba0e-4438-9039-e091cb798e90": {
+		"name": "community_insights",
+		"v": 11435,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
