@@ -5398,6 +5398,21 @@
 			}
 		]
 	},
+	"607a0a3d-8cb2-4a63-9edf-23f1bffa7032": {
+		"name": "android_inventory_future_campaigns",
+		"v": 11426,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"6089f3cb-f2c8-4f4c-8ea9-d55a21f16de5": {
 		"name": "dads_experiment_device_test",
 		"v": 6211,
