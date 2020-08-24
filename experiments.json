@@ -4430,15 +4430,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11458,
+		"v": 11461,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -5563,15 +5563,15 @@
 	},
 	"6326771d-52c4-4005-848f-842511727d82": {
 		"name": "ios_gql_actions_api",
-		"v": 10334,
+		"v": 11462,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			}
 		]
