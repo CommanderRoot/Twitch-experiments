@@ -2888,6 +2888,21 @@
 			}
 		]
 	},
+	"3647985d-6739-4a2f-b4e1-97d3e53b1293": {
+		"name": "dart_chat_choice_creator_082420_holdout",
+		"v": 11450,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"36a0e500-f117-41dd-8421-3e3db7d567dd": {
 		"name": "CREATIVE_DIRECTORY_CVS",
 		"v": 386,
