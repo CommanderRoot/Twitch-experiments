@@ -4286,11 +4286,11 @@
 	},
 	"4e10cdad-1f9d-4556-8617-122179c39d9b": {
 		"name": "ios_age_gating",
-		"v": 11429,
+		"v": 11455,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
@@ -4302,8 +4302,12 @@
 				"value": "active_v9.5"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_v9.5.2"
+			},
+			{
+				"weight": 0,
+				"value": "active_v9.6"
 			}
 		]
 	},
