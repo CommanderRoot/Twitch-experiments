@@ -8137,6 +8137,21 @@
 			}
 		]
 	},
+	"8ac7139f-9f7f-4611-8a74-8c2a9b23274c": {
+		"name": "checkout_sub_creator_benefits",
+		"v": 11449,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment"
+			}
+		]
+	},
 	"8ace0f50-8afd-424a-a086-3e61b3e66da0": {
 		"name": "MESSAGE_HISTORY",
 		"v": 811,
