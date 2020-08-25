@@ -13603,15 +13603,15 @@
 	},
 	"ea95816a-846e-428e-b2fd-9ed1c32631b3": {
 		"name": "ios_push_notification_signup_prompt",
-		"v": 10850,
+		"v": 11487,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
