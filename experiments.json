@@ -4430,15 +4430,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11465,
+		"v": 11474,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 96,
 				"value": "control"
 			},
 			{
-				"weight": 2,
+				"weight": 4,
 				"value": "variant"
 			}
 		]
