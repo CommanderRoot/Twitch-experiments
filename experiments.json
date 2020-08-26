@@ -4415,15 +4415,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11492,
+		"v": 11493,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 96,
+				"weight": 94,
 				"value": "control"
 			},
 			{
-				"weight": 4,
+				"weight": 6,
 				"value": "variant"
 			}
 		]
@@ -6004,6 +6004,21 @@
 			{
 				"weight": 100,
 				"value": "new"
+			}
+		]
+	},
+	"69d29adc-3488-43d9-9d39-187b51ed01e5": {
+		"name": "android_mgst_clipfinity_editor",
+		"v": 11494,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
