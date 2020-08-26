@@ -4415,15 +4415,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11493,
+		"v": 11496,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 94,
+				"weight": 92,
 				"value": "control"
 			},
 			{
-				"weight": 6,
+				"weight": 8,
 				"value": "variant"
 			}
 		]
@@ -9551,15 +9551,15 @@
 	},
 	"a1f55439-fbbd-4d78-aa2c-b99fe540f9de": {
 		"name": "vpr_model",
-		"v": 11414,
+		"v": 11497,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "model"
 			}
 		]
