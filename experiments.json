@@ -1347,7 +1347,7 @@
 	},
 	"19cc1327-9436-4019-b71c-e2a1e41d3cb3": {
 		"name": "actuator_integration_test",
-		"v": 11491,
+		"v": 11502,
 		"t": 1,
 		"groups": [
 			{
@@ -4415,15 +4415,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11500,
+		"v": 11501,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
