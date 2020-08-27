@@ -2700,6 +2700,21 @@
 			}
 		]
 	},
+	"32837e13-0742-4866-bfb5-6a7193872d51": {
+		"name": "dart_amsot_session_8_onsite",
+		"v": 11510,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"331ed7a2-b3f6-4217-ba79-70f485cc5a51": {
 		"name": "ios_push_notification_settings",
 		"v": 10741,
@@ -4632,6 +4647,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"53c5c6ee-65c5-4059-9944-2714789ea551": {
+		"name": "dart_amsot_session_8_holdout",
+		"v": 11507,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -8421,6 +8451,25 @@
 			{
 				"weight": 0,
 				"value": "override"
+			}
+		]
+	},
+	"8e69deeb-29b7-4a16-83c1-6577e1f0b41e": {
+		"name": "dart_amsot_session_8_email",
+		"v": 11508,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
@@ -13942,6 +13991,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"f1205e42-6793-4a9d-8571-b318526938bc": {
+		"name": "dart_amsot_session_8_push",
+		"v": 11509,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
