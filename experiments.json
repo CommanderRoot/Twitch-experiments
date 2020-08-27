@@ -7315,6 +7315,21 @@
 			}
 		]
 	},
+	"7c9bbf35-a1b6-4be6-b266-a2df434e3e37": {
+		"name": "ios_player_loaded_event",
+		"v": 11505,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "when_theater_created"
+			},
+			{
+				"weight": 100,
+				"value": "when_theater_appears"
+			}
+		]
+	},
 	"7cdee701-0ac3-4b47-94d3-b47b3b707dc8": {
 		"name": "nielsen_analytics",
 		"v": 7985,
