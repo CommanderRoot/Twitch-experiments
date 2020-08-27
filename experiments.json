@@ -5341,6 +5341,21 @@
 			}
 		]
 	},
+	"5ebf063c-d624-4974-b824-4b7d3635046b": {
+		"name": "vpr_model_switch",
+		"v": 11516,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "model1"
+			}
+		]
+	},
 	"5ec8d02e-42a5-44d4-b715-8774874ebd81": {
 		"name": "android_ads_pip",
 		"v": 7343,
