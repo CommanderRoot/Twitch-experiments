@@ -2717,15 +2717,15 @@
 	},
 	"331ed7a2-b3f6-4217-ba79-70f485cc5a51": {
 		"name": "ios_push_notification_settings",
-		"v": 10741,
+		"v": 11515,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
