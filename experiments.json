@@ -1672,6 +1672,21 @@
 			}
 		]
 	},
+	"2002f637-885d-499b-af0e-83b96a73cbdf": {
+		"name": "dart_twitch_rivals_082720_apac_holdout",
+		"v": 11504,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2005226d-07fe-46cf-a229-d91dd03d8d3a": {
 		"name": "delete_XP",
 		"v": 3634,
