@@ -4770,6 +4770,21 @@
 			}
 		]
 	},
+	"56f74320-b984-42bb-bb7d-256e91a569c5": {
+		"name": "dart_twitch_rivals_minecraft_cold_083120_holdout",
+		"v": 11537,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5766eac9-19a0-471b-8716-708987a0f62d": {
 		"name": "ios_om_vaes_enabled",
 		"v": 8302,
@@ -12387,6 +12402,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"cf405b80-a873-475a-921d-0157b3b10190": {
+		"name": "dart_twitch_rivals_minecraft_frozen_083120_holdout",
+		"v": 11536,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
