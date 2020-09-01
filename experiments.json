@@ -12204,19 +12204,19 @@
 	},
 	"cc5fd3e8-7afb-41e4-ab62-29546e226dc8": {
 		"name": "leftnav_lo_similarity",
-		"v": 11565,
+		"v": 11566,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "variant1"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "variant2"
 			}
 		]
