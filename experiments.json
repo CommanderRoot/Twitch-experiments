@@ -8010,6 +8010,25 @@
 			}
 		]
 	},
+	"85875bb0-e8d3-4147-b570-584cfacc6257": {
+		"name": "android_content_integrity",
+		"v": 11575,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "t_0"
+			},
+			{
+				"weight": 0,
+				"value": "t_100"
+			},
+			{
+				"weight": 0,
+				"value": "t_200"
+			}
+		]
+	},
 	"85ef02f8-911c-45f4-9042-8e0c9d9face3": {
 		"name": "android_onboarding_surf",
 		"v": 4770,
@@ -9059,19 +9078,19 @@
 	},
 	"98268c27-df2b-42e9-bf41-01cc64564f6d": {
 		"name": "leftnav_li_similarity",
-		"v": 11572,
+		"v": 11573,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant1"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant2"
 			}
 		]
