@@ -9059,19 +9059,19 @@
 	},
 	"98268c27-df2b-42e9-bf41-01cc64564f6d": {
 		"name": "leftnav_li_similarity",
-		"v": 11466,
+		"v": 11570,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 98,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "variant1"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "variant2"
 			}
 		]
