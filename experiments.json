@@ -8605,6 +8605,21 @@
 			}
 		]
 	},
+	"8fd8fecf-28cd-4e6f-a790-b7c5f970f57b": {
+		"name": "dart_test_chats_choice_award_kc_email",
+		"v": 11597,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"8feaebce-0955-4d59-bbad-4e3469dbb2f8": {
 		"name": "android_chomments_posting",
 		"v": 2067,
