@@ -1030,6 +1030,21 @@
 			}
 		]
 	},
+	"14f1211b-6aa3-4a8f-87a0-128fb2ce7d29": {
+		"name": "ios_redeem_5_get_6",
+		"v": 11595,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"15418977-9c99-45b6-8509-ba405a220497": {
 		"name": "dart_sgf_cyberpunk2_onsite_holdout",
 		"v": 11251,
