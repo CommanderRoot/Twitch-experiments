@@ -8752,6 +8752,21 @@
 			}
 		]
 	},
+	"926ec6bc-1a92-4958-a875-e477cc4130f6": {
+		"name": "dart_chat_choice_awards_090320_holdout",
+		"v": 11598,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"930dd06b-08da-4d7b-bd66-f57cd03502ad": {
 		"name": "android_hypetrain",
 		"v": 10674,
