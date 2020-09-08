@@ -8882,19 +8882,19 @@
 	},
 	"93c75b09-a624-4f8d-bf34-318011ae4f22": {
 		"name": "android_mgst_capped_rebuffer_penalty_and_dynamic_bandwidth_usage",
-		"v": 11244,
+		"v": 11613,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 34,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "capped_rebuffer_penalty"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "dynamic_bandwidth_usage_factor"
 			}
 		]
