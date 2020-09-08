@@ -2550,6 +2550,21 @@
 			}
 		]
 	},
+	"30deff6e-c159-46ef-8a14-c9e8acb1c7a3": {
+		"name": "dart_subtember_non_payer_prime_090320_holdout",
+		"v": 11631,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"310307c1-94a1-438c-95c3-ca88f2a5f757": {
 		"name": "android_mgst_follow_button_revamp",
 		"v": 8627,
@@ -9086,20 +9101,20 @@
 	},
 	"98268c27-df2b-42e9-bf41-01cc64564f6d": {
 		"name": "leftnav_li_similarity",
-		"v": 11607,
+		"v": 11632,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "variant1"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "variant2"
 			}
 		]
@@ -11884,6 +11899,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"c6134b3d-608b-4991-8d19-3ccdd59fae77": {
+		"name": "dart_subtember_existing_payers_sub_090320_holdout",
+		"v": 11630,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
