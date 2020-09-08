@@ -1578,21 +1578,6 @@
 			}
 		]
 	},
-	"1d5060e9-4384-43c3-afc0-437f28c42555": {
-		"name": "dart_dota2ti_groupreminder_4_holdout",
-		"v": 7652,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"1dc56b20-6d61-4a53-a087-727efafe06d8": {
 		"name": "sunlight_new_user",
 		"v": 6644,
@@ -4650,21 +4635,6 @@
 			}
 		]
 	},
-	"54f7366f-b9a0-4ce8-a228-6c9dff6fef4e": {
-		"name": "dart_AP01_2020.04.10_FollowFridays_Notifications_holdout",
-		"v": 9815,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"54fbc663-b353-4ec9-bffb-ca67a7993706": {
 		"name": "android_process_active_purchases",
 		"v": 7341,
@@ -4677,21 +4647,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"5554e436-e1d9-46a9-97a4-37fdcd7895c6": {
-		"name": "dart_subtember_creator_082720_holdout",
-		"v": 11511,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 2,
-				"value": "holdout"
-			},
-			{
-				"weight": 98,
-				"value": "allowed"
 			}
 		]
 	},
@@ -4782,21 +4737,6 @@
 			{
 				"weight": 50,
 				"value": "active"
-			}
-		]
-	},
-	"58169399-8ee8-4ce0-ae4c-23700f5e470f": {
-		"name": "dart_dota2ti_maineventafter_holdout",
-		"v": 7735,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
 			}
 		]
 	},
@@ -9086,20 +9026,20 @@
 	},
 	"98268c27-df2b-42e9-bf41-01cc64564f6d": {
 		"name": "leftnav_li_similarity",
-		"v": 11633,
+		"v": 11643,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant1"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant2"
 			}
 		]
@@ -11335,21 +11275,6 @@
 			}
 		]
 	},
-	"bc1be02f-9ede-4612-82ea-1bf3a368b152": {
-		"name": "dart_rivals_fall_guys_082820_holdout",
-		"v": 11526,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"bc4939c7-3ff9-42e7-bcf3-12bed7b60135": {
 		"name": "android_chat_filters",
 		"v": 5584,
@@ -12407,21 +12332,6 @@
 			}
 		]
 	},
-	"ceef113c-084c-4991-a746-c732084998b0": {
-		"name": "dart_ff_world_series_finals_logged_out_11_19_holdout",
-		"v": 8681,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"cef8768a-6e62-491b-9a81-1892e0633861": {
 		"name": "android_truffle_hunt",
 		"v": 9151,
@@ -12449,21 +12359,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"cf405b80-a873-475a-921d-0157b3b10190": {
-		"name": "dart_twitch_rivals_minecraft_frozen_083120_holdout",
-		"v": 11536,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -14705,21 +14600,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"fce4c1c2-2925-4b45-ada4-48c48e286242": {
-		"name": "dart_watch_parties_090220_holdout",
-		"v": 11627,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
