@@ -2501,21 +2501,6 @@
 			}
 		]
 	},
-	"2ca1e3be-6560-4f2f-bc45-ecccbdbe7fd2": {
-		"name": "dart_dota2ti_groupreminder_2_holdout",
-		"v": 7654,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"2cfb6748-b8d9-4e2c-85c3-7c39ea51e37c": {
 		"name": "android_braavos",
 		"v": 9680,
@@ -3159,21 +3144,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"3cc258c8-1b3c-42e4-a22a-8a5c2836f56a": {
-		"name": "dart_dota2ti_maineventwelcome_holdout",
-		"v": 7688,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
 			}
 		]
 	},
@@ -8790,21 +8760,6 @@
 			}
 		]
 	},
-	"926ec6bc-1a92-4958-a875-e477cc4130f6": {
-		"name": "dart_chat_choice_awards_090320_holdout",
-		"v": 11598,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"930dd06b-08da-4d7b-bd66-f57cd03502ad": {
 		"name": "android_hypetrain",
 		"v": 10674,
@@ -13497,21 +13452,6 @@
 			{
 				"weight": 100,
 				"value": "v2"
-			}
-		]
-	},
-	"e245ed22-1bb9-45d9-8328-5a7344beb427": {
-		"name": "dart_omertestfollowemail2_email",
-		"v": 7415,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
