@@ -8352,6 +8352,21 @@
 			}
 		]
 	},
+	"8c7452df-b734-4d0b-8bf0-cae994c469e5": {
+		"name": "dart_subtember_non_payers_follow_channel_090320_holdout",
+		"v": 11628,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8ce5b50b-429b-4c20-a0f3-1b22eb577673": {
 		"name": "ios_rollout_vod_uploads",
 		"v": 804,
@@ -10799,6 +10814,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"b2f414c6-e601-4676-aed4-48fd943c2d74": {
+		"name": "dart_subtember_churned_not_paid_090320_holdout",
+		"v": 11629,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
