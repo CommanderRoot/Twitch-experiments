@@ -12115,19 +12115,19 @@
 	},
 	"c941a1bf-ab9e-429d-b0a5-6087e3ac64d0": {
 		"name": "ads_test_mobile_web",
-		"v": 11372,
+		"v": 11614,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "ADS_ON"
 			},
 			{
-				"weight": 100,
+				"weight": 33,
 				"value": "ADS_OFF"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "MIDROLLS_ONLY"
 			}
 		]
