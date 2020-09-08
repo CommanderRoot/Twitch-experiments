@@ -4725,21 +4725,6 @@
 			}
 		]
 	},
-	"56f74320-b984-42bb-bb7d-256e91a569c5": {
-		"name": "dart_twitch_rivals_minecraft_cold_083120_holdout",
-		"v": 11537,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"5766eac9-19a0-471b-8716-708987a0f62d": {
 		"name": "ios_om_vaes_enabled",
 		"v": 8302,
@@ -9101,20 +9086,20 @@
 	},
 	"98268c27-df2b-42e9-bf41-01cc64564f6d": {
 		"name": "leftnav_li_similarity",
-		"v": 11632,
+		"v": 11633,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "variant1"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "variant2"
 			}
 		]
