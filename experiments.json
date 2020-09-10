@@ -8204,15 +8204,15 @@
 	},
 	"8ac7139f-9f7f-4611-8a74-8c2a9b23274c": {
 		"name": "checkout_sub_creator_benefits",
-		"v": 11449,
+		"v": 11668,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "experiment"
 			}
 		]
