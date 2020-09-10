@@ -14013,7 +14013,7 @@
 	},
 	"f0dd0b92-ea0f-4319-ab0b-c64fcf117107": {
 		"name": "android_community_challenges",
-		"v": 11656,
+		"v": 11666,
 		"t": 1,
 		"groups": [
 			{
@@ -14021,8 +14021,12 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "active_development"
 			}
 		]
 	},
