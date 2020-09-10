@@ -9617,15 +9617,15 @@
 	},
 	"a08f8d09-7890-4eae-914f-6b272d05d1aa": {
 		"name": "prioritized_APM_icons",
-		"v": 11405,
+		"v": 11669,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "experiment"
 			}
 		]
