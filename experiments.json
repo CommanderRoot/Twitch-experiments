@@ -9123,6 +9123,21 @@
 			}
 		]
 	},
+	"992bf996-8870-478c-a895-e538dc4b25d7": {
+		"name": "ios_hide_play_in_background_setting",
+		"v": 11680,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 95,
+				"value": "show"
+			},
+			{
+				"weight": 5,
+				"value": "hide"
+			}
+		]
+	},
 	"99420eb8-3f4f-409b-8b42-7f9d9e629420": {
 		"name": "ios_creator_settings_v2",
 		"v": 10245,
