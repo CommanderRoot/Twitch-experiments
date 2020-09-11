@@ -4680,6 +4680,21 @@
 			}
 		]
 	},
+	"5665ab9c-0498-4e2c-8762-4d6b9dffc8fb": {
+		"name": "dart_rollingloud_day1_onsite_holdout",
+		"v": 11682,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"5684b8eb-5d61-4685-84e2-43090b32179d": {
 		"name": "extensions_turn_off_for_viewers",
 		"v": 5298,
@@ -13050,6 +13065,21 @@
 			{
 				"weight": 100,
 				"value": "test"
+			}
+		]
+	},
+	"dae00e3f-330a-41af-a79c-9d71f099f1b3": {
+		"name": "dart_rollingloud_day2_onsite_holdout",
+		"v": 11683,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
