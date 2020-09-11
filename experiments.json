@@ -3516,6 +3516,25 @@
 			}
 		]
 	},
+	"429018e2-0cab-4ec4-a129-8a93c4f2b1b9": {
+		"name": "norton_badge_v2",
+		"v": 11684,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant_a"
+			},
+			{
+				"weight": 0,
+				"value": "variant_b"
+			}
+		]
+	},
 	"42a1e26c-b3db-420f-a21f-5eba13902252": {
 		"name": "twilight_bits_bundle_presentation_update_on_user_id",
 		"v": 6827,
