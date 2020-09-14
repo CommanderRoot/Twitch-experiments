@@ -951,6 +951,21 @@
 			}
 		]
 	},
+	"11fcd6fc-42b6-4213-859f-36f6ea14bc38": {
+		"name": "dart_viewer_rolling_loud_reengagement_091420_holdout",
+		"v": 11693,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1209dd85-fa46-490f-87e3-f2626ef86f8d": {
 		"name": "channel_benefits_page",
 		"v": 10492,
