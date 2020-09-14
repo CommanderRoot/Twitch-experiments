@@ -14832,7 +14832,7 @@
 	},
 	"fd6c3fc5-b4e5-40b4-8fce-755622914cee": {
 		"name": "ios_friends_to_gql",
-		"v": 11439,
+		"v": 11692,
 		"t": 1,
 		"groups": [
 			{
@@ -14842,6 +14842,10 @@
 			{
 				"weight": 0,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_pubsub"
 			}
 		]
 	},
