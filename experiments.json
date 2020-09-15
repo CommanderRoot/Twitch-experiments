@@ -8702,7 +8702,7 @@
 	},
 	"90e64cbc-7665-4d88-9734-781f2b30f617": {
 		"name": "ios_clipfinity_v1",
-		"v": 11204,
+		"v": 11699,
 		"t": 1,
 		"groups": [
 			{
@@ -8710,11 +8710,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 40,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_with_entry_points"
 			}
 		]
