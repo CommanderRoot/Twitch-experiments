@@ -12300,19 +12300,19 @@
 	},
 	"cc5fd3e8-7afb-41e4-ab62-29546e226dc8": {
 		"name": "leftnav_lo_similarity",
-		"v": 11703,
+		"v": 11705,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "variant1"
 			},
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "variant2"
 			}
 		]
@@ -14096,7 +14096,7 @@
 	},
 	"f026dfcc-17d4-4f32-823a-925b730fd89f": {
 		"name": "android_viewer_level_midrolls",
-		"v": 11700,
+		"v": 11704,
 		"t": 1,
 		"groups": [
 			{
