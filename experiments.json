@@ -13420,15 +13420,15 @@
 	},
 	"e162969c-9106-49f3-8bb3-a0e2100676be": {
 		"name": "ios_browse_page_size_decrease",
-		"v": 10765,
+		"v": 11713,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
