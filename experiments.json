@@ -9124,20 +9124,20 @@
 	},
 	"98268c27-df2b-42e9-bf41-01cc64564f6d": {
 		"name": "leftnav_li_similarity",
-		"v": 11645,
+		"v": 11708,
 		"t": 2,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 60,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 10,
 				"value": "variant1"
 			},
 			{
-				"weight": 20,
+				"weight": 10,
 				"value": "variant2"
 			}
 		]
