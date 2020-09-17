@@ -4494,15 +4494,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11737,
+		"v": 11743,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 96,
 				"value": "control"
 			},
 			{
-				"weight": 2,
+				"weight": 4,
 				"value": "variant"
 			}
 		]
@@ -7135,6 +7135,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"77e51732-1a86-4be7-91d3-f67f1512d7b2": {
+		"name": "hide_redundant_payment_methods",
+		"v": 11744,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment"
 			}
 		]
 	},
