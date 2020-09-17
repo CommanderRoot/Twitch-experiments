@@ -9338,6 +9338,21 @@
 			}
 		]
 	},
+	"9a05ce59-2b30-4860-a590-b94c91fb78c1": {
+		"name": "dart_faze_cod_091720_push_holdout",
+		"v": 11756,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9a3b387e-b6cd-4d2b-80a6-bb14d3ba4512": {
 		"name": "GAME_FOLLOW_ONBOARD",
 		"v": 1583,
