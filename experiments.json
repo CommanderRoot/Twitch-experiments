@@ -3029,15 +3029,15 @@
 	},
 	"385ee89f-3063-4471-a379-de527dfbb169": {
 		"name": "ios_sentry_crash_reporter",
-		"v": 11253,
+		"v": 11730,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "crashlytics"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "sentry"
 			}
 		]
@@ -7095,7 +7095,7 @@
 	},
 	"76c19512-f352-4e7a-9d9d-1608ff792865": {
 		"name": "android_mgst_stream_manager_badge_states",
-		"v": 10854,
+		"v": 11729,
 		"t": 2,
 		"groups": [
 			{
