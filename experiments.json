@@ -10143,15 +10143,15 @@
 	},
 	"a8af8c8f-7717-46c0-a5ef-c6f71f5a3ffb": {
 		"name": "ios_global_follow_button",
-		"v": 11717,
+		"v": 11780,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "active"
 			}
 		]
