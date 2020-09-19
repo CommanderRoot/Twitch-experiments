@@ -8495,6 +8495,21 @@
 			}
 		]
 	},
+	"8da9d270-8279-4a07-a182-2a78e3113021": {
+		"name": "dart_sot_pirate_2020_holdout",
+		"v": 11788,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8db2fa80-a33d-4826-93bc-375a776fbfea": {
 		"name": "android_readable_chat_color",
 		"v": 9873,
