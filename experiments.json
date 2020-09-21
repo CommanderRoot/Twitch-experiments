@@ -10598,6 +10598,25 @@
 			}
 		]
 	},
+	"aeb24e23-67f8-4937-b0fb-57ba9ae2dcf2": {
+		"name": "leftnav_lo_similarity_isolated",
+		"v": 11806,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant1"
+			},
+			{
+				"weight": 0,
+				"value": "variant2"
+			}
+		]
+	},
 	"aed66c3f-fa7f-41a4-aad8-06c063b94920": {
 		"name": "iOS_subtokens_apple_prototype",
 		"v": 7966,
