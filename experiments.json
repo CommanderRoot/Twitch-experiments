@@ -2501,6 +2501,25 @@
 			}
 		]
 	},
+	"2c169854-dedd-41d0-8e55-a20ce75424ec": {
+		"name": "leftnav_li_similarity_isolated",
+		"v": 11805,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant1"
+			},
+			{
+				"weight": 0,
+				"value": "variant2"
+			}
+		]
+	},
 	"2c9bc904-90e2-469f-9f09-d2eb5fddeadc": {
 		"name": "android_squad_streaming_alpha",
 		"v": 9136,
