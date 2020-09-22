@@ -2749,6 +2749,21 @@
 			}
 		]
 	},
+	"322f4386-5da8-4b91-a88f-0cb67fa5f2a5": {
+		"name": "ios_channel_points_predictions",
+		"v": 11828,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"326523fd-48bf-4043-9635-7bef334069e0": {
 		"name": "TWILIGHT_AUTOMOD_LAUNCH",
 		"v": 4201,
