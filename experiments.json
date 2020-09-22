@@ -5595,6 +5595,25 @@
 			}
 		]
 	},
+	"61733499-8b43-42ed-a416-1a72f72af015": {
+		"name": "android_copo_predictions",
+		"v": 11824,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"61a88b03-5eaa-4693-9beb-99d0695432da": {
 		"name": "es_kr",
 		"v": 6046,
