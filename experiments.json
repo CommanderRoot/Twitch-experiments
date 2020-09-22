@@ -10983,6 +10983,21 @@
 			}
 		]
 	},
+	"b2b551bb-4b1f-4699-a158-575a66b0c9de": {
+		"name": "show_gift_button_top_of_sub_modal",
+		"v": 11827,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "experiment"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"b2be4fb3-b738-48b1-967c-1529fe57f717": {
 		"name": "ios_graphql",
 		"v": 1742,
