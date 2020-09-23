@@ -50,7 +50,7 @@
 	},
 	"00a7a76a-0bea-4455-a186-0dae44285f75": {
 		"name": "android_multiplayer_ads",
-		"v": 10816,
+		"v": 11830,
 		"t": 1,
 		"groups": [
 			{
@@ -4715,6 +4715,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"536bb971-5a7a-445a-a8e6-929d26e3b399": {
+		"name": "android_mads_rainfall_animation",
+		"v": 11831,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
