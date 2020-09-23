@@ -13640,6 +13640,21 @@
 			}
 		]
 	},
+	"e0f0e500-2d38-4423-a9de-b41178992e79": {
+		"name": "dart_twitch_gift_card_092320_holdout",
+		"v": 11833,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e162969c-9106-49f3-8bb3-a0e2100676be": {
 		"name": "ios_browse_page_size_decrease",
 		"v": 11713,
