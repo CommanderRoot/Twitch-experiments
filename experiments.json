@@ -6479,6 +6479,21 @@
 			}
 		]
 	},
+	"6de32928-a1f0-48a5-86d2-83efb476a13e": {
+		"name": "Cloudfront India Almanac Override",
+		"v": 11842,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "override"
+			}
+		]
+	},
 	"6e2a89f6-a1e8-45c0-8cc9-77e1fc5590ad": {
 		"name": "ios_raids_ads",
 		"v": 2773,
@@ -14079,15 +14094,15 @@
 	},
 	"ea95816a-846e-428e-b2fd-9ed1c32631b3": {
 		"name": "ios_push_notification_signup_prompt",
-		"v": 11487,
+		"v": 11843,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
