@@ -9680,6 +9680,21 @@
 			}
 		]
 	},
+	"9d7b5e6a-4463-40a8-9594-efb482fac441": {
+		"name": "dart_new_client_verification_email",
+		"v": 11851,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "Variant A"
+			},
+			{
+				"weight": 1,
+				"value": "Variant B"
+			}
+		]
+	},
 	"9daf3cbf-bd22-4101-95b9-b2c1b0461094": {
 		"name": "android_premieres_reruns",
 		"v": 2852,
