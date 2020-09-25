@@ -6481,15 +6481,15 @@
 	},
 	"6de32928-a1f0-48a5-86d2-83efb476a13e": {
 		"name": "Cloudfront India Almanac Override",
-		"v": 11842,
+		"v": 11844,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "override"
 			}
 		]
