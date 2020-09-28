@@ -4543,15 +4543,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11870,
+		"v": 11872,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 97,
+				"weight": 94,
 				"value": "control"
 			},
 			{
-				"weight": 3,
+				"weight": 6,
 				"value": "variant"
 			}
 		]
@@ -14814,7 +14814,7 @@
 	},
 	"f882b669-0f97-46f3-8da2-050de45d1e63": {
 		"name": "dart_twitch_rivals_fifa21_092920_holdout",
-		"v": 11857,
+		"v": 11871,
 		"t": 2,
 		"groups": [
 			{
