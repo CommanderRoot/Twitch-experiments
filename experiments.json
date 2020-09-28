@@ -4367,6 +4367,21 @@
 			}
 		]
 	},
+	"4dfcb309-1348-439f-8424-df8759481ddd": {
+		"name": "android_ad_loudness",
+		"v": 11882,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"4e10cdad-1f9d-4556-8617-122179c39d9b": {
 		"name": "ios_age_gating",
 		"v": 11564,
@@ -9933,15 +9948,15 @@
 	},
 	"a1f55439-fbbd-4d78-aa2c-b99fe540f9de": {
 		"name": "vpr_model",
-		"v": 11732,
+		"v": 11883,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "model"
 			}
 		]
