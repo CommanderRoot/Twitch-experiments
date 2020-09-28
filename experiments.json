@@ -4409,6 +4409,21 @@
 			}
 		]
 	},
+	"4e26466c-7908-49a0-adad-2b37f50b2794": {
+		"name": "mads_broadcaster_dasbhoard",
+		"v": 11858,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "MADS_OFF"
+			},
+			{
+				"weight": 0,
+				"value": "MADS_ON"
+			}
+		]
+	},
 	"4e9d0a3c-4f43-4817-8db4-ac060fc32b74": {
 		"name": "latency_component_instrumentation",
 		"v": 1579,
