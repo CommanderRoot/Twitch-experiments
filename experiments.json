@@ -4426,15 +4426,15 @@
 	},
 	"4e26466c-7908-49a0-adad-2b37f50b2794": {
 		"name": "mads_broadcaster_dashboard",
-		"v": 11903,
+		"v": 11904,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "MADS_ON"
 			}
 		]
@@ -8163,27 +8163,27 @@
 	},
 	"85875bb0-e8d3-4147-b570-584cfacc6257": {
 		"name": "android_content_integrity",
-		"v": 11605,
+		"v": 11905,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "t_0"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "t_100"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "t_200"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "t_400"
 			}
 		]
