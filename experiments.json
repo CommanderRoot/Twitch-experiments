@@ -131,6 +131,21 @@
 			}
 		]
 	},
+	"01e6ee20-b541-407a-ba84-b436ed4ee2c7": {
+		"name": "ios_test_new_batcher",
+		"v": 11892,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "enabled"
+			}
+		]
+	},
 	"022cf7ca-3dcc-4a29-b2ee-c220ada8bc2e": {
 		"name": "ios_new_followed_screen",
 		"v": 4276,
