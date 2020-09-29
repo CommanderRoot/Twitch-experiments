@@ -4426,15 +4426,15 @@
 	},
 	"4e26466c-7908-49a0-adad-2b37f50b2794": {
 		"name": "mads_broadcaster_dashboard",
-		"v": 11908,
+		"v": 11914,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "MADS_ON"
 			}
 		]
@@ -4573,15 +4573,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11909,
+		"v": 11913,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 73,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 27,
+				"weight": 30,
 				"value": "variant"
 			}
 		]
