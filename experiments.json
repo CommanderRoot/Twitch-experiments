@@ -4573,15 +4573,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11896,
+		"v": 11897,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 87,
+				"weight": 84,
 				"value": "control"
 			},
 			{
-				"weight": 13,
+				"weight": 16,
 				"value": "variant"
 			}
 		]
