@@ -2014,16 +2014,16 @@
 	},
 	"24d2ca90-8a02-4aae-aeff-377eca92eece": {
 		"name": "tvapps_tvos_player_native",
-		"v": 10367,
+		"v": 11887,
 		"t": 1,
 		"s": 6,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 80,
 				"value": "active"
 			}
 		]
@@ -7408,15 +7408,15 @@
 	},
 	"7a6eea22-8ddc-4e9c-8c84-0f677c7dca1f": {
 		"name": "tvapps_global_search_results_redesign",
-		"v": 11838,
+		"v": 11886,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
