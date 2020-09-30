@@ -9963,15 +9963,15 @@
 	},
 	"a1f55439-fbbd-4d78-aa2c-b99fe540f9de": {
 		"name": "vpr_model",
-		"v": 11883,
+		"v": 11924,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "model"
 			}
 		]
