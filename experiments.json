@@ -8148,27 +8148,27 @@
 	},
 	"85875bb0-e8d3-4147-b570-584cfacc6257": {
 		"name": "android_content_integrity",
-		"v": 11905,
+		"v": 11918,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "t_0"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "t_100"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "t_200"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "t_400"
 			}
 		]
