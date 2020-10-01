@@ -7015,7 +7015,7 @@
 	},
 	"73a3d666-c0cc-4eb1-8ba9-98a6b134825b": {
 		"name": "android_mgst_ingest_test_interval",
-		"v": 9840,
+		"v": 11937,
 		"t": 2,
 		"groups": [
 			{
@@ -7024,11 +7024,11 @@
 			},
 			{
 				"weight": 25,
-				"value": "daily"
+				"value": "weekly"
 			},
 			{
 				"weight": 25,
-				"value": "weekly"
+				"value": "monthly"
 			}
 		]
 	},
