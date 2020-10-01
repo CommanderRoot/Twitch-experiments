@@ -7253,15 +7253,15 @@
 	},
 	"77e51732-1a86-4be7-91d3-f67f1512d7b2": {
 		"name": "hide_redundant_payment_methods",
-		"v": 11846,
+		"v": 11943,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "experiment"
 			}
 		]
