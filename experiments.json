@@ -6464,6 +6464,21 @@
 			}
 		]
 	},
+	"6d4e9181-30a3-4c5e-a3f9-054cabe2643a": {
+		"name": "vpr_model_switcher",
+		"v": 11935,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"6d66bea0-bd67-43d3-87b4-a41c182fc7d9": {
 		"name": "ios_autoplay_last_one",
 		"v": 8575,
