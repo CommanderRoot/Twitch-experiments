@@ -13272,6 +13272,21 @@
 			}
 		]
 	},
+	"d868baca-24d7-44d1-a047-93b1bf7fdcf7": {
+		"name": "dart_twitchrivals_tunein_100320_holdout",
+		"v": 11961,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d87a0cc9-48e6-4a4b-8f2e-2f3082b11cc6": {
 		"name": "android_tnf_drm",
 		"v": 4640,
