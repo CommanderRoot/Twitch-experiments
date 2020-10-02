@@ -4573,15 +4573,15 @@
 	},
 	"50fca003-6e39-46aa-a83d-33638654f348": {
 		"name": "following_service_upsert_list_rollout",
-		"v": 11950,
+		"v": 11951,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 95,
 				"value": "variant"
 			}
 		]
@@ -12360,7 +12360,7 @@
 	},
 	"c8d6e2c8-2782-4ee0-9689-546bf70cc1a3": {
 		"name": "android_mgst_ingest_test_optimizations",
-		"v": 11919,
+		"v": 11952,
 		"t": 2,
 		"groups": [
 			{
@@ -12369,7 +12369,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "weekly"
+			},
+			{
+				"weight": 0,
+				"value": "monthly"
 			}
 		]
 	},
