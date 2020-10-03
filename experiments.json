@@ -923,15 +923,15 @@
 	},
 	"11882af6-385b-4010-9bde-6db520d1aafd": {
 		"name": "ios_twitch_radio",
-		"v": 11690,
+		"v": 11972,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -2488,15 +2488,15 @@
 	},
 	"2b90263c-f789-4da7-a339-578bfc08f6f6": {
 		"name": "android_twitch_radio",
-		"v": 11689,
+		"v": 11971,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
