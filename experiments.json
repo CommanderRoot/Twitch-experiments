@@ -4279,12 +4279,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 11945,
+		"v": 11970,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-50fd7f.pdx01.abs.hls.ttvnw.net/v1/segment/ChmfIQBq5aQtSn84QAGlUA1EroX-S84IIpdi-2PgHIWqc_khWM539wdDMoGtJJ6HdzYyB02lA9Ivi7aFQEWaMoQSzxGbaB7H8oLV1w3lEGc38fKHMxVppjQJVzJt724l6ph7OcFYFR6PPKVye9nbcdlkjwaE7d_CUIn_RJta9aKPsSi9qLOsEN3lwIOSKfhemk5YZls-3yY2NDtJVg80ND7mC3BKcqDt8Jq12tTv_8798IVpl9g0qfwrr9FkMI1RIHUwEhTSDdBQ5HG6wT1IeLMM9S_5szAlfoFiIvyU0h7Cc1_IBgZyV9xArVRcr7FXE12Va6DUw4E2XcaVmVIUw4ah6GEXPAPxY6hu1o3eo9R_fAdHBLY6mE35mXzV0IuDmE0RU1XL6bUBKaIb0pbCiF0QEm1YyyobTokJjc9nJF0AKAg6Bi52tt4H8NikBm7JzFc3GU9n0rcmwlFFE0MpBZd1-mac0I79YRHyuF8Pr15DEeq2xHTkeX61vzzOIUpRvfkLaXJLg5PmDAnfdgX0sKCoySvqpHL9apT1CKJmvD6VyifNfcZxzbZxQOHjXLJEnqx-EKwEk3cg1vi1Ge1tPNDPJvCuGsBSjTWee7K5mm6aGQBDfMszn-ZLMrxRf9O_FV27_1Ac5OktH2LGkT7JWua6MoPez01eK1ILWsHCyd1RqnpShNPS3FjbXJ81DiKys1rvKCyMmUizUucRZ--2IvMS4FQQX0i44287OOZkTy2ZypUgRMgY0G.ts"
+				"value": "//video-edge-580fec.pdx01.abs.hls.ttvnw.net/v1/segment/Ck0IggybbALNthW6D75eMGFQwB91DAb5mMy2O4JdGGwq5Ej-rmAVGtlvsvBbZRZf_FcOAaZavtVilxr3UqkpfEsWssYhrHQfSel6or-b9YrI2LlJGQW1H1J-fvmL2nsLz-ydCz3qzTWThlvYqFYLiFMUjmh5R7tzZhySJSN9JQ2VLC8FhjRjimvCwXlmTY6naNuipIgQKRFbWl4oqGWTKaWuCx9R-VdQyIPmUhJGwoYGWgXYkF3NldIDbB5RMuGEIlZFr-a-CEPtu2fdV6aQAFrTxVShP8DhJXhxzKphr0J23EZYUhXwvZzTOulmIDny68llgNpxqdSSTumbayaCaJqwXHGgPSEaKZBrR4JWEbvS0eYXrKMgqniXKBLiwMBeEDgmHQkVo_DHDTU-LCfMHtln4Ece-u8CxldgrySZdbHplvmROJliX9jHYQ8B37_wDTJJU1Q5OJ5K2PRcTgbwVNPX1uQ7IF0uc9hksns1OiD5TeOCf1BXB-SNNg7bg626TLugwdRHDoZyqT7p_58EWWlFm1XCSGwfC0kyL8QOeYDs--8UsTjNMeJ8KANSBCTaU1Gh2VTpejFDED2lr8o_4kQcbbwhR-q7phB-q8kCmg4CsYARUaga0cH_BIA396YMJWSSXoWzxT3Eok-ctMn3ELChKCWr2zMIR89AqBXaki1o72zHUjSnH-wXK7YUQ8LPrQhF6jqkyzVYpq180b0SRXjM0o7LcAJiQ80UYqaClPvfnFZz2Q5uNjIdIOQEQPox5i3YOWYkrK7R8bqr_Gn76.ts"
 			}
 		]
 	},
@@ -11806,21 +11806,6 @@
 			{
 				"weight": 0,
 				"value": "no-keyboard-suggester"
-			}
-		]
-	},
-	"c10fa5f2-c9a8-479d-a8aa-efec7a7e9473": {
-		"name": "android_mgst_playercore_bandwith_usage_factor",
-		"v": 10080,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
 			}
 		]
 	},
