@@ -2518,19 +2518,19 @@
 	},
 	"2c169854-dedd-41d0-8e55-a20ce75424ec": {
 		"name": "leftnav_li_similarity_isolated",
-		"v": 11989,
+		"v": 11991,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "variant1"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "variant2"
 			}
 		]
@@ -6466,15 +6466,15 @@
 	},
 	"6d4e9181-30a3-4c5e-a3f9-054cabe2643a": {
 		"name": "vpr_model_switcher",
-		"v": 11987,
+		"v": 11990,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "M2ModelTest1"
 			}
 		]
