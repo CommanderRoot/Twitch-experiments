@@ -2518,19 +2518,19 @@
 	},
 	"2c169854-dedd-41d0-8e55-a20ce75424ec": {
 		"name": "leftnav_li_similarity_isolated",
-		"v": 11993,
+		"v": 11994,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 20,
 				"value": "variant1"
 			},
 			{
-				"weight": 15,
+				"weight": 20,
 				"value": "variant2"
 			}
 		]
