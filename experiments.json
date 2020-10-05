@@ -2518,19 +2518,19 @@
 	},
 	"2c169854-dedd-41d0-8e55-a20ce75424ec": {
 		"name": "leftnav_li_similarity_isolated",
-		"v": 11991,
+		"v": 11993,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant1"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant2"
 			}
 		]
@@ -4930,15 +4930,15 @@
 	},
 	"5796ce33-16c2-48c8-85a7-f22c19becf40": {
 		"name": "ios_rtmps",
-		"v": 11930,
+		"v": 11992,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
