@@ -11090,15 +11090,15 @@
 	},
 	"b2b551bb-4b1f-4699-a158-575a66b0c9de": {
 		"name": "show_gift_button_top_of_sub_modal",
-		"v": 11847,
+		"v": 12025,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "experiment"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
