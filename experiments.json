@@ -4426,15 +4426,15 @@
 	},
 	"4e26466c-7908-49a0-adad-2b37f50b2794": {
 		"name": "mads_broadcaster_dashboard",
-		"v": 11946,
+		"v": 12024,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "MADS_ON"
 			}
 		]
