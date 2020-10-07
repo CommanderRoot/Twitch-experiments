@@ -1811,21 +1811,6 @@
 			}
 		]
 	},
-	"20e9aae0-b4b6-4d47-b655-92e02da990ff": {
-		"name": "android_global_alternate_ewma_abr",
-		"v": 9625,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
-				"value": "active"
-			}
-		]
-	},
 	"2126e914-e26c-484f-9fb3-e5c87cd282e1": {
 		"name": "dart_lol_extension_current_holdout",
 		"v": 10314,
@@ -3113,6 +3098,21 @@
 		"groups": [
 			{
 				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
+	"39fa83a5-60a5-46cc-a1b0-2864d0da3437": {
+		"name": "ios_stream_roulette",
+		"v": 12021,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -9018,19 +9018,19 @@
 	},
 	"93c75b09-a624-4f8d-bf34-318011ae4f22": {
 		"name": "android_mgst_capped_rebuffer_penalty_and_dynamic_bandwidth_usage",
-		"v": 11613,
+		"v": 12022,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "capped_rebuffer_penalty"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "dynamic_bandwidth_usage_factor"
 			}
 		]
@@ -12638,21 +12638,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"cd411260-9db8-442a-b75e-b0dc0d0234d8": {
-		"name": "android_mgst_player_ptb_final",
-		"v": 10510,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
 			}
 		]
 	},
