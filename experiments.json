@@ -8817,6 +8817,25 @@
 			}
 		]
 	},
+	"8f73cc11-ccd3-4fce-a2b6-cad8326f6b15": {
+		"name": "promotions_eVPR_relevancy",
+		"v": 12033,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "HP_Variant0"
+			},
+			{
+				"weight": 0,
+				"value": "HP_Variant1"
+			}
+		]
+	},
 	"8f999215-8ab5-4c72-a7d9-e31eaccce1d1": {
 		"name": "ios_new_profile_card",
 		"v": 9365,
