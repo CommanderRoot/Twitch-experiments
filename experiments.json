@@ -9217,6 +9217,21 @@
 			}
 		]
 	},
+	"96148034-b22a-4af8-80fa-949b3444f40b": {
+		"name": "dart_thursdaynightfootball_week1_100820_holdout",
+		"v": 12036,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"96593822-f5cd-40c1-9288-5d73615362a5": {
 		"name": "android_native_bits_iap",
 		"v": 2403,
