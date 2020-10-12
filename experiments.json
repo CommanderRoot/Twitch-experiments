@@ -10386,6 +10386,21 @@
 			}
 		]
 	},
+	"a859732c-5cc8-4e0b-8b05-12a97a8e45e4": {
+		"name": "android_mgst_ivs_game_broadcast",
+		"v": 12058,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"a88d97b7-ec93-4724-935e-e93f166df82f": {
 		"name": "clips_feel_good",
 		"v": 2379,
