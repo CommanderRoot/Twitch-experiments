@@ -15044,15 +15044,15 @@
 	},
 	"f90f298d-1bc1-4dc7-a74b-e107745780b1": {
 		"name": "android_mgst_top_nav_stream_button",
-		"v": 11733,
+		"v": 12054,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
