@@ -8778,6 +8778,21 @@
 			}
 		]
 	},
+	"8e25c5be-b20f-44c3-834f-62c447c627aa": {
+		"name": "leftnav_affinity_sorted_follows",
+		"v": 12073,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"8e60fcf8-7696-4d1a-8b7f-645b82359f69": {
 		"name": "Cloudfront Live Test",
 		"v": 5710,
