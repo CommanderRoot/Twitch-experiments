@@ -10108,6 +10108,21 @@
 			}
 		]
 	},
+	"a15db3ef-2337-4a7f-9aef-f0a554d51166": {
+		"name": "dart_creator_cyberpunk_2077_101420_ab_email",
+		"v": 12081,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"a16d5c24-5e0b-4c1f-894e-e7bd08d25de4": {
 		"name": "android_mgst_follow_button_revamp_v2",
 		"v": 9486,
@@ -14304,6 +14319,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"eaa16a18-ac72-4d11-b1e5-5b6ad52427eb": {
+		"name": "dart_creator_cyberpunk_2077_101420_ab_holdout",
+		"v": 12080,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
+				"value": "allowed"
 			}
 		]
 	},
