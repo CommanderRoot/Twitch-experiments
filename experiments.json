@@ -14653,11 +14653,11 @@
 	},
 	"f026dfcc-17d4-4f32-823a-925b730fd89f": {
 		"name": "android_viewer_level_midrolls",
-		"v": 12072,
+		"v": 12094,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -14665,7 +14665,7 @@
 				"value": "active_9.6"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_9.7"
 			}
 		]
