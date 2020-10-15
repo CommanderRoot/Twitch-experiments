@@ -1499,21 +1499,6 @@
 			}
 		]
 	},
-	"1af365dd-93b6-4ddd-a9f5-5dbed046820e": {
-		"name": "dart_cp2077_ncw4_twitchgaming_101520_holdout",
-		"v": 12083,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"1b5d7f2b-7aad-4eea-9e1c-4be185db1628": {
 		"name": "android_creator_settings_p2",
 		"v": 11029,
@@ -3216,21 +3201,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"3b2992d8-087d-41e2-a181-b61461579a40": {
-		"name": "dart_cp2077_ncw4_twitchgaming_101520_email",
-		"v": 12084,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -14870,21 +14840,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"f477ca36-8bec-4d16-bf89-3d8039f27a17": {
-		"name": "dart_cp2077_ncw4_twitchgaming_101520_onsite",
-		"v": 12085,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
