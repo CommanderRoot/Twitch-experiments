@@ -788,15 +788,15 @@
 	},
 	"0f308c04-8202-474b-820f-1f8e3dbc3c7b": {
 		"name": "android_vp9",
-		"v": 11208,
+		"v": 12105,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -6345,15 +6345,15 @@
 	},
 	"6a55a881-2e43-4e1b-9ff2-de8916d6f80e": {
 		"name": "VP09 Web",
-		"v": 11209,
+		"v": 12104,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
