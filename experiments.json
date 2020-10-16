@@ -9812,6 +9812,21 @@
 			}
 		]
 	},
+	"9c1384ba-2af6-4584-a5bd-8731a8840c15": {
+		"name": "android_crash_reporter",
+		"v": 12108,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "default"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"9c1c65b0-607c-497c-b89f-cd14e84f08d0": {
 		"name": "android_gdpr_track_personal_data",
 		"v": 3840,
