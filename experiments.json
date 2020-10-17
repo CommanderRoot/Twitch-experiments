@@ -9084,6 +9084,21 @@
 			}
 		]
 	},
+	"9143b15b-3c34-4344-9c94-1c9185a24b5a": {
+		"name": "dart_moving_forward_push_101820_holdout",
+		"v": 12115,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"921a6d36-7e97-4908-9b29-e4198fa3e34d": {
 		"name": "ad_libs",
 		"v": 5940,
