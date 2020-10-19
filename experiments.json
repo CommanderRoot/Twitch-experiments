@@ -8472,15 +8472,15 @@
 	},
 	"88850d5d-792b-4b07-88a3-be291d87f7d9": {
 		"name": "use_novus",
-		"v": 10617,
+		"v": 12131,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "yes"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "no"
 			}
 		]
