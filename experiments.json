@@ -429,6 +429,21 @@
 			}
 		]
 	},
+	"070a95df-c6d8-45f8-a61f-77528c48261e": {
+		"name": "dart_thursdaynightfootball_week2_101920_holdout",
+		"v": 12128,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"070d88d9-02da-42cf-a83d-4f884878f93a": {
 		"name": "MOBILE_CHECKOUT",
 		"v": 2097,
