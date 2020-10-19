@@ -10330,6 +10330,21 @@
 			}
 		]
 	},
+	"a3b0a9a6-17df-4d98-a8a7-91de75d1c6bb": {
+		"name": "dart_move_forward_reengage_101920_holdout",
+		"v": 12126,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
+				"value": "allowed"
+			}
+		]
+	},
 	"a426b4ec-a5a6-4b9b-bd6b-9f4f53a694ba": {
 		"name": "dart_shinodavol2_push_holdout",
 		"v": 11103,
@@ -13042,15 +13057,15 @@
 	},
 	"cf91e619-8d8b-486f-83a3-13db61bfbfaf": {
 		"name": "bits_top_nav_explanation ",
-		"v": 11947,
+		"v": 12127,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "experiment"
 			}
 		]
