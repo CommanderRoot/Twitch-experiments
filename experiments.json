@@ -15206,15 +15206,15 @@
 	},
 	"f7d79abf-ba0e-4438-9039-e091cb798e90": {
 		"name": "community_insights",
-		"v": 11435,
+		"v": 12130,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 99,
 				"value": "treatment"
 			}
 		]
