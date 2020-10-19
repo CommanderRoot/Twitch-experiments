@@ -1348,6 +1348,21 @@
 			}
 		]
 	},
+	"18b33438-adc4-445e-87b9-1685fdb7d35f": {
+		"name": "android_player_abr_modes",
+		"v": 12133,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"18e40adc-18ab-4d40-bb88-aa822a55d484": {
 		"name": "ios_notification_opt_in",
 		"v": 10667,
