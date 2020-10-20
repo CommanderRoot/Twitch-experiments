@@ -14379,6 +14379,21 @@
 			}
 		]
 	},
+	"e77bc8ab-9f36-4753-918b-c5336b620ed5": {
+		"name": "ios_recaptcha_deprecation_alert",
+		"v": 12139,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "recaptcha_supported"
+			},
+			{
+				"weight": 0,
+				"value": "recaptcha_deprecated"
+			}
+		]
+	},
 	"e80419c1-99e3-486f-a8c6-1c617e7b6626": {
 		"name": "android_surface_crash_fix",
 		"v": 10138,
