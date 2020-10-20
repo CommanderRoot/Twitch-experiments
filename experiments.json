@@ -5507,6 +5507,21 @@
 			}
 		]
 	},
+	"5db9e7f5-0ac6-4f23-bf7a-48a27d0b3505": {
+		"name": "android_recaptcha_deprecation_alert",
+		"v": 12148,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "recaptcha_supported"
+			},
+			{
+				"weight": 0,
+				"value": "recaptcha_deprecated"
+			}
+		]
+	},
 	"5de3e4c7-c788-4b1b-b0d0-3f8c4d67078a": {
 		"name": "android_nielsen_s2s",
 		"v": 8202,
