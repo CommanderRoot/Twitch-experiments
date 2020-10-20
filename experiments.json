@@ -133,16 +133,20 @@
 	},
 	"01e6ee20-b541-407a-ba84-b436ed4ee2c7": {
 		"name": "ios_test_new_batcher",
-		"v": 11892,
+		"v": 12138,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "disabled"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "enabled"
+			},
+			{
+				"weight": 50,
+				"value": "enabled_v9_9"
 			}
 		]
 	},
