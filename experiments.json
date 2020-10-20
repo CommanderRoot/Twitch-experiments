@@ -9972,19 +9972,19 @@
 	},
 	"9d3df813-9a03-4663-aacd-9b121abbda14": {
 		"name": "show_support_subscribe_button",
-		"v": 12113,
+		"v": 12136,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 3,
+				"weight": 0,
 				"value": "variant_a"
 			},
 			{
-				"weight": 3,
+				"weight": 0,
 				"value": "variant_b"
 			}
 		]
