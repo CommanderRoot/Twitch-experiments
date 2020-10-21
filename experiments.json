@@ -11087,19 +11087,19 @@
 	},
 	"aeb24e23-67f8-4937-b0fb-57ba9ae2dcf2": {
 		"name": "leftnav_lo_similarity_isolated",
-		"v": 12156,
+		"v": 12157,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "variant1"
 			},
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "variant2"
 			}
 		]
