@@ -4381,12 +4381,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 12137,
+		"v": 12152,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-67a4bf.pdx01.abs.hls.ttvnw.net/v1/segment/CrY2bXo_wkcPYeeiIvutDeFBb6kBbZQd0o5qY3YqoCYlYXK2AlbeK1TuhkHBJ-y7_ymh8DtGQ7jYO6n-bdog3MlQVCUTlWmbuLYHwZRv40lAFHOEtC1zp-ESZWMp0lyCGD1GI64b-Z376oQxaqUxrkBjWBn6WOqSaS8Qi095sHFX6bjZfAHLjCp3x7T0Ods4BkEnBfK3UmuzLh8keqPQEZVsbzL9gZ4plDwlfgt_895fkn9r5CmeS-vHqC81Ah7kh83e2Mki2fnZF_eD9-N_wsNXRaLxOPaXmZWx9EbT7BeU-aJzZ_3ZYQirrXqRf9Cx-_oDXvpVDrT7TNOLbqsa1Ugj2mPrCf93iFv6AIcU5TV4oIcZtscguGuk150wR7nFpAw92Uz6KC3eYYswit7ePOPhId4asDcoXZUg4-2ztuyfD_YVMRKV3vfYcW2wpohxMSiTBgv3ohpLdXIIVy0mrb6JSVEgLpMnIai6P0zv-y9bEvlUQ4ggoyKyClm3ADj72EdJmCNF364FSk1WTXQ0aRnWhKYc__czotGe68W4giFbd0vcQuYzI_b_caduFMIkBHJxQBkI7pX9fwUALPehMVkCB8Yvu0y1NyxtdtfSwFDvZxv1j2uEMla4-TItRHF_cEX1O8xA4RY3V5hFNkAswwmhzzZ3GsQLib14UJM7WgXSogWnnV6y-LQh88w4MilaCPYUFK_UOHZJBZ3lesGqTb_nY1pLGeniRBtC88M1CjZOwyXUN0lGJy9hBs9eH2auoeJbETt.ts"
+				"value": "//video-edge-b94a5f.pdx01.abs.hls.ttvnw.net/v1/segment/CskN9_SB54RaFP73-OtDAjo_GODVmRsyhlazYbPwPedxMkIIUdwt1pKv_SeeoJmpthKmY1LvFr0uSMkC96akP-2yDvQjlW2QamD_zP4E7qlr_0UxzAJk5oal8YNIhmDn99Id4nmlbPmXZuoT7MBVl_6IAAtRQBjmrbd2cjzIW_Rch5SFYCw2ZlbnbZKnfB9vueRum4mo9pPz_bZyqNeqrcQmg-ExHnBavk0iacnBFtIOa-q9NvULM_lsyfc77NnG3z_yK1VfcLPUjYecwzlVoZnhxWE508HvWUmefFFnbjq9XxmLFEgXKfEhbGipAkdhhHo9sdN9Fg7qBT2IpBg_7y8QVlWMKTS9Uj2HL3QYSIYjOKtehxRKKkvsxtpaXmbqRNhLlMw-ikV2K8cCmAxct7JOc0D8tE0-O3iC6dnh12BKDdR8J_JQ0OFs4BRLVQ7qO6LFq80twfv1Grt9-h_AxFjUAcUA4Oj7Nl5oXf7bdogtSnuJV3U0Ke24b2QrSV14zwGRnM122I9lhnqch9B-Fn4LfdO1dVS3lOGHLrcMCZu6uUafxIlcTyU9CgjqATIT699Oe0D1I6Xl7vWAZ08oolDfcIW6FQ0eDEY4jxsY6qOMLv8vTjuXe00P0I1_1EhimyhktiVdy5siHK7kHWWADWSdi2U9DMvVTzfCOAZu1q_7yuUtVPciYEuKNvJHkYpl7XFqBaf96k1S3XDw99zcdjg8GzSQRmXkzpGCSsRfDu_9qhJFfl6ky9IcKoC_ibL5CAeDAU05RpdQmIZyE.ts"
 			}
 		]
 	},
@@ -7022,6 +7022,37 @@
 			{
 				"weight": 0,
 				"value": "no_login_required_forced"
+			}
+		]
+	},
+	"7241baf1-531b-416d-aea0-7eba3f25f39e": {
+		"name": "promoter_allowlist_ramp",
+		"v": 12151,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "60_percent"
+			},
+			{
+				"weight": 0,
+				"value": "70_percent"
+			},
+			{
+				"weight": 0,
+				"value": "80_percent"
+			},
+			{
+				"weight": 0,
+				"value": "90_percent"
+			},
+			{
+				"weight": 0,
+				"value": "100_percent"
 			}
 		]
 	},
