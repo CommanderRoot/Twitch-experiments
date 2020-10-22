@@ -14643,6 +14643,25 @@
 			}
 		]
 	},
+	"eb1c8067-b0a0-4741-af78-a839f84503c4": {
+		"name": "ios_captcha",
+		"v": 12176,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "recaptcha"
+			},
+			{
+				"weight": 0,
+				"value": "arkose"
+			},
+			{
+				"weight": 0,
+				"value": "arkose_pre_challenge"
+			}
+		]
+	},
 	"eb66ec49-f377-4ad0-8d3e-7c3ecfafd8fa": {
 		"name": "android_videoplayer_r6_2_0",
 		"v": 4740,
