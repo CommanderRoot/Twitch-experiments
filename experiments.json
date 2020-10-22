@@ -7042,15 +7042,15 @@
 	},
 	"7241baf1-531b-416d-aea0-7eba3f25f39e": {
 		"name": "promoter_allowlist_ramp",
-		"v": 12187,
+		"v": 12188,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "60_percent"
 			},
 			{
