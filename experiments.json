@@ -730,6 +730,21 @@
 			}
 		]
 	},
+	"0bf747fb-d9d9-4d77-be3e-966b53934681": {
+		"name": "dart_ams_vwr_293_flw_cmc_flw_prt_msc_email_2010_holdout",
+		"v": 12167,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0cc08918-eff5-49d3-92cf-efd8999a4477": {
 		"name": "ios_community_points_alpha",
 		"v": 6636,
@@ -11150,6 +11165,21 @@
 			{
 				"weight": 75,
 				"value": "control"
+			}
+		]
+	},
+	"af379a8f-bb14-47bf-8949-c54127dead67": {
+		"name": "dart_ams_vwr_293_flw_cmc_flw_prt_msc_email_2010_email",
+		"v": 12168,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
