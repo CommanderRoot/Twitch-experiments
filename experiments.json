@@ -12843,23 +12843,23 @@
 	},
 	"c8d6e2c8-2782-4ee0-9689-546bf70cc1a3": {
 		"name": "android_mgst_ingest_test_optimizations",
-		"v": 11966,
+		"v": 12208,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "weekly"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "monthly"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "never"
 			}
 		]
