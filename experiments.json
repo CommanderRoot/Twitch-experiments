@@ -10874,6 +10874,21 @@
 			}
 		]
 	},
+	"abcdf2e9-45df-40e0-8410-065e257458f6": {
+		"name": "dart_twitch_gift_card_2_102320_holdout",
+		"v": 12212,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ac1c908f-3779-4068-ae72-086c288f6f87": {
 		"name": "FEATURED_COLLECTION_CARD",
 		"v": 1517,
@@ -11756,6 +11771,21 @@
 			{
 				"weight": 100,
 				"value": "v7.4"
+			}
+		]
+	},
+	"b52d63a4-3d9a-4fb1-87f1-98249894e4f1": {
+		"name": "dart_twitch_gift_card_2_102320_email",
+		"v": 12213,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
