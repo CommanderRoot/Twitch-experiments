@@ -13190,7 +13190,7 @@
 	},
 	"ce3431c7-ed9f-4479-a3fc-a8c63bcfddd2": {
 		"name": "android_unban_requests",
-		"v": 12193,
+		"v": 12211,
 		"t": 1,
 		"groups": [
 			{
@@ -13198,7 +13198,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "active"
 			}
 		]
