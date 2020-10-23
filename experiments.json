@@ -9979,6 +9979,21 @@
 			}
 		]
 	},
+	"9c6a5829-757c-4ad9-88d0-93c5c5495b13": {
+		"name": "dart_verizon_rivals_email_onsite_102220_holdout",
+		"v": 12207,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9c9f5b2c-cbf9-4ab4-b408-7e44f08723ff": {
 		"name": "dart_rolling_loud_launch_091020_holdout",
 		"v": 11665,
