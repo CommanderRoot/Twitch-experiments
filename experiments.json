@@ -7894,7 +7894,7 @@
 	},
 	"7d46d35a-02ce-4f3f-ad1c-6d7e7d59a610": {
 		"name": "ios_multiplayer_ad_polls",
-		"v": 11558,
+		"v": 12223,
 		"t": 1,
 		"groups": [
 			{
@@ -7912,6 +7912,10 @@
 			{
 				"weight": 0,
 				"value": "active_v9.7"
+			},
+			{
+				"weight": 0,
+				"value": "active_v9.10"
 			}
 		]
 	},
