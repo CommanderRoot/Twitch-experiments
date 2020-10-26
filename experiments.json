@@ -15116,6 +15116,21 @@
 			}
 		]
 	},
+	"eff9b1d5-2b8b-4ea0-b3cc-060c37036dd4": {
+		"name": "dart_ppp_complex_102620_holdout",
+		"v": 12228,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f026dfcc-17d4-4f32-823a-925b730fd89f": {
 		"name": "android_viewer_level_midrolls",
 		"v": 12094,
