@@ -7103,7 +7103,7 @@
 	},
 	"7241baf1-531b-416d-aea0-7eba3f25f39e": {
 		"name": "promoter_allowlist_ramp",
-		"v": 12230,
+		"v": 12231,
 		"t": 1,
 		"groups": [
 			{
@@ -7123,11 +7123,11 @@
 				"value": "80_percent"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "90_percent"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "100_percent"
 			}
 		]
