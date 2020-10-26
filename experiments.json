@@ -1905,6 +1905,21 @@
 			}
 		]
 	},
+	"2145647b-7bb4-432e-9035-26a3268ab7a1": {
+		"name": "use-rare-candy-quests",
+		"v": 12222,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "true"
+			},
+			{
+				"weight": 100,
+				"value": "false"
+			}
+		]
+	},
 	"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
 		"name": "android_chromecast_player_core",
 		"v": 3815,
@@ -6201,21 +6216,6 @@
 			{
 				"weight": 100,
 				"value": "variation"
-			}
-		]
-	},
-	"66aba57b-41b1-4adb-86ff-8407cc47cd74": {
-		"name": "use-rare-candy-quests",
-		"v": 12220,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "true"
-			},
-			{
-				"weight": 100,
-				"value": "false"
 			}
 		]
 	},
