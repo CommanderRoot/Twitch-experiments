@@ -2875,24 +2875,40 @@
 	},
 	"32579c0a-aa80-4c59-8690-907d38b9cb8c": {
 		"name": "android_content_integrity2",
-		"v": 12032,
+		"v": 12224,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "rsa_0"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "ecdsa256_0"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "ecdsa1_0"
+			},
+			{
+				"weight": 65,
+				"value": "rest"
+			},
+			{
+				"weight": 5,
+				"value": "rsa_200"
+			},
+			{
+				"weight": 5,
+				"value": "ecdsa256_200"
+			},
+			{
+				"weight": 5,
+				"value": "ecdsa1_200"
 			}
 		]
 	},
