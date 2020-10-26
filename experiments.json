@@ -6600,6 +6600,21 @@
 			}
 		]
 	},
+	"6bf617c7-0271-4815-aed8-ccdc38bbb43c": {
+		"name": "dart_djarii_vwr_290_dav_cmc_wch_tne_irl_pe_2010_email",
+		"v": 12219,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"6c7ee3f8-e783-46d7-b620-d82273cc17da": {
 		"name": "ios_auto_mod_cheering",
 		"v": 9169,
@@ -13015,6 +13030,21 @@
 			{
 				"weight": 0,
 				"value": "dont_deliver"
+			}
+		]
+	},
+	"cae6a476-6137-444e-aeba-a176453348f4": {
+		"name": "dart_djarii_vwr_290_dav_cmc_wch_tne_irl_pe_2010_holdout",
+		"v": 12218,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
