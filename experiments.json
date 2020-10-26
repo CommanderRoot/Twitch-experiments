@@ -6204,6 +6204,21 @@
 			}
 		]
 	},
+	"66aba57b-41b1-4adb-86ff-8407cc47cd74": {
+		"name": "use-rare-candy-quests",
+		"v": 12220,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "true"
+			},
+			{
+				"weight": 100,
+				"value": "false"
+			}
+		]
+	},
 	"66eef7be-86bb-4ca1-92ee-3a22099b6cc6": {
 		"name": "dart_PUBG1122E_holdout",
 		"v": 8725,
