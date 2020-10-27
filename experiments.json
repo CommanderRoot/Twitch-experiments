@@ -3982,15 +3982,15 @@
 	},
 	"45b880e9-d5ac-46c5-93d2-7b13c93e5193": {
 		"name": "tvapps_androidtv_player_native",
-		"v": 9129,
+		"v": 12241,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -4354,6 +4354,21 @@
 			{
 				"weight": 100,
 				"value": "enabled"
+			}
+		]
+	},
+	"4abe3840-c041-4410-b3c2-d4d51c69ca6d": {
+		"name": "simplify_single_gift",
+		"v": 12242,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
