@@ -2706,7 +2706,7 @@
 	},
 	"2fd1fd07-8b92-4758-ae1c-e235633b961e": {
 		"name": "android_schedule_reminders",
-		"v": 12248,
+		"v": 12250,
 		"t": 1,
 		"groups": [
 			{
@@ -16072,6 +16072,21 @@
 			{
 				"weight": 25,
 				"value": "15sec"
+			}
+		]
+	},
+	"fe952ff3-3545-40d9-9f43-213586553847": {
+		"name": "ios_schedule_reminders",
+		"v": 12251,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
 			}
 		]
 	},
