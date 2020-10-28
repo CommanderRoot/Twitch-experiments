@@ -2704,6 +2704,21 @@
 			}
 		]
 	},
+	"2fd1fd07-8b92-4758-ae1c-e235633b961e": {
+		"name": "android_schedule_reminders",
+		"v": 12248,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"3041f4a5-97dc-4864-a663-5ea31693a082": {
 		"name": "mobile_web_automatic_deepview",
 		"v": 10406,
