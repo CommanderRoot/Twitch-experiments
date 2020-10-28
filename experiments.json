@@ -1907,16 +1907,16 @@
 	},
 	"2145647b-7bb4-432e-9035-26a3268ab7a1": {
 		"name": "use-rare-candy-quests",
-		"v": 12222,
+		"v": 12252,
 		"t": 3,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "true"
+				"value": "yes"
 			},
 			{
 				"weight": 100,
-				"value": "false"
+				"value": "no"
 			}
 		]
 	},
