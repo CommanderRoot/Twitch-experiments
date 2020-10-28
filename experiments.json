@@ -10166,19 +10166,19 @@
 	},
 	"9d3df813-9a03-4663-aacd-9b121abbda14": {
 		"name": "show_support_subscribe_button",
-		"v": 12136,
+		"v": 12257,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 950,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "variant_a"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "variant_b"
 			}
 		]
