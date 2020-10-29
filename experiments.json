@@ -4545,6 +4545,21 @@
 			}
 		]
 	},
+	"4d280622-264e-4d2b-ba07-f064d3d67e85": {
+		"name": "ios_profile_autoplay",
+		"v": 12275,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"4d2a343e-eee1-46fa-9fba-eee3fbc43172": {
 		"name": "android_surestream",
 		"v": 6012,
@@ -4825,6 +4840,21 @@
 			{
 				"weight": 100,
 				"value": "variant"
+			}
+		]
+	},
+	"51092f35-d541-41a0-bdf8-982993a8397c": {
+		"name": "android_profile_autoplay",
+		"v": 12276,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
