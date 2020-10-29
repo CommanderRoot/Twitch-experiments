@@ -13072,6 +13072,21 @@
 			}
 		]
 	},
+	"c93d1147-b6b9-459f-a642-f54a8ed17860": {
+		"name": "ios_use_1p_for_vaes_requests",
+		"v": 12274,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"c941a1bf-ab9e-429d-b0a5-6087e3ac64d0": {
 		"name": "ads_test_mobile_web",
 		"v": 11614,
