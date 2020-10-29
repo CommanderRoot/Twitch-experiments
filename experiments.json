@@ -3649,6 +3649,21 @@
 			}
 		]
 	},
+	"40412ad1-c120-435a-be11-f2672bdcc677": {
+		"name": "dart_event_reminder_push",
+		"v": 12277,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"40620994-52b2-4d6c-9ceb-f3c03e270f6f": {
 		"name": "android_chat_input_verified",
 		"v": 5883,
