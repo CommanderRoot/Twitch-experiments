@@ -15451,6 +15451,21 @@
 			}
 		]
 	},
+	"f0c2da7d-2b69-41e0-bd66-594863d280af": {
+		"name": "dart_frozencreatorreengagement_ctr_na_brdcst_cmc_lrn_mkt_gmg_email_2010_holdout",
+		"v": 12299,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"f0dd0b92-ea0f-4319-ab0b-c64fcf117107": {
 		"name": "android_community_challenges",
 		"v": 11666,
