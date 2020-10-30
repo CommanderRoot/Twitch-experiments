@@ -10937,6 +10937,21 @@
 			}
 		]
 	},
+	"a90acb7d-90d8-4fbe-a6b0-b7da31465e2d": {
+		"name": "android_non_fatal_sampling",
+		"v": 12285,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"a9445a37-d1b7-45ee-9ea4-2d8da493bfb9": {
 		"name": "ad_affiliate_rev_share",
 		"v": 8316,
@@ -11041,6 +11056,21 @@
 			{
 				"weight": 90,
 				"value": "allowed"
+			}
+		]
+	},
+	"ab1af901-9a20-4274-aeca-0d1adc8c4bd7": {
+		"name": "ios_non_fatal_sampling",
+		"v": 12286,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 999,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
 			}
 		]
 	},
