@@ -508,6 +508,21 @@
 			}
 		]
 	},
+	"0856cead-b55b-4714-bd41-e8cc514a202f": {
+		"name": "dart_rollingloudtunein_vwr_296_5mp_cmc_wch_evt_msc_peo_2010_holdout",
+		"v": 12297,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"088f409b-3e9d-4ebe-aeb7-4df12f825f6f": {
 		"name": "surestream_rollout_uwp",
 		"v": 7141,
