@@ -6968,15 +6968,15 @@
 	},
 	"6ec0cc4b-771d-4e43-8cf8-8dba9562f78a": {
 		"name": "android_amazon_identity_integration",
-		"v": 10772,
+		"v": 12295,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_9_4"
 			}
 		]
@@ -14352,15 +14352,15 @@
 	},
 	"db5e7866-e8a4-4522-adce-9035cbdb7717": {
 		"name": "ios_ads_identity",
-		"v": 10754,
+		"v": 12296,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v9.4"
 			},
 			{
-				"weight": 1,
+				"weight": 99,
 				"value": "control"
 			}
 		]
