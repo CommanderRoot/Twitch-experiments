@@ -1384,7 +1384,7 @@
 	},
 	"18b33438-adc4-445e-87b9-1685fdb7d35f": {
 		"name": "android_player_abr_modes",
-		"v": 12133,
+		"v": 12288,
 		"t": 1,
 		"groups": [
 			{
@@ -1393,7 +1393,15 @@
 			},
 			{
 				"weight": 0,
-				"value": ""
+				"value": "min_buffer_a"
+			},
+			{
+				"weight": 0,
+				"value": "min_buffer_b"
+			},
+			{
+				"weight": 0,
+				"value": "min_buffer_c"
 			}
 		]
 	},
