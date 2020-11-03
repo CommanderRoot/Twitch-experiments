@@ -2128,25 +2128,6 @@
 			}
 		]
 	},
-	"24745137-6c70-4af5-803f-5c6ff331c78a": {
-		"name": "ios_twitch_radio_v2",
-		"v": 12329,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 25,
-				"value": "control"
-			},
-			{
-				"weight": 25,
-				"value": "active"
-			},
-			{
-				"weight": 50,
-				"value": "active_content_promotion_enabled"
-			}
-		]
-	},
 	"249a545e-a189-4360-aa4a-9af86a713fbe": {
 		"name": "dart_thursdaynightfootball_week_4_102920_holdout",
 		"v": 12283,
