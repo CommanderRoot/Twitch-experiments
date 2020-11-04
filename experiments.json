@@ -3577,6 +3577,21 @@
 			}
 		]
 	},
+	"3ec204f5-3307-4296-be1e-519a14a7b3bf": {
+		"name": "android_video_ads_first_party_api",
+		"v": 12346,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_9.10"
+			}
+		]
+	},
 	"3f3117d1-ff5c-4097-97cf-36321e4f307b": {
 		"name": "android_prime_subs",
 		"v": 4377,
