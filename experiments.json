@@ -11216,16 +11216,12 @@
 	},
 	"ac366ea6-3657-4c79-886c-d02448ec7843": {
 		"name": " android_international_pricing_discovery_phase_1",
-		"v": 12339,
+		"v": 12340,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "active_phase_1"
-			},
-			{
-				"weight": 0,
-				"value": "active_phase_2"
+				"value": "active"
 			},
 			{
 				"weight": 100,
@@ -13672,6 +13668,25 @@
 			{
 				"weight": 90,
 				"value": "allowed"
+			}
+		]
+	},
+	"ced11467-5be3-46be-8288-856cc8941723": {
+		"name": " android_international_pricing_discovery_phase_2",
+		"v": 12341,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
