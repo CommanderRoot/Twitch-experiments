@@ -1800,6 +1800,21 @@
 			}
 		]
 	},
+	"1e87827f-a8a4-44b5-bffb-e94cfff4eaaf": {
+		"name": "dart_valorantemea_vwr_302_flw_cmc_flw_evt_esp_email_2011_holdout",
+		"v": 12335,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1e899717-a0a8-4922-b0e7-bb6d71e4ed20": {
 		"name": "android_mobile_promotions",
 		"v": 3589,
@@ -12652,6 +12667,21 @@
 			{
 				"weight": 0,
 				"value": "no-keyboard-suggester"
+			}
+		]
+	},
+	"c12a6a77-7905-4737-b469-1c04b967c48e": {
+		"name": "dart_valorantemea_vwr_302_flw_cmc_flw_evt_esp_email_2011_email",
+		"v": 12336,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
