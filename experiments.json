@@ -6187,6 +6187,21 @@
 			}
 		]
 	},
+	"6349b5c3-8c15-4e40-a5e8-ce49255f8fbc": {
+		"name": "pushy_reminders_rollout",
+		"v": 12347,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"635c1961-3efe-444b-8b40-94b96e64abac": {
 		"name": "video_edge_reassignment",
 		"v": 5491,
