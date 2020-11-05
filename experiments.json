@@ -14503,15 +14503,15 @@
 	},
 	"db5e7866-e8a4-4522-adce-9035cbdb7717": {
 		"name": "ios_ads_identity",
-		"v": 12337,
+		"v": 12357,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v9.4"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
