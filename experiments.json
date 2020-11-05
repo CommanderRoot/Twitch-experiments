@@ -5238,6 +5238,25 @@
 			}
 		]
 	},
+	"550f10c2-dcdc-4c68-96f1-1b8f7b4ed95b": {
+		"name": "android_international_pricing_education_phase_1",
+		"v": 12351,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"560f30f8-b4fc-4a9d-96ac-9143dc1f4110": {
 		"name": "recommended_clips_live_recs",
 		"v": 3322,
@@ -9991,6 +10010,25 @@
 			}
 		]
 	},
+	"98f25d54-0422-45cf-95d6-60e4d458d546": {
+		"name": "android_international_pricing_education_phase_2",
+		"v": 12353,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"98f3f2a5-9e4e-4ba8-aabe-2ff85e7309ee": {
 		"name": "CHAT_RULES_EXPERIMENT",
 		"v": 505,
@@ -11241,25 +11279,6 @@
 			{
 				"weight": 100,
 				"value": "yes"
-			}
-		]
-	},
-	"ac366ea6-3657-4c79-886c-d02448ec7843": {
-		"name": " android_international_pricing_phase_1",
-		"v": 12345,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
@@ -13698,25 +13717,6 @@
 			{
 				"weight": 90,
 				"value": "allowed"
-			}
-		]
-	},
-	"ced11467-5be3-46be-8288-856cc8941723": {
-		"name": " android_international_pricing_phase_2",
-		"v": 12344,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
