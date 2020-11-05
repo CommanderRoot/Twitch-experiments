@@ -11113,15 +11113,15 @@
 	},
 	"a90acb7d-90d8-4fbe-a6b0-b7da31465e2d": {
 		"name": "android_non_fatal_sampling",
-		"v": 12311,
+		"v": 12372,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "disabled"
 			},
 			{
-				"weight": 0,
+				"weight": 99,
 				"value": "active_spade"
 			},
 			{
@@ -11239,15 +11239,15 @@
 	},
 	"ab1af901-9a20-4274-aeca-0d1adc8c4bd7": {
 		"name": "ios_non_fatal_sampling",
-		"v": 12312,
+		"v": 12371,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 999,
+				"weight": 0,
 				"value": "disabled"
 			},
 			{
-				"weight": 0,
+				"weight": 999,
 				"value": "active_spade"
 			},
 			{
