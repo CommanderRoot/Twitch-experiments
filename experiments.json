@@ -48,6 +48,21 @@
 			}
 		]
 	},
+	"009de4ba-f40c-4602-bb32-dd5098309f84": {
+		"name": "ios_leaderboards",
+		"v": 12370,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"00a7a76a-0bea-4455-a186-0dae44285f75": {
 		"name": "android_multiplayer_ads",
 		"v": 12237,
