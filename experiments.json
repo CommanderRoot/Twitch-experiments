@@ -1060,6 +1060,21 @@
 			}
 		]
 	},
+	"1275752f-6cbb-4ff3-8dd8-fa190e469faf": {
+		"name": "tvapps_global_qr_login",
+		"v": 12356,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 100,
+				"value": "disabled"
+			}
+		]
+	},
 	"12c7e908-44b8-456f-9dad-b8660e6db1ab": {
 		"name": "vaes_rollout_GB",
 		"v": 7751,
