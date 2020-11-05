@@ -7773,6 +7773,21 @@
 			}
 		]
 	},
+	"7678a52b-b88b-491b-b2af-63863fbc0fb0": {
+		"name": "dart_liveup",
+		"v": 12376,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 95,
+				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "treatment"
+			}
+		]
+	},
 	"767cca3e-a413-4408-8fc8-20e3d232f55a": {
 		"name": "ios_chat_connection_aggressive_pruning",
 		"v": 11226,
