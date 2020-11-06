@@ -1158,6 +1158,21 @@
 			}
 		]
 	},
+	"140f2b2b-ea55-4d0f-b2b2-1dc4c95e25a9": {
+		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_email",
+		"v": 12384,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"143da2f9-bf80-4555-a661-76c378fcd5c8": {
 		"name": "ios_aa",
 		"v": 1919,
@@ -2251,6 +2266,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"2556e4eb-3ced-4cfb-ae8a-f6ace957d83c": {
+		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_push",
+		"v": 12385,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -10984,6 +11014,21 @@
 			{
 				"weight": 100,
 				"value": "LEGACY"
+			}
+		]
+	},
+	"a64224a9-8292-4d4f-80ec-f7df532b6bf8": {
+		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_holdout",
+		"v": 12383,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
