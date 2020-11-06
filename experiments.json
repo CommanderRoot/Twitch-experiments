@@ -1571,6 +1571,21 @@
 			}
 		]
 	},
+	"19952ef6-92f9-419d-82e1-5e33feb03c61": {
+		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_saturday_email",
+		"v": 12387,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"19cc1327-9436-4019-b71c-e2a1e41d3cb3": {
 		"name": "actuator_integration_test",
 		"v": 11502,
@@ -8819,6 +8834,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"856ea473-1d5a-4af9-b79d-283a299a2212": {
+		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_saturday_holdout",
+		"v": 12386,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
