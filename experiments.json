@@ -1173,6 +1173,21 @@
 			}
 		]
 	},
+	"14733b39-44af-4963-8d44-f4657750b85f": {
+		"name": "dart_tnf_week_5_vwr_272_5mp_cmc_wch_tne_spt_peo_2011_holdout",
+		"v": 12377,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"14f1211b-6aa3-4a8f-87a0-128fb2ce7d29": {
 		"name": "ios_redeem_5_get_6",
 		"v": 11595,
@@ -14040,6 +14055,21 @@
 			{
 				"weight": 100,
 				"value": "active_9.5"
+			}
+		]
+	},
+	"d4313b20-c13c-46fb-853b-bb33cc5ec0cc": {
+		"name": "dart_tnf_week_5_vwr_272_5mp_cmc_wch_tne_spt_peo_2011_email",
+		"v": 12378,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
