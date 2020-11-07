@@ -7047,16 +7047,12 @@
 	},
 	"6d4e9181-30a3-4c5e-a3f9-054cabe2643a": {
 		"name": "vpr_model_switcher",
-		"v": 12394,
+		"v": 12397,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "M2ModelTest1"
 			},
 			{
 				"weight": 100,
