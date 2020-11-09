@@ -7835,15 +7835,15 @@
 	},
 	"7678a52b-b88b-491b-b2af-63863fbc0fb0": {
 		"name": "dart_liveup",
-		"v": 12376,
+		"v": 12405,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
