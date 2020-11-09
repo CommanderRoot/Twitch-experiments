@@ -4581,15 +4581,15 @@
 	},
 	"4abe3840-c041-4410-b3c2-d4d51c69ca6d": {
 		"name": "simplify_single_gift",
-		"v": 12242,
+		"v": 12404,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
