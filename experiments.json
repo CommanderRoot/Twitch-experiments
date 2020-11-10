@@ -13630,6 +13630,21 @@
 			}
 		]
 	},
+	"cac8eed8-750b-4aae-be3c-5716e7e507c5": {
+		"name": "dart_xboxevent_vwr_313_5mp_cmc_wch_tne_gmg_email_2011_holdout",
+		"v": 12420,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"cae6a476-6137-444e-aeba-a176453348f4": {
 		"name": "dart_djarii_vwr_290_dav_cmc_wch_tne_irl_pe_2010_holdout",
 		"v": 12218,
