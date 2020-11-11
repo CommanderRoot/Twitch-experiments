@@ -7448,6 +7448,21 @@
 			}
 		]
 	},
+	"720e369d-caed-41f7-8869-f90199bdac6a": {
+		"name": "ios_international_pricing_education_phase_2",
+		"v": 12430,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"72243b7d-3774-4bf3-b87b-4bc5e4a23e46": {
 		"name": "ios_login_required",
 		"v": 7943,
@@ -15641,6 +15656,21 @@
 			{
 				"weight": 100,
 				"value": "yes_play_1050"
+			}
+		]
+	},
+	"ee00dc45-05df-439e-996b-4b93e52e88a4": {
+		"name": "ios_international_pricing_education_phase_1",
+		"v": 12429,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
