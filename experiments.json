@@ -16005,6 +16005,21 @@
 			}
 		]
 	},
+	"f47e44f2-7a81-4005-bb04-5d6d69018d61": {
+		"name": "android_client_side_use_surestream_pbyp",
+		"v": 12423,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"f49a35c9-d920-40b5-b2ed-e1a0cf218186": {
 		"name": "ios_end_play_session_on_theater_close",
 		"v": 11850,
