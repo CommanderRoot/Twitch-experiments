@@ -16056,15 +16056,15 @@
 	},
 	"f49a35c9-d920-40b5-b2ed-e1a0cf218186": {
 		"name": "ios_end_play_session_on_theater_close",
-		"v": 12428,
+		"v": 12443,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_v9.4"
 			}
 		]
