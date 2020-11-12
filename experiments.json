@@ -495,15 +495,15 @@
 	},
 	"07f69861-4bbe-4b74-a051-8d82274ac223": {
 		"name": "ios_game_broadcasting_top_nav",
-		"v": 11832,
+		"v": 12476,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
