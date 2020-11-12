@@ -3072,15 +3072,15 @@
 	},
 	"322f4386-5da8-4b91-a88f-0cb67fa5f2a5": {
 		"name": "ios_channel_points_predictions",
-		"v": 11828,
+		"v": 12459,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -6219,15 +6219,15 @@
 	},
 	"61733499-8b43-42ed-a416-1a72f72af015": {
 		"name": "android_copo_predictions",
-		"v": 11824,
+		"v": 12460,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
