@@ -987,15 +987,15 @@
 	},
 	"117e3dbc-fc17-49b4-9d07-34d09dd2c10d": {
 		"name": "Promotions_Live_Recommended_Android",
-		"v": 10911,
+		"v": 12472,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 89,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 11,
+				"weight": 0,
 				"value": "promotions_enabled"
 			}
 		]
@@ -4834,15 +4834,15 @@
 	},
 	"4dced941-77cd-4290-9a41-5f0a563383e3": {
 		"name": "Promotions_Live_Recommended_iOS",
-		"v": 10910,
+		"v": 12473,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 86,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 14,
+				"weight": 0,
 				"value": "promotions_enabled"
 			}
 		]
