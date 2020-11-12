@@ -1593,7 +1593,7 @@
 	},
 	"19942186-6b08-425d-87c7-f0d3d00d0da4": {
 		"name": "dart_ps5event_vwr_313_dav_cmc_wch_tne_gmg_peo_2011_holdout",
-		"v": 12455,
+		"v": 12457,
 		"t": 2,
 		"groups": [
 			{
@@ -6214,22 +6214,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"6147aed8-6beb-4c24-a00b-a9ec189a4c1d": {
-		"name": "twilight_channel_analytics_content_overlap_panels",
-		"v": 4301,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "no"
-			},
-			{
-				"weight": 100,
-				"value": "yes"
 			}
 		]
 	},
