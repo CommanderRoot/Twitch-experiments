@@ -1591,6 +1591,21 @@
 			}
 		]
 	},
+	"19942186-6b08-425d-87c7-f0d3d00d0da4": {
+		"name": "dart_ps5event_vwr_313_dav_cmc_wch_tne_gmg_peo_2011_holdout",
+		"v": 12455,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"19952ef6-92f9-419d-82e1-5e33feb03c61": {
 		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_saturday_email",
 		"v": 12387,
