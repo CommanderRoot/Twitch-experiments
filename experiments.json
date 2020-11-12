@@ -8277,21 +8277,6 @@
 			}
 		]
 	},
-	"7d0b5fe2-55d4-432f-aa05-ec588d36dd15": {
-		"name": "twilight_channel_analytics_notifications_analytics",
-		"v": 7218,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "treatment"
-			}
-		]
-	},
 	"7d225020-bb17-40a6-aaa9-3230d807eb8d": {
 		"name": "dart_viewer_cp2077_twitchgaming_101520_holdout",
 		"v": 12089,
