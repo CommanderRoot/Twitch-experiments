@@ -3154,6 +3154,25 @@
 			}
 		]
 	},
+	"32d70b6e-b21a-4522-a404-f7252d6062d5": {
+		"name": "ios_disco_default_tab",
+		"v": 12479,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "fourteen_days"
+			},
+			{
+				"weight": 0,
+				"value": "following_play"
+			}
+		]
+	},
 	"331ed7a2-b3f6-4217-ba79-70f485cc5a51": {
 		"name": "ios_push_notification_settings",
 		"v": 11515,
