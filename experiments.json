@@ -8747,6 +8747,21 @@
 			}
 		]
 	},
+	"82806ef7-959b-4e21-b4bb-22e8d010d6c4": {
+		"name": "dart_tnfweek6_vwr_272_dav_cmc_wch_tne_spt_peo_2011_holdout",
+		"v": 12477,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"82fa1d06-a80c-4646-ae58-0dd2ad883d0b": {
 		"name": "android_extensions_public_release",
 		"v": 3156,
