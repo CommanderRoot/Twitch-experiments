@@ -835,6 +835,21 @@
 			}
 		]
 	},
+	"0e24f30b-c2fb-48ef-8eca-312a79ec840a": {
+		"name": "dart_glitchconlol_vwr_nrp315_5mp_cmc_wch_evt_e_2011_holdout",
+		"v": 12489,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0e636d13-56a8-44f4-bd51-7e65cd5a5225": {
 		"name": "twilight_clips_howdy_partner",
 		"v": 7767,
@@ -1682,6 +1697,21 @@
 			{
 				"weight": 0,
 				"value": "disabled"
+			}
+		]
+	},
+	"1a8625ed-e252-43c7-b2f7-4b84ca4c5bed": {
+		"name": "dart_glitchconlol_vwr_nrp315_5mp_cmc_wch_evt_e_2011_holdout",
+		"v": 12488,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
