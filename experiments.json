@@ -10152,6 +10152,21 @@
 			}
 		]
 	},
+	"96a03272-7e0f-4fee-94ff-0cc19d8d41bf": {
+		"name": "ios_disco_shelf_size_decrease",
+		"v": 12499,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
 	"972d3986-543b-4e75-b690-ddcc73073510": {
 		"name": "ios_ad_pbyp",
 		"v": 8791,
