@@ -13638,15 +13638,15 @@
 	},
 	"c8d6e2c8-2782-4ee0-9689-546bf70cc1a3": {
 		"name": "android_mgst_ingest_test_optimizations",
-		"v": 12301,
+		"v": 12501,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "weekly"
 			},
 			{
@@ -13654,11 +13654,11 @@
 				"value": "monthly"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "never"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "daily"
 			}
 		]
@@ -15802,8 +15802,8 @@
 		]
 	},
 	"ed5c8bc3-84b6-4baa-beac-a05c2dae1ee4": {
-		"name": "ios_vaes_targeting_improvements",
-		"v": 12497,
+		"name": "ios_vaes_device_type_targeting",
+		"v": 12502,
 		"t": 1,
 		"groups": [
 			{
