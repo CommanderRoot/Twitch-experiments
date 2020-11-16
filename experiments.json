@@ -3085,6 +3085,29 @@
 			}
 		]
 	},
+	"31816ec0-abd0-425a-86dd-5d7c5c2c26ca": {
+		"name": "ios_ads_identity_minimum_registration_hour_interval",
+		"v": 12506,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "1"
+			},
+			{
+				"weight": 0,
+				"value": "3"
+			},
+			{
+				"weight": 0,
+				"value": "24"
+			}
+		]
+	},
 	"319de98b-995e-49cf-9ea2-d3458dec504a": {
 		"name": "android_mgst_mobile_games_onboarding",
 		"v": 9138,
