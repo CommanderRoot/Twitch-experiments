@@ -7551,15 +7551,15 @@
 	},
 	"716ed1ba-6a09-486e-b160-860ebd21db41": {
 		"name": "ios_beyond_thunderdome",
-		"v": 11206,
+		"v": 12523,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 15,
 				"value": "active"
 			}
 		]
@@ -8411,15 +8411,15 @@
 	},
 	"7b300605-0816-4464-8e86-be5341835ab3": {
 		"name": "android_unified_video_access_token",
-		"v": 12504,
+		"v": 12520,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -12267,15 +12267,15 @@
 	},
 	"b1b6cefc-b689-4b4a-8bac-4d230895a85c": {
 		"name": "android_beyond_thunderdome",
-		"v": 12194,
+		"v": 12522,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 15,
 				"value": "active_9.9"
 			}
 		]
