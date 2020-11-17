@@ -2916,6 +2916,21 @@
 			}
 		]
 	},
+	"2de817bf-a457-44f0-bc4f-17d8e1ceebc5": {
+		"name": "dart_eugiftcard21_vwr_305_cmm_cmc_buy_mis_email_2011_holdout",
+		"v": 12517,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2ea9efcc-8188-4c86-b5be-3ea99805e58c": {
 		"name": "dart_rolling_loud_2_reminder_102920_holdout",
 		"v": 12264,
@@ -14378,6 +14393,21 @@
 			{
 				"weight": 10,
 				"value": "new"
+			}
+		]
+	},
+	"d29c10e4-f811-4889-8c6e-b90a79ad5284": {
+		"name": "dart_eugiftcard13_vwr_305_cmm_cmc_buy_mis_email_2011_holdout",
+		"v": 12516,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
