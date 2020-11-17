@@ -4846,12 +4846,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 12495,
+		"v": 12513,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-9608f9.pdx01.abs.hls.ttvnw.net/v1/segment/CiQFR_D0JoMFIQwyPrM_YoBUlNel1Ed8Q0aNeDwFt-xBK33DrG2BwwQJj1B5tIRhUeQ2wIsYax_RxjZwM7Dp2gXNUgjnDrBfBzqey3OBYzzZFZvwbBj-lTZABp7s29vBs2xuL_x8qePDdLm695MnjakjdnHour5bVq2NW213Ph9RNm_0wKyvC-xpy589Jsw4jaNL3VzHcBfG91qg39gQmYo7SGVCsk3AzR8naVYbqKiOddiSDfjuCzkSCXia281lpV4mGGTbOfkwdjvSdl53vDd4fOx-7kf2p8BDOu3WIWdtxjGBU078Moo3hZn049P0BpMjq51SKadgqEEKXiD1V3yZV2zuNS4Sg5b03jjBIocdIsQjUejCvCeeaMEyjlWAAU2yhtMR4LmGHcN6jjFQ0fku55GgC2ciqRtrVYmP2YhvmIik-3l4nEdOGrl1KjauhqOg2EWDrIEy189heMDNHR6q09cCR4f__vf0yzEkjElGFGOR5dbP6enR30ruOMEttdVlzkuGSFX0GhAhFlq_fN_C56WJaAXKNnds-OiJy2-tWo2fe2SJv8ioac7gY6FIU7IKL9OXCVs9g5oNE9NHO_iA_Rx_iSmeiD7u5XPBYFAxvulkpQTV0Y9Gx5xrSZSyPz6vd-nNuSUa-qxVJYDmwR8oMR1CWgeYAnMbB-SsR-bPHpQohPH5DXLABaP83D8wOu9VpYUZ37L-Rn4-K42xl5sKIimByqBi7Qz6c5WN_tcZGiqeO1DDgFRP-BDnM.ts"
+				"value": "//video-edge-142db7.pdx01.abs.hls.ttvnw.net/v1/segment/CkpLKlOHuauqHUMUpvUWFpE7iqrIgEeU2VPDpLJ7aj1zHi9yFIAx4CMU32jZMkLas-6XQ3vjf2H0cB3cl7iuhweBDYGUYVIdbrZKMW3uF8ZbKCbKwXgl8bcPhNpFKlb-ruzHMImV4b5eZZVUqvtijwqF4HXW8UUJqWVm3CpCRzyXgg4cv2JB5Ff4qGgTb1djpBVONb0tOAUMJgsBdb-frSdEXWCUJmEDYVt6mRsxuw12RW2J97JoZ0WMaN5WhnZaIscdBz0J_wGLrH5ZoYMKU5wX1KRQE2K4PBhn20YkLA3W73eJ4KQPPWgymgO0gjz0M257271aFnJSNre5Dy_tocEvuHYIax_x0jcNLuaChq5_oTCDzYCYSRqNapLCbA3emQ722bkEstnwdWi-c7CclyRGNhWiZQK9txRiquDSqucHX8fMfvp1a5EKKYCnK6gkhZxyB03pRKSV9lcP1B-xq1-H9vaGsZSsiqMmk4xCThuPrW1okKbm7ZUjhw3uuVtWWYtZN7k-nwz6ZaTBNNVgxc6GzzOWonSpHgWLZ9jzFMMfsXYNSNmgvjYzx4IUaVy2_LbGL1SPQa7ClcSM_k1cqufF8W_GawinQ3blBY_ShbL-7gKT2HW01Kr8CDvvaMaPPofSXBZet2vBu1tPZhlVNqYOQurlxHI8-M6NMFKiJY0onCD7ObGb6NAQa145_DWQrlVakRlJAM35yBMnVLIhthVHpkbHdfX6I4SBOfBGHNO76ScXBUTf4wWNXb.ts"
 			}
 		]
 	},
@@ -6988,6 +6988,21 @@
 			}
 		]
 	},
+	"6a1f92fb-7023-49db-bfff-981d09bf306d": {
+		"name": "dart_usgiftcard_vwr_305_cmm_cmc_buy_mis_email_2011_holdout",
+		"v": 12514,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"6a55a881-2e43-4e1b-9ff2-de8916d6f80e": {
 		"name": "VP09 Web",
 		"v": 12104,
@@ -7135,6 +7150,21 @@
 	"6bf617c7-0271-4815-aed8-ccdc38bbb43c": {
 		"name": "dart_djarii_vwr_290_dav_cmc_wch_tne_irl_pe_2010_email",
 		"v": 12219,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
+	"6c3e469c-128a-49ad-80bf-4a8b1d5f02fd": {
+		"name": "dart_usgiftcard_vwr_305_cmm_cmc_buy_mis_email_2011_email",
+		"v": 12515,
 		"t": 2,
 		"groups": [
 			{
