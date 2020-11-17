@@ -1978,6 +1978,21 @@
 			}
 		]
 	},
+	"1e8ff51c-5150-4a8b-893b-33a2ef542025": {
+		"name": "dart_eurogiftcard_ctr_305_cmm_cmc_buy_mis_email_2011_holdout",
+		"v": 12548,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1ec7ea94-1dfc-4ee2-99bd-fc745896f9e1": {
 		"name": "dart_tnf_preseason_launch_091720_holdout",
 		"v": 11734,
@@ -3726,6 +3741,21 @@
 			}
 		]
 	},
+	"3be63007-93ed-4482-868c-4e6153a00e95": {
+		"name": "tvapps_xboxone_usher_url",
+		"v": 12544,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"3c11e182-c400-456f-bc4d-23fb1a9add47": {
 		"name": "android_ads_stream_presenter",
 		"v": 7487,
@@ -5335,6 +5365,21 @@
 			{
 				"weight": 100,
 				"value": "java"
+			}
+		]
+	},
+	"51bb24ec-8e5a-4b9f-b595-8cb098eb73d0": {
+		"name": "tvapps_viridian_usher_url",
+		"v": 12547,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
 			}
 		]
 	},
@@ -7980,6 +8025,21 @@
 			}
 		]
 	},
+	"748dd32d-bb80-4ecb-95a2-4809182608e5": {
+		"name": "tvapps_androidtv_usher_url",
+		"v": 12546,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"749739fe-5023-4c64-b299-3eb8c49cb3ee": {
 		"name": "android_sub_gift_onboarding",
 		"v": 10336,
@@ -8519,6 +8579,21 @@
 			{
 				"weight": 0,
 				"value": "inactive"
+			}
+		]
+	},
+	"7ceafd5c-bc7a-4a9e-8189-70ee35639b79": {
+		"name": "tvapps_firetv_usher_url",
+		"v": 12545,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
 			}
 		]
 	},
@@ -14370,6 +14445,21 @@
 			}
 		]
 	},
+	"d1a4782a-860b-4a80-a469-c77687456290": {
+		"name": "tvapps_tvos_usher_url",
+		"v": 12542,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"d1a829c9-7365-41fa-a642-7e64d5c8d475": {
 		"name": "per_s_integ_1",
 		"v": 8905,
@@ -14747,6 +14837,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"d78fe295-4955-4b23-85ee-48b368cb3dbf": {
+		"name": "tvapps_ps4_usher_url",
+		"v": 12543,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
 			}
 		]
 	},
