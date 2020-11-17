@@ -2008,6 +2008,29 @@
 			}
 		]
 	},
+	"200155b1-6169-40ee-b726-a668b513249a": {
+		"name": "android_ads_identity_minimum_registration_hour_interval",
+		"v": 12539,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "1"
+			},
+			{
+				"weight": 0,
+				"value": "3"
+			},
+			{
+				"weight": 0,
+				"value": "24"
+			}
+		]
+	},
 	"2005226d-07fe-46cf-a229-d91dd03d8d3a": {
 		"name": "delete_XP",
 		"v": 3634,
@@ -9803,19 +9826,19 @@
 	},
 	"8f73cc11-ccd3-4fce-a2b6-cad8326f6b15": {
 		"name": "promotions_eVPR_relevancy",
-		"v": 12396,
+		"v": 12538,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 40,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 20,
 				"value": "HP_Variant0"
 			},
 			{
-				"weight": 30,
+				"weight": 60,
 				"value": "HP_Variant1"
 			}
 		]
