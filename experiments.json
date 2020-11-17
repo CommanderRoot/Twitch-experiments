@@ -1047,15 +1047,15 @@
 	},
 	"11f74ac7-7573-4827-acdd-d2b1b8b5d51a": {
 		"name": "android_transition_logging",
-		"v": 9142,
+		"v": 12524,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
