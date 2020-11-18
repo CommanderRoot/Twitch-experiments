@@ -2025,15 +2025,15 @@
 	},
 	"200155b1-6169-40ee-b726-a668b513249a": {
 		"name": "android_ads_identity_minimum_registration_hour_interval",
-		"v": 12539,
+		"v": 12554,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "1"
 			},
 			{
