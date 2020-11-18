@@ -4405,15 +4405,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 11225,
+		"v": 12565,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 1,
 				"value": "promotions_enabled"
 			}
 		]
