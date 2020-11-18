@@ -3140,15 +3140,15 @@
 	},
 	"31816ec0-abd0-425a-86dd-5d7c5c2c26ca": {
 		"name": "ios_ads_identity_minimum_registration_hour_interval",
-		"v": 12508,
+		"v": 12556,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "1"
 			},
 			{
@@ -7979,6 +7979,21 @@
 			},
 			{
 				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
+	"73ef2b10-1d3d-4602-80ec-eb0b439c4334": {
+		"name": "android_playercore_twitch_use_cronet",
+		"v": 12557,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
 				"value": "active"
 			}
 		]
