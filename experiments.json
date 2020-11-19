@@ -6609,6 +6609,21 @@
 			}
 		]
 	},
+	"63a0ba43-12a3-46ff-8727-8991319b9c3d": {
+		"name": "android_vaes_device_targeting_parameters",
+		"v": 12566,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"63a68ac1-de63-4c05-b018-37c89bc23c1b": {
 		"name": "ios_project_post",
 		"v": 11259,
