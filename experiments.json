@@ -7664,15 +7664,15 @@
 	},
 	"716ed1ba-6a09-486e-b160-860ebd21db41": {
 		"name": "ios_beyond_thunderdome",
-		"v": 12585,
+		"v": 12589,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 30,
 				"value": "active"
 			}
 		]
@@ -12455,15 +12455,15 @@
 	},
 	"b1b6cefc-b689-4b4a-8bac-4d230895a85c": {
 		"name": "android_beyond_thunderdome",
-		"v": 12586,
+		"v": 12590,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 30,
 				"value": "active_9.9"
 			}
 		]
