@@ -10998,16 +10998,16 @@
 	},
 	"9d7b5e6a-4463-40a8-9594-efb482fac441": {
 		"name": "dart_new_client_verification_email",
-		"v": 12325,
+		"v": 12569,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
-				"value": "Variant A"
+				"weight": 99,
+				"value": "Variant B"
 			},
 			{
-				"weight": 25,
-				"value": "Variant B"
+				"weight": 1,
+				"value": "Variant C"
 			}
 		]
 	},
