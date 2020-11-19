@@ -65,15 +65,15 @@
 	},
 	"00a7a76a-0bea-4455-a186-0dae44285f75": {
 		"name": "android_multiplayer_ads",
-		"v": 12237,
+		"v": 12582,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_9.10"
 			}
 		]
@@ -3893,15 +3893,15 @@
 	},
 	"3ec204f5-3307-4296-be1e-519a14a7b3bf": {
 		"name": "android_video_ads_first_party_api",
-		"v": 12346,
+		"v": 12583,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_9.10"
 			}
 		]
