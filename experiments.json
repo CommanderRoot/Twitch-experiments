@@ -3193,7 +3193,7 @@
 	},
 	"322f4386-5da8-4b91-a88f-0cb67fa5f2a5": {
 		"name": "ios_channel_points_predictions",
-		"v": 12459,
+		"v": 12598,
 		"t": 1,
 		"groups": [
 			{
@@ -6581,15 +6581,15 @@
 	},
 	"6349b5c3-8c15-4e40-a5e8-ce49255f8fbc": {
 		"name": "pushy_reminders_rollout",
-		"v": 12347,
+		"v": 12594,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "holdout"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "treatment"
 			}
 		]
@@ -7664,15 +7664,15 @@
 	},
 	"716ed1ba-6a09-486e-b160-860ebd21db41": {
 		"name": "ios_beyond_thunderdome",
-		"v": 12589,
+		"v": 12596,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 55,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 45,
 				"value": "active"
 			}
 		]
@@ -12455,15 +12455,15 @@
 	},
 	"b1b6cefc-b689-4b4a-8bac-4d230895a85c": {
 		"name": "android_beyond_thunderdome",
-		"v": 12590,
+		"v": 12597,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 55,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 45,
 				"value": "active_9.9"
 			}
 		]
@@ -16548,15 +16548,15 @@
 	},
 	"f47e44f2-7a81-4005-bb04-5d6d69018d61": {
 		"name": "android_client_side_pbyp_use_secondary_player",
-		"v": 12480,
+		"v": 12593,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
