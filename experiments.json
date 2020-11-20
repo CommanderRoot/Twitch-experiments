@@ -2939,6 +2939,25 @@
 			}
 		]
 	},
+	"2cc56231-050e-4e3b-96d2-ff85d602aab7": {
+		"name": "gifting_bundle_animations_experiment",
+		"v": 12629,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variantA"
+			},
+			{
+				"weight": 0,
+				"value": "variantB"
+			}
+		]
+	},
 	"2cfb6748-b8d9-4e2c-85c3-7c39ea51e37c": {
 		"name": "android_braavos",
 		"v": 9680,
@@ -7382,11 +7401,11 @@
 	},
 	"6cdaf310-1b21-441c-8d25-c967fe22126e": {
 		"name": "ios_hypetrain",
-		"v": 12627,
+		"v": 12628,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -7394,7 +7413,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active_9.9"
 			}
 		]
