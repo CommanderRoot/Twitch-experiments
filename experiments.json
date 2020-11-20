@@ -882,7 +882,7 @@
 	},
 	"0f308c04-8202-474b-820f-1f8e3dbc3c7b": {
 		"name": "android_vp9",
-		"v": 12105,
+		"v": 12611,
 		"t": 1,
 		"groups": [
 			{
@@ -3743,15 +3743,15 @@
 	},
 	"3be63007-93ed-4482-868c-4e6153a00e95": {
 		"name": "tvapps_xboxone_usher_url",
-		"v": 12544,
+		"v": 12607,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -4929,12 +4929,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 12576,
+		"v": 12603,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-dac5df.pdx01.abs.hls.ttvnw.net/v1/segment/ChNYAAlAYgopoS2kfy4N4GZTKbPZONxJdEDuNIciXpisF1T6F3F_dZOebR199bxSt-V-RnoKU_g1WvfHC5jN8HBvuDcDzTdrOyilP2UwoHNxIfKP-ivyelN2Gj_4SEHf2Lfjpxfrenl6cbm8ZEi4h1pjv7eq853XU-0xZYbGxWHNA_ob1HyCbZoHMFFJ566rOCBiLqQu5D2AuM6PuYhek_1wEJ-TefeSB_IbmjRQ9k4vdIZQMRyj_VvFMA48S98YmjABzvilSKve1xVUjM1g7u15SMTWYnIwlMz4qbiWRXxlVdLV-jMzymXVddmnnyQ31PL5DNpGtbqKFvgso5YeEY_ergkU6Hg4W-9-0jxkRLG3ifLwC9dRj2DhTahq-mWAMQCEl_q0mlsLrH833GB3CmJ4k2mcZ6HhEEenZ9yEwOCGTyaBZJCMMlqTAXQNxWk8HSvkV9BuSBFoqp2fTbakFiXhMiS6jNl1KbquNa1QjGjf36W2jYS70HmudWPRj7pRfn5IxLRJ4VLxJiPpQcYt-O4gxe9d83aKPDGy2dv9EKSdw7rwYwZ_7y0IFcMoon5XcJBAV898BD4RdEGnRdlbmaizJ-XH3Ufvf38kJ3LcFMjqvgBOrylSFoolDuasgPw0_s8DAQC9ipuGWthdHJqEq7AyIHyxeKxTf3qlF3Kb8o24cTo0hFyuC1vJt73tbWnCbMrT64si1mGGsOKoatJwkHMDU02M8QwuoJagCYowL8h4avlEMf7nD0_8tKtduDxW5oc-S.ts"
+				"value": "//video-edge-e67f40.pdx01.abs.hls.ttvnw.net/v1/segment/Cs2s06OPSp9sWBeynhCzU-WvdBt1Kzv6LzMTmK1WT_DVbAH9ZMOmBIXbIf1s2Wr4Iz7ryAaFmG1ktfHZGLhlPNw28vyBdOGXchD8V3HMxzHE9AKxU3xEFojVCiMGk4db3Y8AkPYpKbHuNwl0XhhVOZCbKmpYeKr4IKtkNUNTlB2iGOu5lHO1HVuJ2g10Jxou6-L8Zi5A3viuR6lHqpkP1aZ-njlfBGladsrffE_bKKPszQeRIq2PMaKP0qDrg2DXXLKaSQuzYabdUxn2bvmxM5EGKOPuLbky4MEX9OMU-IL_MFuRkHCvS9Qp53mSjFuC_jI5wL2yqYd4E5_mpeTqXEMCyhQmuhjkbqEq1duGByTotUXA3DOG36AoCyItrsVphf4tlHMYMFH1UFR4IOh0vnl5zekAeGUWtOp6NzZDWN7-025yWvUXyQyxVtTZPpEHfH05Mt2CTRTRH57-fs_mE5QUQhvGD2s7XVsql-JTbOcIl5j0HVBfowNKdCXaWkQX96I4t5rEn4_7eovbtSuHaHVBuMJhwCWicluF6Tabwf-5lPquJmT7nqa1x7hS8OErd54ze4nYC9gH_ETxB_M1kXCeyyUb40hRUpk0m7sfCW9ks3YaWjvvNWWkh0lpZ65uQfhuZUQix4sQiGtjOkH3d69DmVG2ZyI5Iju5XKlFpJOW-UfnCLnRmziK_40Is4PHBgIpVcMyyRgd2Ns-l17i9cqr3mATdBu9NkqcuOqs3Fie4TLNaB9Avl9ZTUPD3Fv5PJn.ts"
 			}
 		]
 	},
@@ -5370,15 +5370,15 @@
 	},
 	"51bb24ec-8e5a-4b9f-b595-8cb098eb73d0": {
 		"name": "tvapps_viridian_usher_url",
-		"v": 12547,
+		"v": 12609,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -5673,6 +5673,21 @@
 			{
 				"weight": 0,
 				"value": "test"
+			}
+		]
+	},
+	"574bc719-1d09-4e96-8eb7-2f859b49f0af": {
+		"name": "dart_tnfweek7_vwr_272_dav_cmc_wch_tne_spt_peo_2011_holdout",
+		"v": 12604,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -8087,15 +8102,15 @@
 	},
 	"748dd32d-bb80-4ecb-95a2-4809182608e5": {
 		"name": "tvapps_androidtv_usher_url",
-		"v": 12546,
+		"v": 12606,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -8659,15 +8674,15 @@
 	},
 	"7ceafd5c-bc7a-4a9e-8189-70ee35639b79": {
 		"name": "tvapps_firetv_usher_url",
-		"v": 12545,
+		"v": 12608,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -14560,15 +14575,15 @@
 	},
 	"d1a4782a-860b-4a80-a469-c77687456290": {
 		"name": "tvapps_tvos_usher_url",
-		"v": 12542,
+		"v": 12610,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -14955,15 +14970,15 @@
 	},
 	"d78fe295-4955-4b23-85ee-48b368cb3dbf": {
 		"name": "tvapps_ps4_usher_url",
-		"v": 12543,
+		"v": 12605,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
