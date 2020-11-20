@@ -14288,6 +14288,21 @@
 			}
 		]
 	},
+	"cd0b4732-7d9e-471d-9bd8-54bf2c21bfcb": {
+		"name": "dart_gaelmonfils_vwr_323_flw_cmc_flw_spt_email_2011_holdout",
+		"v": 12617,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"cd0dd6d8-a3c6-4a71-a1d1-1e8c1b77a1d3": {
 		"name": "dart_rolling_loud_2_reminder_102920_holdout",
 		"v": 12267,
