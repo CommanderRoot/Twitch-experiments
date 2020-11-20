@@ -7382,11 +7382,11 @@
 	},
 	"6cdaf310-1b21-441c-8d25-c967fe22126e": {
 		"name": "ios_hypetrain",
-		"v": 12553,
+		"v": 12627,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -7394,7 +7394,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_9.9"
 			}
 		]
