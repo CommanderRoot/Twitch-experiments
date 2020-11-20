@@ -6626,15 +6626,15 @@
 	},
 	"6349b5c3-8c15-4e40-a5e8-ce49255f8fbc": {
 		"name": "pushy_reminders_rollout",
-		"v": 12594,
+		"v": 12623,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "holdout"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
