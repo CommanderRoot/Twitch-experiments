@@ -5904,6 +5904,21 @@
 			}
 		]
 	},
+	"5a083aa0-e633-4fde-9132-05284931a76e": {
+		"name": "dart_new_d3_top_streams_v2_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 12600,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"5a3169e8-2a70-4c36-a265-44d2915b23de": {
 		"name": "revert-bug",
 		"v": 7302,
@@ -13294,6 +13309,21 @@
 			}
 		]
 	},
+	"bedf8bc9-4f70-4e84-a49c-892f4f3d8d76": {
+		"name": "dart_new_d5_top_games_v2_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 12601,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"bfc54618-1905-49ed-ab8e-e72af763f553": {
 		"name": "android_story_card_v2.5",
 		"v": 2363,
@@ -17026,6 +17056,21 @@
 			{
 				"weight": 0,
 				"value": "exoplayer_2"
+			}
+		]
+	},
+	"fc38e50b-4018-4fa9-b19f-e280664ae10d": {
+		"name": "dart_new_d7_top_streamers_v2_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 12599,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
