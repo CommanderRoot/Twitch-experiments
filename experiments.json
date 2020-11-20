@@ -8738,11 +8738,11 @@
 	},
 	"7d46d35a-02ce-4f3f-ad1c-6d7e7d59a610": {
 		"name": "ios_multiplayer_ad_polls",
-		"v": 12223,
+		"v": 12631,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -8758,7 +8758,7 @@
 				"value": "active_v9.7"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v9.10"
 			}
 		]
@@ -14944,15 +14944,15 @@
 	},
 	"d689aa01-6828-46db-b67d-b8644d771adb": {
 		"name": "ios_pbyp_preload",
-		"v": 12413,
+		"v": 12633,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -16251,7 +16251,7 @@
 	},
 	"ed5c8bc3-84b6-4baa-beac-a05c2dae1ee4": {
 		"name": "ios_vaes_device_type_targeting",
-		"v": 12502,
+		"v": 12632,
 		"t": 1,
 		"groups": [
 			{
