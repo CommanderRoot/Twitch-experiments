@@ -1173,6 +1173,21 @@
 			}
 		]
 	},
+	"1340206a-34dc-48f5-80cb-3cb0ab6fa223": {
+		"name": "ios_channel_points_predictions_notifications",
+		"v": 12618,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"140f2b2b-ea55-4d0f-b2b2-1dc4c95e25a9": {
 		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_email",
 		"v": 12384,
