@@ -17153,6 +17153,21 @@
 			}
 		]
 	},
+	"fc505979-c86e-4462-8e1b-3fc77b29cb50": {
+		"name": "android_mgst_deeplink_to_bubble",
+		"v": 12636,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"fc539625-ebf2-4c54-88cc-acc2c0886a7c": {
 		"name": "android_thunderdome",
 		"v": 10824,
