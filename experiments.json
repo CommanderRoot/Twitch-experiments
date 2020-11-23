@@ -17101,15 +17101,15 @@
 	},
 	"fb3e0455-b4c6-4802-b1c4-9975cdea3e27": {
 		"name": "ios_automatic_persisted_queries",
-		"v": 10723,
+		"v": 12656,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			}
 		]
