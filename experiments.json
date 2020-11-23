@@ -2294,6 +2294,21 @@
 			}
 		]
 	},
+	"23aab165-8f2f-4e6a-a31f-c291f9775da1": {
+		"name": "dart_fpso_prime_sub_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 12661,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"23edd834-27d9-4bae-bcde-1e59b25aff51": {
 		"name": "android_big_goku",
 		"v": 1755,
@@ -8673,6 +8688,21 @@
 			{
 				"weight": 90,
 				"value": "allowed"
+			}
+		]
+	},
+	"7c7501d4-e649-4320-baf8-2b605e29de64": {
+		"name": "dart_fpso_prime_sub_vwr_47941_cmm_cmc_sub_mis_email_2011_email",
+		"v": 12662,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
