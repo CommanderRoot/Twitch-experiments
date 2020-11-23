@@ -1297,6 +1297,21 @@
 			}
 		]
 	},
+	"15b60feb-8ac8-4595-8a23-4fbfd86392f8": {
+		"name": "dart_cold_d7_top_streams_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 12660,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"15d4dde3-f60e-47fe-8946-58d494919a20": {
 		"name": "dart_surge_pricing_100_onsite_2_onsite",
 		"v": 8932,
