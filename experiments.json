@@ -9867,6 +9867,21 @@
 			}
 		]
 	},
+	"8dddafde-7002-4789-b3a3-92cb6f84bbfb": {
+		"name": "dart_processor_decider_rollout",
+		"v": 12644,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"8e09e8c6-cea7-4afb-be62-9c9fdc8eedf7": {
 		"name": "Test-v1",
 		"v": 3548,
