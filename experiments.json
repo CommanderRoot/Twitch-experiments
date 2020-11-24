@@ -2971,19 +2971,19 @@
 	},
 	"2cc56231-050e-4e3b-96d2-ff85d602aab7": {
 		"name": "gifting_bundle_animations_experiment",
-		"v": 12629,
+		"v": 12670,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 94,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 3,
 				"value": "variantA"
 			},
 			{
-				"weight": 0,
+				"weight": 3,
 				"value": "variantB"
 			}
 		]
