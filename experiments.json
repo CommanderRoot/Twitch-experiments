@@ -11171,16 +11171,12 @@
 	},
 	"9d7b5e6a-4463-40a8-9594-efb482fac441": {
 		"name": "dart_new_client_verification_email",
-		"v": 12577,
+		"v": 12665,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "Variant B"
-			},
-			{
-				"weight": 1,
-				"value": "Variant A"
 			}
 		]
 	},
@@ -12085,15 +12081,15 @@
 	},
 	"ace3cec2-d08e-4d58-81ca-a6f103f6ccb3": {
 		"name": "ios_game_broadcasting_global",
-		"v": 12624,
+		"v": 12663,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 70,
 				"value": "disabled"
 			},
 			{
-				"weight": 10,
+				"weight": 30,
 				"value": "enabled"
 			}
 		]
