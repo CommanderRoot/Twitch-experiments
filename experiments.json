@@ -570,15 +570,15 @@
 	},
 	"097498ca-7088-40a0-b3d8-9570c35d624e": {
 		"name": "creator_stats_helper",
-		"v": 11856,
+		"v": 12679,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 95,
 				"value": "treatment"
 			},
 			{
-				"weight": 100,
+				"weight": 5,
 				"value": "control"
 			}
 		]
