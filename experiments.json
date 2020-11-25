@@ -9117,6 +9117,21 @@
 			}
 		]
 	},
+	"80b29e12-d6bb-461b-aecc-bb69165f1aeb": {
+		"name": "dart_de_lootcave_vwr_686_cmm_cmc_buy_misc_email_2011_holdout",
+		"v": 12700,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"80ecf5a2-894a-47fd-9547-774b5c2896cd": {
 		"name": "dart_artificial_s3_e3_holdout",
 		"v": 10498,
