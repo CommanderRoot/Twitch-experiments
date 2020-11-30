@@ -790,6 +790,21 @@
 			}
 		]
 	},
+	"0c8aec5f-c2ff-442d-802c-4c4de7a20e3e": {
+		"name": "android_multi_partner_ad_verification",
+		"v": 12715,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_9.11"
+			}
+		]
+	},
 	"0cc08918-eff5-49d3-92cf-efd8999a4477": {
 		"name": "ios_community_points_alpha",
 		"v": 6636,
