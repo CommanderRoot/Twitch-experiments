@@ -7382,15 +7382,15 @@
 	},
 	"6ace5134-aaad-46e2-9612-cb3b988a2813": {
 		"name": "android_mgst_games_broadcasting_global",
-		"v": 12666,
+		"v": 12712,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 40,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 60,
 				"value": "active"
 			}
 		]
