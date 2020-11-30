@@ -7684,7 +7684,7 @@
 	},
 	"6ec0cc4b-771d-4e43-8cf8-8dba9562f78a": {
 		"name": "android_amazon_identity_integration",
-		"v": 12602,
+		"v": 12714,
 		"t": 1,
 		"groups": [
 			{
@@ -7694,6 +7694,10 @@
 			{
 				"weight": 0,
 				"value": "active_9_4"
+			},
+			{
+				"weight": 0,
+				"value": "active_9.10"
 			}
 		]
 	},
