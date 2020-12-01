@@ -1553,43 +1553,43 @@
 	},
 	"18b33438-adc4-445e-87b9-1685fdb7d35f": {
 		"name": "android_player_abr_modes",
-		"v": 12433,
+		"v": 12727,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 12,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 11,
 				"value": "hls_parallel"
 			},
 			{
-				"weight": 0,
+				"weight": 11,
 				"value": "abr_rebuffer"
 			},
 			{
-				"weight": 0,
+				"weight": 11,
 				"value": "abr_minbuffer"
 			},
 			{
-				"weight": 0,
+				"weight": 11,
 				"value": "probe_fix"
 			},
 			{
-				"weight": 0,
+				"weight": 11,
 				"value": "min_buffer_4"
 			},
 			{
-				"weight": 0,
+				"weight": 11,
 				"value": "min_buffer_6"
 			},
 			{
-				"weight": 0,
+				"weight": 11,
 				"value": "min_buffer_10"
 			},
 			{
-				"weight": 0,
+				"weight": 11,
 				"value": "first_minute_heuristic"
 			}
 		]
