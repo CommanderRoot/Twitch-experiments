@@ -17318,7 +17318,7 @@
 	},
 	"fb3e0455-b4c6-4802-b1c4-9975cdea3e27": {
 		"name": "ios_automatic_persisted_queries",
-		"v": 12656,
+		"v": 12729,
 		"t": 1,
 		"groups": [
 			{
@@ -17326,8 +17326,12 @@
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_v9.10"
 			}
 		]
 	},
