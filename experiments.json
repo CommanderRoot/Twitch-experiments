@@ -8219,15 +8219,15 @@
 	},
 	"73ef2b10-1d3d-4602-80ec-eb0b439c4334": {
 		"name": "android_playercore_twitch_use_cronet",
-		"v": 12557,
+		"v": 12724,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active"
 			}
 		]
@@ -11460,45 +11460,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"9ecb70d9-9f52-464b-9af6-d6a89489a1b2": {
-		"name": "android_mgst_player_ptb",
-		"v": 12134,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "abr_rebuffer"
-			},
-			{
-				"weight": 0,
-				"value": "abr_probe"
-			},
-			{
-				"weight": 0,
-				"value": "adapt_buffer"
-			},
-			{
-				"weight": 0,
-				"value": "min_buffer_filter"
-			},
-			{
-				"weight": 0,
-				"value": "high_buffer_a"
-			},
-			{
-				"weight": 0,
-				"value": "high_buffer_b"
-			},
-			{
-				"weight": 0,
-				"value": "high_buffer_c"
 			}
 		]
 	},
