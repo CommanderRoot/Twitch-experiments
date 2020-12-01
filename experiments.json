@@ -17464,15 +17464,15 @@
 	},
 	"fc505979-c86e-4462-8e1b-3fc77b29cb50": {
 		"name": "android_mgst_deeplink_to_bubble",
-		"v": 12636,
+		"v": 12723,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
