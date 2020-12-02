@@ -11008,6 +11008,21 @@
 			}
 		]
 	},
+	"99b50827-14fc-4792-b4fd-b1c878078eb8": {
+		"name": "dart_acmilan_vwr_330_flw_cmc_flw_spt_email_2012_holdout",
+		"v": 12734,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"99c425d5-7d9f-47bd-a13a-409903cd6515": {
 		"name": "SIGNUP_REDIRECT",
 		"v": 2033,
