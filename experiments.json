@@ -7017,7 +7017,7 @@
 	},
 	"65f4469b-6f7c-45bc-88ea-557031f5d3dc": {
 		"name": "ios_twitch_radio_v2",
-		"v": 12331,
+		"v": 12750,
 		"t": 1,
 		"groups": [
 			{
@@ -7025,11 +7025,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "content_promotion_disabled"
 			}
 		]
