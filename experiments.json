@@ -17513,22 +17513,6 @@
 			}
 		]
 	},
-	"fd5223cb-3ae7-4a9f-9af8-ce0d44d4b9f1": {
-		"name": "pad_thai",
-		"v": 3449,
-		"t": 1,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "treatment"
-			}
-		]
-	},
 	"fd69ae98-8bd8-4c37-adc3-79d16f534ccd": {
 		"name": "ad_loudness_real_time",
 		"v": 8560,
