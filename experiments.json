@@ -4986,15 +4986,15 @@
 	},
 	"4abe3840-c041-4410-b3c2-d4d51c69ca6d": {
 		"name": "simplify_single_gift",
-		"v": 12404,
+		"v": 12798,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
@@ -7286,21 +7286,6 @@
 			{
 				"weight": 100,
 				"value": "new"
-			}
-		]
-	},
-	"69d29adc-3488-43d9-9d39-187b51ed01e5": {
-		"name": "android_mgst_clipfinity_editor",
-		"v": 11494,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
