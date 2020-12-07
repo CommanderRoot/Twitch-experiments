@@ -14223,11 +14223,11 @@
 	},
 	"c89c0dae-5355-4765-b97a-5dd499e85245": {
 		"name": "ios_playercore",
-		"v": 12555,
+		"v": 12793,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 99,
 				"value": "native"
 			},
 			{
@@ -14251,7 +14251,7 @@
 				"value": "playercore_beta_v9_6_redux"
 			},
 			{
-				"weight": 100,
+				"weight": 1,
 				"value": "playercore_v9_10"
 			}
 		]
