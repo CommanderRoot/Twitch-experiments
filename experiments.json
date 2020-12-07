@@ -14618,21 +14618,6 @@
 			}
 		]
 	},
-	"cd1c4693-e7a8-49d9-837c-3d175f61f438": {
-		"name": "WARP_IPv4",
-		"v": 8533,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "enabled"
-			},
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
 	"cd6fcac9-1986-484b-8cbd-9d05083b7fc3": {
 		"name": "android_top_cheers_banner",
 		"v": 9148,
