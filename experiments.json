@@ -3926,6 +3926,21 @@
 			}
 		]
 	},
+	"3c1b3f3b-f0a4-41c7-83ff-98be826d8ab4": {
+		"name": "dart_hindsight2020b_vwr_327_awa_cmc_lrn_mis_email_2012_holdout",
+		"v": 12811,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3c2fb8a5-7914-4f4d-8f13-1cd3b4250919": {
 		"name": "ios_moat",
 		"v": 920,
@@ -5921,6 +5936,21 @@
 			}
 		]
 	},
+	"577cdf76-4162-4ee0-be18-a5efbd27cdc2": {
+		"name": "dart_hindsight2020c_vwr_327_awa_cmc_lrn_mis_email_2012_holdout",
+		"v": 12810,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5796ce33-16c2-48c8-85a7-f22c19becf40": {
 		"name": "ios_rtmps",
 		"v": 11992,
@@ -7803,6 +7833,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"6fec613c-adb4-4623-a536-73f221934c87": {
+		"name": "dart_hindsight2020a_vwr_327_awa_cmc_lrn_mis_email_2012_holdout",
+		"v": 12809,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
