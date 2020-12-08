@@ -10265,15 +10265,15 @@
 	},
 	"8e25c5be-b20f-44c3-834f-62c447c627aa": {
 		"name": "leftnav_affinity_sorted_follows",
-		"v": 12828,
+		"v": 12829,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 98,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 2,
 				"value": "variant"
 			}
 		]
