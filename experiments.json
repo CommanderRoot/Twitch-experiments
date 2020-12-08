@@ -10265,15 +10265,15 @@
 	},
 	"8e25c5be-b20f-44c3-834f-62c447c627aa": {
 		"name": "leftnav_affinity_sorted_follows",
-		"v": 12829,
+		"v": 12840,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 96,
 				"value": "control"
 			},
 			{
-				"weight": 2,
+				"weight": 4,
 				"value": "variant"
 			}
 		]
@@ -16428,15 +16428,15 @@
 	},
 	"eb1c8067-b0a0-4741-af78-a839f84503c4": {
 		"name": "ios_captcha",
-		"v": 12176,
+		"v": 12837,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "recaptcha"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "arkose"
 			},
 			{
