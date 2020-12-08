@@ -3432,19 +3432,19 @@
 	},
 	"32d70b6e-b21a-4522-a404-f7252d6062d5": {
 		"name": "ios_disco_default_tab",
-		"v": 12479,
+		"v": 12815,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "fourteen_days"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "following_play"
 			}
 		]
