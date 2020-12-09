@@ -1609,6 +1609,21 @@
 			}
 		]
 	},
+	"18c96162-fc42-4032-afc1-cfef30c52444": {
+		"name": "dart_nagiftcard_vwr_nrp328_cmm_buy_mis_email_2011_holdout",
+		"v": 12862,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 13,
+				"value": "holdout"
+			},
+			{
+				"weight": 87,
+				"value": "allowed"
+			}
+		]
+	},
 	"18e40adc-18ab-4d40-bb88-aa822a55d484": {
 		"name": "ios_notification_opt_in",
 		"v": 10667,
