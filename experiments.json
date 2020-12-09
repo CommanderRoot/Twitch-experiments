@@ -6441,15 +6441,15 @@
 	},
 	"5db9e7f5-0ac6-4f23-bf7a-48a27d0b3505": {
 		"name": "android_recaptcha_deprecation_alert",
-		"v": 12148,
+		"v": 12842,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "recaptcha_supported"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "recaptcha_deprecated"
 			}
 		]
