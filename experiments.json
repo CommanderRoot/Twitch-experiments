@@ -3141,15 +3141,15 @@
 	},
 	"2fd1fd07-8b92-4758-ae1c-e235633b961e": {
 		"name": "android_schedule_reminders",
-		"v": 12710,
+		"v": 12855,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			}
 		]
@@ -17775,15 +17775,15 @@
 	},
 	"fe952ff3-3545-40d9-9f43-213586553847": {
 		"name": "ios_schedule_reminders",
-		"v": 12711,
+		"v": 12857,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			}
 		]
