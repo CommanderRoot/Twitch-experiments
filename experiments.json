@@ -4575,15 +4575,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 12565,
+		"v": 12849,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 72,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 28,
 				"value": "promotions_enabled"
 			}
 		]
@@ -10364,23 +10364,23 @@
 	},
 	"8f73cc11-ccd3-4fce-a2b6-cad8326f6b15": {
 		"name": "promotions_eVPR_relevancy",
-		"v": 12805,
+		"v": 12850,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "HP_Variant0"
 			},
 			{
-				"weight": 99,
+				"weight": 80,
 				"value": "HP_Variant1"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "random"
 			}
 		]
