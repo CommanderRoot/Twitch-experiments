@@ -5114,12 +5114,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 12808,
+		"v": 12844,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-0cc2e0.pdx01.abs.hls.ttvnw.net/v1/segment/CkZiKluL97Uw6Du9C-lnGd0QJSbaH-bxIPrP7DmtGp2uKHKH2NA4d1SLaE6e7EeXTLOYWynYKHfrl5LAEs3sT8E5saY5eriO4-QKjEm-psjhwAZrd6jj3vzwj3nzW6cIzuHvIqmEkasWjyWv36l5fktAEs2BCOojvpYANbrHPhpdnt5WZXwDVYeYVwqCOTBb-LS-N5WsHEd0imcVCeHbVvB1ama3RNMn4PNJyXUtQQXSvSTR9xaShxV6eHc_TTOKb3bJFjqC39A9zCFww5110y1h3sIhKGHsV9QvNOtMJ54HD-1AEwH2JwhLSHog0O3fOIa3VNe8AiiywFRtuO1QmOdw2HnCXcAQsj9AFs0Q5wlHKBKav_XBRa2cls1sbKEVWZ3IwMIdBfbjFGvJVb7QN8zm5M_in6XCM01WM24umKmYoHVgfc5g2XwQH5e9c42Sa4YqyDq9vCSuAFz0Gop1Dbt65UbU2Ve8KcFMhAIOl8mTNcdmcS_mGGspPF5857yyEYw6SzLAgDgnZZJq0vAkzl8VV18EuIJQLHwxj5diemyGews3b8vmTZNnvfqPOtndCvJDt2l7ivN_DtfD1glpkaUF1paLFjDxvYnSfnkgExdquYaqsnT_kc6GcfqPJ7eJHXtZt_qpMAUWiEhXqZrluMcAFnAXFwVlWisBAmSN73YtOiXeN1Jg0rXPirUzoZSzF2KFrnprIeoJZ6E29Ws6W1C9H5QQ9_JHW0w2kJbSBJJvTO3boI291ogCrznP2Xdep8EkK5Aa5r92lLBqW-.ts"
+				"value": "//video-edge-a337db.pdx01.abs.hls.ttvnw.net/v1/segment/Cpw3HIayoyiY2884mPuoJ1s7rNdyriKgK2LKLlWDjj89HWWD69GSQGYO6Fuo8Mf4_vjA5cwIlffBMewJyI23RMwu082u1jZBBLWV9FVYXaYA-xrueAToIFC9FoPpOruHpRDJHPJeRUVO6LJseE1p4ni-ZFjjMv0gwah2ocJQH1OKh-CndIkFP8HRMvHVs1IyfBdse3T5lyrXqrLLHQMiKTtzhBEpFCuNZht4XIAn9w-5UPgSByVfFUO3OnmfRqKCewlPCkUaLZRfZaoa2_YXTeLxNI8My2GsafrDqGaYqF6D7RjTmB5HSyaLnR8tcDzl0J9RX8ftZkin3TSQOUHAl7cnXZ1ZMuaUx8eEqBujLXLJlWdkENLk1j4V2mw8Z05_w7zyF9zTGk7i7p8VGjYrwAhL6M3x7aGYJd0QIixbgLhJu-WeTGbHovDk0_5Jnehtd_iVrK9HOWzpNiKH5cbmg0t03C6LQNVfZZIpeoHD4p0Z6md2O7yIhAi4FaJ6MVBxX2B1Xr4bcoBKgPN-7EN18az6jlizdmjZ5cb5VosgbnSpyIi1J6dQXCj6SjJbpNT574XeiYfNMaXsiEWEPMWO69ETAeGvd6FoAesZR5lJJfG6BraeRuo2GQKjRYgTgkGFcDC2CJ9jtY-_ZtTxoC7rJ01hYYaB3MpijzVEAYrco4zPzJZN-CkIJ44XnrOJNP8TfXJ1UyBXQOLvTb7xAAuZ0LcIVa7xyj6NmvwhYXNUImw-ZwzWHl6CCd0ckVILU8EvY8Vl4ZRsyr6l583.ts"
 			}
 		]
 	},
@@ -9185,6 +9185,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"7f009b6e-77eb-4965-aaba-b8903d624fb3": {
+		"name": "dart_tnfweek9_vwr_272_dav_cmc_wch_tne_spt_peo_2012_holdout",
+		"v": 12843,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
