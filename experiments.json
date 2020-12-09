@@ -12420,6 +12420,21 @@
 			}
 		]
 	},
+	"adab28aa-344c-4fef-8069-b092f924976d": {
+		"name": "follows_fulton_graphdb",
+		"v": 12858,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"adaef0a3-ffca-4124-b3b8-0ae13c9dd562": {
 		"name": "ios_swifty_chromecast",
 		"v": 3532,
