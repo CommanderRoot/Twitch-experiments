@@ -568,6 +568,21 @@
 			}
 		]
 	},
+	"093679b6-f8ba-4f79-af5c-2499183341f6": {
+		"name": "eVPR_threshold",
+		"v": 12887,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"096252ea-5fc8-43c1-868a-d5c686b11742": {
 		"name": "ios_web_login_disable_implicit_flow",
 		"v": 4193,
@@ -3156,15 +3171,15 @@
 	},
 	"2fd1fd07-8b92-4758-ae1c-e235633b961e": {
 		"name": "android_schedule_reminders",
-		"v": 12878,
+		"v": 12885,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active"
 			},
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			}
 		]
@@ -17865,15 +17880,15 @@
 	},
 	"fe952ff3-3545-40d9-9f43-213586553847": {
 		"name": "ios_schedule_reminders",
-		"v": 12879,
+		"v": 12886,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active"
 			},
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			}
 		]
