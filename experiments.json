@@ -3836,6 +3836,21 @@
 			}
 		]
 	},
+	"39e16423-834c-4816-98f8-97cd3fc9780f": {
+		"name": "dart_dortmund_vwr_335_dav_cmc_wch_spt_email_2012_holdout",
+		"v": 12919,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"39fa83a5-60a5-46cc-a1b0-2864d0da3437": {
 		"name": "ios_stream_roulette",
 		"v": 12021,
