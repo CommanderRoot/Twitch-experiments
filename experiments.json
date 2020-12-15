@@ -8770,6 +8770,21 @@
 			}
 		]
 	},
+	"79608e11-8454-445b-b062-e96547ee1560": {
+		"name": "dart_dortmund_vwr_335_dav_cmc_wch_spt_email_2012_segment2_holdout",
+		"v": 12920,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"79accd86-e77e-4eae-8979-d19ab2bc4521": {
 		"name": "ios_skippable_ads",
 		"v": 2583,
