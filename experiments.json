@@ -8384,15 +8384,15 @@
 	},
 	"73ef2b10-1d3d-4602-80ec-eb0b439c4334": {
 		"name": "android_playercore_twitch_use_cronet",
-		"v": 12756,
+		"v": 12916,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active"
 			}
 		]
@@ -12372,21 +12372,6 @@
 			{
 				"weight": 100,
 				"value": "yes"
-			}
-		]
-	},
-	"ac3b2071-3a44-4e27-8a80-ac72977fea63": {
-		"name": "WARP_IPv6",
-		"v": 8534,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "enabled"
-			},
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
