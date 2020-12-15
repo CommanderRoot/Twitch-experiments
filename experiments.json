@@ -14386,6 +14386,21 @@
 			}
 		]
 	},
+	"c7a26fae-525b-41b3-8101-cbca3686392e": {
+		"name": "follows_fulton_graphdb_reads",
+		"v": 12926,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"c7a41a16-bd95-40d4-a346-67ecf77202da": {
 		"name": "android_rtmps",
 		"v": 12061,
@@ -17740,7 +17755,7 @@
 	},
 	"fcee2d41-1271-4b3d-917f-e3898c111240": {
 		"name": "follows_fulton_graphdb_writes",
-		"v": 12924,
+		"v": 12925,
 		"t": 2,
 		"groups": [
 			{
