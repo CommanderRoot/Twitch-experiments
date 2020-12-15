@@ -17738,6 +17738,21 @@
 			}
 		]
 	},
+	"fcee2d41-1271-4b3d-917f-e3898c111240": {
+		"name": "follows_fulton_graphdb_writes",
+		"v": 12924,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"fd69ae98-8bd8-4c37-adc3-79d16f534ccd": {
 		"name": "ad_loudness_real_time",
 		"v": 8560,
