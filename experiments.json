@@ -14888,6 +14888,21 @@
 			}
 		]
 	},
+	"cdb880fa-8ac3-448b-81b0-6e7751ee7947": {
+		"name": "dart_streamerbowl_vwr_337_dav_cmc_wch_gmg_email_2012_holdout",
+		"v": 12931,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"cdc6bb89-ea7c-4bb3-a68a-b2c4a819c5c2": {
 		"name": "ios_om_surestream_enabled",
 		"v": 12658,
