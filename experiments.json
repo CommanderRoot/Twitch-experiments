@@ -9128,6 +9128,21 @@
 			}
 		]
 	},
+	"7d8e3cdc-fe93-4394-a1ff-a9dd0e4d8dfc": {
+		"name": "dart_spurs_vwr_341_flw_cmc_flw_spt_email_2012_holdout",
+		"v": 12933,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7d9127aa-c26f-4b80-a04d-e6ed38e18b78": {
 		"name": "GET_BITS_BUTTON",
 		"v": 2250,
