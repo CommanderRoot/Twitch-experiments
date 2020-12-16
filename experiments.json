@@ -6116,6 +6116,21 @@
 			}
 		]
 	},
+	"5896122f-1a84-4130-9938-b4c86efc69df": {
+		"name": "navi_fulton_follows_rollout",
+		"v": 12937,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"58a899e7-7186-4e1c-bd53-795b31c08cb8": {
 		"name": "aperture_viewcount_jax_prod",
 		"v": 6185,
@@ -11998,6 +12013,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"a56dc778-8f45-4c9e-8403-79ba4c84f881": {
+		"name": "navi_fulton_test",
+		"v": 12936,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
