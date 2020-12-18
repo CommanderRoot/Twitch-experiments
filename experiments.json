@@ -16409,7 +16409,7 @@
 	},
 	"e4641b89-f7be-4610-b81a-1a46a6c753ff": {
 		"name": "ios_multiplayer_ad_poll_idle_auto_collapse",
-		"v": 12965,
+		"v": 12966,
 		"t": 1,
 		"groups": [
 			{
@@ -16418,7 +16418,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "1"
+				"value": "7"
+			},
+			{
+				"weight": 0,
+				"value": "10"
 			}
 		]
 	},
