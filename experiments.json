@@ -12757,15 +12757,15 @@
 	},
 	"aeb24e23-67f8-4937-b0fb-57ba9ae2dcf2": {
 		"name": "leftnav_lo_similarity_isolated",
-		"v": 12969,
+		"v": 12971,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 30,
 				"value": "variant1"
 			},
 			{
