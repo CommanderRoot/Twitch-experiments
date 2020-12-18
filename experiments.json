@@ -2145,7 +2145,7 @@
 	},
 	"200155b1-6169-40ee-b726-a668b513249a": {
 		"name": "android_ads_identity_minimum_registration_hour_interval",
-		"v": 12554,
+		"v": 12961,
 		"t": 1,
 		"groups": [
 			{
@@ -2153,7 +2153,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "1"
 			},
 			{
@@ -2161,7 +2161,7 @@
 				"value": "3"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "24"
 			}
 		]
@@ -3310,7 +3310,7 @@
 	},
 	"31816ec0-abd0-425a-86dd-5d7c5c2c26ca": {
 		"name": "ios_ads_identity_minimum_registration_hour_interval",
-		"v": 12959,
+		"v": 12960,
 		"t": 1,
 		"groups": [
 			{
@@ -3322,11 +3322,11 @@
 				"value": "1"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "3"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "24"
 			}
 		]
@@ -3343,6 +3343,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"31c12cb6-6616-4dd5-9652-1a6e4fdcd6da": {
+		"name": "dart_hindsight1217f_vwr_339_awa_cmc_lrn_mis_email_2012_holdout",
+		"v": 12962,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -15298,6 +15313,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"d30dd955-3a83-4d53-b510-86ab3a2c4c19": {
+		"name": "dart_hindsight1217sl_vwr_339_awa_cmc_lrn_mis_email_2012_holdout",
+		"v": 12963,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
