@@ -16407,6 +16407,21 @@
 			}
 		]
 	},
+	"e4641b89-f7be-4610-b81a-1a46a6c753ff": {
+		"name": "ios_multiplayer_ad_poll_idle_auto_collapse",
+		"v": 12965,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "1"
+			}
+		]
+	},
 	"e4f268c8-b489-49e6-b045-3cadb5daaf92": {
 		"name": "android_app_install",
 		"v": 8676,
