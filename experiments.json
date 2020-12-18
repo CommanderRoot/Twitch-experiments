@@ -199,6 +199,21 @@
 			}
 		]
 	},
+	"03711288-6208-434a-bc00-10bd8c11a665": {
+		"name": "dart_hindsight1217jam_vwr_339_awa_cmc_lrn_mis_email_2012_holdout",
+		"v": 12964,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
 		"v": 12124,
