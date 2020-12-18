@@ -3310,7 +3310,7 @@
 	},
 	"31816ec0-abd0-425a-86dd-5d7c5c2c26ca": {
 		"name": "ios_ads_identity_minimum_registration_hour_interval",
-		"v": 12556,
+		"v": 12959,
 		"t": 1,
 		"groups": [
 			{
@@ -3318,11 +3318,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "1"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "3"
 			},
 			{
@@ -4620,15 +4620,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 12923,
+		"v": 12958,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 10,
 				"value": "promotions_enabled"
 			}
 		]
