@@ -8676,6 +8676,21 @@
 			}
 		]
 	},
+	"778b57da-3dc3-407a-927d-8e0a4bdd50e3": {
+		"name": "dart_tnfweek11_vwr_272_dav_cmc_wch_tne_spt_peo_2012_holdout",
+		"v": 12954,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"77c98c2e-1074-4a24-8621-ce4d32f1773e": {
 		"name": "dart_vodcast_event_reminder_push",
 		"v": 12719,
