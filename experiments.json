@@ -2275,6 +2275,21 @@
 			}
 		]
 	},
+	"214f66e2-0854-4902-9ec7-5f46d68c7a9b": {
+		"name": "dart_tnfweek12b_vwr_272_dav_cmc_wch_spt_peo_2012_holdout",
+		"v": 12987,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2153e9fc-7f48-4402-aa54-7883d0c55c98": {
 		"name": "android_chromecast_player_core",
 		"v": 3815,
@@ -7207,6 +7222,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"65de9f4c-e8cb-45f4-a5c3-8b07985f8267": {
+		"name": "dart_tnfweek12a_vwr_272_dav_cmc_wch_spt_peo_2012_holdout",
+		"v": 12986,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
