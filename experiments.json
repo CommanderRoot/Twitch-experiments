@@ -3748,15 +3748,15 @@
 	},
 	"36bf43ea-63f1-41ef-b7ef-6c31a810ac30": {
 		"name": "ios_redeem_5_get_6_user_id_targeted",
-		"v": 13002,
+		"v": 13004,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "active"
 			}
 		]
@@ -6888,6 +6888,21 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			}
+		]
+	},
+	"6174bab5-6de4-4b81-ad63-276a2661526b": {
+		"name": "android_mads_no_auto_collapse",
+		"v": 13005,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
