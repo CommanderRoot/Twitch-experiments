@@ -3748,15 +3748,15 @@
 	},
 	"36bf43ea-63f1-41ef-b7ef-6c31a810ac30": {
 		"name": "ios_redeem_5_get_6_user_id_targeted",
-		"v": 12713,
+		"v": 13002,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active"
 			}
 		]
