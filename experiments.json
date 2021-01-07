@@ -12281,20 +12281,16 @@
 	},
 	"a859732c-5cc8-4e0b-8b05-12a97a8e45e4": {
 		"name": "android_mgst_ivs_game_broadcast",
-		"v": 12947,
+		"v": 13024,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_9.10.1"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
