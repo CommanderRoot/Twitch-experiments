@@ -15316,6 +15316,21 @@
 			}
 		]
 	},
+	"d18a60de-d915-4ba7-b955-c9b4ceb35c63": {
+		"name": "android_surestream_device_targeting",
+		"v": 13051,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"d19b14b5-67d5-4c5a-bb3e-13b470ce81fa": {
 		"name": "android_ads_stream_presenter_7_14",
 		"v": 8280,
