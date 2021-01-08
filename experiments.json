@@ -3992,15 +3992,15 @@
 	},
 	"3be63007-93ed-4482-868c-4e6153a00e95": {
 		"name": "tvapps_xboxone_usher_url",
-		"v": 12607,
+		"v": 13047,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -5694,7 +5694,7 @@
 	},
 	"51bb24ec-8e5a-4b9f-b595-8cb098eb73d0": {
 		"name": "tvapps_viridian_usher_url",
-		"v": 12609,
+		"v": 13044,
 		"t": 1,
 		"groups": [
 			{
@@ -8535,15 +8535,15 @@
 	},
 	"748dd32d-bb80-4ecb-95a2-4809182608e5": {
 		"name": "tvapps_androidtv_usher_url",
-		"v": 12606,
+		"v": 13046,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -9167,7 +9167,7 @@
 	},
 	"7ceafd5c-bc7a-4a9e-8189-70ee35639b79": {
 		"name": "tvapps_firetv_usher_url",
-		"v": 12608,
+		"v": 13043,
 		"t": 1,
 		"groups": [
 			{
@@ -15333,7 +15333,7 @@
 	},
 	"d1a4782a-860b-4a80-a469-c77687456290": {
 		"name": "tvapps_tvos_usher_url",
-		"v": 12610,
+		"v": 13039,
 		"t": 1,
 		"groups": [
 			{
@@ -15743,15 +15743,15 @@
 	},
 	"d78fe295-4955-4b23-85ee-48b368cb3dbf": {
 		"name": "tvapps_ps4_usher_url",
-		"v": 12605,
+		"v": 13045,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
