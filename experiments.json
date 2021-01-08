@@ -5694,15 +5694,15 @@
 	},
 	"51bb24ec-8e5a-4b9f-b595-8cb098eb73d0": {
 		"name": "tvapps_viridian_usher_url",
-		"v": 13044,
+		"v": 13049,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -9167,15 +9167,15 @@
 	},
 	"7ceafd5c-bc7a-4a9e-8189-70ee35639b79": {
 		"name": "tvapps_firetv_usher_url",
-		"v": 13043,
+		"v": 13048,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -15333,15 +15333,15 @@
 	},
 	"d1a4782a-860b-4a80-a469-c77687456290": {
 		"name": "tvapps_tvos_usher_url",
-		"v": 13039,
+		"v": 13050,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
