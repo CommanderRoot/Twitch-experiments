@@ -9181,6 +9181,21 @@
 			}
 		]
 	},
+	"7ccfd606-6941-4806-9af6-7052e61acef0": {
+		"name": "fring_delayed_preroll",
+		"v": 13080,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "on"
+			},
+			{
+				"weight": 0,
+				"value": "off"
+			}
+		]
+	},
 	"7cdee701-0ac3-4b47-94d3-b47b3b707dc8": {
 		"name": "nielsen_analytics",
 		"v": 7985,
