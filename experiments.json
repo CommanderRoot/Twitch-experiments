@@ -9183,16 +9183,24 @@
 	},
 	"7ccfd606-6941-4806-9af6-7052e61acef0": {
 		"name": "fring_delayed_preroll",
-		"v": 13080,
+		"v": 13081,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
-				"value": "on"
+				"weight": 25,
+				"value": "off"
 			},
 			{
-				"weight": 0,
-				"value": "off"
+				"weight": 25,
+				"value": "10s"
+			},
+			{
+				"weight": 25,
+				"value": "20s"
+			},
+			{
+				"weight": 25,
+				"value": "30s"
 			}
 		]
 	},
