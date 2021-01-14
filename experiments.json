@@ -6168,15 +6168,15 @@
 	},
 	"5896122f-1a84-4130-9938-b4c86efc69df": {
 		"name": "navi_fulton_follows_rollout",
-		"v": 13097,
+		"v": 13101,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 40,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 60,
 				"value": "variant"
 			}
 		]
