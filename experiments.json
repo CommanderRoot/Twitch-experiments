@@ -8494,15 +8494,15 @@
 	},
 	"73ef2b10-1d3d-4602-80ec-eb0b439c4334": {
 		"name": "android_playercore_twitch_use_cronet",
-		"v": 12916,
+		"v": 13107,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active"
 			}
 		]
