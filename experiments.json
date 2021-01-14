@@ -6168,15 +6168,15 @@
 	},
 	"5896122f-1a84-4130-9938-b4c86efc69df": {
 		"name": "navi_fulton_follows_rollout",
-		"v": 13102,
+		"v": 13103,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 15,
 				"value": "control"
 			},
 			{
-				"weight": 70,
+				"weight": 85,
 				"value": "variant"
 			}
 		]
@@ -17030,6 +17030,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"ebf2d443-d589-4ce6-bed0-783ac21db6af": {
+		"name": "android_player_abr_modes_2",
+		"v": 13104,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
 			}
 		]
 	},
