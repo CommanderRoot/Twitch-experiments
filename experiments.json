@@ -33,6 +33,21 @@
 			}
 		]
 	},
+	"003b46f8-84af-4010-985b-ffbfd7d7856b": {
+		"name": "dart_eoy_ctr_0_dav_cmc_non_mis_email_2101_holdout",
+		"v": 13123,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0063f313-4dc1-4a59-ad53-2c51dbf2499c": {
 		"name": "dart_streamaidgidle_holdout",
 		"v": 9694,
@@ -202,6 +217,21 @@
 	"03711288-6208-434a-bc00-10bd8c11a665": {
 		"name": "dart_hindsight1217jam_vwr_339_awa_cmc_lrn_mis_email_2012_holdout",
 		"v": 12964,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"03a12553-e117-4203-8869-653dfecc6e86": {
+		"name": "dart_eoy_active_vwr_0_dav_cmc_non_mis_email_2101_holdout",
+		"v": 13121,
 		"t": 2,
 		"groups": [
 			{
@@ -16483,6 +16513,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"e22d3649-1f11-46b3-8199-d6a04d39ba01": {
+		"name": "dart_eoy_inactive_vwr_0_dav_cmc_non_mis_email_2101_holdout",
+		"v": 13122,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
