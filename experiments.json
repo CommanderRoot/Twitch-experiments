@@ -5783,6 +5783,21 @@
 			}
 		]
 	},
+	"52820760-635e-409f-baa6-bb7cba95d1e7": {
+		"name": "ios_player_seek_on_load",
+		"v": 13124,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "seek"
+			},
+			{
+				"weight": 0,
+				"value": "legacy"
+			}
+		]
+	},
 	"529a4ba6-f2a5-40fe-a704-cb89b14daa96": {
 		"name": "android_sub_gift",
 		"v": 7146,
