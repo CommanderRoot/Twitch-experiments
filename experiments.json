@@ -3219,6 +3219,21 @@
 			}
 		]
 	},
+	"2f327b30-0e3f-4d30-95a1-160d0e3cf1ff": {
+		"name": "dart_santaeffect3_vwr_344_awa_cmc_wch_gmg_email_2101_holdout",
+		"v": 13137,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2f6b028c-c2a5-462c-8daf-3bcb394839bb": {
 		"name": "android_playercore",
 		"v": 1023,
@@ -3601,6 +3616,21 @@
 			{
 				"weight": 4,
 				"value": "holdout"
+			}
+		]
+	},
+	"34443c9d-227a-4543-ae12-338d8b2abe18": {
+		"name": "dart_santaeffect3_vwr_344_awa_cmc_wch_gmg_email_2101_holdout",
+		"v": 13138,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -8232,6 +8262,21 @@
 			{
 				"weight": 100,
 				"value": "native"
+			}
+		]
+	},
+	"71c068ea-57a1-45b8-9f8a-e93a5c67be80": {
+		"name": "dart_santaeffect3_vwr_344_awa_cmc_wch_gmg_email_2101_holdout",
+		"v": 13139,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
