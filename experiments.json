@@ -3471,6 +3471,21 @@
 			}
 		]
 	},
+	"31e9608d-110c-4bed-a2c7-51682ca135fe": {
+		"name": "ios_international_pricing_education_phase_0",
+		"v": 13147,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"322f4386-5da8-4b91-a88f-0cb67fa5f2a5": {
 		"name": "ios_channel_points_predictions",
 		"v": 12598,
@@ -16811,6 +16826,21 @@
 			{
 				"weight": 0,
 				"value": "10"
+			}
+		]
+	},
+	"e48631ed-c7cf-471b-96af-0eff27115f2f": {
+		"name": "dart_streamerbowlweek4_vwr_351_dav_cmc_wch_gmg_eo_2101_holdout",
+		"v": 13146,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
