@@ -263,6 +263,21 @@
 			}
 		]
 	},
+	"04a68bef-b8e3-4269-b616-1cd863483975": {
+		"name": "ios_mgst_ivs_game_broadcast",
+		"v": 13152,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"04adab74-98c1-4adb-88ea-c896504692d3": {
 		"name": "ios_native_bits_iap_onboarding_feature",
 		"v": 9183,
@@ -4563,6 +4578,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"41fd8b35-b0cd-498b-b866-2b621594c7b2": {
+		"name": "ios_mgst_ivs_game_broadcast",
+		"v": 13151,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
