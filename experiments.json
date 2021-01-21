@@ -1236,15 +1236,15 @@
 	},
 	"1275752f-6cbb-4ff3-8dd8-fa190e469faf": {
 		"name": "tvapps_global_qr_login",
-		"v": 12366,
+		"v": 13164,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "enabled"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "disabled"
 			},
 			{
