@@ -827,15 +827,15 @@
 	},
 	"0ad34aea-5b3c-45a8-aa50-cbdfe6989cee": {
 		"name": "promoter_liveline_caching",
-		"v": 13186,
+		"v": 13189,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "liveline_cache_enabled"
 			}
 		]
@@ -5378,12 +5378,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 13172,
+		"v": 13190,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-9a704d.pdx01.abs.hls.ttvnw.net/v1/segment/CuO6Ocj8smm0HYvxqsaPAkkZqFTDGcHqMncfn_Wpx0LRSDa593Y0eMAlb1CSsU67iftWvIY53vQH85Fjo4SVCSMUdH31LIDQU4CFPN3KCh54sYhImZQE9LR1nAD92Mi0S3Gib_05WKsTLFkMNYZ8i3OmzDGPMDodyEeLb7FQTmnj4J0eRGTEDyy_3OwfPkubCAgwatpJ60VMAW6l5VtyxOE0CYuzJDeE869W2N_4iuAuzMszLz1nZO_hWLMi90uH6bSzNZbp6HmZKtlsXhjL-79gbvdb2Io4lnDW8WqGonb2xY1-bM4rSdPO7FGWgWuNiy--LJ8P-d5bKZUOTeaVtVi0CZ7V9WXCFuO2rxvXmuqHeA0O8nPtEH9kVdjoTF9XkK3WXmhXALwIUiAEF9DfI7cIOGCQ3rCL02OHGVczB_tJFSiG2zi5hrgsJs6GLpWWiJ0XAiD3z7IqsPU5cYvXRsQh8i-Ele9pj18z5yYXlEsf6m3Oac98bzzlZ_IRuk2DCOllynqHSTFq9KOCxAyFUYFUOTq9ruMEjf_lLEj_-jm9X5tWDPPONA0LOmZLBu_rpIuxNf8yHY62JiWKZFsfMmEsgkyFQHpJNLoZMv0KnDAjzgNbdLpkIRmOhVvSWsInRpqIOF8v663YEhfIwtHlzcIkWRt-C5aymMdVYQH2sbluvzAbMzbdoSuH9Ih6KWwTkULxNWKaCG5A8IfLMvEYdQ_cOtnGRy9Clc_2QFsRSRW1tpipziYpOGHWIDxrr7hVzXv15_7_k2E1M5pif8w2TY-18.ts"
+				"value": "//video-edge-d9f2af.pdx01.abs.hls.ttvnw.net/v1/segment/Cg7fqhAN2ZSwfaOjh6hie1l8G5uXbGj2icRFMr22xqFsDQfh2sPJpoWpk-fvdAuCVetnq8Z_iXEf6E2jDG2y3l8004oCyUR4uPx1lCKdVaBqSb3TD1Ovcj19GTWot4Ne-Fo7N3lE2jQWwKTw36_T2KmCTwZTRIZhgJlAJPG36hiM24cFaDaJo90rynh6PGXFI1Haku4ZZCXAmo8uG8J_l5ekZRYg1CRT3HkCqEpeQeWSTyyzjWp_Alnn6Up5wwsbqWgSRQMjBJlIah3AaglYRcb5QjuBgLdermGlc7xC_Db6DYt2thTQ91jakU7Q72XozSu_Xk8zIIXhTaYcalbqBwp3Ao3y520td-4dFY-atMRfTju2CzK9ZF16EFcZE41DyYrV1qoVDD7pPWen5sWwXt82ePk3YPHPB5-EROaSNzVRFDN7yK6MBo-DhsQ7pKLY3ePEo_qlIzeiXkqT9rFpKbbFb3rmGfkBjelwTOL1ZLD-bZS2qEVNLMZoUCccu5VNKHIdcaeovAT7LARtGPBjY3Acmvg0NjOkEaQ617iXuiTnWt_yIW9jh2RI-DL5_2jHY4K4uVz1YHcc_NRhmcfs3Myle0UOxAbVMGAlUCGf6s3raCMKH8XfJCXOGM9qO6alHfl5nXSTYEkf1hyq5aUm_osV8IbEntGLge3Sfv_Lwe81qt6xMrATn-70edSBUxTLGlpgarLz6Ois4uxk7bU59L6h7iduDYVfLw1WOqboNZPFeu3XjsAMexGhgxpxFJToV.ts"
 			}
 		]
 	},
