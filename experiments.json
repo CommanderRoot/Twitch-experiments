@@ -4824,15 +4824,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 13207,
+		"v": 13209,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 40,
+				"weight": 37,
 				"value": "control"
 			},
 			{
-				"weight": 60,
+				"weight": 63,
 				"value": "promotions_enabled"
 			}
 		]
@@ -15255,6 +15255,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"cc3b5188-a9dd-4e82-af54-6ddfa67d1979": {
+		"name": "dart_jandrop3_vwr_344_awa_cmc_wch_gmg_email_2101_holdout",
+		"v": 13208,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
