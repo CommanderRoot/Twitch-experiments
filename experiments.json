@@ -6260,6 +6260,33 @@
 			}
 		]
 	},
+	"57d62f74-38f2-46c9-9949-c4a8901b44ff": {
+		"name": "multimonth_submodal_optimization",
+		"v": 13203,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "Control"
+			},
+			{
+				"weight": 5,
+				"value": "Variant 1"
+			},
+			{
+				"weight": 5,
+				"value": "Variant 2"
+			},
+			{
+				"weight": 5,
+				"value": "Variant 3"
+			},
+			{
+				"weight": 5,
+				"value": "Variant 4"
+			}
+		]
+	},
 	"580ed101-5afc-4228-bf77-e831860b6801": {
 		"name": "ios_country_code_signup",
 		"v": 11245,
