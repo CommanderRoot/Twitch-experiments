@@ -5796,15 +5796,15 @@
 	},
 	"51092f35-d541-41a0-bdf8-982993a8397c": {
 		"name": "android_profile_autoplay",
-		"v": 12276,
+		"v": 13229,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
