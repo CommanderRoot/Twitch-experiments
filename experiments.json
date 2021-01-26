@@ -4115,6 +4115,21 @@
 			}
 		]
 	},
+	"3bdc18d8-11c2-4c47-9873-9baa57368a45": {
+		"name": "android_player_core_ad_playback",
+		"v": 13231,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"3bdd01d3-01c7-4ae8-a11c-1c0e8df9a642": {
 		"name": "ios_contextualized_t2",
 		"v": 4182,
