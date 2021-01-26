@@ -4856,6 +4856,21 @@
 			}
 		]
 	},
+	"45b56e60-7421-4d93-87a6-5f26084abc51": {
+		"name": "dart_nyga_ctr_350_awa_cmc_str_gmg_email_2101_holdout",
+		"v": 13228,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"45b880e9-d5ac-46c5-93d2-7b13c93e5193": {
 		"name": "tvapps_androidtv_player_native",
 		"v": 12549,
