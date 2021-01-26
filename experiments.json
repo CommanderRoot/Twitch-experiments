@@ -8277,6 +8277,21 @@
 			}
 		]
 	},
+	"6ff7254d-3663-4f3b-be3a-3b02cc8d25f9": {
+		"name": "dart_nyga_vwr_350_dav_cmc_wch_gmg_email_2101_holdout",
+		"v": 13238,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6fff56b3-f76e-47d9-bd4d-ad1b1bd03fff": {
 		"name": "ios_airplay_seek_fix",
 		"v": 3857,
@@ -16333,6 +16348,21 @@
 			{
 				"weight": 50,
 				"value": "control"
+			}
+		]
+	},
+	"da3cfa00-865a-48a4-bbd9-d4f22982564a": {
+		"name": "dart_nyga_vwr_350_dav_cmc_wch_gmg_email_2101_holdout",
+		"v": 13237,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
