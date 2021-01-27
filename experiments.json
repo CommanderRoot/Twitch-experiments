@@ -8892,6 +8892,21 @@
 			}
 		]
 	},
+	"7548aea2-a6a8-4957-b35f-16efb2ce9866": {
+		"name": "ios_quality_switching",
+		"v": 13248,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "direct"
+			},
+			{
+				"weight": 0,
+				"value": "variant_url"
+			}
+		]
+	},
 	"755ae2ed-7381-4e0e-841e-a42f34d9d540": {
 		"name": "android_example_experiment",
 		"v": 9949,
