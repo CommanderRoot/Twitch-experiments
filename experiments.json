@@ -5483,15 +5483,15 @@
 	},
 	"4d280622-264e-4d2b-ba07-f064d3d67e85": {
 		"name": "ios_profile_autoplay",
-		"v": 12275,
+		"v": 13252,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
