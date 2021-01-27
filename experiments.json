@@ -17055,6 +17055,21 @@
 			}
 		]
 	},
+	"e4f9df31-dd30-4808-83a2-68f398b57627": {
+		"name": "dart_marketing_categoryholdout",
+		"v": 13251,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "holdout"
+			},
+			{
+				"weight": 100,
+				"value": "allowed"
+			}
+		]
+	},
 	"e5119383-8e58-4218-9b23-e4de897907d8": {
 		"name": "ios_begin_ad_in_mini_theater",
 		"v": 8411,
