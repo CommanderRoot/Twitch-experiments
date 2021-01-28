@@ -1697,7 +1697,7 @@
 	},
 	"18b33438-adc4-445e-87b9-1685fdb7d35f": {
 		"name": "android_player_abr_modes",
-		"v": 13000,
+		"v": 13261,
 		"t": 1,
 		"groups": [
 			{
@@ -1722,7 +1722,7 @@
 			},
 			{
 				"weight": 11,
-				"value": "min_buffer_4"
+				"value": "control_1"
 			},
 			{
 				"weight": 11,
@@ -8112,6 +8112,21 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"6da825ed-8d01-4c6f-bd4e-660c4a65aee8": {
+		"name": "android_player_parallel_hls",
+		"v": 13262,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
 			}
 		]
 	},
