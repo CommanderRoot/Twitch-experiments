@@ -2864,6 +2864,21 @@
 			}
 		]
 	},
+	"286e5886-e4fc-4829-ade5-967125a19b3b": {
+		"name": "hpokuan_test",
+		"v": 13298,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Control"
+			},
+			{
+				"weight": 50,
+				"value": "VariantA"
+			}
+		]
+	},
 	"2875614d-78dc-4e4c-9b7a-f537025b32d9": {
 		"name": "ios_unified_player_state",
 		"v": 10166,
@@ -13100,15 +13115,15 @@
 	},
 	"adab28aa-344c-4fef-8069-b092f924976d": {
 		"name": "follows_fulton_graphdb",
-		"v": 13284,
+		"v": 13295,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
