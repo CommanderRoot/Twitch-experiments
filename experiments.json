@@ -8841,15 +8841,15 @@
 	},
 	"748dd32d-bb80-4ecb-95a2-4809182608e5": {
 		"name": "tvapps_androidtv_usher_url",
-		"v": 13084,
+		"v": 13274,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
@@ -16112,6 +16112,21 @@
 			{
 				"weight": 1,
 				"value": "enabled_v6.10"
+			}
+		]
+	},
+	"d5d9afea-1f41-45df-81e1-40ded47f16fd": {
+		"name": "dart_topstreamsnewpushonly_vwr_dav_cmc_wch_gmg_2101_push",
+		"v": 13275,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
