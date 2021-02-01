@@ -4106,15 +4106,15 @@
 	},
 	"3a1a377e-969a-49cf-8df4-d4b45a1d5d1e": {
 		"name": "ios_chat_replay_rewrite",
-		"v": 13256,
+		"v": 13324,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
