@@ -4604,6 +4604,21 @@
 			}
 		]
 	},
+	"411f1075-6070-4b2c-8169-44dcb48d745e": {
+		"name": "ios_omsdk_allow_verification_paramateres_injection",
+		"v": 13315,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_v10.2"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"4146db1d-102d-49f7-a185-7c2d3d3b0126": {
 		"name": "mobile_native_savant_test_experiment",
 		"v": 9189,
