@@ -10550,6 +10550,21 @@
 			}
 		]
 	},
+	"88dca935-5b77-4a6f-97c2-b999cb914b4f": {
+		"name": "ios_stitched_ad_device_type_targeting",
+		"v": 13314,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v10.3"
+			}
+		]
+	},
 	"891a218c-37fe-4cff-a995-7403fda11e08": {
 		"name": "dart_rolling_loud_2_reminder_102920_holdout",
 		"v": 12263,
