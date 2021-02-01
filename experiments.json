@@ -5590,6 +5590,21 @@
 			}
 		]
 	},
+	"4dab626b-79b1-4b4d-b8bb-81d93e660b88": {
+		"name": "android_leaderboards",
+		"v": 13326,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"4dced941-77cd-4290-9a41-5f0a563383e3": {
 		"name": "Promotions_Live_Recommended_iOS",
 		"v": 12473,
