@@ -9473,15 +9473,15 @@
 	},
 	"7b832d02-552a-4fe4-8520-335bbc4edcb8": {
 		"name": "ios_2fa_graphql",
-		"v": 13052,
+		"v": 13372,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "rest"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "graphql"
 			}
 		]
