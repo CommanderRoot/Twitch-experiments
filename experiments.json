@@ -13160,15 +13160,15 @@
 	},
 	"adab28aa-344c-4fef-8069-b092f924976d": {
 		"name": "follows_fulton_graphdb",
-		"v": 13373,
+		"v": 13374,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 22,
+				"weight": 18,
 				"value": "control"
 			},
 			{
-				"weight": 78,
+				"weight": 82,
 				"value": "treatment"
 			}
 		]
