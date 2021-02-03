@@ -10988,15 +10988,15 @@
 	},
 	"8e25c5be-b20f-44c3-834f-62c447c627aa": {
 		"name": "leftnav_affinity_sorted_follows",
-		"v": 12841,
+		"v": 13367,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -13160,15 +13160,15 @@
 	},
 	"adab28aa-344c-4fef-8069-b092f924976d": {
 		"name": "follows_fulton_graphdb",
-		"v": 13365,
+		"v": 13366,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 44,
+				"weight": 40,
 				"value": "control"
 			},
 			{
-				"weight": 56,
+				"weight": 60,
 				"value": "treatment"
 			}
 		]
