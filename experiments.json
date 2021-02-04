@@ -17224,6 +17224,21 @@
 			}
 		]
 	},
+	"e474868d-7565-430a-9738-50cfe6823c32": {
+		"name": "ios_skip_redundant_setcontent",
+		"v": 13391,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "skip"
+			}
+		]
+	},
 	"e48631ed-c7cf-471b-96af-0eff27115f2f": {
 		"name": "dart_streamerbowlweek4_vwr_351_dav_cmc_wch_gmg_eo_2101_holdout",
 		"v": 13146,
