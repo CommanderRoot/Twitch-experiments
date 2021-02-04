@@ -16809,6 +16809,21 @@
 			}
 		]
 	},
+	"dca36583-157c-4f07-8320-78a44d4d8f1d": {
+		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
+		"v": 13402,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 6,
+				"value": "holdout"
+			},
+			{
+				"weight": 94,
+				"value": "allowed"
+			}
+		]
+	},
 	"dccf1db8-e8e5-4b3c-911f-4cb14fa9e278": {
 		"name": "ios_app_update_prompt",
 		"v": 8154,
@@ -17790,6 +17805,21 @@
 			{
 				"weight": 0,
 				"value": "opt-in"
+			}
+		]
+	},
+	"ec99d720-8cf7-4737-ad0d-35b46b6ee676": {
+		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
+		"v": 13403,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 6,
+				"value": "holdout"
+			},
+			{
+				"weight": 94,
+				"value": "allowed"
 			}
 		]
 	},
