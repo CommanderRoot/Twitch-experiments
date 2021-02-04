@@ -15962,15 +15962,15 @@
 	},
 	"d1a4782a-860b-4a80-a469-c77687456290": {
 		"name": "tvapps_tvos_usher_url",
-		"v": 13381,
+		"v": 13383,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
