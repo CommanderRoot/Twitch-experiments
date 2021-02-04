@@ -5487,12 +5487,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 13355,
+		"v": 13379,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-bd47a9.pdx01.abs.hls.ttvnw.net/v1/segment/CpUg1aZiIbk25XFSTYoc-jqryH7CNh4Hxw-n027Ayg8xZUWGiu1S8FFP_WkbrR6zeaYc5moNQu3IUQ7HUzMJYMbNux-gnwzvit0G06r7GaKpZsbI1Gj_5JTEI0SyH3k6StLAh-8KuQhIUt3MRM45Nq-UxgyWc1g0gBIqri2srAhQJ46CPQQIWqKUjKpVJishdiS6OVQraELSLXO9Nh2U7ciOn60YIL2mt0DDC_wDok8YWpbcnxYo6PQ65JYbNXcist7S_ve3RNzArxAAerXVuNM7fr7FA6QGoo5aM78tPaXBHN9D7Z9O1_wPgPJ-3RNWnItfR_zNuCi2qWrzGiLzwFY6f1Iws6YGRm2WnapyXsDhVONOHvvCehUoBsqJSHCHPDorLJBW_yTks9un68UinYl4cYA5gOIesZmQB_9bpbiuMl8iMtKgEedtRHeIHEEVJx08J_eXkowBlDdDT1oOtQu27zqJCQk_Al1wFDA2NgJ4e6epm36ogQ-8hqmdGHgsXUP4pZfWrD0UI4Ccb7iyyE7wjE0dS47hg4hUr24TwC9GrFz12isEumHkz7shKTONJIYRyVuNlg9n6nLYIRYDGltsdFCC06vq8LoOr1fSxX28YGXPD2FORz-R8yWh55_Xpij5LkbxmHi85ITTDDNikhqj-nAmo4wQXP02hcQJMV67mK9fYUa5DK4ku9LsLuHH6_PppXvorhKt7e6vZ5-lLcQ0bwI-04M77fPT_B_VbF6JnjqdcQYsQLvy.ts"
+				"value": "//video-edge-f20954.pdx01.abs.hls.ttvnw.net/v1/segment/CjHReBvtJ5TefTsuCgBLHNH4e_HJwFZQMDiIq0lT0Jf2tuTejkkeTkLdRaHTC2vzwsDa8SeUNu_QiaRVFvI7ShMC8GhLstKxbi86_9SYbY2OTHYXhhJnpGvZ5Tw_GnU1CzynlgGfIEqloUTIrQapvqkys_iZnjgz5oJMcvb4p_kSV5_yTCGcEit2X_2JyMKvcnhS_yY-kpB87l8YZf_rEO9z1o77jvZK8Prd__-FBqDeh2H8_NsvPSk4m9k-FyMsD5Kl2ho0MBij4k2KVAthnXSoYtw5pTq2xTfvuhs7NJ-ntyWcFUcsbVutrj8m_1Wc1b9mGXq6rXCXmX3ovDpwn_xpFCq_tKyqLA1qJ42HSKbUYF4o9EFmRP_sQeFQT_4qBtlXM8I-PyP5oy2KmO_rsqV6dCaknGZP4NLNmtwWIOO8uuGM3rR4ArQ1pd-E-z9LAkMGFi1ZgGRn-R8HxVbTNpR4xcJRCmdAg51pGSAEYZHm-NUQkgaNHGj0uiC8NKgqFkHNQmZtod6UuYRMsxo021m-jn4Lr1p5OkZqG3f3q6Dr3jZ6fnaHXF5GG3vdUJuuPIgEcrn_ss0sUWn5BHM82U8aKRr3Opau7nazrbimi9HW5MKxF8iUT2-LcNb-fzHHTIDXa69k5PBFdLjXb3TndOeQIdC_fB98uokibcro6LNm-y_Zx43cF9DGU5FfKezPMYPqHcZSFRNau4noMGAlw4W0ezVzVzN49CNRPTpIIYgSi-tcBcRHE0PuileM3JH__iMfrKNxd7uztyfXPzBERm.ts"
 			}
 		]
 	},
@@ -6715,6 +6715,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"5aa13386-e354-4e03-b17f-5bfa724e2286": {
+		"name": "dart_jandrop4_vwr_344_awa_cmc_wch_gmg_email_2102_holdout",
+		"v": 13378,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -13160,7 +13175,7 @@
 	},
 	"adab28aa-344c-4fef-8069-b092f924976d": {
 		"name": "follows_fulton_graphdb",
-		"v": 13377,
+		"v": 13380,
 		"t": 2,
 		"groups": [
 			{
@@ -13168,7 +13183,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 94,
+				"weight": 97,
 				"value": "treatment"
 			}
 		]
