@@ -2623,6 +2623,21 @@
 			}
 		]
 	},
+	"2492dcb2-a2c8-422b-a88f-4ecb25be52ad": {
+		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
+		"v": 13401,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"249a545e-a189-4360-aa4a-9af86a713fbe": {
 		"name": "dart_thursdaynightfootball_week_4_102920_holdout",
 		"v": 12283,
@@ -3966,6 +3981,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"3758fe3e-a281-4329-9cfd-b0511fa44194": {
+		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
+		"v": 13400,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -9498,6 +9528,21 @@
 			{
 				"weight": 100,
 				"value": "graphql"
+			}
+		]
+	},
+	"7bf6c345-cc48-4bc4-bfdc-908453588b25": {
+		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
+		"v": 13399,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
