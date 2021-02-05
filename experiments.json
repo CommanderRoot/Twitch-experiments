@@ -4151,7 +4151,7 @@
 	},
 	"3a1a377e-969a-49cf-8df4-d4b45a1d5d1e": {
 		"name": "ios_chat_replay_rewrite",
-		"v": 13324,
+		"v": 13420,
 		"t": 1,
 		"groups": [
 			{
@@ -4161,6 +4161,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_v10.2"
 			}
 		]
 	},
