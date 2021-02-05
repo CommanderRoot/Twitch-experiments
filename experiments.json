@@ -4241,15 +4241,15 @@
 	},
 	"3be63007-93ed-4482-868c-4e6153a00e95": {
 		"name": "tvapps_xboxone_usher_url",
-		"v": 13085,
+		"v": 13415,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
@@ -8976,15 +8976,15 @@
 	},
 	"748dd32d-bb80-4ecb-95a2-4809182608e5": {
 		"name": "tvapps_androidtv_usher_url",
-		"v": 13274,
+		"v": 13414,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
