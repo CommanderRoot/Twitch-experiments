@@ -12914,12 +12914,16 @@
 	},
 	"a8310045-8cb9-4d9f-8e9c-e0b51b4aaddc": {
 		"name": "android_new_emote_autofill",
-		"v": 13427,
+		"v": 13440,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
