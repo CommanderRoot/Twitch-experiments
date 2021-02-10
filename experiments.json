@@ -4685,15 +4685,15 @@
 	},
 	"411f1075-6070-4b2c-8169-44dcb48d745e": {
 		"name": "ios_omsdk_verification_injection",
-		"v": 13390,
+		"v": 13461,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v10.2"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			}
 		]
