@@ -15329,11 +15329,11 @@
 	},
 	"c89c0dae-5355-4765-b97a-5dd499e85245": {
 		"name": "ios_playercore",
-		"v": 13446,
+		"v": 13452,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "native"
 			},
 			{
@@ -15361,7 +15361,7 @@
 				"value": "playercore_v9_10"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "killswitch"
 			}
 		]
