@@ -7008,6 +7008,21 @@
 			}
 		]
 	},
+	"5e3b00e2-cc10-45a1-9ca0-6208534c5f56": {
+		"name": "dart_eugiftcardvalentines_vwr_367_cmm_cmc_buy_mis_oe_2102_holdout",
+		"v": 13455,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5e532f0e-a835-44bf-9349-bd5cd2b6a416": {
 		"name": "ios_reward_exp",
 		"v": 3290,
@@ -9092,6 +9107,21 @@
 			{
 				"weight": 0,
 				"value": "variant_url"
+			}
+		]
+	},
+	"7553e672-8e07-4e7f-8ab8-05fd959b98a7": {
+		"name": "dart_eugiftcardvalentines_vwr_367_cmm_cmc_buy_mis_oe_2102_email",
+		"v": 13456,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
