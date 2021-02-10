@@ -8983,15 +8983,15 @@
 	},
 	"73ef2b10-1d3d-4602-80ec-eb0b439c4334": {
 		"name": "android_playercore_twitch_use_cronet",
-		"v": 13107,
+		"v": 13466,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -12194,6 +12194,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"9bc79cc8-43d9-4984-a269-9ceae142d131": {
+		"name": "dart_jandrop5_vwr_344_awa_cmc_wch_gmg_email_2102_holdout",
+		"v": 13464,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -16600,6 +16615,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"d841ed1d-3cde-4e83-a62c-0c122998ce3e": {
+		"name": "dart_jandrop5_vwr_344_awa_cmc_wch_gmg_email_2102_holdout",
+		"v": 13465,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
