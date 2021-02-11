@@ -13947,15 +13947,15 @@
 	},
 	"b257e433-86a0-40a8-99c4-620e46c7676c": {
 		"name": "android_2fa_graphql_migration",
-		"v": 13459,
+		"v": 13482,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
