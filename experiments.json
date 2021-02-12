@@ -3411,6 +3411,21 @@
 			}
 		]
 	},
+	"306e4cf4-6d5c-4783-9d06-13c1a0c1c422": {
+		"name": "dart_giftcard_ctr_361_cmm_cmc_buy_mis_email_2102_holdout",
+		"v": 13497,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"30d2906b-b826-4039-9d94-97f33bb49b45": {
 		"name": "android_mobile_network_request_tracking",
 		"v": 12780,
@@ -6140,6 +6155,21 @@
 			}
 		]
 	},
+	"528cb93c-47ba-4935-a89a-0b0fbe65883b": {
+		"name": "dart_top_streamers_1v1recstest_vwr_0_dav_cmc_wch_mis_email_2011_email",
+		"v": 13500,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"529a4ba6-f2a5-40fe-a704-cb89b14daa96": {
 		"name": "android_sub_gift",
 		"v": 7146,
@@ -7975,6 +8005,21 @@
 			{
 				"weight": 100,
 				"value": "new"
+			}
+		]
+	},
+	"69e98275-0f75-4010-9982-76eb5ba3dc73": {
+		"name": "dart_giftcard_vwr_361_cmm_cmc_buy_mis_email_2102_holdout",
+		"v": 13498,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -13558,6 +13603,21 @@
 			{
 				"weight": 100,
 				"value": "active_8_1_1"
+			}
+		]
+	},
+	"aeeb33e7-9cb1-4181-9e8a-e4bb2df18ba1": {
+		"name": "dart_top_streamers_1v1recstest_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13499,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
