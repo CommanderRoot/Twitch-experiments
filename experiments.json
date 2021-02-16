@@ -404,15 +404,15 @@
 	},
 	"05ea49a8-7f49-4124-bcce-ab145401a1ba": {
 		"name": "ios_seek_to_live_on_stream_play",
-		"v": 10593,
+		"v": 13519,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v9.3"
 			}
 		]
