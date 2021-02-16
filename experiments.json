@@ -18598,6 +18598,21 @@
 			}
 		]
 	},
+	"f4d7129f-07e2-404b-bb53-1fb7fa0bffb2": {
+		"name": "android_cookie_consent",
+		"v": 13515,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"f511cfe1-06df-497a-b3a1-cab37916b4c6": {
 		"name": "ios_play_session_changes",
 		"v": 8587,
