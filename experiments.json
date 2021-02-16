@@ -3715,19 +3715,19 @@
 	},
 	"32d70b6e-b21a-4522-a404-f7252d6062d5": {
 		"name": "ios_disco_default_tab",
-		"v": 12815,
+		"v": 13517,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "fourteen_days"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "following_play"
 			}
 		]
@@ -13977,15 +13977,15 @@
 	},
 	"b1f4084a-2953-4489-a6db-49a7819f6924": {
 		"name": "ios_suppress_id3_midrolls",
-		"v": 13504,
+		"v": 13516,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "active_v9.6"
 			}
 		]
