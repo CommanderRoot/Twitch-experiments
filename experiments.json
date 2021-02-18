@@ -16828,6 +16828,21 @@
 			}
 		]
 	},
+	"d90c94c5-7859-44a1-ac21-a93c0fea0d49": {
+		"name": "dart_jandrop6_vwr_344_awa_cmc_wch_gmg_email_2102_holdout",
+		"v": 13532,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d91cbc6b-1d6f-42ef-89b4-049176164067": {
 		"name": "coview_with_predictions",
 		"v": 1167,
