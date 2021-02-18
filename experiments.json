@@ -4134,6 +4134,21 @@
 			}
 		]
 	},
+	"39a78eae-7b21-4ff8-8c27-d8353e7531d4": {
+		"name": "dads_use_twitch_raids",
+		"v": 13537,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "use_twitch_raids"
+			}
+		]
+	},
 	"39c569b7-c58e-47c7-b975-7af0d2bcb31e": {
 		"name": "android_ima_om",
 		"v": 7295,
