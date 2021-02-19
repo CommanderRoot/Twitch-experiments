@@ -3372,6 +3372,21 @@
 			}
 		]
 	},
+	"2c8a55a3-f93a-4d1d-b767-d60b01e2ce29": {
+		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13580,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2c9bc904-90e2-469f-9f09-d2eb5fddeadc": {
 		"name": "android_squad_streaming_alpha",
 		"v": 9136,
@@ -4480,6 +4495,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"3b6b17d7-f7e8-4ab3-8030-e74c790b6297": {
+		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13577,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -6350,6 +6380,21 @@
 			}
 		]
 	},
+	"521ce923-7f79-422f-953a-83ffc74f08ed": {
+		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13579,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"52429e73-93bd-4ea7-97cc-3a24c81c19d5": {
 		"name": "dart_glitchconvalorant_vwr_nrp315_5mp_cmc_wch_evt_e_2011_holdout",
 		"v": 12490,
@@ -7173,6 +7218,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"5c116b3e-571b-4f25-9dab-6598a4c9a9a7": {
+		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13576,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -8296,6 +8356,21 @@
 	"69e98275-0f75-4010-9982-76eb5ba3dc73": {
 		"name": "dart_giftcard_vwr_361_cmm_cmc_buy_mis_email_2102_holdout",
 		"v": 13498,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"6a13758c-54e7-4102-bb62-0652bca23b57": {
+		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13578,
 		"t": 2,
 		"groups": [
 			{
