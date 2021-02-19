@@ -338,6 +338,21 @@
 			}
 		]
 	},
+	"0552780e-6483-43a9-8a1c-ad9907952487": {
+		"name": "ios_av_player_do_not_wait_to_minimize_stalling",
+		"v": 13583,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_10.3"
+			}
+		]
+	},
 	"057ddfcc-9480-4046-ba9e-c53485ecdddf": {
 		"name": "ios_poggers",
 		"v": 10543,
