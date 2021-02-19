@@ -2148,6 +2148,21 @@
 			}
 		]
 	},
+	"1c808e4e-d241-448d-a007-c6caaca6c203": {
+		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13541,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1c909a5a-6018-46b5-bf27-ecf00cf99e44": {
 		"name": "ios_ad_requester_manager",
 		"v": 9700,
@@ -5611,12 +5626,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 13533,
+		"v": 13538,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-30147f.pdx01.abs.hls.ttvnw.net/v1/segment/Cpn55ayWjsQI_-TscoD9EihLQs1bj6YYx-51DsRZjWPuKPGwZXY8_Pvk_el-IcwMnkOieFleGDSziWURH9KhefF6Kn78Y5X9fPwg5oipz3BBQHwiieq0xKAyJgtz3A2dECl6BXjD6iCSQxOfp_0We8lQvoP2VAGzNf5Be_EwMKjBJ9elD3TwU4Jwi1J0_p0w-HJQ7e5x3M8pjt1fAEepRg4jibKyY8dvtdqqh04nmEPwywS9GUBIm8lCxSlY7L0IMbEsjfof4-lsUhfT5kXA9IR0hcSIslTa9hVa9KHwAxSpxm6t_Q4LqAUzihsI_sDPSN70Y7GKqpjdJRgJwr9Qp6m4dd7E0NC6RK-VfmYjUSEH8ec7zaG4FqQhJiZ3pkjlAPG8hNcGcT1xPsHJXNkzXWwlEKkV7KJLRlLpy3f1s5FTshmzR15fvz63svbksWgFHzT8zq6UAi0QQhSlAkpBGDTHuqTu9cumx_bMChUM1RbNuXJLzqwOxkW-QpGyu6_uJBFP0TisnqJ3b0YVFE2PiCylknjG3q-E0ggiDo9-iZLQ4KqLeclwB9X9CoqLgXmGRM7s4mo0KLW2VN4-Oi6YuXgUQec8NUzKno9ZJ81UimcmeCh6ZciFVZrDHg2LzOh1d234z4VsoyP89dt8H7RZXae6Zdziq2txdTa1-nXtabxxG4zI4VBfPpygpNLmM6ZNL3zI7GzizbfJZc5UcSBL2DQPP8DeKcl1txGJgeHPYd8VFEyBeLokZzXled2u3LpCtevLOe6y17nfHe1m.ts"
+				"value": "//video-edge-2c9dc4.pdx01.abs.hls.ttvnw.net/v1/segment/CrM8-a22awnlY36O_n9QSS6nKI4NVGBAo69s0hxSsN5ubWXBvioU9J6VhTYEI1xUXPVYg3IItOfNCh4IkcaIEekHI3vjhvYDp0Yl8yUFjQHBFdcSk3v7InDH_l2scVu5LRXjsyyV5FQMgSF0iXKVI1vAxRV1GAVsHqVDQ6SDzhzERHGWv61I3NtzGK35r6YrToixytXdBISMNCH3sccJACVzqp0zw9HaTZxYIdaiJXSUY-wFoVYe15yw2Hc1oqt1IJ_gEBNImHzMXduv56LA4wOkerWypabTqM7SoyxR-0914bjnjqagPdGkO3rK33JGIxRGdH7NLGluvJBZvSyr8Ko4hpq4iFjLarABka_oDXeSis7WkRslCVXH0kSoN_YzL0bWJaYgUEb366DoZqEWTgadZJSSN3f9H4FRPT_xCO2xC5TgyQmww62lhDul2y66XBVbT6qO3bHJ3czXGlp63DjP9I-npjqxz7OmHmAYeL3DKfjB4D0hbYAwSWWgIpgJMChHKNIx-UIxk-G8erkPzBZDj8V2ip4q1GnBIqpeWxai3ebPsmELujRXU3MKviUsLi5zESsFqMT4W7HQkgFEmgIsifVVBLPe90gOXHOXyId1PzW-KaPf7nvk4fHn-lR1VYRWgqfhi35w5bdWwCmjKfh2kC2TrYhC6aUH7xyzT2yy71dqJWf6RobkcXZLQtJ9osjphKxEnRyDPijES27j0Mu_Ya9b99N0-5xX6aWpTqFBk5_V4s_7LGzdr90_rX.ts"
 			}
 		]
 	},
@@ -7731,6 +7746,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"65b0afe6-70e2-473e-8796-da2dfbdedcc6": {
+		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13540,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -14801,6 +14831,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"bc8cab08-ccee-49dc-bb6c-5d0f9bb58aab": {
+		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13539,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
