@@ -463,6 +463,21 @@
 			}
 		]
 	},
+	"0614a329-0cde-45dd-b596-341fdebe3297": {
+		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13575,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0637bccd-2a5b-49c7-9d01-0c431d14fc25": {
 		"name": "promotions_force_user_override",
 		"v": 10200,
