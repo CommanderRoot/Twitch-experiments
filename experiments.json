@@ -7974,6 +7974,21 @@
 			}
 		]
 	},
+	"656623d2-2783-412b-b300-fa506c839c26": {
+		"name": "ios_precheck_events",
+		"v": 13571,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "precheck"
+			}
+		]
+	},
 	"65b0afe6-70e2-473e-8796-da2dfbdedcc6": {
 		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13540,
