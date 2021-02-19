@@ -1148,6 +1148,21 @@
 			}
 		]
 	},
+	"0fd84105-955a-4353-904a-6cd0fdb66f25": {
+		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
+		"v": 13554,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 6,
+				"value": "holdout"
+			},
+			{
+				"weight": 94,
+				"value": "allowed"
+			}
+		]
+	},
 	"0ff4ccc4-fb0f-41c0-b195-db9ccdb712d5": {
 		"name": "Bismol",
 		"v": 1414,
@@ -2450,6 +2465,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"20dc1556-5a44-477f-8f44-4a4466755f40": {
+		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
+		"v": 13555,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 6,
+				"value": "holdout"
+			},
+			{
+				"weight": 94,
+				"value": "allowed"
 			}
 		]
 	},
@@ -11880,6 +11910,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"952685f7-f53c-4952-922c-cf25aee356aa": {
+		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
+		"v": 13556,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 6,
+				"value": "holdout"
+			},
+			{
+				"weight": 94,
+				"value": "allowed"
 			}
 		]
 	},
