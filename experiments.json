@@ -900,6 +900,21 @@
 			}
 		]
 	},
+	"0b8f9426-3478-4a89-804e-0ef0bb35ac18": {
+		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
+		"v": 13568,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 6,
+				"value": "holdout"
+			},
+			{
+				"weight": 94,
+				"value": "allowed"
+			}
+		]
+	},
 	"0bb7fc0a-c4ae-4972-8d5d-cc09dcfbb458": {
 		"name": "AUTOMOD_SMALLER",
 		"v": 1658,
@@ -3938,6 +3953,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"344e88bb-be04-48a1-aec3-1c587a3c2a6f": {
+		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
+		"v": 13567,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 6,
+				"value": "holdout"
+			},
+			{
+				"weight": 94,
 				"value": "allowed"
 			}
 		]
@@ -8301,6 +8331,21 @@
 			},
 			{
 				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
+	"6a47d7a4-f102-49dc-b602-82b7cc44fb31": {
+		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
+		"v": 13566,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 6,
+				"value": "holdout"
+			},
+			{
+				"weight": 94,
 				"value": "allowed"
 			}
 		]
