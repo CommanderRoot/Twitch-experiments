@@ -214,6 +214,21 @@
 			}
 		]
 	},
+	"02e6abe9-aa6b-4efe-9175-65b92ac2fdc3": {
+		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13552,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"03711288-6208-434a-bc00-10bd8c11a665": {
 		"name": "dart_hindsight1217jam_vwr_339_awa_cmc_lrn_mis_email_2012_holdout",
 		"v": 12964,
@@ -1070,6 +1085,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"0ec5aa95-b1ef-4a0d-b37f-09fe8b59e70b": {
+		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13551,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -2303,6 +2333,21 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"1f34c0d5-37e6-4ed5-9cf0-513ad08eb3d7": {
+		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
+		"v": 13546,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -4010,6 +4055,21 @@
 			}
 		]
 	},
+	"36166916-6632-4896-83e6-17850ffe96be": {
+		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
+		"v": 13550,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"36a0e500-f117-41dd-8421-3e3db7d567dd": {
 		"name": "CREATIVE_DIRECTORY_CVS",
 		"v": 386,
@@ -4176,6 +4236,21 @@
 			{
 				"weight": 100,
 				"value": "use_twitch_raids"
+			}
+		]
+	},
+	"39b52a82-f780-4a14-9ea1-f7270eaf1eb6": {
+		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
+		"v": 13548,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -4936,6 +5011,21 @@
 			{
 				"weight": 0,
 				"value": "bonus_amount"
+			}
+		]
+	},
+	"42a27786-4b64-40f8-82a4-6d86041e73d2": {
+		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13553,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -11457,6 +11547,21 @@
 			}
 		]
 	},
+	"906d5275-2ea4-43d2-86bf-85ede1c0558b": {
+		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13549,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"907a7923-cd5f-473f-8a4f-ef97355bce74": {
 		"name": "ios_extensions_entry_point",
 		"v": 6383,
@@ -11571,6 +11676,21 @@
 			{
 				"weight": 50,
 				"value": "treatment"
+			}
+		]
+	},
+	"92ee82af-ad11-4ee0-9770-1b654d454a69": {
+		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13547,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -13414,6 +13534,21 @@
 			{
 				"weight": 50,
 				"value": "also_control"
+			}
+		]
+	},
+	"ac9b1f11-5dda-49ab-8bc0-12cbba000162": {
+		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
+		"v": 13545,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
