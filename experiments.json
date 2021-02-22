@@ -340,16 +340,16 @@
 	},
 	"0552780e-6483-43a9-8a1c-ad9907952487": {
 		"name": "ios_av_player_do_not_wait_to_minimize_stalling",
-		"v": 13584,
+		"v": 13601,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "default"
 			},
 			{
 				"weight": 0,
-				"value": "active_v10.3"
+				"value": "dont_wait"
 			}
 		]
 	},
@@ -13577,7 +13577,7 @@
 	},
 	"a8310045-8cb9-4d9f-8e9c-e0b51b4aaddc": {
 		"name": "android_new_emote_autofill",
-		"v": 13440,
+		"v": 13602,
 		"t": 1,
 		"groups": [
 			{
@@ -13587,6 +13587,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
