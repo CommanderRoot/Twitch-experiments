@@ -10205,15 +10205,15 @@
 	},
 	"7ceafd5c-bc7a-4a9e-8189-70ee35639b79": {
 		"name": "tvapps_firetv_usher_url",
-		"v": 13492,
+		"v": 13594,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
