@@ -13433,6 +13433,21 @@
 			}
 		]
 	},
+	"a66fd358-00c6-47a1-8a59-dee48d040d2f": {
+		"name": "ios_offline_search",
+		"v": 13593,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"a6896ac8-2d90-4342-840b-b48573b00d62": {
 		"name": "ios_autoplay_videos_setting",
 		"v": 2197,
