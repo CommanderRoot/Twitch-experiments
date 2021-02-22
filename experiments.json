@@ -768,6 +768,21 @@
 			}
 		]
 	},
+	"099b22e6-a720-43bc-9341-a2b6f7f99df3": {
+		"name": "android_edit_profile_change_name",
+		"v": 13596,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"09a4eb6c-9fd0-4b3b-b9c4-92bff63b4137": {
 		"name": "ios_swift_minutes_watched",
 		"v": 8528,
@@ -9175,37 +9190,6 @@
 			{
 				"weight": 0,
 				"value": "no_login_required_forced"
-			}
-		]
-	},
-	"7241baf1-531b-416d-aea0-7eba3f25f39e": {
-		"name": "promoter_allowlist_ramp",
-		"v": 12231,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "60_percent"
-			},
-			{
-				"weight": 0,
-				"value": "70_percent"
-			},
-			{
-				"weight": 0,
-				"value": "80_percent"
-			},
-			{
-				"weight": 0,
-				"value": "90_percent"
-			},
-			{
-				"weight": 100,
-				"value": "100_percent"
 			}
 		]
 	},
