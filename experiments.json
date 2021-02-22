@@ -2712,6 +2712,25 @@
 			}
 		]
 	},
+	"23d2a682-3e96-4bfe-ac47-0b66f7ca7b27": {
+		"name": "android_predictions_spectator_mode",
+		"v": 13600,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"23edd834-27d9-4bae-bcde-1e59b25aff51": {
 		"name": "android_big_goku",
 		"v": 1755,
