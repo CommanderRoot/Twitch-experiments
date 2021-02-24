@@ -4395,15 +4395,15 @@
 	},
 	"39a78eae-7b21-4ff8-8c27-d8353e7531d4": {
 		"name": "dads_use_twitch_raids",
-		"v": 13645,
+		"v": 13646,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 40,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 60,
 				"value": "use_twitch_raids"
 			}
 		]
@@ -6020,7 +6020,7 @@
 	},
 	"4dab626b-79b1-4b4d-b8bb-81d93e660b88": {
 		"name": "android_leaderboards",
-		"v": 13326,
+		"v": 13647,
 		"t": 2,
 		"groups": [
 			{
@@ -6029,7 +6029,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active"
 			}
 		]
 	},
