@@ -4395,15 +4395,15 @@
 	},
 	"39a78eae-7b21-4ff8-8c27-d8353e7531d4": {
 		"name": "dads_use_twitch_raids",
-		"v": 13644,
+		"v": 13645,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 65,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 35,
+				"weight": 50,
 				"value": "use_twitch_raids"
 			}
 		]
