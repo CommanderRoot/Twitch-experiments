@@ -1501,6 +1501,21 @@
 			}
 		]
 	},
+	"13bab58e-d975-4d01-a255-d8925b440a77": {
+		"name": "ios_channel_points_predictions_spectator_mode",
+		"v": 13654,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"140f2b2b-ea55-4d0f-b2b2-1dc4c95e25a9": {
 		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_email",
 		"v": 12384,
