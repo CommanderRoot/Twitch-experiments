@@ -259,6 +259,21 @@
 			}
 		]
 	},
+	"03e27667-d926-47dc-ab02-5435a6e16205": {
+		"name": "dart_fpso_prime_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13659,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
 		"v": 12124,
@@ -565,6 +580,21 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"06bd4c16-1de1-4eb3-9963-869dfaeafa5b": {
+		"name": "dart_fpso_prime_sub_reminder_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13664,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -1740,6 +1770,21 @@
 			{
 				"weight": 100,
 				"value": "bullet"
+			}
+		]
+	},
+	"16cbccc3-d156-4020-b09b-83925e1be4d8": {
+		"name": "dart_fpso_prime_sub_reminder_localized_en_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13661,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -12770,6 +12815,21 @@
 			}
 		]
 	},
+	"9b9e37a9-f33d-48e1-9d76-06240d70579f": {
+		"name": "dart_fpso_prime_sub_localized_latam_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13658,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9bc79cc8-43d9-4984-a269-9ceae142d131": {
 		"name": "dart_jandrop5_vwr_344_awa_cmc_wch_gmg_email_2102_holdout",
 		"v": 13464,
@@ -13253,6 +13313,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"a2a75c38-66e3-4785-afc7-8707450b474c": {
+		"name": "dart_fpso_prime_sub_reminder_localized_latam_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13662,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -15015,6 +15090,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"b7bd5d60-d827-4976-a5a3-5fa8877b57bf": {
+		"name": "dart_fpso_prime_sub_reminder_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13663,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -18890,6 +18980,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"eedbb30d-4f74-4d13-9542-8361e62af207": {
+		"name": "dart_fpso_prime_sub_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13660,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
