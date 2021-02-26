@@ -2663,6 +2663,29 @@
 			}
 		]
 	},
+	"218acff9-67f7-459f-9f3e-d9b41238e761": {
+		"name": "ht_celeb_experiment",
+		"v": 13680,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 85,
+				"value": "Control"
+			},
+			{
+				"weight": 5,
+				"value": "VariantA"
+			},
+			{
+				"weight": 5,
+				"value": "VariantB"
+			},
+			{
+				"weight": 5,
+				"value": "VariantC"
+			}
+		]
+	},
 	"21eae6bf-b120-4cd0-a513-5612ea0fb51c": {
 		"name": "ps4_playercore",
 		"v": 1121,
