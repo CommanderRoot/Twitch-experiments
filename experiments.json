@@ -7428,6 +7428,21 @@
 			}
 		]
 	},
+	"5c49f527-dae1-4735-85a4-af5e899feaa8": {
+		"name": "dart_landofrozenannounce_vwr_377_flw_cmc_flw_gmg_email_2102_holdout",
+		"v": 13686,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5c8e4a59-8c63-4000-9c4e-6224f34b7c21": {
 		"name": "twilight_web_onboarding_channel_surfing",
 		"v": 4245,
@@ -15781,6 +15796,21 @@
 			{
 				"weight": 0,
 				"value": "no-keyboard-suggester"
+			}
+		]
+	},
+	"c1053037-2acf-4e98-9379-0b69c803a599": {
+		"name": "dart_landogenericannounce_vwr_377_flw_cmc_flw_gmg_email_2102_holdout",
+		"v": 13685,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
