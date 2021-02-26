@@ -7349,6 +7349,21 @@
 			}
 		]
 	},
+	"5b3c7579-e32e-4ddd-b569-8bf76265a431": {
+		"name": "dart_newcreatoruse1_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
+		"v": 13683,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5b4b52f8-f313-466b-acd8-a4ddd9c89a87": {
 		"name": "ios_restart_mw_timer_after_video_play",
 		"v": 8856,
@@ -11510,6 +11525,21 @@
 			}
 		]
 	},
+	"8b1d7969-92c3-4c3c-a373-8a581d7c43dd": {
+		"name": "dart_newcreatorgbe1_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
+		"v": 13681,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8b8b3edb-b4eb-4b10-b94c-7a56fcdb81d4": {
 		"name": "dart_santaeffect_vwr_344_dav_cmc_wch_gmg_pe_2101_holdout",
 		"v": 13110,
@@ -14017,6 +14047,21 @@
 			}
 		]
 	},
+	"abf37d97-87ab-4029-b200-318663191b50": {
+		"name": "dart_newcreatorgbe2_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
+		"v": 13682,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"ac1c908f-3779-4068-ae72-086c288f6f87": {
 		"name": "FEATURED_COLLECTION_CARD",
 		"v": 1517,
@@ -14521,6 +14566,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"affc81cf-3b11-4d59-8a6b-6e4a79a728fd": {
+		"name": "dart_newcreatoruse2_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
+		"v": 13684,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
 				"value": "allowed"
 			}
 		]
