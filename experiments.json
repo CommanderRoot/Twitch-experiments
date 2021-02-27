@@ -9528,6 +9528,21 @@
 			}
 		]
 	},
+	"73953240-093e-41f9-b699-b46ea83a0bc1": {
+		"name": "dart_santasurvey2_vwr_370_awa_cmc_mis_mis_email_2102_holdout",
+		"v": 13689,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"73a3d666-c0cc-4eb1-8ba9-98a6b134825b": {
 		"name": "android_mgst_ingest_test_interval",
 		"v": 11937,
@@ -17654,6 +17669,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"d83d14ef-38c6-4245-9511-0f53971ee504": {
+		"name": "dart_katowice_vwr_373_dav_cmc_wch_gmg_email_2102_holdout",
+		"v": 13690,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
