@@ -10633,15 +10633,15 @@
 	},
 	"7ed1d35d-19a5-4df4-9984-30e5199da7d6": {
 		"name": "ios_phone_verification",
-		"v": 13037,
+		"v": 13701,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -15020,11 +15020,11 @@
 	},
 	"b324769e-78b8-4cc9-bc04-02c5585fa303": {
 		"name": "android_phone_verification",
-		"v": 13022,
+		"v": 13703,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
@@ -15032,7 +15032,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -18501,15 +18501,15 @@
 	},
 	"e3f98642-92df-404b-a7eb-21da0473a96b": {
 		"name": "kr_jp_string_test",
-		"v": 13676,
+		"v": 13702,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
