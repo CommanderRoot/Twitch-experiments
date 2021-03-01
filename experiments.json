@@ -7781,7 +7781,7 @@
 	},
 	"603ea784-c7d1-4556-993a-c3aa0d673062": {
 		"name": "ios_recs_in_following",
-		"v": 6276,
+		"v": 13712,
 		"t": 1,
 		"groups": [
 			{
@@ -7789,11 +7789,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "always_show"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "limited_show"
 			}
 		]
