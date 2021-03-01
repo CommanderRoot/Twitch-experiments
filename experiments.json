@@ -9723,15 +9723,15 @@
 	},
 	"7548aea2-a6a8-4957-b35f-16efb2ce9866": {
 		"name": "ios_quality_switching",
-		"v": 13248,
+		"v": 13696,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "direct"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "variant_url"
 			}
 		]
