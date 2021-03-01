@@ -10633,11 +10633,11 @@
 	},
 	"7ed1d35d-19a5-4df4-9984-30e5199da7d6": {
 		"name": "ios_phone_verification",
-		"v": 13701,
+		"v": 13704,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "active"
 			},
 			{
