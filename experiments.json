@@ -17644,15 +17644,15 @@
 	},
 	"d78fe295-4955-4b23-85ee-48b368cb3dbf": {
 		"name": "tvapps_ps4_usher_url",
-		"v": 13083,
+		"v": 13697,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
