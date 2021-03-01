@@ -20092,6 +20092,33 @@
 			}
 		]
 	},
+	"fb46a20b-d002-47f6-8c0e-4bb785c6ffa4": {
+		"name": "community-gifting-recommendation-v2.7",
+		"v": 13695,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 26,
+				"value": "control_2_6"
+			},
+			{
+				"weight": 5,
+				"value": "holdout_v1"
+			},
+			{
+				"weight": 23,
+				"value": "variant_1"
+			},
+			{
+				"weight": 23,
+				"value": "variant_2"
+			},
+			{
+				"weight": 23,
+				"value": "variant_3"
+			}
+		]
+	},
 	"fba9e195-1661-42c2-85f5-64320965273e": {
 		"name": "subs_pif",
 		"v": 12817,
