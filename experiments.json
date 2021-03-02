@@ -3371,6 +3371,21 @@
 			}
 		]
 	},
+	"2a419c5c-16b5-48fa-83d4-a5764408545b": {
+		"name": "TWILIGHT_AAX_DISPLAY_DIRECTORY_M1",
+		"v": 13736,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "GAM"
+			},
+			{
+				"weight": 0,
+				"value": "AAX"
+			}
+		]
+	},
 	"2a435af4-6869-4f29-b4a1-8a23775e3a5e": {
 		"name": "dart_hitthelabseven_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13558,
@@ -15712,6 +15727,21 @@
 			}
 		]
 	},
+	"bdb5c085-9f43-41f5-ac33-d58b41af2e5c": {
+		"name": "TWILIGHT_AAX_DISPLAY_DIRECTORY_M2",
+		"v": 13735,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "GAM"
+			},
+			{
+				"weight": 0,
+				"value": "AAX"
+			}
+		]
+	},
 	"be03f934-72ca-4c26-9a3d-e70c0d5d3ed7": {
 		"name": "dart_tr_valorant_br_holdout",
 		"v": 10089,
@@ -19156,6 +19186,21 @@
 			{
 				"weight": 0,
 				"value": "active_v9.10"
+			}
+		]
+	},
+	"ed7b8100-d84b-4932-a430-61edb83ee8a5": {
+		"name": "TWILIGHT_AAX_DISPLAY_HEADLINER_M2",
+		"v": 13734,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "GAM"
+			},
+			{
+				"weight": 0,
+				"value": "AAX"
 			}
 		]
 	},
