@@ -1090,15 +1090,15 @@
 	},
 	"0d91438c-c3ee-4efc-8e27-d2bc7436c919": {
 		"name": "ios_unified_access_token",
-		"v": 13530,
+		"v": 13723,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "legacy_access_token"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "unified_access_token"
 			}
 		]
