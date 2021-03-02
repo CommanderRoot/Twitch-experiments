@@ -9035,29 +9035,6 @@
 			}
 		]
 	},
-	"6eaf8833-64d1-41d0-942b-8ccd12561b88": {
-		"name": "android_live_window_segments",
-		"v": 9868,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 85,
-				"value": "control"
-			},
-			{
-				"weight": 5,
-				"value": "treatment_2"
-			},
-			{
-				"weight": 5,
-				"value": "treatment_3"
-			},
-			{
-				"weight": 5,
-				"value": "treatment_4"
-			}
-		]
-	},
 	"6ec0cc4b-771d-4e43-8cf8-8dba9562f78a": {
 		"name": "android_amazon_identity_integration",
 		"v": 12948,
@@ -13179,21 +13156,6 @@
 			},
 			{
 				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
-	"9df32fd0-9370-4a54-b7f1-11831da9d17d": {
-		"name": "android_mgst_playercore_default_buffer_options",
-		"v": 12787,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -17436,21 +17398,6 @@
 			{
 				"weight": 100,
 				"value": "active_8_1"
-			}
-		]
-	},
-	"d4bc07e9-bb6d-403e-9574-6def01fe08cb": {
-		"name": "forced_future",
-		"v": 5249,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "forced"
-			},
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
