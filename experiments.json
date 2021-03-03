@@ -1088,6 +1088,21 @@
 			}
 		]
 	},
+	"0d57d58f-0d23-4249-b12d-b56dcd338483": {
+		"name": "ios_track_scheduled_ads",
+		"v": 13739,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "track"
+			}
+		]
+	},
 	"0d91438c-c3ee-4efc-8e27-d2bc7436c919": {
 		"name": "ios_unified_access_token",
 		"v": 13723,
