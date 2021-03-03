@@ -4870,6 +4870,21 @@
 			}
 		]
 	},
+	"3d8e616b-2904-4c5b-bcfd-1c3d3b2e66bd": {
+		"name": "ios_allow_playing_from_completed_state",
+		"v": 13742,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"3e00e6a3-77d3-41ab-a587-9618050a519a": {
 		"name": "onaffiliate_twitch_prime_extension_staging",
 		"v": 5081,
