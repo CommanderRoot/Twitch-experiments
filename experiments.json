@@ -13175,6 +13175,21 @@
 			}
 		]
 	},
+	"9d018c44-c83f-42d5-8656-c473090fb18e": {
+		"name": "e2e_android_content_integrity",
+		"v": 13756,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"9d0bcba8-2f87-433d-88f9-b337df4044b4": {
 		"name": "dart_kpop_emotes_3_102220_holdout",
 		"v": 12192,
