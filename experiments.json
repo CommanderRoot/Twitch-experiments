@@ -14912,6 +14912,21 @@
 			}
 		]
 	},
+	"b236170b-70fb-4576-bc71-255653aa02fd": {
+		"name": "dart_aapi_vwr_380_cmm_cmc_mis_mis_email_2103_holdout",
+		"v": 13748,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"b24709f5-87e3-47a3-8605-7c0a7bfb56bc": {
 		"name": "dart_chasingthecrown1030_vwr_nrp303_5mp_cmc_watchnow_event_gaming_email_2010_holdout",
 		"v": 12304,
