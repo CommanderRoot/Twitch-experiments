@@ -3326,6 +3326,25 @@
 			}
 		]
 	},
+	"29b36777-cd0d-4669-bc3e-318304a79505": {
+		"name": "sub_modal_variants",
+		"v": 13770,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "multimonth_selector"
+			},
+			{
+				"weight": 10,
+				"value": "support_panel"
+			}
+		]
+	},
 	"29d6e001-f71b-4fd8-9863-34126e5f0913": {
 		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13542,
@@ -13922,7 +13941,7 @@
 	},
 	"a8310045-8cb9-4d9f-8e9c-e0b51b4aaddc": {
 		"name": "android_new_emote_autofill",
-		"v": 13603,
+		"v": 13772,
 		"t": 1,
 		"groups": [
 			{
@@ -13934,7 +13953,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "active"
 			}
 		]
