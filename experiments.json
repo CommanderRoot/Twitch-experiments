@@ -340,15 +340,15 @@
 	},
 	"04ec5d3f-4c62-4e1e-b2de-4e2d39469f78": {
 		"name": "android_offline_search",
-		"v": 13422,
+		"v": 13779,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "active"
 			}
 		]
