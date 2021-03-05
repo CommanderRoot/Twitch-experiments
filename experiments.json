@@ -13817,15 +13817,15 @@
 	},
 	"a66fd358-00c6-47a1-8a59-dee48d040d2f": {
 		"name": "ios_offline_search",
-		"v": 13593,
+		"v": 13780,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -14689,6 +14689,21 @@
 		"groups": [
 			{
 				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
+	"afae8712-272f-4f6c-9d5c-083117cf1530": {
+		"name": "ios_chat_settings",
+		"v": 13782,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
 				"value": "control"
 			},
 			{
