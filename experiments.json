@@ -20315,8 +20315,9 @@
 	},
 	"fb46a20b-d002-47f6-8c0e-4bb785c6ffa4": {
 		"name": "community-gifting-recommendation-v2.7",
-		"v": 13695,
+		"v": 13794,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 26,
@@ -20328,15 +20329,15 @@
 			},
 			{
 				"weight": 23,
-				"value": "variant_1"
+				"value": "lower_cache"
 			},
 			{
 				"weight": 23,
-				"value": "variant_2"
+				"value": "online_boost"
 			},
 			{
 				"weight": 23,
-				"value": "variant_3"
+				"value": "boost_and_cache"
 			}
 		]
 	},
