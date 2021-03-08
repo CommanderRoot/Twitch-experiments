@@ -13860,6 +13860,21 @@
 			}
 		]
 	},
+	"a6e26797-91fb-4d10-ac84-2c542e7bb3aa": {
+		"name": "ios_dsp_brand_safety",
+		"v": 13796,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_10.4"
+			}
+		]
+	},
 	"a6eef2bb-211a-4ba5-a438-c01e3afcf566": {
 		"name": "ios_ads_eligibility_enhanced",
 		"v": 8188,
