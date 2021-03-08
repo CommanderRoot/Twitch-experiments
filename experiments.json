@@ -2731,6 +2731,21 @@
 			}
 		]
 	},
+	"22d79ca1-99b8-42fe-bc37-7d57a3537258": {
+		"name": "android_brand_safety_phase_1",
+		"v": 13804,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_10.4"
+			}
+		]
+	},
 	"22e65465-6c12-4026-af59-57941238ed35": {
 		"name": "ios_t2_t3_modified_emotes",
 		"v": 11066,
