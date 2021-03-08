@@ -142,6 +142,21 @@
 			}
 		]
 	},
+	"01501b3e-11b1-4447-8753-0e30698f0790": {
+		"name": "android_mgst_ivs_ingest_tester",
+		"v": 13801,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"01991538-1ad4-4fee-bae2-38245b3dbc8c": {
 		"name": "dart_nobru_has_arrived_inactive_push",
 		"v": 10020,
