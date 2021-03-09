@@ -5643,15 +5643,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 13301,
+		"v": 13844,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 15,
 				"value": "promotions_enabled"
 			}
 		]
@@ -6585,15 +6585,15 @@
 	},
 	"4f82dd22-cf09-44a5-8f17-9641e0cbb3bd": {
 		"name": "use_rare_candy_quests",
-		"v": 13842,
+		"v": 13843,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 55,
+				"weight": 65,
 				"value": "yes"
 			},
 			{
-				"weight": 45,
+				"weight": 35,
 				"value": "no"
 			}
 		]
