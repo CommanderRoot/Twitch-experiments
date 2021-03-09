@@ -9238,6 +9238,21 @@
 			}
 		]
 	},
+	"6fb32348-8b9f-4319-9948-4a3c126ac7ff": {
+		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13807,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6fdd956e-23a3-48ed-afcd-2b7342d62cda": {
 		"name": "dart_hyperscape_emotes_holdout",
 		"v": 11423,
@@ -12041,6 +12056,21 @@
 			}
 		]
 	},
+	"8f4d9ac4-cbf2-4755-95ba-3c1912b3ce4b": {
+		"name": "dart_cold_d7_top_streams_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13810,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8f6043c2-53b7-4ea7-991d-20c14dc2d1a7": {
 		"name": "ios_profile_upload_enhanced",
 		"v": 2266,
@@ -14205,6 +14235,21 @@
 			{
 				"weight": 1,
 				"value": "active_spade_sentry"
+			}
+		]
+	},
+	"ab20aedc-8e32-44fd-b905-a15dcfd6e70d": {
+		"name": "dart_cold_d7_top_streams_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13808,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -18894,6 +18939,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"e5a6585e-8863-471e-b290-f7338b84ab31": {
+		"name": "dart_cold_d7_top_streams_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13809,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
