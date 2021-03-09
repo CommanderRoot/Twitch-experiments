@@ -2193,6 +2193,21 @@
 			}
 		]
 	},
+	"1a26f518-8ec2-4424-bbe5-30031be83820": {
+		"name": "dart_new_d3_top_streams_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13822,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1a42d36b-3f3f-4b80-8252-bdd6cc675ec3": {
 		"name": "Pineapple",
 		"v": 5939,
@@ -6285,6 +6300,21 @@
 			}
 		]
 	},
+	"4d15d30b-4a56-49f2-8943-64cc6d9c4274": {
+		"name": "dart_new_d3_top_streams_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13821,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4d280622-264e-4d2b-ba07-f064d3d67e85": {
 		"name": "ios_profile_autoplay",
 		"v": 13252,
@@ -7740,6 +7770,21 @@
 			}
 		]
 	},
+	"5d4f55a1-38ce-4895-ac8a-c4f504bf607f": {
+		"name": "dart_new_d5_top_games_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13826,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5daee224-4c99-499f-b6e0-e308a5fa54f1": {
 		"name": "aws_roundtrip_latency_test_endpoint",
 		"v": 953,
@@ -8024,6 +8069,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"6053e556-6278-427f-b428-696127a5f295": {
+		"name": "dart_new_d7_top_streamers_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13829,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -10487,6 +10547,21 @@
 			}
 		]
 	},
+	"7b8ab3e1-c343-4478-abfd-8fb79bc7b122": {
+		"name": "dart_new_d5_top_games_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13825,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7bf6c345-cc48-4bc4-bfdc-908453588b25": {
 		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
 		"v": 13399,
@@ -12820,6 +12895,21 @@
 			}
 		]
 	},
+	"97c409b4-6222-441e-8dea-6306e8cb85df": {
+		"name": "dart_new_d7_top_streamers_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13828,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"97da7a09-3dc7-483c-9087-608e35ba2cbf": {
 		"name": "android_extensions",
 		"v": 2685,
@@ -13878,6 +13968,21 @@
 	"a4fa6114-e59c-47a6-9059-ac5c91ee0429": {
 		"name": "dart_amsot_session_holdout",
 		"v": 11317,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"a4fe76cb-66cd-485c-920b-5d4f987734f6": {
+		"name": "dart_new_d5_top_games_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13824,
 		"t": 2,
 		"groups": [
 			{
@@ -15028,6 +15133,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"b073ba53-49d3-4c76-add9-131e8dcc071b": {
+		"name": "dart_new_d3_top_streams_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13823,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -18058,6 +18178,21 @@
 			}
 		]
 	},
+	"d7ca0a26-8b86-4b8f-9a96-f0b32cd7424d": {
+		"name": "dart_new_d7_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13827,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d82e3cd2-0481-4287-8d54-129f3913d87d": {
 		"name": "android_offline_channel_page",
 		"v": 10482,
@@ -20350,6 +20485,21 @@
 			{
 				"weight": 99,
 				"value": "treatment"
+			}
+		]
+	},
+	"f7db8f8b-c29f-4d2f-bddd-196e2db6efa3": {
+		"name": "dart_new_d7_top_streamers_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13830,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
