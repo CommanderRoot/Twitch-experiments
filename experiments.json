@@ -48,6 +48,21 @@
 			}
 		]
 	},
+	"004bbb3a-507e-459e-9742-2cf4f1d9382e": {
+		"name": "dart_cold_d14_top_games_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13814,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0063f313-4dc1-4a59-ad53-2c51dbf2499c": {
 		"name": "dart_streamaidgidle_holdout",
 		"v": 9694,
@@ -1358,6 +1373,21 @@
 			}
 		]
 	},
+	"10df8aa0-48fb-495e-9cac-a8482357e98b": {
+		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13811,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"11611bbf-0188-4d2f-a200-84358cfaaf57": {
 		"name": "twilight_editing_les_poissons",
 		"v": 4282,
@@ -2114,6 +2144,21 @@
 			}
 		]
 	},
+	"19cb3106-7496-4f75-b94e-089d648c477e": {
+		"name": "dart_new_d3_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13819,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"19cc1327-9436-4019-b71c-e2a1e41d3cb3": {
 		"name": "actuator_integration_test",
 		"v": 11502,
@@ -2630,6 +2675,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"20c91448-ea6a-46ec-b065-fda344865a71": {
+		"name": "dart_cold_d21_top_streamers_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13817,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -8744,6 +8804,21 @@
 			}
 		]
 	},
+	"6a153c70-ef36-4efe-94e8-5d0c1b543114": {
+		"name": "dart_cold_d14_top_games_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13812,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6a1cba54-d5d3-4117-ab42-06bd5514a134": {
 		"name": "mobile_native_user_id_experiment",
 		"v": 9191,
@@ -9205,6 +9280,21 @@
 			{
 				"weight": 100,
 				"value": "active_9.10"
+			}
+		]
+	},
+	"6ee6c5a1-c7d5-47c4-8140-788eb0d5780a": {
+		"name": "dart_cold_d21_top_streamers_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13818,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -12328,6 +12418,21 @@
 			{
 				"weight": 50,
 				"value": "treatment"
+			}
+		]
+	},
+	"92462671-5eee-42df-b7d4-4820796db2e0": {
+		"name": "dart_cold_d14_top_games_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13813,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -17337,6 +17442,21 @@
 			}
 		]
 	},
+	"cf115fa2-e2d3-46e0-a5f9-ed8c9a8a12f2": {
+		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13815,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"cf91e619-8d8b-486f-83a3-13db61bfbfaf": {
 		"name": "bits_top_nav_explanation ",
 		"v": 12127,
@@ -19745,6 +19865,21 @@
 			}
 		]
 	},
+	"f10f92e6-14b7-473a-90ee-4ed6033e4def": {
+		"name": "dart_new_d5_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13820,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f1205e42-6793-4a9d-8571-b318526938bc": {
 		"name": "dart_amsot_session_8_push",
 		"v": 11509,
@@ -20065,6 +20200,21 @@
 			{
 				"weight": 100,
 				"value": "dont_pause"
+			}
+		]
+	},
+	"f5ef9025-967b-4d52-9579-75c30949e98f": {
+		"name": "dart_cold_d21_top_streamers_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 13816,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
