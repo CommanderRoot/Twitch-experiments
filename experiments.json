@@ -17510,6 +17510,21 @@
 			}
 		]
 	},
+	"ce3e4b28-1169-41d0-ba0e-d3bba03b1160": {
+		"name": "pur_rep_realtime_data",
+		"v": 13846,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "no_gather"
+			},
+			{
+				"weight": 0,
+				"value": "gather"
+			}
+		]
+	},
 	"ce62423f-4298-4448-bd1c-5421d96f65d6": {
 		"name": "ios_dashboard",
 		"v": 2544,
