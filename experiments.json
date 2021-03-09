@@ -6585,15 +6585,15 @@
 	},
 	"4f82dd22-cf09-44a5-8f17-9641e0cbb3bd": {
 		"name": "use_rare_candy_quests",
-		"v": 13843,
+		"v": 13845,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 65,
+				"weight": 75,
 				"value": "yes"
 			},
 			{
-				"weight": 35,
+				"weight": 25,
 				"value": "no"
 			}
 		]
