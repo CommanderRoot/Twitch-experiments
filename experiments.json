@@ -7962,6 +7962,25 @@
 			}
 		]
 	},
+	"5f4744a4-11ee-4044-95ac-f2b64da6e2c9": {
+		"name": "android_private_callouts",
+		"v": 13837,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "active_developement"
+			}
+		]
+	},
 	"5f5feca2-56a0-4391-a092-1dded80c24cb": {
 		"name": "ios_bounty_board_tracking",
 		"v": 6067,
