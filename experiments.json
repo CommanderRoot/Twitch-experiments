@@ -1088,6 +1088,21 @@
 			}
 		]
 	},
+	"0c9ea6f7-169b-4601-9139-d59ccf637595": {
+		"name": "dart_fpgo_active_previous_sub_localized_latam_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13858,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0ca31562-8bd0-418e-8018-8d02cff5a284": {
 		"name": "dart_hindsight2020a_ctr_326_awa_cmc_lrn_mis_email_2012_holdout",
 		"v": 12803,
@@ -1120,15 +1135,15 @@
 	},
 	"0d57d58f-0d23-4249-b12d-b56dcd338483": {
 		"name": "ios_track_scheduled_ads",
-		"v": 13852,
+		"v": 13854,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "track"
 			}
 		]
@@ -16542,6 +16557,21 @@
 			}
 		]
 	},
+	"c2f85fe8-5b7d-4072-98bf-b5b69a1137cb": {
+		"name": "dart_fpgo_active_previous_sub_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13857,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c31d337d-4186-465d-9d0b-cb72a5b2aef2": {
 		"name": "newsfeed_recommended_clips",
 		"v": 1053,
@@ -17806,6 +17836,21 @@
 			}
 		]
 	},
+	"d1c179f0-e917-4eac-9a12-877a1ed93c00": {
+		"name": "dart_fpgo_existing_sub_localized_en_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13861,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d1cffa2b-e432-4a9e-958a-24842a9547fd": {
 		"name": "ios_vaes_enabled_v2",
 		"v": 8385,
@@ -18366,6 +18411,21 @@
 			}
 		]
 	},
+	"d8c1fefa-208c-4afe-aead-5b2f23d56ba0": {
+		"name": "dart_fpgo_active_previous_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13860,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d8c536f8-31a0-46d0-8e25-1bd5773aee2f": {
 		"name": "android_clip_editing",
 		"v": 3050,
@@ -18874,6 +18934,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"e084e15c-3a53-4aa6-92ac-b6672486418e": {
+		"name": "dart_fpgo_active_previous_sub_localized_en_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13856,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
