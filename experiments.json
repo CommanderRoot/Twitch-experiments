@@ -1120,15 +1120,15 @@
 	},
 	"0d57d58f-0d23-4249-b12d-b56dcd338483": {
 		"name": "ios_track_scheduled_ads",
-		"v": 13739,
+		"v": 13852,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "track"
 			}
 		]
