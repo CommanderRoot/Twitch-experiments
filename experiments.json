@@ -191,6 +191,21 @@
 			}
 		]
 	},
+	"01b97c60-a202-4042-9f65-f22624ecff0d": {
+		"name": "dart_fpgo_existing_sub_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13863,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"01e6ee20-b541-407a-ba84-b436ed4ee2c7": {
 		"name": "ios_test_new_batcher",
 		"v": 12138,
@@ -1648,6 +1663,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"14246eff-9b2f-4cfc-a147-fb4ca029d1d5": {
+		"name": "dart_fpgo_existing_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13864,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -9840,6 +9870,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"73720cb1-72da-4443-b57b-5badb0113add": {
+		"name": "dart_fpgo_existing_sub_localized_latam_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
+		"v": 13862,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
