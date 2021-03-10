@@ -7107,7 +7107,7 @@
 	},
 	"550f10c2-dcdc-4c68-96f1-1b8f7b4ed95b": {
 		"name": "android_international_pricing_education_phase_1",
-		"v": 13623,
+		"v": 13869,
 		"t": 1,
 		"groups": [
 			{
@@ -7121,6 +7121,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_10.4"
 			}
 		]
 	},
@@ -13116,7 +13120,7 @@
 	},
 	"98f25d54-0422-45cf-95d6-60e4d458d546": {
 		"name": "android_international_pricing_education_phase_2",
-		"v": 13624,
+		"v": 13870,
 		"t": 1,
 		"groups": [
 			{
@@ -13130,6 +13134,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_10.4"
 			}
 		]
 	},
