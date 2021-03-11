@@ -3478,15 +3478,15 @@
 	},
 	"29b36777-cd0d-4669-bc3e-318304a79505": {
 		"name": "sub_modal_variants",
-		"v": 13833,
+		"v": 13879,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "multimonth_selector"
 			},
 			{
