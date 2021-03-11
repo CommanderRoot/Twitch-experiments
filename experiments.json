@@ -3476,25 +3476,6 @@
 			}
 		]
 	},
-	"29b36777-cd0d-4669-bc3e-318304a79505": {
-		"name": "sub_modal_variants",
-		"v": 13879,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "multimonth_selector"
-			},
-			{
-				"weight": 0,
-				"value": "support_panel"
-			}
-		]
-	},
 	"29d6e001-f71b-4fd8-9863-34126e5f0913": {
 		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13542,
@@ -7290,33 +7271,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"57d62f74-38f2-46c9-9949-c4a8901b44ff": {
-		"name": "multimonth_submodal_optimization",
-		"v": 13767,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 80,
-				"value": "control"
-			},
-			{
-				"weight": 5,
-				"value": "variant_1"
-			},
-			{
-				"weight": 5,
-				"value": "variant_2"
-			},
-			{
-				"weight": 5,
-				"value": "variant_3"
-			},
-			{
-				"weight": 5,
-				"value": "support_panel"
 			}
 		]
 	},
@@ -20625,6 +20579,25 @@
 			{
 				"weight": 100,
 				"value": "enabled"
+			}
+		]
+	},
+	"f7249add-1ab5-408a-a019-c854bd7807a6": {
+		"name": "subscription_modal_variants",
+		"v": 13901,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "multimonth_selector"
+			},
+			{
+				"weight": 0,
+				"value": "support_panel"
 			}
 		]
 	},
