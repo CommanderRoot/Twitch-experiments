@@ -6287,12 +6287,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 13850,
+		"v": 13873,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-eacd1c.pdx01.abs.hls.ttvnw.net/v1/segment/ChaytkswUBbs-Kjj_lBulALzn4M4B5KLVqzmlaXxyjAVcbrRZSROv9hLi5SgOf1qdxvWbrvoRmjGnBUqsffCTwBZdrtFdJMUrf3WRBy8iYLf7HR6CNvyWrc33fdrCSvTeCdoyBggCVzAUoO-JxwV5EjFhT2grd-YTPAfknvxwatwTqM4Or3pn-uw1pQwAh3N8j5A1AzcE8JOCzgb_EEMA_TprAjjZqiJrX87U4d86ZmuPV2DCKWy1FXB1xLTujB452xdkzTulw94YLHsVNHEsZR7ZKBmfI59uGD8YzOy9ucBLfILMiHs-F9tdB_mxKH0i4y57pPIYl8Sot19En3uxKZsVYZp6x71TOa5p6u85lRoBkT2no5_e-3a-z9rS-ONdPRHi3q9xelTCPCqSkAcVVm6oXS_cEDABWS2eVu9cJ9UvRhE44Cvb93gkgjdwTJrgc2g7LTQJE7-cra2mBhEJkKMkXWBSqK9Hx0MV9zhdyJou7JBb_zVedWExxvsBaPgZW3ICBF2P2EL-8UBjWvTBSiLXvOOn3U4BDLlOgjxkMZGTgeXqO0qN-Rsf-R2kApqqknRChaukO6vkggC7gd4StRm49KsBj1VyHdw0ySN-ghdXNzsi-SJoQm-mkxTxB9AWS66FRwMh8jTLd9kn3IH2A4XuD_YfKZBEuoyjTev2fgYPYjY4S2l_sDpVha0QeyxQ8604_PqXJ9cVahJ0nzZfWCXzYN99UOe5lzlpZBjqNEnXf5rTlltNa99S27XvA.ts"
+				"value": "//video-edge-4c51b3.pdx01.abs.hls.ttvnw.net/v1/segment/CsBt1u6g20OWTaRfyVL4Q-kx_kTnh90222OvYYtv7DOEPVCZLHBnyvWrw13f5sFHwbpoTN0-rVSf9rJ93NX0BIGOxSKlGprxFMpXpROqTcJqwhfT8pN2KyS-LFudIk1wHEBYp4l__8RnQmVRqU56EnoUPgbLgcts7H5TqmLfoRTmfxhmJiA-RCL2xRohqB_37phJZhEdtrM4odcRlrDDmgWOG1nt_UmcgiINIJQZfIJUMHaA9T2nOwF96ScKLzENFi_lWyyFYVA5SzPjTIcOmmedGSnGzUhyp0Ha54mQDN16HB-yUolfwM-wh2kJz0KQoaSudrbv2WICSiOMWX_FR-_PtBFtk4zVqZ9ZxXmyYd3DjgPh8AbD2P1jodS6P066nydnSwxSsdCEbZQ-gz-sOZv9TnXms3vm2vmxntyeo98U46BE1W_dyvE3BrCArAgkgx5oFU5ax-dsx3T1YKUe1b8AXRLcuelodAXeOv7Bb9TzaOajwtmHa0b9h00VqJEQKpSy_t-AcEKuxaJqc1XLc0B7pm13kA3hIabLZkWJbb1mAROZ8W2ZNmXE057jV5LQbddwERgc6gxyuovLgTKahCHCfIyWE_dM2cC0Tr9VJ_Qo0_DB_TSoyCJoRBrdfONsZWqj1MoZQRsspR8BVumqwg-JVic_2wkYABbwyw7dny-ogDk46sGB0NuGyufolRpwKD-f_b46Q093pniKUaRFwgB42utStZe-elNeEkn7FUTC3P14boLTt2TYsFhCnANNxAf9nyUcsa6ricxsWfnjQ9_.ts"
 			}
 		]
 	},
@@ -6407,15 +6407,15 @@
 	},
 	"4dab626b-79b1-4b4d-b8bb-81d93e660b88": {
 		"name": "android_leaderboards",
-		"v": 13851,
+		"v": 13875,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -19946,7 +19946,7 @@
 	},
 	"ee00dc45-05df-439e-996b-4b93e52e88a4": {
 		"name": "ios_international_pricing_education_phase_1",
-		"v": 13871,
+		"v": 13874,
 		"t": 1,
 		"groups": [
 			{
@@ -19956,10 +19956,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active-10.4"
 			}
 		]
 	},
