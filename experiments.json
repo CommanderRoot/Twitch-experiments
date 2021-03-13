@@ -16391,6 +16391,21 @@
 			}
 		]
 	},
+	"c0b89cf2-7833-4485-b340-f5e43b60cb8c": {
+		"name": "ios_hls_metadata_received_analytics",
+		"v": 13916,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "enabled"
+			}
+		]
+	},
 	"c0fb59fc-52b5-4e39-bce7-5a7ec95d1888": {
 		"name": "ios_phone_number_signup_2",
 		"v": 9168,
