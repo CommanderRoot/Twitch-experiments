@@ -14359,6 +14359,21 @@
 			}
 		]
 	},
+	"a83efadb-c417-47e2-9431-921b6116cc0e": {
+		"name": "use_rare_candy_vip",
+		"v": 13926,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "yes"
+			},
+			{
+				"weight": 100,
+				"value": "no"
+			}
+		]
+	},
 	"a859732c-5cc8-4e0b-8b05-12a97a8e45e4": {
 		"name": "android_mgst_ivs_game_broadcast",
 		"v": 13710,
