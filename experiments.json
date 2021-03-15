@@ -15738,6 +15738,21 @@
 			}
 		]
 	},
+	"b4d9581c-a4dd-4c6f-b54f-7128fb529cf6": {
+		"name": "dart_user_drop_reward_reminder_notification_holdout",
+		"v": 13922,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"b4f43009-bdcb-43be-8070-6733df2c16f4": {
 		"name": "dart_hitthelab6_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13489,
