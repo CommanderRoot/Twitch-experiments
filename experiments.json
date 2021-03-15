@@ -20582,6 +20582,21 @@
 			}
 		]
 	},
+	"f5a6c56b-05e6-4d17-b34b-a06cdc74c005": {
+		"name": "dart_iwdweek1_vwr_388_dav_cmc_lrn_mis_email_2103_de_holdout",
+		"v": 13921,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f5ef9025-967b-4d52-9579-75c30949e98f": {
 		"name": "dart_cold_d21_top_streamers_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 13816,
