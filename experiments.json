@@ -9112,6 +9112,21 @@
 			}
 		]
 	},
+	"6b655ea7-809b-48bf-83eb-966e8267d2b4": {
+		"name": "dart_iwdweek1_vwr_388_dav_cmc_lrn_mis_email_2103_gb_holdout",
+		"v": 13919,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6b9ac189-a168-4750-b169-c4eca1ed04af": {
 		"name": "dart_amsot_session5_push",
 		"v": 11214,
@@ -19637,6 +19652,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"e9b9aa21-1f36-4fef-9d74-666dbd639b56": {
+		"name": "dart_iwdweek1_vwr_388_dav_cmc_lrn_mis_email_2103_fr_holdout",
+		"v": 13920,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
