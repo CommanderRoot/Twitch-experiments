@@ -4671,6 +4671,21 @@
 			}
 		]
 	},
+	"380c3881-a3f8-4d7e-aa63-b5cc7b70f754": {
+		"name": "ios_hls_metadata_analytics_avplayer",
+		"v": 13934,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "disabled"
+			},
+			{
+				"weight": 10,
+				"value": "enabled"
+			}
+		]
+	},
 	"383ae8ec-2ed1-464e-8ff2-c67c981e077a": {
 		"name": "tvapps_xboxone_feature_tags",
 		"v": 9777,
@@ -18050,6 +18065,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"d35c0d0d-f540-4fa2-8034-6153cf82f2e5": {
+		"name": "ios_hls_metadata_analytics_playercore",
+		"v": 13935,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "enabled"
 			}
 		]
 	},
