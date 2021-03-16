@@ -159,15 +159,15 @@
 	},
 	"01501b3e-11b1-4447-8753-0e30698f0790": {
 		"name": "android_mgst_ivs_ingest_tester",
-		"v": 13801,
+		"v": 13946,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -14376,15 +14376,15 @@
 	},
 	"a859732c-5cc8-4e0b-8b05-12a97a8e45e4": {
 		"name": "android_mgst_ivs_game_broadcast",
-		"v": 13710,
+		"v": 13945,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_9.10.1"
 			}
 		]
