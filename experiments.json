@@ -13935,15 +13935,15 @@
 	},
 	"a28360fa-d602-4405-bde1-2dfc25218171": {
 		"name": "lcs_fultonized_processor_rollout",
-		"v": 13959,
+		"v": 13962,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "holdout"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "rollout"
 			}
 		]
