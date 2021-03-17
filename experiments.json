@@ -4932,6 +4932,21 @@
 			}
 		]
 	},
+	"3bfd0516-9ef2-4e1b-8056-11b68a3449e9": {
+		"name": "fulton_receiver_fulton_processor_rollout",
+		"v": 13960,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"3c11e182-c400-456f-bc4d-23fb1a9add47": {
 		"name": "android_ads_stream_presenter",
 		"v": 7487,
