@@ -14495,7 +14495,7 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 13954,
+		"v": 13973,
 		"t": 2,
 		"s": 9,
 		"groups": [
@@ -14504,12 +14504,16 @@
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 0,
 				"value": "treatment"
 			},
 			{
 				"weight": 0,
 				"value": "treatment_fallback"
+			},
+			{
+				"weight": 95,
+				"value": "treatment_new"
 			}
 		]
 	},
