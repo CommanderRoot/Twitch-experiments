@@ -20199,7 +20199,7 @@
 	},
 	"efaa5444-36e4-4775-8b6d-5ab64f921bbc": {
 		"name": "liverecs_holdout_v2",
-		"v": 8981,
+		"v": 13969,
 		"t": 2,
 		"groups": [
 			{
@@ -20209,6 +20209,10 @@
 			{
 				"weight": 98,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "graduate"
 			}
 		]
 	},
