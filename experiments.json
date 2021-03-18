@@ -3766,6 +3766,21 @@
 			}
 		]
 	},
+	"2e88b0e8-96b2-435f-b61f-434fc48585cc": {
+		"name": "dart_iwdweek2_vwr_388_dav_cmc_lrn_mis_email_2103_en_holdout",
+		"v": 13964,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2ea9efcc-8188-4c86-b5be-3ea99805e58c": {
 		"name": "dart_rolling_loud_2_reminder_102920_holdout",
 		"v": 12264,
