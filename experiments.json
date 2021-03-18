@@ -5718,6 +5718,25 @@
 			}
 		]
 	},
+	"459dfd2f-4585-4d55-9897-ef61bc84c455": {
+		"name": "ios_following_full_bleed",
+		"v": 13970,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all_full"
+			},
+			{
+				"weight": 0,
+				"value": "two_full"
+			}
+		]
+	},
 	"45b56e60-7421-4d93-87a6-5f26084abc51": {
 		"name": "dart_nyga_ctr_350_awa_cmc_str_gmg_email_2101_holdout",
 		"v": 13228,
