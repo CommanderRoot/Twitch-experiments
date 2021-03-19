@@ -6803,6 +6803,21 @@
 			}
 		]
 	},
+	"51b718f1-bb3b-4f9a-a056-2a3d9b4c0ede": {
+		"name": "dart_iwdweek2_vwr_388_dav_cmc_lrn_mis_email_2103_de_holdout",
+		"v": 13976,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"51bb24ec-8e5a-4b9f-b595-8cb098eb73d0": {
 		"name": "tvapps_viridian_usher_url",
 		"v": 13049,
