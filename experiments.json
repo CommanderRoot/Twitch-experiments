@@ -19586,6 +19586,21 @@
 			}
 		]
 	},
+	"e639ba8d-1806-4a9a-90a5-7c6a8732196c": {
+		"name": "pushy_fulton_processor_rollout",
+		"v": 13990,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"e64597c0-d4fe-4c6a-b514-a85132e89ff2": {
 		"name": "dart_cca_tunein_notification_holdout",
 		"v": 11594,
