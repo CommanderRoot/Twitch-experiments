@@ -4523,6 +4523,21 @@
 			}
 		]
 	},
+	"36a39ecd-42d2-4c4f-ad43-1d40b48378c2": {
+		"name": "multimonth_evergreen_discount",
+		"v": 13995,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant_1"
+			}
+		]
+	},
 	"36a6f70a-d01d-49f2-bba9-8a76f9a54e74": {
 		"name": "dart_onsiteeugiftcardvalentines_vwr_367_cmm_cmc_buy_mis_oe_2102_holdout",
 		"v": 13457,
