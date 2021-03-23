@@ -10306,15 +10306,15 @@
 	},
 	"77082214-54d1-4f7e-bb38-48ecea1a4d78": {
 		"name": "hype_train_approaching",
-		"v": 14010,
+		"v": 14011,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "Control"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "Experiment"
 			}
 		]
@@ -12969,6 +12969,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"96771625-1381-489b-ac51-1cc43c50d67d": {
+		"name": "hype_train_approaching_2",
+		"v": 14013,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "Control"
+			},
+			{
+				"weight": 1,
+				"value": "Experiment"
 			}
 		]
 	},
