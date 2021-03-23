@@ -4964,15 +4964,15 @@
 	},
 	"3bfd0516-9ef2-4e1b-8056-11b68a3449e9": {
 		"name": "fulton_receiver_fulton_processor_rollout",
-		"v": 13999,
+		"v": 14001,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "holdout"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "rollout"
 			}
 		]
