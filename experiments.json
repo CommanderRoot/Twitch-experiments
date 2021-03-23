@@ -10304,6 +10304,21 @@
 			}
 		]
 	},
+	"77082214-54d1-4f7e-bb38-48ecea1a4d78": {
+		"name": "hype_train_approaching",
+		"v": 14010,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "Control"
+			},
+			{
+				"weight": 20,
+				"value": "Experiment"
+			}
+		]
+	},
 	"77694bf2-b690-46c7-8b6c-624ef477a53a": {
 		"name": "android_autoplay_disable",
 		"v": 9150,
