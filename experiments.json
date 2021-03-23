@@ -4964,15 +4964,15 @@
 	},
 	"3bfd0516-9ef2-4e1b-8056-11b68a3449e9": {
 		"name": "fulton_receiver_fulton_processor_rollout",
-		"v": 14005,
+		"v": 14018,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "holdout"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "rollout"
 			}
 		]
@@ -12974,15 +12974,15 @@
 	},
 	"96771625-1381-489b-ac51-1cc43c50d67d": {
 		"name": "hype_train_approaching_2",
-		"v": 14015,
+		"v": 14019,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 50,
 				"value": "Control"
 			},
 			{
-				"weight": 15,
+				"weight": 50,
 				"value": "Experiment"
 			}
 		]
