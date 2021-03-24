@@ -17784,15 +17784,15 @@
 	},
 	"ce3e4b28-1169-41d0-ba0e-d3bba03b1160": {
 		"name": "pur_rep_realtime_data",
-		"v": 14031,
+		"v": 14033,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "no_gather"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "gather"
 			}
 		]
