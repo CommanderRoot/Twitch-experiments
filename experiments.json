@@ -6319,12 +6319,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 13997,
+		"v": 14020,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-07693b.pdx01.abs.hls.ttvnw.net/v1/segment/Cl4mqxCi3xMYPx9YrlMtOkvMtFZxVBwNMxhcgO_ptduf8r7dZA31_ulcBvY-E48j-8bcNd1e4b8MUZAUM9H1ofPEaLvBsq__CbIGSFHsPvmlt5mVNC5g3IXf6KyIGm17h14F9M3bS534oKdSIKLi6I2MsTKHxlKsVQWpOIyO0YS6j3nSYaR7aZ5h_woXIn7Fwj5N8wrhrhRi9xdQbNpSiux9P1BSx-MTnygVmexB1M6gdqJ2p0J_NxGC2PVnYO_oWMzNO-ARb4XovP3CM1DW2TWMZByZodifztxeHS8gVgyi4hoDN93pqQtELCmx5i97bnADEkDUdSDc-bqrtjGjSKyY4TCmjxgf9af1TRnH9_tSfHeZDXoMMELPjJ7CVQreOCXSpSZJsldJ_17WthWMYsSuNmQxsFmxZRrSjGMDMd4Q4FK8r_h6pv_ozO5kMB0X7YTbghEGDP6L7ZAFgl-dXV2KhOeHotGvBQ37PBWfwab3SsqbCQ7utgpGwsIgN98F59ozm0b4vSJlBYLABFRcW0_bA7U9y0LZakYzMI6v_hSujPpgHn_PJSKMiyPtuxPrBQadb6ULCOMCHxtsS7Ugsj54wSCp6M-WcagPwGJ7Sz3kJJE7ATA7OTA3BOxYu3zwFNgApeVwP4ciiUECGZe612ES_5dv4ggVyaYoIPrIJSakp3U82NpGyvkKBAEDfFPzhOm1Ck0WjvDjm_qT0dDvGG4EUrUgCyMShguDMZlxwiPfuRdoGVkcqNvtzyv.ts"
+				"value": "//video-edge-1020fd.pdx01.abs.hls.ttvnw.net/v1/segment/CjHqh2gtk0qvmUxoM8Td6d7StmrLpJytSzOjHJPMC6Sadfgb6Ljw8xjfruGsQ6QFHqLg7r6ry5Wdb7v2q8O-vDYGpPpb5pLZnKTKOK5gUllvkxr1S5Jgs79kkPU6az3RiUfvW-IxL09F05SFrrvsyC4Av3Aghhw87caB2n6kBgBjDTGY6_-tODdS3piuyWId5dBM1naC7mlMPe4pzgNvSz5iG86fJp-ucTXTKhv_xYBBsKOCLlrfW5ZcnoaPpTG0LFudK2sr5-YRJakYzAQfV94AY1VRLBcakWhpOBa0jCw99IDQ4Rm8GoJaE1zl9FpIGRq8-SOSfe9cDJLHyX8bAuwKUnhH6Lt8MK99DFcHKrPJVoJKc-gYyNt9Wmywkk4b54qDzTZHBdzYUGC2gV17lz0WjFa3GxWOioYTAAO5zVTCm5CU2G7DWX0q-VEniYNqq7DjKt33g6WnldojmuR6fWk2gM6Mw-h4wUCIWZUNnjXiJ46cmGHQM9Pvjcv9KIpyX7I7K4reZShWp7VR4pj8Xc0bqo6502rsJA4OzM5l1zaz6Si_iV352HFF-0_P-uOGTVVG2mIj9bjEsLoiMAKWndCS2InuL_hm7QGG_cvCDIjb2k_lLD3Cqnj47_cKuUjyJ0gC_-EghVjMQqoUtRK43ZDLLdxbDShUZpokZyjHu8YlUZQnoiG6qB95bz01n4NYLd2vkoW9yCTH5mKUpz3kkz_0JPY9Iu42cZvvAdVXNZwqV810met8HQE1l35ByDaLP2JP9feLPY_h5WQ.ts"
 			}
 		]
 	},
@@ -19456,15 +19456,15 @@
 	},
 	"e3f98642-92df-404b-a7eb-21da0473a96b": {
 		"name": "kr_jp_string_test",
-		"v": 13702,
+		"v": 14021,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
