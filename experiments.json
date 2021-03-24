@@ -10304,21 +10304,6 @@
 			}
 		]
 	},
-	"77082214-54d1-4f7e-bb38-48ecea1a4d78": {
-		"name": "hype_train_approaching",
-		"v": 14011,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "Control"
-			},
-			{
-				"weight": 0,
-				"value": "Experiment"
-			}
-		]
-	},
 	"77694bf2-b690-46c7-8b6c-624ef477a53a": {
 		"name": "android_autoplay_disable",
 		"v": 9150,
@@ -12974,15 +12959,15 @@
 	},
 	"96771625-1381-489b-ac51-1cc43c50d67d": {
 		"name": "hype_train_approaching_2",
-		"v": 14022,
+		"v": 14027,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "Control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "Experiment"
 			}
 		]
