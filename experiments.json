@@ -21190,6 +21190,21 @@
 			}
 		]
 	},
+	"facc04f2-2333-40d5-8257-d6ae21e350f2": {
+		"name": "android_pie_webview_fix",
+		"v": 14024,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active_10.5"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"fb1f9e8f-b689-4c3d-9f8d-5aa055e53dc5": {
 		"name": "community-gifting-recommendation-v2.5",
 		"v": 10321,
