@@ -12959,15 +12959,15 @@
 	},
 	"96771625-1381-489b-ac51-1cc43c50d67d": {
 		"name": "hype_train_approaching_2",
-		"v": 14034,
+		"v": 14036,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "Control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "Experiment"
 			}
 		]
@@ -15155,11 +15155,11 @@
 	},
 	"af347654-7848-4921-9af9-52979d715476": {
 		"name": "android_chevron_gifting",
-		"v": 13840,
+		"v": 14037,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -15167,7 +15167,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_10.4"
 			}
 		]
