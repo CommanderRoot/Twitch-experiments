@@ -1638,15 +1638,15 @@
 	},
 	"13bab58e-d975-4d01-a255-d8925b440a77": {
 		"name": "ios_channel_points_predictions_spectator_mode",
-		"v": 13654,
+		"v": 14045,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
