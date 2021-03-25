@@ -1668,7 +1668,7 @@
 	},
 	"14246eff-9b2f-4cfc-a147-fb4ca029d1d5": {
 		"name": "dart_fpgo_existing_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
-		"v": 13864,
+		"v": 14042,
 		"t": 2,
 		"groups": [
 			{
@@ -2451,6 +2451,21 @@
 			{
 				"weight": 100,
 				"value": "active_v8.7"
+			}
+		]
+	},
+	"1cb42742-f0aa-4336-b764-05b93449ebb1": {
+		"name": "dart_iwdweek3_vwr_388_dav_cmc_lrn_mis_email_2103_fr_holdout",
+		"v": 14040,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
