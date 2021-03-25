@@ -2949,15 +2949,15 @@
 	},
 	"23d2a682-3e96-4bfe-ac47-0b66f7ca7b27": {
 		"name": "android_predictions_spectator_mode",
-		"v": 13800,
+		"v": 14046,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
