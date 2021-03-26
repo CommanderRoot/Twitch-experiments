@@ -6064,6 +6064,21 @@
 			}
 		]
 	},
+	"4955b762-229d-46ff-b56b-5426df6c82fe": {
+		"name": "ios_mgst_log_memory",
+		"v": 14070,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"4994d68b-77d3-41f3-bebb-64b96c753b43": {
 		"name": "BROADCAST_SOFTWARE",
 		"v": 2231,
