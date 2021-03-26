@@ -5187,6 +5187,21 @@
 			}
 		]
 	},
+	"3f25e02c-e0eb-49be-93ec-3a1e581df3b3": {
+		"name": "ios_theater_launch_jitter",
+		"v": 14071,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"3f3117d1-ff5c-4097-97cf-36321e4f307b": {
 		"name": "android_prime_subs",
 		"v": 4377,
