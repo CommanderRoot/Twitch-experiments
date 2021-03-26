@@ -21241,7 +21241,7 @@
 	},
 	"facc04f2-2333-40d5-8257-d6ae21e350f2": {
 		"name": "android_pie_webview_fix",
-		"v": 14057,
+		"v": 14069,
 		"t": 1,
 		"groups": [
 			{
@@ -21253,8 +21253,12 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_10.5_2"
+			},
+			{
+				"weight": 100,
+				"value": "active_10.6"
 			}
 		]
 	},
