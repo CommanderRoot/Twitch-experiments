@@ -5204,7 +5204,7 @@
 	},
 	"3f25e02c-e0eb-49be-93ec-3a1e581df3b3": {
 		"name": "ios_theater_launch_jitter",
-		"v": 14071,
+		"v": 14078,
 		"t": 1,
 		"groups": [
 			{
@@ -5213,7 +5213,15 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_2"
+			},
+			{
+				"weight": 0,
+				"value": "active_5"
+			},
+			{
+				"weight": 0,
+				"value": "active_10"
 			}
 		]
 	},
@@ -19738,15 +19746,15 @@
 	},
 	"e639ba8d-1806-4a9a-90a5-7c6a8732196c": {
 		"name": "pushy_fulton_processor_rollout",
-		"v": 14075,
+		"v": 14079,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "holdout"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "rollout"
 			}
 		]
