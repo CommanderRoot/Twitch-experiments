@@ -718,6 +718,21 @@
 			}
 		]
 	},
+	"07bcbe5f-c504-46cc-ade4-3f8e5bd967b1": {
+		"name": "dart_iwdweek4_vwr_388_dav_cmc_lrn_mis_email_2103_en_holdout",
+		"v": 14076,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"07f69861-4bbe-4b74-a051-8d82274ac223": {
 		"name": "ios_game_broadcasting_top_nav",
 		"v": 12476,
