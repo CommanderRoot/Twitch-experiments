@@ -19723,15 +19723,15 @@
 	},
 	"e639ba8d-1806-4a9a-90a5-7c6a8732196c": {
 		"name": "pushy_fulton_processor_rollout",
-		"v": 14054,
+		"v": 14075,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "holdout"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "rollout"
 			}
 		]
