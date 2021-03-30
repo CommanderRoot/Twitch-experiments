@@ -15283,11 +15283,11 @@
 	},
 	"af347654-7848-4921-9af9-52979d715476": {
 		"name": "android_chevron_gifting",
-		"v": 14087,
+		"v": 14111,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 20,
 				"value": "control"
 			},
 			{
@@ -15295,7 +15295,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 80,
 				"value": "active_10.4"
 			}
 		]
