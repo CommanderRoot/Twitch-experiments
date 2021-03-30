@@ -8780,6 +8780,21 @@
 			}
 		]
 	},
+	"6609a9a1-b927-490f-9d7b-ce6df61a2786": {
+		"name": "ios_allow_modified_playback_rate",
+		"v": 14108,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "dont_allow"
+			},
+			{
+				"weight": 0,
+				"value": "allow"
+			}
+		]
+	},
 	"6699df7d-9f23-494c-87a1-06fdf80f1e68": {
 		"name": "twilight_video_card_updates",
 		"v": 3893,
