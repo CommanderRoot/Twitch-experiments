@@ -9754,6 +9754,21 @@
 			}
 		]
 	},
+	"71668081-ffe3-4324-af07-0837261e409d": {
+		"name": "dart_iwdweek4_vwr_388_dav_cmc_lrn_mis_email_2103_de_holdout",
+		"v": 14096,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"716ed1ba-6a09-486e-b160-860ebd21db41": {
 		"name": "ios_beyond_thunderdome",
 		"v": 12596,
@@ -20307,6 +20322,21 @@
 			{
 				"weight": 0,
 				"value": "active_v9.10"
+			}
+		]
+	},
+	"ed7311c3-c39d-4202-b6c6-90eb250e1b1c": {
+		"name": "dart_iwdweek4_vwr_388_dav_cmc_lrn_mis_email_2103_fr_holdout",
+		"v": 14097,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
