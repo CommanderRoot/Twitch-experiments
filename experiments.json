@@ -15609,6 +15609,21 @@
 			}
 		]
 	},
+	"b1dc7781-ac6b-4b86-8b49-007046dd52dc": {
+		"name": "ios_async_renderer",
+		"v": 14095,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "async"
+			}
+		]
+	},
 	"b1e472d8-eaa2-466b-a795-abc889726b8d": {
 		"name": "ios_broadcaster_dashboard",
 		"v": 6345,
