@@ -400,15 +400,15 @@
 	},
 	"0552780e-6483-43a9-8a1c-ad9907952487": {
 		"name": "ios_av_player_do_not_wait_to_minimize_stalling",
-		"v": 13601,
+		"v": 14112,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "default"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "dont_wait"
 			}
 		]
