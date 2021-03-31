@@ -20220,19 +20220,19 @@
 	},
 	"ebf2d443-d589-4ce6-bed0-783ac21db6af": {
 		"name": "android_player_abr_modes_2",
-		"v": 13950,
+		"v": 14122,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 6,
+				"weight": 0,
 				"value": "holdback"
 			},
 			{
-				"weight": 47,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 47,
+				"weight": 100,
 				"value": "abr_prefetch"
 			}
 		]
