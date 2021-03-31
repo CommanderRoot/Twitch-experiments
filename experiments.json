@@ -4425,6 +4425,21 @@
 			}
 		]
 	},
+	"34951071-7ee7-427b-9bc6-86d3895aef45": {
+		"name": "dart_giftcard_ctr_389_cmm_cmc_lrn_mis_email_2103_holdout",
+		"v": 14126,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"34d5f32d-b32c-4976-86ab-2ddfcc750d29": {
 		"name": "ios_nielsen",
 		"v": 6174,
@@ -18056,6 +18071,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"ceb9f32f-2ce2-4759-9333-1f5db983fb2b": {
+		"name": "dart_giftcard_vwr_389_cmm_cmc_buy_mis_oe_2103_holdout",
+		"v": 14127,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
