@@ -1097,11 +1097,11 @@
 	},
 	"0c8aec5f-c2ff-442d-802c-4c4de7a20e3e": {
 		"name": "android_multi_partner_ad_verification",
-		"v": 14124,
+		"v": 14135,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -1113,7 +1113,7 @@
 				"value": "active_9.12"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_10.1"
 			}
 		]
