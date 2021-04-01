@@ -21516,12 +21516,12 @@
 	},
 	"fb46a20b-d002-47f6-8c0e-4bb785c6ffa4": {
 		"name": "community-gifting-recommendation-v2.7",
-		"v": 14133,
+		"v": 14134,
 		"t": 2,
 		"s": 6,
 		"groups": [
 			{
-				"weight": 26,
+				"weight": 95,
 				"value": "control_2_6"
 			},
 			{
@@ -21529,15 +21529,15 @@
 				"value": "holdout_v1"
 			},
 			{
-				"weight": 23,
+				"weight": 0,
 				"value": "lower_cache"
 			},
 			{
-				"weight": 23,
+				"weight": 0,
 				"value": "online_boost"
 			},
 			{
-				"weight": 23,
+				"weight": 0,
 				"value": "boost_and_cache"
 			}
 		]
