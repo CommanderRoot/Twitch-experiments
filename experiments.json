@@ -18467,7 +18467,7 @@
 	},
 	"d3a39055-ceba-45b8-8b25-31b5eaf026c2": {
 		"name": "dart_fpso_gift_sub_reminder_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_201_holdout",
-		"v": 13672,
+		"v": 14132,
 		"t": 2,
 		"groups": [
 			{
@@ -21516,12 +21516,12 @@
 	},
 	"fb46a20b-d002-47f6-8c0e-4bb785c6ffa4": {
 		"name": "community-gifting-recommendation-v2.7",
-		"v": 14120,
+		"v": 14133,
 		"t": 2,
 		"s": 6,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 26,
 				"value": "control_2_6"
 			},
 			{
@@ -21529,15 +21529,15 @@
 				"value": "holdout_v1"
 			},
 			{
-				"weight": 0,
+				"weight": 23,
 				"value": "lower_cache"
 			},
 			{
-				"weight": 0,
+				"weight": 23,
 				"value": "online_boost"
 			},
 			{
-				"weight": 0,
+				"weight": 23,
 				"value": "boost_and_cache"
 			}
 		]
