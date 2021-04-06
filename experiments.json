@@ -13779,6 +13779,21 @@
 			}
 		]
 	},
+	"9c992007-2b96-4674-a3f8-b12f995ece7e": {
+		"name": "ios_email_verification_after_login",
+		"v": 14178,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "no_prompt"
+			},
+			{
+				"weight": 100,
+				"value": "show_prompt"
+			}
+		]
+	},
 	"9c9f5b2c-cbf9-4ab4-b408-7e44f08723ff": {
 		"name": "dart_rolling_loud_launch_091020_holdout",
 		"v": 11665,
