@@ -1163,6 +1163,21 @@
 			}
 		]
 	},
+	"0cd8095b-1c8b-40e0-a127-5461de86b631": {
+		"name": "ios_riddle_legacy",
+		"v": 14182,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active-phase1"
+			}
+		]
+	},
 	"0d57d58f-0d23-4249-b12d-b56dcd338483": {
 		"name": "ios_track_scheduled_ads",
 		"v": 13854,
@@ -12714,16 +12729,16 @@
 	},
 	"908f773c-2f95-4b0f-8745-aee0621a2b67": {
 		"name": "ios_riddle",
-		"v": 13757,
+		"v": 14181,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "legacy"
+				"value": "control"
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active-phase1"
 			}
 		]
 	},
@@ -18625,6 +18640,21 @@
 			{
 				"weight": 1,
 				"value": "active_9.2"
+			}
+		]
+	},
+	"d5c9f0d3-53b0-4197-a3a4-8774f753fd7a": {
+		"name": "dart_fpso_prime_remind_emea_vwr_47941_cmm_cmc_buy_mis_email_2104_holdout",
+		"v": 14183,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
