@@ -10317,7 +10317,7 @@
 	},
 	"748d708b-7edf-4134-a91f-830423e37cd0": {
 		"name": "android_watch_party_viewer",
-		"v": 14180,
+		"v": 14204,
 		"t": 1,
 		"groups": [
 			{
@@ -10325,7 +10325,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -10333,7 +10333,7 @@
 				"value": "active_10.5"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_10.6"
 			}
 		]
