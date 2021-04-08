@@ -5294,19 +5294,19 @@
 	},
 	"3f25e02c-e0eb-49be-93ec-3a1e581df3b3": {
 		"name": "ios_theater_launch_jitter",
-		"v": 14078,
+		"v": 14209,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_2"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_5"
 			},
 			{
@@ -5738,6 +5738,29 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"42b61497-c418-49b2-92d8-f9debf73ca4f": {
+		"name": "android_theater_launch_jitter",
+		"v": 14208,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_2"
+			},
+			{
+				"weight": 0,
+				"value": "active_5"
+			},
+			{
+				"weight": 0,
+				"value": "active_10"
 			}
 		]
 	},
