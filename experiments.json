@@ -2123,6 +2123,21 @@
 			}
 		]
 	},
+	"192e7b64-e3af-4292-a405-3dfad6bfd6b2": {
+		"name": "dart_kortwitchrivalsdeadbydaylight_vwr_0_dav_cmc_wch_gmg_push_2104_holdout",
+		"v": 14199,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"198744b6-e96f-413b-aaf6-eab0128c9833": {
 		"name": "signup_redirect_search",
 		"v": 2153,
@@ -12349,6 +12364,21 @@
 			}
 		]
 	},
+	"8cd19976-40be-47fa-b09f-14955459235e": {
+		"name": "dart_anzstreamerbattleapril2021v1gamefollowers_vwr_0_dav_cmc_wch_gmg_email_2104_holdout",
+		"v": 14201,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8ce5b50b-429b-4c20-a0f3-1b22eb577673": {
 		"name": "ios_rollout_vod_uploads",
 		"v": 804,
@@ -14266,6 +14296,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"a1ad2787-2734-4a8f-a303-c2f7049ba477": {
+		"name": "dart_anzstreamerbattleapril2021v2channelfollowers_vwr_0_dav_cmc_wch_gmg_email_2104_holdout",
+		"v": 14200,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
