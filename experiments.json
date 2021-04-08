@@ -860,16 +860,16 @@
 	},
 	"099b22e6-a720-43bc-9341-a2b6f7f99df3": {
 		"name": "android_edit_profile_change_names",
-		"v": 13597,
+		"v": 14205,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_development"
+				"weight": 100,
+				"value": "active_10.6"
 			}
 		]
 	},
