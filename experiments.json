@@ -22194,16 +22194,16 @@
 	},
 	"ffe656cb-149b-4618-942d-5ffa0d48795a": {
 		"name": "zoltar_model",
-		"v": 13718,
+		"v": 14216,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 50,
 				"value": "TreatmentControl"
 			},
 			{
-				"weight": 1,
-				"value": "TreatmentModelV0"
+				"weight": 50,
+				"value": "TreatmentModelV1"
 			}
 		]
 	}
