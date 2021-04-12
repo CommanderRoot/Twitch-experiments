@@ -5637,15 +5637,15 @@
 	},
 	"41fd8b35-b0cd-498b-b866-2b621594c7b2": {
 		"name": "ios_mgst_ivs_game_broadcast",
-		"v": 13151,
+		"v": 14236,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			}
 		]
