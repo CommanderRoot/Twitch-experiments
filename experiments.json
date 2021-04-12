@@ -17668,6 +17668,21 @@
 			}
 		]
 	},
+	"c8964da4-7bfb-49dc-9298-e244009569b7": {
+		"name": "ios_1080p_broadcasting",
+		"v": 14238,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"c89c0dae-5355-4765-b97a-5dd499e85245": {
 		"name": "ios_playercore",
 		"v": 13453,
