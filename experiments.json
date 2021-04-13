@@ -5758,19 +5758,19 @@
 	},
 	"42b61497-c418-49b2-92d8-f9debf73ca4f": {
 		"name": "android_theater_launch_jitter",
-		"v": 14208,
+		"v": 14249,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_2"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_5"
 			},
 			{
@@ -22180,6 +22180,21 @@
 	"ff634def-1c77-4a02-a287-eef069fedcda": {
 		"name": "dart_tr_valorant_latam_holdout",
 		"v": 10088,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"ffcc37db-72ff-4e7c-b495-e342a8c53291": {
+		"name": "dart_wildrift_vwr_397_dav_cmc_wch_gmg_push_2104_holdout",
+		"v": 14248,
 		"t": 2,
 		"groups": [
 			{
