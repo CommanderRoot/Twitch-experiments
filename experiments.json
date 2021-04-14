@@ -20704,7 +20704,7 @@
 	},
 	"ee00dc45-05df-439e-996b-4b93e52e88a4": {
 		"name": "ios_international_pricing_education_phase_1",
-		"v": 14251,
+		"v": 14252,
 		"t": 1,
 		"groups": [
 			{
@@ -20712,7 +20712,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -20720,7 +20720,7 @@
 				"value": "active-10.4"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active-testflight"
 			}
 		]
