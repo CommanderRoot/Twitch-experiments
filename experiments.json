@@ -1955,7 +1955,7 @@
 	},
 	"16ce8f8c-f201-4c4b-8064-e67bb50b3dc2": {
 		"name": "dart_jpcreatordiscoveryapr2021xjasper7se_vwr_0_dav_cmc_wch_gmg_emailpush_2104_email",
-		"v": 14260,
+		"v": 14269,
 		"t": 2,
 		"groups": [
 			{
@@ -10610,6 +10610,21 @@
 			{
 				"weight": 0,
 				"value": "disabled"
+			}
+		]
+	},
+	"7681a879-f3eb-4e7b-b3cc-7df3ab1913bd": {
+		"name": "dart_jpcreatordiscoveryapr2021xjasper7se_vwr_0_dav_cmc_wch_gmg_emailpush_2104_holdout",
+		"v": 14268,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
