@@ -2977,6 +2977,21 @@
 			}
 		]
 	},
+	"22fdae43-ffc2-427f-998f-3365c8d63474": {
+		"name": "ios_partial_success",
+		"v": 14291,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "auto_resolve"
+			}
+		]
+	},
 	"2322f3a0-d84b-40a1-9b06-05c956c8a6e8": {
 		"name": "dart_Fortnite_Galileo_Event_holdout",
 		"v": 8909,
