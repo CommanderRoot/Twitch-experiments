@@ -11143,6 +11143,21 @@
 			}
 		]
 	},
+	"7c948ec3-a7ad-4e8d-9801-3f82751c57a4": {
+		"name": "dart_firsttimebitslatam_vwr_47941_cmm_cmc_buy_mis_email_2104_holdout",
+		"v": 14288,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7c9bbf35-a1b6-4be6-b266-a2df434e3e37": {
 		"name": "ios_player_loaded_event",
 		"v": 11505,
