@@ -613,6 +613,21 @@
 			}
 		]
 	},
+	"067d84e4-36bb-4cd1-a912-cfbb0527ee73": {
+		"name": "android_socket_tls_12",
+		"v": 14281,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active_10.7"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"069be213-3e0e-49af-83fc-70dc82277146": {
 		"name": "android_mgst_profile_image_upload",
 		"v": 8957,
