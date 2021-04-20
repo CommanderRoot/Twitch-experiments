@@ -6200,6 +6200,25 @@
 			}
 		]
 	},
+	"4768e2ea-7d46-431e-94fe-37132f0d0f40": {
+		"name": "android_following_full_bleed",
+		"v": 14305,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "all_full"
+			},
+			{
+				"weight": 1,
+				"value": "two_full"
+			}
+		]
+	},
 	"47dc3b2f-05ac-43c9-9e94-1b8277d81ae6": {
 		"name": "dart_logic_push_holdout",
 		"v": 10959,
@@ -12239,7 +12258,7 @@
 	},
 	"88dca935-5b77-4a6f-97c2-b999cb914b4f": {
 		"name": "ios_stitched_ad_device_type_targeting",
-		"v": 13325,
+		"v": 14307,
 		"t": 1,
 		"groups": [
 			{
@@ -18653,7 +18672,7 @@
 	},
 	"d18a60de-d915-4ba7-b955-c9b4ceb35c63": {
 		"name": "android_surestream_device_targeting",
-		"v": 13051,
+		"v": 14308,
 		"t": 1,
 		"groups": [
 			{
@@ -20821,7 +20840,7 @@
 	},
 	"ed5c8bc3-84b6-4baa-beac-a05c2dae1ee4": {
 		"name": "ios_vaes_device_type_targeting",
-		"v": 12632,
+		"v": 14306,
 		"t": 1,
 		"groups": [
 			{
