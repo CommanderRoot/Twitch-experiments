@@ -1180,7 +1180,7 @@
 	},
 	"0cd8095b-1c8b-40e0-a127-5461de86b631": {
 		"name": "ios_riddle_legacy",
-		"v": 14182,
+		"v": 14332,
 		"t": 1,
 		"groups": [
 			{
@@ -1190,6 +1190,14 @@
 			{
 				"weight": 0,
 				"value": "active-phase1"
+			},
+			{
+				"weight": 0,
+				"value": "active-phase2"
+			},
+			{
+				"weight": 0,
+				"value": "active-phase3"
 			}
 		]
 	},
