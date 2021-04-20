@@ -8764,15 +8764,15 @@
 	},
 	"63a0ba43-12a3-46ff-8727-8991319b9c3d": {
 		"name": "android_device_targeting_parameters",
-		"v": 14309,
+		"v": 14315,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
@@ -12258,15 +12258,15 @@
 	},
 	"88dca935-5b77-4a6f-97c2-b999cb914b4f": {
 		"name": "ios_stitched_ad_device_type_targeting",
-		"v": 14307,
+		"v": 14310,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v10.2"
 			}
 		]
@@ -18672,15 +18672,15 @@
 	},
 	"d18a60de-d915-4ba7-b955-c9b4ceb35c63": {
 		"name": "android_surestream_device_targeting",
-		"v": 14308,
+		"v": 14314,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
@@ -20840,15 +20840,15 @@
 	},
 	"ed5c8bc3-84b6-4baa-beac-a05c2dae1ee4": {
 		"name": "ios_vaes_device_type_targeting",
-		"v": 14306,
+		"v": 14312,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v9.10"
 			}
 		]
