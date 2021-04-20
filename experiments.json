@@ -12823,7 +12823,7 @@
 	},
 	"8f73cc11-ccd3-4fce-a2b6-cad8326f6b15": {
 		"name": "promotions_eVPR_relevancy",
-		"v": 14328,
+		"v": 14330,
 		"t": 2,
 		"groups": [
 			{
@@ -12831,11 +12831,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 70,
+				"weight": 60,
 				"value": "HP_Variant0"
 			},
 			{
-				"weight": 15,
+				"weight": 25,
 				"value": "HP_Variant1"
 			},
 			{
