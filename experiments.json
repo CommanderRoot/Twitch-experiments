@@ -22343,6 +22343,21 @@
 			}
 		]
 	},
+	"fd943504-3ed1-4f7f-8bc4-4c0f5ad6a584": {
+		"name": "ios_predictions_mod_mode",
+		"v": 14348,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"fde76f29-f060-4893-96db-378c35384af3": {
 		"name": "android_chat_input_follower",
 		"v": 5786,
