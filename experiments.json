@@ -2883,6 +2883,21 @@
 			}
 		]
 	},
+	"217019f8-ffb2-4748-83ed-14baff03f49f": {
+		"name": "dart_thtwbobacupapr2021thailand_vwr_0_dav_cmc_wch_gmg_push_2104_holdout",
+		"v": 14336,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"218acff9-67f7-459f-9f3e-d9b41238e761": {
 		"name": "ht_celeb_experiment",
 		"v": 13961,
