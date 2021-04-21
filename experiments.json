@@ -5643,6 +5643,21 @@
 			}
 		]
 	},
+	"413713c5-59fe-49b7-b13b-951d655ed424": {
+		"name": "dart_thtwbobacupapr2021taiwan_vwr_0_dav_cmc_wch_gmg_push_2104_holdout",
+		"v": 14339,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4146db1d-102d-49f7-a185-7c2d3d3b0126": {
 		"name": "mobile_native_savant_test_experiment",
 		"v": 9189,
@@ -9187,6 +9202,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"67af59b3-393a-4f60-bf59-597ea3e80735": {
+		"name": "dart_thtwbobacupapr2021thailandparticipantfollowers_vwr_0_dav_cmc_flw_gmg_email_2104_holdout",
+		"v": 14338,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -22503,6 +22533,21 @@
 			{
 				"weight": 50,
 				"value": "TreatmentModelV1"
+			}
+		]
+	},
+	"fff42395-ada3-4891-8fd9-994d89be4057": {
+		"name": "dart_thtwbobacupapr2021taiwanparticipantfollowers_vwr_0_dav_cmc_flw_gmg_email_2104_holdout",
+		"v": 14340,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	}
