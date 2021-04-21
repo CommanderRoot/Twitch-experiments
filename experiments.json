@@ -6347,21 +6347,6 @@
 			}
 		]
 	},
-	"48cd924e-c7bb-4253-b2a6-5c5ce9d9ea0f": {
-		"name": "android_om_vaes_enabled",
-		"v": 8327,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"49083595-80d4-4c13-93a2-20a605b3318e": {
 		"name": "Player Core WASM experiment",
 		"v": 6558,
@@ -13083,7 +13068,7 @@
 	},
 	"908f773c-2f95-4b0f-8745-aee0621a2b67": {
 		"name": "ios_riddle",
-		"v": 14181,
+		"v": 14351,
 		"t": 1,
 		"groups": [
 			{
@@ -13093,6 +13078,10 @@
 			{
 				"weight": 0,
 				"value": "active-phase1"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
