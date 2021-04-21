@@ -8276,6 +8276,21 @@
 			}
 		]
 	},
+	"5dc28d53-2506-4579-b054-a063df0449f5": {
+		"name": "android_availability_tracking",
+		"v": 14349,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "active"
+			}
+		]
+	},
 	"5de3e4c7-c788-4b1b-b0d0-3f8c4d67078a": {
 		"name": "android_nielsen_s2s",
 		"v": 8202,
