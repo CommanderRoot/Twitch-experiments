@@ -2691,6 +2691,21 @@
 			}
 		]
 	},
+	"1f5e7a6a-d8ee-489e-bd87-f33e89949756": {
+		"name": "dart_jpcreatordiscoveryapr2021xsasatikk_vwr_0_dav_cmc_wch_gmg_email_2104_holdout",
+		"v": 14379,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"200155b1-6169-40ee-b726-a668b513249a": {
 		"name": "android_ads_identity_minimum_registration_hour_interval",
 		"v": 12961,
@@ -9352,6 +9367,21 @@
 			{
 				"weight": 50,
 				"value": "bf_exp"
+			}
+		]
+	},
+	"68ede922-ea95-42e4-b036-26b1c4e6a636": {
+		"name": "dart_jpcreatordiscoveryapr2021xsasatikk_vwr_0_dav_cmc_wch_gmg_email_2104_email",
+		"v": 14380,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
