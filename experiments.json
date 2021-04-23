@@ -7803,6 +7803,21 @@
 			}
 		]
 	},
+	"590670a5-c408-40e9-87c9-f73107bb4e9d": {
+		"name": "dart_jpcreatordiscoveryapr2021xsutanmi_vwr_0_dav_cmc_wch_gmg_email_2104_holdout",
+		"v": 14377,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"59367bd9-a62d-491f-8fca-f0e9618a52cf": {
 		"name": "dart_nobru_has_arrived_notification_active_notifs_off_holdout",
 		"v": 10021,
@@ -14307,6 +14322,21 @@
 			{
 				"weight": 0,
 				"value": "variant_b"
+			}
+		]
+	},
+	"9d5e2dcf-17da-4702-8456-21dce2409680": {
+		"name": "dart_jpcreatordiscoveryapr2021xsutanmi_vwr_0_dav_cmc_wch_gmg_email_2104_email",
+		"v": 14378,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
