@@ -13673,6 +13673,21 @@
 			}
 		]
 	},
+	"97a8c1d3-f5ca-4b06-9664-1d8a3469a37d": {
+		"name": "support_panel",
+		"v": 14396,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"97c409b4-6222-441e-8dea-6306e8cb85df": {
 		"name": "dart_new_d7_top_streamers_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14153,
