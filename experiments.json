@@ -21816,15 +21816,15 @@
 	},
 	"f7249add-1ab5-408a-a019-c854bd7807a6": {
 		"name": "subscription_modal_variants",
-		"v": 14145,
+		"v": 14387,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "multimonth_selector"
 			},
 			{
