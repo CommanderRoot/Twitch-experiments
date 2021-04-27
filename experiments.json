@@ -3746,21 +3746,6 @@
 			}
 		]
 	},
-	"2b639910-796b-498d-bca5-6a748d9fd1cd": {
-		"name": "ios_resub_notices",
-		"v": 6674,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "enabled"
-			},
-			{
-				"weight": 0,
-				"value": "disabled"
-			}
-		]
-	},
 	"2b6b86ea-9574-4da9-9808-c4498a8d25e6": {
 		"name": "ios_community_highlights",
 		"v": 11893,
@@ -12549,21 +12534,6 @@
 			}
 		]
 	},
-	"8ac7139f-9f7f-4611-8a74-8c2a9b23274c": {
-		"name": "checkout_sub_creator_benefits",
-		"v": 11668,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "experiment"
-			}
-		]
-	},
 	"8ace0f50-8afd-424a-a086-3e61b3e66da0": {
 		"name": "MESSAGE_HISTORY",
 		"v": 811,
@@ -16417,21 +16387,6 @@
 			},
 			{
 				"weight": 98,
-				"value": "control"
-			}
-		]
-	},
-	"b2b551bb-4b1f-4699-a158-575a66b0c9de": {
-		"name": "show_gift_button_top_of_sub_modal",
-		"v": 12870,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "experiment"
-			},
-			{
-				"weight": 0,
 				"value": "control"
 			}
 		]
