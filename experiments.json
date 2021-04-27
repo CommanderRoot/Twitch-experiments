@@ -21525,6 +21525,21 @@
 			}
 		]
 	},
+	"f2513d33-8c40-42ac-97c6-95a2772b433a": {
+		"name": "ios_omsdk_verification_injection_for_ss",
+		"v": 14402,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_v10.8"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"f282fcba-1878-4de4-8fa7-dbd9be60842b": {
 		"name": "ios_community_challenges",
 		"v": 12070,
