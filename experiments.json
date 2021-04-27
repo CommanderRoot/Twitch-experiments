@@ -21422,7 +21422,7 @@
 	},
 	"f1ac4217-af7f-403e-adba-4bf485eedda3": {
 		"name": "android_mgst_ivs_system_audio",
-		"v": 14352,
+		"v": 14420,
 		"t": 2,
 		"groups": [
 			{
@@ -21432,6 +21432,10 @@
 			{
 				"weight": 0,
 				"value": "active_10.7"
+			},
+			{
+				"weight": 0,
+				"value": "active_10.7_mic_volume_only"
 			}
 		]
 	},
