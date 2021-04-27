@@ -17018,21 +17018,6 @@
 			}
 		]
 	},
-	"ba473bec-1ad3-4b55-9b3e-fdc002ba695c": {
-		"name": "twilight_prime_sub_credit_api_wexit",
-		"v": 3644,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "treatment"
-			}
-		]
-	},
 	"ba578265-3f9d-4216-936b-c3f9a2c08758": {
 		"name": "dart_viewer_cp2077_twitchgaming_101520_email",
 		"v": 12090,
@@ -21172,21 +21157,6 @@
 			{
 				"weight": 1,
 				"value": "active-testflight"
-			}
-		]
-	},
-	"ee491c3c-d6f7-4f00-8c53-c630dfa10f41": {
-		"name": "twilight_mobile_subs_tier_names",
-		"v": 3116,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "price"
-			},
-			{
-				"weight": 0,
-				"value": "name"
 			}
 		]
 	},
