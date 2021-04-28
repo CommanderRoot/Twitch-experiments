@@ -3047,16 +3047,16 @@
 	},
 	"230430a9-3595-47c5-ac63-34bd1c896f5b": {
 		"name": "ios_display_ads_enabled",
-		"v": 14459,
+		"v": 14461,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active"
+				"weight": 100,
+				"value": "active_beta"
 			}
 		]
 	},
@@ -8376,15 +8376,15 @@
 	},
 	"5e644699-aa41-48ef-9af4-a04578d2912c": {
 		"name": "Zoltar Android",
-		"v": 13747,
+		"v": 14462,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
