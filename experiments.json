@@ -8376,15 +8376,15 @@
 	},
 	"5e644699-aa41-48ef-9af4-a04578d2912c": {
 		"name": "Zoltar Android",
-		"v": 14467,
+		"v": 14469,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
