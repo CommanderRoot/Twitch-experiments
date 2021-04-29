@@ -3486,6 +3486,21 @@
 			}
 		]
 	},
+	"275cc403-c5c5-47ff-9e9f-4810508a07ee": {
+		"name": "dart_multi_mont_emea_vwr_325_cmm_cmc_buy_mis_email_2104_holdout",
+		"v": 14497,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"286aa215-8f95-4f9d-86f0-232fb96ec4f0": {
 		"name": "ios_latency_tracking",
 		"v": 6477,
