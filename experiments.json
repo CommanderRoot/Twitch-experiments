@@ -628,6 +628,21 @@
 			}
 		]
 	},
+	"069fe06c-97b2-4902-b102-c84a8dea3310": {
+		"name": "dart_multi_month_latam_vwr_325_cmm_cmc_buy_mis_email_2104_holdout",
+		"v": 14494,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"06aa0a5e-01f5-480d-8596-6bcf73a93ffe": {
 		"name": "android_email_settings",
 		"v": 9147,
@@ -10712,6 +10727,21 @@
 			{
 				"weight": 0,
 				"value": "magic"
+			}
+		]
+	},
+	"75422b3d-d9fc-411f-af43-3c50777f4cf1": {
+		"name": "dart_multi_monthapac_vwr_325_cmm_cmc_buy_mis_email_2104_holdout",
+		"v": 14493,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
