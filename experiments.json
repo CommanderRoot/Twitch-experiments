@@ -8366,6 +8366,21 @@
 			}
 		]
 	},
+	"5e4499c2-1a1b-44f3-b469-2a60dac13edd": {
+		"name": "dart_multi_monthemea_vwr_325_cmm_cmc_buy_mis_email_2104_holdout",
+		"v": 14495,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5e532f0e-a835-44bf-9349-bd5cd2b6a416": {
 		"name": "ios_reward_exp",
 		"v": 3290,
@@ -20707,6 +20722,21 @@
 			{
 				"weight": 50,
 				"value": "active"
+			}
+		]
+	},
+	"e805722c-bab6-47da-bb98-9209c9bbff70": {
+		"name": "dart_multi_monthen_vwr_325_cmm_cmc_buy_mis_email_2104_holdout",
+		"v": 14496,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
