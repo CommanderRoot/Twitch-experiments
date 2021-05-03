@@ -3889,6 +3889,21 @@
 			}
 		]
 	},
+	"2c206c37-927b-4a55-bb2b-ddae747c138b": {
+		"name": "dart_decider_nrs_a_b_rollout",
+		"v": 14530,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "rollout"
+			}
+		]
+	},
 	"2c8a55a3-f93a-4d1d-b767-d60b01e2ce29": {
 		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13580,
