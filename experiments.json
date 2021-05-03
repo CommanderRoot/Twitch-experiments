@@ -4600,7 +4600,7 @@
 	},
 	"34d5f32d-b32c-4976-86ab-2ddfcc750d29": {
 		"name": "ios_nielsen",
-		"v": 6174,
+		"v": 14521,
 		"t": 1,
 		"groups": [
 			{
@@ -9986,15 +9986,15 @@
 	},
 	"6e32819f-69cf-4c6d-92e3-0aceb7c38501": {
 		"name": "android_nielsen",
-		"v": 14488,
+		"v": 14520,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 80,
 				"value": "active"
 			}
 		]
