@@ -2488,6 +2488,21 @@
 			}
 		]
 	},
+	"1b9b249a-2af9-48ff-a1fd-bd5369d42556": {
+		"name": "android_split_ad_from_vod_player_presenter",
+		"v": 14531,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"1bca04fa-2aa1-4694-891b-c5a7417260b4": {
 		"name": "clips_dont_mind_me",
 		"v": 2434,
