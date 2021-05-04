@@ -17443,6 +17443,21 @@
 			}
 		]
 	},
+	"be9f64b5-d56f-4ea2-8590-cc854d259c8c": {
+		"name": "android_reduce_deeplink_friction_to_fmp",
+		"v": 14538,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_development"
+			}
+		]
+	},
 	"bedf8bc9-4f70-4e84-a49c-892f4f3d8d76": {
 		"name": "dart_new_d5_top_games_v2_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 12601,
