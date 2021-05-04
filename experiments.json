@@ -4646,15 +4646,15 @@
 	},
 	"34d5f32d-b32c-4976-86ab-2ddfcc750d29": {
 		"name": "ios_nielsen",
-		"v": 14522,
+		"v": 14543,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "active_v2"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "control"
 			}
 		]
