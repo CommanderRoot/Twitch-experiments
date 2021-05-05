@@ -8516,15 +8516,15 @@
 	},
 	"5e644699-aa41-48ef-9af4-a04578d2912c": {
 		"name": "android_zoltar",
-		"v": 14549,
+		"v": 14572,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
