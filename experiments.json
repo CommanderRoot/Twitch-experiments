@@ -17117,6 +17117,21 @@
 			}
 		]
 	},
+	"b80b4c99-86a1-4588-82c0-57fb314fa2de": {
+		"name": "creatorhome_preaffiliates_experience",
+		"v": 14581,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "variant"
+			}
+		]
+	},
 	"b861f08c-2148-4375-9e1b-6753d7895572": {
 		"name": "dart_hitthelabseven_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13559,
