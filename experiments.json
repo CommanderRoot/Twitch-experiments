@@ -15161,6 +15161,21 @@
 			}
 		]
 	},
+	"a5273f61-a730-4711-9679-10d67168dd6e": {
+		"name": "android_gql_cloudflare_bot_score_tracking",
+		"v": 14569,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"a56dc778-8f45-4c9e-8403-79ba4c84f881": {
 		"name": "navi_fulton_test",
 		"v": 12936,
