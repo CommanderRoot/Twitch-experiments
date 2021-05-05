@@ -21540,6 +21540,21 @@
 			}
 		]
 	},
+	"ef91d6ac-cd56-4843-a398-1f0e1406d692": {
+		"name": "dart_ecommedfpsogiftsublifecycle1_vwr_412_sbs_cmc_sub_mis_email_2105_fr_holdout",
+		"v": 14563,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"efaa5444-36e4-4775-8b6d-5ab64f921bbc": {
 		"name": "liverecs_holdout_v2",
 		"v": 13969,
