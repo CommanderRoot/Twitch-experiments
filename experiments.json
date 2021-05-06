@@ -2627,6 +2627,21 @@
 			}
 		]
 	},
+	"1d8c0cdd-2650-461c-88be-627710850df9": {
+		"name": "dart_residentevil_vwr_409_dav_cmc_wch_gmg_peo_2105_holdout",
+		"v": 14587,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1dc56b20-6d61-4a53-a087-727efafe06d8": {
 		"name": "sunlight_new_user",
 		"v": 6644,
@@ -19497,6 +19512,21 @@
 			{
 				"weight": 0,
 				"value": "off"
+			}
+		]
+	},
+	"d47ee6d2-c868-4114-b82c-3097b0c88392": {
+		"name": "dart_residentevil2_vwr_409_dav_cmc_wch_gmg_peo_2105_holdout",
+		"v": 14588,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
