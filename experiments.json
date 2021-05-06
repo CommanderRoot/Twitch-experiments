@@ -5196,6 +5196,21 @@
 			}
 		]
 	},
+	"3b0d699e-36c3-4676-ad0d-74c56eaef4a8": {
+		"name": "dart_fpso_prime_reminder_emea_vwr_47941_cmm_cmc_buy_mis_email_2104_holdout",
+		"v": 14599,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3b21f139-419e-4ec8-8923-6da5b05697f0": {
 		"name": "ios_nielsen_s2s",
 		"v": 8366,
