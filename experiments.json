@@ -3846,6 +3846,21 @@
 			}
 		]
 	},
+	"2b172d1a-d7b0-4f94-a215-2e7f29515b99": {
+		"name": "dart_ecommedfpsogiftsublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_it_holdout",
+		"v": 14610,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2b5c426e-3b29-4bad-a4be-5f8bea3ad8af": {
 		"name": "baking_bread_j",
 		"v": 2771,
@@ -17398,6 +17413,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"ba867bcb-386b-46e1-8165-d929360d0481": {
+		"name": "dart_ecommedfpsogiftsublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_es_holdout",
+		"v": 14609,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
