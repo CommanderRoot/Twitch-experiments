@@ -19258,7 +19258,7 @@
 	},
 	"cf88d09d-53c6-4054-992c-f77e7035685a": {
 		"name": "android_lower_bits_sku_50",
-		"v": 14601,
+		"v": 14616,
 		"t": 2,
 		"groups": [
 			{
@@ -19267,7 +19267,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_50-bits"
 			}
 		]
 	},
@@ -19613,6 +19613,25 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"d3de7921-6f17-4a7f-affd-09c6a7279a5a": {
+		"name": "android_lower_bits_sku_25_30",
+		"v": 14617,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_30-bits"
+			},
+			{
+				"weight": 0,
+				"value": "active_25-bits"
 			}
 		]
 	},
