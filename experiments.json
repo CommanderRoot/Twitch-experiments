@@ -6931,6 +6931,21 @@
 			}
 		]
 	},
+	"4c11d69d-64f3-4b2a-a5f3-81f5ab253310": {
+		"name": "dart_ecommedfpsogiftsublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_de_holdout",
+		"v": 14611,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4d15d30b-4a56-49f2-8943-64cc6d9c4274": {
 		"name": "dart_new_d3_top_streams_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14427,
@@ -19214,6 +19229,21 @@
 	"cf115fa2-e2d3-46e0-a5f9-ed8c9a8a12f2": {
 		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14478,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"cf691198-8fe1-49c3-a2cd-bc3fe46a30a0": {
+		"name": "dart_ecommedfpsogiftsublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_fr_holdout",
+		"v": 14612,
 		"t": 2,
 		"groups": [
 			{
