@@ -2657,6 +2657,21 @@
 			}
 		]
 	},
+	"1e126ebd-1d8d-45fd-ae14-0d076b06fd22": {
+		"name": "dart_ecommedfpsoprimesublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_it_holdout",
+		"v": 14606,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1e4f6a7b-b651-4f3e-95bb-aeaadeeeea68": {
 		"name": "ios_truffle_hunt",
 		"v": 9046,
@@ -13873,6 +13888,21 @@
 			}
 		]
 	},
+	"96a5b940-9bad-49e7-9961-6841c17cc26e": {
+		"name": "dart_ecommedfpsoprimesublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_fr_holdout",
+		"v": 14608,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"972d3986-543b-4e75-b690-ddcc73073510": {
 		"name": "ios_ad_pbyp",
 		"v": 8791,
@@ -14839,6 +14869,21 @@
 			{
 				"weight": 100,
 				"value": "unified"
+			}
+		]
+	},
+	"a0182907-4ddc-48a3-877c-ffdd8f27b963": {
+		"name": "dart_ecommedfpsoprimesublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_de_holdout",
+		"v": 14607,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
