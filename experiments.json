@@ -19121,6 +19121,21 @@
 			}
 		]
 	},
+	"cf88d09d-53c6-4054-992c-f77e7035685a": {
+		"name": "android_lower_bits_sku_50",
+		"v": 14601,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"cf91e619-8d8b-486f-83a3-13db61bfbfaf": {
 		"name": "bits_top_nav_explanation ",
 		"v": 12127,
