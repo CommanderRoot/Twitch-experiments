@@ -1022,7 +1022,7 @@
 	},
 	"0a7548e2-bcb5-4f0d-b29d-3c9ea2aaff8f": {
 		"name": "dart_escapefromtarkovrivals_vwr_415_dav_cmc_wch_gmg_email_2105_holdout",
-		"v": 14648,
+		"v": 14649,
 		"t": 2,
 		"groups": [
 			{
@@ -21092,6 +21092,21 @@
 			{
 				"weight": 1,
 				"value": "control"
+			}
+		]
+	},
+	"e5174135-e7ea-4f0b-9528-d56c6dc0140f": {
+		"name": "dart_escapefromtarkovrivals_vwr_415_dav_cmc_wch_gmg_email_2105_ru_holdout",
+		"v": 14650,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
