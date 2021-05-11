@@ -5322,16 +5322,20 @@
 	},
 	"3bdc18d8-11c2-4c47-9873-9baa57368a45": {
 		"name": "android_player_core_ad_playback",
-		"v": 13231,
+		"v": 14661,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 50,
+				"value": "active_10.9"
 			}
 		]
 	},
@@ -17300,8 +17304,9 @@
 	},
 	"b80b4c99-86a1-4588-82c0-57fb314fa2de": {
 		"name": "creatorhome_preaffiliates_experience",
-		"v": 14581,
+		"v": 14662,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 50,
