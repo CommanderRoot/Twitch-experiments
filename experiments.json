@@ -2023,7 +2023,7 @@
 	},
 	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
 		"name": "enable_live_sorting",
-		"v": 6604,
+		"v": 14642,
 		"t": 1,
 		"groups": [
 			{
@@ -2035,11 +2035,11 @@
 				"value": "control5"
 			},
 			{
-				"weight": 89,
+				"weight": 90,
 				"value": "qos_peering"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "qos_prefilter"
 			}
 		]
