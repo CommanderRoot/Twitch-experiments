@@ -1854,6 +1854,25 @@
 			}
 		]
 	},
+	"1574b000-7a17-4807-bb00-04afebf3926f": {
+		"name": "iOS_verification_at_sign_up",
+		"v": 14654,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "variant_1"
+			},
+			{
+				"weight": 0,
+				"value": "variant_2"
+			},
+			{
+				"weight": 0,
+				"value": "variant_3"
+			}
+		]
+	},
 	"158b4a89-454f-496c-aa2d-646886c43ec4": {
 		"name": "ios_discover",
 		"v": 4209,
@@ -17749,8 +17768,8 @@
 		]
 	},
 	"be9f64b5-d56f-4ea2-8590-cc854d259c8c": {
-		"name": "android_reduce_friction_to_fmp",
-		"v": 14548,
+		"name": "android_stream_preloader_for_deeplink_to_live_theater",
+		"v": 14652,
 		"t": 1,
 		"groups": [
 			{
@@ -17759,7 +17778,7 @@
 			},
 			{
 				"weight": 100,
-				"value": "active_development"
+				"value": "active"
 			}
 		]
 	},
