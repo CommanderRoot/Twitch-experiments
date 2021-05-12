@@ -8424,6 +8424,21 @@
 			}
 		]
 	},
+	"5c29076a-ea6b-4627-ad91-e0e903484dd9": {
+		"name": "new_hermes_rollout",
+		"v": 14664,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"5c49f527-dae1-4735-85a4-af5e899feaa8": {
 		"name": "dart_landofrozenannounce_vwr_377_flw_cmc_flw_gmg_email_2102_holdout",
 		"v": 13686,
