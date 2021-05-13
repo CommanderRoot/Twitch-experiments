@@ -7180,6 +7180,21 @@
 			}
 		]
 	},
+	"4e499fbd-c689-4fff-af4c-c03c43a5479e": {
+		"name": "dart_twanewsletter_ctr_400_awa_cmc_sup_mis_email_2105_holdout",
+		"v": 14685,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
+				"value": "allowed"
+			}
+		]
+	},
 	"4e9d0a3c-4f43-4817-8db4-ac060fc32b74": {
 		"name": "latency_component_instrumentation",
 		"v": 1579,
