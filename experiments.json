@@ -13189,6 +13189,21 @@
 			}
 		]
 	},
+	"8dad3a94-23fe-40e2-8dd1-efe3a3cf4852": {
+		"name": "ios_channel_content_ad_metadata_enabled",
+		"v": 14676,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v10.9"
+			}
+		]
+	},
 	"8db2fa80-a33d-4826-93bc-375a776fbfea": {
 		"name": "android_readable_chat_color",
 		"v": 9873,
