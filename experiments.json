@@ -6926,12 +6926,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 14672,
+		"v": 14687,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-ac6856.pdx01.abs.hls.ttvnw.net/v1/segment/ClQqzGLcl_AAfbhMd-r4_Pq7Ru50eWolsYnevNvMc8yhSZKGjzGCtJZ4WO2m_aLAdkzWtadKshtlMcP5VPbtgkRXyIJoKz5ipYszaScvVBbzh8tqDS7gCGGyUTE18MVGCduqE_8U-ylkw1wmy8WAaGRNcAcFXR13kI86up5x9IfXSmyYrFb-N7-WZpe_38Z2DbU2ZpOjnU75HkdEsDoiKeORT9Q_AX4dDxDvz6o-khQQcX0sxXBU0a4LZy_hL6YtcRXt2nGJAEKwY37Ow1hP-V5FEQcSHmZ5zeUCTgrHd4XaFHDWko7UXYWonJkiAyRDvcOCaY1GlxakS0GQTds_WFKKxcWtgBR58oqenMUqrJHKPbhARgwtjQTVAZq_2M3zoB7gXKw3wYhC3I2f3NbI-3Bcs5UHDrTx1byAVGgjdKXCrCIbgUie8IcBQQ6dGEw-dMxle49flQpO_JEs8R4IrBgqE5mbY6-AOeTAi_so9BQIIblTi0jsICU8KJV3vlmisGSPWFDb8sz9qLTRrDx18e8iGsrygrhe8IuE6v3lWft6R61pxx6Lex_Jmt32qcxyfm0081PUw8rq9MO-ozkWzbqnVnYnW0tOPCn6xEDQ7ZqwSyvMZPGUNfTTyVUI58vA9-y2ZgyNZFKCYOfbvwbC7RVR-vMtne1viApzOQDs0DQxHGR1cSEeZ7cH1Tg-93OahDwaurWztfquE36fyS3ErWOB-_cITHqP3S22VAf2W01NZt_PzRy1dvaHb4VTxR9zRwg4xRJNtlyO.ts"
+				"value": "//video-edge-fe03dd.pdx01.abs.hls.ttvnw.net/v1/segment/CrnfztcrlTK93_OCeD2L8nkVlXUr7zeSKLvKggouasmehg6NHGwDF56bIpppzwWYi3Lm5dFQkkp2Xuk-UUbJa2sexMWz6zLhScoUB7V5uTeNkgZVVGY-SJ8_bH-akKpouO_YP9EXuVHglsT7jWkc-IhK8I22mRoFeUIGBIMvsrkFTuwRWEjE80yOsJr0erdVM-uXAlH-GYDmHF5tBboeFWGoxbnaXkI0CMG-moPD2UW59hJomCJTvPDbcxKSET-GIjNiNuHAb2cpAY8CSr726RHV-1bPuwHRlaGBOwNG-YzD-KhcwpWR4OK_tCXGK8FUTel6UE4XFrfXw9aKFJrIoss4_ZIoG_s0OwrIJpXTDC-th_GAlVzH0aIWLa34XiPmwaAOBfhMWxyFXqvzyG23MrErdftqaygi8wzpWnuyzTB6CgJPL2q7zA5a4PjD9z69HuOWVWkT4ktrN7ij0Dne2jek7u2T_zvKQXZeLZ7XQ_NniwstoMrED8mj4J3-1XgRMsLnYfEJyzGW1MuNfWmW46Ksfo9TGMUwvdbGECmQ2hgqDKR5LXPw_XZXnTyfskMNelttbVNwQAxx7VraxdKNSKOnRs8QNpfT8kjuRu48Dg01YJEGGGNyX5MRwFC_1Ew2zeDPsWYthi_rOaWtLw3ZiLvlBMa5wuu1W0Rw7vUw0z6zyu6zsUexy43nkYdjHv6uDiA40RaXzYhJjQrfXpaLj2XAw9-_frMs-jWAII5_5tSJneui_jqNAF_jB1DDmvpMsmZSbIyLbLkgFOAtbq-aI.ts"
 			}
 		]
 	},
@@ -21852,7 +21852,7 @@
 	},
 	"ee00dc45-05df-439e-996b-4b93e52e88a4": {
 		"name": "ios_international_pricing_education_phase_1",
-		"v": 14574,
+		"v": 14686,
 		"t": 1,
 		"groups": [
 			{
@@ -21860,7 +21860,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
@@ -21868,7 +21868,7 @@
 				"value": "active-10.4"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active-10.8"
 			}
 		]
