@@ -21780,16 +21780,16 @@
 	},
 	"ed11e902-ea56-44b2-9ae7-2a0ba3e4333a": {
 		"name": "android_animated_emotes",
-		"v": 14700,
+		"v": 14702,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
-				"value": "active"
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
