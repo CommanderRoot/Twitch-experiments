@@ -23103,6 +23103,21 @@
 			}
 		]
 	},
+	"fcc6623d-4288-45f3-8cf5-0c90904baf3f": {
+		"name": "android_ivs_analytics_override",
+		"v": 14689,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"fcc79c1e-112a-4a51-9d72-b6b19bd9d48a": {
 		"name": "android_age_gating3",
 		"v": 7965,
