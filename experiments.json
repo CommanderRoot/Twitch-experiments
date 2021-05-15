@@ -289,6 +289,21 @@
 			}
 		]
 	},
+	"0394f9e5-4153-4424-94b8-69de64717aea": {
+		"name": "dart_nrs_rainbow6_sunday_holdout",
+		"v": 14720,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
+				"value": "allowed"
+			}
+		]
+	},
 	"03a12553-e117-4203-8869-653dfecc6e86": {
 		"name": "dart_eoy_active_vwr_0_dav_cmc_non_mis_email_2101_holdout",
 		"v": 13121,
