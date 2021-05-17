@@ -16941,6 +16941,21 @@
 			}
 		]
 	},
+	"b29512a7-f588-4218-b951-5042c871a818": {
+		"name": "android_vast_parser_use_kotlin",
+		"v": 14749,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"b29d055f-74f2-40b9-9383-9c4b79b30360": {
 		"name": "cloudfront web-cdn",
 		"v": 790,
