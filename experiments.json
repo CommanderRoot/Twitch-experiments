@@ -9547,7 +9547,7 @@
 	},
 	"6609a9a1-b927-490f-9d7b-ce6df61a2786": {
 		"name": "ios_allow_modified_playback_rate",
-		"v": 14108,
+		"v": 14763,
 		"t": 1,
 		"groups": [
 			{
@@ -9556,7 +9556,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "allow"
+				"value": "allow_v10.9"
 			}
 		]
 	},
@@ -13775,6 +13775,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"925dd955-5582-4a35-bafe-83fa86295f8d": {
+		"name": "android_push_image",
+		"v": 14764,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
 			}
 		]
 	},
