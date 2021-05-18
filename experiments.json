@@ -2108,6 +2108,21 @@
 			}
 		]
 	},
+	"1704e539-b492-4180-b289-5f54ba7136be": {
+		"name": "dart_fpsoprimesublatm_vwr_325_cmm_cmc_buy_mis_email_2014_holdout",
+		"v": 14769,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1710cf57-352c-4d09-b2c1-3d40bdf79b30": {
 		"name": "vod_upload_units_v3",
 		"v": 834,
