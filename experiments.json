@@ -23276,7 +23276,7 @@
 	},
 	"fb9c8ed5-f432-43f7-85fe-7f6b456a5798": {
 		"name": "android_mgst_mini_chat",
-		"v": 14261,
+		"v": 14789,
 		"t": 2,
 		"groups": [
 			{
@@ -23286,6 +23286,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_10.9"
 			}
 		]
 	},
