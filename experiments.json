@@ -19628,7 +19628,7 @@
 	},
 	"cf88d09d-53c6-4054-992c-f77e7035685a": {
 		"name": "android_lower_bits_sku_50",
-		"v": 14774,
+		"v": 14780,
 		"t": 2,
 		"groups": [
 			{
@@ -19641,7 +19641,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_50-bits_v10.9"
+				"value": "active_10.9"
 			}
 		]
 	},
@@ -19992,7 +19992,7 @@
 	},
 	"d3de7921-6f17-4a7f-affd-09c6a7279a5a": {
 		"name": "android_lower_bits_sku_30_or_25",
-		"v": 14775,
+		"v": 14781,
 		"t": 2,
 		"groups": [
 			{
@@ -20009,11 +20009,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_30-bits_v10.9"
+				"value": "active_30_bits_10.9"
 			},
 			{
 				"weight": 0,
-				"value": "active_25-bits_v10.9"
+				"value": "active_25_bits_10.9"
 			}
 		]
 	},
@@ -20514,6 +20514,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"d8f10844-9492-4c46-b939-f9575a13dfce": {
+		"name": "ios_discover_swiftui",
+		"v": 14782,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
