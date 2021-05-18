@@ -11660,6 +11660,21 @@
 			}
 		]
 	},
+	"7ac4b835-5488-4550-81a0-69914c065104": {
+		"name": "dart_degiftcardsubscribers_vwr_424_cmm_cmc_buy_mis_oe_2105_holdout",
+		"v": 14770,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7acc5ae9-484c-4e34-8c2c-c8e573c7351c": {
 		"name": "dart_dota2ti_groupreminder_3_holdout",
 		"v": 7653,
