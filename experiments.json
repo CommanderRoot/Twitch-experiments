@@ -7978,6 +7978,21 @@
 			}
 		]
 	},
+	"569bf3be-4af5-4cbf-8dbe-c072e41ada6c": {
+		"name": "dart_escapefromtarkovb_vwr_410_dav_cmc_wch_gmg_po_2105_holdout",
+		"v": 14785,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"571c384b-b1fd-4834-8d16-c2a28d03a7d5": {
 		"name": "dart_cold_d14_v2_top_games_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 12681,
@@ -20100,6 +20115,21 @@
 			{
 				"weight": 100,
 				"value": "active_8_1"
+			}
+		]
+	},
+	"d4efa074-e467-47a1-aa47-401efbd9686e": {
+		"name": "dart_escapefromtarkov_vwr_410_dav_cmc_wch_gmg_po_2105_holdout",
+		"v": 14786,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
