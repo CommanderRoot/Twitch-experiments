@@ -10086,6 +10086,21 @@
 			}
 		]
 	},
+	"6b5a0cd8-8c68-4480-b090-59d1c77eccf7": {
+		"name": "dart_minedraftshowdownsrivals_vwr_422_dav_cmc_wch_gmg_email_2105_fr_holdout",
+		"v": 14773,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6b655ea7-809b-48bf-83eb-966e8267d2b4": {
 		"name": "dart_iwdweek1_vwr_388_dav_cmc_lrn_mis_email_2103_gb_holdout",
 		"v": 13919,
@@ -14662,6 +14677,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"9a5ffa2c-6cf0-40f7-8006-f65dd528a8cf": {
+		"name": "dart_degiftcardgiftedsubscribers_vwr_424_cmm_cmc_buy_mis_oe_2105_holdout",
+		"v": 14771,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
