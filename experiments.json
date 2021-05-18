@@ -15950,12 +15950,12 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 14703,
+		"v": 14778,
 		"t": 2,
-		"s": 10,
+		"s": 11,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -15963,11 +15963,11 @@
 				"value": "treatment"
 			},
 			{
-				"weight": 94,
+				"weight": 475,
 				"value": "v3"
 			},
 			{
-				"weight": 1,
+				"weight": 475,
 				"value": "realtime"
 			}
 		]
@@ -19149,6 +19149,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"cbfb039e-f4d3-4255-ab50-f3e7c614bf73": {
+		"name": "granddads_squadstream_decliner_rollout",
+		"v": 14777,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "squadstream_granddads"
+			},
+			{
+				"weight": 100,
+				"value": "squadstream_dads"
 			}
 		]
 	},
