@@ -22946,11 +22946,11 @@
 	},
 	"f7249add-1ab5-408a-a019-c854bd7807a6": {
 		"name": "subscription_modal_variants",
-		"v": 14387,
+		"v": 14826,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -22962,7 +22962,7 @@
 				"value": "support_panel"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "community_gift_subscribe_button"
 			}
 		]
