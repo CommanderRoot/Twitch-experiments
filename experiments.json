@@ -23599,6 +23599,25 @@
 			}
 		]
 	},
+	"fe15e4e9-20a0-49d3-a992-e7063098ff4e": {
+		"name": "android_verification_at_sign_up",
+		"v": 14798,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "variant_1"
+			},
+			{
+				"weight": 0,
+				"value": "variant_2"
+			},
+			{
+				"weight": 0,
+				"value": "variant_3"
+			}
+		]
+	},
 	"fe574bc6-755a-4545-9a5a-b98222f7382f": {
 		"name": "dart_amsot_session2_holdout",
 		"v": 10896,
