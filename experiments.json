@@ -3167,7 +3167,7 @@
 	},
 	"22d79ca1-99b8-42fe-bc37-7d57a3537258": {
 		"name": "android_brand_safety_phase_1",
-		"v": 14724,
+		"v": 14813,
 		"t": 1,
 		"groups": [
 			{
@@ -15995,7 +15995,7 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 14809,
+		"v": 14812,
 		"t": 2,
 		"s": 11,
 		"groups": [
@@ -16008,11 +16008,11 @@
 				"value": "treatment"
 			},
 			{
-				"weight": 900,
+				"weight": 950,
 				"value": "v3"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "realtime"
 			}
 		]
@@ -22862,6 +22862,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"f627a8dd-7f8b-40f2-95cd-8fc2da0108d1": {
+		"name": "android_mgst_mini_chat_v2",
+		"v": 14811,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_10.9"
 			}
 		]
 	},
