@@ -7149,6 +7149,21 @@
 			}
 		]
 	},
+	"4dc2198f-511a-4bce-a67b-6fa1ca9fbd98": {
+		"name": "dart_grefgcampaignteaser_vwr_425_dav_cmc_wch_mis_push_2105_holdout",
+		"v": 14807,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4dced941-77cd-4290-9a41-5f0a563383e3": {
 		"name": "Promotions_Live_Recommended_iOS",
 		"v": 12473,
@@ -21924,6 +21939,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"ebce2e64-f281-40df-82ff-5d9585f449d3": {
+		"name": "dart_grefgcampaignteaser_vwr_425_dav_cmc_wch_mis_email_2105_holdout",
+		"v": 14805,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
