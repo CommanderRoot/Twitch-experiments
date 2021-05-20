@@ -12519,16 +12519,16 @@
 	},
 	"81ed1758-f4fe-4589-82e3-cb657f57e60f": {
 		"name": "ios_use_generic_ad_analytics",
-		"v": 14757,
+		"v": 14872,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "video"
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "generic"
 			}
 		]
 	},
@@ -16104,7 +16104,7 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 14870,
+		"v": 14871,
 		"t": 2,
 		"s": 11,
 		"groups": [
@@ -16117,11 +16117,11 @@
 				"value": "treatment"
 			},
 			{
-				"weight": 475,
+				"weight": 800,
 				"value": "v3"
 			},
 			{
-				"weight": 475,
+				"weight": 150,
 				"value": "realtime"
 			}
 		]
