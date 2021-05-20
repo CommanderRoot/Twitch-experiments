@@ -7016,12 +7016,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 14799,
+		"v": 14837,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-d06c74.pdx01.abs.hls.ttvnw.net/v1/segment/Ck6PXcLS0mFMOBzaTFTTsVseS7BYf9lS5Jh4IQDQvwb-CNJ8fNv-mELatJFvfnNxfZkGozaT59IifJfzdNAr9dIufMSu6ZP3aKUwPfNT6WrWaYrIPyzn5xcxkRB6qF4Ps9FuScnGsta94NPLXbjANqfKTeyW3BdnjGgv6W4k6cbEcO2lrX7uGNs0uuHN6KWIXKpsqEtFS6GLzkwIV9-d4zeLLY679JSGCd21Kb04RGTc3L7ZRJUXESN7_l4DWaKXq7KG5EC4LYrI_6Xk8rnvt9wZ0rsObak-tQwWCI7DrH74RsawT2eaIJoIa7M-UKXxUr1zJV7W-ya55W2qc2D6cn2qmGjeLS-6GcqdW8joSDIY46_dmkL0_yR6FLF7hrUBi50WtP9hoXTPPRPDu1S4fd1Xfh5DLvqCqo7efdst-dObu30tvQVOE--WcaIATeHrBGE4YxIdzF3BRxkZNdRojbh_di_keLin6U_jUZ0caZqHLj-uiZuG8TGNwEWKNqTg8y47KoGbHKP3_1j_-ZS79jnjl8tadiEyss0pBIuh4-K3Ux5IcbZkqY-uGtbrKzTAJVxpi008KNEfXJClOqqGsBksgeCMa6InmoxBfUxZbokYzTl7Kb6TOstMBdt2w1UxN172SkV5K4Cuenu9idBMSkTr4dhlvtxBpSTRC25b4RbhflnqxaMnUaPYdPCcrpJdcRTPkcsTp1mhLy4YlxZ7Mja484tx7jaSzP9LdmA-GldtpP7gjk_QV6Jt.ts"
+				"value": "//video-edge-646949.pdx01.abs.hls.ttvnw.net/v1/segment/Clr7eLI138-kCOZ11LajvhzAM5nC0s26nxczCuZcP_ogfOJSfLw1T1L5gbyh9-bmpN0J1gjZLVHD0APgw8yDXOUdCqtDxyUXysIEMwTOoe7sEcSkFJb-RQ_gCKuwmoFo5QXaeHFTS0gi_WaW8GR5qF63JDAbpHF78O_wPpvo0YS39B2tqnmim190RxI8v-s4rxsqXxa7FLOWlRqpm6j4PPTSyIqIBVg0pHpNGB8Awbr_p6V91t3hUSoks3N_KZyUICJIlb8nBqW25lXedmp0MKj9InY_dcx6tPdi0XGZY0RisjdxczNbnHUi-MaQ3K6h3Q3-cZELDMi1BQggwIrmKuUY8xuY0oWHFx70OuYLcS5rO4iQrYCf3mDc1Odvj2sgitDte29f0YUZSSGWOC5TsgypdPsClJ4jHoCGYcKyk42k9KhEO-L9UXeLzqnzNgFpqff3iPrJZpMe-HlUXg7FrGHbkB22VWTtVIwFGxxeQbgaBZRfecdsMxTG9g1Rzl5wZlq2UowhswTCJEoI4dzjYAxy2w8utFjJkydmCApG6yzjFMd5X3TfNloowP-RKTJlXL6pXTaJxjAXq5PrYxUKCQD13F3bs2bJPD2Zqx3vRtCtXHRP-OOCri2Qjw2q_HV5RrhQcAl5fazbecKPOP1E4bBFyOA3FF6r69gvc1k1Sm3LfRWbICoVwnNuYQw3GUNyyn2LFhIZZP7fMBKSqSlpD17495kmZ2pZZsX0am_zbql_hV13Ftr8OlH65bQfaPpHn7nszRYgmt.ts"
 			}
 		]
 	},
@@ -19672,6 +19672,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"cee24965-e729-4952-8413-84f763ea9e05": {
+		"name": "android_hardcoded_prerolls_enabled",
+		"v": 14836,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
 			}
 		]
 	},
