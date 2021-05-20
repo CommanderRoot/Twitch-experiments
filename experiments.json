@@ -7344,16 +7344,16 @@
 	},
 	"4f385872-dce2-4361-8dd5-2d84a4237cb1": {
 		"name": "ios_disable_automatic_prerolls",
-		"v": 14842,
+		"v": 14869,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "disabled"
+				"value": "prerolls_disabled_v11.0"
 			},
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "prerolls_enabled_v11.0"
 			}
 		]
 	},
@@ -16104,7 +16104,7 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 14819,
+		"v": 14870,
 		"t": 2,
 		"s": 11,
 		"groups": [
@@ -16117,11 +16117,11 @@
 				"value": "treatment"
 			},
 			{
-				"weight": 800,
+				"weight": 475,
 				"value": "v3"
 			},
 			{
-				"weight": 150,
+				"weight": 475,
 				"value": "realtime"
 			}
 		]
