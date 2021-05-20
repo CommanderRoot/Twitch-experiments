@@ -4734,21 +4734,6 @@
 			}
 		]
 	},
-	"341da370-6e57-474e-a84c-de9f6b423f5a": {
-		"name": "ios_hardcoded_prerolls_enabled",
-		"v": 14756,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"3424761f-5c8e-4939-8ef0-d7ce41d57436": {
 		"name": "dart_topstreamscoldpushonly_vwr_dav_cmc_wch_gmg_2101_push",
 		"v": 13278,
@@ -7354,6 +7339,21 @@
 			{
 				"weight": 10,
 				"value": "asia_reverse"
+			}
+		]
+	},
+	"4f385872-dce2-4361-8dd5-2d84a4237cb1": {
+		"name": "ios_disable_automatic_prerolls",
+		"v": 14842,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
