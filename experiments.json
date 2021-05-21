@@ -22820,6 +22820,21 @@
 			}
 		]
 	},
+	"f303bbaa-db8a-4ed1-ad49-8d078de106d8": {
+		"name": "ads_squadstream_decliner_rollout",
+		"v": 14900,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "squadstream_granddads"
+			},
+			{
+				"weight": 100,
+				"value": "squadstream_dads"
+			}
+		]
+	},
 	"f321aa37-e81d-4a81-99d5-303bf9429b7b": {
 		"name": "AKAMAI_IMAGE_MANAGER",
 		"v": 2318,
