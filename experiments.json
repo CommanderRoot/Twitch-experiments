@@ -2100,6 +2100,21 @@
 			}
 		]
 	},
+	"16de4ebc-e7aa-4e4b-ac32-3251e9e96159": {
+		"name": "dart_intlpricingmx_vwr_416_cmm_cmc_lrn_mis_email_2105_email",
+		"v": 14893,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"16e62af8-77e7-4d62-92c2-c66c5713a78f": {
 		"name": "enable_live_sorting",
 		"v": 14642,
@@ -2199,6 +2214,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"17bce56c-1595-4125-ac1f-7da1df1d3f11": {
+		"name": "dart_intlpricingmx_vwr_416_cmm_cmc_lrn_mis_email_2105_holdout",
+		"v": 14892,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
 			}
 		]
 	},
