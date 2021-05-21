@@ -334,21 +334,6 @@
 			}
 		]
 	},
-	"0431fc7e-28a6-4141-91d5-c869c32a6c04": {
-		"name": "proactive_detection_phishdet_aa_testing",
-		"v": 14760,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "a"
-			},
-			{
-				"weight": 50,
-				"value": "b"
-			}
-		]
-	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
 		"v": 12124,
