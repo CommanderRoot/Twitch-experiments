@@ -14428,15 +14428,15 @@
 	},
 	"97a8c1d3-f5ca-4b06-9664-1d8a3469a37d": {
 		"name": "support_panel",
-		"v": 14598,
+		"v": 14904,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -16149,7 +16149,7 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 14877,
+		"v": 14906,
 		"t": 2,
 		"s": 11,
 		"groups": [
