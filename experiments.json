@@ -12712,6 +12712,21 @@
 			}
 		]
 	},
+	"83f4b170-0e00-46ce-80c7-35dc3356b51e": {
+		"name": "android_use_twitch_ad_edge",
+		"v": 14915,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_11.0"
+			}
+		]
+	},
 	"8423f821-2727-4886-8291-fd286f6ce3b6": {
 		"name": "ios_promotion_stream",
 		"v": 10579,
