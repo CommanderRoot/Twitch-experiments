@@ -1246,6 +1246,33 @@
 			}
 		]
 	},
+	"0d2af185-1195-4816-a13a-8b2fa9fc8cd9": {
+		"name": "social_proof_left_nav",
+		"v": 14925,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "fmp_above"
+			},
+			{
+				"weight": 0,
+				"value": "fmp_below"
+			},
+			{
+				"weight": 0,
+				"value": "activity_above"
+			},
+			{
+				"weight": 0,
+				"value": "activity_below"
+			}
+		]
+	},
 	"0d57d58f-0d23-4249-b12d-b56dcd338483": {
 		"name": "ios_track_scheduled_ads",
 		"v": 13854,
