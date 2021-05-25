@@ -6440,19 +6440,19 @@
 	},
 	"459dfd2f-4585-4d55-9897-ef61bc84c455": {
 		"name": "ios_following_full_bleed",
-		"v": 14297,
+		"v": 14949,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "all_full"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "two_full"
 			}
 		]
@@ -6666,11 +6666,11 @@
 	},
 	"4768e2ea-7d46-431e-94fe-37132f0d0f40": {
 		"name": "android_following_full_bleed",
-		"v": 14305,
+		"v": 14948,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -6678,7 +6678,7 @@
 				"value": "all_full"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "two_full"
 			}
 		]
