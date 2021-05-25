@@ -7491,11 +7491,11 @@
 	},
 	"4f897f06-d982-4459-9a2a-618c09713b77": {
 		"name": "ios_cookie_consent_sticky_alert",
-		"v": 14567,
+		"v": 14955,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -7503,7 +7503,7 @@
 				"value": "active_v10.7"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_v10.8"
 			}
 		]
@@ -14455,7 +14455,7 @@
 	},
 	"9771fa8e-d462-4803-8ed3-38c7064b3da3": {
 		"name": "ios_cookie_consent_two_button_toast",
-		"v": 14566,
+		"v": 14954,
 		"t": 1,
 		"groups": [
 			{
@@ -14463,11 +14463,11 @@
 				"value": "active_v10.3"
 			},
 			{
-				"weight": 1,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_v10.8"
 			}
 		]
@@ -21490,7 +21490,7 @@
 	},
 	"e30dab8b-6dae-455c-b768-fb71def0ba8c": {
 		"name": "ios_cookie_consent_enabled",
-		"v": 14568,
+		"v": 14956,
 		"t": 1,
 		"groups": [
 			{
@@ -21498,11 +21498,11 @@
 				"value": "active_v10.3"
 			},
 			{
-				"weight": 1,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_v10.8"
 			}
 		]
@@ -22550,15 +22550,15 @@
 	},
 	"eebffd83-1db1-4613-8a1b-af562cd7ee00": {
 		"name": "android_cookie_consent_button_toast",
-		"v": 14499,
+		"v": 14957,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_10.8"
 			},
 			{
-				"weight": 1,
+				"weight": 90,
 				"value": "control"
 			}
 		]
@@ -23069,15 +23069,15 @@
 	},
 	"f4d7129f-07e2-404b-bb53-1fb7fa0bffb2": {
 		"name": "android_cookie_consent",
-		"v": 14498,
+		"v": 14958,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_10.8"
 			},
 			{
-				"weight": 1,
+				"weight": 90,
 				"value": "control"
 			}
 		]
