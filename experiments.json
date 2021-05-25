@@ -22219,6 +22219,21 @@
 			}
 		]
 	},
+	"eb877083-1ef3-44ed-9676-294170895f93": {
+		"name": "dart_hellotest_holdout",
+		"v": 14951,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"ebce2e64-f281-40df-82ff-5d9585f449d3": {
 		"name": "dart_grefgcampaignteaser_vwr_425_dav_cmc_wch_mis_email_2105_holdout",
 		"v": 14805,
