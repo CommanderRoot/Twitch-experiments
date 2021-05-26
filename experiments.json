@@ -9002,11 +9002,11 @@
 	},
 	"5f4744a4-11ee-4044-95ac-f2b64da6e2c9": {
 		"name": "android_private_callouts",
-		"v": 14105,
+		"v": 14986,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -9014,7 +9014,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_development"
 			}
 		]
