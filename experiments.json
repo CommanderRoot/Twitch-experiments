@@ -18332,6 +18332,25 @@
 			}
 		]
 	},
+	"be8adf95-86ec-4a2d-8f5c-1de73506bbeb": {
+		"name": "android_parse_ad_player_event",
+		"v": 14983,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "only_client_ad"
+			},
+			{
+				"weight": 0,
+				"value": "only_maf_ad"
+			},
+			{
+				"weight": 0,
+				"value": "client_and_maf_ad"
+			}
+		]
+	},
 	"be9f64b5-d56f-4ea2-8590-cc854d259c8c": {
 		"name": "android_stream_preloader_for_deeplink_to_live_theater",
 		"v": 14975,
