@@ -11581,6 +11581,21 @@
 			}
 		]
 	},
+	"78190306-66ad-4e3f-a366-e965bd1109cd": {
+		"name": "dart_fpso_prime_sub_localized_latam_holdout",
+		"v": 14968,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"784edc9a-06c1-4b4a-98cd-b55458dea164": {
 		"name": "ios_gdpr_user_consent_kill_switch",
 		"v": 4125,
