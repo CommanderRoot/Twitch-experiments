@@ -16890,16 +16890,20 @@
 	},
 	"af5dcd23-1792-4fb3-9ac5-892299e14df3": {
 		"name": "ios_parse_multi_ad_format_event",
-		"v": 14755,
+		"v": 14991,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "parse_client_ad"
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "parse_multi_ad_format"
+			},
+			{
+				"weight": 0,
+				"value": "parse_both"
 			}
 		]
 	},
