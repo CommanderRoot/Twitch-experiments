@@ -23503,6 +23503,33 @@
 			}
 		]
 	},
+	"f8156055-20a3-43a0-b9d0-84c19c76a547": {
+		"name": " android_artificial_latency",
+		"v": 15009,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 96,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_1"
+			},
+			{
+				"weight": 1,
+				"value": "active_2"
+			},
+			{
+				"weight": 1,
+				"value": "active_5"
+			},
+			{
+				"weight": 1,
+				"value": "active_10"
+			}
+		]
+	},
 	"f879cdbb-b033-4011-be88-2960564a872f": {
 		"name": "dart_musicyuna_vwr_395_flw_cmc_flw_msc_email_2104_holdout",
 		"v": 14214,
