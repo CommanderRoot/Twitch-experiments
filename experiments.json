@@ -11641,6 +11641,21 @@
 			}
 		]
 	},
+	"78bd2248-16f8-493b-abbf-205d823fa46b": {
+		"name": "android_stream_display_ads",
+		"v": 15005,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"78c5d79e-b169-4d12-b491-a96fd0ad0636": {
 		"name": "ios_followed_categories_position_v2",
 		"v": 9097,
