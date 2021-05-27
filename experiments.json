@@ -23272,15 +23272,15 @@
 	},
 	"f627a8dd-7f8b-40f2-95cd-8fc2da0108d1": {
 		"name": "android_mgst_mini_chat_v2",
-		"v": 14993,
+		"v": 15001,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_10.9"
 			}
 		]
