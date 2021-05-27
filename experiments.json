@@ -7832,6 +7832,21 @@
 			}
 		]
 	},
+	"52d610af-30ff-491b-a6cc-44c58f7e2a45": {
+		"name": "dart_thegathering_vwr_423_awa_cmc_mis_gmg_email_2105_holdout",
+		"v": 14996,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"52fddb9d-f51c-415c-8329-96eb7f464cbd": {
 		"name": "celebi_experiment",
 		"v": 9599,
@@ -17204,6 +17219,21 @@
 	"b17f549d-0861-4d8f-b70d-5adf7983daa6": {
 		"name": "dart_steamerbowl2_vwr_347_dav_cmc_wch_gmg_email_2101_holdout",
 		"v": 13074,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"b19f6a73-8096-4b88-8861-b3800c3ba0e0": {
+		"name": "dart_jptwitchrivalsxescapefromtarkov_vwr_0_dav_cmc_wch_gmg_combo_2105_holdout",
+		"v": 14997,
 		"t": 2,
 		"groups": [
 			{
