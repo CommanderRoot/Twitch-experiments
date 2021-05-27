@@ -7922,6 +7922,21 @@
 			}
 		]
 	},
+	"5371f543-6c49-43eb-af08-a066537b5ed7": {
+		"name": "dart_thegatheringemea_ctr_423_awa_cmc_mis_gmg_email_2105_holdout",
+		"v": 15007,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
+				"value": "allowed"
+			}
+		]
+	},
 	"5380a8cf-e5cf-497e-9c6c-16cb1c881e0c": {
 		"name": "WATCH_NOW_RIGHTBAR",
 		"v": 891,
@@ -17249,6 +17264,21 @@
 	"b17f549d-0861-4d8f-b70d-5adf7983daa6": {
 		"name": "dart_steamerbowl2_vwr_347_dav_cmc_wch_gmg_email_2101_holdout",
 		"v": 13074,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"b198f67e-12c0-4d3f-8477-4e9f4bfc910c": {
+		"name": "dart_thegatheringemea_vwr_423_awa_cmc_mis_gmg_email_2105_holdout",
+		"v": 15006,
 		"t": 2,
 		"groups": [
 			{
