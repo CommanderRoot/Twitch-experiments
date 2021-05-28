@@ -23535,28 +23535,24 @@
 	},
 	"f8156055-20a3-43a0-b9d0-84c19c76a547": {
 		"name": "android_artificial_latency",
-		"v": 15019,
+		"v": 15022,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 96,
+				"weight": 97,
 				"value": "control"
 			},
 			{
 				"weight": 1,
-				"value": "active_1"
+				"value": "active_700"
 			},
 			{
 				"weight": 1,
-				"value": "active_2"
+				"value": "active_1400"
 			},
 			{
 				"weight": 1,
-				"value": "active_5"
-			},
-			{
-				"weight": 1,
-				"value": "active_10"
+				"value": "active_2100"
 			}
 		]
 	},
