@@ -23620,6 +23620,21 @@
 			}
 		]
 	},
+	"f8edc4a5-196a-44ce-a684-0e75f300b397": {
+		"name": "android_ewma_alpha",
+		"v": 15020,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment_1,10"
+			}
+		]
+	},
 	"f90f298d-1bc1-4dc7-a74b-e107745780b1": {
 		"name": "android_mgst_top_nav_stream_button",
 		"v": 12054,
