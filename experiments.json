@@ -7414,6 +7414,21 @@
 			}
 		]
 	},
+	"4f35cfbd-96c7-4feb-ad33-9a1898585bde": {
+		"name": "vx_follow_ratelimit",
+		"v": 15032,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "limit"
+			},
+			{
+				"weight": 100,
+				"value": "no_limit"
+			}
+		]
+	},
 	"4f385872-dce2-4361-8dd5-2d84a4237cb1": {
 		"name": "ios_disable_automatic_prerolls",
 		"v": 14869,
