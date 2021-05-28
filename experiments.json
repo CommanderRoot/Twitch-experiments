@@ -17896,6 +17896,21 @@
 			}
 		]
 	},
+	"b734a839-9d24-4059-ba9e-a824c24acd97": {
+		"name": "hermes_east_ses_rollout",
+		"v": 15021,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "percent"
+			}
+		]
+	},
 	"b7a96629-46ee-4746-9063-973707fd8af3": {
 		"name": "android_mgst_broadcast_onboarding",
 		"v": 10561,
