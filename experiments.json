@@ -9546,6 +9546,21 @@
 			}
 		]
 	},
+	"63ce5036-1f44-4555-9aac-1daa84571ae8": {
+		"name": "mads_poll_chanel_points",
+		"v": 15035,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "CHANNEL_POINTS_0x"
+			},
+			{
+				"weight": 0,
+				"value": "CHANNEL_POINTS_1x"
+			}
+		]
+	},
 	"63fc0f79-7415-4d4a-8d6b-748c1504783d": {
 		"name": "android_community_highlights",
 		"v": 10871,
