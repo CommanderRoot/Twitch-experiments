@@ -7431,15 +7431,15 @@
 	},
 	"4f35cfbd-96c7-4feb-ad33-9a1898585bde": {
 		"name": "vx_follow_ratelimit",
-		"v": 15032,
+		"v": 15044,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "limit"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "no_limit"
 			}
 		]
