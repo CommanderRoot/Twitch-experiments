@@ -10734,6 +10734,21 @@
 			}
 		]
 	},
+	"6fe3a5bc-fb45-49ab-a535-c47d5853b69b": {
+		"name": "Promotions_SideNav_Recommended_Web",
+		"v": 15042,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "promotions_enabled"
+			}
+		]
+	},
 	"6fe8a3d3-6afb-4b8d-b761-dc14eef55b21": {
 		"name": "tvapps_firetv_additional_crash_dump_info",
 		"v": 9127,
@@ -16088,16 +16103,20 @@
 	},
 	"a6e26797-91fb-4d10-ac84-2c542e7bb3aa": {
 		"name": "ios_dsp_brand_safety",
-		"v": 13798,
+		"v": 15043,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "active_v10.4"
+			},
+			{
+				"weight": 50,
+				"value": "control_2"
 			}
 		]
 	},
