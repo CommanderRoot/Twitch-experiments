@@ -5179,6 +5179,21 @@
 			}
 		]
 	},
+	"371fd8fe-5e8b-4944-ac33-ba81f992b7d2": {
+		"name": "dart_thegatheringapac_vwr_423_awa_cmc_mis_gmg_email_2105_holdout",
+		"v": 15074,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3758fe3e-a281-4329-9cfd-b0511fa44194": {
 		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
 		"v": 13400,
