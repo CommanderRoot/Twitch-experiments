@@ -4028,6 +4028,21 @@
 			}
 		]
 	},
+	"2a90d5d9-47ba-47d5-9f92-4b12a7d62ae2": {
+		"name": "leftnav_promoted_streams",
+		"v": 15092,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"2aab6066-cac1-4c33-8e04-a93498012f20": {
 		"name": "dart_artificial_s3_e1_onsite",
 		"v": 10293,
