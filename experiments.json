@@ -24384,7 +24384,7 @@
 	},
 	"feead3b1-dd13-4a2d-acb5-98d58dd84754": {
 		"name": "ios_watch_party_viewing",
-		"v": 10455,
+		"v": 15080,
 		"t": 1,
 		"groups": [
 			{
@@ -24394,6 +24394,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_11.0"
 			}
 		]
 	},
