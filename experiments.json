@@ -16437,9 +16437,9 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 15115,
+		"v": 15117,
 		"t": 2,
-		"s": 11,
+		"s": 12,
 		"groups": [
 			{
 				"weight": 50,
@@ -16450,11 +16450,11 @@
 				"value": "treatment"
 			},
 			{
-				"weight": 750,
+				"weight": 450,
 				"value": "v3"
 			},
 			{
-				"weight": 200,
+				"weight": 450,
 				"value": "realtime"
 			}
 		]
