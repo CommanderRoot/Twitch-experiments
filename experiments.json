@@ -398,6 +398,29 @@
 			}
 		]
 	},
+	"05129a06-85ea-484f-ad10-38907fbbb781": {
+		"name": "ios_artificial_latency_browse",
+		"v": 15110,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_700"
+			},
+			{
+				"weight": 0,
+				"value": "active_1400"
+			},
+			{
+				"weight": 0,
+				"value": "active_2100"
+			}
+		]
+	},
 	"0552780e-6483-43a9-8a1c-ad9907952487": {
 		"name": "ios_av_player_do_not_wait_to_minimize_stalling",
 		"v": 14594,
