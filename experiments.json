@@ -8822,15 +8822,15 @@
 	},
 	"5c29076a-ea6b-4627-ad91-e0e903484dd9": {
 		"name": "new_hermes_rollout",
-		"v": 15130,
+		"v": 15131,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "holdout"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "rollout"
 			}
 		]
