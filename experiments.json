@@ -23976,6 +23976,21 @@
 			}
 		]
 	},
+	"fae7a15a-875c-4de0-89d1-f6b83a7ec3e3": {
+		"name": "dart_primeday_vwr_430_cmm_cmc_lrn_mis_email_2106_holdout",
+		"v": 15126,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"fb1f9e8f-b689-4c3d-9f8d-5aa055e53dc5": {
 		"name": "community-gifting-recommendation-v2.5",
 		"v": 10321,
