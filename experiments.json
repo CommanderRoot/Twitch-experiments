@@ -2361,6 +2361,21 @@
 			}
 		]
 	},
+	"18b3ff76-fbb0-45e5-90ee-90d86546d618": {
+		"name": "dart_zlan_vwr_436_dav_cmc_wch_gmg_email_2106_holdout",
+		"v": 15121,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"18c96162-fc42-4032-afc1-cfef30c52444": {
 		"name": "dart_nagiftcard_vwr_nrp328_cmm_buy_mis_email_2011_holdout",
 		"v": 12862,
@@ -14458,6 +14473,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"94b14080-2ffc-49d5-a78b-cbd56786021b": {
+		"name": "dart_zlan_vwr_436_dav_cmc_wch_gmg_email_2106_email",
+		"v": 15122,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
