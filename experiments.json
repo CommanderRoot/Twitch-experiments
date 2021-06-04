@@ -14995,7 +14995,7 @@
 	},
 	"99420eb8-3f4f-409b-8b42-7f9d9e629420": {
 		"name": "ios_creator_settings_v2",
-		"v": 15087,
+		"v": 15124,
 		"t": 1,
 		"groups": [
 			{
@@ -15003,11 +15003,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_11.0"
 			}
 		]
