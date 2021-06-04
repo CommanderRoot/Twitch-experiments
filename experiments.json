@@ -6844,7 +6844,7 @@
 	},
 	"487b852c-1b34-43ec-b2e8-3fd063c7fdd5": {
 		"name": "dart_fpso_gift_sub_reminder_localized_en_vwr_47941_cmm_cmc_sub_mis_email_201_holdout",
-		"v": 14959,
+		"v": 15138,
 		"t": 2,
 		"groups": [
 			{
@@ -10617,7 +10617,7 @@
 	},
 	"6d4e9181-30a3-4c5e-a3f9-054cabe2643a": {
 		"name": "vpr_model_switcher",
-		"v": 15134,
+		"v": 15136,
 		"t": 2,
 		"groups": [
 			{
@@ -10625,11 +10625,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "CBModelTest-1"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "HPeVPR2-2"
 			}
 		]
@@ -12212,7 +12212,7 @@
 	},
 	"7c7f8c45-1727-4590-8738-398807565ee2": {
 		"name": "dart_fpso_gift_sub_localized_en_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
-		"v": 14953,
+		"v": 15137,
 		"t": 2,
 		"groups": [
 			{
