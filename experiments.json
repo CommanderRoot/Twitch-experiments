@@ -5598,11 +5598,11 @@
 	},
 	"3bdc18d8-11c2-4c47-9873-9baa57368a45": {
 		"name": "android_player_core_ad_playback",
-		"v": 14661,
+		"v": 15177,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "control"
 			},
 			{
@@ -5610,7 +5610,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_10.9"
 			}
 		]
