@@ -14274,15 +14274,15 @@
 	},
 	"925dd955-5582-4a35-bafe-83fa86295f8d": {
 		"name": "android_push_image",
-		"v": 14764,
+		"v": 15181,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
