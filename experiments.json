@@ -19125,11 +19125,11 @@
 	},
 	"c4902555-c96a-4b9e-ba3d-1713c609fb08": {
 		"name": "android_chevron_subs",
-		"v": 15133,
+		"v": 15171,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -19137,7 +19137,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_10.9"
 			}
 		]
