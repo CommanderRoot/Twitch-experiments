@@ -8600,6 +8600,21 @@
 			}
 		]
 	},
+	"59c7c0ef-cee9-49d4-af0b-4e5a15c28409": {
+		"name": "dart_koreadropthebits_vwr_0_cmm_trn_buy_mis_email_2106_holdout",
+		"v": 15162,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"59cbe6c8-2355-403e-aa3a-ab22310adebe": {
 		"name": "aml_ranking_follows",
 		"v": 4106,
