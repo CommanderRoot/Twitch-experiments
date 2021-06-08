@@ -20021,6 +20021,29 @@
 			}
 		]
 	},
+	"ccaeb944-37d8-4cef-8b3b-86e4cd4eae55": {
+		"name": "android_artificial_latency_profile",
+		"v": 15195,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 97,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_700"
+			},
+			{
+				"weight": 1,
+				"value": "active_1400"
+			},
+			{
+				"weight": 1,
+				"value": "active_2100"
+			}
+		]
+	},
 	"ccc74fcb-d98f-4fd8-9907-8dad362d9434": {
 		"name": "dart_topstreamsfrozenpushonly_vwr_dav_cmc_wch_gmg_2101_push",
 		"v": 13279,
