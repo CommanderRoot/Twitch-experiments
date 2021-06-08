@@ -2959,6 +2959,21 @@
 			}
 		]
 	},
+	"1e5f2621-7ad2-4a93-9546-313bea438aa6": {
+		"name": "dart_minedraftshowdownfinals_vwr_422_dav_cmc_wch_gmg_email_2106_holdout",
+		"v": 15196,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1e826e43-17aa-41f4-8b4a-afd16217c97e": {
 		"name": "surestream_rollout_ios_jp",
 		"v": 8333,
@@ -15969,6 +15984,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"a2c5065c-850a-46cb-a92e-6ca457d4beac": {
+		"name": "dart_minedraftshowdownfinals_vwr_422_dav_cmc_wch_gmg_email_2106_email",
+		"v": 15197,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
