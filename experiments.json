@@ -9974,15 +9974,15 @@
 	},
 	"6609a9a1-b927-490f-9d7b-ce6df61a2786": {
 		"name": "ios_allow_modified_playback_rate",
-		"v": 15170,
+		"v": 15210,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "dont_allow"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "allow_v10.9"
 			}
 		]
