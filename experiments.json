@@ -17047,6 +17047,29 @@
 			}
 		]
 	},
+	"aebf74d0-8024-4643-a40c-7ef359d3060a": {
+		"name": "android_artificial_latency_discover",
+		"v": 15190,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 97,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_700"
+			},
+			{
+				"weight": 1,
+				"value": "active_1400"
+			},
+			{
+				"weight": 1,
+				"value": "active_2100"
+			}
+		]
+	},
 	"aed66c3f-fa7f-41a4-aad8-06c063b94920": {
 		"name": "iOS_subtokens_apple_prototype",
 		"v": 7966,
@@ -22443,6 +22466,29 @@
 			{
 				"weight": 100,
 				"value": "active_8.6"
+			}
+		]
+	},
+	"e95a8709-9a0a-4d1f-99d4-79a3f3f66bdf": {
+		"name": "android_artificial_latency_following",
+		"v": 15192,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 97,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_700"
+			},
+			{
+				"weight": 1,
+				"value": "active_1400"
+			},
+			{
+				"weight": 1,
+				"value": "active_2100"
 			}
 		]
 	},
