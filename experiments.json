@@ -3380,15 +3380,15 @@
 	},
 	"22d79ca1-99b8-42fe-bc37-7d57a3537258": {
 		"name": "android_brand_safety_phase_1",
-		"v": 15205,
+		"v": 15209,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active_10.9"
 			}
 		]
@@ -13862,15 +13862,15 @@
 	},
 	"8dad3a94-23fe-40e2-8dd1-efe3a3cf4852": {
 		"name": "ios_channel_content_ad_metadata_enabled",
-		"v": 15204,
+		"v": 15208,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active_v10.9"
 			}
 		]
