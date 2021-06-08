@@ -22504,6 +22504,21 @@
 			}
 		]
 	},
+	"e848f1eb-db5c-485d-bd93-b0c660ec4e1c": {
+		"name": "low_trust_users_widget",
+		"v": 15211,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "on"
+			},
+			{
+				"weight": 100,
+				"value": "off"
+			}
+		]
+	},
 	"e8c5cf6c-5259-446b-aef1-4e33747b3b93": {
 		"name": "Game Changes",
 		"v": 842,
