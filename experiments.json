@@ -12673,6 +12673,21 @@
 			}
 		]
 	},
+	"7f795a1b-ef32-4f7d-8182-f74fa840094f": {
+		"name": "android_user_login_rename_status",
+		"v": 15198,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_development"
+			}
+		]
+	},
 	"7fd1ea7d-82b5-4f9d-88f1-a34bc1c8d097": {
 		"name": "android_ccpa",
 		"v": 9577,
