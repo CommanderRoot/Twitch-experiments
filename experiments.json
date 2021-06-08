@@ -127,6 +127,29 @@
 			}
 		]
 	},
+	"00e1034d-ee3c-4227-8e33-569445f0bfe2": {
+		"name": "android_artificial_latency_vod",
+		"v": 15194,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 97,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_700"
+			},
+			{
+				"weight": 1,
+				"value": "active_1400"
+			},
+			{
+				"weight": 1,
+				"value": "active_2100"
+			}
+		]
+	},
 	"00f33793-651e-4ea1-b6bb-00a9a9479fbf": {
 		"name": "android_creator_settings_menu_9.5",
 		"v": 13031,
