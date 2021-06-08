@@ -19655,6 +19655,29 @@
 			}
 		]
 	},
+	"c926b4ad-2d91-47e1-8bf9-2b0ade155115": {
+		"name": "android_artificial_latency_theatre",
+		"v": 15193,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 97,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_700"
+			},
+			{
+				"weight": 1,
+				"value": "active_1400"
+			},
+			{
+				"weight": 1,
+				"value": "active_2100"
+			}
+		]
+	},
 	"c93d1147-b6b9-459f-a642-f54a8ed17860": {
 		"name": "ios_use_1p_for_vaes_requests",
 		"v": 13060,
