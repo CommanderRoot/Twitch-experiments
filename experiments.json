@@ -2700,6 +2700,25 @@
 			}
 		]
 	},
+	"1b1249a5-8f97-4585-81ac-85d6b0a4f977": {
+		"name": "ios_multi_ad_format_parse_strategy",
+		"v": 15201,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "parse_client_ad"
+			},
+			{
+				"weight": 0,
+				"value": "parse_multi_ad_format"
+			},
+			{
+				"weight": 0,
+				"value": "parse_both"
+			}
+		]
+	},
 	"1b5d7f2b-7aad-4eea-9e1c-4be185db1628": {
 		"name": "android_creator_settings_p2",
 		"v": 11029,
@@ -17263,25 +17282,6 @@
 			{
 				"weight": 50,
 				"value": "treatment"
-			}
-		]
-	},
-	"af5dcd23-1792-4fb3-9ac5-892299e14df3": {
-		"name": "ios_parse_multi_ad_format_event",
-		"v": 14991,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "parse_client_ad"
-			},
-			{
-				"weight": 0,
-				"value": "parse_multi_ad_format"
-			},
-			{
-				"weight": 0,
-				"value": "parse_both"
 			}
 		]
 	},
