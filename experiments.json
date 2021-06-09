@@ -33,6 +33,21 @@
 			}
 		]
 	},
+	"003103ef-f452-4668-a023-972bfbf518c5": {
+		"name": "dart_thegathering_vwr_423_flw_cmc_flw_gmg_email_2106_holdout",
+		"v": 15242,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"003b46f8-84af-4010-985b-ffbfd7d7856b": {
 		"name": "dart_eoy_ctr_0_dav_cmc_non_mis_email_2101_holdout",
 		"v": 13123,
