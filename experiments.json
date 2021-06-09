@@ -7259,12 +7259,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 15187,
+		"v": 15232,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-11f51c.pdx01.abs.hls.ttvnw.net/v1/segment/CoaZP4uD0qp2x_o-j8VhgDhnKhd0zrtenNYFt65MdqVtJmAu6Hvs8K5aPQ2S533fUCw9BYGKh3ojuPsxq6LBx_XaWbTShihKlWiKV0mcKGBnHpFU2_op6-tDzJw0b2LXwH8Nm8YILfsznWnvKv4GKSqk_L68Zm7A4wdTUFKL8SoT_PdFYQXCHHwIKqBrsthmSGAEkN9OaPmmMUaZPg0m0hP3ZfaIlKtHesfyGxkz2iWi4GYAN-moolpmZje3CpXAofX2nBtNCu3FCfSoLdjt2HZKokqzNFta1k2kh--YeyEMKkpH12UZOTv9jBSGRBhfSPkzqyfJaKLrSlcttujR3ZXj_sQN1BzLGS1gJDuu5yvLjagUP7Rj97i9L6PVnvwE8AhUZ_uY-aN6JCy4B7AmKo9IHybTEKg91gIQpcyHXcdVLjlfzlcctKAmj2cvJS0PEK_Y9cY3urPER1silw-KD_NGMYXhuBCJsSqOwtEworLaq8lDO6yH1plTQJjpAjxgXipOLnbBWxNQBlQ5IfzlTCT-F0DS01NDirJYc9P8ZbFxVlCTaTCxD4ECaMH5AmB4dJhs66RTE3tdWLMwk1YHFGjXDxbFn60jV9bmV_GTMc2hhkxW-Ro2aT4QjM-d1TdCiWiIBw4ERweA12kWa5MPMQjtVULHrqrKQfrxTxTK7GLPYz0Dx0PvN5cMeGSFe520jklVp8Au6WLACFE-nbNnUgnZYCgwYO6ai1uQs57SluPBZ3f0VxS0m_U1KuWDHYjG.ts"
+				"value": "//video-edge-8f85cd.pdx01.abs.hls.ttvnw.net/v1/segment/CpMIqgHvbUW4LBt2a-REm1lQj7vS0kjFtWVPGm4eu39iS7UxOgvql2-4xkP3or37wnzUuAqElFUXLW12l7UWxC7cUeI2-sciLHszJMxia-wEwGFInQKCHQ2r0Z6aYy2FlNzNC3R7zzCfuevda4MsNCKaQHGrbNf6aRVNTWMQ0bd8KiCIXtVC9lFrhVfbfLBzdQ5NBkRguSjdjqS1G4gM9R_--AIBPYl95Jhw3ulQxdrJ76VMlvpkEcIOYjMM4LxI9pIrpwXltyAI1JIlCrr4EnEsdos7j-HyT6Td-V_V4R9W65r7x1IctsnTFoTI4_AvkUPsi0BWmNkwpR9HLRn8KSdgns287Uz3WSRglm2m8mzTh0MpCV_mq-63RBJJ9i8tYoBhAtvDe1VjjVRaRVQyzxTyoYOaiZdLK8ZjlG62UQ5scvGUiVPWg4GSLTDNcZi9c3krLsdTKs3Otvd2yRbVeCv4vproqmR6NV85JbfJ-dlZCpFLL5VVhVAxAekmZJtWW0b_v8oQdFH2jVul2c9DW_D1ih__GrDRJiRmr_QeAFfVEaiPwS1bkI1hPl_KWDW0Io--s2HrtqEnDWDzjPfezzKCrcvheU6Rz5d290Gpov8qHWvOfLfOpm2pdmFtzAOjhhJPZ9cMqx3jOWydRwW4oxbTE9C9636GTTGa2--aA4HwHo3mxTWrl8ZIeQLAFuy8HwdMJG014AoaqWAKcmsSrGmioSjDgJ4jyLyCFvcreeydr9X0_Oft40-pzAc7AJKRsxnxOq3r0oPRYC2Hx3KEj.ts"
 			}
 		]
 	},
@@ -16294,6 +16294,21 @@
 	"a64224a9-8292-4d4f-80ec-f7df532b6bf8": {
 		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_holdout",
 		"v": 12383,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"a656dfa1-c84c-42a0-af6e-bec2a9a1ba91": {
+		"name": "dart_twitchrivalsvalorantjune2021_vwr_0_dav_trn_wch_gmg_push_2106_holdout",
+		"v": 15231,
 		"t": 2,
 		"groups": [
 			{
