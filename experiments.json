@@ -7882,6 +7882,21 @@
 			}
 		]
 	},
+	"515d6868-d140-49b3-9d83-f4935a588ef9": {
+		"name": "android_leaderboards_us",
+		"v": 15277,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"516bf473-da4c-4900-8a60-ca25bce16317": {
 		"name": "android_gql_batching",
 		"v": 14645,
@@ -17879,6 +17894,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"b2231821-610f-4801-beaa-b9f2644381fa": {
+		"name": "android_leaderboards_v2",
+		"v": 15278,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
