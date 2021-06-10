@@ -21137,6 +21137,29 @@
 			}
 		]
 	},
+	"d685634f-fd2a-46cd-89df-30996367b585": {
+		"name": "ios_artificial_latency_theater_chat",
+		"v": 15250,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_700"
+			},
+			{
+				"weight": 0,
+				"value": "active_1400"
+			},
+			{
+				"weight": 0,
+				"value": "active_2100"
+			}
+		]
+	},
 	"d689aa01-6828-46db-b67d-b8644d771adb": {
 		"name": "ios_pbyp_preload",
 		"v": 12633,
@@ -22469,6 +22492,29 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"e5ae57db-3ae5-4d15-af27-f581e24b251c": {
+		"name": "ios_artificial_latency_profile",
+		"v": 15251,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_700"
+			},
+			{
+				"weight": 0,
+				"value": "active_1400"
+			},
+			{
+				"weight": 0,
+				"value": "active_2100"
 			}
 		]
 	},
