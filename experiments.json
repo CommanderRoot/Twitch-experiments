@@ -1989,15 +1989,15 @@
 	},
 	"14f245a5-6e8e-4e0c-9c98-00165398cda2": {
 		"name": "android_recommend_email_verification",
-		"v": 14418,
+		"v": 15281,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
