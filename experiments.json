@@ -4003,6 +4003,21 @@
 			}
 		]
 	},
+	"295bc7a3-2726-45d9-859f-9d7af07984d3": {
+		"name": "dart_thegathering1_vwr_423_dav_cmc_wch_gmg_push_2106_holdout",
+		"v": 15276,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"295f24fe-045a-4739-9ca0-7dc824e3e19b": {
 		"name": "android_multiview",
 		"v": 9135,
