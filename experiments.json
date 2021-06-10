@@ -10072,15 +10072,15 @@
 	},
 	"6609a9a1-b927-490f-9d7b-ce6df61a2786": {
 		"name": "ios_allow_modified_playback_rate",
-		"v": 15210,
+		"v": 15286,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "dont_allow"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "allow_v10.9"
 			}
 		]
