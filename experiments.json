@@ -7019,6 +7019,29 @@
 			}
 		]
 	},
+	"49cc2917-d8a3-42bc-96b5-2c58b680c92b": {
+		"name": "ios_artificial_latency_discover",
+		"v": 15249,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_700"
+			},
+			{
+				"weight": 0,
+				"value": "active_1400"
+			},
+			{
+				"weight": 0,
+				"value": "active_2100"
+			}
+		]
+	},
 	"49d102ea-7013-4fdc-ba8d-6a16f99a1a1e": {
 		"name": "android_emote_avatars",
 		"v": 11032,
@@ -16694,6 +16717,29 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"a9f7ca96-40f2-4047-a7d9-846f762c695a": {
+		"name": "ios_artificial_latency_following",
+		"v": 15248,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_700"
+			},
+			{
+				"weight": 0,
+				"value": "active_1400"
+			},
+			{
+				"weight": 0,
+				"value": "active_2100"
 			}
 		]
 	},
