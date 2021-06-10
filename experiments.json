@@ -25063,17 +25063,21 @@
 	},
 	"ffe656cb-149b-4618-942d-5ffa0d48795a": {
 		"name": "zoltar_model",
-		"v": 14934,
+		"v": 15279,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 77,
+				"weight": 76,
 				"value": "TreatmentExclude"
 			},
 			{
 				"weight": 1,
 				"value": "TreatmentExplore"
+			},
+			{
+				"weight": 1,
+				"value": "TreatmentMinBuf4"
 			},
 			{
 				"weight": 11,
