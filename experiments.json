@@ -3234,6 +3234,21 @@
 			}
 		]
 	},
+	"20aecbf5-d17d-46dd-99a0-95d966903baa": {
+		"name": "dart_international_price_mxtr_gift_remind_holdout",
+		"v": 15300,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"20c91448-ea6a-46ec-b065-fda344865a71": {
 		"name": "dart_cold_d21_top_streamers_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14480,
@@ -5939,6 +5954,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"3e958da8-9f98-41ba-8ba4-424f0a39210e": {
+		"name": "dart_international_price_mxtr_gift_holdout",
+		"v": 15302,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -17457,6 +17487,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"af533195-07d4-4532-ba6b-93dcb72ce5a8": {
+		"name": "dart_international_price_mxtr_prime_holdout",
+		"v": 15301,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
