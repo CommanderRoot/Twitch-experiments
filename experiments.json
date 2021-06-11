@@ -11405,6 +11405,21 @@
 			}
 		]
 	},
+	"726badbd-e3de-4f1f-8fb5-2d2b1379b47e": {
+		"name": "dart_euro2020keyevent1_vwr_445_dav_cmc_wch_spt_email_2106_it_holdout",
+		"v": 15311,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"727980ba-c2fc-4d9b-a346-0fb505289210": {
 		"name": "ios_ccpa_enabled",
 		"v": 9591,
@@ -14993,6 +15008,21 @@
 			{
 				"weight": 100,
 				"value": "active_v10.8"
+			}
+		]
+	},
+	"979aa473-ad9d-4940-bbf6-693acf6f6ac1": {
+		"name": "dart_euro2020keyevent1_vwr_445_dav_cmc_wch_spt_email_2106_dach_holdout",
+		"v": 15310,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
