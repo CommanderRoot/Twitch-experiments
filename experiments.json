@@ -689,6 +689,21 @@
 			}
 		]
 	},
+	"0699c9d5-feb4-4e55-9db0-b2c927fcca8a": {
+		"name": "dart_euro2020announcement_vwr_441_awa_cmc_lrn_spt_email_2106_es_holdout",
+		"v": 15313,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"069be213-3e0e-49af-83fc-70dc82277146": {
 		"name": "android_mgst_profile_image_upload",
 		"v": 8957,
