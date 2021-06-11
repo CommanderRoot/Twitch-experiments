@@ -8364,6 +8364,21 @@
 			}
 		]
 	},
+	"55d298cb-71ab-4c03-bbe8-7210debf8ae0": {
+		"name": "dart_fpso_prime_sub_localized_vwr_47941_cmm_cmc_sub_mis_email_2011_onsite",
+		"v": 15298,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"560f30f8-b4fc-4a9d-96ac-9143dc1f4110": {
 		"name": "recommended_clips_live_recs",
 		"v": 3322,
@@ -23218,7 +23233,7 @@
 	},
 	"ed07fb04-b763-479f-a6cb-a3f40bbec030": {
 		"name": "dart_fpso_prime_sub_localized_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
-		"v": 15139,
+		"v": 15297,
 		"t": 2,
 		"groups": [
 			{
