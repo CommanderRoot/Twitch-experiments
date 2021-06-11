@@ -4407,6 +4407,21 @@
 			}
 		]
 	},
+	"2ca08de9-4595-4023-bd02-11039c249af3": {
+		"name": "dart_primedaymerch0611_onsite_holdout",
+		"v": 15332,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2ca1c35c-fdbe-4b82-a1e2-33b9e3cffe90": {
 		"name": "ios_viewer_level_ads_enabled",
 		"v": 11332,
