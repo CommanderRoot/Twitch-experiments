@@ -20135,6 +20135,21 @@
 			}
 		]
 	},
+	"cb3fe730-3b7d-4fdb-8080-6e99803c6bc9": {
+		"name": "dart_international_price_mxtr_prime_remind_holdout",
+		"v": 15303,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"cbcd86f4-a040-4198-93ee-f7c32938abbf": {
 		"name": "dart_intlpricing_ctr_416_cmm_cmc_lrn_mis_email_2105_email",
 		"v": 14834,
