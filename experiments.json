@@ -7944,27 +7944,27 @@
 	},
 	"516bf473-da4c-4900-8a60-ca25bce16317": {
 		"name": "android_gql_batching",
-		"v": 14645,
+		"v": 15331,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 80,
 				"value": "active_50"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_100"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_250"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_500"
 			}
 		]
