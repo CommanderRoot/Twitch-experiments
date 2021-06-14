@@ -9762,6 +9762,21 @@
 			}
 		]
 	},
+	"6175d332-af46-4933-a5d3-a72cc139d8c2": {
+		"name": "dart_junepromo_vwr_444_sbs_cmc_buy_mis_oe_2106_it_holdout",
+		"v": 15347,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"617a039a-359c-4bbe-9c7c-f735eb0a6d11": {
 		"name": "dart_codwarzone_vwr_403_dav_cmc_wch_gmg_email_2104_holdout",
 		"v": 14399,
@@ -15430,6 +15445,21 @@
 			}
 		]
 	},
+	"998df2c6-5613-4a65-bed3-c7270377b68d": {
+		"name": "dart_junepromo_vwr_444_sbs_cmc_buy_mis_oe_2106_fr_holdout",
+		"v": 15346,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"998edd23-233e-4ab0-a803-93d3cefc1d38": {
 		"name": "android_friends_to_gql",
 		"v": 11915,
@@ -16534,6 +16564,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"a53b1454-3f94-485f-b9cf-00fbe4ffecec": {
+		"name": "dart_junepromo_vwr_444_sbs_cmc_buy_mis_oe_2106_en_holdout",
+		"v": 15345,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
