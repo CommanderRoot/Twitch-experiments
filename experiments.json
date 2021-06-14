@@ -2856,7 +2856,7 @@
 	},
 	"1b9b249a-2af9-48ff-a1fd-bd5369d42556": {
 		"name": "android_split_ad_from_vod_player_presenter",
-		"v": 15222,
+		"v": 15363,
 		"t": 1,
 		"groups": [
 			{
@@ -2864,8 +2864,12 @@
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_11.1"
 			}
 		]
 	},
@@ -9142,15 +9146,15 @@
 	},
 	"5c29076a-ea6b-4627-ad91-e0e903484dd9": {
 		"name": "new_hermes_rollout",
-		"v": 15355,
+		"v": 15361,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 99,
 				"value": "holdout"
 			},
 			{
-				"weight": 20,
+				"weight": 1,
 				"value": "rollout"
 			}
 		]
