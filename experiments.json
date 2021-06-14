@@ -10990,7 +10990,7 @@
 	},
 	"6d4e9181-30a3-4c5e-a3f9-054cabe2643a": {
 		"name": "vpr_model_switcher",
-		"v": 15365,
+		"v": 15372,
 		"t": 2,
 		"groups": [
 			{
@@ -10998,11 +10998,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 10,
 				"value": "CBModelTest-1"
 			},
 			{
-				"weight": 80,
+				"weight": 90,
 				"value": "HPeVPR2-2"
 			}
 		]
@@ -24090,6 +24090,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"f32d72a2-d8f7-40f5-b358-0d3cbf8710f2": {
+		"name": "dart_thegathering4nintendo_vwr_423_dav_cmc_wch_gmg_push_2106_holdout",
+		"v": 15371,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
 			}
 		]
 	},
