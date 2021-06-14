@@ -3405,16 +3405,16 @@
 	},
 	"218acff9-67f7-459f-9f3e-d9b41238e761": {
 		"name": "ht_celeb_experiment",
-		"v": 15058,
+		"v": 15367,
 		"t": 3,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "Control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "VariantA"
 			},
 			{
