@@ -3732,6 +3732,21 @@
 			}
 		]
 	},
+	"24a2afca-a249-451d-ae85-d33365726863": {
+		"name": "dart_junepromo_vwr_444_sbs_cmc_buy_mis_oe_2106_es_holdout",
+		"v": 15348,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"24a9fd71-71a6-4d1a-890a-9c61a6475f7e": {
 		"name": "flix_promoter_rollout",
 		"v": 10004,
