@@ -297,6 +297,21 @@
 			}
 		]
 	},
+	"0275e081-851e-4297-888e-4001c4bfe4c3": {
+		"name": "dart_euro2020keyevent2_vwr_445_dav_cmc_wch_spt_email_2106_es_holdout",
+		"v": 15340,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"02e6abe9-aa6b-4efe-9175-65b92ac2fdc3": {
 		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13552,
