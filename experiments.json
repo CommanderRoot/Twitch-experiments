@@ -18109,11 +18109,11 @@
 	},
 	"b1dc7781-ac6b-4b86-8b49-007046dd52dc": {
 		"name": "ios_async_renderer",
-		"v": 15339,
+		"v": 15378,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -18125,7 +18125,7 @@
 				"value": "async_v10.7"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "async_v11.0"
 			}
 		]
