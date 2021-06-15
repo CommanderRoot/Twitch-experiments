@@ -15460,21 +15460,6 @@
 			}
 		]
 	},
-	"98fb4dd5-4e31-47b6-9221-5d9c320013f9": {
-		"name": "android_automatic_prerolls_disabled",
-		"v": 15398,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"990d0476-ca5a-4acc-91c5-1059046ec333": {
 		"name": "dart_anzstreamerbattlesmidcampaign_vwr_0_dav_cmc_wch_gmg_push_2104_holdout",
 		"v": 14211,
