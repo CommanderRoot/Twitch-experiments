@@ -21276,6 +21276,21 @@
 			}
 		]
 	},
+	"d3f6b201-3e0a-4d96-b720-53aca4acb474": {
+		"name": "ios_vaes_sanitize_clickthrough_url",
+		"v": 15375,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "sanitize_v11.1"
+			}
+		]
+	},
 	"d41b345c-67a6-49d4-b396-c56f62c2d38c": {
 		"name": "android_poll_vote_with_bits_and_copo",
 		"v": 11242,
