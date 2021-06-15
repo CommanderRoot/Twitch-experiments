@@ -13831,6 +13831,21 @@
 			}
 		]
 	},
+	"88b69dfd-dfb4-4980-bc73-de51a315bf68": {
+		"name": "dart_euro2020keyevent3_vwr_445_dav_cmc_wch_spt_email_2106_dach_holdout",
+		"v": 15379,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"88c6dc9d-eb3c-4763-966d-e5537e78af50": {
 		"name": "xarth_debug_menu_special_access_users",
 		"v": 10520,
