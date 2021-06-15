@@ -19947,7 +19947,7 @@
 	},
 	"c5e2ec34-e1e8-4552-94fe-ede296cf3514": {
 		"name": "android_chat_settings",
-		"v": 15374,
+		"v": 15387,
 		"t": 1,
 		"groups": [
 			{
@@ -19957,6 +19957,10 @@
 			{
 				"weight": 0,
 				"value": "active_11.1"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
