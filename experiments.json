@@ -11525,6 +11525,25 @@
 			}
 		]
 	},
+	"720b92aa-fa9a-4683-af8b-362ce083f827": {
+		"name": "android_disable_preroll_ad",
+		"v": 15395,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "not_disable"
+			},
+			{
+				"weight": 0,
+				"value": "disable_live"
+			},
+			{
+				"weight": 0,
+				"value": "disable_live_and_vod"
+			}
+		]
+	},
 	"720e369d-caed-41f7-8869-f90199bdac6a": {
 		"name": "ios_international_pricing_education_phase_2",
 		"v": 12432,
@@ -15443,7 +15462,7 @@
 	},
 	"98fb4dd5-4e31-47b6-9221-5d9c320013f9": {
 		"name": "android_automatic_prerolls_disabled",
-		"v": 14913,
+		"v": 15398,
 		"t": 1,
 		"groups": [
 			{
