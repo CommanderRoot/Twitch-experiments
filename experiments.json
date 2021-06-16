@@ -5424,6 +5424,21 @@
 			}
 		]
 	},
+	"365bff31-5b22-454a-8438-0f8d56f561fa": {
+		"name": "subtier_button_price_cta",
+		"v": 15428,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "Variant_price_in_btn"
+			}
+		]
+	},
 	"36a0e500-f117-41dd-8421-3e3db7d567dd": {
 		"name": "CREATIVE_DIRECTORY_CVS",
 		"v": 386,
