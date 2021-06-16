@@ -18203,11 +18203,11 @@
 	},
 	"b1dc7781-ac6b-4b86-8b49-007046dd52dc": {
 		"name": "ios_async_renderer",
-		"v": 15408,
+		"v": 15424,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -18219,7 +18219,7 @@
 				"value": "async_v10.7"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "async_v11.0"
 			}
 		]
@@ -23858,7 +23858,7 @@
 	},
 	"eed09635-5419-4e99-98d0-67a277c512ef": {
 		"name": "android_player_warp",
-		"v": 12065,
+		"v": 15427,
 		"t": 1,
 		"groups": [
 			{
