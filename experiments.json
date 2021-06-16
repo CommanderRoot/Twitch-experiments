@@ -25171,15 +25171,15 @@
 	},
 	"fcc6623d-4288-45f3-8cf5-0c90904baf3f": {
 		"name": "android_ivs_analytics_override",
-		"v": 14941,
+		"v": 15423,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active"
 			}
 		]
