@@ -22654,7 +22654,7 @@
 	},
 	"e30dab8b-6dae-455c-b768-fb71def0ba8c": {
 		"name": "ios_cookie_consent_enabled",
-		"v": 15236,
+		"v": 15417,
 		"t": 1,
 		"groups": [
 			{
@@ -22662,11 +22662,11 @@
 				"value": "active_v10.3"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v10.8"
 			}
 		]
@@ -24362,15 +24362,15 @@
 	},
 	"f4d7129f-07e2-404b-bb53-1fb7fa0bffb2": {
 		"name": "android_cookie_consent",
-		"v": 15235,
+		"v": 15416,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_10.8"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
