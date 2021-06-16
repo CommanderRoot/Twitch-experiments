@@ -3343,6 +3343,21 @@
 			}
 		]
 	},
+	"211859dd-93ca-43c4-a11b-1eaf191fa0e0": {
+		"name": "dart_junepartnernewsletter_ctr_446_awa_cmc_lrn_mis_email_2106_en_holdout",
+		"v": 15407,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2126e914-e26c-484f-9fb3-e5c87cd282e1": {
 		"name": "dart_lol_extension_current_holdout",
 		"v": 10314,
