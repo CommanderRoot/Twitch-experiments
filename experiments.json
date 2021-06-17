@@ -1354,7 +1354,7 @@
 	},
 	"0d2af185-1195-4816-a13a-8b2fa9fc8cd9": {
 		"name": "social_proof_left_nav",
-		"v": 14925,
+		"v": 15455,
 		"t": 1,
 		"groups": [
 			{
@@ -1376,6 +1376,14 @@
 			{
 				"weight": 0,
 				"value": "activity_below"
+			},
+			{
+				"weight": 0,
+				"value": "fmp_similarity_title"
+			},
+			{
+				"weight": 0,
+				"value": "activity_similarity_title"
 			}
 		]
 	},
@@ -17924,15 +17932,15 @@
 	},
 	"afae8712-272f-4f6c-9d5c-083117cf1530": {
 		"name": "ios_chat_settings",
-		"v": 13782,
+		"v": 15459,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
@@ -20064,15 +20072,15 @@
 	},
 	"c5e2ec34-e1e8-4552-94fe-ede296cf3514": {
 		"name": "android_chat_settings",
-		"v": 15387,
+		"v": 15460,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_11.1"
 			},
 			{
