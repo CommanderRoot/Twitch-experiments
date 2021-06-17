@@ -4293,8 +4293,8 @@
 		]
 	},
 	"2a90d5d9-47ba-47d5-9f92-4b12a7d62ae2": {
-		"name": "leftnav_promoted_streams",
-		"v": 15092,
+		"name": "leftnav_recommended_promoted_streams",
+		"v": 15451,
 		"t": 2,
 		"groups": [
 			{
@@ -11095,7 +11095,7 @@
 	},
 	"6d4e9181-30a3-4c5e-a3f9-054cabe2643a": {
 		"name": "vpr_model_switcher",
-		"v": 15372,
+		"v": 15454,
 		"t": 2,
 		"groups": [
 			{
@@ -11103,11 +11103,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "CBModelTest-1"
 			},
 			{
-				"weight": 90,
+				"weight": 95,
 				"value": "HPeVPR2-2"
 			}
 		]
@@ -18702,6 +18702,29 @@
 			{
 				"weight": 100,
 				"value": "v7.4"
+			}
+		]
+	},
+	"b525d2cb-6aea-4d7c-ac32-92a46541d7f2": {
+		"name": "ios_gql_batching",
+		"v": 15453,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "no_batching"
+			},
+			{
+				"weight": 0,
+				"value": "batch_50ms"
+			},
+			{
+				"weight": 0,
+				"value": "batch_100ms"
+			},
+			{
+				"weight": 0,
+				"value": "batch_500ms"
 			}
 		]
 	},
