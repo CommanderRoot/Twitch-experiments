@@ -6705,15 +6705,15 @@
 	},
 	"42bf0529-1208-4934-8442-6de5b822712b": {
 		"name": "dart_stream_summary_email",
-		"v": 15237,
+		"v": 15441,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "channel-0_Stream Summary"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "channel-0_Stream Summary A/A"
 			}
 		]
