@@ -5141,7 +5141,7 @@
 	},
 	"330519b5-2cbe-473c-8831-066dee6807f0": {
 		"name": "dart_euro2020keyevent4_vwr_445_dav_cmc_wch_spt_email_2106_en_holdout",
-		"v": 15464,
+		"v": 15465,
 		"t": 2,
 		"groups": [
 			{
@@ -8256,6 +8256,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"5203761c-7bb9-4907-9432-406304753b0a": {
+		"name": "dart_euro2020keyevent5_vwr_445_dav_cmc_wch_spt_email_2106_de_holdout",
+		"v": 15467,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -25119,6 +25134,21 @@
 			},
 			{
 				"weight": 98,
+				"value": "allowed"
+			}
+		]
+	},
+	"fb833564-a85c-4172-a75e-1f413cebdd4f": {
+		"name": "dart_euro2020keyevent4_vwr_445_dav_cmc_wch_spt_push_2106_en_holdout",
+		"v": 15466,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
 				"value": "allowed"
 			}
 		]
