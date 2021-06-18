@@ -4724,6 +4724,21 @@
 			}
 		]
 	},
+	"2fe65b15-2d3f-46d6-9392-a6fd9149712f": {
+		"name": "dart_euro2020heartbeat2_vwr_441_awa_cmc_lrn_spt_email_2106_holdout",
+		"v": 15469,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3041f4a5-97dc-4864-a663-5ea31693a082": {
 		"name": "mobile_web_automatic_deepview",
 		"v": 10406,
