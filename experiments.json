@@ -24462,6 +24462,21 @@
 			}
 		]
 	},
+	"f4528a7a-9f29-485b-a2c5-15e30b65a183": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_en_holdout",
+		"v": 15478,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f47e44f2-7a81-4005-bb04-5d6d69018d61": {
 		"name": "android_client_side_pbyp_use_secondary_player",
 		"v": 12593,
