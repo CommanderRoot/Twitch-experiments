@@ -929,6 +929,21 @@
 			}
 		]
 	},
+	"088552a6-9ea5-416f-8efd-e0e905a69295": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_it_holdout",
+		"v": 15489,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"088f409b-3e9d-4ebe-aeb7-4df12f825f6f": {
 		"name": "surestream_rollout_uwp",
 		"v": 7141,
@@ -2464,6 +2479,21 @@
 			{
 				"weight": 200,
 				"value": "variant"
+			}
+		]
+	},
+	"18a0d932-81ab-4b0f-9c40-4051aea7fe8b": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_fr_holdout",
+		"v": 15488,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -10983,6 +11013,21 @@
 			},
 			{
 				"weight": 70,
+				"value": "allowed"
+			}
+		]
+	},
+	"6ab61a09-637c-4784-9dbe-286dc9b70e90": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_de_holdout",
+		"v": 15487,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
