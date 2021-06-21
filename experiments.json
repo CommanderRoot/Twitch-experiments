@@ -2591,6 +2591,21 @@
 			}
 		]
 	},
+	"1967126a-1819-48ff-a46e-61b614e12571": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_de_holdout",
+		"v": 15479,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"198744b6-e96f-413b-aaf6-eab0128c9833": {
 		"name": "signup_redirect_search",
 		"v": 2153,
@@ -3817,6 +3832,21 @@
 			{
 				"weight": 100,
 				"value": "variant0"
+			}
+		]
+	},
+	"24bc1ebc-eaaa-4185-b15a-56db6088f542": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_es_holdout",
+		"v": 15482,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -10078,6 +10108,21 @@
 			}
 		]
 	},
+	"631da59e-298b-4cb1-ad52-2ef6919023f9": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_it_holdout",
+		"v": 15481,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6326771d-52c4-4005-848f-842511727d82": {
 		"name": "ios_gql_actions_api",
 		"v": 11714,
@@ -10439,6 +10484,21 @@
 			{
 				"weight": 100,
 				"value": "allow_v10.9"
+			}
+		]
+	},
+	"66266618-5669-47b8-b367-491e7b98ae43": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_fr_holdout",
+		"v": 15480,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
