@@ -11469,6 +11469,21 @@
 			}
 		]
 	},
+	"6f472d02-b2c7-4859-88b5-ac6971a21a44": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_en_holdout",
+		"v": 15491,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6fb32348-8b9f-4319-9948-4a3c126ac7ff": {
 		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14470,
@@ -12772,6 +12787,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"7ac27307-2c77-4c58-a8f7-5a3961eb27bb": {
+		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_es_holdout",
+		"v": 15490,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
