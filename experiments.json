@@ -8668,6 +8668,21 @@
 			}
 		]
 	},
+	"548d3912-40d8-46a3-bfd9-2bd2654a7626": {
+		"name": "ios_creator_mode_aa_test",
+		"v": 15505,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
 	"54dc030c-a2c3-43c8-88ff-a09a1b0bf973": {
 		"name": "ios_inter_font",
 		"v": 13799,
@@ -24108,6 +24123,21 @@
 			{
 				"weight": 50,
 				"value": "treatment"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
+	"eddd4a82-22e8-4a78-86d5-a444bee061a2": {
+		"name": "android_creator_mode_aa_test",
+		"v": 15506,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
 			},
 			{
 				"weight": 50,
