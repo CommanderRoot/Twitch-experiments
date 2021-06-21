@@ -22474,11 +22474,11 @@
 	},
 	"dca32c9d-6167-4ae1-93d8-695876f136e5": {
 		"name": "android_amazon_subs_webview",
-		"v": 15132,
+		"v": 15486,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -22486,7 +22486,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_11.0"
 			}
 		]
