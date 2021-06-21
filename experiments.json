@@ -15881,6 +15881,21 @@
 			}
 		]
 	},
+	"99c35e9d-eead-4b21-b9df-dfaba307c7b0": {
+		"name": "ios_playback_global_retry_limit",
+		"v": 15502,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "no_gloal_limit"
+			},
+			{
+				"weight": 100,
+				"value": "global_limit_active"
+			}
+		]
+	},
 	"99c425d5-7d9f-47bd-a13a-409903cd6515": {
 		"name": "SIGNUP_REDIRECT",
 		"v": 2033,
