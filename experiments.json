@@ -18579,16 +18579,16 @@
 	},
 	"b2231821-610f-4801-beaa-b9f2644381fa": {
 		"name": "android_leaderboards_v2",
-		"v": 15278,
+		"v": 15503,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_development"
+				"weight": 25,
+				"value": "active_11.1"
 			}
 		]
 	},
