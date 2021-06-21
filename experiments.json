@@ -8042,16 +8042,24 @@
 	},
 	"4f385872-dce2-4361-8dd5-2d84a4237cb1": {
 		"name": "ios_disable_automatic_prerolls",
-		"v": 14869,
+		"v": 15508,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "prerolls_disabled_v11.0"
+				"weight": 100,
+				"value": "prerolls_enabled_v11.2"
 			},
 			{
-				"weight": 100,
-				"value": "prerolls_enabled_v11.0"
+				"weight": 0,
+				"value": "prerolls_disabled_vod_v11.2"
+			},
+			{
+				"weight": 0,
+				"value": "prerolls_disabled_live_v11.2"
+			},
+			{
+				"weight": 0,
+				"value": "prerolls_disabled_all_v11.2"
 			}
 		]
 	},
