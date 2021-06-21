@@ -5781,6 +5781,21 @@
 			}
 		]
 	},
+	"38ca3c14-3729-4e7c-bd44-509a321601b7": {
+		"name": "dart_codwarzone_vwr_403_dav_cmc_wch_gmg_email_2106_holdout",
+		"v": 15483,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"39a78eae-7b21-4ff8-8c27-d8353e7531d4": {
 		"name": "dads_use_twitch_raids",
 		"v": 13652,
