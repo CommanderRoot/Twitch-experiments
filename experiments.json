@@ -16246,6 +16246,21 @@
 			}
 		]
 	},
+	"9cabf31d-0be7-4d83-85fa-45ff7c0bd3a5": {
+		"name": "ios_audio_animation",
+		"v": 15515,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
 	"9ccafe79-c143-4404-b405-309d4f9b4748": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13562,
