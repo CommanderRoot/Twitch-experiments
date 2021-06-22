@@ -12634,7 +12634,7 @@
 	},
 	"79061477-2365-4cfe-b605-e4bf843eb9f3": {
 		"name": "happening_now_notifications",
-		"v": 15507,
+		"v": 15522,
 		"t": 1,
 		"groups": [
 			{
@@ -21272,6 +21272,21 @@
 			}
 		]
 	},
+	"ce7a9de1-1e09-4cbf-9845-646dd3a316a7": {
+		"name": "ios_creator_mode",
+		"v": 15520,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "development"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"ceb950a6-f5c4-4fd8-b00d-d689540abb04": {
 		"name": "dart_sgf_neville_onsite_holdout",
 		"v": 10724,
@@ -23565,6 +23580,21 @@
 			{
 				"weight": 0,
 				"value": "recaptcha_deprecated"
+			}
+		]
+	},
+	"e7bfd09f-5066-41ed-b668-a3148162e6d9": {
+		"name": "ios_wrap_video_player_view_in_stack_view",
+		"v": 15519,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "dont_wrap_v11.2"
+			},
+			{
+				"weight": 0,
+				"value": "wrap_v11.2"
 			}
 		]
 	},
