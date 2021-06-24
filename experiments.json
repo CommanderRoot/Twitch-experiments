@@ -2183,6 +2183,21 @@
 			}
 		]
 	},
+	"15d3e78e-4757-43cc-a863-297b3560b9f0": {
+		"name": "dart_japanstreamerbattlexultimatechickenhorse_vwr_0_dav_trn_wch_mis_emailpush_2106_email",
+		"v": 15581,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"15d4dde3-f60e-47fe-8946-58d494919a20": {
 		"name": "dart_surge_pricing_100_onsite_2_onsite",
 		"v": 8932,
@@ -10300,6 +10315,21 @@
 			}
 		]
 	},
+	"638cb3cd-dd35-45e0-b2e1-a73f24bddb92": {
+		"name": "dart_japanstreamerbattlexultimatechickenhorse_vwr_0_dav_trn_wch_mis_emailpush_2106_push",
+		"v": 15582,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"63a0ba43-12a3-46ff-8727-8991319b9c3d": {
 		"name": "android_device_targeting_parameters",
 		"v": 14393,
@@ -17846,6 +17876,21 @@
 			{
 				"weight": 100,
 				"value": "yes"
+			}
+		]
+	},
+	"ad7bae79-ced5-4275-bc47-fa3fe770a1a5": {
+		"name": "dart_japanstreamerbattlexultimatechickenhorse_vwr_0_dav_trn_wch_mis_emailpush_2106_holdout",
+		"v": 15580,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
