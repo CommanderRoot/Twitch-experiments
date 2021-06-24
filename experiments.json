@@ -2183,6 +2183,21 @@
 			}
 		]
 	},
+	"15ac662d-70b9-4177-8c14-235b3f64bad7": {
+		"name": "ios_playercore_mode",
+		"v": 15585,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "video_toolbox"
+			},
+			{
+				"weight": 0,
+				"value": "loopback"
+			}
+		]
+	},
 	"15b60feb-8ac8-4595-8a23-4fbfd86392f8": {
 		"name": "dart_cold_d7_top_streams_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 12660,
