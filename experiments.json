@@ -1582,6 +1582,21 @@
 			}
 		]
 	},
+	"0f35551d-f59f-4a36-b354-3df8f31611e1": {
+		"name": "dart_riotsummerrumblefinals_vwr_447_dav_cmc_wch_gmg_email_2106_holdout",
+		"v": 15584,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0f38e1d8-4437-473d-b75e-86d83a8f49fa": {
 		"name": "twitchguard-launch-experiment",
 		"v": 8988,
