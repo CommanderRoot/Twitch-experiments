@@ -10392,15 +10392,15 @@
 	},
 	"63ce5036-1f44-4555-9aac-1daa84571ae8": {
 		"name": "mads_poll_chanel_points",
-		"v": 15604,
+		"v": 15605,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "CHANNEL_POINTS_0x"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "CHANNEL_POINTS_1x"
 			}
 		]
@@ -19347,15 +19347,15 @@
 	},
 	"b8428da6-72f2-4932-b47d-e19163cf2cfd": {
 		"name": "new_hermes_high_urgency_rollout",
-		"v": 15603,
+		"v": 15606,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 94,
+				"weight": 88,
 				"value": "holdout"
 			},
 			{
-				"weight": 6,
+				"weight": 12,
 				"value": "rollout"
 			}
 		]
