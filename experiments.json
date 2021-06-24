@@ -2185,16 +2185,16 @@
 	},
 	"15ac662d-70b9-4177-8c14-235b3f64bad7": {
 		"name": "ios_playercore_mode",
-		"v": 15585,
+		"v": 15596,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "video_toolbox"
+				"value": "playbacksink"
 			},
 			{
 				"weight": 0,
-				"value": "loopback"
+				"value": "avplayersink"
 			}
 		]
 	},
@@ -10392,7 +10392,7 @@
 	},
 	"63ce5036-1f44-4555-9aac-1daa84571ae8": {
 		"name": "mads_poll_chanel_points",
-		"v": 15578,
+		"v": 15597,
 		"t": 1,
 		"groups": [
 			{
