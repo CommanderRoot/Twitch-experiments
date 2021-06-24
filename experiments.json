@@ -13166,6 +13166,21 @@
 			}
 		]
 	},
+	"7cd9f0ac-89d0-4ee8-94f9-723b4633ab2d": {
+		"name": "dart_wwfest_vwr_435_dav_cmc_mis_gmg_email_2106_holdout",
+		"v": 15608,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7cdee701-0ac3-4b47-94d3-b47b3b707dc8": {
 		"name": "nielsen_analytics",
 		"v": 7985,
