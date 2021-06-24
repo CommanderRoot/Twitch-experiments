@@ -1384,35 +1384,35 @@
 	},
 	"0d2af185-1195-4816-a13a-8b2fa9fc8cd9": {
 		"name": "social_proof_left_nav",
-		"v": 15587,
+		"v": 15593,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 88,
+				"weight": 82,
 				"value": "control"
 			},
 			{
-				"weight": 2,
+				"weight": 3,
 				"value": "fmp_above"
 			},
 			{
-				"weight": 2,
+				"weight": 3,
 				"value": "fmp_below"
 			},
 			{
-				"weight": 2,
+				"weight": 3,
 				"value": "activity_above"
 			},
 			{
-				"weight": 2,
+				"weight": 3,
 				"value": "activity_below"
 			},
 			{
-				"weight": 2,
+				"weight": 3,
 				"value": "fmp_similarity_title"
 			},
 			{
-				"weight": 2,
+				"weight": 3,
 				"value": "activity_similarity_title"
 			}
 		]
@@ -9477,15 +9477,15 @@
 	},
 	"5c29076a-ea6b-4627-ad91-e0e903484dd9": {
 		"name": "new_hermes_rollout",
-		"v": 15586,
+		"v": 15591,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "holdout"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "rollout"
 			}
 		]
