@@ -10437,15 +10437,15 @@
 	},
 	"63ce5036-1f44-4555-9aac-1daa84571ae8": {
 		"name": "mads_poll_chanel_points",
-		"v": 15605,
+		"v": 15626,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "CHANNEL_POINTS_0x"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "CHANNEL_POINTS_1x"
 			}
 		]
