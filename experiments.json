@@ -95,15 +95,15 @@
 	},
 	"009de4ba-f40c-4602-bb32-dd5098309f84": {
 		"name": "ios_leaderboards",
-		"v": 12370,
+		"v": 15619,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active"
 			}
 		]
