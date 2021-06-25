@@ -3822,6 +3822,21 @@
 			}
 		]
 	},
+	"23f22968-bfea-42a2-b461-f409508473b9": {
+		"name": "android_creator_mode",
+		"v": 15623,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"241b0c39-6f3a-407a-8b4a-9d8d5b5658aa": {
 		"name": "dart_aucalootcave_vwr_686_cmm_cmc_buy_misc_email_2011_holdout",
 		"v": 12698,
@@ -23093,6 +23108,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"e0920b61-5c3e-46ff-82f8-2f9c989d4295": {
+		"name": "android_creator_mode_aa_test",
+		"v": 15622,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
 			}
 		]
 	},
