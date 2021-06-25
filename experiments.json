@@ -3488,15 +3488,15 @@
 	},
 	"210067b4-7808-40da-aaca-886f1c1bd524": {
 		"name": "TWILIGHT_AAX_DISPLAY_NA",
-		"v": 15496,
+		"v": 15620,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "GAM"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "AAX"
 			}
 		]
@@ -15252,15 +15252,15 @@
 	},
 	"92e71f71-8c36-4c11-9496-42f4f4dc9bac": {
 		"name": "TWILIGHT_AAX_DISPLAY_APAC",
-		"v": 15497,
+		"v": 15621,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "GAM"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "AAX"
 			}
 		]
