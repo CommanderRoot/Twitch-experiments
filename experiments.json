@@ -1384,35 +1384,35 @@
 	},
 	"0d2af185-1195-4816-a13a-8b2fa9fc8cd9": {
 		"name": "social_proof_left_nav",
-		"v": 15593,
+		"v": 15617,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 82,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 3,
+				"weight": 5,
 				"value": "fmp_above"
 			},
 			{
-				"weight": 3,
+				"weight": 5,
 				"value": "fmp_below"
 			},
 			{
-				"weight": 3,
+				"weight": 5,
 				"value": "activity_above"
 			},
 			{
-				"weight": 3,
+				"weight": 5,
 				"value": "activity_below"
 			},
 			{
-				"weight": 3,
+				"weight": 5,
 				"value": "fmp_similarity_title"
 			},
 			{
-				"weight": 3,
+				"weight": 5,
 				"value": "activity_similarity_title"
 			}
 		]
