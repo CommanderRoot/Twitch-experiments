@@ -18390,15 +18390,15 @@
 	},
 	"afae8712-272f-4f6c-9d5c-083117cf1530": {
 		"name": "ios_chat_settings",
-		"v": 15459,
+		"v": 15616,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "active"
 			}
 		]
