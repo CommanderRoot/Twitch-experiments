@@ -7877,6 +7877,29 @@
 			}
 		]
 	},
+	"4d1a7041-5e37-4471-9125-41b547355831": {
+		"name": "vx_follow_blocking",
+		"v": 15642,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "followbot_model"
+			},
+			{
+				"weight": 0,
+				"value": "ratelimit"
+			},
+			{
+				"weight": 0,
+				"value": "both"
+			}
+		]
+	},
 	"4d280622-264e-4d2b-ba07-f064d3d67e85": {
 		"name": "ios_profile_autoplay",
 		"v": 13252,
