@@ -19407,15 +19407,15 @@
 	},
 	"b8428da6-72f2-4932-b47d-e19163cf2cfd": {
 		"name": "new_hermes_high_urgency_rollout",
-		"v": 15606,
+		"v": 15637,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 88,
+				"weight": 50,
 				"value": "holdout"
 			},
 			{
-				"weight": 12,
+				"weight": 50,
 				"value": "rollout"
 			}
 		]
