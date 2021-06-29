@@ -19354,15 +19354,15 @@
 	},
 	"b734a839-9d24-4059-ba9e-a824c24acd97": {
 		"name": "hermes_east_ses_rollout",
-		"v": 15532,
+		"v": 15650,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "rollout"
 			}
 		]
