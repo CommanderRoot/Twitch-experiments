@@ -451,6 +451,21 @@
 			}
 		]
 	},
+	"05044a5f-f0e5-4cb5-bfd9-766fe2165010": {
+		"name": "dart_brit_test_permissions_holdout",
+		"v": 15657,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "allowed"
+			}
+		]
+	},
 	"05129a06-85ea-484f-ad10-38907fbbb781": {
 		"name": "ios_artificial_latency_browse",
 		"v": 15110,
