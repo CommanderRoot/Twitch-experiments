@@ -12822,15 +12822,15 @@
 	},
 	"79061477-2365-4cfe-b605-e4bf843eb9f3": {
 		"name": "happening_now_notifications",
-		"v": 15599,
+		"v": 15662,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
