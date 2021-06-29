@@ -11695,6 +11695,21 @@
 			}
 		]
 	},
+	"6fbde053-695a-44f4-a518-9de5c698b87e": {
+		"name": "cheering2.0_bits_pinata",
+		"v": 15659,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "Control"
+			},
+			{
+				"weight": 0,
+				"value": "Experiment"
+			}
+		]
+	},
 	"6fdd956e-23a3-48ed-afcd-2b7342d62cda": {
 		"name": "dart_hyperscape_emotes_holdout",
 		"v": 11423,
@@ -18925,7 +18940,7 @@
 	},
 	"b29512a7-f588-4218-b951-5042c871a818": {
 		"name": "android_vast_parser_use_kotlin",
-		"v": 14749,
+		"v": 15660,
 		"t": 1,
 		"groups": [
 			{
@@ -18933,8 +18948,12 @@
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_11.2"
 			}
 		]
 	},
