@@ -2147,19 +2147,19 @@
 	},
 	"1574b000-7a17-4807-bb00-04afebf3926f": {
 		"name": "iOS_verification_at_sign_up",
-		"v": 15667,
+		"v": 15705,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 94,
 				"value": "variant_1"
 			},
 			{
-				"weight": 0,
+				"weight": 3,
 				"value": "variant_2"
 			},
 			{
-				"weight": 0,
+				"weight": 3,
 				"value": "variant_3"
 			}
 		]
@@ -5530,6 +5530,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"3520b529-e266-454f-98b7-9460bf80c77c": {
+		"name": "dart_stream_summary_cta_all_email",
+		"v": 15700,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -26160,19 +26175,19 @@
 	},
 	"fe15e4e9-20a0-49d3-a992-e7063098ff4e": {
 		"name": "android_verification_at_sign_up",
-		"v": 15668,
+		"v": 15702,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 94,
 				"value": "variant_1"
 			},
 			{
-				"weight": 0,
+				"weight": 3,
 				"value": "variant_2"
 			},
 			{
-				"weight": 0,
+				"weight": 3,
 				"value": "variant_3"
 			}
 		]
