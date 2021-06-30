@@ -5723,15 +5723,15 @@
 	},
 	"36a39ecd-42d2-4c4f-ad43-1d40b48378c2": {
 		"name": "multimonth_evergreen_discount",
-		"v": 15681,
+		"v": 15708,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 95,
 				"value": "variant"
 			}
 		]
