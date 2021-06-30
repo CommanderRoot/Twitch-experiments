@@ -8407,15 +8407,15 @@
 	},
 	"515d6868-d140-49b3-9d83-f4935a588ef9": {
 		"name": "android_leaderboards_global",
-		"v": 15536,
+		"v": 15675,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_11.1"
 			}
 		]
@@ -18880,15 +18880,15 @@
 	},
 	"b2231821-610f-4801-beaa-b9f2644381fa": {
 		"name": "android_leaderboards_v2",
-		"v": 15503,
+		"v": 15674,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_11.1"
 			}
 		]
