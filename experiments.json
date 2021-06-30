@@ -3125,6 +3125,21 @@
 			}
 		]
 	},
+	"1cd81a4e-2c1b-48b6-9981-eee7c511d9b9": {
+		"name": "dart_twitchrivals2_vwr_449_dav_cmc_wch_gmg_peo_2106_holdout",
+		"v": 15694,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1d8c0cdd-2650-461c-88be-627710850df9": {
 		"name": "dart_residentevil_vwr_409_dav_cmc_wch_gmg_peo_2105_holdout",
 		"v": 14587,
