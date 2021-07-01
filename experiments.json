@@ -12910,6 +12910,21 @@
 			}
 		]
 	},
+	"78fc88b3-5d5e-49e5-9b95-539cb65c31e7": {
+		"name": "android_mgst_dynamic_resolution",
+		"v": 15726,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"79061477-2365-4cfe-b605-e4bf843eb9f3": {
 		"name": "happening_now_notifications",
 		"v": 15662,
