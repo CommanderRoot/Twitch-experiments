@@ -5347,15 +5347,15 @@
 	},
 	"32bd3b7d-d9e4-4175-af97-5932ac84215d": {
 		"name": "ios_riddle_staff_beta",
-		"v": 15725,
+		"v": 15727,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
