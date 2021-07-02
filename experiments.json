@@ -18272,23 +18272,23 @@
 	},
 	"adfd6c4a-a535-444a-9453-5a52d65c24e9": {
 		"name": "dashboard_home_broadcast_tool_upsell",
-		"v": 15119,
+		"v": 15739,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "variant_OBS"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "variant_SLOBS"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "variant_TS"
 			}
 		]
