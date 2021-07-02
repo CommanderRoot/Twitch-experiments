@@ -22273,6 +22273,21 @@
 			}
 		]
 	},
+	"d4a19610-7573-4db0-aca5-c4eedc2b6df1": {
+		"name": "android_schedule_detail",
+		"v": 15731,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"d4efa074-e467-47a1-aa47-401efbd9686e": {
 		"name": "dart_escapefromtarkov_vwr_410_dav_cmc_wch_gmg_po_2105_holdout",
 		"v": 14786,
