@@ -10473,6 +10473,33 @@
 			}
 		]
 	},
+	"634730a7-07b7-4f4d-b61a-f9568dc2de85": {
+		"name": "dart_slcurtestnewd3tpstreams_vwr_458_dav_cmc_wch_mis_email_2107_email",
+		"v": 15738,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
+			}
+		]
+	},
 	"6349b5c3-8c15-4e40-a5e8-ce49255f8fbc": {
 		"name": "pushy_reminders_rollout",
 		"v": 12687,
@@ -13797,6 +13824,21 @@
 	"80b29e12-d6bb-461b-aecc-bb69165f1aeb": {
 		"name": "dart_de_lootcave_vwr_686_cmm_cmc_buy_misc_email_2011_holdout",
 		"v": 12700,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"80d35292-9569-4c83-adba-38d212d8b6bc": {
+		"name": "dart_slcurtestnewd3tpstreams_vwr_458_dav_cmc_wch_mis_email_2107_holdout",
+		"v": 15737,
 		"t": 2,
 		"groups": [
 			{
