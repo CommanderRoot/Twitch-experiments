@@ -406,6 +406,21 @@
 			}
 		]
 	},
+	"049e1b98-0676-441b-a6b9-652e9499a914": {
+		"name": "dart_slsoctestnewd3tpstreams_vwr_459_dav_cmc_wch_mis_email_2107_holdout",
+		"v": 15742,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"04adab74-98c1-4adb-88ea-c896504692d3": {
 		"name": "ios_native_bits_iap_onboarding_feature",
 		"v": 9183,
@@ -5883,6 +5898,33 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"376cf7d1-14c7-4854-b8cf-4be42452c02d": {
+		"name": "dart_slsoctestnewd3tpstreams_vwr_459_dav_cmc_wch_mis_email_2107_email",
+		"v": 15743,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
 			}
 		]
 	},
