@@ -11011,6 +11011,21 @@
 			}
 		]
 	},
+	"6762cedc-a645-4b34-bd6b-221b5a5a3421": {
+		"name": "dart_euro2020final_vwr_445_dav_cmc_wch_spt_oe_2107_en_holdout",
+		"v": 15754,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"676f7ba1-6f07-4782-adc2-99eaf7e04361": {
 		"name": "SIGNUP_INTERCEPT",
 		"v": 1875,
