@@ -19686,16 +19686,16 @@
 	},
 	"b80b4c99-86a1-4588-82c0-57fb314fa2de": {
 		"name": "creatorhome_preaffiliates_experience",
-		"v": 14662,
+		"v": 15761,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
