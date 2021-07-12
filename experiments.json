@@ -22953,16 +22953,16 @@
 	},
 	"d9a876a6-b481-4dcc-9c19-1d717bc623de": {
 		"name": "happening_now_by_user",
-		"v": 15764,
+		"v": 15765,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 50,
-				"value": ""
+				"value": "control"
 			},
 			{
 				"weight": 50,
-				"value": ""
+				"value": "variant"
 			}
 		]
 	},
