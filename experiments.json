@@ -1216,6 +1216,21 @@
 			}
 		]
 	},
+	"0afd7516-d46e-475b-ad41-ee36de88090d": {
+		"name": "android_mgst_ivs_game_broadcast_global",
+		"v": 15786,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_11.2"
+			}
+		]
+	},
 	"0b2e962b-c870-4401-9320-114ff2c6b717": {
 		"name": "tachyon_legacy",
 		"v": 4569,
