@@ -1552,6 +1552,21 @@
 			}
 		]
 	},
+	"0e771709-e2dc-4e7f-b2fe-aa1e17e530bd": {
+		"name": "ios_ivs_broadcasting_global",
+		"v": 15790,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"0e9928de-87a4-4f9c-97bc-f3dd27fccb73": {
 		"name": "dart_fpso_gift_sub_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15557,
@@ -6970,21 +6985,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"41fd8b35-b0cd-498b-b866-2b621594c7b2": {
-		"name": "ios_mgst_ivs_game_broadcast",
-		"v": 14659,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
@@ -23512,21 +23512,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"e15110ad-e32d-4041-bce1-37a5c2fea11a": {
-		"name": "ios_bucketing_test_will_archive",
-		"v": 14939,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
 			}
 		]
 	},
