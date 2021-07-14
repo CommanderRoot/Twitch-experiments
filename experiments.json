@@ -15477,6 +15477,33 @@
 			}
 		]
 	},
+	"90ecaf23-5a74-445c-a0f9-7a25d7b4e3f9": {
+		"name": "dart_slurgtestnewd3tpstreams_vwr_460_dav_cmc_wch_mis_email_2107_email",
+		"v": 15794,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
+			}
+		]
+	},
 	"91198f7d-490a-42ce-a3b1-474f58673998": {
 		"name": "ios_staff_xarth_beta_prompt",
 		"v": 3256,
@@ -16052,8 +16079,9 @@
 	},
 	"97a8c1d3-f5ca-4b06-9664-1d8a3469a37d": {
 		"name": "support_panel",
-		"v": 15773,
+		"v": 15795,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 100,
@@ -21889,6 +21917,21 @@
 	"cf115fa2-e2d3-46e0-a5f9-ed8c9a8a12f2": {
 		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14478,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"cf55b0dc-c618-4819-9dc3-84fff379a42f": {
+		"name": "dart_slurgtestnewd3tpstreams_vwr_460_dav_cmc_wch_mis_email_2107_holdout",
+		"v": 15793,
 		"t": 2,
 		"groups": [
 			{
