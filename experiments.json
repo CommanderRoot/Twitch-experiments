@@ -2100,6 +2100,21 @@
 			}
 		]
 	},
+	"1436dd77-6aa3-4585-82b4-a7c4a47dabf5": {
+		"name": "mads_trigger_auto_ads",
+		"v": 15802,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "MADS_OFF"
+			},
+			{
+				"weight": 0,
+				"value": "MADS_ON"
+			}
+		]
+	},
 	"143da2f9-bf80-4555-a661-76c378fcd5c8": {
 		"name": "ios_aa",
 		"v": 1919,
@@ -26072,6 +26087,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"faff2ee1-39de-401a-876a-6cdc43b2aef7": {
+		"name": "mads_trigger_unknown",
+		"v": 15803,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "MADS_OFF"
+			},
+			{
+				"weight": 0,
+				"value": "MADS_ON"
 			}
 		]
 	},
