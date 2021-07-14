@@ -9233,6 +9233,21 @@
 			}
 		]
 	},
+	"576e858a-ccf1-46b9-a144-4cc04f3fe99e": {
+		"name": "dart_decider_nrs_long_term_holdout",
+		"v": 15809,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
+				"value": "rollout"
+			}
+		]
+	},
 	"5777c207-c176-4948-8cbd-f4ccb3fecf02": {
 		"name": "android_floating_chat",
 		"v": 7982,
