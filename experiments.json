@@ -20994,6 +20994,21 @@
 			}
 		]
 	},
+	"c6a85b7d-7538-4aa5-8a8d-17769aeacec4": {
+		"name": "mads_trigger_api",
+		"v": 15801,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "MADS_OFF"
+			},
+			{
+				"weight": 0,
+				"value": "MADS_ON"
+			}
+		]
+	},
 	"c6b1b32a-7766-48bf-9eab-5ef2ba05c958": {
 		"name": "dart_lol_extension_reinstall_holdout",
 		"v": 10313,
@@ -24826,6 +24841,21 @@
 			{
 				"weight": 50,
 				"value": "control"
+			}
+		]
+	},
+	"edecb22e-e821-46d2-8498-4ac8067ba08f": {
+		"name": "mads_trigger_chat",
+		"v": 15800,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "MADS_OFF"
+			},
+			{
+				"weight": 0,
+				"value": "MADS_ON"
 			}
 		]
 	},
