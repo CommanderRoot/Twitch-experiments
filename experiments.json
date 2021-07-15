@@ -5884,15 +5884,15 @@
 	},
 	"365bff31-5b22-454a-8438-0f8d56f561fa": {
 		"name": "subtier_button_price_cta",
-		"v": 15439,
+		"v": 15834,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant_price_in_btn"
 			}
 		]
@@ -16237,20 +16237,20 @@
 	},
 	"97a8c1d3-f5ca-4b06-9664-1d8a3469a37d": {
 		"name": "support_panel",
-		"v": 15795,
+		"v": 15833,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 34,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "treatment"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "treatment_w_gift_option_redesign"
 			}
 		]
