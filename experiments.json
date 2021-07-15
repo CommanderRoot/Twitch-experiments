@@ -13180,7 +13180,7 @@
 	},
 	"79061477-2365-4cfe-b605-e4bf843eb9f3": {
 		"name": "happening_now_notifications",
-		"v": 15662,
+		"v": 15830,
 		"t": 1,
 		"groups": [
 			{
@@ -13188,7 +13188,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -23230,7 +23230,7 @@
 	},
 	"d9a876a6-b481-4dcc-9c19-1d717bc623de": {
 		"name": "happening_now_by_user",
-		"v": 15765,
+		"v": 15828,
 		"t": 2,
 		"groups": [
 			{
@@ -23238,7 +23238,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
