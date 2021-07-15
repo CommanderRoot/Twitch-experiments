@@ -195,6 +195,21 @@
 			}
 		]
 	},
+	"013b08db-0ae0-4521-89a2-6f4f6c2c2212": {
+		"name": "dart_anzstreamerbattlexpummelpartyv2_vwr_0_flw_trn_flw_gmg_email_2107_holdout",
+		"v": 15816,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"01501b3e-11b1-4447-8753-0e30698f0790": {
 		"name": "android_mgst_ivs_ingest_tester",
 		"v": 14370,
@@ -6210,6 +6225,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"3a09763e-a75b-4708-97e2-af3e229e5eac": {
+		"name": "dart_anzstreamerbattlexpummelparty_vwr_0_dav_trn_wch_gmg_push_2107_holdout",
+		"v": 15815,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
