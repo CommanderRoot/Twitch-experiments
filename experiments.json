@@ -16073,6 +16073,29 @@
 			}
 		]
 	},
+	"96888b8b-82be-471a-b1e5-fe59cb93268c": {
+		"name": "android_ad_load_timeout_increase",
+		"v": 15823,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "10_seconds"
+			},
+			{
+				"weight": 0,
+				"value": "12_seconds"
+			},
+			{
+				"weight": 0,
+				"value": "16_seconds"
+			}
+		]
+	},
 	"96a03272-7e0f-4fee-94ff-0cc19d8d41bf": {
 		"name": "ios_disco_shelf_size_decrease",
 		"v": 12499,
