@@ -11161,6 +11161,25 @@
 			}
 		]
 	},
+	"67596d86-c652-4a8d-a0a0-89aa8b654700": {
+		"name": "ios_welcome_exp",
+		"v": 15852,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "streamer-visual"
+			},
+			{
+				"weight": 0,
+				"value": "category-text"
+			}
+		]
+	},
 	"6762cedc-a645-4b34-bd6b-221b5a5a3421": {
 		"name": "dart_euro2020final_vwr_445_dav_cmc_wch_spt_oe_2107_en_holdout",
 		"v": 15754,
@@ -15666,6 +15685,25 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"9205ab86-094a-4654-b1a1-081ba87635b5": {
+		"name": "android_welcome_exp",
+		"v": 15851,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "streamer-visual"
+			},
+			{
+				"weight": 0,
+				"value": "category-text"
 			}
 		]
 	},
