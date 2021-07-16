@@ -4375,6 +4375,21 @@
 			}
 		]
 	},
+	"28798c79-b3d9-45da-8401-7041769a0674": {
+		"name": "dart_iemcologne_vwr_455_dav_cmc_wch_gmg_email_2107_holdout",
+		"v": 15855,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2884161f-6094-4189-b1aa-fd256468f96e": {
 		"name": "PLAYER_NOTIFICATION_BUTTON",
 		"v": 1421,
@@ -12863,6 +12878,21 @@
 			}
 		]
 	},
+	"7579f9ab-8147-44bd-b055-c6dc866b4237": {
+		"name": "dart_lapsedemail1slabctest_vwr_467_dav_cmc_wch_mis_email_2107_holdout",
+		"v": 15853,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7582bc5a-db43-4579-a0e6-6c8fd79a41ba": {
 		"name": "android_first_time_chatter_prompt",
 		"v": 2768,
@@ -14491,6 +14521,25 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"84fe8953-9bfc-49d9-a14a-633dab4f8a6f": {
+		"name": "dart_lapsedemail1slabctest_vwr_467_dav_cmc_wch_mis_email_2107_email",
+		"v": 15854,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
