@@ -12413,6 +12413,21 @@
 			}
 		]
 	},
+	"723d9162-59f1-4582-9ecb-7dda5c42bf47": {
+		"name": "dart_slsoptestnewd3tpstreams_vwr_461_dav_cmc_wch_mis_email_2107_holdout",
+		"v": 15872,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"725e64bc-6a3b-4a70-b204-0bd6f00049ce": {
 		"name": "android_surestream_pbyp",
 		"v": 11361,
@@ -21944,6 +21959,33 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"cd8da21d-c43e-4b10-9f82-60c4023c6df5": {
+		"name": "dart_slsoptestnewd3tpstreams_vwr_461_dav_cmc_wch_mis_email_2107_email",
+		"v": 15873,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
 			}
 		]
 	},
