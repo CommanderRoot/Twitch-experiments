@@ -3104,7 +3104,7 @@
 	},
 	"1b9b249a-2af9-48ff-a1fd-bd5369d42556": {
 		"name": "android_split_ad_from_vod_player_presenter",
-		"v": 15363,
+		"v": 15883,
 		"t": 1,
 		"groups": [
 			{
@@ -3112,11 +3112,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_11.1"
 			}
 		]
