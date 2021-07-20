@@ -4963,6 +4963,21 @@
 			}
 		]
 	},
+	"2e717492-8871-42ef-b206-fff0bfe0aa13": {
+		"name": "dart_olympics1_vwr_429_dav_cmc_flw_spt_email_2107_holdout",
+		"v": 15890,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2e88b0e8-96b2-435f-b61f-434fc48585cc": {
 		"name": "dart_iwdweek2_vwr_388_dav_cmc_lrn_mis_email_2103_en_holdout",
 		"v": 13964,
