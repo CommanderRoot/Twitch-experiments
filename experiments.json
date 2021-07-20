@@ -21151,6 +21151,21 @@
 			}
 		]
 	},
+	"c570cc47-352e-4709-b517-7a802aefc9ab": {
+		"name": "android_collect_postal_code",
+		"v": 15891,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"c5721b75-d4a3-4d3e-b44f-74bd2a01ed3f": {
 		"name": "dart_ecommedfpsoprimesublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_es_holdout",
 		"v": 15274,
