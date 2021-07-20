@@ -10052,11 +10052,11 @@
 	},
 	"5dd5836b-16d3-4cd2-9612-1b3635aa22c9": {
 		"name": "ios_video_ad_api",
-		"v": 15877,
+		"v": 15888,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "amazon_first_party"
 			},
 			{
@@ -10064,7 +10064,7 @@
 				"value": "amazon_third_party"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "twitch_ad_edge"
 			}
 		]
@@ -16071,6 +16071,21 @@
 	"953c793d-9769-4356-bd7f-f6fe9a46cdd9": {
 		"name": "dart_twitchrivalslol_vwr_398_dav_cmc_wch_gmg_push_2104_holdout",
 		"v": 14256,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"9549fcd9-2157-4128-84ee-dcdc9cd3002a": {
+		"name": "dart_slemjtestnewd3tpstreams_vwr_462_dav_cmc_wch_mis_email_2107_holdout",
+		"v": 15886,
 		"t": 2,
 		"groups": [
 			{
@@ -23882,6 +23897,33 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"e1738a09-c89e-4c03-8df8-ec1e5ddd3819": {
+		"name": "dart_slemjtestnewd3tpstreams_vwr_462_dav_cmc_wch_mis_email_2107_email",
+		"v": 15887,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
 			}
 		]
 	},
