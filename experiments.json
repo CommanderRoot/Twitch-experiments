@@ -14427,11 +14427,11 @@
 	},
 	"83f4b170-0e00-46ce-80c7-35dc3356b51e": {
 		"name": "android_video_ad_api",
-		"v": 15878,
+		"v": 15884,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "amazon_first_party"
 			},
 			{
@@ -14439,7 +14439,7 @@
 				"value": "amazon_third_party"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "twitch_ad_edge"
 			}
 		]
