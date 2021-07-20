@@ -20798,6 +20798,21 @@
 			}
 		]
 	},
+	"c293f0a9-de8b-4fe2-a7d0-8c5862995c1c": {
+		"name": "dart_codwarzone_vwr_403_dav_cmc_wch_gmg_email_2107_holdout",
+		"v": 15880,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c2a121ef-cd70-423f-8e65-de028477a140": {
 		"name": "ios_profile_redesign_tab_reorder",
 		"v": 3763,
