@@ -20527,6 +20527,21 @@
 			}
 		]
 	},
+	"bdc3afcf-e104-49af-b3df-556f5f008ed7": {
+		"name": "ios_user_suspension_appeal",
+		"v": 15931,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"be03f934-72ca-4c26-9a3d-e70c0d5d3ed7": {
 		"name": "dart_tr_valorant_br_holdout",
 		"v": 10089,
