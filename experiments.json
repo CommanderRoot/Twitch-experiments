@@ -4330,6 +4330,21 @@
 			}
 		]
 	},
+	"27e670e9-e221-4a59-9cfe-8ad193d934fb": {
+		"name": "dart_jpcreatordiscoveryjul2021xnemo_good_vwr_0_dav_cmc_wch_gmg_email_2107_holdout",
+		"v": 15903,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"286aa215-8f95-4f9d-86f0-232fb96ec4f0": {
 		"name": "ios_latency_tracking",
 		"v": 6477,
@@ -8612,6 +8627,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"50b68a4a-6589-4f4b-bb07-e2fc6325b3e4": {
+		"name": "dart_jpcreatordiscoveryjul2021xclutch_fii_vwr_0_dav_cmc_wch_gmg_email_2107_holdout",
+		"v": 15901,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -23108,6 +23138,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"d79702f4-13d6-4460-ac6a-0525b1a3bc96": {
+		"name": "dart_jpcreatordiscoveryjul2021xnagisatty_vwr_0_dav_cmc_wch_gmg_email_2107_holdout",
+		"v": 15902,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
