@@ -2536,15 +2536,15 @@
 	},
 	"17113314-06e6-40e3-9786-71b1c18e65a2": {
 		"name": "android_prime_gaming_activation_us",
-		"v": 15899,
+		"v": 15935,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_10.8"
 			}
 		]
@@ -14766,15 +14766,15 @@
 	},
 	"863318d1-438c-4109-aff6-26cfa124e5d7": {
 		"name": "android_prime_gaming_activation",
-		"v": 15898,
+		"v": 15934,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "active_10.7"
 			}
 		]
