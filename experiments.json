@@ -2536,15 +2536,15 @@
 	},
 	"17113314-06e6-40e3-9786-71b1c18e65a2": {
 		"name": "android_prime_gaming_activation_us",
-		"v": 14528,
+		"v": 15896,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_10.8"
 			}
 		]
@@ -10067,11 +10067,11 @@
 	},
 	"5dd5836b-16d3-4cd2-9612-1b3635aa22c9": {
 		"name": "ios_video_ad_api",
-		"v": 15888,
+		"v": 15895,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "amazon_first_party"
 			},
 			{
@@ -10079,7 +10079,7 @@
 				"value": "amazon_third_party"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "twitch_ad_edge"
 			}
 		]
@@ -14442,11 +14442,11 @@
 	},
 	"83f4b170-0e00-46ce-80c7-35dc3356b51e": {
 		"name": "android_video_ad_api",
-		"v": 15884,
+		"v": 15897,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "amazon_first_party"
 			},
 			{
@@ -14454,7 +14454,7 @@
 				"value": "amazon_third_party"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "twitch_ad_edge"
 			}
 		]
@@ -14736,15 +14736,15 @@
 	},
 	"863318d1-438c-4109-aff6-26cfa124e5d7": {
 		"name": "android_prime_gaming_activation",
-		"v": 14613,
+		"v": 15894,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "active_10.7"
 			}
 		]
