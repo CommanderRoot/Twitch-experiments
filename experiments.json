@@ -144,23 +144,23 @@
 	},
 	"00e1034d-ee3c-4227-8e33-569445f0bfe2": {
 		"name": "android_artificial_latency_vod",
-		"v": 15259,
+		"v": 15911,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -513,23 +513,23 @@
 	},
 	"05129a06-85ea-484f-ad10-38907fbbb781": {
 		"name": "ios_artificial_latency_browse",
-		"v": 15110,
+		"v": 15914,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -3831,15 +3831,15 @@
 	},
 	"230430a9-3595-47c5-ac63-34bd1c896f5b": {
 		"name": "ios_display_ads_enabled",
-		"v": 14461,
+		"v": 15921,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_beta"
 			}
 		]
@@ -7813,23 +7813,23 @@
 	},
 	"49cc2917-d8a3-42bc-96b5-2c58b680c92b": {
 		"name": "ios_artificial_latency_discover",
-		"v": 15249,
+		"v": 15915,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -17462,23 +17462,23 @@
 	},
 	"a0e3906a-0ecb-4fba-886d-3ef8c9a1d0da": {
 		"name": "ios_artificial_latency_vod_chat",
-		"v": 15252,
+		"v": 15919,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -18315,23 +18315,23 @@
 	},
 	"a9f7ca96-40f2-4047-a7d9-846f762c695a": {
 		"name": "ios_artificial_latency_following",
-		"v": 15248,
+		"v": 15916,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -18850,23 +18850,23 @@
 	},
 	"aebf74d0-8024-4643-a40c-7ef359d3060a": {
 		"name": "android_artificial_latency_discover",
-		"v": 15258,
+		"v": 15910,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -21583,23 +21583,23 @@
 	},
 	"c926b4ad-2d91-47e1-8bf9-2b0ade155115": {
 		"name": "android_artificial_latency_theatre",
-		"v": 15254,
+		"v": 15912,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -21941,23 +21941,23 @@
 	},
 	"ccaeb944-37d8-4cef-8b3b-86e4cd4eae55": {
 		"name": "android_artificial_latency_profile",
-		"v": 15255,
+		"v": 15913,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -23007,23 +23007,23 @@
 	},
 	"d685634f-fd2a-46cd-89df-30996367b585": {
 		"name": "ios_artificial_latency_theater_chat",
-		"v": 15250,
+		"v": 15918,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -24441,23 +24441,23 @@
 	},
 	"e5ae57db-3ae5-4d15-af27-f581e24b251c": {
 		"name": "ios_artificial_latency_profile",
-		"v": 15251,
+		"v": 15917,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -24479,23 +24479,23 @@
 	},
 	"e5fe2b37-59aa-4f2e-a2ff-57363630de02": {
 		"name": "ios_artificial_latency_vod_first_frame",
-		"v": 15253,
+		"v": 15920,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -24795,23 +24795,23 @@
 	},
 	"e95a8709-9a0a-4d1f-99d4-79a3f3f66bdf": {
 		"name": "android_artificial_latency_following",
-		"v": 15256,
+		"v": 15908,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
@@ -26230,23 +26230,23 @@
 	},
 	"f8156055-20a3-43a0-b9d0-84c19c76a547": {
 		"name": "android_artificial_latency_browse",
-		"v": 15257,
+		"v": 15909,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_700"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_1400"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_2100"
 			}
 		]
