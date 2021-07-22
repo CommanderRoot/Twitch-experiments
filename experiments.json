@@ -8104,12 +8104,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 15900,
+		"v": 15939,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-727bf9.pdx01.abs.hls.ttvnw.net/v1/segment/CqYFkAqbWrcekOOgOKklK3n2Uh5-dVx1pMnN2y9WlAM3QN1o3kQfhjcYmEvYPalywu7is85Q8jI3FraDKr6bytEd5UR2p43FI1krA7-OWwZCZYKnB5DVeWjUK56hu8waZyypI90_Nb229Jp1C2r4XoEhErhqj1yYagnxL2w7vussp9tiZwaEH8ReGwpcNkvCz68HFmIFKZoulcpqOt9e0dsOHDzh_4GGS_TTGzU3jNSrCKeEdhJtio-xTNq8sa7ik4rVrwFWZzJCDl0p0Lmux_qhjhOYAwsWNqAIZzZe6cqf2cdivA-L4rOu3hoU3er_s6YiYxQ-d7aGVrXsX_vH5UYLL2JTXGef-cEml5o6_odKUcFzWiV6nNYVSOQphrkCMv4OM85sxuhJKS8EcJUbL8R4ZTuKxHBz1FU2Wqqdd73KmMy4Tj8FpNCGCo3innyHUAGvRy0QNHi_ZdGqpZgqFynn-cVxCpbtiUlPB11w_3uI04tDOiWb8EFuhy3sB5S-IjvIH9XImlpnAdVhkKoBUAtkDPn0IE-k8ivr9qAkrHg7xlEe54CqkisAATqlvDi4ITEEjzCYVonUglzkFKMe8s88cosb_ichaXRcmYoruxYUo3_0fOL23n3dcquVBQKKm2bCbRZcGT9HxRMQGLnJ1h1IlgF4GC6c9iXvAewXWToqh5xDFMtKFzPWuNoLGmf_EkPHBxIDr8G2Ueq7QrLClz_drNNmw2r76qw8QB0dKpyBS-ETQ4pfO8joi99tCe1kC.ts"
+				"value": "//video-edge-15a5dd.pdx01.abs.hls.ttvnw.net/v1/segment/ClePmZ3gze4l6hFGSiIRLZk5CUnJf-biLHQJsGfRifAK_rDCgnDZ6j17KQ0qht7sgJZk9lDsmubwCcM6nYkorP5rbnVy_PpsWX-pX4mPKv-UQ9DSJDaBtBQpP_blcLV4_xjReOpkqb9ivo7LOJnKlxh8_Z0YuId-tG-a6AoJXf_4o82aebgwvJyBUF_cdhdAqchxEDOokpi56ul09ThqRorOWtLo8QqsYIx-k09XQ-jSE0gGYgeCbaaRCScClZHSrB2RhH7MMRkmL4Xkjgs96grlDIuFS3Sit_odduEjOJORhpVGPK4oap3pg5CpLsPS6RqOXIsR6WC3W-C4JiUiU_BxlxOqZeFaZy40i7v4Wd8cxyDskPSLFmoAWnXfKBwbb1vB4r_Y6W12BVtJsGG_57UWd0Z6Z8ZuMLtJUhKSLt64vqH18oaxzkXqDKxlI7bgYilreSfX1GsPnFz_cLcjjGp8SXkkUYsmWQruSdTYWyuDP8elXnEFHlaJqumkpUqVzOLcfiQCTE3DhPYY7IdWIVHEQKK5E20DULleADcQuiLAoLuwjlz8wlnoXsR7Llr5XppbcUS8Aqamgiym68Rx_0R3S6zgfOSC8xJpZtf-5lr6fuozgtwzrrhoeso2gsLUTjCQu3-JlPYjCn0K0YsiqhorPFfOpWFMqq2SM5SQNLk2t7HOsJZr1ZeNXqhLv9rcwsP597-BKye5cG915ku0_1DUJTgM_DjtxSEMq-O_8KL9GPyHIZ7bnuA00nQKFVqSiS4lddnb-i.ts"
 			}
 		]
 	},
@@ -10097,11 +10097,11 @@
 	},
 	"5dd5836b-16d3-4cd2-9612-1b3635aa22c9": {
 		"name": "ios_video_ad_api",
-		"v": 15938,
+		"v": 15940,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "amazon_first_party"
 			},
 			{
@@ -10109,7 +10109,7 @@
 				"value": "amazon_third_party"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "twitch_ad_edge"
 			}
 		]
