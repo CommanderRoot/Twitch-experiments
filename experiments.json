@@ -2869,6 +2869,29 @@
 			}
 		]
 	},
+	"19c897e3-e9f6-49bf-b967-34a5286123e5": {
+		"name": "ios_left_third_display_ads",
+		"v": 15953,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "staff"
+			},
+			{
+				"weight": 0,
+				"value": "beta"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"19cb3106-7496-4f75-b94e-089d648c477e": {
 		"name": "dart_new_d3_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14429,
@@ -3831,7 +3854,7 @@
 	},
 	"230430a9-3595-47c5-ac63-34bd1c896f5b": {
 		"name": "ios_display_ads_enabled",
-		"v": 15921,
+		"v": 15955,
 		"t": 1,
 		"groups": [
 			{
@@ -3841,6 +3864,10 @@
 			{
 				"weight": 0,
 				"value": "active_beta"
+			},
+			{
+				"weight": 0,
+				"value": "active_v11.3"
 			}
 		]
 	},
@@ -20016,6 +20043,21 @@
 			}
 		]
 	},
+	"b72c6e09-ad24-4880-9447-5c7ca8508332": {
+		"name": "android_conscrypt_as_first_security_provider",
+		"v": 15956,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_11.3"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"b734a839-9d24-4059-ba9e-a824c24acd97": {
 		"name": "hermes_east_ses_rollout",
 		"v": 15885,
@@ -20145,6 +20187,29 @@
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
+	"b8bf8d76-fcff-4f14-93bd-0082503d669b": {
+		"name": "ios_squeeze_back_display_ads",
+		"v": 15954,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "staff"
+			},
+			{
+				"weight": 0,
+				"value": "beta"
 			},
 			{
 				"weight": 0,
