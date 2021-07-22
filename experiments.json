@@ -5773,6 +5773,21 @@
 			}
 		]
 	},
+	"34a7c6d5-6cf5-453c-a435-dd2c934c3c92": {
+		"name": "dart_internationalpricingthai_vwr_417_awa_cmc_lrn_mis_email_2107_holdout",
+		"v": 15961,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"34acd949-d01a-4d02-90ac-daa8c1bdd9a3": {
 		"name": "dart_taiwanstreamerbattle77email2_vwr_0_flw_trn_flw_gmg_email_2107_holdout",
 		"v": 15720,
@@ -26097,6 +26112,21 @@
 	"f5a6c56b-05e6-4d17-b34b-a06cdc74c005": {
 		"name": "dart_iwdweek1_vwr_388_dav_cmc_lrn_mis_email_2103_de_holdout",
 		"v": 13921,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"f5cb0b3d-eed2-4c13-bda5-e982b80b3118": {
+		"name": "dart_internationalpricing_vwr_417_awa_cmc_lrn_mis_email_2107_holdout",
+		"v": 15962,
 		"t": 2,
 		"groups": [
 			{
