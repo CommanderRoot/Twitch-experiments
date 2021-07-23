@@ -5775,7 +5775,7 @@
 	},
 	"34a7c6d5-6cf5-453c-a435-dd2c934c3c92": {
 		"name": "dart_internationalpricingthai_vwr_417_awa_cmc_lrn_mis_email_2107_holdout",
-		"v": 15961,
+		"v": 15965,
 		"t": 2,
 		"groups": [
 			{
@@ -17238,6 +17238,21 @@
 			}
 		]
 	},
+	"9d7831af-91b4-4e39-be17-2a3a9130e7a7": {
+		"name": "dart_internationalpricingthai_ctr_417_awa_cmc_lrn_mis_email_2107_holdout",
+		"v": 15964,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"9d7b5e6a-4463-40a8-9594-efb482fac441": {
 		"name": "dart_new_client_verification_email",
 		"v": 15722,
@@ -24459,6 +24474,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"e4ecc593-97a7-4252-b4bf-6f7c07e74782": {
+		"name": "dart_internationalpricingall_ctr_417_awa_cmc_lrn_mis_email_2107_holdout",
+		"v": 15966,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
 				"value": "allowed"
 			}
 		]
