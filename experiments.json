@@ -5619,6 +5619,21 @@
 			}
 		]
 	},
+	"32f1f4f4-84d2-4d60-a66a-86ea711cb450": {
+		"name": "dart_olympics2_vwr_429_dav_cmc_flw_spt_peo_2107_holdout",
+		"v": 15973,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"330519b5-2cbe-473c-8831-066dee6807f0": {
 		"name": "dart_euro2020keyevent4_vwr_445_dav_cmc_wch_spt_email_2106_en_holdout",
 		"v": 15465,
@@ -15802,7 +15817,7 @@
 	},
 	"90ecaf23-5a74-445c-a0f9-7a25d7b4e3f9": {
 		"name": "dart_slurgtestnewd3tpstreams_vwr_460_dav_cmc_wch_mis_email_2107_email",
-		"v": 15794,
+		"v": 15975,
 		"t": 2,
 		"groups": [
 			{
@@ -22458,7 +22473,7 @@
 	},
 	"cf55b0dc-c618-4819-9dc3-84fff379a42f": {
 		"name": "dart_slurgtestnewd3tpstreams_vwr_460_dav_cmc_wch_mis_email_2107_holdout",
-		"v": 15793,
+		"v": 15974,
 		"t": 2,
 		"groups": [
 			{
