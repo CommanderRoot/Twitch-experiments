@@ -14276,6 +14276,21 @@
 			}
 		]
 	},
+	"80f4d718-e824-48ce-8231-0a6c93591948": {
+		"name": "dart_lapsedemail1slabctest2_vwr_468_dav_cmc_wch_mis_email_2107_email",
+		"v": 16020,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"80f6e8da-d7c3-4b75-8e49-3a7abd33b032": {
 		"name": "android_track_network_request_latency",
 		"v": 3669,
@@ -16031,6 +16046,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"935b20ad-37ce-4849-b584-f96d46ce3631": {
+		"name": "dart_lapsedemail1slabctest2_vwr_468_dav_cmc_wch_mis_email_2107_holdout",
+		"v": 16019,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
