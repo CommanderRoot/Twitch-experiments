@@ -11846,6 +11846,21 @@
 			}
 		]
 	},
+	"6bb1b279-5714-4fd0-9e8a-e10245cc1815": {
+		"name": "dart_internationalpricinglatam_vwr_417_awa_cmc_lrn_mis_email_holdout",
+		"v": 16031,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6bb608e0-5917-4b8e-ae98-dc936aab49be": {
 		"name": "android_gdpr_migration_9_1",
 		"v": 10614,
@@ -20517,6 +20532,21 @@
 			{
 				"weight": 0,
 				"value": "SURESTREAM_OFF"
+			}
+		]
+	},
+	"bbcd94d9-83a4-4d38-9769-bb94ca164fc4": {
+		"name": "dart_internationalpricinglatam_ctr_417_awa_cmc_lrn_mis_email_2107_holdout",
+		"v": 16030,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
 			}
 		]
 	},
