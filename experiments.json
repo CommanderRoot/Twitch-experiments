@@ -18367,9 +18367,9 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 15117,
+		"v": 16017,
 		"t": 2,
-		"s": 12,
+		"s": 13,
 		"groups": [
 			{
 				"weight": 50,
@@ -18380,11 +18380,11 @@
 				"value": "treatment"
 			},
 			{
-				"weight": 450,
+				"weight": 250,
 				"value": "v3"
 			},
 			{
-				"weight": 450,
+				"weight": 650,
 				"value": "realtime"
 			}
 		]
@@ -22853,15 +22853,15 @@
 	},
 	"d3f6b201-3e0a-4d96-b720-53aca4acb474": {
 		"name": "ios_vaes_sanitize_clickthrough_url",
-		"v": 15950,
+		"v": 16018,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "sanitize_v11.1"
 			}
 		]
