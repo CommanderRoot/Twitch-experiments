@@ -144,15 +144,15 @@
 	},
 	"00e1034d-ee3c-4227-8e33-569445f0bfe2": {
 		"name": "android_artificial_latency_vod",
-		"v": 15911,
+		"v": 16071,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 97,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 3,
 				"value": "active_700"
 			},
 			{
@@ -21786,15 +21786,15 @@
 	},
 	"c926b4ad-2d91-47e1-8bf9-2b0ade155115": {
 		"name": "android_artificial_latency_theatre",
-		"v": 15912,
+		"v": 16070,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 97,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 3,
 				"value": "active_700"
 			},
 			{
