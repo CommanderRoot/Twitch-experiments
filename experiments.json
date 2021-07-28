@@ -24075,15 +24075,15 @@
 	},
 	"df1cee5b-8edf-4c83-af78-fa9953ed9a84": {
 		"name": "android_mgst_load_chat_after_video",
-		"v": 15500,
+		"v": 16042,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "active_11.1"
 			}
 		]
