@@ -4468,15 +4468,15 @@
 	},
 	"2884abba-926f-4567-be82-10c17f20b4a7": {
 		"name": "android_mgst_mini_chat_with_input",
-		"v": 15768,
+		"v": 16035,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control "
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_11.2"
 			}
 		]
