@@ -15380,6 +15380,21 @@
 			}
 		]
 	},
+	"8d26ff2f-072c-4ae9-9d88-db4f3434d9e6": {
+		"name": "dart_jptwitchrivalsxvalorantaug_vwr_0_dav_cmc_wch_gmg_push_2108_holdout",
+		"v": 16075,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8d399672-ddc0-4752-8065-f9870aafb7ab": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13565,
@@ -18025,6 +18040,21 @@
 			},
 			{
 				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
+	"a5663801-6454-44b5-867f-174c31b60733": {
+		"name": "dart_jptwitchrivalsxvalorantaug_vwr_0_dav_cmc_wch_gmg_email_2108_holdout",
+		"v": 16074,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
