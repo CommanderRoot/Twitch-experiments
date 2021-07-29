@@ -4374,20 +4374,20 @@
 	},
 	"27c0652b-cce6-4ee2-b072-cf9d1b70fbb9": {
 		"name": "ios_share_play",
-		"v": 15941,
+		"v": 16092,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "join_and_initiate"
 			},
 			{
 				"weight": 0,
-				"value": "active-join-only"
+				"value": "join_only"
 			},
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "fully_disabled"
 			}
 		]
 	},
