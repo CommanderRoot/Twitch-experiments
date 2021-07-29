@@ -4663,15 +4663,15 @@
 	},
 	"29ea7a8a-6f23-45a2-8cc2-76d58664a2a0": {
 		"name": "ios_vaes_sanitize_low_prioritiy_vast_urls",
-		"v": 15376,
+		"v": 16084,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "sanitize_v11.1"
 			}
 		]
@@ -22973,15 +22973,15 @@
 	},
 	"d3f6b201-3e0a-4d96-b720-53aca4acb474": {
 		"name": "ios_vaes_sanitize_clickthrough_url",
-		"v": 16018,
+		"v": 16083,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "sanitize_v11.1"
 			}
 		]
