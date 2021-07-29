@@ -23695,7 +23695,7 @@
 	},
 	"d9a876a6-b481-4dcc-9c19-1d717bc623de": {
 		"name": "happening_now_by_user",
-		"v": 15828,
+		"v": 16094,
 		"t": 2,
 		"groups": [
 			{
@@ -23703,7 +23703,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
