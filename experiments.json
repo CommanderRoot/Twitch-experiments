@@ -17566,6 +17566,21 @@
 			}
 		]
 	},
+	"a02c45d3-d02f-4922-bb21-586e7642b77f": {
+		"name": "dart_logged_out_decorator_holdout",
+		"v": 16076,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"a08f8d09-7890-4eae-914f-6b272d05d1aa": {
 		"name": "prioritized_APM_icons",
 		"v": 11669,
