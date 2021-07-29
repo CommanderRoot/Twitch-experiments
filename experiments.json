@@ -24919,15 +24919,15 @@
 	},
 	"e7bfd09f-5066-41ed-b668-a3148162e6d9": {
 		"name": "ios_wrap_video_player_view_in_stack_view",
-		"v": 15988,
+		"v": 16080,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "dont_wrap_v11.2"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "wrap_v11.2"
 			}
 		]
