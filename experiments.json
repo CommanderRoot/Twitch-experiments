@@ -21615,15 +21615,15 @@
 	},
 	"c6a85b7d-7538-4aa5-8a8d-17769aeacec4": {
 		"name": "mads_trigger_api",
-		"v": 16101,
+		"v": 16106,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "MADS_ON"
 			}
 		]
