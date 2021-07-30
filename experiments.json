@@ -17536,6 +17536,21 @@
 			}
 		]
 	},
+	"9fd95269-c3b3-4771-9588-cb4fc31fa76f": {
+		"name": "dart_internationalpricingmiddleeast_ctr_417_awa_cmc_lrn_mis_email_2107_holdout",
+		"v": 16099,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"9feb522b-7022-440f-b51e-400989c06723": {
 		"name": "ios_unify_fatal_player_errors",
 		"v": 10325,
@@ -21730,6 +21745,21 @@
 			{
 				"weight": 100,
 				"value": "endpoint"
+			}
+		]
+	},
+	"c874068c-4058-4618-a0b9-00a3bdffcf1a": {
+		"name": "dart_internationalpricingmiddleeast_vwr_417_awa_cmc_lrn_mis_email_holdout",
+		"v": 16098,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
