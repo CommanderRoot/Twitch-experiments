@@ -6472,6 +6472,21 @@
 			}
 		]
 	},
+	"3a87940f-eb18-43f9-8a30-a27fd6ae6e2d": {
+		"name": "ios_swift_app_router",
+		"v": 16102,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "development"
+			}
+		]
+	},
 	"3aac86d3-c99f-45df-bc3c-1c2a7e4ffca2": {
 		"name": "dart_gameawards_vwr_331_awa_cmc_str_gmg_email_2012_holdout",
 		"v": 12877,
