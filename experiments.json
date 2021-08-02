@@ -2871,15 +2871,15 @@
 	},
 	"19c897e3-e9f6-49bf-b967-34a5286123e5": {
 		"name": "ios_left_third_display_ads",
-		"v": 15953,
+		"v": 16118,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "staff"
 			},
 			{
