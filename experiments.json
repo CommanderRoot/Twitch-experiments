@@ -5709,6 +5709,21 @@
 			}
 		]
 	},
+	"3419d300-77f7-47c5-80a5-7762da45996e": {
+		"name": "dart_olympics3_vwr_429_dav_cmc_flw_spt_peo_2108_holdout",
+		"v": 16148,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3424761f-5c8e-4939-8ef0-d7ce41d57436": {
 		"name": "dart_topstreamscoldpushonly_vwr_dav_cmc_wch_gmg_2101_push",
 		"v": 13278,
