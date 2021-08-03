@@ -20792,15 +20792,15 @@
 	},
 	"bdb5c085-9f43-41f5-ac33-d58b41af2e5c": {
 		"name": "TWILIGHT_AAX_DISPLAY_DIRECTORY_M2",
-		"v": 16137,
+		"v": 16140,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "GAM"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "AAX"
 			}
 		]
@@ -25550,15 +25550,15 @@
 	},
 	"ed7b8100-d84b-4932-a430-61edb83ee8a5": {
 		"name": "TWILIGHT_AAX_DISPLAY_HEADLINER_M2",
-		"v": 16138,
+		"v": 16141,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "GAM"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "AAX"
 			}
 		]
