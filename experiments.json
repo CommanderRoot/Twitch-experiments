@@ -25870,15 +25870,15 @@
 	},
 	"f0dd0b92-ea0f-4319-ab0b-c64fcf117107": {
 		"name": "android_community_challenges",
-		"v": 16047,
+		"v": 16135,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_11.3"
 			},
 			{
