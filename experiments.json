@@ -483,15 +483,15 @@
 	},
 	"04ec5d3f-4c62-4e1e-b2de-4e2d39469f78": {
 		"name": "android_offline_search",
-		"v": 13779,
+		"v": 16132,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -5602,7 +5602,7 @@
 	},
 	"32bd3b7d-d9e4-4175-af97-5932ac84215d": {
 		"name": "ios_riddle_staff_beta",
-		"v": 16120,
+		"v": 16133,
 		"t": 1,
 		"groups": [
 			{
@@ -5611,7 +5611,7 @@
 			},
 			{
 				"weight": 100,
-				"value": "active-11.13"
+				"value": "active-testflight"
 			}
 		]
 	},
@@ -26451,6 +26451,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"f6dc9c16-cbf2-45b8-a96e-881dc80167f6": {
+		"name": "publisher_ext_ids",
+		"v": 16134,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active1.1.2"
 			}
 		]
 	},
