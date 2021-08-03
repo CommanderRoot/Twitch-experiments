@@ -20792,15 +20792,15 @@
 	},
 	"bdb5c085-9f43-41f5-ac33-d58b41af2e5c": {
 		"name": "TWILIGHT_AAX_DISPLAY_DIRECTORY_M2",
-		"v": 16140,
+		"v": 16145,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "GAM"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "AAX"
 			}
 		]
@@ -21198,15 +21198,15 @@
 	},
 	"c2dd6984-2aa8-4ac4-ba47-0cb1322e8ae9": {
 		"name": "TWILIGHT_AAX_DISPLAY_EMEA",
-		"v": 16142,
+		"v": 16147,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "GAM"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "AAX"
 			}
 		]
@@ -25550,15 +25550,15 @@
 	},
 	"ed7b8100-d84b-4932-a430-61edb83ee8a5": {
 		"name": "TWILIGHT_AAX_DISPLAY_HEADLINER_M2",
-		"v": 16141,
+		"v": 16146,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "GAM"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "AAX"
 			}
 		]
