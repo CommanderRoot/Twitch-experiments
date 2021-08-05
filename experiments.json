@@ -15155,6 +15155,21 @@
 			}
 		]
 	},
+	"897eb1ee-0748-4af9-8bf6-3bc519c05cdc": {
+		"name": "ban_evasion_system_detection",
+		"v": 16178,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "in-exp"
+			},
+			{
+				"weight": 100,
+				"value": "out-of-exp"
+			}
+		]
+	},
 	"89af3848-0aba-4e27-bb4b-d16c6f29e1c2": {
 		"name": "android_community_points_alpha",
 		"v": 6269,
