@@ -6938,6 +6938,21 @@
 			}
 		]
 	},
+	"3f44cb32-74a0-4fe8-a251-46dfd7e74347": {
+		"name": "dart_churntestgroupc0815_vwr_7157_dav_cmc_wch_mis_email_2108_email",
+		"v": 16204,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"3f59e63a-3389-463c-87d2-1105e7c8d0fe": {
 		"name": "mobile_native_recommendations_in_following_2",
 		"v": 9190,
@@ -18348,6 +18363,21 @@
 			}
 		]
 	},
+	"a6e427c3-bfab-48d8-84e8-2ead9e031ce5": {
+		"name": "dart_churntestgroupb_vwr_7157_dav_cmc_wch_mis_email_2108_email",
+		"v": 16201,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"a6eef2bb-211a-4ba5-a438-c01e3afcf566": {
 		"name": "ios_ads_eligibility_enhanced",
 		"v": 8188,
@@ -22933,6 +22963,21 @@
 			}
 		]
 	},
+	"d1b2eccc-d1be-4bbf-b28c-5df45dab8db7": {
+		"name": "dart_churntestgroupd0815_vwr_7157_dav_cmc_wch_mis_email_2108_email",
+		"v": 16203,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"d1c179f0-e917-4eac-9a12-877a1ed93c00": {
 		"name": "dart_fpgo_existing_sub_localized_en_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14712,
@@ -25021,6 +25066,21 @@
 			{
 				"weight": 60,
 				"value": "allowed"
+			}
+		]
+	},
+	"e7195332-d314-4104-b0d0-0374d3c96e11": {
+		"name": "dart_churntestgroupd_vwr_7157_dav_cmc_wch_mis_email_2108_email",
+		"v": 16205,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
