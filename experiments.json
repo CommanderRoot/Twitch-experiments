@@ -15185,6 +15185,21 @@
 			}
 		]
 	},
+	"89a4f24d-94de-45ec-94c1-0891a00dccf8": {
+		"name": "dart_internationalpricingemea_ctr_417_awa_cmc_lrn_mis_email_2107_holdout",
+		"v": 16196,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"89af3848-0aba-4e27-bb4b-d16c6f29e1c2": {
 		"name": "android_community_points_alpha",
 		"v": 6269,
@@ -15830,6 +15845,21 @@
 			{
 				"weight": 95,
 				"value": "active"
+			}
+		]
+	},
+	"90468ab2-f72e-473c-80ac-6ce2e965474c": {
+		"name": "dart_internationalpricingemea_vwr_417_awa_cmc_lrn_mis_email_holdout",
+		"v": 16195,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
