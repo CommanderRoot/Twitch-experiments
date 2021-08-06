@@ -628,6 +628,21 @@
 			}
 		]
 	},
+	"05df09f6-278b-4a76-9461-a94e1d9608a1": {
+		"name": "dart_lapsedemail1slabctest3_vwr_469_dav_cmc_wch_mis_email_2108_holdout",
+		"v": 16192,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"05ea49a8-7f49-4124-bcce-ab145401a1ba": {
 		"name": "ios_seek_to_live_on_stream_play",
 		"v": 13731,
@@ -25182,6 +25197,21 @@
 			{
 				"weight": 1,
 				"value": "active_2100"
+			}
+		]
+	},
+	"e9622caf-7a78-49c3-8b3d-d629e9165a85": {
+		"name": "dart_lapsedemail1slabctest3_vwr_469_dav_cmc_wch_mis_email_2108_email",
+		"v": 16193,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
