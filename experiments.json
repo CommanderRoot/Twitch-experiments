@@ -3646,15 +3646,15 @@
 	},
 	"210067b4-7808-40da-aaca-886f1c1bd524": {
 		"name": "TWILIGHT_AAX_DISPLAY_NA",
-		"v": 16227,
+		"v": 16230,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "GAM"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "AAX"
 			}
 		]
