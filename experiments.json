@@ -5995,15 +5995,15 @@
 	},
 	"365bff31-5b22-454a-8438-0f8d56f561fa": {
 		"name": "subtier_button_price_cta",
-		"v": 15834,
+		"v": 16244,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "variant_price_in_btn"
 			}
 		]
