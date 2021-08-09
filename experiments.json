@@ -5501,45 +5501,6 @@
 			}
 		]
 	},
-	"32579c0a-aa80-4c59-8690-907d38b9cb8c": {
-		"name": "android_content_integrity2",
-		"v": 12467,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "rsa_0"
-			},
-			{
-				"weight": 0,
-				"value": "ecdsa256_0"
-			},
-			{
-				"weight": 0,
-				"value": "ecdsa1_0"
-			},
-			{
-				"weight": 0,
-				"value": "control0"
-			},
-			{
-				"weight": 0,
-				"value": "rsa_200"
-			},
-			{
-				"weight": 0,
-				"value": "ecdsa256_200"
-			},
-			{
-				"weight": 0,
-				"value": "ecdsa1_200"
-			}
-		]
-	},
 	"326523fd-48bf-4043-9635-7bef334069e0": {
 		"name": "TWILIGHT_AUTOMOD_LAUNCH",
 		"v": 4201,
@@ -17366,21 +17327,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"9d018c44-c83f-42d5-8656-c473090fb18e": {
-		"name": "e2e_android_content_integrity",
-		"v": 13865,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
