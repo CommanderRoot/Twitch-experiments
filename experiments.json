@@ -4723,15 +4723,15 @@
 	},
 	"2a419c5c-16b5-48fa-83d4-a5764408545b": {
 		"name": "TWILIGHT_AAX_DISPLAY_DIRECTORY_M1",
-		"v": 15673,
+		"v": 16224,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "GAM"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "AAX"
 			}
 		]
@@ -12882,21 +12882,6 @@
 			}
 		]
 	},
-	"73ef2b10-1d3d-4602-80ec-eb0b439c4334": {
-		"name": "android_playercore_twitch_use_cronet",
-		"v": 13466,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"74156eb2-ed95-482c-b006-60c1428e8846": {
 		"name": "twilight_web_onboarding_channel_ranking",
 		"v": 3463,
@@ -17750,15 +17735,15 @@
 	},
 	"a141e25d-9b8b-49e8-8502-89fcf4803514": {
 		"name": "TWILIGHT_AAX_DISPLAY_HEADLINER_M1",
-		"v": 15513,
+		"v": 16225,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "GAM"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "AAX"
 			}
 		]
