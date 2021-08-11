@@ -16615,20 +16615,20 @@
 	},
 	"97a8c1d3-f5ca-4b06-9664-1d8a3469a37d": {
 		"name": "support_panel",
-		"v": 15833,
+		"v": 16269,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "treatment"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "treatment_w_gift_option_redesign"
 			}
 		]
