@@ -19660,6 +19660,21 @@
 			}
 		]
 	},
+	"b1c476e0-d55f-4c6f-87d3-f5f44261a46a": {
+		"name": "channel_banned_alias",
+		"v": 16263,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "on"
+			},
+			{
+				"weight": 100,
+				"value": "off"
+			}
+		]
+	},
 	"b1dc7781-ac6b-4b86-8b49-007046dd52dc": {
 		"name": "ios_async_renderer",
 		"v": 15778,
