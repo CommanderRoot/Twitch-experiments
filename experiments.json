@@ -4694,15 +4694,15 @@
 	},
 	"29ea7a8a-6f23-45a2-8cc2-76d58664a2a0": {
 		"name": "ios_vaes_sanitize_low_prioritiy_vast_urls",
-		"v": 16084,
+		"v": 16295,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "sanitize_v11.1"
 			}
 		]
