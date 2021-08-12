@@ -4559,15 +4559,15 @@
 	},
 	"28d49aca-25c9-412f-95e9-5cfb2fe25d96": {
 		"name": "mads_trigger_quick_action",
-		"v": 15813,
+		"v": 16298,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "MADS_ON"
 			}
 		]
