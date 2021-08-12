@@ -3316,15 +3316,15 @@
 	},
 	"1cde3420-0c76-43fb-a0b4-3f42ed6fc731": {
 		"name": "mads_trigger_ads_manager",
-		"v": 16300,
+		"v": 16301,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "MADS_ON"
 			}
 		]
@@ -27009,7 +27009,7 @@
 	},
 	"faff2ee1-39de-401a-876a-6cdc43b2aef7": {
 		"name": "mads_trigger_unknown",
-		"v": 15803,
+		"v": 16303,
 		"t": 3,
 		"groups": [
 			{
