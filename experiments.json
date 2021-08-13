@@ -2147,15 +2147,15 @@
 	},
 	"1436dd77-6aa3-4585-82b4-a7c4a47dabf5": {
 		"name": "mads_trigger_auto_ads",
-		"v": 15802,
+		"v": 16313,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "MADS_ON"
 			}
 		]
@@ -12347,15 +12347,15 @@
 	},
 	"6fe3a5bc-fb45-49ab-a535-c47d5853b69b": {
 		"name": "Promotions_SideNav_Recommended_Web",
-		"v": 15042,
+		"v": 16315,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "promotions_enabled"
 			}
 		]
