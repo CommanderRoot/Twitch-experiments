@@ -6783,6 +6783,21 @@
 			}
 		]
 	},
+	"3de5d30d-b69f-44cc-b441-01d2448ebc42": {
+		"name": "dart_new_day3slemjtestnewd3tpstreams_vwr_462_dav_cmc_wch_mis_email_2107_holdout",
+		"v": 16324,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3e00e6a3-77d3-41ab-a587-9618050a519a": {
 		"name": "onaffiliate_twitch_prime_extension_staging",
 		"v": 5081,
@@ -12131,6 +12146,33 @@
 			}
 		]
 	},
+	"6d71b82c-4b7a-46fc-a290-976e7edf435a": {
+		"name": "dart_new_day3slemjtestnewd3tpstreams_vwr_462_dav_cmc_wch_mis_email_2107_email",
+		"v": 16325,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
+			}
+		]
+	},
 	"6d7baf70-b506-4bef-8b38-214227b80e53": {
 		"name": "ios_tearing_me_apart",
 		"v": 8523,
@@ -16422,7 +16464,7 @@
 	},
 	"9549fcd9-2157-4128-84ee-dcdc9cd3002a": {
 		"name": "dart_slemjtestnewd3tpstreams_vwr_462_dav_cmc_wch_mis_email_2107_holdout",
-		"v": 15886,
+		"v": 16326,
 		"t": 2,
 		"groups": [
 			{
@@ -24473,7 +24515,7 @@
 	},
 	"e1738a09-c89e-4c03-8df8-ec1e5ddd3819": {
 		"name": "dart_slemjtestnewd3tpstreams_vwr_462_dav_cmc_wch_mis_email_2107_email",
-		"v": 15887,
+		"v": 16327,
 		"t": 2,
 		"groups": [
 			{
