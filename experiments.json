@@ -2147,15 +2147,15 @@
 	},
 	"1436dd77-6aa3-4585-82b4-a7c4a47dabf5": {
 		"name": "mads_trigger_auto_ads",
-		"v": 16313,
+		"v": 16321,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "MADS_ON"
 			}
 		]
