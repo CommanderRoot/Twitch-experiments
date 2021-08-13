@@ -4784,15 +4784,15 @@
 	},
 	"2a90d5d9-47ba-47d5-9f92-4b12a7d62ae2": {
 		"name": "leftnav_recommended_promoted_streams",
-		"v": 16318,
+		"v": 16322,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -12347,15 +12347,15 @@
 	},
 	"6fe3a5bc-fb45-49ab-a535-c47d5853b69b": {
 		"name": "Promotions_SideNav_Recommended_Web",
-		"v": 16319,
+		"v": 16323,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "promotions_enabled"
 			}
 		]
