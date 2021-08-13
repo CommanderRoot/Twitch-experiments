@@ -4784,15 +4784,15 @@
 	},
 	"2a90d5d9-47ba-47d5-9f92-4b12a7d62ae2": {
 		"name": "leftnav_recommended_promoted_streams",
-		"v": 15451,
+		"v": 16317,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 98,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "variant"
 			}
 		]
