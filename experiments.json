@@ -12082,6 +12082,21 @@
 			}
 		]
 	},
+	"6d14d60c-7d9e-4b9c-9e74-f48a7a113d2d": {
+		"name": "dart_lapsedemail1slabctest4_vwr_470_dav_cmc_wch_mis_email_2108_holdout",
+		"v": 16306,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6d4e9181-30a3-4c5e-a3f9-054cabe2643a": {
 		"name": "vpr_model_switcher",
 		"v": 15504,
@@ -25072,6 +25087,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"e6b291cf-ec6d-46bb-9503-99653b907a00": {
+		"name": "dart_lapsedemail1slabctest4_vwr_470_dav_cmc_wch_mis_email_2108_email",
+		"v": 16307,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
