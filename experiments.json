@@ -8288,12 +8288,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 16305,
+		"v": 16336,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-1700cd.pdx01.abs.hls.ttvnw.net/v1/segment/Cl8XMNsUEqyJgQs82QhG8RN49DqWywLlAfEGXKjfddxvW3uNM8jxV6_4TQ7vueu8sChrofljRB_mVdiPQIs60xKSThWSnYcSRVvCxqioSGZONRh7ZoduWkU5f6EWbrmrX4Al8Px_iBQYD3xzc1yDr1T4HJZsCDR1b-FLr_sZ_5YBdDqazXVUv--tzLTfRj1-6EiHNW4aDRRKleidF5DvAoeEaXSQh7feJBdOkT8fgF_75PhL8-Ow0zL1BLsGDrC1c34gWjlZM1XWqcEjPKNURYULRMqkPRSJwrfIMrR0WvYIcZKBlFhb634AyqCxFsc-55XFts4YDvVKgNryaKyeZKHh0PkpzQVrwCM66N3JjUhCahurOkN9SFn7j1l2G3bNEU8fW6olrfkjjNi93bNY93EjDl2e4uEWV239A2qLZz3IN-Sy9Xem557KBJJ8N9V8DRnr4kI30G3u9lwV1hCfn2QssoeYrHC_nqFPjrULqoXeiC8oT78oDouR_i08RKPGspczkANAEALJ1QEYz6ONR2lFfKuprvmsnrAKywJIEO4YHPNj_bnCTIhgkzdgxWxUulQx6cGBR02JfcJG0QzRwCaRIyoUiB4wIF1CKLWmT-IOjhERCDKjDQNR0m8yDTWgs6Ol9P3WOQP_AEX6jVI4kAbnjj6TtXEdC7j1kzPV-3FucpIDbuA3WGC2WlbQwh4PXBG7RDftEw8dNHde06RbXmJkNmrev3ld1lWYSp-zrRpjGu2PLSanpEWplvigXKVU.ts"
+				"value": "//video-edge-7930a3.pdx01.abs.hls.ttvnw.net/v1/segment/Cnf8n2q10o37F8a6LzTUNGXVhGSvKONMuOi3n0QUrNEaPt2nSZ22OI5lTHel27AfeBR4eeR_Mpo1NNcXsVymHSWar9pNcV_9PFxgr9GqEe7_JAE7gbwOktkAgSzka1r_TMsElJncMEetj_4PWpwTa9j-EL-7mp_4PiAX6Dimi0AIEaiLCTqnysPBG7w-S4glcDEdtfYEhziMTe70KTAX21uSzEJRqpGVfvuZyY86zpA34naTQnrW81kErZxs4DLCBGgWHwRwGxT-0gE0ilyekouyuMnSZd6Y1k1GH4S3jrAkEzygnaGa69NCvtpoPRMbtelftmplZCAkt0bax5zOK9qLxFbBIOYTKSQIRS8M2FGCGb0uVsJzGBU6m7EEGBsfHzMv4ZDdZhK9YPWrDsHzvmIeSDiDq_LWtKFVtObZCPOgOHkiydbwIHdlMbtFk4tbDOXJBf8XfdsKdIBTyni1gPwUJq3DrEmYEFzh8Rs4sWSWF2IVEkmWV__mYGIYBUX58cuEjESieAc6dhny2UCpAOaQf46hIHYUXY1KM3vf8FQNfiUQJZZV3zJFzYXfdJlnHcC_Ck4BRUQPZxkfshjEtEAHbNuJnNOZnPQr7zxj3eDqK_tQzZJWrz4qUNdfqsnNAq8qK6taaEOmW-ruLJ_Ys3sbGqfZ2eZxnjgpsHwnkhLCursA9w99ZpPWo0hpGmTdtJrceVOxt1-WVUzDA0jCT2QLHKLITTpW3JcR7qmweCGYa0kn3OG4tZjsR.ts"
 			}
 		]
 	},
@@ -11076,15 +11076,15 @@
 	},
 	"63ce5036-1f44-4555-9aac-1daa84571ae8": {
 		"name": "mads_poll_channel_points",
-		"v": 16334,
+		"v": 16335,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "CHANNEL_POINTS_0x"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "CHANNEL_POINTS_1x"
 			}
 		]
