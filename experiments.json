@@ -3900,11 +3900,11 @@
 	},
 	"230430a9-3595-47c5-ac63-34bd1c896f5b": {
 		"name": "ios_display_ads_enabled",
-		"v": 16290,
+		"v": 16339,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -3912,7 +3912,7 @@
 				"value": "active_beta"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active_v11.3"
 			}
 		]
