@@ -12434,15 +12434,15 @@
 	},
 	"6fe3a5bc-fb45-49ab-a535-c47d5853b69b": {
 		"name": "Promotions_SideNav_Recommended_Web",
-		"v": 16356,
+		"v": 16358,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 16,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 84,
+				"weight": 100,
 				"value": "promotions_enabled"
 			}
 		]
