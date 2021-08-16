@@ -4694,15 +4694,15 @@
 	},
 	"29ea7a8a-6f23-45a2-8cc2-76d58664a2a0": {
 		"name": "ios_vaes_sanitize_low_prioritiy_vast_urls",
-		"v": 16295,
+		"v": 16342,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "sanitize_v11.1"
 			}
 		]
@@ -19704,7 +19704,7 @@
 	},
 	"b15201ca-01dd-4145-82ee-62672910aca4": {
 		"name": "android_creator_benefits_messages",
-		"v": 16340,
+		"v": 16341,
 		"t": 1,
 		"groups": [
 			{
@@ -19713,11 +19713,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "variant_1"
+				"value": "variant1"
 			},
 			{
 				"weight": 0,
-				"value": "variant_2"
+				"value": "variant2"
 			}
 		]
 	},
