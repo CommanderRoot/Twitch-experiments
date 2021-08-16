@@ -8071,6 +8071,21 @@
 			}
 		]
 	},
+	"4a21eec0-1de5-469e-b755-0d1087bbf18b": {
+		"name": "one_click",
+		"v": 16345,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment"
+			}
+		]
+	},
 	"4a364170-ff19-45eb-b92e-ffd94b294c05": {
 		"name": "dart_sgf_marvels_avengers_holdout",
 		"v": 10620,
