@@ -17120,6 +17120,21 @@
 			}
 		]
 	},
+	"99b76b3f-8ec6-414b-8d89-b6894ce93019": {
+		"name": "dart_twitchrivals081721_vwr_486_dav_cmc_buy_mis_peo_2108_holdout",
+		"v": 16346,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"99c35e9d-eead-4b21-b9df-dfaba307c7b0": {
 		"name": "ios_playback_global_retry_limit",
 		"v": 15502,
