@@ -6582,11 +6582,11 @@
 	},
 	"3bdc18d8-11c2-4c47-9873-9baa57368a45": {
 		"name": "android_player_core_ad_playback",
-		"v": 16163,
+		"v": 16364,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -6600,6 +6600,10 @@
 			{
 				"weight": 0,
 				"value": "active_11.2"
+			},
+			{
+				"weight": 50,
+				"value": "active_11.5"
 			}
 		]
 	},
@@ -6710,15 +6714,15 @@
 	},
 	"3c2f9b16-2024-4e1d-a6d6-c864e7c2e314": {
 		"name": "android_prime_gaming_activation_brazil",
-		"v": 16170,
+		"v": 16363,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_11.4"
 			}
 		]
