@@ -16659,16 +16659,16 @@
 	},
 	"96771625-1381-489b-ac51-1cc43c50d67d": {
 		"name": "hype_train_approaching_2",
-		"v": 15781,
+		"v": 16395,
 		"t": 3,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "Control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "Experiment"
 			}
 		]
