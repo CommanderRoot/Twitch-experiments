@@ -9585,6 +9585,21 @@
 			}
 		]
 	},
+	"56ea4f1e-bcfc-4ed3-8b64-f471f8b872f0": {
+		"name": "default_emotes_new_affiliates",
+		"v": 16384,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"571c384b-b1fd-4834-8d16-c2a28d03a7d5": {
 		"name": "dart_cold_d14_v2_top_games_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 12681,
