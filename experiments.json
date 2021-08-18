@@ -3926,11 +3926,11 @@
 	},
 	"230430a9-3595-47c5-ac63-34bd1c896f5b": {
 		"name": "ios_display_ads_enabled",
-		"v": 16339,
+		"v": 16392,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -3938,7 +3938,7 @@
 				"value": "active_beta"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_v11.3"
 			}
 		]
@@ -4720,15 +4720,15 @@
 	},
 	"29ea7a8a-6f23-45a2-8cc2-76d58664a2a0": {
 		"name": "ios_vaes_sanitize_low_prioritiy_vast_urls",
-		"v": 16342,
+		"v": 16393,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "sanitize_v11.1"
 			}
 		]
