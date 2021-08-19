@@ -25899,7 +25899,7 @@
 	},
 	"ed11e902-ea56-44b2-9ae7-2a0ba3e4333a": {
 		"name": "android_animated_emotes",
-		"v": 16386,
+		"v": 16413,
 		"t": 2,
 		"groups": [
 			{
@@ -25913,6 +25913,10 @@
 			{
 				"weight": 0,
 				"value": "active_11.5_chat_limit_sec_5"
+			},
+			{
+				"weight": 0,
+				"value": "active_11.4"
 			}
 		]
 	},
