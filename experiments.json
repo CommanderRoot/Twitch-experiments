@@ -1278,15 +1278,15 @@
 	},
 	"0afd7516-d46e-475b-ad41-ee36de88090d": {
 		"name": "android_mgst_ivs_game_broadcast_global",
-		"v": 16277,
+		"v": 16402,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_11.2"
 			}
 		]
@@ -10548,7 +10548,7 @@
 	},
 	"5f4744a4-11ee-4044-95ac-f2b64da6e2c9": {
 		"name": "android_private_callouts",
-		"v": 14986,
+		"v": 16401,
 		"t": 1,
 		"groups": [
 			{
@@ -10562,6 +10562,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_11.5"
 			}
 		]
 	},
@@ -21938,15 +21942,15 @@
 	},
 	"c6a85b7d-7538-4aa5-8a8d-17769aeacec4": {
 		"name": "mads_trigger_api",
-		"v": 16397,
+		"v": 16399,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "MADS_ON"
 			}
 		]
