@@ -869,6 +869,21 @@
 			}
 		]
 	},
+	"06ec7fca-f08d-4363-83a1-22af509aba74": {
+		"name": "dart_welcomeheroimagetest2_vwr_464_dav_cmc_wch_mis_email_2108_email",
+		"v": 16425,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"070499d0-bfdc-454c-9e09-34b1c92061a1": {
 		"name": "sunlight_new_user",
 		"v": 6643,
@@ -12354,6 +12369,21 @@
 			{
 				"weight": 100,
 				"value": "active_v9.1"
+			}
+		]
+	},
+	"6e7a079c-f78c-4bdc-8f83-d6a03a252d80": {
+		"name": "dart_welcomeheroimagetest2_vwr_464_dav_cmc_wch_mis_email_2108_holdout",
+		"v": 16424,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
