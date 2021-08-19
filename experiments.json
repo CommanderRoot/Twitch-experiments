@@ -2162,15 +2162,15 @@
 	},
 	"1436dd77-6aa3-4585-82b4-a7c4a47dabf5": {
 		"name": "mads_trigger_auto_ads",
-		"v": 16321,
+		"v": 16410,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "MADS_ON"
 			}
 		]
@@ -3342,15 +3342,15 @@
 	},
 	"1cde3420-0c76-43fb-a0b4-3f42ed6fc731": {
 		"name": "mads_trigger_ads_manager",
-		"v": 16301,
+		"v": 16411,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "MADS_ON"
 			}
 		]
