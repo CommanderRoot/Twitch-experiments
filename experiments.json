@@ -4688,6 +4688,33 @@
 			}
 		]
 	},
+	"297a7058-1f58-4674-8f96-5d2144c81fc0": {
+		"name": "dart_lapsedemail1slabcwintest_vwr_498_dav_cmc_wch_mis_email_2108_email",
+		"v": 16446,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
+			}
+		]
+	},
 	"298a5f39-228a-487a-ad06-422c18458403": {
 		"name": "twilight_merch_store_launch",
 		"v": 2159,
@@ -5923,6 +5950,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"34e24fc3-1603-456c-bf5e-ad3e645a9418": {
+		"name": "dart_new_d3slwintest_1tpstreams_vwr_497_dav_cmc_wch_mis_email_2108_email",
+		"v": 16448,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -7653,6 +7695,21 @@
 			{
 				"weight": 100,
 				"value": "AAX"
+			}
+		]
+	},
+	"4526ae60-6b55-462f-83c4-c2a59277a806": {
+		"name": "dart_lapsedemail1slabcwintest_vwr_498_dav_cmc_wch_mis_email_2108_holdout",
+		"v": 16445,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -20560,6 +20617,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"b6a38dba-31e5-494a-a310-047dabf4c0bc": {
+		"name": "dart_new_d3slwintest_1tpstreams_vwr_497_dav_cmc_wch_mis_email_2108_holdout",
+		"v": 16447,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
