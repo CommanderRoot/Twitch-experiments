@@ -7819,6 +7819,21 @@
 			}
 		]
 	},
+	"46516c47-cf5c-41c9-96c6-fd913f49d84e": {
+		"name": "android_disable_amazon_ads_analytics",
+		"v": 16456,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_11.5"
+			}
+		]
+	},
 	"46bf9f05-d230-4b50-bc35-e015ce528241": {
 		"name": "ios_skip_kraken_information",
 		"v": 7193,
