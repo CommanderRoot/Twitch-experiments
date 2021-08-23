@@ -14804,16 +14804,20 @@
 	},
 	"81ed1758-f4fe-4589-82e3-cb657f57e60f": {
 		"name": "ios_use_generic_ad_analytics",
-		"v": 14872,
+		"v": 16486,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "video"
+				"value": "video_v11.5"
 			},
 			{
 				"weight": 0,
-				"value": "generic"
+				"value": "video_and_generic_v11.5"
+			},
+			{
+				"weight": 0,
+				"value": "generic_v11.5"
 			}
 		]
 	},
