@@ -3031,37 +3031,6 @@
 			}
 		]
 	},
-	"1a52f48e-7748-4f71-916e-a4fc34f5b7d2": {
-		"name": "android_animated_emotes_duration_in_chat",
-		"v": 16259,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "-1"
-			},
-			{
-				"weight": 0,
-				"value": "1000"
-			},
-			{
-				"weight": 0,
-				"value": "3000"
-			},
-			{
-				"weight": 100,
-				"value": "5000"
-			},
-			{
-				"weight": 0,
-				"value": "10000"
-			},
-			{
-				"weight": 0,
-				"value": "30000"
-			}
-		]
-	},
 	"1a85f2c8-da8d-4c00-8c0f-0d8c456a3c31": {
 		"name": "ios_keyboard_shortcuts",
 		"v": 10344,
