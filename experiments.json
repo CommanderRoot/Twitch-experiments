@@ -1629,15 +1629,15 @@
 	},
 	"0e771709-e2dc-4e7f-b2fe-aa1e17e530bd": {
 		"name": "ios_ivs_broadcasting_global",
-		"v": 16254,
+		"v": 16462,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "active"
 			},
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			}
 		]
