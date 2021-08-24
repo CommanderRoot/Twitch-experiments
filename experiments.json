@@ -15327,6 +15327,21 @@
 			}
 		]
 	},
+	"87ceedcc-f8ac-4822-8bf5-1744193d1a7a": {
+		"name": "dart_kor_localsubpricing_vwr_0_cmm_cmc_sub_mis_email_2108_duplicate_duplicate_holdout",
+		"v": 16508,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"87d995c4-afbc-400e-a6e4-472419071e26": {
 		"name": "ios_pipboy_broadcasting",
 		"v": 1338,
