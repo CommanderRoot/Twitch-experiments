@@ -12717,6 +12717,21 @@
 			}
 		]
 	},
+	"70765695-eb42-4ae1-ba0c-d69308617817": {
+		"name": "dart_tha_localsubpricing_vwr_0_cmm_cmc_sub_mis_email_2108_holdout",
+		"v": 16511,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"708eb0f3-a6be-434b-84b4-968adea4e076": {
 		"name": "ios_animated_emotes",
 		"v": 15172,
@@ -15328,8 +15343,8 @@
 		]
 	},
 	"87ceedcc-f8ac-4822-8bf5-1744193d1a7a": {
-		"name": "dart_kor_localsubpricing_vwr_0_cmm_cmc_sub_mis_email_2108_duplicate_duplicate_holdout",
-		"v": 16508,
+		"name": "dart_kor_localsubpricing_vwr_0_cmm_cmc_sub_mis_email_2108_holdout",
+		"v": 16510,
 		"t": 2,
 		"groups": [
 			{
