@@ -12732,6 +12732,21 @@
 			}
 		]
 	},
+	"711019ba-5a4d-47cc-8e46-ab0d65408523": {
+		"name": "dart_php_localsubpricing_vwr_0_cmm_cmc_sub_mis_email_2108_duplicate_duplicate_holdout",
+		"v": 16501,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"711aaaf6-61c0-4cc4-9469-0dfc9908785a": {
 		"name": "VP_QOS_TEST",
 		"v": 819,
