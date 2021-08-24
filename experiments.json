@@ -2002,6 +2002,21 @@
 			}
 		]
 	},
+	"121a3fd7-0098-45e0-90fa-f7cd6074003f": {
+		"name": "dart_rocketleague_vwr_495_dav_cmc_wch_gmg_email_2108_holdout",
+		"v": 16503,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1275752f-6cbb-4ff3-8dd8-fa190e469faf": {
 		"name": "tvapps_global_qr_login",
 		"v": 13164,
