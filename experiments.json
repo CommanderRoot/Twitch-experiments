@@ -13142,6 +13142,21 @@
 			}
 		]
 	},
+	"7374fbfd-44fa-438c-9b45-a2521778ea93": {
+		"name": "dart_gamescom_vwr_488_dav_cmc_wch_mis_po_2108_holdout",
+		"v": 16515,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7381beb9-d692-464f-9b39-65b7df96a040": {
 		"name": "android_native_pip_default_on",
 		"v": 10007,
