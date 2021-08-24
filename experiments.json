@@ -26586,6 +26586,21 @@
 			}
 		]
 	},
+	"f16e4012-b6c8-4d95-8958-212241ee7d87": {
+		"name": "dart_sgp_localsubpricing_vwr_0_cmm_cmc_sub_mis_email_2108_duplicate_holdout",
+		"v": 16502,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f174687c-b2ed-48d7-a9f2-04a77d978a2f": {
 		"name": "android_mgst_cold_start_search_suggestions",
 		"v": 9053,
