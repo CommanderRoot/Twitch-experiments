@@ -5753,6 +5753,21 @@
 			}
 		]
 	},
+	"340fb278-18d6-4611-a3b6-775485a285df": {
+		"name": "dart_koreatwitchrivalsxeternalreturn_vwr_0_flw_cmc_flw_mis_email_2108_holdout",
+		"v": 16498,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3419d300-77f7-47c5-80a5-7762da45996e": {
 		"name": "dart_olympics3_vwr_429_dav_cmc_flw_spt_peo_2108_holdout",
 		"v": 16148,
@@ -10719,6 +10734,21 @@
 	"602764ca-9e26-4a57-92c3-dcf25dd4dd50": {
 		"name": "dart_cyberpunk2077_vwr_258_dav_cmc_wch_gmg_email_2011_holdout",
 		"v": 12579,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"6034ac55-0d0c-4595-b047-e66367d169aa": {
+		"name": "dart_anz_localsubpricing_vwr_0_cmm_cmc_sub_mis_email_2108_holdout",
+		"v": 16500,
 		"t": 2,
 		"groups": [
 			{
@@ -18513,6 +18543,21 @@
 			{
 				"weight": 0,
 				"value": "variant"
+			}
+		]
+	},
+	"a5b2dafc-8a3f-4d88-b8b7-40f6c2bec24a": {
+		"name": "dart_koreatwitchrivalsxeternalreturn_vwr_0_dav_cmc_wch_mis_push_2108_holdout",
+		"v": 16499,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
