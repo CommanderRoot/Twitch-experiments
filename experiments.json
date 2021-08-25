@@ -13677,6 +13677,21 @@
 			}
 		]
 	},
+	"779f0190-618e-4512-aae0-9ea56826ad0a": {
+		"name": "dart_codwarzonesend2_vwr_403_dav_cmc_wch_gmg_email_2108_holdout",
+		"v": 16541,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"77c98c2e-1074-4a24-8621-ce4d32f1773e": {
 		"name": "dart_vodcast_event_reminder_push",
 		"v": 12719,
