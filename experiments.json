@@ -1293,15 +1293,15 @@
 	},
 	"0afd7516-d46e-475b-ad41-ee36de88090d": {
 		"name": "android_mgst_ivs_game_broadcast_global",
-		"v": 16402,
+		"v": 16536,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_11.2"
 			}
 		]
