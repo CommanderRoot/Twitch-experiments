@@ -4539,15 +4539,15 @@
 	},
 	"2884abba-926f-4567-be82-10c17f20b4a7": {
 		"name": "android_mgst_mini_chat_with_input",
-		"v": 16108,
+		"v": 16546,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 95,
 				"value": "control "
 			},
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "active_11.2"
 			}
 		]
@@ -9007,15 +9007,15 @@
 	},
 	"50b12ef8-a7a9-45d0-a0dd-91e8d6a66086": {
 		"name": "android_mgst_marquee_chat_experience_v2",
-		"v": 16109,
+		"v": 16545,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_11.4"
 			}
 		]
