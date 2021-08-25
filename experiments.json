@@ -9065,6 +9065,21 @@
 			}
 		]
 	},
+	"513a5d37-cec9-419a-94b0-b9c35234f778": {
+		"name": "dart_codwarzone_vwr_403_dav_cmc_wch_gmg_email_2108_holdout",
+		"v": 16542,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"515d6868-d140-49b3-9d83-f4935a588ef9": {
 		"name": "android_leaderboards_global",
 		"v": 15675,
