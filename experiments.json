@@ -9340,6 +9340,21 @@
 			}
 		]
 	},
+	"52822d42-e0af-446c-9d98-e3b20ac9aee8": {
+		"name": "android_mgst_ivs_rist_game_broadcast",
+		"v": 16556,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"528cb93c-47ba-4935-a89a-0b0fbe65883b": {
 		"name": "dart_top_streamers_1v1recstest_vwr_0_dav_cmc_wch_mis_email_2011_email",
 		"v": 13500,
@@ -18607,6 +18622,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"a4dc194c-c4af-4566-bccd-ab3c0b715286": {
+		"name": "vx_following_rate_limit",
+		"v": 16557,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
