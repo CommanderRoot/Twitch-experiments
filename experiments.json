@@ -6811,15 +6811,15 @@
 	},
 	"3c2f9b16-2024-4e1d-a6d6-c864e7c2e314": {
 		"name": "android_prime_gaming_activation_brazil",
-		"v": 16363,
+		"v": 16553,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "active_11.4"
 			}
 		]
@@ -27338,6 +27338,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"f7676a18-9287-45d5-9a59-ea92a5242adf": {
+		"name": "android_enable_event_listener_for_network_tracking",
+		"v": 16554,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
 			}
 		]
 	},
