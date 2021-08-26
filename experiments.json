@@ -17988,6 +17988,21 @@
 			}
 		]
 	},
+	"9d5b24ec-76bd-4098-908c-456813ba48c5": {
+		"name": "dart_subtember_coms_lsp_holdout",
+		"v": 16570,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"9d5e2dcf-17da-4702-8456-21dce2409680": {
 		"name": "dart_jpcreatordiscoveryapr2021xsutanmi_vwr_0_dav_cmc_wch_gmg_email_2104_email",
 		"v": 14378,
