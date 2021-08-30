@@ -26516,15 +26516,15 @@
 	},
 	"edecb22e-e821-46d2-8498-4ac8067ba08f": {
 		"name": "mads_trigger_chat",
-		"v": 15800,
+		"v": 16603,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "MADS_OFF"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "MADS_ON"
 			}
 		]
