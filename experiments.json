@@ -6202,15 +6202,15 @@
 	},
 	"36a39ecd-42d2-4c4f-ad43-1d40b48378c2": {
 		"name": "multimonth_evergreen_discount",
-		"v": 15708,
+		"v": 16591,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
@@ -18676,15 +18676,15 @@
 	},
 	"a4dc194c-c4af-4566-bccd-ab3c0b715286": {
 		"name": "vx_following_rate_limit",
-		"v": 16582,
+		"v": 16592,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "treatment"
 			}
 		]
