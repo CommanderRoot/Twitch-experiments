@@ -17267,6 +17267,21 @@
 			}
 		]
 	},
+	"977bc5e0-f7e3-411b-9a7f-425111023f45": {
+		"name": "dart_subtemberlsp_vwr_492_dav_cmc_lrn_mis_eo_2109_holdout",
+		"v": 16655,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"979aa473-ad9d-4940-bbf6-693acf6f6ac1": {
 		"name": "dart_euro2020keyevent1_vwr_445_dav_cmc_wch_spt_email_2106_dach_holdout",
 		"v": 15310,
