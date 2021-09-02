@@ -10259,6 +10259,21 @@
 			}
 		]
 	},
+	"5a4f7ba3-debd-480d-9f2b-acd7cee75e98": {
+		"name": "dart_subtemberus_vwr_492_dav_cmc_lrn_mis_eo_2109_holdout",
+		"v": 16658,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5a5749d7-dc37-4029-9ff6-c70a533b029e": {
 		"name": "android_clickThroughUrl_app_install",
 		"v": 12039,
@@ -21046,6 +21061,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"b6463b4f-9d5e-45d3-b782-9938fcc52bb6": {
+		"name": "dart_subtemberstable5_vwr_492_dav_cmc_lrn_mis_eo_2109_holdout",
+		"v": 16657,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
