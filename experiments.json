@@ -1687,6 +1687,21 @@
 			}
 		]
 	},
+	"0ec0b7c8-e803-41cb-b494-3a26f52aef6d": {
+		"name": "dart_updatedwelcomeheroimagetest2_vwr_464_dav_cmc_wch_mis_email_2108_email",
+		"v": 16683,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"0ec5aa95-b1ef-4a0d-b37f-09fe8b59e70b": {
 		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13551,
@@ -25814,6 +25829,21 @@
 			{
 				"weight": 1,
 				"value": "active_2100"
+			}
+		]
+	},
+	"e5c7c4d7-ff89-43f1-9551-f33df1acc7a6": {
+		"name": "dart_updatedwelcomeheroimagetest2_vwr_464_dav_cmc_wch_mis_email_2108_holdout",
+		"v": 16682,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
