@@ -2999,7 +2999,7 @@
 	},
 	"19cb3106-7496-4f75-b94e-089d648c477e": {
 		"name": "dart_new_d3_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 16575,
+		"v": 16673,
 		"t": 2,
 		"groups": [
 			{
@@ -24052,7 +24052,7 @@
 	},
 	"d457dbd7-c26b-4459-9de1-66c6bb0ee0d7": {
 		"name": "dart_new_d3_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 16576,
+		"v": 16674,
 		"t": 2,
 		"groups": [
 			{
@@ -24060,16 +24060,24 @@
 				"value": "Variant A"
 			},
 			{
-				"weight": 34,
+				"weight": 0,
 				"value": "Variant B"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "Variant C"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "Variant D"
+			},
+			{
+				"weight": 50,
+				"value": "Variant E"
+			},
+			{
+				"weight": 50,
+				"value": "Variant F"
 			}
 		]
 	},
