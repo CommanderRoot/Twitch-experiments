@@ -17969,6 +17969,21 @@
 			}
 		]
 	},
+	"9c1da9ad-a34e-4575-819f-fb48e2cf93c1": {
+		"name": "android_ivs_broadcast_old_versions",
+		"v": 16687,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "active"
+			}
+		]
+	},
 	"9c5b2a82-917b-48b4-91fd-e42126e83eb3": {
 		"name": "tvapps_global_player_bitrate_experiment",
 		"v": 9395,
