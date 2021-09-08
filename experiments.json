@@ -6320,6 +6320,21 @@
 			}
 		]
 	},
+	"37174052-304a-494e-acaf-ee296c46d9e3": {
+		"name": "android_ivs_broadcast_old_versions",
+		"v": 16690,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 10,
+				"value": "active_11.6"
+			}
+		]
+	},
 	"371fd8fe-5e8b-4944-ac33-ba81f992b7d2": {
 		"name": "dart_thegatheringapac_vwr_423_awa_cmc_mis_gmg_email_2105_holdout",
 		"v": 15074,
@@ -8543,12 +8558,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 16663,
+		"v": 16689,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-9454f2.pdx01.abs.hls.ttvnw.net/v1/segment/ChcR4EjT9tVZ0R4A7qCp1uFcxq9JN1VC8KSeyQF1J_4SkBNksHJ-6ieY6qGRzGi8wUpEMPJd9TK9NQ6WCSVhoAy1FjW9k4acyCBKNnpKz83FLMQbu3PNZJ-9CVx5E4eG3xe4S0F9-rcR3ZxvP8Ep5wcO0EwxhX4iGrg6qDYVWkXWArmtihAUrzmlRig83xv0oHvR-Vu4pvsSMjxHTjvPMjM5i5warJd8Skt31ZSG3WY-nPMEW1m9HTDX7dpSBsMnQha5FkEtcu5i0RRHLd8L0UAowHZIz6pvXgRzuVgi5PNEnfSSbyTkVd5mqVy9HPRyq5p877T6KEMuipl9ZDNyDPJHyikOR4idn5onG2wyUhBNYmbZ3q4viPt066xEjsWxTFnN-jBsKZWB49YpmYPTExnELW_gng0Ta7zKrIS2q9pWJWt9Lx2RuiyaPi_RTctGbWMQMiOmfFBFXuFuB9vw0N1KbQQH1UiuoaZstqQU9hC0gfnnQXLXKe7Z7-XYGtoR2P3AzowFL7wOvubJzJ2M2hCQM0gKNWBYdb6u7culHoUxdyNQbWp2UlarZfP5SFqLyLUbw6g49bgC9fOfM_PTC3I2S6f4uqi3ZXRq1U-9EqjLZ2nomxSm_g6Y8xcw_jVAf1ydSFmRQbUB4wbiBE8OoQ8LX3Avaqjh77vNMQg8qoxBVbkUt5wVi2PPfJoqGPbzRDq_qEmSnwbbv9kwwwz0X9BGNrrBgLlEfiR4EittX8GWd7GpYRZaGSEoZ9M0.ts"
+				"value": "//video-edge-80d193.pdx01.abs.hls.ttvnw.net/v1/segment/CnZKHvrolS6Ac-g6eeiVAlnGY54P4ZlBANXwyiI7EpLaQiYit_nrHO6Pi-SGlJYngSSTOHaFhTzyxQMFpsx9wafprwTNvEZ72tBqvgVZ35v2yjv4T4u3Nktp8XqGn_8tPm-2r0odjGkIrt--BdxGGqi4J5YLLfkI809MJ-cR-Yjiak-4rI8FM4n9W1K-IK-9V_b1gMelb5fV7G4MdB3LrBS64yMeu6ak4rtVNBJ0hwzgUHQ_IJFjsx8DxQqPvlUorJJTwPs0VEU-QQ8mzfncHgc_e8kYro1TC8LdahAGnYiGUeLT7XhUB4CtcLxo_7CbpPgbPsXRr_jcIfTlnjnPwlLv7emNR_U1FmW0asraRXhAw3nkZpu8M_KlNjsLUxYrRF2bAYwFbYaDo-iMuiCSXJe4FkGNyl400fy5ckwpeWTPaq42jSPkmYWvT6J7_-MbCwftvGQKHyi4AYNQlnMBSiCw_tjurmYubelSXh1FqDosjF-9cTM5fwk72fgazmAa1Vw-7NFX6qwLTS7v_I2JLvWeV4h98xLRThTjzwgbhjntfm7WdzbSlcI_dzU89HsuR3Ye5Lk3j-q_SwxnScX72cAXewMu_w0B6dKILCQjdquiLmVZs1byaTCXSOpoCWJU0cJFwvMSFX06-lm9wWAWEhZpAWPVzsXo49-142gDMQAfLzd7dRauv1h6Q_-qmfkIwurKcvFPxXTw4MYuKxTFdVA8-5hQ8gDsIWrRhhhShqczkxOrbfA7rvwqk35UIu.ts"
 			}
 		]
 	},
@@ -17965,21 +17980,6 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
-	"9c1da9ad-a34e-4575-819f-fb48e2cf93c1": {
-		"name": "android_ivs_broadcast_old_versions",
-		"v": 16687,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
 				"value": "active"
 			}
 		]
