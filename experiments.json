@@ -9189,6 +9189,21 @@
 			}
 		]
 	},
+	"512b44e8-8d68-482b-bf8b-52bdc419335d": {
+		"name": "dart_maestro_ctr_456_awa_cmc_lrn_mis_email_2108_holdout",
+		"v": 16709,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 4,
+				"value": "holdout"
+			},
+			{
+				"weight": 96,
+				"value": "allowed"
+			}
+		]
+	},
 	"513a5d37-cec9-419a-94b0-b9c35234f778": {
 		"name": "dart_codwarzone_vwr_403_dav_cmc_wch_gmg_email_2108_holdout",
 		"v": 16542,
