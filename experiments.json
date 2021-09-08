@@ -2342,19 +2342,19 @@
 	},
 	"1574b000-7a17-4807-bb00-04afebf3926f": {
 		"name": "iOS_verification_at_sign_up",
-		"v": 15705,
+		"v": 16707,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 94,
+				"weight": 0,
 				"value": "variant_1"
 			},
 			{
-				"weight": 3,
+				"weight": 100,
 				"value": "variant_2"
 			},
 			{
-				"weight": 3,
+				"weight": 0,
 				"value": "variant_3"
 			}
 		]
@@ -28499,19 +28499,19 @@
 	},
 	"fe15e4e9-20a0-49d3-a992-e7063098ff4e": {
 		"name": "android_verification_at_sign_up",
-		"v": 16693,
+		"v": 16708,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 94,
+				"weight": 0,
 				"value": "variant_1"
 			},
 			{
-				"weight": 3,
+				"weight": 100,
 				"value": "variant_2"
 			},
 			{
-				"weight": 3,
+				"weight": 0,
 				"value": "variant_3"
 			}
 		]
