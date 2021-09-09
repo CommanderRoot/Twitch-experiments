@@ -196,8 +196,8 @@
 		]
 	},
 	"013308ea-43d8-4004-a115-e6754e4595c9": {
-		"name": "android_maf_11.5",
-		"v": 16381,
+		"name": "android_maf_11.6",
+		"v": 16731,
 		"t": 1,
 		"groups": [
 			{
@@ -206,7 +206,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_11.5"
+				"value": "active_11.6"
 			}
 		]
 	},
@@ -12240,7 +12240,7 @@
 	},
 	"6a6bf186-27dc-490a-9597-83b8e5c9fe7e": {
 		"name": "android_maf_ad_tracking",
-		"v": 15328,
+		"v": 16729,
 		"t": 1,
 		"groups": [
 			{
@@ -12249,11 +12249,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "only_maf_tracker"
+				"value": "only_maf_tracker_11.6"
 			},
 			{
 				"weight": 0,
-				"value": "both_ad_and_maf_tracker"
+				"value": "both_ad_and_maf_tracker_11.6"
 			}
 		]
 	},
