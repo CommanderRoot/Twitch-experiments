@@ -24869,15 +24869,15 @@
 	},
 	"d9a876a6-b481-4dcc-9c19-1d717bc623de": {
 		"name": "happening_now_by_user",
-		"v": 16094,
+		"v": 16740,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
