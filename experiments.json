@@ -9251,7 +9251,7 @@
 	},
 	"516a9c35-5eba-4e4a-930a-ed2112741780": {
 		"name": "android_leaderboards_V4",
-		"v": 16605,
+		"v": 16720,
 		"t": 2,
 		"groups": [
 			{
@@ -21332,6 +21332,21 @@
 			{
 				"weight": 94,
 				"value": "allowed"
+			}
+		]
+	},
+	"b8843dac-7688-430b-a10b-f3e38c7de2cf": {
+		"name": "android_disable_dynamic_security_provider",
+		"v": 16721,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
