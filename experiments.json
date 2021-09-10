@@ -18907,6 +18907,21 @@
 			}
 		]
 	},
+	"a4e04ff5-13f3-453c-9e31-f79640051cc4": {
+		"name": "dart_subtember_vwr_507_sbs_trn_sub_mis_email_2109_ukde_holdout",
+		"v": 16745,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a4fa6114-e59c-47a6-9059-ac5c91ee0429": {
 		"name": "dart_amsot_session_holdout",
 		"v": 11317,
@@ -26542,7 +26557,7 @@
 	},
 	"eb8fc369-0b22-420f-b959-d2ddd8939dd9": {
 		"name": "dart_subtember_vwr_507_sbs_trn_sub_mis_email_2109_eu_holdout",
-		"v": 16743,
+		"v": 16744,
 		"t": 2,
 		"groups": [
 			{
