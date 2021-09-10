@@ -8663,23 +8663,23 @@
 	},
 	"4d1a7041-5e37-4471-9125-41b547355831": {
 		"name": "vx_follow_blocking",
-		"v": 16727,
+		"v": 16747,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 88,
+				"weight": 76,
 				"value": "control"
 			},
 			{
-				"weight": 4,
+				"weight": 8,
 				"value": "followbot_model"
 			},
 			{
-				"weight": 4,
+				"weight": 8,
 				"value": "ratelimit"
 			},
 			{
-				"weight": 4,
+				"weight": 8,
 				"value": "both"
 			}
 		]
