@@ -1278,15 +1278,15 @@
 	},
 	"0a7b7f7b-66bb-437a-9e34-2971c4daa394": {
 		"name": "following_remove_ios_cursor",
-		"v": 16746,
+		"v": 16748,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
