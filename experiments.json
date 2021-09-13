@@ -6469,16 +6469,12 @@
 	},
 	"37c7a3a7-2d73-4eaf-b556-f684ccdc536f": {
 		"name": "dart_self_serve_1_ctr_493_awa_cmc_lrn_mis_eo_2109_email",
-		"v": 16768,
+		"v": 16769,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
