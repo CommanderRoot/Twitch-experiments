@@ -12255,11 +12255,11 @@
 	},
 	"6a6bf186-27dc-490a-9597-83b8e5c9fe7e": {
 		"name": "android_maf_ad_tracking",
-		"v": 16729,
+		"v": 16758,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "only_video_ad_tracker"
 			},
 			{
@@ -12267,7 +12267,7 @@
 				"value": "only_maf_tracker_11.6"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "both_ad_and_maf_tracker_11.6"
 			}
 		]
