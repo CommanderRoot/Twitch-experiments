@@ -5216,6 +5216,21 @@
 			}
 		]
 	},
+	"2e330c88-4bff-4599-ba11-5445a98abbed": {
+		"name": "dart_creator_anniversaries_onsite_holdout",
+		"v": 16761,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"2e717492-8871-42ef-b206-fff0bfe0aa13": {
 		"name": "dart_olympics1_vwr_429_dav_cmc_flw_spt_email_2107_holdout",
 		"v": 15890,
@@ -8648,7 +8663,7 @@
 	},
 	"4d15d30b-4a56-49f2-8943-64cc6d9c4274": {
 		"name": "dart_new_d3_top_streams_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 14427,
+		"v": 16759,
 		"t": 2,
 		"groups": [
 			{
@@ -10652,7 +10667,7 @@
 	},
 	"5d4f55a1-38ce-4895-ac8a-c4f504bf607f": {
 		"name": "dart_new_d5_top_games_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 14433,
+		"v": 16760,
 		"t": 2,
 		"groups": [
 			{
@@ -17424,7 +17439,7 @@
 	},
 	"97c409b4-6222-441e-8dea-6306e8cb85df": {
 		"name": "dart_new_d7_top_streamers_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 14437,
+		"v": 16762,
 		"t": 2,
 		"groups": [
 			{
@@ -25924,7 +25939,7 @@
 	},
 	"e5a6585e-8863-471e-b290-f7338b84ab31": {
 		"name": "dart_cold_d7_top_streams_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 14472,
+		"v": 16763,
 		"t": 2,
 		"groups": [
 			{
