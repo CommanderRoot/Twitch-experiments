@@ -5366,6 +5366,21 @@
 			}
 		]
 	},
+	"2fc19750-b8f0-4d6d-9683-61803d8e86bf": {
+		"name": "dart_ccu250below_ctr_481_awa_cmc_lrn_mis_email_2109_holdout",
+		"v": 16775,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"2fd1fd07-8b92-4758-ae1c-e235633b961e": {
 		"name": "android_schedule_reminders",
 		"v": 12941,
