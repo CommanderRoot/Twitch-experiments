@@ -20534,19 +20534,19 @@
 	},
 	"b15201ca-01dd-4145-82ee-62672910aca4": {
 		"name": "android_creator_benefits_messages",
-		"v": 16815,
+		"v": 16818,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "variant1"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "variant2"
 			}
 		]
