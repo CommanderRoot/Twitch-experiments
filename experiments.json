@@ -21348,15 +21348,15 @@
 	},
 	"b734a839-9d24-4059-ba9e-a824c24acd97": {
 		"name": "hermes_east_ses_rollout",
-		"v": 16808,
+		"v": 16810,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "rollout"
 			}
 		]
@@ -25496,6 +25496,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"e0875f9c-d48f-4119-9d6b-0cb21fef63a0": {
+		"name": "ios_comscore_sdk_killswitch",
+		"v": 16809,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "enabled_v11.7"
+			},
+			{
+				"weight": 100,
+				"value": "control_v11.7"
 			}
 		]
 	},
