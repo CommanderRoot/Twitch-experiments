@@ -9954,15 +9954,15 @@
 	},
 	"56ea4f1e-bcfc-4ed3-8b64-f471f8b872f0": {
 		"name": "default_emotes_new_affiliates",
-		"v": 16568,
+		"v": 16806,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
