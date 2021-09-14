@@ -6350,6 +6350,21 @@
 			}
 		]
 	},
+	"36aa0926-b875-4fd4-ba2d-5b5ee5841fa6": {
+		"name": "ios_pause_video_ads_on_background",
+		"v": 16819,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "pause_v11.7"
+			},
+			{
+				"weight": 0,
+				"value": "dont_pause_v11.7"
+			}
+		]
+	},
 	"36bf43ea-63f1-41ef-b7ef-6c31a810ac30": {
 		"name": "ios_redeem_5_get_6_user_id_targeted",
 		"v": 13759,
