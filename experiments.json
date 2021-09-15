@@ -7737,6 +7737,21 @@
 			}
 		]
 	},
+	"42373aca-c5ec-4ac4-82eb-7e470632779c": {
+		"name": "ios_vast_recommended_major_version",
+		"v": 16871,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "4"
+			},
+			{
+				"weight": 100,
+				"value": "3"
+			}
+		]
+	},
 	"4237d222-c85f-43cc-b4ae-96239ef8a51e": {
 		"name": "mobile_web_charlotte_v2",
 		"v": 9421,
@@ -9975,17 +9990,6 @@
 			{
 				"weight": 100,
 				"value": "active_10.4"
-			}
-		]
-	},
-	"55a17cd0-8d08-4bd9-9f2f-cda193ff71df": {
-		"name": "ios_vast_parser_report_major_version_received",
-		"v": 16858,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "4"
 			}
 		]
 	},
