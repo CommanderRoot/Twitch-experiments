@@ -10660,6 +10660,21 @@
 			}
 		]
 	},
+	"5b2415ba-02c6-4de4-9afa-2e18a1d4f904": {
+		"name": "android_mgst_live_theatre_refactor",
+		"v": 16872,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"5b3c7579-e32e-4ddd-b569-8bf76265a431": {
 		"name": "dart_newcreatoruse1_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
 		"v": 13683,
