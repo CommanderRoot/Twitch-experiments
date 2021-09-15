@@ -21249,15 +21249,15 @@
 	},
 	"b513457d-752d-4e41-9aae-aeaedd8280e4": {
 		"name": "default_emotes_for_new_affiliates",
-		"v": 16817,
+		"v": 16838,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
