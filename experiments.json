@@ -10435,6 +10435,21 @@
 			}
 		]
 	},
+	"59f4ba83-d776-4ce5-aea5-ea57152f0ef8": {
+		"name": "dart_anz_apacsubtember_vwr_0_cmm_cmc_sub_mis_email_2109_holdout",
+		"v": 16831,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5a083aa0-e633-4fde-9132-05284931a76e": {
 		"name": "dart_new_d3_top_streams_v2_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 12600,
@@ -24451,7 +24466,7 @@
 	},
 	"d4e99017-88cd-49f1-b482-c559d7d7722a": {
 		"name": "dart_php_apacsubtember_vwr_0_cmm_cmc_sub_mis_email_2109_holdout",
-		"v": 16828,
+		"v": 16830,
 		"t": 2,
 		"groups": [
 			{
