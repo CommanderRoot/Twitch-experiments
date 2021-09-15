@@ -10192,6 +10192,21 @@
 			}
 		]
 	},
+	"5853421e-706b-4aa7-8883-9fb052604d6d": {
+		"name": "ios_vast_max_supported_version",
+		"v": 16841,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "4"
+			},
+			{
+				"weight": 100,
+				"value": "3"
+			}
+		]
+	},
 	"586ba4e6-2954-4fd1-b317-e3c7c14bfa3f": {
 		"name": "android_mp_disable",
 		"v": 3272,
@@ -16303,6 +16318,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"8cde8d4f-353c-4ae5-87b2-bf866ef18fc7": {
+		"name": "android_hype_train_approaching",
+		"v": 16840,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
