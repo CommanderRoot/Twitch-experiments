@@ -6643,6 +6643,17 @@
 			}
 		]
 	},
+	"389bc9ca-3e37-45fb-a88c-08400d8c938d": {
+		"name": "ios_vast_min_supported_major_version",
+		"v": 16843,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "2"
+			}
+		]
+	},
 	"38b6dd9b-2559-457a-9640-56de05902893": {
 		"name": "dart_landonorrisgeneric_vwr_378_dav_cmc_wch_gmg_email_2103_holdout",
 		"v": 13722,
@@ -10193,8 +10204,8 @@
 		]
 	},
 	"5853421e-706b-4aa7-8883-9fb052604d6d": {
-		"name": "ios_vast_max_supported_version",
-		"v": 16841,
+		"name": "ios_vast_max_supported_major_version",
+		"v": 16844,
 		"t": 1,
 		"groups": [
 			{
