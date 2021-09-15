@@ -2508,7 +2508,7 @@
 	},
 	"15ee6014-d61b-434f-a1d2-056fc78b4751": {
 		"name": "dart_jpn_apacsubtember_vwr_0_cmm_cmc_sub_mis_email_2109_holdout",
-		"v": 16834,
+		"v": 16835,
 		"t": 2,
 		"groups": [
 			{
@@ -21264,15 +21264,15 @@
 	},
 	"b525d2cb-6aea-4d7c-ac32-92a46541d7f2": {
 		"name": "ios_gql_batching",
-		"v": 16797,
+		"v": 16836,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "no_batching"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "batch_50ms"
 			},
 			{
