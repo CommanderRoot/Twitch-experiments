@@ -2748,6 +2748,21 @@
 			}
 		]
 	},
+	"17620d7e-3772-4fea-9edf-6f4860369379": {
+		"name": "creatorhome_ffa_stream_progress",
+		"v": 16849,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"17b33c41-5bf3-40b7-8fc0-ea450d797b0b": {
 		"name": "ios_broadcasting",
 		"v": 1031,
@@ -5413,7 +5428,7 @@
 	},
 	"2fc19750-b8f0-4d6d-9683-61803d8e86bf": {
 		"name": "dart_ccu250below_ctr_481_awa_cmc_lrn_mis_email_2109_holdout",
-		"v": 16775,
+		"v": 16847,
 		"t": 2,
 		"groups": [
 			{
@@ -10205,7 +10220,7 @@
 	},
 	"5853421e-706b-4aa7-8883-9fb052604d6d": {
 		"name": "ios_vast_max_supported_major_version",
-		"v": 16844,
+		"v": 16846,
 		"t": 1,
 		"groups": [
 			{
