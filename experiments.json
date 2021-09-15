@@ -3805,6 +3805,21 @@
 			}
 		]
 	},
+	"20bd8987-c8f3-4849-81a7-18decb6a4cea": {
+		"name": "dart_lor_world_champion_sept2021_holdout",
+		"v": 16861,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"20c91448-ea6a-46ec-b065-fda344865a71": {
 		"name": "dart_cold_d21_top_streamers_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14480,
