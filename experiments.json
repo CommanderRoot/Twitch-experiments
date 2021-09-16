@@ -1109,6 +1109,21 @@
 			}
 		]
 	},
+	"08d2ac41-7fbc-4504-9cd5-443638de335d": {
+		"name": "dart_twstreamerbattlexnaraka_vwr_0_dav_trn_wch_gmg_push_2109_holdout",
+		"v": 16896,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"093679b6-f8ba-4f79-af5c-2499183341f6": {
 		"name": "eVPR_threshold",
 		"v": 13195,
@@ -15398,6 +15413,21 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"8129b970-1d91-4270-8855-d69e3b407d22": {
+		"name": "dart_twstreamerbattlexnaraka_vwr_0_flw_trn_flw_gmg_email_2109_holdout",
+		"v": 16895,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
