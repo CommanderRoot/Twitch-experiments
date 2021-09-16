@@ -9097,6 +9097,21 @@
 			}
 		]
 	},
+	"4e7403b3-f819-4658-a4e2-bc203d134da8": {
+		"name": "dart_japantwitchrivalsxguiltygear_vwr_0_dav_trn_wch_gmg_push_2109_holdout",
+		"v": 16890,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4e9d0a3c-4f43-4817-8db4-ac060fc32b74": {
 		"name": "latency_component_instrumentation",
 		"v": 1579,
@@ -24746,6 +24761,21 @@
 			{
 				"weight": 100,
 				"value": "variant"
+			}
+		]
+	},
+	"d65c076a-8616-42fd-a373-fecdb7e53560": {
+		"name": "dart_japantwitchrivalsxguiltygear_vwr_0_flw_trn_flw_gmg_email_2109_holdout",
+		"v": 16891,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
