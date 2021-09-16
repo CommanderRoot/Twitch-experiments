@@ -15987,6 +15987,21 @@
 			}
 		]
 	},
+	"8720f213-edbf-43a4-b3bf-d9e7d9a2cebb": {
+		"name": "dart_anzstreamerbattlexfallguys_ctr_0_flw_trn_flw_gmg_push_2109_holdout",
+		"v": 16897,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"873713d3-de02-4a1a-8009-7237c4750034": {
 		"name": "dart_intlpricingfix_vwr_416_cmm_cmc_lrn_mis_email_2105_holdout",
 		"v": 14886,
@@ -20282,6 +20297,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"ae33ee41-cddd-4194-a98d-31634686cc1e": {
+		"name": "dart_anzstreamerbattlexfallguys_ctr_0_flw_trn_flw_gmg_email_2109_holdout",
+		"v": 16898,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
