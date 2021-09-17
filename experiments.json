@@ -14482,16 +14482,12 @@
 	},
 	"7a120eef-4323-4c9f-9922-3f56969ff67d": {
 		"name": "dart_decider_new_consumer_rollback",
-		"v": 16467,
+		"v": 16916,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "holdout"
-			},
-			{
-				"weight": 100,
-				"value": "rollout"
 			}
 		]
 	},
