@@ -19123,6 +19123,21 @@
 			}
 		]
 	},
+	"a2fe32b7-9827-4afa-9b2c-1232b8e5fdfd": {
+		"name": "dart_ecommedtactical1_vwr_411_sbs_cmc_sub_mis_email_2105_es_holdout",
+		"v": 16911,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"a342fd79-b34a-4fdc-acb8-3bd2082d72f7": {
 		"name": "tvapps_firetv_playercore",
 		"v": 9131,
@@ -24184,6 +24199,21 @@
 			{
 				"weight": 100,
 				"value": "yes"
+			}
+		]
+	},
+	"d05eb96f-8dc6-4cd5-8a52-d6b67ca1187b": {
+		"name": "dart_ecommedtactical1_vwr_411_sbs_cmc_sub_mis_email_2105_it_holdout",
+		"v": 16910,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
 			}
 		]
 	},
