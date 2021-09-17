@@ -7799,16 +7799,12 @@
 	},
 	"4265bc60-17bd-4643-bfad-3b779a16bf25": {
 		"name": "dart_renderer_new_consumer_rollback",
-		"v": 16468,
+		"v": 16917,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "holdout"
-			},
-			{
-				"weight": 100,
-				"value": "rollout"
 			}
 		]
 	},
@@ -22500,16 +22496,12 @@
 	},
 	"c1956af5-8fde-4f44-b2ee-5e61f2b59661": {
 		"name": "dart_new_hermes_new_consumer_rollback",
-		"v": 16469,
+		"v": 16918,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "holdout"
-			},
-			{
-				"weight": 100,
-				"value": "rollout"
 			}
 		]
 	},
