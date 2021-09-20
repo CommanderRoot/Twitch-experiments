@@ -23308,15 +23308,15 @@
 	},
 	"c8964da4-7bfb-49dc-9298-e244009569b7": {
 		"name": "ios_1080p_broadcasting",
-		"v": 16802,
+		"v": 16939,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 95,
+				"weight": 50,
 				"value": "control"
 			}
 		]
