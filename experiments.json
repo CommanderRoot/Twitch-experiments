@@ -8840,6 +8840,21 @@
 			}
 		]
 	},
+	"4bc764f2-f282-41e9-8aeb-15cb1f132d78": {
+		"name": "animated_emotes_for_affiliates",
+		"v": 16946,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"4bd43d8a-2570-4a76-910b-fd9a7ebc59ff": {
 		"name": "tvapps_global_crash_dump_info_per_frame_data",
 		"v": 10739,
