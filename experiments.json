@@ -11049,7 +11049,7 @@
 	},
 	"5dd5836b-16d3-4cd2-9612-1b3635aa22c9": {
 		"name": "ios_video_ad_api",
-		"v": 16010,
+		"v": 16962,
 		"t": 1,
 		"groups": [
 			{
@@ -11063,6 +11063,10 @@
 			{
 				"weight": 100,
 				"value": "twitch_ad_edge"
+			},
+			{
+				"weight": 0,
+				"value": "twitch_ad_edge_multi_ad_formats"
 			}
 		]
 	},
