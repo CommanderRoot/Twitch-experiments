@@ -4570,6 +4570,21 @@
 			}
 		]
 	},
+	"27036b5f-8b74-4da1-9bad-a6eaa25a4c33": {
+		"name": "navi_li_similarity",
+		"v": 16995,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 75,
+				"value": "control"
+			},
+			{
+				"weight": 25,
+				"value": "variant1"
+			}
+		]
+	},
 	"2716fb22-101c-4369-a0c4-db24556829e3": {
 		"name": "android_goodbye_my_friend",
 		"v": 7947,
