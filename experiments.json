@@ -826,15 +826,15 @@
 	},
 	"0695613f-6fdd-47cd-ba5e-8debb2efdbde": {
 		"name": "android_chat_velocity_filtering",
-		"v": 16691,
+		"v": 16989,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_11.6"
 			}
 		]
@@ -4738,15 +4738,15 @@
 	},
 	"2884abba-926f-4567-be82-10c17f20b4a7": {
 		"name": "android_mgst_mini_chat_with_input",
-		"v": 16546,
+		"v": 16992,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control "
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "active_11.2"
 			}
 		]
@@ -26873,15 +26873,15 @@
 	},
 	"e8867f09-8847-416f-b5c6-e31b88d95ce5": {
 		"name": "android_warp_staff",
-		"v": 16765,
+		"v": 16991,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
