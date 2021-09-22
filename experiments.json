@@ -16660,7 +16660,7 @@
 	},
 	"8d3b01ec-9fa8-49bd-83a6-f27488733893": {
 		"name": "dart_ecommedtactical2_vwr_511_sbs_cmc_sub_mis_email_2109_en_email",
-		"v": 16955,
+		"v": 16971,
 		"t": 2,
 		"groups": [
 			{
@@ -20741,6 +20741,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"afced8c8-292c-43ca-8576-9534073790d4": {
+		"name": "dart_ecommedtactical2_vwr_511_sbs_cmc_sub_mis_email_2109_fr_email",
+		"v": 16972,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
