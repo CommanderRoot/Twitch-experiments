@@ -4572,15 +4572,15 @@
 	},
 	"27036b5f-8b74-4da1-9bad-a6eaa25a4c33": {
 		"name": "navi_li_similarity",
-		"v": 17017,
+		"v": 17025,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "variant1"
 			}
 		]
