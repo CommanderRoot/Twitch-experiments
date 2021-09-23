@@ -7398,6 +7398,21 @@
 			}
 		]
 	},
+	"3f2c4837-fb52-431d-9d06-6a86a920b88b": {
+		"name": "dart_localisedpricinggiftactive_vwr_513_sbs_cmc_sub_mis_email_2109_holdout",
+		"v": 17013,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3f3117d1-ff5c-4097-97cf-36321e4f307b": {
 		"name": "android_prime_subs",
 		"v": 4377,
@@ -22066,6 +22081,21 @@
 			}
 		]
 	},
+	"b95a577c-df17-4a1b-bc78-7ab4cd694760": {
+		"name": "dart_localisedpricingprimeactive_vwr_513_sbs_cmc_sub_mis_email_2109_holdout",
+		"v": 17014,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ba0614e4-88d2-4279-8e82-57cd07b248c7": {
 		"name": "tvapps_ps4_feature_tags",
 		"v": 9781,
@@ -23496,6 +23526,21 @@
 			{
 				"weight": 0,
 				"value": "killswitch"
+			}
+		]
+	},
+	"c8b7c1b5-fb9d-4353-9488-cbd43f52a8d6": {
+		"name": "dart_localisedpricingprimeexpired_vwr_513_sbs_cmc_sub_mis_email_2109_holdout",
+		"v": 17016,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -26141,6 +26186,21 @@
 			{
 				"weight": 95,
 				"value": "prefer_app_pip"
+			}
+		]
+	},
+	"e1ae1f82-230d-48dc-9342-3426806b9a37": {
+		"name": "dart_localisedpricinggiftexpired_vwr_513_sbs_cmc_sub_mis_email_2109_holdout",
+		"v": 17015,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
