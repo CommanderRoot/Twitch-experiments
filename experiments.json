@@ -6243,24 +6243,23 @@
 	},
 	"3520b529-e266-454f-98b7-9460bf80c77c": {
 		"name": "dart_stream_summary_cta_all_email",
-		"v": 17034,
+		"v": 17035,
 		"t": 2,
-		"s": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "Variant A"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Variant B"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Variant C"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Variant D"
 			}
 		]
