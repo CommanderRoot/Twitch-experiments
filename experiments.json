@@ -7805,6 +7805,21 @@
 			}
 		]
 	},
+	"4216a26d-27f6-4052-bf2d-0d590ba62d6c": {
+		"name": "dart_tnf0823_vwr_0_dav_cmc_lrn_wch_eo_2109_holdout",
+		"v": 17040,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"42285932-9144-4be5-9532-afc42580ebf2": {
 		"name": "grandpere",
 		"v": 8459,
