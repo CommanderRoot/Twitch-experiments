@@ -27454,11 +27454,11 @@
 	},
 	"ed11e902-ea56-44b2-9ae7-2a0ba3e4333a": {
 		"name": "android_animated_emotes",
-		"v": 17022,
+		"v": 17045,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -27466,7 +27466,7 @@
 				"value": "active_11.5"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_11.5_chat_limit_sec_5"
 			}
 		]
