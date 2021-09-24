@@ -3805,6 +3805,21 @@
 			}
 		]
 	},
+	"20a217ab-975b-4ce2-a8b4-bb1758c8d933": {
+		"name": "dart_ecommedtactical1burst3_vwr_411_sbs_cmc_sub_mis_email_2105_de_holdout",
+		"v": 17065,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"20a3c743-f570-442b-a0db-4dad344be426": {
 		"name": "android_ccpa_gdpr",
 		"v": 9241,
@@ -15263,6 +15278,21 @@
 			{
 				"weight": 0,
 				"value": ""
+			}
+		]
+	},
+	"7dae49e1-1fad-4987-be1b-9093612bdffa": {
+		"name": "dart_ecommedtactical1burst3_vwr_411_sbs_cmc_sub_mis_email_2105_fr_holdout",
+		"v": 17064,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -27792,6 +27822,21 @@
 			{
 				"weight": 100,
 				"value": "active_v8.5"
+			}
+		]
+	},
+	"eea4964b-c5bb-455b-8003-86a92aea983c": {
+		"name": "dart_ecommedtactical1burst3_vwr_411_sbs_cmc_sub_mis_email_2105_en_holdout",
+		"v": 17063,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
