@@ -93,6 +93,21 @@
 			}
 		]
 	},
+	"00659916-818e-4bcb-9d68-6f3afbf860d7": {
+		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_de_holdout",
+		"v": 17060,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"009de4ba-f40c-4602-bb32-dd5098309f84": {
 		"name": "ios_leaderboards",
 		"v": 15619,
@@ -10136,6 +10151,21 @@
 			}
 		]
 	},
+	"55c34c88-4cfc-44f0-9379-021ae13d324e": {
+		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_it_holdout",
+		"v": 17062,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"55d298cb-71ab-4c03-bbe8-7210debf8ae0": {
 		"name": "dart_fpso_prime_sub_localized_vwr_47941_cmm_cmc_sub_mis_email_2011_onsite",
 		"v": 15298,
@@ -14303,6 +14333,21 @@
 	"7681a879-f3eb-4e7b-b3cc-7df3ab1913bd": {
 		"name": "dart_jpcreatordiscoveryapr2021xjasper7se_vwr_0_dav_cmc_wch_gmg_emailpush_2104_holdout",
 		"v": 14268,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"7682edab-26b1-4235-ad2a-2b77cad84659": {
+		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_en_holdout",
+		"v": 17058,
 		"t": 2,
 		"groups": [
 			{
@@ -20023,6 +20068,21 @@
 			}
 		]
 	},
+	"a97570f8-fbcc-4cb5-84f4-155ca7b54057": {
+		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_es_holdout",
+		"v": 17061,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
 		"v": 16925,
@@ -23285,6 +23345,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"c5c0d10c-7756-46cc-a7a5-c4e1473544be": {
+		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_fr_holdout",
+		"v": 17059,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
