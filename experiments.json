@@ -22641,6 +22641,21 @@
 			}
 		]
 	},
+	"c0b154b4-2fc2-4cae-979b-491207a71340": {
+		"name": "dart_apac_kor_twitchrivalsxtekken7_vwr_0_flw_cmc_flw_mis_email_2109_holdout",
+		"v": 17054,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c0b89cf2-7833-4485-b340-f5e43b60cb8c": {
 		"name": "ios_hls_metadata_received_analytics",
 		"v": 14104,
@@ -27448,6 +27463,21 @@
 			},
 			{
 				"weight": 94,
+				"value": "allowed"
+			}
+		]
+	},
+	"ecb37754-d6ca-40f0-876d-93c5c95dbf3b": {
+		"name": "dart_apac_kor_twitchrivalsxtekken7_vwr_0_dav_cmc_wch_mis_push_2109_holdout",
+		"v": 17056,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
