@@ -12421,6 +12421,21 @@
 			}
 		]
 	},
+	"67d5f864-b729-4c0d-8a5b-779de370c7e3": {
+		"name": "dart_ecommedtactical1burst3_vwr_411_sbs_cmc_sub_mis_email_2105_it_holdout",
+		"v": 17068,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"67e75e7c-e7c3-43ec-8f19-61bd02b21794": {
 		"name": "ios_player_ui_sunrise",
 		"v": 7154,
@@ -29220,6 +29235,21 @@
 			},
 			{
 				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
+	"fbea246c-9762-4f2f-bda2-68ad6b27623d": {
+		"name": "dart_ecommedtactical1burst3_vwr_411_sbs_cmc_sub_mis_email_2105_es_holdout",
+		"v": 17067,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
