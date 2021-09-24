@@ -10393,15 +10393,15 @@
 	},
 	"5853421e-706b-4aa7-8883-9fb052604d6d": {
 		"name": "ios_vast_max_supported_major_version",
-		"v": 16846,
+		"v": 17049,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "4"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "3"
 			}
 		]
