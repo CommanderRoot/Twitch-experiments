@@ -12515,6 +12515,21 @@
 			}
 		]
 	},
+	"690a83da-6bed-474f-a20c-d8baaf003208": {
+		"name": "android_whispers_chat_parsing",
+		"v": 17052,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"697896b3-a4b9-4c00-a1a2-7fa35ec9a8e4": {
 		"name": "pushy_notifications_disable",
 		"v": 3420,
