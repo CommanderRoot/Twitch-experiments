@@ -8138,15 +8138,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 17096,
+		"v": 17101,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 93,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 7,
+				"weight": 10,
 				"value": "promotions_enabled"
 			}
 		]
@@ -16085,6 +16085,25 @@
 			}
 		]
 	},
+	"851ee62c-cb92-4552-a9e7-d8d32284041d": {
+		"name": "android_ads_bitrate_reducer",
+		"v": 17100,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "estimated"
+			},
+			{
+				"weight": 50,
+				"value": "new_algorithm"
+			}
+		]
+	},
 	"856ea473-1d5a-4af9-b79d-283a299a2212": {
 		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_saturday_holdout",
 		"v": 12386,
@@ -19338,6 +19357,21 @@
 			{
 				"weight": 90,
 				"value": "newrecs"
+			}
+		]
+	},
+	"a23a3b20-44f9-4dba-acb2-307122f3f6e4": {
+		"name": "android_video_ad_ad_edge",
+		"v": 17099,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
