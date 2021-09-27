@@ -2143,15 +2143,15 @@
 	},
 	"12a2340d-84c9-42d7-a108-dd24a0c2d2df": {
 		"name": "twilight_ad_request_builder_rollout",
-		"v": 16627,
+		"v": 17092,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "treatment"
 			}
 		]
