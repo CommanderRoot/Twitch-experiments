@@ -21808,15 +21808,15 @@
 	},
 	"b525d2cb-6aea-4d7c-ac32-92a46541d7f2": {
 		"name": "ios_gql_batching",
-		"v": 16970,
+		"v": 17089,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "no_batching"
 			},
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "batch_50ms"
 			},
 			{
