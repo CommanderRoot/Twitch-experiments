@@ -2470,15 +2470,15 @@
 	},
 	"15ac662d-70b9-4177-8c14-235b3f64bad7": {
 		"name": "ios_playercore_mode",
-		"v": 15596,
+		"v": 17082,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "playbacksink"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "avplayersink"
 			}
 		]
