@@ -227,15 +227,15 @@
 	},
 	"013308ea-43d8-4004-a115-e6754e4595c9": {
 		"name": "android_maf_11.6",
-		"v": 16731,
+		"v": 17083,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_11.6"
 			}
 		]
