@@ -4581,6 +4581,21 @@
 			}
 		]
 	},
+	"2604e3e0-648f-475b-baf9-2e502b8c06f9": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_es_holdout",
+		"v": 17111,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"264f75af-a787-4a40-8654-40d78b4d8b41": {
 		"name": "extensions",
 		"v": 1360,
@@ -6024,6 +6039,21 @@
 			{
 				"weight": 0,
 				"value": "following_play"
+			}
+		]
+	},
+	"32ed686b-0a30-4f2e-9212-c9469c2d050e": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_de_holdout",
+		"v": 17109,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -10433,6 +10463,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"582ae9a1-6f2e-4ced-8506-844985c2d282": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_es_email",
+		"v": 17112,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -18381,6 +18426,21 @@
 			}
 		]
 	},
+	"9982577c-99f7-49fb-b6e9-0499eb91ed1f": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_it_holdout",
+		"v": 17113,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"998df2c6-5613-4a65-bed3-c7270377b68d": {
 		"name": "dart_junepromo_vwr_444_sbs_cmc_buy_mis_oe_2106_fr_holdout",
 		"v": 15346,
@@ -20412,6 +20472,21 @@
 			}
 		]
 	},
+	"abfb82ff-edda-4f22-acef-2fdf402bf7ec": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_it_email",
+		"v": 17114,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"ac1c908f-3779-4068-ae72-086c288f6f87": {
 		"name": "FEATURED_COLLECTION_CARD",
 		"v": 1517,
@@ -22086,6 +22161,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"b7aba25f-e7fa-4f84-a71e-e347282cd514": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_fr_email",
+		"v": 17108,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -27202,6 +27292,21 @@
 			}
 		]
 	},
+	"e8747fe0-77ad-4a6c-bb92-b413b7454471": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_fr_holdout",
+		"v": 17107,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e8867f09-8847-416f-b5c6-e31b88d95ce5": {
 		"name": "android_warp_staff",
 		"v": 16991,
@@ -28074,6 +28179,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"f09849c4-f8b5-4151-a83f-ced58416d714": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_de_email",
+		"v": 17110,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
