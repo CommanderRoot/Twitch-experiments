@@ -8198,15 +8198,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 17102,
+		"v": 17119,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 20,
 				"value": "promotions_enabled"
 			}
 		]
@@ -10649,6 +10649,21 @@
 	"5942cafe-e6a0-4558-a6e1-9eb4f25f6f47": {
 		"name": "dart_eulootcave_vwr_686_cmm_cmc_buy_misc_email_2011_holdout",
 		"v": 12703,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"5962ac26-265d-42cb-ba78-f2ae9fb5d805": {
+		"name": "dart_newworldenemail_vwr_525_dav_cmc_wch_gmg_email_2109_holdout",
+		"v": 17120,
 		"t": 2,
 		"groups": [
 			{
@@ -20254,12 +20269,12 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 17118,
+		"v": 17122,
 		"t": 2,
-		"s": 13,
+		"s": 14,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -20271,11 +20286,11 @@
 				"value": "v3"
 			},
 			{
-				"weight": 94,
+				"weight": 475,
 				"value": "realtime"
 			},
 			{
-				"weight": 1,
+				"weight": 475,
 				"value": "realtime_v11"
 			}
 		]
