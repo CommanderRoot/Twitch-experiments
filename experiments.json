@@ -6399,21 +6399,6 @@
 			}
 		]
 	},
-	"35731f0a-bd57-4582-915d-907dee75b3d4": {
-		"name": "trending_emotes",
-		"v": 1708,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant1"
-			}
-		]
-	},
 	"35b3f451-bad7-4927-8503-fdc094e6e8f4": {
 		"name": "ios_community_points_final",
 		"v": 7821,
@@ -21923,25 +21908,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"b507e7da-edb7-4a87-af80-3ebbfd762e84": {
-		"name": "ios_chat_filters",
-		"v": 5608,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "disabled"
-			},
-			{
-				"weight": 100,
-				"value": "v7.4"
 			}
 		]
 	},
