@@ -227,15 +227,15 @@
 	},
 	"013308ea-43d8-4004-a115-e6754e4595c9": {
 		"name": "android_maf_11.6",
-		"v": 17083,
+		"v": 17127,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "active_11.6"
 			}
 		]
@@ -3273,15 +3273,15 @@
 	},
 	"1b1249a5-8f97-4585-81ac-85d6b0a4f977": {
 		"name": "ios_multi_ad_format_parse_strategy",
-		"v": 16732,
+		"v": 17126,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "parse_client_ad_v11.4"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "parse_multi_ad_format_v11.6"
 			}
 		]
