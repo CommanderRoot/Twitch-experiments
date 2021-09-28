@@ -734,6 +734,21 @@
 			}
 		]
 	},
+	"05f6d6d7-18ae-4af2-9c90-b342e2ebd4d4": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_en_holdout",
+		"v": 17105,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0603a05f-f19f-4c8f-b294-6da498e499ab": {
 		"name": "ios_animated_cheermotes",
 		"v": 9177,
@@ -3576,6 +3591,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"1e734b01-d8ee-4947-a6b9-7d6f64a684a7": {
+		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_en_email",
+		"v": 17106,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
