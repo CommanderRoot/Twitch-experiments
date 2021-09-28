@@ -26418,6 +26418,21 @@
 			}
 		]
 	},
+	"dfc00cb5-901a-4af0-acbf-cfce4b837044": {
+		"name": "dart_esocceraidoptin_vwr_521_dav_cmc_wch_esp_email_2109_holdout",
+		"v": 17115,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e0473826-5fd9-40cc-8310-41e485f33bfd": {
 		"name": "ios_allow_mini_experiment_overrides_from_savant",
 		"v": 10421,
