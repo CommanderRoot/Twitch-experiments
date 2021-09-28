@@ -7002,7 +7002,7 @@
 	},
 	"3a87940f-eb18-43f9-8a30-a27fd6ae6e2d": {
 		"name": "ios_swift_app_router",
-		"v": 16110,
+		"v": 17149,
 		"t": 1,
 		"groups": [
 			{
@@ -7012,6 +7012,10 @@
 			{
 				"weight": 100,
 				"value": "development"
+			},
+			{
+				"weight": 0,
+				"value": "active_11.8"
 			}
 		]
 	},
