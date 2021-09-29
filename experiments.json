@@ -20326,12 +20326,12 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 17155,
+		"v": 17172,
 		"t": 2,
-		"s": 14,
+		"s": 15,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -20343,11 +20343,11 @@
 				"value": "v3"
 			},
 			{
-				"weight": 85,
+				"weight": 475,
 				"value": "realtime"
 			},
 			{
-				"weight": 10,
+				"weight": 475,
 				"value": "realtime_v11"
 			}
 		]
