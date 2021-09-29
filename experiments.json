@@ -11692,6 +11692,21 @@
 			}
 		]
 	},
+	"6167dd90-63a1-453c-9f0c-f5fd04df3082": {
+		"name": "dart_esocceraidfrozen_vwr_521_dav_cmc_wch_esp_pe_2109_en_holdout",
+		"v": 17164,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"61733499-8b43-42ed-a416-1a72f72af015": {
 		"name": "android_copo_predictions",
 		"v": 12460,
