@@ -227,15 +227,15 @@
 	},
 	"013308ea-43d8-4004-a115-e6754e4595c9": {
 		"name": "android_maf_11.6",
-		"v": 17127,
+		"v": 17167,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_11.6"
 			}
 		]
@@ -1849,6 +1849,21 @@
 			{
 				"weight": 0,
 				"value": "Control"
+			}
+		]
+	},
+	"0f844ed8-9c1e-4e49-999d-1a2659b5ee47": {
+		"name": "dart_esocceraidfrozen_vwr_521_dav_cmc_wch_esp_pe_2109_de_holdout",
+		"v": 17165,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -7644,6 +7659,21 @@
 			}
 		]
 	},
+	"401e7900-a83c-4668-a1f6-cea93d0920d6": {
+		"name": "dart_esocceraidlaunch_vwr_521_dav_cmc_wch_esp_pe_2109_en_holdout",
+		"v": 17166,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"402d3771-9a53-4ed9-8b9b-741fe2ebf1dd": {
 		"name": "dart_L10_Announce_Event_10_15_holdout",
 		"v": 8376,
@@ -9625,6 +9655,21 @@
 			{
 				"weight": 50,
 				"value": "active"
+			}
+		]
+	},
+	"510c6e3c-4241-4cc2-a6dd-701938d04b09": {
+		"name": "dart_esocceraidlaunch_vwr_521_dav_cmc_wch_esp_pe_2109_de_holdout",
+		"v": 17168,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
