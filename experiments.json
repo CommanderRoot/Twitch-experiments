@@ -8033,19 +8033,19 @@
 	},
 	"42b61497-c418-49b2-92d8-f9debf73ca4f": {
 		"name": "android_theater_launch_jitter",
-		"v": 14249,
+		"v": 17157,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_2"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_5"
 			},
 			{
