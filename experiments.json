@@ -1306,21 +1306,6 @@
 			}
 		]
 	},
-	"0a4d513f-0274-4b33-b04f-287521abd51b": {
-		"name": "ZACH_MODE",
-		"v": 2287,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"0a4eab60-a882-4c78-b595-ab16ca672533": {
 		"name": "android_show_watch_party_ux",
 		"v": 9554,
@@ -22345,21 +22330,6 @@
 			}
 		]
 	},
-	"b8ca66a8-ec36-422f-a8a2-256ef0e16e8d": {
-		"name": "CHANNEL_CHAT_CTA_V2",
-		"v": 1779,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "5min"
-			},
-			{
-				"weight": 90,
-				"value": "control"
-			}
-		]
-	},
 	"b8d6bd2e-5ff7-4ce9-a2b0-22640be91ce2": {
 		"name": "dart_musicmikeshinoda_vwr_387_dav_cmc_wch_msc_peo_2103_holdout",
 		"v": 14197,
@@ -22874,6 +22844,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"bee8acc6-016c-4b4d-a480-6403481150cf": {
+		"name": "dart_newworldemail_vwr_520_dav_cmc_wch_gmg_email_2109_holdout",
+		"v": 17179,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -25558,21 +25543,6 @@
 			{
 				"weight": 0,
 				"value": "20"
-			}
-		]
-	},
-	"d6bb4aa4-efae-4031-96be-f08950d6c8f4": {
-		"name": "TWILIGHT_EVENT_GAME_DIRECTORY",
-		"v": 2483,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "shown"
-			},
-			{
-				"weight": 10,
-				"value": "hidden"
 			}
 		]
 	},
@@ -29240,21 +29210,6 @@
 			{
 				"weight": 0,
 				"value": "no"
-			}
-		]
-	},
-	"fa99a372-3bd3-422d-8937-4de546931a37": {
-		"name": "directory_events_suggestions",
-		"v": 1529,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "shown"
-			},
-			{
-				"weight": 10,
-				"value": "hidden"
 			}
 		]
 	},
