@@ -29332,16 +29332,16 @@
 	},
 	"fb46a20b-d002-47f6-8c0e-4bb785c6ffa4": {
 		"name": "community-gifting-recommendation-v2.7",
-		"v": 17046,
+		"v": 17194,
 		"t": 2,
 		"s": 6,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control_2_6"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "holdout_v1"
 			},
 			{
