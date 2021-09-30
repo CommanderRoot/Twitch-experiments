@@ -110,15 +110,15 @@
 	},
 	"009de4ba-f40c-4602-bb32-dd5098309f84": {
 		"name": "ios_leaderboards",
-		"v": 15619,
+		"v": 17202,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -227,15 +227,15 @@
 	},
 	"013308ea-43d8-4004-a115-e6754e4595c9": {
 		"name": "android_maf_11.6",
-		"v": 17167,
+		"v": 17201,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_11.6"
 			}
 		]
@@ -9072,23 +9072,23 @@
 	},
 	"4d1a7041-5e37-4471-9125-41b547355831": {
 		"name": "vx_follow_blocking",
-		"v": 16753,
+		"v": 17203,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "followbot_model"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "ratelimit"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "both"
 			}
 		]
