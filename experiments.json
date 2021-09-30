@@ -25927,15 +25927,15 @@
 	},
 	"d9a876a6-b481-4dcc-9c19-1d717bc623de": {
 		"name": "happening_now_by_user",
-		"v": 16740,
+		"v": 17200,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
