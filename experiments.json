@@ -8967,12 +8967,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 17152,
+		"v": 17191,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-fbea23.pdx01.abs.hls.ttvnw.net/v1/segment/Co5wZEqBqcxKc7b4cIjW8k3Jb-BLavUjLHCF8y5dtmDVYn8XfGLi0Ipi-kp764Q-ZdDQJzse33IW3vyC0iOgdoEFfVvT7o4xAyuHeEN_XUw-TZFsbCswei6vGkioI98_Zxp8pYhM_Zt8ETllFqyXejRSmpR3KpXkyL2gidgAUnv4HZ6vpUX6Yt1xbC-y9JkvY29708Spr8AAlR87qp3r49M1yq6DDdH9U3rcJqLUmeJ0fcBak155FZB0wGk8nlbq_xCIOVPBQNsxrbC0-71mxKuuEKWWZbQin5isk52rOqPh5eSlodm-FS9pZuqRjI5cr0rtv33wzQ51qU0Z6_lOKM_foaCPJzvNLeoCw6cgRQT_Uk9buJsbVno2TgdqEpRL3iKLmOW3DKCfnMKLJ887uhAmbnRRm5pBoOhIccVP5o-OkQXFTFL78JdKsxNuarCCEzPn2rXV15JIcXobHK63OIXTiJHGxe-xmcQEC6njbGC5Nrs19Iic5Su9r9Oo-LWNdshIvlCVdFYg-bSsSvo4d7fyqwEKOcFyKAvIHzKWBmvfv2obbjTy3YekyNdOmTkeodJF-YtZdXzE4acDG864QMv3GRonuFs8jNk2M2_ik2s4dPLUDu0FP5YZTfz2X43iyeEsXXBZ81fW9LqBEqBlscCl4-IfP-lbcM56ceMk_aQL6Pu_M844jY3OMwoYa0DEnqEzITB7N6S4ZhYmmXJsmuBul7bRq_7-yqNAu2IEBopRivu51Lnb-rqqdw8pvWjThityy7n.ts"
+				"value": "//video-edge-51dbe2.pdx01.abs.hls.ttvnw.net/v1/segment/CtKtKccxd2yZQTkTPPUZb7s2iHDETDhoPESgrBQczKnF5v7xsZyB1E9WpYL5D6t9C2u6VVLRiVshr6bsmTTn764LHuck6vNwR-QxaYbiC2HXXwzQ_muD2QdY7T3EzdJ4O4NW4x5OGYDneeM47LInOrBS7iw-xN9AKadoMODDyMrlpqLkeI_uY84XnP2S6f07qdSfl9YgFqfJvvnaM0Uh0MEPazLpfQytWtbJUGg69S0Rpj_LGOPhaPMCdh5yTkrkj_NPk4J7H3KfZUFcdSHgviu95r7CzrruZKCSMbQsiTAsYe_GdcZGBc0vlw-uHeVa9kO7Ybm6NrEzCbBO9yzaj0uwJMRGfzrUWPq8bkMzRe20L-stTKnC4Ko9g4r9UULv8Hp_TzK-2kHUHs-Ae-p9l_L9KEfv_Bf53vEIoSWahL_DyPzQIRd3w6Vpf2faJ0vnx3eYwErPzqgunaUpPY6K2Gqqtml7FsKuHMTsb8hMQZb9c2p488Kc2xYsIPHvb-0i9VswcfbDz3hV0TCYahP9QsLJbHv8fRXRbtbnjReQDCWy7MGxi09f73niuIHUsIHwrPXxtwvctXWxqdxh9f-WQej4M4hCvpdSCfrmkv69BAFHrq4erqohclDGrP6JZ75W6Sl8fpoann5TTnBZDwhMkjhs2pXR5ne6N3HX9NskBHIPovaCOh84rRZJFfwc7ofzQIku3_3BJhAQ0WtvA9RFZLbAQfJv0p-CebKuAluqTtV5CJBK3-gFCJA1lJuy.ts"
 			}
 		]
 	},
@@ -21483,21 +21483,6 @@
 			{
 				"weight": 45,
 				"value": "active_9.9"
-			}
-		]
-	},
-	"b1c476e0-d55f-4c6f-87d3-f5f44261a46a": {
-		"name": "channel_banned_alias",
-		"v": 16263,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "on"
-			},
-			{
-				"weight": 100,
-				"value": "off"
 			}
 		]
 	},
