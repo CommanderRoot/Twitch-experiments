@@ -12365,6 +12365,21 @@
 			}
 		]
 	},
+	"662c2231-501d-4f9d-acba-be10c6c0d1f1": {
+		"name": "dart_cold_d7_top_streams_ctashapetest_vwr_524_dav_cmc_wch_mis_email_2109_holdout",
+		"v": 17213,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"66441451-755b-4193-8a15-056f971ea591": {
 		"name": "dart_subtemlootcave0915_vwr_492_dav_cmc_lrn_mis_o_2109_holdout",
 		"v": 16950,
@@ -14965,6 +14980,21 @@
 	"7aacf4c8-23cd-43ff-a82a-f73411eb7e4e": {
 		"name": "dart_ecommedtactical2_vwr_511_sbs_cmc_sub_mis_email_2109_it_email",
 		"v": 16975,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
+	"7aae7adf-0634-40ed-9a86-fe1fa92dd2d4": {
+		"name": "dart_cold_d7_top_streams_ctashapetest_vwr_524_dav_cmc_wch_mis_email_2109_email",
+		"v": 17214,
 		"t": 2,
 		"groups": [
 			{
