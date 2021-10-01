@@ -22192,9 +22192,9 @@
 	},
 	"b72c6e09-ad24-4880-9447-5c7ca8508332": {
 		"name": "android_conscrypt_as_first_security_provider",
-		"v": 17222,
+		"v": 17225,
 		"t": 1,
-		"s": 3,
+		"s": 4,
 		"groups": [
 			{
 				"weight": 1,
@@ -22313,8 +22313,9 @@
 	},
 	"b8843dac-7688-430b-a10b-f3e38c7de2cf": {
 		"name": "android_disable_dynamic_security_provider",
-		"v": 17223,
+		"v": 17224,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 99,
