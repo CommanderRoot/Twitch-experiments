@@ -18054,6 +18054,21 @@
 			}
 		]
 	},
+	"964d3cf6-b636-4f73-9264-9b4076daf4d2": {
+		"name": "dart_blackhistorymonth_vwr_527_awa_cmc_lrn_mis_email_2110_holdout",
+		"v": 17237,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"96593822-f5cd-40c1-9288-5d73615362a5": {
 		"name": "android_native_bits_iap",
 		"v": 2403,
