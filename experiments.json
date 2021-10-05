@@ -17513,15 +17513,15 @@
 	},
 	"90b67039-9ab6-4c47-8cc1-841fed97243c": {
 		"name": "android_apollo_coroutines",
-		"v": 17210,
+		"v": 17254,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "controll"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_11.8"
 			}
 		]
