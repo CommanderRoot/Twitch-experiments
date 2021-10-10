@@ -25996,16 +25996,16 @@
 	},
 	"d968f80c-1f87-4142-8907-582afc60e3dc": {
 		"name": "pushy_email_liveups_kill_switch",
-		"v": 17321,
+		"v": 17323,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
-				"value": "allow"
+				"weight": 0,
+				"value": "drop_email_liveups"
 			},
 			{
-				"weight": 0,
-				"value": ""
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
