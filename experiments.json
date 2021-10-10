@@ -25994,6 +25994,21 @@
 			}
 		]
 	},
+	"d968f80c-1f87-4142-8907-582afc60e3dc": {
+		"name": "pushy_email_liveups_kill_switch",
+		"v": 17321,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "allow"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"d97b6b6f-5f4f-4655-b212-0bb21c2bcec9": {
 		"name": "ios_use_new_copy_for_legacy_gdpr",
 		"v": 13473,
