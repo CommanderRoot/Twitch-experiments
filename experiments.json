@@ -23853,6 +23853,21 @@
 			}
 		]
 	},
+	"c764f615-aebb-4545-a867-7b60a30d70bc": {
+		"name": "dark_mkt_recurring_kill_switch",
+		"v": 17324,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "drop_mkt_recurring"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"c7870356-9ecf-4289-a919-880c026f3684": {
 		"name": "dart_codmobilespanishhighfinal_holdout",
 		"v": 8329,
