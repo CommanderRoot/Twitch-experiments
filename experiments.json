@@ -26011,15 +26011,15 @@
 	},
 	"d968f80c-1f87-4142-8907-582afc60e3dc": {
 		"name": "pushy_email_liveups_kill_switch",
-		"v": 17323,
+		"v": 17327,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "drop_email_liveups"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
