@@ -2186,6 +2186,37 @@
 			}
 		]
 	},
+	"12e7fead-63b0-47da-8086-cbe8d9e8dd56": {
+		"name": "dart_cold_d7emojisltest_vwr_533_dav_cmc_wch_mis_email_2110_email",
+		"v": 17346,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "Variant A"
+			},
+			{
+				"weight": 17,
+				"value": "Variant B"
+			},
+			{
+				"weight": 17,
+				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 17,
+				"value": "Variant E"
+			},
+			{
+				"weight": 17,
+				"value": "Variant F"
+			}
+		]
+	},
 	"13181a0e-9be7-4d9f-b602-35d87e3dceed": {
 		"name": "surestream_rollout_firetv",
 		"v": 7139,
@@ -18076,6 +18107,21 @@
 	"96148034-b22a-4af8-80fa-949b3444f40b": {
 		"name": "dart_thursdaynightfootball_week1_100820_holdout",
 		"v": 12036,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"9624f8eb-3762-4acd-b66f-eabd44a4a030": {
+		"name": "dart_cold_d7emojisltest_vwr_533_dav_cmc_wch_mis_email_2110_holdout",
+		"v": 17345,
 		"t": 2,
 		"groups": [
 			{
