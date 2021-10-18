@@ -2188,32 +2188,36 @@
 	},
 	"12e7fead-63b0-47da-8086-cbe8d9e8dd56": {
 		"name": "dart_cold_d7emojisltest_vwr_533_dav_cmc_wch_mis_email_2110_email",
-		"v": 17346,
+		"v": 17353,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 15,
+				"weight": 16,
 				"value": "Variant A"
 			},
 			{
-				"weight": 17,
+				"weight": 14,
 				"value": "Variant B"
 			},
 			{
-				"weight": 17,
+				"weight": 14,
 				"value": "Variant C"
 			},
 			{
-				"weight": 17,
+				"weight": 14,
 				"value": "Variant D"
 			},
 			{
-				"weight": 17,
+				"weight": 14,
 				"value": "Variant E"
 			},
 			{
-				"weight": 17,
+				"weight": 14,
 				"value": "Variant F"
+			},
+			{
+				"weight": 14,
+				"value": "Variant G"
 			}
 		]
 	},
@@ -18151,7 +18155,7 @@
 	},
 	"9624f8eb-3762-4acd-b66f-eabd44a4a030": {
 		"name": "dart_cold_d7emojisltest_vwr_533_dav_cmc_wch_mis_email_2110_holdout",
-		"v": 17345,
+		"v": 17352,
 		"t": 2,
 		"groups": [
 			{
