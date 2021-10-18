@@ -17538,6 +17538,21 @@
 			}
 		]
 	},
+	"90768e1b-367a-4e73-af79-dc9cd8105489": {
+		"name": "dart_apac_anz_twitchrivalsxpicopark_vwr_0_dav_cmc_wch_mis_push_2110_holdout",
+		"v": 17350,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"907a7923-cd5f-473f-8a4f-ef97355bce74": {
 		"name": "ios_extensions_entry_point",
 		"v": 6383,
