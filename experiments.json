@@ -16740,6 +16740,21 @@
 			}
 		]
 	},
+	"89718c8b-30b7-4176-bc92-f5c782f67207": {
+		"name": "dart_apac_anz_twitchrivalsxpicopark_vwr_0_dav_trn_flw_gmg_email_2110_holdout",
+		"v": 17351,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"897eb1ee-0748-4af9-8bf6-3bc519c05cdc": {
 		"name": "ban_evasion_system_detection",
 		"v": 16178,
