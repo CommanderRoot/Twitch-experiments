@@ -11018,7 +11018,7 @@
 	},
 	"5aca5379-d620-4e5a-aced-e3d00dc6b01f": {
 		"name": "android_preload_live_theater_data",
-		"v": 17378,
+		"v": 17379,
 		"t": 1,
 		"groups": [
 			{
@@ -11027,7 +11027,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_11.9"
+				"value": "active"
 			}
 		]
 	},
@@ -29733,7 +29733,7 @@
 	},
 	"fbf50e7e-1c2e-4a5e-a376-8acf2d1f022c": {
 		"name": "android_preload_theater_requirements",
-		"v": 17341,
+		"v": 17380,
 		"t": 1,
 		"groups": [
 			{
@@ -29742,7 +29742,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_11.9"
 			}
 		]
 	},
