@@ -21118,6 +21118,21 @@
 			}
 		]
 	},
+	"ae62e232-c4a3-4e68-8d30-5927496f29b9": {
+		"name": "android_activity_feed_chat_parsing",
+		"v": 17423,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"ae7811bb-0bf1-42ee-bae0-589e6d692a96": {
 		"name": "android_quick_cheer",
 		"v": 10006,
