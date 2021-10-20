@@ -19691,23 +19691,23 @@
 	},
 	"a1a5d8e2-a70c-41b4-95b4-2040902e898c": {
 		"name": "android_subs_cta",
-		"v": 17386,
+		"v": 17396,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 55,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant1"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant2"
 			},
 			{
-				"weight": 10,
+				"weight": 15,
 				"value": "variant3"
 			}
 		]
