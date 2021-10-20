@@ -25358,6 +25358,21 @@
 			}
 		]
 	},
+	"d36457ef-caf8-4278-abe0-87dd251f4b80": {
+		"name": "ios_left_third_display_ads_a_b_test_split",
+		"v": 17413,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v11.9"
+			}
+		]
+	},
 	"d364f0cb-8233-4557-a16f-23e40508f6e9": {
 		"name": "android_prowse_v2",
 		"v": 9969,
