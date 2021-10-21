@@ -26890,15 +26890,15 @@
 	},
 	"e194cac3-9798-49f6-ac2b-9b42b97b2ac1": {
 		"name": "ios_theater_prefer_os_pip",
-		"v": 17153,
+		"v": 17434,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 15,
+				"weight": 25,
 				"value": "prefer_ios_pip_9.7"
 			},
 			{
-				"weight": 85,
+				"weight": 75,
 				"value": "prefer_app_pip"
 			}
 		]
