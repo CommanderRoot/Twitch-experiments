@@ -6614,15 +6614,15 @@
 	},
 	"36aa0926-b875-4fd4-ba2d-5b5ee5841fa6": {
 		"name": "ios_pause_video_ads_on_background",
-		"v": 16819,
+		"v": 17441,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "pause_v11.7"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "dont_pause_v11.7"
 			}
 		]
