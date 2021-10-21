@@ -22675,6 +22675,21 @@
 			}
 		]
 	},
+	"ba1026ba-efba-47ce-a853-9c640c81f2ae": {
+		"name": "dart_firsttimechatter_ctr_509_awa_cmc_lrn_mis_email_2110_holdout",
+		"v": 17443,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ba438689-4e40-47fa-99e7-4bbee13c2f84": {
 		"name": "vaes_rollout_FR",
 		"v": 7684,
