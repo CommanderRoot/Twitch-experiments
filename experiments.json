@@ -19432,6 +19432,21 @@
 			}
 		]
 	},
+	"9ea72afd-d3a4-42bb-b6b3-aef616352d2f": {
+		"name": "ios_pc_pause_on_termination",
+		"v": 17462,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"9ec140f8-3b64-45d4-b7ed-b19870e29eac": {
 		"name": "android_granddads",
 		"v": 8358,
