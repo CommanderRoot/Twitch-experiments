@@ -477,6 +477,21 @@
 			}
 		]
 	},
+	"03e74256-d490-4aab-9f57-898bbc394eba": {
+		"name": "ios_left_third_display_ads_a_b_test_eligible",
+		"v": 17479,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v12.0"
+			}
+		]
+	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
 		"v": 12124,
@@ -6644,15 +6659,15 @@
 	},
 	"36aa0926-b875-4fd4-ba2d-5b5ee5841fa6": {
 		"name": "ios_pause_video_ads_on_background",
-		"v": 17458,
+		"v": 17477,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "pause_v11.7"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "dont_pause_v11.7"
 			}
 		]
@@ -25544,7 +25559,7 @@
 	},
 	"d36457ef-caf8-4278-abe0-87dd251f4b80": {
 		"name": "ios_left_third_display_ads_a_b_test_split",
-		"v": 17413,
+		"v": 17478,
 		"t": 1,
 		"groups": [
 			{
@@ -25553,7 +25568,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_v11.9"
+				"value": "active_v12.0"
 			}
 		]
 	},
