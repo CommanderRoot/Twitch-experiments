@@ -20156,6 +20156,21 @@
 			}
 		]
 	},
+	"a5527cae-2833-4799-b6e9-3ed1f9ca6f03": {
+		"name": "dart_apac_anz_spookyweek21_vwr_0_dav_trn_flw_gmg_email_2110_holdout",
+		"v": 17465,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a5663801-6454-44b5-867f-174c31b60733": {
 		"name": "dart_jptwitchrivalsxvalorantaug_vwr_0_dav_cmc_wch_gmg_email_2108_holdout",
 		"v": 16074,
