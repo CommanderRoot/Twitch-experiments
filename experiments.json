@@ -3046,6 +3046,21 @@
 			}
 		]
 	},
+	"1913d90e-fb4b-400d-abea-d8c96cd5c914": {
+		"name": "dart_apac_twn_halloween21_vwr_0_dav_trn_lrn_gmg_email_2110_holdout",
+		"v": 17470,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"191d2879-2544-44f9-a1e1-30b543e003cb": {
 		"name": "dart_thursdaynightfootball_week3_102220_holdout",
 		"v": 12204,
