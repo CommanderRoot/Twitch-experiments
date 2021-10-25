@@ -19738,6 +19738,21 @@
 			}
 		]
 	},
+	"a150bd1d-927a-4c6a-a98a-c7e37099c281": {
+		"name": "dart_apac_anz_spookyweek21_vwr_0_dav_trn_flw_gmg_email_2110_email",
+		"v": 17468,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"a15db3ef-2337-4a7f-9aef-f0a554d51166": {
 		"name": "dart_creator_cyberpunk_2077_101420_ab_email",
 		"v": 12081,
@@ -20173,7 +20188,7 @@
 	},
 	"a5527cae-2833-4799-b6e9-3ed1f9ca6f03": {
 		"name": "dart_apac_anz_spookyweek21_vwr_0_dav_trn_flw_gmg_email_2110_holdout",
-		"v": 17465,
+		"v": 17467,
 		"t": 2,
 		"groups": [
 			{
