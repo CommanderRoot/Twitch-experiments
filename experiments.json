@@ -24930,6 +24930,21 @@
 			}
 		]
 	},
+	"cdd71ecc-d4d4-4c64-b046-efe934dda7d1": {
+		"name": "dart_apac_anz_spookyweek21_vwr_0_dav_trn_flw_gmg_email_2110_v2_holdout",
+		"v": 17469,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ce0a8824-6f45-4ada-8968-d950eebde12e": {
 		"name": "dart_landonorristuneinfrozen_vwr_378_dav_cmc_wch_gmg_2103_holdout",
 		"v": 13721,
