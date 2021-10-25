@@ -12647,19 +12647,19 @@
 	},
 	"67596d86-c652-4a8d-a0a0-89aa8b654700": {
 		"name": "ios_welcome_exp",
-		"v": 16701,
+		"v": 17485,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 0,
 				"value": "streamer-visual"
 			},
 			{
-				"weight": 15,
+				"weight": 0,
 				"value": "category-text"
 			}
 		]
@@ -17843,19 +17843,19 @@
 	},
 	"9205ab86-094a-4654-b1a1-081ba87635b5": {
 		"name": "android_welcome_exp",
-		"v": 16702,
+		"v": 17486,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 0,
 				"value": "streamer-visual"
 			},
 			{
-				"weight": 15,
+				"weight": 0,
 				"value": "category-text"
 			}
 		]
