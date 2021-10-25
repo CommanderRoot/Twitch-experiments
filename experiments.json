@@ -25272,6 +25272,21 @@
 			}
 		]
 	},
+	"d061c37d-df54-48f2-85af-e9ffc9652b28": {
+		"name": "dart_apac_twn_halloween21_vwr_0_dav_trn_wch_gmg_push_2110_holdout",
+		"v": 17472,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d0b590b0-12df-4f8d-ad66-39754ca1644e": {
 		"name": "dart_ecommedfpsogiftsublifecycle1_vwr_412_sbs_cmc_sub_mis_email_2105_it_holdout",
 		"v": 15263,
