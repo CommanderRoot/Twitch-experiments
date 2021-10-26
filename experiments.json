@@ -24907,6 +24907,21 @@
 			}
 		]
 	},
+	"cd947661-60da-430b-a802-849e4bf3c304": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2110_en_holdout",
+		"v": 17504,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"cda5757e-2229-4d3c-9427-5ad3aa18b72f": {
 		"name": "ios_nux_preroll_test",
 		"v": 927,
