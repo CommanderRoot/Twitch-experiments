@@ -323,6 +323,21 @@
 			}
 		]
 	},
+	"02046925-6f4b-4727-a0a0-b0369542e5c2": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2110_es_holdout",
+		"v": 17507,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"022a16e4-d157-4f1b-b26e-9d5e11955b35": {
 		"name": "dart_twn_apacsubtember_vwr_0_cmm_cmc_sub_mis_email_2109_holdout",
 		"v": 16827,
@@ -1542,6 +1557,21 @@
 	"0ca31562-8bd0-418e-8018-8d02cff5a284": {
 		"name": "dart_hindsight2020a_ctr_326_awa_cmc_lrn_mis_email_2012_holdout",
 		"v": 12803,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"0ca8882d-e24b-407a-9422-cbee8326d68f": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2110_de_holdout",
+		"v": 17506,
 		"t": 2,
 		"groups": [
 			{
@@ -9624,6 +9654,21 @@
 			{
 				"weight": 100,
 				"value": "active_v10.8"
+			}
+		]
+	},
+	"4fd19965-364d-4a4c-82bd-9d39da0e75cc": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2110_fr_holdout",
+		"v": 17505,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -24121,6 +24166,21 @@
 	"c6b1b32a-7766-48bf-9eab-5ef2ba05c958": {
 		"name": "dart_lol_extension_reinstall_holdout",
 		"v": 10313,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"c6f0d95b-23eb-48df-ab6c-6549c96f60d7": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2110_it_holdout",
+		"v": 17508,
 		"t": 2,
 		"groups": [
 			{
