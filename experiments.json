@@ -494,16 +494,20 @@
 	},
 	"03e74256-d490-4aab-9f57-898bbc394eba": {
 		"name": "ios_left_third_display_ads_a_b_test_eligible",
-		"v": 17479,
+		"v": 17517,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "ab_test_ineligible"
 			},
 			{
 				"weight": 0,
-				"value": "active_v12.0"
+				"value": "ab_test_treatment"
+			},
+			{
+				"weight": 0,
+				"value": "ab_test_control"
 			}
 		]
 	},
