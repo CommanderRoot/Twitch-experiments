@@ -9691,6 +9691,25 @@
 			}
 		]
 	},
+	"50418f28-335b-4245-86f5-1392c0424bbc": {
+		"name": "android_left_third_display_ads_a_b_test",
+		"v": 17539,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "ab_test_ineligible"
+			},
+			{
+				"weight": 0,
+				"value": "ab_test_treatment"
+			},
+			{
+				"weight": 0,
+				"value": "ab_test_control"
+			}
+		]
+	},
 	"504dac66-92bb-4233-a35e-f174b4873bcb": {
 		"name": "android_ads_pbyp",
 		"v": 9349,
