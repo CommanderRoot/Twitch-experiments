@@ -13500,6 +13500,21 @@
 			}
 		]
 	},
+	"6d464fb8-3565-4bd6-8eb3-8d08ee550a2d": {
+		"name": "dart_apac_twn_halloween21inactives_vwr_0_dav_trn_wch_gmg_push_2110_holdout",
+		"v": 17526,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6d4e9181-30a3-4c5e-a3f9-054cabe2643a": {
 		"name": "vpr_model_switcher",
 		"v": 15504,
@@ -21511,6 +21526,21 @@
 			{
 				"weight": 100,
 				"value": "active_10.4"
+			}
+		]
+	},
+	"af377e56-2371-4c09-b0a9-833873faeb76": {
+		"name": "dart_apac_twn_halloween21inactives_vwr_0_dav_trn_lrn_gmg_email_2110_holdout",
+		"v": 17525,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
