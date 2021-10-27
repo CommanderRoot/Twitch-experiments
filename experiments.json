@@ -19080,6 +19080,21 @@
 			}
 		]
 	},
+	"9a30a256-6a2e-45ac-b684-19893c15b988": {
+		"name": "dart_welcomeheromitest2_vwr_539_dav_cmc_wch_mis_email_2110_holdout",
+		"v": 17541,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9a3b387e-b6cd-4d2b-80a6-bb14d3ba4512": {
 		"name": "GAME_FOLLOW_ONBOARD",
 		"v": 1583,
@@ -23465,6 +23480,25 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"c03944c5-49eb-4333-b99e-12ab7e4bcb8a": {
+		"name": "dart_welcomeheromitest2_vwr_539_dav_cmc_wch_mis_email_2110_email",
+		"v": 17542,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
