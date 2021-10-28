@@ -23502,6 +23502,21 @@
 			}
 		]
 	},
+	"c05257e6-f290-444f-917d-3d8e405fccf0": {
+		"name": "dart_tnf1028_vwr_514_dav_cmc_wch_spt_email_2110_holdout",
+		"v": 17558,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c0b02695-c605-44fb-a84d-fe87f999e81b": {
 		"name": "dart_wwfestvalorant_vwrnrp348_5mp_cmc_watchnow_event_gaming_email_2010_holdout",
 		"v": 13125,
