@@ -6439,6 +6439,21 @@
 			}
 		]
 	},
+	"34790748-4856-4ad0-9aa0-3a260e47c08d": {
+		"name": "dart_osl1029_vwr_545_dav_one_wch_msc_email_2110_holdout",
+		"v": 17573,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"34951071-7ee7-427b-9bc6-86d3895aef45": {
 		"name": "dart_giftcard_ctr_389_cmm_cmc_lrn_mis_email_2103_holdout",
 		"v": 14126,
