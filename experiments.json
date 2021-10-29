@@ -11528,6 +11528,21 @@
 			}
 		]
 	},
+	"5db9c4b9-2234-480c-ae6c-ac11869f6e0a": {
+		"name": "ios_audio_ads_enabled",
+		"v": 17569,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v12.0"
+			}
+		]
+	},
 	"5db9e7f5-0ac6-4f23-bf7a-48a27d0b3505": {
 		"name": "android_recaptcha_deprecation_alert",
 		"v": 12908,
