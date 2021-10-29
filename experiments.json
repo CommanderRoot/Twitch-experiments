@@ -21691,6 +21691,21 @@
 			}
 		]
 	},
+	"af6e6df6-da83-4675-ba76-fcb30e2dbdb6": {
+		"name": "dart_zevent_vwr_542_dav_cmc_wch_gmg_pe_2110_holdout",
+		"v": 17565,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"af9b1dea-bbee-49fb-89bd-c037b6320b17": {
 		"name": "dart_fpso_gift_sub_reminder_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_201_holdout",
 		"v": 15560,
