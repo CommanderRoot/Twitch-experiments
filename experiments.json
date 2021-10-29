@@ -11992,6 +11992,21 @@
 			}
 		]
 	},
+	"60cb4f7e-0364-4a97-ba77-050aa3f6519d": {
+		"name": "dart_apac_jpn_twitchrivalsxminecraft_vwr_0_flw_trn_flw_gmg_email_2110_holdout",
+		"v": 17563,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"612e5870-3d15-4770-96d0-c26eba557903": {
 		"name": "dart_euro2020keyevent1_vwr_445_dav_cmc_wch_spt_email_2106_en_holdout",
 		"v": 15309,
@@ -22966,6 +22981,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"b9349808-5ded-4e9d-9411-8a4521de4585": {
+		"name": "dart_apac_jpn_twitchrivalsxminecraft_vwr_0_dav_trn_wch_gmg_push_2109_holdout",
+		"v": 17564,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
