@@ -12492,6 +12492,21 @@
 			}
 		]
 	},
+	"6494c8f6-655a-44dc-a390-2afb527ccb43": {
+		"name": "dart_back4blood_vwr_540_dav_cmc_wch_gmg_pe_2110_holdout",
+		"v": 17566,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"64bfcb47-6285-4036-ab8f-0a8634d4f352": {
 		"name": "following_service_cache_removal",
 		"v": 11277,
