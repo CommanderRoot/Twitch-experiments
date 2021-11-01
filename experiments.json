@@ -8086,6 +8086,21 @@
 			}
 		]
 	},
+	"41ed96f0-69b3-4c2f-bff3-4473b2cb8765": {
+		"name": "dart_bitssubsem2_vwr_537_sbs_cmc_sub_mis_email_2110_holdout",
+		"v": 17580,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"41fb6317-aef9-40eb-8790-5d459a53bd7d": {
 		"name": "dart_euro2020heartbeat3_vwr_441_awa_cmc_lrn_spt_email_2106_holdout",
 		"v": 15614,
