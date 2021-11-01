@@ -25900,6 +25900,21 @@
 			}
 		]
 	},
+	"d2c2114e-50ad-4537-8159-9c8ba71b5107": {
+		"name": "android_system_message_chat_parsing",
+		"v": 17589,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"d2ce80d7-1569-4c1f-a6ab-c4f314f86cb1": {
 		"name": "ios_ads_eligibility_server",
 		"v": 7805,
