@@ -13409,6 +13409,21 @@
 			}
 		]
 	},
+	"6b408f90-94e4-477b-892f-4d68afdd8052": {
+		"name": "dart_redeem5enonly_vwr_503_sbs_cmc_sub_mis_email_2108_holdout",
+		"v": 17591,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6b554629-a198-46ff-a529-9fc260ab5d89": {
 		"name": "dart_streamerbowlii5_vwr_355_dav_cmc_wch_gmg_eo_2101_holdout",
 		"v": 13240,
@@ -24273,6 +24288,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"c5249f54-57e1-445d-b0ac-810ad6d71e92": {
+		"name": "dart_redeem5enonly_vwr_503_sbs_cmc_sub_mis_email_2108_email",
+		"v": 17592,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
