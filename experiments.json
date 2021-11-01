@@ -13106,15 +13106,15 @@
 	},
 	"690a83da-6bed-474f-a20c-d8baaf003208": {
 		"name": "android_whispers_chat_parsing",
-		"v": 17052,
+		"v": 17587,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -20898,6 +20898,21 @@
 			}
 		]
 	},
+	"a93c264e-d28b-4cde-89df-3d47db663c39": {
+		"name": "android_chomments_chat_parsing",
+		"v": 17588,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"a9445a37-d1b7-45ee-9ea4-2d8da493bfb9": {
 		"name": "ad_affiliate_rev_share",
 		"v": 8316,
@@ -21519,15 +21534,15 @@
 	},
 	"ae62e232-c4a3-4e68-8d30-5927496f29b9": {
 		"name": "android_activity_feed_chat_parsing",
-		"v": 17423,
+		"v": 17586,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
