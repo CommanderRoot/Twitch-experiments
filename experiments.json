@@ -4810,16 +4810,16 @@
 	},
 	"27036b5f-8b74-4da1-9bad-a6eaa25a4c33": {
 		"name": "navi_li_similarity",
-		"v": 17411,
+		"v": 17610,
 		"t": 2,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "variant1"
 			}
 		]
@@ -11751,6 +11751,21 @@
 			{
 				"weight": 0,
 				"value": "variant1"
+			}
+		]
+	},
+	"5e9cef68-0701-415e-8243-6c33c84d3cc4": {
+		"name": "dart_adsmanagerboth_ctr_517_awa_cmc_lrn_mis_o_2110_holdout",
+		"v": 17609,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
