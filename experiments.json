@@ -22392,6 +22392,21 @@
 			}
 		]
 	},
+	"b235449a-b882-4266-b968-0fc591fba387": {
+		"name": "gift_chat_command",
+		"v": 17626,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"b236170b-70fb-4576-bc71-255653aa02fd": {
 		"name": "dart_aapi_vwr_380_cmm_cmc_mis_mis_email_2103_holdout",
 		"v": 13748,
