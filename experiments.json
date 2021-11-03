@@ -15309,15 +15309,15 @@
 	},
 	"794eea4a-8935-4e0a-b23f-f9a76cb3b695": {
 		"name": "dads_lfp_remove",
-		"v": 17622,
+		"v": 17623,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "LFP_ENABLED"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "LFP_DISABLED"
 			}
 		]
