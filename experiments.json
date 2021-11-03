@@ -23608,6 +23608,21 @@
 			}
 		]
 	},
+	"bd96ea78-fe43-4056-b24e-a705e48b9058": {
+		"name": "dart_cb_benefits_swag_redemption_11_3_holdout",
+		"v": 17637,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "allowed"
+			}
+		]
+	},
 	"bdb5c085-9f43-41f5-ac33-d58b41af2e5c": {
 		"name": "TWILIGHT_AAX_DISPLAY_DIRECTORY_M2",
 		"v": 16145,
