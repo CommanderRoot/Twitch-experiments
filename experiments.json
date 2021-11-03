@@ -257,7 +257,7 @@
 	},
 	"01501b3e-11b1-4447-8753-0e30698f0790": {
 		"name": "android_mgst_ivs_ingest_tester",
-		"v": 17247,
+		"v": 17618,
 		"t": 2,
 		"groups": [
 			{
@@ -267,6 +267,18 @@
 			{
 				"weight": 10,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_10"
+			},
+			{
+				"weight": 0,
+				"value": "active_20"
+			},
+			{
+				"weight": 0,
+				"value": "active_30"
 			}
 		]
 	},
@@ -15295,6 +15307,21 @@
 			}
 		]
 	},
+	"794eea4a-8935-4e0a-b23f-f9a76cb3b695": {
+		"name": "dads_lfp_remove",
+		"v": 17620,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "LFP_ENABLED"
+			},
+			{
+				"weight": 1,
+				"value": "LFP_DISABLED"
+			}
+		]
+	},
 	"79608e11-8454-445b-b062-e96547ee1560": {
 		"name": "dart_dortmund_vwr_335_dav_cmc_wch_spt_email_2012_segment2_holdout",
 		"v": 12920,
@@ -18147,6 +18174,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"91c2ab2e-8c1c-4b86-a49c-b30197a599b4": {
+		"name": "android_prime_gaming_activation_tier_1_regions",
+		"v": 17621,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.0"
 			}
 		]
 	},
