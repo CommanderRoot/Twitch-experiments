@@ -23890,6 +23890,33 @@
 			}
 		]
 	},
+	"c13edd2a-a27a-4a0a-9815-8545b568fdf3": {
+		"name": "ios_idfa_consent_prompt",
+		"v": 17624,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "no_pre_prompt"
+			},
+			{
+				"weight": 0,
+				"value": "pre_prompt_a"
+			},
+			{
+				"weight": 0,
+				"value": "pre_prompt_b"
+			},
+			{
+				"weight": 0,
+				"value": "pre_prompt_c"
+			}
+		]
+	},
 	"c14ad553-a6e6-441b-961f-8ebf0d444791": {
 		"name": "android_notification_center",
 		"v": 1454,
