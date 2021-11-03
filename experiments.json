@@ -15309,15 +15309,15 @@
 	},
 	"794eea4a-8935-4e0a-b23f-f9a76cb3b695": {
 		"name": "dads_lfp_remove",
-		"v": 17629,
+		"v": 17633,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "LFP_ENABLED"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "LFP_DISABLED"
 			}
 		]
@@ -29120,6 +29120,21 @@
 			{
 				"weight": 1,
 				"value": "active-10.8"
+			}
+		]
+	},
+	"ee43d855-96f9-47eb-a129-2e652b13ec20": {
+		"name": "dart_cb_benefits_swag_redemption_test_holdout",
+		"v": 17632,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "allowed"
 			}
 		]
 	},
