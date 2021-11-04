@@ -9329,6 +9329,25 @@
 			}
 		]
 	},
+	"4be2d474-51c6-4802-8b6f-204bbfa05f4d": {
+		"name": "dart_multimonthen_vwr_543_cmm_cmc_buy_mis_email_2110_email",
+		"v": 17647,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 30,
+				"value": "Variant A"
+			},
+			{
+				"weight": 35,
+				"value": "Variant B"
+			},
+			{
+				"weight": 35,
+				"value": "Variant C"
+			}
+		]
+	},
 	"4c11d69d-64f3-4b2a-a5f3-81f5ab253310": {
 		"name": "dart_ecommedfpsogiftsublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_de_holdout",
 		"v": 15269,
@@ -12651,6 +12670,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"65181375-6418-428e-b239-0d2fbf04451d": {
+		"name": "dart_multimonthen_vwr_543_cmm_cmc_buy_mis_email_2110_holdout",
+		"v": 17646,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -23286,6 +23320,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"ba460de4-afbb-4a1b-b51c-e38d36fa26da": {
+		"name": "dart_rivalslv1104_vwr_536_dav_cmc_wch_esp_email_2111_holdout",
+		"v": 17643,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
