@@ -2376,6 +2376,21 @@
 			}
 		]
 	},
+	"13adc3f7-830c-485a-aa5e-91a5771813f9": {
+		"name": "android_creator_mode_segment_a",
+		"v": 17655,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_12.1"
+			}
+		]
+	},
 	"13b3a571-8511-4971-a411-d7a1214b1593": {
 		"name": "dart_fifa21toty_vwr_352_dav_cmc_wch_esp_pe_2101_holdout",
 		"v": 13230,
@@ -19073,6 +19088,21 @@
 			{
 				"weight": 50,
 				"value": "enabled"
+			}
+		]
+	},
+	"98bd3766-7a20-45f1-80ea-5299c557b9ff": {
+		"name": "android_creator_mode_segment_b",
+		"v": 17656,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_12.1"
 			}
 		]
 	},
