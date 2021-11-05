@@ -10489,6 +10489,21 @@
 			}
 		]
 	},
+	"53818ec5-32fa-45d6-bfc4-69de75409eab": {
+		"name": "dart_leagueoflegends_ctr_547_awa_cmc_lrn_mis_email_2111_holdout",
+		"v": 17664,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 4,
+				"value": "holdout"
+			},
+			{
+				"weight": 96,
+				"value": "allowed"
+			}
+		]
+	},
 	"53c5c6ee-65c5-4059-9944-2714789ea551": {
 		"name": "dart_amsot_session_8_holdout",
 		"v": 11507,
