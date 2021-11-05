@@ -7045,6 +7045,21 @@
 			}
 		]
 	},
+	"380d4db7-5c13-488f-b368-55273489b585": {
+		"name": "dart_arcane_vwr_554_dav_cmc_wch_gmg_pe_2111_en_holdout",
+		"v": 17672,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"383ae8ec-2ed1-464e-8ff2-c67c981e077a": {
 		"name": "tvapps_xboxone_feature_tags",
 		"v": 9777,
@@ -19496,7 +19511,7 @@
 	},
 	"9a30a256-6a2e-45ac-b684-19893c15b988": {
 		"name": "dart_welcomeheromitest2_vwr_539_dav_cmc_wch_mis_email_2110_holdout",
-		"v": 17548,
+		"v": 17673,
 		"t": 2,
 		"groups": [
 			{
@@ -24023,7 +24038,7 @@
 	},
 	"c03944c5-49eb-4333-b99e-12ab7e4bcb8a": {
 		"name": "dart_welcomeheromitest2_vwr_539_dav_cmc_wch_mis_email_2110_email",
-		"v": 17549,
+		"v": 17674,
 		"t": 2,
 		"groups": [
 			{
