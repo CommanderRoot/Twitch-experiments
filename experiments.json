@@ -19241,6 +19241,21 @@
 			}
 		]
 	},
+	"98dd41ee-241c-4051-8544-7316b5c12e6b": {
+		"name": "dart_welcomeemail2_vwr_550_dav_cmc_wch_mis_email_2111_email",
+		"v": 17678,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"98f0d034-12cc-4e35-8ab5-cccca1d57e83": {
 		"name": "dart_intlpricingfix_ctr_416_cmm_cmc_lrn_mis_email_2105_holdout",
 		"v": 14862,
@@ -22844,6 +22859,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"b3286c69-45d1-4d6d-9e84-30a5cfbb5089": {
+		"name": "dart_welcomeemail2_vwr_550_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 17677,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
