@@ -2243,6 +2243,21 @@
 			}
 		]
 	},
+	"12492bd3-2b27-475a-8055-d9ba57534c03": {
+		"name": "dart_arcane_vwr_554_dav_cmc_wch_gmg_email_2111_it_holdout",
+		"v": 17669,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1275752f-6cbb-4ff3-8dd8-fa190e469faf": {
 		"name": "tvapps_global_qr_login",
 		"v": 13164,
@@ -12334,6 +12349,21 @@
 	"622ebad8-46ef-445a-af14-dad1c3981b3e": {
 		"name": "dart_chats_choice_awards_holdout",
 		"v": 11601,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"62b65381-baed-4ae8-9fff-a3a4d4a174f9": {
+		"name": "dart_arcane_vwr_554_dav_cmc_wch_gmg_email_2111_es_holdout",
+		"v": 17668,
 		"t": 2,
 		"groups": [
 			{
