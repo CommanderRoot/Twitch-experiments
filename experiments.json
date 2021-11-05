@@ -1823,6 +1823,21 @@
 			}
 		]
 	},
+	"0e973b2f-ec91-4e73-944f-186cc24489d8": {
+		"name": "ios_community_moments",
+		"v": 17665,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"0e9928de-87a4-4f9c-97bc-f3dd27fccb73": {
 		"name": "dart_fpso_gift_sub_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15557,
