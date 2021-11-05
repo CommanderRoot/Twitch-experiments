@@ -10506,7 +10506,7 @@
 	},
 	"53818ec5-32fa-45d6-bfc4-69de75409eab": {
 		"name": "dart_leagueoflegends_ctr_547_awa_cmc_lrn_mis_email_2111_holdout",
-		"v": 17664,
+		"v": 17666,
 		"t": 2,
 		"groups": [
 			{
@@ -23371,6 +23371,21 @@
 	"b95a577c-df17-4a1b-bc78-7ab4cd694760": {
 		"name": "dart_localisedpricingprimeactive_vwr_513_sbs_cmc_sub_mis_email_2109_holdout",
 		"v": 17014,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"b978938a-8117-4a5b-a4d8-3fde594cb976": {
+		"name": "dart_leagueoflegends_vwr_548_awa_cmc_lrn_mis_peo_2111_holdout",
+		"v": 17667,
 		"t": 2,
 		"groups": [
 			{
