@@ -14719,6 +14719,21 @@
 			}
 		]
 	},
+	"732e78bf-c9b5-408a-a213-b04feab6e557": {
+		"name": "dart_apac_anz_humanzinactives_vwr_0_dav_trn_gmg_email_2111_holdout",
+		"v": 17699,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"73720cb1-72da-4443-b57b-5badb0113add": {
 		"name": "dart_fpgo_existing_sub_localized_latam_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14856,
@@ -24118,6 +24133,21 @@
 	"c05257e6-f290-444f-917d-3d8e405fccf0": {
 		"name": "dart_tnf1028_vwr_514_dav_cmc_wch_spt_email_2110_holdout",
 		"v": 17559,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"c0586c9f-99a2-4163-9d56-2af051d89085": {
+		"name": "dart_apac_anz_humanz_vwr_0_dav_trn_gmg_email_2111_holdout",
+		"v": 17698,
 		"t": 2,
 		"groups": [
 			{
