@@ -15521,6 +15521,21 @@
 			}
 		]
 	},
+	"79500dc7-9663-4073-aa28-3e8ed25cb345": {
+		"name": "dart_music_incubator_vwr_sgn_cmc_sup_msc_email_2111_holdout",
+		"v": 17702,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"79608e11-8454-445b-b062-e96547ee1560": {
 		"name": "dart_dortmund_vwr_335_dav_cmc_wch_spt_email_2012_segment2_holdout",
 		"v": 12920,
