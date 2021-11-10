@@ -25411,6 +25411,21 @@
 			}
 		]
 	},
+	"ca0925b3-1c6b-4351-8309-a2110855bd3f": {
+		"name": "dart_frozenbatchen1011_vwr_560_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 17723,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ca305459-aec3-4d0c-b4e4-93d8cda54bba": {
 		"name": "DEMOGRAPHIC_STATS",
 		"v": 1839,
