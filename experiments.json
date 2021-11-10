@@ -14843,6 +14843,21 @@
 			}
 		]
 	},
+	"73cfa7db-7d6f-42d3-affd-f7b1f7c72380": {
+		"name": "dart_gamingbridge_vwr_557_dav_cmc_wch_gmg_email_2111_en_holdout",
+		"v": 17709,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"73e0d181-8d03-4456-ba76-c0f04c2b5da3": {
 		"name": "android_animated_bits",
 		"v": 3455,
@@ -16950,6 +16965,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"8476b30f-c248-4249-9d01-aa569932294a": {
+		"name": "dart_gamingbridge_vwr_557_dav_cmc_wch_gmg_email_2111_de_holdout",
+		"v": 17710,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
