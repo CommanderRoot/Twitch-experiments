@@ -10995,15 +10995,15 @@
 	},
 	"5853421e-706b-4aa7-8883-9fb052604d6d": {
 		"name": "ios_vast_max_supported_major_version",
-		"v": 17722,
+		"v": 17746,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 100,
 				"value": "4"
 			},
 			{
-				"weight": 70,
+				"weight": 0,
 				"value": "3"
 			}
 		]
@@ -17095,11 +17095,11 @@
 	},
 	"851ee62c-cb92-4552-a9e7-d8d32284041d": {
 		"name": "android_ads_bitrate_reducer",
-		"v": 17556,
+		"v": 17745,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
