@@ -6234,6 +6234,21 @@
 			}
 		]
 	},
+	"31fca045-29ac-496a-b419-ed8614f6311e": {
+		"name": "dart_d35frozen_vwr_560_dav_cmc_wch_mis_email_2111_duplicate_holdout",
+		"v": 17750,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"322f4386-5da8-4b91-a88f-0cb67fa5f2a5": {
 		"name": "ios_channel_points_predictions",
 		"v": 12598,
