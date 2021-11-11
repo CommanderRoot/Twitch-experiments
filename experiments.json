@@ -1265,6 +1265,21 @@
 			}
 		]
 	},
+	"0965568f-bac2-4ee8-a63f-e6d877a794a5": {
+		"name": "dart_tnf1111_vwr_514_dav_cmc_wch_spt_email_2111_duplicate_holdout",
+		"v": 17749,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"099b22e6-a720-43bc-9341-a2b6f7f99df3": {
 		"name": "android_edit_profile_change_names",
 		"v": 14205,
@@ -3973,6 +3988,21 @@
 			{
 				"weight": 0,
 				"value": "on"
+			}
+		]
+	},
+	"201f6abf-0aa1-4493-a30f-d2c83efee674": {
+		"name": "dart_tnf1111_vwr_514_dav_cmc_wch_spt_push_2111_holdout",
+		"v": 17748,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
