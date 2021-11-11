@@ -1632,15 +1632,15 @@
 	},
 	"0cd8095b-1c8b-40e0-a127-5461de86b631": {
 		"name": "ios_riddle_legacy",
-		"v": 17740,
+		"v": 17744,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active-phase1"
 			},
 			{
@@ -18370,15 +18370,15 @@
 	},
 	"908f773c-2f95-4b0f-8745-aee0621a2b67": {
 		"name": "ios_riddle",
-		"v": 17706,
+		"v": 17743,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active-phase1-11.9"
 			},
 			{
