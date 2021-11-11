@@ -1632,15 +1632,15 @@
 	},
 	"0cd8095b-1c8b-40e0-a127-5461de86b631": {
 		"name": "ios_riddle_legacy",
-		"v": 17734,
+		"v": 17736,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active-phase1"
 			},
 			{
@@ -12790,6 +12790,21 @@
 			},
 			{
 				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
+	"64f24a5e-6aa3-4534-8387-5a1d57c917b5": {
+		"name": "ios_mb_choose_category_swiftui",
+		"v": 17737,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
 				"value": "active"
 			}
 		]
