@@ -26101,6 +26101,25 @@
 			}
 		]
 	},
+	"ce1c93c5-fa7f-4a4e-a306-f72e64849da7": {
+		"name": "community_moments_android",
+		"v": 17769,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"ce3431c7-ed9f-4479-a3fc-a8c63bcfddd2": {
 		"name": "android_unban_requests",
 		"v": 12211,
