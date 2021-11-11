@@ -6002,15 +6002,16 @@
 	},
 	"30a26809-caac-4359-95e1-2f21a9db8951": {
 		"name": "creator_home_new_affiliate_cluster",
-		"v": 17730,
+		"v": 17731,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -7149,6 +7150,21 @@
 	"38ca3c14-3729-4e7c-bd44-509a321601b7": {
 		"name": "dart_codwarzone_vwr_403_dav_cmc_wch_gmg_email_2106_holdout",
 		"v": 15483,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"399ab0eb-44da-4d41-86fe-7527e5d1a4b4": {
+		"name": "dart_briancoxdreamjam_vwr_564_dav_cmc_wch_mis_oe_2111_holdout",
+		"v": 17732,
 		"t": 2,
 		"groups": [
 			{
