@@ -6002,15 +6002,15 @@
 	},
 	"30a26809-caac-4359-95e1-2f21a9db8951": {
 		"name": "creator_home_new_affiliate_cluster",
-		"v": 17729,
+		"v": 17730,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
