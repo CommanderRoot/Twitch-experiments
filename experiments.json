@@ -13778,15 +13778,15 @@
 	},
 	"6c2e748c-e5a2-42de-bd63-29c6db0555c8": {
 		"name": "android_ads_loudness_normalization",
-		"v": 17715,
+		"v": 17733,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.0"
 			}
 		]
