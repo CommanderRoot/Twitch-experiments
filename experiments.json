@@ -1632,15 +1632,15 @@
 	},
 	"0cd8095b-1c8b-40e0-a127-5461de86b631": {
 		"name": "ios_riddle_legacy",
-		"v": 17738,
+		"v": 17740,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active-phase1"
 			},
 			{
@@ -7412,11 +7412,11 @@
 	},
 	"3bdc18d8-11c2-4c47-9873-9baa57368a45": {
 		"name": "android_player_core_ad_playback",
-		"v": 17554,
+		"v": 17739,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -7436,7 +7436,7 @@
 				"value": "active_11.5"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_11.8"
 			}
 		]
