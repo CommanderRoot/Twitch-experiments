@@ -18445,15 +18445,15 @@
 	},
 	"908f773c-2f95-4b0f-8745-aee0621a2b67": {
 		"name": "ios_riddle",
-		"v": 17743,
+		"v": 17771,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "active-phase1-11.9"
 			},
 			{
@@ -20606,23 +20606,23 @@
 	},
 	"a1a5d8e2-a70c-41b4-95b4-2040902e898c": {
 		"name": "android_subs_cta",
-		"v": 17427,
+		"v": 17770,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "variant1"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "variant2"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "variant3"
 			}
 		]
