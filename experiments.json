@@ -10978,6 +10978,21 @@
 			}
 		]
 	},
+	"57c17089-e311-4712-bad8-aa9efd11e565": {
+		"name": "dart_recurringsubspriceincrease_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
+		"v": 17752,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"580ed101-5afc-4228-bf77-e831860b6801": {
 		"name": "ios_country_code_signup",
 		"v": 13906,
@@ -16571,6 +16586,21 @@
 			{
 				"weight": 1,
 				"value": "control"
+			}
+		]
+	},
+	"7fdc68df-57a2-449d-a6b0-6e1c3e72fb5f": {
+		"name": "dart_recurringsubswithpricechange_ctr_519_awa_trn_lrn_mis_email_2111_holdout",
+		"v": 17753,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -29328,6 +29358,21 @@
 			}
 		]
 	},
+	"ebfbfe25-8132-4330-90d0-380d130ea07b": {
+		"name": "dart_recurringsubsnopricechange_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
+		"v": 17754,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ec27e6fe-dabc-4fd3-ab62-a2cffc8fe316": {
 		"name": "coview_with_regression",
 		"v": 1420,
@@ -30374,6 +30419,21 @@
 	"f57fd676-8678-4d42-9a34-e0709731dbcd": {
 		"name": "dart_euro2020keyevent8_vwr_445_dav_cmc_wch_spt_email_2106_en_holdout",
 		"v": 15653,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"f591acb0-5bdf-4379-93ba-adf446a6ffc8": {
+		"name": "dart_recurringsubspricedecrease_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
+		"v": 17751,
 		"t": 2,
 		"groups": [
 			{
