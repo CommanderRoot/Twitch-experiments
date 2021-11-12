@@ -12561,6 +12561,21 @@
 			}
 		]
 	},
+	"633511a1-a530-436c-ad53-167806df8f0b": {
+		"name": "dart_d35frozenv1_vwr_560_dav_cmc_wch_mis_email_2111_duplicate_holdout",
+		"v": 17780,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"633c3975-2aea-4f36-8340-2a2b38d00cef": {
 		"name": "dart_t1enchurntestgroupd_vwr_7241_dav_cmc_wch_mis_email_2108_email",
 		"v": 16329,
