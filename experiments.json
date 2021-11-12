@@ -6045,22 +6045,6 @@
 			}
 		]
 	},
-	"30a26809-caac-4359-95e1-2f21a9db8951": {
-		"name": "creator_home_new_affiliate_cluster",
-		"v": 17731,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant"
-			}
-		]
-	},
 	"30d2906b-b826-4039-9d94-97f33bb49b45": {
 		"name": "android_mobile_network_request_tracking",
 		"v": 12780,
@@ -19009,6 +18993,21 @@
 			}
 		]
 	},
+	"95372c71-56bc-4d6a-8d5d-d4885a7aadf9": {
+		"name": "creatorhome_new_affiliate_cluster",
+		"v": 17786,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"953c793d-9769-4356-bd7f-f6fe9a46cdd9": {
 		"name": "dart_twitchrivalslol_vwr_398_dav_cmc_wch_gmg_push_2104_holdout",
 		"v": 14256,
@@ -27656,21 +27655,6 @@
 			{
 				"weight": 50,
 				"value": "variant"
-			}
-		]
-	},
-	"d9ae435f-d739-44ea-a4c6-09f34cb86bb9": {
-		"name": "surestream_rollout_android_latam",
-		"v": 16602,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "LATAM_SURESTREAM_ENABLED"
-			},
-			{
-				"weight": 50,
-				"value": "LATAM_SURESTREAM_DISABLED"
 			}
 		]
 	},
