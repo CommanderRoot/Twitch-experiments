@@ -1095,6 +1095,21 @@
 			}
 		]
 	},
+	"07763e8e-d247-4ca0-9b48-930da70592d0": {
+		"name": "dart_recurringsubspricedecreasev2_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
+		"v": 17782,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"07bcbe5f-c504-46cc-ade4-3f8e5bd967b1": {
 		"name": "dart_iwdweek4_vwr_388_dav_cmc_lrn_mis_email_2103_en_holdout",
 		"v": 14077,
@@ -8231,6 +8246,21 @@
 			{
 				"weight": 100,
 				"value": "wave"
+			}
+		]
+	},
+	"41ce587d-fbb7-4629-b8d4-216c0094d7a9": {
+		"name": "dart_recurringsubsnopricechangev2_ctr_519_awa_trn_lrn_mis_email_2111_holdout",
+		"v": 17781,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
