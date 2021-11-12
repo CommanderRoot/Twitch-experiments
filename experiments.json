@@ -13083,6 +13083,21 @@
 			}
 		]
 	},
+	"66ed39e1-1537-4d28-a605-c9acdbb0ab0f": {
+		"name": "dart_recurringsubspriceincreasev2_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
+		"v": 17774,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"66eef7be-86bb-4ca1-92ee-3a22099b6cc6": {
 		"name": "dart_PUBG1122E_holdout",
 		"v": 8725,
@@ -30680,6 +30695,21 @@
 			{
 				"weight": 0,
 				"value": "variant1"
+			}
+		]
+	},
+	"f761e710-7de0-4790-89f7-a1dbc7ad0947": {
+		"name": "dart_recurringsubsnopricechangev2_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
+		"v": 17773,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
