@@ -20946,6 +20946,21 @@
 			}
 		]
 	},
+	"a4739167-c891-407a-aa27-1a2d36733b10": {
+		"name": "dart_recurringsubswithpricechangev2_ctr_519_awa_trn_lrn_mis_email_2111_holdout",
+		"v": 17783,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a4a07343-a41e-4cc8-91c1-c27ade775801": {
 		"name": "ios_ivs_broadcasting",
 		"v": 16151,
