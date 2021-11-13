@@ -3312,7 +3312,7 @@
 	},
 	"19c897e3-e9f6-49bf-b967-34a5286123e5": {
 		"name": "ios_left_third_display_ads",
-		"v": 17531,
+		"v": 17811,
 		"t": 1,
 		"groups": [
 			{
@@ -3321,15 +3321,15 @@
 			},
 			{
 				"weight": 100,
-				"value": "staff_v11.7"
+				"value": "staff_v12.0"
 			},
 			{
 				"weight": 0,
-				"value": "beta_v11.7"
+				"value": "beta_v12.0"
 			},
 			{
 				"weight": 0,
-				"value": "active_v11.7"
+				"value": "active_v12.0"
 			}
 		]
 	},
@@ -18120,6 +18120,21 @@
 			}
 		]
 	},
+	"8dd6a399-9703-460c-bb7f-2c3093b81df3": {
+		"name": "dart_welcomeemail1_vwr_571_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 17812,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8dddafde-7002-4789-b3a3-92cb6f84bbfb": {
 		"name": "dart_processor_decider_rollout",
 		"v": 12746,
@@ -18741,6 +18756,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"930ac7f5-4b74-4894-ad6f-ffdcf304ca55": {
+		"name": "dart_welcomeemail1_vwr_571_dav_cmc_wch_mis_email_2111_email",
+		"v": 17813,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
