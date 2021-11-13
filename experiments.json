@@ -29155,7 +29155,7 @@
 	},
 	"e82cf894-8810-4990-ae9e-6a3011da6999": {
 		"name": "android_stream_subs_cta_landscape_mode",
-		"v": 17527,
+		"v": 17827,
 		"t": 1,
 		"groups": [
 			{
@@ -29164,7 +29164,15 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "prediction_or_poll_started"
+			},
+			{
+				"weight": 0,
+				"value": "commerce_spent_increased"
+			},
+			{
+				"weight": 0,
+				"value": "chat_activity_increased"
 			}
 		]
 	},
