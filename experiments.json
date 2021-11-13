@@ -8143,6 +8143,21 @@
 			}
 		]
 	},
+	"411d04f0-8eca-46fa-90e7-9acbe1d3d806": {
+		"name": "dart_welcomeoldemail2_vwr_566_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 17819,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"411f1075-6070-4b2c-8169-44dcb48d745e": {
 		"name": "ios_omsdk_verification_injection",
 		"v": 13461,
@@ -9176,7 +9191,7 @@
 	},
 	"4a1ab73b-d1bd-4c42-97d1-876840dd582c": {
 		"name": "dart_welcomeoldemail1_vwr_565_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 17796,
+		"v": 17814,
 		"t": 2,
 		"groups": [
 			{
@@ -19873,6 +19888,21 @@
 			}
 		]
 	},
+	"9a54e04a-6b06-4171-8c97-77e36227b59d": {
+		"name": "dart_welcomeemail2_vwr_572_dav_cmc_wch_mis_email_2111_email",
+		"v": 17816,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"9a5ffa2c-6cf0-40f7-8006-f65dd528a8cf": {
 		"name": "dart_degiftcardgiftedsubscribers_vwr_424_cmm_cmc_buy_mis_oe_2105_holdout",
 		"v": 14771,
@@ -20605,7 +20635,7 @@
 	},
 	"a116bfa6-ae61-431a-9531-1aecab049e26": {
 		"name": "dart_welcomeemail3_vwr_551_dav_cmc_wch_mis_email_2111_email",
-		"v": 17800,
+		"v": 17818,
 		"t": 2,
 		"groups": [
 			{
@@ -27478,6 +27508,21 @@
 			}
 		]
 	},
+	"d85dc01e-784c-4dfe-b5c2-bc859b6eeb1c": {
+		"name": "dart_welcomeemail2_vwr_572_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 17815,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d868baca-24d7-44d1-a047-93b1bf7fdcf7": {
 		"name": "dart_twitchrivals_tunein_100320_holdout",
 		"v": 11961,
@@ -30387,7 +30432,7 @@
 	},
 	"f405c7b6-4605-4522-9d8b-6fef9cdc7306": {
 		"name": "dart_welcomeoldemail3_vwr_567_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 17801,
+		"v": 17820,
 		"t": 2,
 		"groups": [
 			{
@@ -30947,7 +30992,7 @@
 	},
 	"f8540420-69e9-4a75-b7ab-f1cfe0bb9735": {
 		"name": "dart_welcomeemail3_vwr_551_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 17799,
+		"v": 17817,
 		"t": 2,
 		"groups": [
 			{
