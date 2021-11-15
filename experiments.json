@@ -7456,11 +7456,11 @@
 	},
 	"3bdc18d8-11c2-4c47-9873-9baa57368a45": {
 		"name": "android_player_core_ad_playback",
-		"v": 17739,
+		"v": 17832,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -7480,7 +7480,7 @@
 				"value": "active_11.5"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_11.8"
 			}
 		]
@@ -9206,7 +9206,7 @@
 	},
 	"4a1ab73b-d1bd-4c42-97d1-876840dd582c": {
 		"name": "dart_welcomeoldemail1_vwr_565_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 17814,
+		"v": 17833,
 		"t": 2,
 		"groups": [
 			{
@@ -18167,7 +18167,7 @@
 	},
 	"8dd6a399-9703-460c-bb7f-2c3093b81df3": {
 		"name": "dart_welcomeemail1_vwr_571_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 17812,
+		"v": 17834,
 		"t": 2,
 		"groups": [
 			{
@@ -18806,7 +18806,7 @@
 	},
 	"930ac7f5-4b74-4894-ad6f-ffdcf304ca55": {
 		"name": "dart_welcomeemail1_vwr_571_dav_cmc_wch_mis_email_2111_email",
-		"v": 17813,
+		"v": 17835,
 		"t": 2,
 		"groups": [
 			{
