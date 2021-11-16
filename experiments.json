@@ -4432,6 +4432,21 @@
 			}
 		]
 	},
+	"2305a059-4a6f-4445-acc0-0b106dcace7c": {
+		"name": "dart_chessaishowdown_vwr_559_dav_cmc_wch_gmg_email_2111_holdout",
+		"v": 17864,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2322f3a0-d84b-40a1-9b06-05c956c8a6e8": {
 		"name": "dart_Fortnite_Galileo_Event_holdout",
 		"v": 8909,
@@ -7426,7 +7441,7 @@
 	},
 	"3ac2b5bb-995b-405a-8455-3eccfaaf626c": {
 		"name": "dart_briancoxfollowup_vwr_564_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 17862,
+		"v": 17863,
 		"t": 2,
 		"groups": [
 			{
