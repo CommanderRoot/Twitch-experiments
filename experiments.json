@@ -8852,15 +8852,15 @@
 	},
 	"46516c47-cf5c-41c9-96c6-fd913f49d84e": {
 		"name": "android_disable_amazon_ads_analytics",
-		"v": 16751,
+		"v": 17870,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "active_11.5"
 			}
 		]
