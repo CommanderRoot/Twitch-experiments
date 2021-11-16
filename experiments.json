@@ -4799,6 +4799,21 @@
 			}
 		]
 	},
+	"259910ea-6d58-47f2-a448-3f0e0201faac": {
+		"name": "dart_apac_kor_twitchrivalsxleagueoflegend_vwr_0_dav_trn_flw_gmg_email_2111_holdout",
+		"v": 17855,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"25b8b06e-fbe7-4a2d-9d79-3cb343ae73fa": {
 		"name": "ad_loudness_phase_1",
 		"v": 6924,
@@ -13353,6 +13368,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"682bae0c-ebed-4b65-b577-d3a27264150b": {
+		"name": "dart_apac_kor_twitchrivalsxleagueoflegend_vwr_0_dav_trn_wch_gmg_push_2111_onsite",
+		"v": 17854,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -27313,6 +27343,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"d6ae742a-749c-40dd-b724-ba2f7721596a": {
+		"name": "dart_apac_kor_twitchrivalsxleagueoflegend_vwr_0_dav_trn_wch_gmg_push_2111_holdout",
+		"v": 17853,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
