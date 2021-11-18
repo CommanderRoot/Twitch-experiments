@@ -20494,15 +20494,15 @@
 	},
 	"9ea72afd-d3a4-42bb-b6b3-aef616352d2f": {
 		"name": "ios_pc_pause_on_termination",
-		"v": 17858,
+		"v": 17886,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -22986,7 +22986,7 @@
 	},
 	"b1dc7781-ac6b-4b86-8b49-007046dd52dc": {
 		"name": "ios_async_renderer",
-		"v": 17859,
+		"v": 17885,
 		"t": 1,
 		"groups": [
 			{
@@ -23002,11 +23002,11 @@
 				"value": "async_v10.7"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "async_v11.0"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "async_v12.0"
 			}
 		]
