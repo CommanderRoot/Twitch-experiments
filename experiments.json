@@ -2153,6 +2153,21 @@
 			}
 		]
 	},
+	"11b478c1-c91e-4daf-ab0f-d9865829407c": {
+		"name": "dart_fallemotemore_ctr_awa_trn_non_mis_emailonsite_2111_holdout",
+		"v": 17898,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"11bb3d2d-8ea0-4424-8ddf-fe68d2f5666d": {
 		"name": "dart_intlpricing_ctr_416_cmm_cmc_lrn_mis_email_2105_holdout",
 		"v": 14833,
@@ -13295,6 +13310,21 @@
 	"671fb703-3ce6-4ef8-b443-ecf105b2c70f": {
 		"name": "dart_tnfweek10_vwr_272_dav_cmc_wch_tne_spt_peo_2012_holdout",
 		"v": 12882,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"67517367-2f95-40a3-a82d-1a301a3fdb19": {
+		"name": "dart_fallemotemax_ctr_awa_trn_non_mis_emailonsite_2111_holdout",
+		"v": 17897,
 		"t": 2,
 		"groups": [
 			{
