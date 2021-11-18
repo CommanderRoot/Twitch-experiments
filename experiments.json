@@ -9341,15 +9341,15 @@
 	},
 	"4a21eec0-1de5-469e-b755-0d1087bbf18b": {
 		"name": "one_click",
-		"v": 17555,
+		"v": 17906,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "experiment"
 			}
 		]
@@ -15792,11 +15792,11 @@
 	},
 	"78bd2248-16f8-493b-abbf-205d823fa46b": {
 		"name": "android_stream_display_ads",
-		"v": 17895,
+		"v": 17907,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -15812,7 +15812,7 @@
 				"value": "staff_active_11.8"
 			},
 			{
-				"weight": 10,
+				"weight": 100,
 				"value": "active_12.0"
 			}
 		]
