@@ -9522,15 +9522,15 @@
 	},
 	"4bc764f2-f282-41e9-8aeb-15cb1f132d78": {
 		"name": "animated_emotes_for_affiliates",
-		"v": 16946,
+		"v": 17890,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active"
 			}
 		]
@@ -17572,6 +17572,21 @@
 			},
 			{
 				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
+	"877c5843-88dd-4c06-87ca-8e4c8c82014f": {
+		"name": "dart_minedraft2_vwr_422_dav_cmc_wch_gmg_email_2111_holdout",
+		"v": 17891,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
