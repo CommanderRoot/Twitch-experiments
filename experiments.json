@@ -3474,11 +3474,11 @@
 	},
 	"1b1249a5-8f97-4585-81ac-85d6b0a4f977": {
 		"name": "ios_multi_ad_format_parse_strategy",
-		"v": 17212,
+		"v": 17893,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "parse_client_ad_v11.4"
 			},
 			{
@@ -3486,7 +3486,7 @@
 				"value": "parse_multi_ad_format_v11.6"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "parse_multi_ad_format_v11.8"
 			}
 		]
