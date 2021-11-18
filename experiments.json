@@ -557,6 +557,21 @@
 			}
 		]
 	},
+	"04a30ede-3d78-48f3-ae12-e14cc5152795": {
+		"name": "dart_rdeem5v2_vwr_503_sbs_cmc_sub_mis_email_2108_duplicate_duplicate_email",
+		"v": 17900,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"04adab74-98c1-4adb-88ea-c896504692d3": {
 		"name": "ios_native_bits_iap_onboarding_feature",
 		"v": 9183,
@@ -1765,7 +1780,7 @@
 	},
 	"0df70f4f-eaf1-4055-be54-bd19a29f11b0": {
 		"name": "android_reusable_player",
-		"v": 17581,
+		"v": 17904,
 		"t": 1,
 		"groups": [
 			{
@@ -1774,7 +1789,7 @@
 			},
 			{
 				"weight": 100,
-				"value": "active_12.0"
+				"value": "active_12.1"
 			}
 		]
 	},
@@ -2927,6 +2942,21 @@
 			{
 				"weight": 0,
 				"value": "qos_prefilter"
+			}
+		]
+	},
+	"16f73d5a-ca21-41f0-b64e-1d2983b77d36": {
+		"name": "dart_rdeem5v2_vwr_503_sbs_cmc_sub_mis_email_2108_duplicate_duplicate_holdout",
+		"v": 17899,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -18118,7 +18148,7 @@
 	},
 	"8cde8d4f-353c-4ae5-87b2-bf866ef18fc7": {
 		"name": "android_hype_train_approaching",
-		"v": 17608,
+		"v": 17903,
 		"t": 1,
 		"groups": [
 			{
@@ -18126,11 +18156,11 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.0"
 			}
 		]
