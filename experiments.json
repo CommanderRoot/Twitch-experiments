@@ -2924,7 +2924,7 @@
 	},
 	"16e4934e-d955-410e-a35c-99cc7a548574": {
 		"name": "android_follower_emotes",
-		"v": 16361,
+		"v": 17931,
 		"t": 1,
 		"groups": [
 			{
@@ -2934,6 +2934,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.1"
 			}
 		]
 	},
