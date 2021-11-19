@@ -2990,21 +2990,6 @@
 			}
 		]
 	},
-	"1710cf57-352c-4d09-b2c1-3d40bdf79b30": {
-		"name": "vod_upload_units_v3",
-		"v": 834,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "experiment"
-			}
-		]
-	},
 	"17113314-06e6-40e3-9786-71b1c18e65a2": {
 		"name": "android_prime_gaming_activation_us",
 		"v": 15935,
@@ -3017,25 +3002,6 @@
 			{
 				"weight": 100,
 				"value": "active_10.8"
-			}
-		]
-	},
-	"171906a2-6e34-4d0e-879c-a76a19f19097": {
-		"name": "vod_page_recommendations_ordering",
-		"v": 531,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "control"
-			},
-			{
-				"weight": 95,
-				"value": "related_first"
-			},
-			{
-				"weight": 95,
-				"value": "recent_first"
 			}
 		]
 	},
@@ -9601,12 +9567,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 17881,
+		"v": 17916,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-938a79.pdx01.abs.hls.ttvnw.net/v1/segment/CgublNesFyveDR8IV-RItoDxGf_y7hLV8QAFzPBTTJrP1RIp_8wIcjMYIDJAcs3RI2ShN17Za_73KeKMsoJXIdNYdBikwQ8HyirtfkDtaLp0R7_OhKoMOKeQSXpU6042FylP_WvPndtBIaJfJhIvlI_6g3yO7eRH67JNM2QsmQkaklpkAySzlXIneGTJPAHdjpB4zTIb74d-dk2UWym3iCQdPqPVaupfoWypY_cqASs8WX0cjInbEXB61bu9Y0O0qNERjWaySiV2tX_onhan12tmJGEISLn29T0uhd7agU1EHxaR7M5jVU-58x8_pq3pbCGsJ-DH12ImLj333R6BCUVn7TY9hKiYwcEhz5Ujz5PT6lKPIuSKBglgJvB-3jqGvrY4U2LZH2JH9jgFqfcHkJlWKeUfaq5tQZJqYAgozMxq9tM0l70NQJJf_GwofUH2nC02XzL-xMoiQbZ1zn9atWUqJx6xp6AOqQ0cJTmk7CzSk44MZ0Q5dJCWK3p7Euv2d62xUeJTFyOF_rKtYSjWdQNNz2mT6VvW9e8oHaU36H1IETC50r4JbmF7DQhDIwahNrDcq8GArfmvG1T4qfu9GtARu1djXCWBdf2TWO4n4sCExoBaFZ57H3LX16a-o-JjQMmZfYqlZGHkZV5FKq92yjdqRiVhrYrjJS-SHka5XacGoVVIR1l1O3xWFjRQ-sadIn9tsmiL_deFVZyX7m8rPYyb0oZ2fMzVInTmyXNykF8OC4pNbBtWvGOfmJ4VBizidi.ts"
+				"value": "//video-edge-73a119.pdx01.abs.hls.ttvnw.net/v1/segment/CumqFPJOKIW5c59lLmXmgAR-jKon7sisIvHsEYCEMFCuGc_82cmDYZ2YjAx8UF_OIMUE72QtBFv4ifSDM8JatVaNn_5i0spNeJr558a6Ke5sGweX2KZTDxjBZm9apgBkE9TeEDQygTmtHfb_xN7BAdv8IK7ZI5XP9wGj1GPRbguuRJzLIaZCOAoNkURCDtY48XJCgx_yBGO3ycGgut60vof83plwCtf1XfxbUwG-y6Sw8w3IRTD_mXn1-IDpQHrZr8KEFO887ItdSHZiapro0WSrIoSVoJ3cTH-_j2kgh4zgt17dg3wP0EXcahjZzxA-YD6LHSqBj6CC2nwRY8oOdP4VP96sUeEt-SJrmJwspZPat-P9eu0Hx4wBjMQJSO-h4VPmcQA9mM7_6AD_q-uwUAZlFGQNG7roE0ochgdkF2hCM_Veu2JQXgKtSHU9sPM-9pZ6udpnsUoqeDXlxeovmdmYESczqjJvPbCBNM00UHpQmQsUTaGIUoYCNxp2qQ8Ufgtd6fqNQq7sVOchrEIzdJeg9Bwp9zyBoSNw2TGjW3NEb1JdF8xIej8rtnafCQB94HYUnsSGPZ8FVM7ppZ4Z2-bVKzKyc_S5LVfI_FBkx-DadvJ0WmOo-txUSUTUEMicMdy_G2VB_qhHEjkdE_aMWQgJTp19_tW14cF4DWkQRs3AYaC1vYa_xLoQ1QRui7enJOQUf2-YuIktH4s4OPPr4ICxG9lnzDbO7dholyGIOB-9EpNfU8kBGlmtlWQrGlISCgEF3eZnvPw6TMPalOPoNvW93P.ts"
 			}
 		]
 	},
@@ -22234,21 +22200,6 @@
 			{
 				"weight": 15,
 				"value": "active"
-			}
-		]
-	},
-	"ad39c35b-c6af-4687-b791-9ab408f825ef": {
-		"name": "VOD Thumbnail Previews Rollout",
-		"v": 272,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "yes"
-			},
-			{
-				"weight": 0,
-				"value": "no"
 			}
 		]
 	},
