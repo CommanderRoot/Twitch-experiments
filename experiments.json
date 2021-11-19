@@ -4620,6 +4620,21 @@
 			}
 		]
 	},
+	"241987b1-a9d7-40e7-aa78-d58bbc00b9b5": {
+		"name": "dart_welcomeemail1nonen_vwr_574_dav_cmc_wch_mis_email_2111_email",
+		"v": 17933,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"241b0c39-6f3a-407a-8b4a-9d8d5b5658aa": {
 		"name": "dart_aucalootcave_vwr_686_cmm_cmc_buy_misc_email_2011_holdout",
 		"v": 12698,
@@ -8720,12 +8735,12 @@
 	},
 	"4457b398-aec4-4289-9c22-64e73705d1d9": {
 		"name": "android_n_1_phone_account_recovery",
-		"v": 17230,
+		"v": 17934,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_12.1"
 			},
 			{
 				"weight": 100,
@@ -22873,6 +22888,21 @@
 	"b073ba53-49d3-4c76-add9-131e8dcc071b": {
 		"name": "dart_new_d3_top_streams_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14428,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"b0a77fd5-60bf-490a-9001-743eb590fb84": {
+		"name": "dart_welcomeemail1nonen_vwr_574_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 17932,
 		"t": 2,
 		"groups": [
 			{
