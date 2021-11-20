@@ -25375,7 +25375,7 @@
 	},
 	"c570cc47-352e-4709-b517-7a802aefc9ab": {
 		"name": "android_collect_postal_code",
-		"v": 17704,
+		"v": 17939,
 		"t": 1,
 		"groups": [
 			{
@@ -25395,11 +25395,11 @@
 				"value": "lenient_variant"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "strict_variant_11.6"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "lenient_variant_11.6"
 			}
 		]
