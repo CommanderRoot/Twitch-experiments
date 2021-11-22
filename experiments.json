@@ -7800,6 +7800,21 @@
 			}
 		]
 	},
+	"3c96ce24-799b-4758-9b0e-adef8f490a33": {
+		"name": "xsolla_back_button",
+		"v": 17944,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"3cd10884-3eb5-4238-bbef-c85e74a937b7": {
 		"name": "mobile_web_mgst_auto_deeplink",
 		"v": 11084,
