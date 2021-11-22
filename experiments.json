@@ -31304,7 +31304,7 @@
 	},
 	"f8740e82-1221-46ea-84cb-0a8192660cd7": {
 		"name": "android_conscrypt_as_first_security_provider_ltam",
-		"v": 17958,
+		"v": 17962,
 		"t": 1,
 		"groups": [
 			{
@@ -31317,7 +31317,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_12.1"
 			}
 		]
 	},
