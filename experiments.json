@@ -14040,6 +14040,21 @@
 			}
 		]
 	},
+	"6aeec109-a351-4de5-80e1-a34380013005": {
+		"name": "dart_apac_twn_twitchstreamerbattlexretrogames_vwr_0_dav_trn_flw_gmg_email_2111_holdout",
+		"v": 17982,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6b4086ea-dcce-41c9-a57b-000fa9366e35": {
 		"name": "clips_you_were_right",
 		"v": 1722,
@@ -29834,6 +29849,21 @@
 			{
 				"weight": 0,
 				"value": "disabled"
+			}
+		]
+	},
+	"eaf6a9a9-c6f2-455c-a738-0e8c51f9fe43": {
+		"name": "dart_apac_twn_twitchstreamerbattlexretrogames_vwr_0_dav_trn_wch_gmg_push_2111_holdout",
+		"v": 17983,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
