@@ -11845,15 +11845,15 @@
 	},
 	"5bbb7686-196f-40c3-b938-8b33cf6d4343": {
 		"name": "creator_anniversaries_left_nav",
-		"v": 16686,
+		"v": 17985,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
@@ -19023,15 +19023,15 @@
 	},
 	"91c2ab2e-8c1c-4b86-a49c-b30197a599b4": {
 		"name": "android_prime_gaming_activation_tier_1_regions",
-		"v": 17621,
+		"v": 17986,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_12.0"
 			}
 		]
