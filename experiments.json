@@ -4844,6 +4844,21 @@
 			}
 		]
 	},
+	"2508f01d-efe5-4586-ba16-8bb417b736f7": {
+		"name": "dart_welcomeoldemail42_vwr_569_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 17979,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"252e18cd-8286-4026-b63c-fe567d54cbca": {
 		"name": "mobile_web_offline_experience",
 		"v": 7630,
@@ -6941,7 +6956,7 @@
 	},
 	"35f0b5b3-14d7-49f8-9159-0dc4ba71c23b": {
 		"name": "dart_welcomeemail42_vwr_558_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 17973,
+		"v": 17977,
 		"t": 2,
 		"groups": [
 			{
@@ -13078,6 +13093,21 @@
 			}
 		]
 	},
+	"647c9027-3b91-45bb-98a9-322ae2b000ec": {
+		"name": "dart_welcomeemail41_vwr_552_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 17975,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6494c8f6-655a-44dc-a390-2afb527ccb43": {
 		"name": "dart_back4blood_vwr_540_dav_cmc_wch_gmg_pe_2110_holdout",
 		"v": 17566,
@@ -15832,6 +15862,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"783ef8e7-71ab-4fac-aff8-5627686e0edd": {
+		"name": "dart_welcomeemail41_vwr_552_dav_cmc_wch_mis_email_2111_email",
+		"v": 17976,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -21606,6 +21651,21 @@
 			}
 		]
 	},
+	"a680254e-bcc8-4594-bf66-9d36dbb12b3a": {
+		"name": "dart_welcomeoldemail41_vwr_568_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 17980,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a6896ac8-2d90-4342-840b-b48573b00d62": {
 		"name": "ios_autoplay_videos_setting",
 		"v": 2197,
@@ -21861,7 +21921,7 @@
 	},
 	"a894e913-c9a7-4247-93c0-159c110fefd8": {
 		"name": "dart_welcomeemail42_vwr_558_dav_cmc_wch_mis_email_2111_email",
-		"v": 17974,
+		"v": 17978,
 		"t": 2,
 		"groups": [
 			{
