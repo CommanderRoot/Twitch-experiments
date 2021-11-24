@@ -4934,6 +4934,21 @@
 			}
 		]
 	},
+	"25b23a17-89fb-4ae5-97e5-1d4d2b38c7d5": {
+		"name": "dart_recurringsubsreminder1_vwr_awa_trn_non_mis_emailonsite_2111_holdout",
+		"v": 18003,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"25b8b06e-fbe7-4a2d-9d79-3cb343ae73fa": {
 		"name": "ad_loudness_phase_1",
 		"v": 6924,
