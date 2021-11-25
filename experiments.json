@@ -3302,6 +3302,21 @@
 			}
 		]
 	},
+	"1952fbec-d7d0-4c87-b822-872badf67820": {
+		"name": "dart_apac_twn_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_email_2111_holdout",
+		"v": 18016,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1967126a-1819-48ff-a46e-61b614e12571": {
 		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_de_holdout",
 		"v": 15479,
@@ -9230,6 +9245,21 @@
 			{
 				"weight": 0,
 				"value": "two_full"
+			}
+		]
+	},
+	"479029de-733c-4929-b55d-2685c4e40dd1": {
+		"name": "dart_apac_kor_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_email_2111_holdout",
+		"v": 18015,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -18723,6 +18753,21 @@
 			{
 				"weight": 33,
 				"value": "Variant C"
+			}
+		]
+	},
+	"8ea46027-175c-4269-b973-a440d9e0f18c": {
+		"name": "dart_apac_jpn_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_email_2111_holdout",
+		"v": 18014,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -30686,6 +30731,21 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			}
+		]
+	},
+	"f0eaeae2-2593-441e-8a47-83294f6649aa": {
+		"name": "dart_apac_tha_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_email_2111_holdout",
+		"v": 18017,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
