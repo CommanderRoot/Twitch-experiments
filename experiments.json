@@ -13547,6 +13547,21 @@
 			}
 		]
 	},
+	"6735b8b3-29ac-4a33-8ea2-4b2348be44d5": {
+		"name": "dart_blackfridaydealsde_vwr_580_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 18018,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"67517367-2f95-40a3-a82d-1a301a3fdb19": {
 		"name": "dart_fallemotemax_ctr_awa_trn_non_mis_emailonsite_2111_holdout",
 		"v": 17897,
