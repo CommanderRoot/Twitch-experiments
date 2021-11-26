@@ -6473,6 +6473,21 @@
 			}
 		]
 	},
+	"3281da69-c828-49a4-aa72-4192903241f1": {
+		"name": "dart_blackfridaydealsit_vwr_580_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 18025,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"32837e13-0742-4866-bfb5-6a7193872d51": {
 		"name": "dart_amsot_session_8_onsite",
 		"v": 11510,
@@ -13564,7 +13579,7 @@
 	},
 	"6735b8b3-29ac-4a33-8ea2-4b2348be44d5": {
 		"name": "dart_blackfridaydealsde_vwr_580_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 18018,
+		"v": 18023,
 		"t": 2,
 		"groups": [
 			{
@@ -22145,6 +22160,21 @@
 			{
 				"weight": 1,
 				"value": "active_spade_sentry"
+			}
+		]
+	},
+	"a92845f6-8166-4444-9c91-61165bb637be": {
+		"name": "dart_blackfridaydeals3fr_vwr_580_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 18024,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
