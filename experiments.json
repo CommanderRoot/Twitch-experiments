@@ -9278,6 +9278,21 @@
 			}
 		]
 	},
+	"47e13372-9483-4130-96ef-7f05571a25ff": {
+		"name": "dart_apac_jpn_twitchrivalsxlol_vwr_0_flw_trn_flw_gmg_email_2111_holdout",
+		"v": 18020,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"47e578cf-6e7a-47ea-ba0d-5fb6a51a3b1d": {
 		"name": "android_extensions_dev_release",
 		"v": 4215,
