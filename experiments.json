@@ -16275,6 +16275,21 @@
 			}
 		]
 	},
+	"7a26e41e-a2d3-45ca-9af6-6ea117197ea0": {
+		"name": "dart_blackfridaydealses_vwr_580_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 18026,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7a2d8915-c3b5-4418-8200-6d979dc1d8e9": {
 		"name": "ios_chromecast_mini_player",
 		"v": 5045,
