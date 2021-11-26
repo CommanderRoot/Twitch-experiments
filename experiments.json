@@ -13885,6 +13885,21 @@
 			}
 		]
 	},
+	"6980e630-eca3-4bde-812c-c15220656228": {
+		"name": "dart_apac_jpn_twitchrivalsxlol_vwr_0_dav_trn_wch_gmg_push_2111_holdout",
+		"v": 18021,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"699d4aa7-30e1-4eac-9fae-25c7ced3e58a": {
 		"name": "ios_broadcast_categories",
 		"v": 4713,
