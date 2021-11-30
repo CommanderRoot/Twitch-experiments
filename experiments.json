@@ -18332,15 +18332,15 @@
 	},
 	"897eb1ee-0748-4af9-8bf6-3bc519c05cdc": {
 		"name": "bevdet_system_detection",
-		"v": 18079,
+		"v": 18080,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 70,
 				"value": "in-exp"
 			},
 			{
-				"weight": 50,
+				"weight": 30,
 				"value": "out-of-exp"
 			}
 		]
