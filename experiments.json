@@ -2078,6 +2078,21 @@
 			}
 		]
 	},
+	"102169cb-6d93-4f2e-b537-002234c7f3d8": {
+		"name": "dart_apac_anz_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
+		"v": 18056,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"10b0d3c8-2088-4f67-bddf-df00901513fb": {
 		"name": "dart_fpso_gift_sub_v2_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 13224,
@@ -13934,6 +13949,21 @@
 			}
 		]
 	},
+	"6904f403-4309-47f3-a357-7807e25fc49c": {
+		"name": "dart_apac_kor_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
+		"v": 18053,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"690a83da-6bed-474f-a20c-d8baaf003208": {
 		"name": "android_whispers_chat_parsing",
 		"v": 17587,
@@ -14515,6 +14545,21 @@
 			{
 				"weight": 100,
 				"value": "active_9.9"
+			}
+		]
+	},
+	"6cf0b720-a64c-4554-895a-2213cc43b19d": {
+		"name": "dart_apac_sea_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
+		"v": 18057,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -22444,6 +22489,21 @@
 			{
 				"weight": 0,
 				"value": "disabled_v7.8"
+			}
+		]
+	},
+	"aa531af5-90b1-4cc2-b022-753943ef43e0": {
+		"name": "dart_apac_jpn_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
+		"v": 18055,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -30490,6 +30550,21 @@
 			{
 				"weight": 0,
 				"value": "active_11.5_chat_limit_sec_5"
+			}
+		]
+	},
+	"ed4be0d6-755e-428c-be65-cec99f71c2f4": {
+		"name": "dart_apac_twn_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
+		"v": 18054,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
