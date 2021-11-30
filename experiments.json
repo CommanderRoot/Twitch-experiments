@@ -7439,6 +7439,21 @@
 			}
 		]
 	},
+	"384bf729-64ad-4db2-9014-33404147962f": {
+		"name": "dart_apac_tha_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
+		"v": 18052,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"385ee89f-3063-4471-a379-de527dfbb169": {
 		"name": "ios_sentry_crash_reporter",
 		"v": 12458,
