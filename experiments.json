@@ -13337,6 +13337,21 @@
 			}
 		]
 	},
+	"64e00532-71de-4dcd-874f-dfa4d503f4d0": {
+		"name": "android_mafs_decision",
+		"v": 18064,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"64f24a5e-6aa3-4534-8387-5a1d57c917b5": {
 		"name": "ios_mb_choose_category_swiftui",
 		"v": 17737,
