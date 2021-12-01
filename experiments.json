@@ -5936,6 +5936,21 @@
 			}
 		]
 	},
+	"2cd9aeac-321a-4cea-abfe-20534a7ab6ed": {
+		"name": "gift_chat_command_callout",
+		"v": 18115,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"2cfb6748-b8d9-4e2c-85c3-7c39ea51e37c": {
 		"name": "android_braavos",
 		"v": 9680,
