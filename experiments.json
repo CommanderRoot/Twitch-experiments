@@ -22477,6 +22477,21 @@
 			}
 		]
 	},
+	"aa2e339f-e985-4c8f-aa20-2d501bf253da": {
+		"name": "dart_wintergathering_ctr_581_awa_cmc_flw_gmg_email_2111_holdout",
+		"v": 18087,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"aa3c123d-49a8-44d2-9cde-d17b3a48cdfd": {
 		"name": "dart_ecommedtactical2_vwr_511_sbs_cmc_sub_mis_email_2109_de_email",
 		"v": 16973,
@@ -27325,6 +27340,21 @@
 			{
 				"weight": 0,
 				"value": "off"
+			}
+		]
+	},
+	"d029e4a5-3381-47d0-aefd-e0cf96ffee28": {
+		"name": "dart_wintergathering_vwr_581_awa_cmc_flw_gmg_email_2111_holdout",
+		"v": 18088,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
