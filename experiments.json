@@ -3788,6 +3788,21 @@
 			}
 		]
 	},
+	"1c923101-3ab9-4b02-8f5c-451125ee57ae": {
+		"name": "dart_novembergamingbridgedenvwr_577_dav_cmc_wch_gmg_email_2111_holdout",
+		"v": 18091,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1cb42742-f0aa-4336-b764-05b93449ebb1": {
 		"name": "dart_iwdweek3_vwr_388_dav_cmc_lrn_mis_email_2103_fr_holdout",
 		"v": 14044,
@@ -32446,6 +32461,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"fca667a1-0283-466e-b0b6-b4c6ef0cb304": {
+		"name": "dart_novembergamingbridgede_vwr_577_dav_cmc_wch_gmg_email_2111_holdout",
+		"v": 18090,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
