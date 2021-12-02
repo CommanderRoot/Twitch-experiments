@@ -4077,6 +4077,21 @@
 			}
 		]
 	},
+	"20008fa4-0b13-46b7-a1e4-8a863b4fa9f2": {
+		"name": "dart_tnf1202_vwr_514_dav_cmc_wch_spt_emailonsite_2112_holdout",
+		"v": 18134,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"200155b1-6169-40ee-b726-a668b513249a": {
 		"name": "android_ads_identity_minimum_registration_hour_interval",
 		"v": 12961,
@@ -30205,6 +30220,21 @@
 			},
 			{
 				"weight": 100,
+				"value": "allowed"
+			}
+		]
+	},
+	"e943b4e0-e675-4008-a520-08f37dcd8522": {
+		"name": "dart_tnf1202_vwr_514_dav_cmc_wch_spt_push_2112_holdout",
+		"v": 18135,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
