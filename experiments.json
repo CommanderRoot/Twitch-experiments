@@ -14501,15 +14501,15 @@
 	},
 	"6c2e748c-e5a2-42de-bd63-29c6db0555c8": {
 		"name": "android_ads_loudness_normalization",
-		"v": 17733,
+		"v": 18127,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.0"
 			}
 		]
@@ -28643,7 +28643,7 @@
 	},
 	"d9ae435f-d739-44ea-a4c6-09f34cb86bb9": {
 		"name": "surestream_rollout_android_latam",
-		"v": 18036,
+		"v": 18126,
 		"t": 1,
 		"s": 1,
 		"groups": [
