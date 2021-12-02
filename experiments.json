@@ -31050,6 +31050,21 @@
 			}
 		]
 	},
+	"f0c26e8e-06be-4d7e-8394-57a376d91df8": {
+		"name": "android_batch_poller_exception_fix_attempt",
+		"v": 18117,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_12.1"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"f0c2da7d-2b69-41e0-bd66-594863d280af": {
 		"name": "dart_frozencreatorreengagement_ctr_na_brdcst_cmc_lrn_mkt_gmg_email_2010_holdout",
 		"v": 12299,
