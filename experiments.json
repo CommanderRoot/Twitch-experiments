@@ -4344,6 +4344,21 @@
 			}
 		]
 	},
+	"21306fc1-1406-4691-b49e-7971eeae9fe1": {
+		"name": "dart_holidaygiftcard_vwr_582_cmm_cmc_buy_mis_email_2112_it_holdout",
+		"v": 18123,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"214f66e2-0854-4902-9ec7-5f46d68c7a9b": {
 		"name": "dart_tnfweek12b_vwr_272_dav_cmc_wch_spt_peo_2012_holdout",
 		"v": 12987,
@@ -8519,6 +8534,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"40935962-2348-4805-895e-4d622188009e": {
+		"name": "dart_holidaygiftcard_vwr_582_cmm_cmc_buy_mis_email_2112_es_holdout",
+		"v": 18125,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -25180,6 +25210,21 @@
 			}
 		]
 	},
+	"bec19d20-ae79-44f3-a992-424db189a380": {
+		"name": "dart_holidaygiftcard_vwr_582_cmm_cmc_buy_mis_email_2112_fr_holdout",
+		"v": 18122,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"bedf8bc9-4f70-4e84-a49c-892f4f3d8d76": {
 		"name": "dart_new_d5_top_games_v2_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 12601,
@@ -30889,6 +30934,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"eedb1105-8b7f-4154-982d-72559036dc35": {
+		"name": "dart_holidaygiftcard_vwr_582_cmm_cmc_buy_mis_email_2112_nl_holdout",
+		"v": 18124,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
