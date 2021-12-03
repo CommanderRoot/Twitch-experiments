@@ -2496,6 +2496,21 @@
 			}
 		]
 	},
+	"136216ca-7503-4cf0-a467-7806fc9614d9": {
+		"name": "dart_apac_mal_genshinimpactdrop_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18141,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"13adc3f7-830c-485a-aa5e-91a5771813f9": {
 		"name": "android_creator_mode_segment_a",
 		"v": 17655,
@@ -4440,6 +4455,21 @@
 			{
 				"weight": 0,
 				"value": "VariantC"
+			}
+		]
+	},
+	"2193868a-1c8f-4587-8bdc-c25df67ff66a": {
+		"name": "dart_apac_ido_genshinimpactdrop_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18140,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -7645,6 +7675,21 @@
 			}
 		]
 	},
+	"39b62302-d4e7-4f6a-9573-76a5fe929aa2": {
+		"name": "dart_apac_php_genshinimpactdrop_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18138,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"39c569b7-c58e-47c7-b975-7af0d2bcb31e": {
 		"name": "android_ima_om",
 		"v": 7295,
@@ -10062,6 +10107,21 @@
 			{
 				"weight": 100,
 				"value": "both"
+			}
+		]
+	},
+	"4d23c21f-03d1-40f2-8250-a2fb87539f9c": {
+		"name": "dart_apac_sgp_genshinimpactdrop_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18139,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
