@@ -13340,6 +13340,21 @@
 			}
 		]
 	},
+	"63d474e1-e7f1-46a6-9502-b94ecff1033c": {
+		"name": "dart_apac_anz_twitchpogpicks_vwr_0_dav_trn_flw_gmg_email_2112_r11_holdout",
+		"v": 18146,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"63fc0f79-7415-4d4a-8d6b-748c1504783d": {
 		"name": "android_community_highlights",
 		"v": 10871,
@@ -24943,6 +24958,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"babf9774-604a-49d2-bdc9-059ddfdf6d87": {
+		"name": "dart_apac_anz_twitchpogpicks_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18147,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
