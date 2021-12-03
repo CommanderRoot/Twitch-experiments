@@ -10587,19 +10587,19 @@
 	},
 	"50418f28-335b-4245-86f5-1392c0424bbc": {
 		"name": "android_left_third_display_ads_a_b_test",
-		"v": 18092,
+		"v": 18158,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "ab_test_ineligible"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "ab_test_treatment"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "ab_test_control"
 			}
 		]
