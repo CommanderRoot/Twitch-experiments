@@ -3114,6 +3114,21 @@
 			}
 		]
 	},
+	"17d66f85-22ae-44ff-988a-2771a8264fe9": {
+		"name": "dart_apac_sgp_valorantchampions_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18143,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"17e281d4-72e3-473f-9b13-b09002340317": {
 		"name": "ios_private_callouts",
 		"v": 14800,
@@ -5309,6 +5324,21 @@
 	"27e670e9-e221-4a59-9cfe-8ad193d934fb": {
 		"name": "dart_jpcreatordiscoveryjul2021xnemo_good_vwr_0_dav_cmc_wch_gmg_email_2107_holdout",
 		"v": 15903,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"27f05de1-db0b-4572-995e-c1837253dae3": {
+		"name": "dart_apac_ido_valorantchampions_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18145,
 		"t": 2,
 		"groups": [
 			{
@@ -12994,6 +13024,21 @@
 			}
 		]
 	},
+	"61e71844-0ff0-4469-a3a1-e7d2f33105fa": {
+		"name": "dart_apac_php_valorantchampions_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18142,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"621a95a8-8b75-4f13-ae93-56fa51b82252": {
 		"name": "ios_uploads_top_videos_time",
 		"v": 805,
@@ -18197,6 +18242,21 @@
 	"869000c8-cef7-4649-9d86-3bc90ead1d67": {
 		"name": "dart_fpso_gift_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15556,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"86bdb3a1-f527-4657-913e-46b9c3d537fd": {
+		"name": "dart_apac_mal_valorantchampions_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18144,
 		"t": 2,
 		"groups": [
 			{
