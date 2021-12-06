@@ -19801,6 +19801,21 @@
 			}
 		]
 	},
+	"940c6007-62cc-403c-b362-62961a8389ab": {
+		"name": "dart_adsmanagerallphase3_ctr_517_awa_cmc_lrn_mis_email_2111_holdout",
+		"v": 18174,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"941723e1-bb28-4b8f-9c88-4709de1684ce": {
 		"name": "android_profile_header_v2",
 		"v": 10669,
