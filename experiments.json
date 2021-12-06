@@ -24714,16 +24714,16 @@
 	},
 	"b8843dac-7688-430b-a10b-f3e38c7de2cf": {
 		"name": "android_disable_dynamic_security_provider",
-		"v": 17792,
+		"v": 18177,
 		"t": 1,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_11.7"
 			}
 		]
@@ -32287,15 +32287,15 @@
 	},
 	"f8740e82-1221-46ea-84cb-0a8192660cd7": {
 		"name": "android_conscrypt_as_first_security_provider_latam",
-		"v": 17993,
+		"v": 18178,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control_2"
 			},
 			{
