@@ -12673,6 +12673,21 @@
 			}
 		]
 	},
+	"5edaeb04-c517-4303-a684-91abd4e217e1": {
+		"name": "dart_apac_php_valorantchampionsphpvsbrz_vwr_0_dav_trn_wch_gmg_onsite_2112_holdout",
+		"v": 18185,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5f4744a4-11ee-4044-95ac-f2b64da6e2c9": {
 		"name": "android_private_callouts",
 		"v": 17042,
@@ -18131,6 +18146,21 @@
 			{
 				"weight": 1,
 				"value": "new_algorithm"
+			}
+		]
+	},
+	"8541cf8d-9d4b-4ef0-b8f3-6a512df3d656": {
+		"name": "dart_apac_php_valorantchampionsphpvsbrz_vwr_0_dav_trn_wch_gmg_onsite_2112_onsite",
+		"v": 18186,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
