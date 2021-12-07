@@ -25620,15 +25620,15 @@
 	},
 	"c0b89cf2-7833-4485-b340-f5e43b60cb8c": {
 		"name": "ios_hls_metadata_received_analytics",
-		"v": 14104,
+		"v": 18181,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "disabled"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "enabled"
 			}
 		]
