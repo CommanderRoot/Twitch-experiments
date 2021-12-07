@@ -12253,15 +12253,15 @@
 	},
 	"5bbb7686-196f-40c3-b938-8b33cf6d4343": {
 		"name": "creator_anniversaries_left_nav",
-		"v": 17985,
+		"v": 18197,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
