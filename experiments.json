@@ -3607,6 +3607,21 @@
 			}
 		]
 	},
+	"1ae52aa0-1c65-4744-aec7-af6e44e9529e": {
+		"name": "dart_fortnite_vwr_594_dav_cmc_wch_gmg_email_2112_fr_holdout",
+		"v": 18189,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1b1249a5-8f97-4585-81ac-85d6b0a4f977": {
 		"name": "ios_multi_ad_format_parse_strategy",
 		"v": 18184,
@@ -4407,6 +4422,21 @@
 	"21306fc1-1406-4691-b49e-7971eeae9fe1": {
 		"name": "dart_holidaygiftcard_vwr_582_cmm_cmc_buy_mis_email_2112_it_holdout",
 		"v": 18123,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"214ba04b-7496-4c9f-a606-5e3ff1980d89": {
+		"name": "dart_fortnite_vwr_594_dav_cmc_wch_gmg_email_2112_it_holdout",
+		"v": 18190,
 		"t": 2,
 		"groups": [
 			{
@@ -11533,6 +11563,21 @@
 			{
 				"weight": 0,
 				"value": "variant"
+			}
+		]
+	},
+	"5705b838-5a6d-426b-93e7-73910eb95e21": {
+		"name": "dart_fortnite_vwr_594_dav_cmc_wch_gmg_email_2112_es_holdout",
+		"v": 18191,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
