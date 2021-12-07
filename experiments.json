@@ -21316,6 +21316,21 @@
 			}
 		]
 	},
+	"9de21c16-3fa2-46fa-b247-65503e234816": {
+		"name": "dart_fortnite_vwr_594_dav_cmc_wch_gmg_email_2112_en_holdout",
+		"v": 18187,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9df89947-d819-4ed5-b3ab-72c7073b8451": {
 		"name": "ios_oauth_refresh_7_0",
 		"v": 9175,
@@ -30252,6 +30267,21 @@
 			},
 			{
 				"weight": 60,
+				"value": "allowed"
+			}
+		]
+	},
+	"e6e795c2-2124-47e1-9a17-ad16cb025814": {
+		"name": "dart_fortnite_vwr_594_dav_cmc_wch_gmg_email_2112_de_holdout",
+		"v": 18188,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
