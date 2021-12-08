@@ -10055,15 +10055,15 @@
 	},
 	"4b542915-a76e-42ad-ab85-147642feb395": {
 		"name": "post_purchase_experience",
-		"v": 17257,
+		"v": 18241,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
