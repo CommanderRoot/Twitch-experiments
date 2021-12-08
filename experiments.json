@@ -24791,6 +24791,21 @@
 			}
 		]
 	},
+	"b776b4d5-2c9b-4ad1-9ddb-4be53e8e1a42": {
+		"name": "dart_apac_sgp_valorantchampionsquarterfinals_vwr_0_dav_trn_flw_gmg_onsite_2112_onsite",
+		"v": 18222,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"b7a96629-46ee-4746-9063-973707fd8af3": {
 		"name": "android_mgst_broadcast_onboarding",
 		"v": 10561,
@@ -29006,7 +29021,7 @@
 	},
 	"d975d9c7-faf1-45d5-8854-cd62a111237a": {
 		"name": "dart_apac_sgp_valorantchampionsquarterfinals_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
-		"v": 18219,
+		"v": 18221,
 		"t": 2,
 		"groups": [
 			{
