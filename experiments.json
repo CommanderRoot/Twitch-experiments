@@ -11491,6 +11491,21 @@
 			}
 		]
 	},
+	"5527643b-93ba-4f12-bc36-1468d05cd4ca": {
+		"name": "dart_haloinfinite_vwr_595_dav_cmc_wch_gmg_email_2112_fr_holdout",
+		"v": 18232,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"55c34c88-4cfc-44f0-9379-021ae13d324e": {
 		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_it_holdout",
 		"v": 17062,
@@ -14356,6 +14371,21 @@
 	"69e98275-0f75-4010-9982-76eb5ba3dc73": {
 		"name": "dart_giftcard_vwr_361_cmm_cmc_buy_mis_email_2102_holdout",
 		"v": 13498,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"69efcfc8-07df-4236-b7e4-71dd20c02990": {
+		"name": "dart_haloinfinite_vwr_595_dav_cmc_wch_gmg_email_2112_es_holdout",
+		"v": 18230,
 		"t": 2,
 		"groups": [
 			{
@@ -24617,6 +24647,21 @@
 			}
 		]
 	},
+	"b51c752b-c2d3-4c2e-b9f7-999a70145e1e": {
+		"name": "dart_haloinfinite_vwr_595_dav_cmc_wch_gmg_email_2112_de_holdout",
+		"v": 18231,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"b525d2cb-6aea-4d7c-ac32-92a46541d7f2": {
 		"name": "ios_gql_batching",
 		"v": 17553,
@@ -28407,6 +28452,21 @@
 			{
 				"weight": 100,
 				"value": "active_8_1"
+			}
+		]
+	},
+	"d49aa185-7986-4c2d-afd4-5a0050e6862c": {
+		"name": "dart_haloinfinite_vwr_595_dav_cmc_wch_gmg_email_2112_it_holdout",
+		"v": 18229,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
