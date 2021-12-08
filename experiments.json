@@ -4923,7 +4923,7 @@
 	},
 	"247d6c88-3395-4e3e-b00c-a757c301f379": {
 		"name": "dart_xfunccreatorgoal_ctr_x_awa_trn_lrn_mis_onsite_2112_holdout",
-		"v": 18179,
+		"v": 18214,
 		"t": 2,
 		"groups": [
 			{
@@ -10736,6 +10736,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"508c1d20-b4ae-4ce1-9d1c-06d055252a74": {
+		"name": "dart_xfuncsubgeo_ctr_590_awa_trn_lrn_mis_onsite_2112_holdout",
+		"v": 18213,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
