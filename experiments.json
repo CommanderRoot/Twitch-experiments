@@ -18704,6 +18704,21 @@
 			}
 		]
 	},
+	"89de9ebe-aafb-489c-9eda-4a45e344ede6": {
+		"name": "dart_apac_mal_valorantchampionsquarterfinals_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
+		"v": 18218,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8a549d2e-99bf-4ff9-bd82-db0298b91d3a": {
 		"name": "android_project_post",
 		"v": 11431,
@@ -28971,6 +28986,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"d975d9c7-faf1-45d5-8854-cd62a111237a": {
+		"name": "dart_apac_sgp_valorantchampionsquarterfinals_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
+		"v": 18219,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
