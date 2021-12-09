@@ -20756,19 +20756,19 @@
 	},
 	"9812f5b5-6515-42b0-8634-8304f941e28a": {
 		"name": "sda_experiment_6m",
-		"v": 18196,
+		"v": 18270,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "CONTROL"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "TREATMENT"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "INELIGIBLE"
 			}
 		]
