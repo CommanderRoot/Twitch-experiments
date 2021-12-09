@@ -7694,6 +7694,21 @@
 			}
 		]
 	},
+	"38191ff1-5c90-4883-89ba-74ddf493c9ea": {
+		"name": "dart_apac_tha_valorantchampionsquarterfinalsday2_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
+		"v": 18261,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"383ae8ec-2ed1-464e-8ff2-c67c981e077a": {
 		"name": "tvapps_xboxone_feature_tags",
 		"v": 9777,
@@ -29986,6 +30001,21 @@
 	"e1ae1f82-230d-48dc-9342-3426806b9a37": {
 		"name": "dart_localisedpricinggiftexpired_vwr_513_sbs_cmc_sub_mis_email_2109_holdout",
 		"v": 17015,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"e1c06d52-30bb-4bf0-9fac-044fc4f01580": {
+		"name": "dart_apac_twn_valorantchampionsquarterfinalsday2_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
+		"v": 18260,
 		"t": 2,
 		"groups": [
 			{
