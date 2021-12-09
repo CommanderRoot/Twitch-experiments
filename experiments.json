@@ -32043,6 +32043,21 @@
 			}
 		]
 	},
+	"f0bffdb1-e509-4f31-9a7b-9d8d33960c78": {
+		"name": "dart_drakeevent_vwr_608_dav_cmc_wch_mis_onsite_2112_holdout",
+		"v": 18292,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f0c26e8e-06be-4d7e-8394-57a376d91df8": {
 		"name": "android_batch_poller_exception_fix_attempt",
 		"v": 18117,
