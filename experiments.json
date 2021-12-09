@@ -7051,6 +7051,21 @@
 			}
 		]
 	},
+	"341ee699-8074-485e-b841-2dd9bfc768ef": {
+		"name": "dart_wintergday2_ctr_597_awa_cmc_flw_gmg_email_2112_holdout",
+		"v": 18282,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3421e6e0-aa9e-4738-8b60-73cb6eac8dea": {
 		"name": "sidenav_active_gift",
 		"v": 17992,
@@ -11878,6 +11893,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"57aae47b-bba8-46f9-9b65-54c1ee23356e": {
+		"name": "dart_wintergday2_vwr_597_dav_cmc_wch_gmg_onsitepush_2112_holdout",
+		"v": 18284,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -30910,6 +30940,21 @@
 			{
 				"weight": 0,
 				"value": "chat_activity_increased"
+			}
+		]
+	},
+	"e8649980-45ca-4359-8e4c-3702a13f3e92": {
+		"name": "dart_wintergday2_vwr_597_awa_cmc_flw_gmg_email_2112_holdout",
+		"v": 18283,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
