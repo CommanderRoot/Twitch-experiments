@@ -12273,6 +12273,21 @@
 			}
 		]
 	},
+	"5a2be1ec-0965-43d8-890b-22689715af00": {
+		"name": "dart_tnf1209_vwr_514_dav_cmc_wch_spt_emailonsite_2112_holdout",
+		"v": 18288,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5a3169e8-2a70-4c36-a265-44d2915b23de": {
 		"name": "revert-bug",
 		"v": 7302,
@@ -19572,6 +19587,21 @@
 	"8ea46027-175c-4269-b973-a440d9e0f18c": {
 		"name": "dart_apac_jpn_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_email_2111_holdout",
 		"v": 18014,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"8ed63d4d-4271-4d47-9073-5f9d995a9458": {
+		"name": "dart_tnf1209_vwr_514_dav_cmc_wch_spt_push_2112_holdout",
+		"v": 18289,
 		"t": 2,
 		"groups": [
 			{
