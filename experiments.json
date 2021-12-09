@@ -6901,6 +6901,21 @@
 			}
 		]
 	},
+	"33d26ef5-2444-4135-abe4-07e257cb0753": {
+		"name": "dart_wintergday1_vwr_597_awa_cmc_flw_gmg_email_2112_holdout",
+		"v": 18252,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"33d67301-6a78-4e44-9df1-8cb3b9cc8b4a": {
 		"name": "dart_codwarzoneshowdown_vwr_541_dav_cmc_wch_gmg_pe_2110_holdout",
 		"v": 17528,
@@ -31612,6 +31627,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"ef283f53-642f-4140-b6b1-3f846feef056": {
+		"name": "dart_wintergday1_ctr_597_awa_cmc_flw_gmg_email_2112_holdout",
+		"v": 18253,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
