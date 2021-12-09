@@ -11641,6 +11641,21 @@
 			}
 		]
 	},
+	"5626dff6-e42c-4065-a230-d4754e5cb0b1": {
+		"name": "dart_truegeordie_vwr_591_dav_cmc_wch_spt_pe_2112_holdout",
+		"v": 18263,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"565be704-4f1c-46ba-a5d9-b15fbc423d7c": {
 		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13543,
