@@ -9985,6 +9985,21 @@
 			}
 		]
 	},
+	"4ab1899a-ed5d-43d6-9bf7-4aff20a07460": {
+		"name": "dart_claugn_single_locale_holdout",
+		"v": 18251,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4abc50dc-41d1-413e-8d5b-64acd88f6938": {
 		"name": "ad_moat_amazon",
 		"v": 7543,
