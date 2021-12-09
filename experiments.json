@@ -1532,6 +1532,21 @@
 			}
 		]
 	},
+	"0b0c9ed0-ca78-499b-a23e-132b3ac0cc7e": {
+		"name": "dart_apac_ido_valorantchampionsquarterfinalsday2_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
+		"v": 18259,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0b2e962b-c870-4401-9320-114ff2c6b717": {
 		"name": "tachyon_legacy",
 		"v": 4569,
@@ -5891,6 +5906,21 @@
 	"2ab4ae78-2c3f-4383-a435-aa0791278e44": {
 		"name": "dart_adsmanageraffiliatephase2_ctr_517_awa_cmc_lrn_mis_email_2111_holdout",
 		"v": 18047,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"2b1295da-3b93-4a12-bf3a-45fafc46c853": {
+		"name": "dart_apac_php_valorantchampionsquarterfinalsday2_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
+		"v": 18256,
 		"t": 2,
 		"groups": [
 			{
@@ -18689,6 +18719,21 @@
 			}
 		]
 	},
+	"88c4bc4e-8007-4797-a617-4b9d50ae339e": {
+		"name": "dart_apac_sgp_valorantchampionsquarterfinalsday2_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
+		"v": 18257,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"88c6dc9d-eb3c-4763-966d-e5537e78af50": {
 		"name": "xarth_debug_menu_special_access_users",
 		"v": 10520,
@@ -29447,6 +29492,21 @@
 	"dbc45252-d258-412f-ad42-1c046cea0ce0": {
 		"name": "dart_the_walking_dead_092020_holdout",
 		"v": 11784,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"dc0f9555-157c-4b55-88d8-319770c1b13e": {
+		"name": "dart_apac_mal_valorantchampionsquarterfinalsday2_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
+		"v": 18258,
 		"t": 2,
 		"groups": [
 			{
