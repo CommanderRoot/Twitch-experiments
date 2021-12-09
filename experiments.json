@@ -27568,6 +27568,21 @@
 			}
 		]
 	},
+	"cca8f654-5bf0-4e3d-ae6e-c8eb565385b7": {
+		"name": "dart_truegeordie_vwr_591_dav_cmc_wch_spt_email_2112_holdout",
+		"v": 18267,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ccaeb944-37d8-4cef-8b3b-86e4cd4eae55": {
 		"name": "android_artificial_latency_profile",
 		"v": 16884,
