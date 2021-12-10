@@ -5950,7 +5950,7 @@
 	},
 	"2b0732e9-1bcf-494f-bf7c-5961ebcd1309": {
 		"name": "dart_apac_twn_valorantchampionssemifinals_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
-		"v": 18308,
+		"v": 18312,
 		"t": 2,
 		"groups": [
 			{
@@ -18796,7 +18796,7 @@
 	},
 	"87dab95e-007a-4e0f-a73a-fa399c3cf5df": {
 		"name": "dart_apac_twn_valorantchampionsfinals_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
-		"v": 18304,
+		"v": 18311,
 		"t": 2,
 		"groups": [
 			{
@@ -24046,6 +24046,21 @@
 	"af6e6df6-da83-4675-ba76-fcb30e2dbdb6": {
 		"name": "dart_zevent_vwr_542_dav_cmc_wch_gmg_pe_2110_holdout",
 		"v": 17565,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"af89267b-39b3-4600-8f3c-92fb8969ea8c": {
+		"name": "dart_apac_kor_valorantchampionssemifinals_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18314,
 		"t": 2,
 		"groups": [
 			{
@@ -32999,7 +33014,7 @@
 	},
 	"f78ad8d0-84ea-469f-9596-2858bb9f61b7": {
 		"name": "dart_apac_kor_valorantchampionsfinals_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
-		"v": 18303,
+		"v": 18313,
 		"t": 2,
 		"groups": [
 			{
