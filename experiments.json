@@ -31210,6 +31210,21 @@
 			}
 		]
 	},
+	"ea7f2e86-ff76-43b7-bee0-9662d68dfa6c": {
+		"name": "dart_iemwinter_vwr_573_dav_cmc_wch_esp_email_2112_holdout",
+		"v": 18298,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ea95816a-846e-428e-b2fd-9ed1c32631b3": {
 		"name": "ios_push_notification_signup_prompt",
 		"v": 11843,
