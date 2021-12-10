@@ -18764,6 +18764,21 @@
 			}
 		]
 	},
+	"87dab95e-007a-4e0f-a73a-fa399c3cf5df": {
+		"name": "dart_apac_twn_valorantchampionsfinals_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18304,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"882294a9-7a32-418d-8fae-08c4f737fe7d": {
 		"name": "android_alt_ad_player",
 		"v": 4459,
@@ -20925,6 +20940,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"98edabef-465f-41be-a1ad-60b217a2b7e7": {
+		"name": "dart_apac_sea_valorantchampionssemifinals_vwr_0_dav_trn_wch_gmg_onsite_2112_holdout",
+		"v": 18302,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -25872,6 +25902,21 @@
 	"be03f934-72ca-4c26-9a3d-e70c0d5d3ed7": {
 		"name": "dart_tr_valorant_br_holdout",
 		"v": 10089,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"be444653-787b-40c1-b54e-8096845c44cf": {
+		"name": "dart_wintergameawards_vwr_596_dav_cmc_wch_gmg_email_2112_de_holdout",
+		"v": 18305,
 		"t": 2,
 		"groups": [
 			{
@@ -32889,6 +32934,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"f78ad8d0-84ea-469f-9596-2858bb9f61b7": {
+		"name": "dart_apac_kor_valorantchampionsfinals_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18303,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
