@@ -21256,6 +21256,21 @@
 			}
 		]
 	},
+	"99fd9f19-f4c8-4e09-9ae2-be13f8e8c30d": {
+		"name": "dart_apac_ido_valorantchampionssemifinals_vwr_0_dav_trn_wch_gmg_onsite_2112_holdout",
+		"v": 18309,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9a05ce59-2b30-4860-a590-b94c91fb78c1": {
 		"name": "dart_faze_cod_091720_push_holdout",
 		"v": 11756,
