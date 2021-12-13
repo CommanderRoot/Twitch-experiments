@@ -12442,21 +12442,6 @@
 			}
 		]
 	},
-	"5aca5379-d620-4e5a-aced-e3d00dc6b01f": {
-		"name": "android_preload_live_theater_data",
-		"v": 17379,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"5b2415ba-02c6-4de4-9afa-2e18a1d4f904": {
 		"name": "android_mgst_live_theatre_refactor",
 		"v": 16872,
