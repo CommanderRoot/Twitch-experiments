@@ -12091,6 +12091,21 @@
 			}
 		]
 	},
+	"58cd93c6-6066-4312-8826-e46cd54eb567": {
+		"name": "dart_codwarzoneshowdown_vwr_592_dav_cmc_wch_gmg_push_2112_holdout",
+		"v": 18331,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"58e0b414-ee69-41d5-bd81-3127504e8555": {
 		"name": "ios_creator_settings",
 		"v": 10968,
@@ -33133,6 +33148,21 @@
 			{
 				"weight": 0,
 				"value": "active_2100"
+			}
+		]
+	},
+	"f829bc0d-88f7-41ef-92fb-75214264ed68": {
+		"name": "dart_codwarzoneshowdown_vwr_592_dav_cmc_wch_gmg_email_2112_holdout",
+		"v": 18330,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
