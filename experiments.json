@@ -11558,6 +11558,21 @@
 			}
 		]
 	},
+	"54781f75-ff32-4e6c-83f9-6d039c8267c0": {
+		"name": "dart_selfserve1213_ctr_493_awa_cmc_lrn_mis_eo_2112_holdout",
+		"v": 18348,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"5488c8d9-bdef-4c94-9508-4d000e5e1966": {
 		"name": "dart_hitthelabseven_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13557,
