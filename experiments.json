@@ -10276,15 +10276,15 @@
 	},
 	"4bc764f2-f282-41e9-8aeb-15cb1f132d78": {
 		"name": "animated_emotes_for_affiliates",
-		"v": 17890,
+		"v": 18333,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active"
 			}
 		]
