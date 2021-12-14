@@ -12758,6 +12758,21 @@
 			}
 		]
 	},
+	"5d9c778b-a56c-4277-b7d9-bae0be512e40": {
+		"name": "dart_partner_interest_survey_batch5_email",
+		"v": 18367,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"5daee224-4c99-499f-b6e0-e308a5fa54f1": {
 		"name": "aws_roundtrip_latency_test_endpoint",
 		"v": 953,
