@@ -1652,6 +1652,21 @@
 			}
 		]
 	},
+	"0c76ec2e-fbdc-404f-aa52-7d13be117e76": {
+		"name": "dart_apac_twn_twitchrivalsxheartstone_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18361,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0c8aec5f-c2ff-442d-802c-4c4de7a20e3e": {
 		"name": "android_multi_partner_ad_verification",
 		"v": 14135,
@@ -20331,6 +20346,21 @@
 			}
 		]
 	},
+	"941e0c85-1fc3-49c4-94f0-a5a821a02304": {
+		"name": "dart_apac_twn_twitchrivalsxheartstone_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18362,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9440ea75-53aa-443a-8e3c-e8b1b09106f2": {
 		"name": "android_clipfinity_v1",
 		"v": 12777,
@@ -21513,6 +21543,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"9c21bc1c-b9ea-4244-8f5c-84a71ade1494": {
+		"name": "dart_apac_kor_twitchrivalsxheartstone_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18359,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -26434,6 +26479,21 @@
 			}
 		]
 	},
+	"c21bca57-e3c8-4337-938a-358dcc7c8b16": {
+		"name": "dart_apac_kor_twitchyearendparty_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18360,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c21cac02-2392-4644-84ed-37b2534af5c7": {
 		"name": "tvapps_androidtv_channel_recommendations",
 		"v": 9413,
@@ -27859,6 +27919,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"ccd9292e-7ac8-4cd2-a151-9dfadf7264b5": {
+		"name": "dart_apac_kor_twitchyearendparty_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18363,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
