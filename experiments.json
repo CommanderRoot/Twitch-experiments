@@ -30979,15 +30979,15 @@
 	},
 	"e637a011-c013-4520-9914-a50baed9b6b7": {
 		"name": "android_player_set_max_resolution",
-		"v": 17810,
+		"v": 18365,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "treatment"
 			}
 		]
