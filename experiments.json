@@ -30257,6 +30257,21 @@
 			}
 		]
 	},
+	"e088387d-1440-4375-9b2f-629694245004": {
+		"name": "dart_apac_kor_twitchrivalsxheartstone_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18358,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e0920b61-5c3e-46ff-82f8-2f9c989d4295": {
 		"name": "android_creator_mode_aa_test",
 		"v": 15622,
