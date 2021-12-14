@@ -16500,7 +16500,7 @@
 	},
 	"7653a391-6490-4efe-9dcc-894e7115563b": {
 		"name": "android_chat_clear_glide_resources",
-		"v": 18349,
+		"v": 18355,
 		"t": 1,
 		"groups": [
 			{
@@ -16510,6 +16510,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.2"
 			}
 		]
 	},
