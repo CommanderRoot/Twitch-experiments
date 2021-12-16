@@ -26035,6 +26035,21 @@
 			}
 		]
 	},
+	"bd34869c-8ad0-4bd1-a277-454e22f26678": {
+		"name": "dart_commercemerchdec_vwr_600_awa_cmc_buy_mis_emailonsite_2112_holdout",
+		"v": 18399,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"bd9234fc-3c40-45f6-a544-868478744ba7": {
 		"name": "featured_collection_disable",
 		"v": 6184,
