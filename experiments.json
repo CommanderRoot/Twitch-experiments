@@ -3392,6 +3392,21 @@
 			}
 		]
 	},
+	"1907b0aa-2c23-4f53-a5a7-dc8e38fd8afb": {
+		"name": "dart_contributorprogramme_vwr_603_sbs_cmc_sub_mis_email_2112_de_holdout",
+		"v": 18408,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1910923e-c92c-4cd8-ad4c-3adb69a4da17": {
 		"name": "dart_therealknossimedievalcamp_vwr_427_dav_cmc_wch_mis_email_2105_holdout",
 		"v": 15003,
@@ -3634,6 +3649,21 @@
 			{
 				"weight": 100,
 				"value": "no"
+			}
+		]
+	},
+	"1a62e1be-0a29-42bc-a475-5c59498281aa": {
+		"name": "dart_contributorprogramme_vwr_603_sbs_cmc_sub_mis_email_2112_it_holdout",
+		"v": 18410,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -11498,6 +11528,21 @@
 			}
 		]
 	},
+	"5308c0e4-3b34-46e7-8965-b5b0d130ef0e": {
+		"name": "dart_becharge_vwr_598_cmm_cmc_buy_mis_onsite_2112_holdout",
+		"v": 18411,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"533f9d45-9152-45a2-8ec7-dc44d40cce6f": {
 		"name": "ios_moat_3",
 		"v": 926,
@@ -11854,6 +11899,21 @@
 	"569bf3be-4af5-4cbf-8dbe-c072e41ada6c": {
 		"name": "dart_escapefromtarkovb_vwr_410_dav_cmc_wch_gmg_po_2105_holdout",
 		"v": 14785,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"56dfadcf-cfb6-4e29-977f-2cb8c4e1aa1e": {
+		"name": "dart_contributorprogramme_vwr_603_sbs_cmc_sub_mis_email_2112_es_holdout",
+		"v": 18409,
 		"t": 2,
 		"groups": [
 			{
@@ -20346,6 +20406,21 @@
 			}
 		]
 	},
+	"937d94c2-3ec5-4448-ac27-4d4e3c9097d5": {
+		"name": "dart_contributorprogramme_vwr_603_sbs_cmc_sub_mis_email_2112_fr_holdout",
+		"v": 18407,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"939f4935-0311-453b-b089-c35f89e6cccf": {
 		"name": "ios_tags_in_dashboard",
 		"v": 9167,
@@ -26237,6 +26312,21 @@
 	"bec19d20-ae79-44f3-a992-424db189a380": {
 		"name": "dart_holidaygiftcard_vwr_582_cmm_cmc_buy_mis_email_2112_fr_holdout",
 		"v": 18122,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"becae6d6-23c5-4cd9-b82a-2ff279d25593": {
+		"name": "dart_contributorprogramme_vwr_603_sbs_cmc_sub_mis_email_2112_en_holdout",
+		"v": 18406,
 		"t": 2,
 		"groups": [
 			{
