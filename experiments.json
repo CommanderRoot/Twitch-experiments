@@ -9442,6 +9442,21 @@
 			}
 		]
 	},
+	"446f3876-102c-46fb-93e7-867eeaf083b7": {
+		"name": "dart_decembergamingbridge_vwr_605_dav_cmc_wch_gmg_email_2112_de_holdout",
+		"v": 18413,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"44a503af-d77f-4f1d-9fa4-c99c5f783f9c": {
 		"name": "twilight_video_manager_release",
 		"v": 2850,
@@ -27895,6 +27910,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"cbe32c7c-71cd-44c7-aed3-889467aa51af": {
+		"name": "dart_decembergamingbridge_vwr_605_dav_cmc_wch_gmg_email_2112_en_holdout",
+		"v": 18412,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
