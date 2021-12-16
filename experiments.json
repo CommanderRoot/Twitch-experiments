@@ -7904,6 +7904,21 @@
 			}
 		]
 	},
+	"388c2a46-fd34-4120-bd5f-3c6cd5ded33b": {
+		"name": "dart_apac_twn_twitchstreamerbattleaoe_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
+		"v": 18414,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"389bc9ca-3e37-45fb-a88c-08400d8c938d": {
 		"name": "ios_vast_min_supported_major_version",
 		"v": 16843,
@@ -29387,6 +29402,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"d618be6a-fbc1-4d30-957f-21e44d993996": {
+		"name": "dart_apac_twn_twitchstreamerbattleaoe_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18415,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
