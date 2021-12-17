@@ -6186,21 +6186,6 @@
 			}
 		]
 	},
-	"2ca08de9-4595-4023-bd02-11039c249af3": {
-		"name": "dart_primedaymerch0611_onsite_holdout",
-		"v": 15332,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"2ca1c35c-fdbe-4b82-a1e2-33b9e3cffe90": {
 		"name": "ios_viewer_level_ads_enabled",
 		"v": 11332,
@@ -21222,21 +21207,6 @@
 	"9982577c-99f7-49fb-b6e9-0499eb91ed1f": {
 		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_it_holdout",
 		"v": 17113,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"998df2c6-5613-4a65-bed3-c7270377b68d": {
-		"name": "dart_junepromo_vwr_444_sbs_cmc_buy_mis_oe_2106_fr_holdout",
-		"v": 15346,
 		"t": 2,
 		"groups": [
 			{
