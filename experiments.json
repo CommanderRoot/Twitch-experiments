@@ -1230,21 +1230,6 @@
 			}
 		]
 	},
-	"088552a6-9ea5-416f-8efd-e0e905a69295": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_it_holdout",
-		"v": 15489,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"088f409b-3e9d-4ebe-aeb7-4df12f825f6f": {
 		"name": "surestream_rollout_uwp",
 		"v": 7141,
@@ -3253,21 +3238,6 @@
 			}
 		]
 	},
-	"18a0d932-81ab-4b0f-9c40-4051aea7fe8b": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_fr_holdout",
-		"v": 15488,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"18ab7b83-d793-4ac8-858c-99f4dc59a931": {
 		"name": "dart_animatedemotes_ctr_418_awa_cmc_non_mis_onsite_2107_holdout",
 		"v": 15819,
@@ -3440,21 +3410,6 @@
 	"1952fbec-d7d0-4c87-b822-872badf67820": {
 		"name": "dart_apac_twn_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_email_2111_holdout",
 		"v": 18016,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"1967126a-1819-48ff-a46e-61b614e12571": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_de_holdout",
-		"v": 15479,
 		"t": 2,
 		"groups": [
 			{
@@ -5129,21 +5084,6 @@
 			{
 				"weight": 100,
 				"value": "variant0"
-			}
-		]
-	},
-	"24bc1ebc-eaaa-4185-b15a-56db6088f542": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_es_holdout",
-		"v": 15482,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -13579,21 +13519,6 @@
 			}
 		]
 	},
-	"631da59e-298b-4cb1-ad52-2ef6919023f9": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_it_holdout",
-		"v": 15481,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"6326771d-52c4-4005-848f-842511727d82": {
 		"name": "ios_gql_actions_api",
 		"v": 11714,
@@ -14132,21 +14057,6 @@
 			{
 				"weight": 100,
 				"value": "allow_v10.9"
-			}
-		]
-	},
-	"66266618-5669-47b8-b367-491e7b98ae43": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_fr_holdout",
-		"v": 15480,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -14883,21 +14793,6 @@
 			}
 		]
 	},
-	"6ab61a09-637c-4784-9dbe-286dc9b70e90": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_de_holdout",
-		"v": 15487,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"6ac5539d-a622-4c75-a09a-7798591a78c5": {
 		"name": "ios_watch_party_2019",
 		"v": 9690,
@@ -15494,21 +15389,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"6f472d02-b2c7-4859-88b5-ac6971a21a44": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_en_holdout",
-		"v": 15491,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -17187,21 +17067,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"7ac27307-2c77-4c58-a8f7-5a3961eb27bb": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_onsite_2106_es_holdout",
-		"v": 15490,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -32919,21 +32784,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"f4528a7a-9f29-485b-a2c5-15e30b65a183": {
-		"name": "dart_junepromoreminder_vwr_444_sbs_cmc_buy_mis_email_2106_en_holdout",
-		"v": 15478,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
