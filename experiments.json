@@ -4743,6 +4743,21 @@
 			}
 		]
 	},
+	"22924577-c2f5-4135-974e-5edc1e9cc992": {
+		"name": "dart_lastmingiftcard_vwr_613_cmm_cmc_buy_mis_email_2112_i_holdout",
+		"v": 18433,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"22c0dc72-b108-449b-9a22-9a12f90c1ba2": {
 		"name": "dart_pathofexile_vwr_477_dav_cmc_wch_gmg_email_2107_holdout",
 		"v": 16039,
