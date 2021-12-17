@@ -365,21 +365,6 @@
 			}
 		]
 	},
-	"022a16e4-d157-4f1b-b26e-9d5e11955b35": {
-		"name": "dart_twn_apacsubtember_vwr_0_cmm_cmc_sub_mis_email_2109_holdout",
-		"v": 16827,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"022cf7ca-3dcc-4a29-b2ee-c220ada8bc2e": {
 		"name": "ios_new_followed_screen",
 		"v": 4276,
@@ -837,21 +822,6 @@
 			{
 				"weight": 3,
 				"value": "b"
-			}
-		]
-	},
-	"05f6d6d7-18ae-4af2-9c90-b342e2ebd4d4": {
-		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_en_holdout",
-		"v": 17105,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -8479,21 +8449,6 @@
 			}
 		]
 	},
-	"3d760608-4cec-4ca5-902a-3d9d25b556ba": {
-		"name": "dart_glitchcon1114firstsend_vwr_nrp315_awareness_cmc_wch_evt_peo_2011_holdout",
-		"v": 12486,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"3d8e616b-2904-4c5b-bcfd-1c3d3b2e66bd": {
 		"name": "ios_allow_playing_from_completed_state",
 		"v": 13742,
@@ -11036,21 +10991,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"508c1d20-b4ae-4ce1-9d1c-06d055252a74": {
-		"name": "dart_xfuncsubgeo_ctr_590_awa_trn_lrn_mis_onsite_2112_holdout",
-		"v": 18278,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -21723,21 +21663,6 @@
 			{
 				"weight": 100,
 				"value": "show_prompt"
-			}
-		]
-	},
-	"9c9f5b2c-cbf9-4ab4-b408-7e44f08723ff": {
-		"name": "dart_rolling_loud_launch_091020_holdout",
-		"v": 11665,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
 			}
 		]
 	},
@@ -33599,21 +33524,6 @@
 			{
 				"weight": 0,
 				"value": "active_2100"
-			}
-		]
-	},
-	"f829bc0d-88f7-41ef-92fb-75214264ed68": {
-		"name": "dart_codwarzoneshowdown_vwr_592_dav_cmc_wch_gmg_email_2112_holdout",
-		"v": 18330,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
