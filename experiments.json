@@ -19809,6 +19809,21 @@
 			}
 		]
 	},
+	"8e56ea64-f507-497e-8b7c-83f894f2a8fa": {
+		"name": "dart_lastmingiftcard_vwr_613_cmm_cmc_buy_mis_email_2112_e_holdout",
+		"v": 18432,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8e60fcf8-7696-4d1a-8b7f-645b82359f69": {
 		"name": "Cloudfront Live Test",
 		"v": 5710,
@@ -23163,6 +23178,21 @@
 			}
 		]
 	},
+	"a70c7fec-7ec9-42c6-8e4f-ece9c18a350f": {
+		"name": "dart_lastmingiftcard_vwr_613_cmm_cmc_buy_mis_email_2112_d_holdout",
+		"v": 18431,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a75597d9-15f1-48eb-b2cd-95f6dc107672": {
 		"name": "ios_mgst_video_b_frames_2",
 		"v": 10612,
@@ -25569,6 +25599,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"b80f38ef-fa1c-49ca-8080-50a41cebfee8": {
+		"name": "dart_lastmingiftcard_vwr_613_cmm_cmc_buy_mis_email_2112_f_holdout",
+		"v": 18430,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
