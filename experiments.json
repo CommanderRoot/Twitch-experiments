@@ -31811,6 +31811,21 @@
 			}
 		]
 	},
+	"e9ed0d14-5491-46f2-b70c-79331d47aaa0": {
+		"name": "android_ads_still_send_video_events",
+		"v": 18429,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"ea5d4917-98d3-49c0-8de9-18641e61bfbb": {
 		"name": "dart_rdeem5_vwr_503_sbs_cmc_sub_mis_email_2108_duplicate_email",
 		"v": 17720,
