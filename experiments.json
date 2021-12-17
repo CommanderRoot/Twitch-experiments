@@ -2183,21 +2183,6 @@
 			}
 		]
 	},
-	"102169cb-6d93-4f2e-b537-002234c7f3d8": {
-		"name": "dart_apac_anz_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
-		"v": 18056,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"1035c751-dbcc-4ca1-af8d-ba48ea2bbf4d": {
 		"name": "dart_festivefpgosuben_vwr_602_cmm_cmc_sub_mis_email_2112_holdout",
 		"v": 18402,
@@ -4928,21 +4913,6 @@
 			{
 				"weight": 1,
 				"value": "active_v79"
-			}
-		]
-	},
-	"238a8980-ede7-4f8d-b9af-c19313ab8bb4": {
-		"name": "dart_apac_anz_twitchbitfest_vwr_0_dav_trn_msc_gmg_email_2112_holdout",
-		"v": 18031,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -15063,21 +15033,6 @@
 			}
 		]
 	},
-	"6aeec109-a351-4de5-80e1-a34380013005": {
-		"name": "dart_apac_twn_twitchstreamerbattlexretrogames_vwr_0_dav_trn_flw_gmg_email_2111_holdout",
-		"v": 17982,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"6b4086ea-dcce-41c9-a57b-000fa9366e35": {
 		"name": "clips_you_were_right",
 		"v": 1722,
@@ -15339,21 +15294,6 @@
 			{
 				"weight": 100,
 				"value": "active_9.9"
-			}
-		]
-	},
-	"6cf0b720-a64c-4554-895a-2213cc43b19d": {
-		"name": "dart_apac_sea_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
-		"v": 18057,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -17928,6 +17868,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"7df9d628-4ed4-4918-a3e1-45a128d06b09": {
+		"name": "dart_decemberhold_vwr_576_dav_cmc_wch_gmg_email_2112_en_holdout",
+		"v": 18440,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 4,
+				"value": "holdout"
+			},
+			{
+				"weight": 96,
+				"value": "allowed"
 			}
 		]
 	},
@@ -24268,6 +24223,21 @@
 	"af1c518c-6843-4966-9fab-764418da4315": {
 		"name": "dart_Fortnite_Galileo_Event_Viewer_Audience_2_holdout",
 		"v": 8908,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"af2106a2-ce51-4c8e-b732-1b74bdd934b9": {
+		"name": "dart_lastmingiftcard_vwr_613_cmm_cmc_buy_mis_email_2112_n_holdout",
+		"v": 18436,
 		"t": 2,
 		"groups": [
 			{
@@ -34601,6 +34571,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"fec448ae-28b0-4ae5-adc9-25b3fd6ec92e": {
+		"name": "dart_decemberhold_vwr_576_dav_cmc_wch_gmg_email_2112_de_holdout",
+		"v": 18441,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
