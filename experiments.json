@@ -8702,21 +8702,6 @@
 			}
 		]
 	},
-	"402d3771-9a53-4ed9-8b9b-741fe2ebf1dd": {
-		"name": "dart_L10_Announce_Event_10_15_holdout",
-		"v": 8376,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"40322537-01de-41e2-b46e-0ac2e4a98035": {
 		"name": "ios_chromecast_player_core_test",
 		"v": 3435,
@@ -9672,21 +9657,6 @@
 			}
 		]
 	},
-	"479029de-733c-4929-b55d-2685c4e40dd1": {
-		"name": "dart_apac_kor_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_email_2111_holdout",
-		"v": 18015,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"47dc3b2f-05ac-43c9-9e94-1b8277d81ae6": {
 		"name": "dart_logic_push_holdout",
 		"v": 10959,
@@ -10057,21 +10027,6 @@
 			{
 				"weight": 0,
 				"value": "no-with-1.2"
-			}
-		]
-	},
-	"4ab1899a-ed5d-43d6-9bf7-4aff20a07460": {
-		"name": "dart_claugn_single_locale_holdout",
-		"v": 18251,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -13381,21 +13336,6 @@
 			{
 				"weight": 0,
 				"value": "yes"
-			}
-		]
-	},
-	"61e71844-0ff0-4469-a3a1-e7d2f33105fa": {
-		"name": "dart_apac_php_valorantchampions_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
-		"v": 18142,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -18391,21 +18331,6 @@
 			{
 				"weight": 1,
 				"value": "new_algorithm"
-			}
-		]
-	},
-	"8541cf8d-9d4b-4ef0-b8f3-6a512df3d656": {
-		"name": "dart_apac_php_valorantchampionsphpvsbrz_vwr_0_dav_trn_wch_gmg_onsite_2112_onsite",
-		"v": 18186,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -23921,21 +23846,6 @@
 			{
 				"weight": 100,
 				"value": "active_10.4"
-			}
-		]
-	},
-	"af377e56-2371-4c09-b0a9-833873faeb76": {
-		"name": "dart_apac_twn_halloween21inactives_vwr_0_dav_trn_lrn_gmg_email_2110_holdout",
-		"v": 17525,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
