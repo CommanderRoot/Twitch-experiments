@@ -78,21 +78,6 @@
 			}
 		]
 	},
-	"0063f313-4dc1-4a59-ad53-2c51dbf2499c": {
-		"name": "dart_streamaidgidle_holdout",
-		"v": 9694,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"00659916-818e-4bcb-9d68-6f3afbf860d7": {
 		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_de_holdout",
 		"v": 17060,
@@ -942,21 +927,6 @@
 			{
 				"weight": 10,
 				"value": "active_11.6"
-			}
-		]
-	},
-	"0699c9d5-feb4-4e55-9db0-b2c927fcca8a": {
-		"name": "dart_euro2020announcement_vwr_441_awa_cmc_lrn_spt_email_2106_es_holdout",
-		"v": 15316,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -2571,21 +2541,6 @@
 			}
 		]
 	},
-	"13b3a571-8511-4971-a411-d7a1214b1593": {
-		"name": "dart_fifa21toty_vwr_352_dav_cmc_wch_esp_pe_2101_holdout",
-		"v": 13230,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"13bab58e-d975-4d01-a255-d8925b440a77": {
 		"name": "ios_channel_points_predictions_spectator_mode",
 		"v": 14045,
@@ -2679,21 +2634,6 @@
 	"14733b39-44af-4963-8d44-f4657750b85f": {
 		"name": "dart_tnf_week_5_vwr_272_5mp_cmc_wch_tne_spt_peo_2011_holdout",
 		"v": 12380,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"1478ace1-3637-4e42-8fb9-5afca2451091": {
-		"name": "dart_worldcupasiaqualifiedkoreavsturkmenistan_vwr_0_dav_cmc_wch_spt_push_2105_holdout",
-		"v": 15104,
 		"t": 2,
 		"groups": [
 			{
@@ -4043,21 +3983,6 @@
 			}
 		]
 	},
-	"1e87827f-a8a4-44b5-bffb-e94cfff4eaaf": {
-		"name": "dart_valorantemea_vwr_302_flw_cmc_flw_evt_esp_email_2011_holdout",
-		"v": 12335,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"1e899717-a0a8-4922-b0e7-bb6d71e4ed20": {
 		"name": "android_mobile_promotions",
 		"v": 3589,
@@ -5378,21 +5303,6 @@
 			{
 				"weight": 0,
 				"value": "fully_disabled"
-			}
-		]
-	},
-	"27e670e9-e221-4a59-9cfe-8ad193d934fb": {
-		"name": "dart_jpcreatordiscoveryjul2021xnemo_good_vwr_0_dav_cmc_wch_gmg_email_2107_holdout",
-		"v": 15903,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -7262,21 +7172,6 @@
 			}
 		]
 	},
-	"3615bc9d-3e1f-44ac-8079-929fe9f23c9f": {
-		"name": "dart_dota2ti_groupreminder_holdout",
-		"v": 7655,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"36166916-6632-4896-83e6-17850ffe96be": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13550,
@@ -7825,21 +7720,6 @@
 			}
 		]
 	},
-	"3a09763e-a75b-4708-97e2-af3e229e5eac": {
-		"name": "dart_anzstreamerbattlexpummelparty_vwr_0_dav_trn_wch_gmg_push_2107_holdout",
-		"v": 15815,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"3a0a2a8e-4f85-4f3c-af2c-31d4a8217e11": {
 		"name": "android_drops_inventory_mw",
 		"v": 11363,
@@ -8344,21 +8224,6 @@
 			}
 		]
 	},
-	"3ea73879-f09e-4486-b0a0-b74d0a200799": {
-		"name": "dart_dota2ti_maineventrecap_holdout",
-		"v": 7732,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"3ec204f5-3307-4296-be1e-519a14a7b3bf": {
 		"name": "android_video_ads_first_party_api",
 		"v": 13061,
@@ -8499,21 +8364,6 @@
 			{
 				"weight": 50,
 				"value": "active"
-			}
-		]
-	},
-	"3f782e43-ccda-41e7-aa2f-db2243d88d20": {
-		"name": "dart_amazonmusicde_vwr_306_flw_cmc_flw_prt_msc_email_2011_holdout",
-		"v": 12318,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -11329,21 +11179,6 @@
 			},
 			{
 				"weight": 96,
-				"value": "allowed"
-			}
-		]
-	},
-	"53c5c6ee-65c5-4059-9944-2714789ea551": {
-		"name": "dart_amsot_session_8_holdout",
-		"v": 11507,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -16123,21 +15958,6 @@
 			}
 		]
 	},
-	"762f9b46-da7e-48bf-8c1e-83dcd81341b4": {
-		"name": "dart_celebrations_reminder_holdout",
-		"v": 10025,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "holdout"
-			},
-			{
-				"weight": 99,
-				"value": "allowed"
-			}
-		]
-	},
 	"7653a391-6490-4efe-9dcc-894e7115563b": {
 		"name": "android_chat_clear_glide_resources",
 		"v": 18355,
@@ -16295,21 +16115,6 @@
 	"777eb569-4670-48c6-910a-56ac01306d1f": {
 		"name": "dart_anzstreamerbattlexpummelpartyv1_vwr_0_flw_trn_flw_gmg_email_2107_holdout",
 		"v": 15817,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"778b57da-3dc3-407a-927d-8e0a4bdd50e3": {
-		"name": "dart_tnfweek11_vwr_272_dav_cmc_wch_tne_spt_peo_2012_holdout",
-		"v": 12954,
 		"t": 2,
 		"groups": [
 			{
@@ -18109,21 +17914,6 @@
 			}
 		]
 	},
-	"856ea473-1d5a-4af9-b79d-283a299a2212": {
-		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_saturday_holdout",
-		"v": 12386,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"85738ca8-17cc-4c68-b6b8-b1fab8417df9": {
 		"name": "logged_out_notifications",
 		"v": 8619,
@@ -19197,7 +18987,7 @@
 	},
 	"8e69deeb-29b7-4a16-83c1-6577e1f0b41e": {
 		"name": "dart_amsot_session_8_email",
-		"v": 11508,
+		"v": 18526,
 		"t": 2,
 		"groups": [
 			{
@@ -21593,21 +21383,6 @@
 			}
 		]
 	},
-	"a0a3d1d7-5a72-4fee-8093-ee9ba0025857": {
-		"name": "dart_twitchrivals_en_valorant_620_pushemail_frozen_holdout",
-		"v": 10419,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"a0c52aad-7c88-4340-8786-196fdafe6666": {
 		"name": "android_me_command",
 		"v": 14457,
@@ -23425,21 +23200,6 @@
 			}
 		]
 	},
-	"aeeb33e7-9cb1-4181-9e8a-e4bb2df18ba1": {
-		"name": "dart_top_streamers_1v1recstest_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 13499,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"af191167-5620-45cc-9db9-e601d3e93b6f": {
 		"name": "android_granddads_final",
 		"v": 7813,
@@ -23452,21 +23212,6 @@
 			{
 				"weight": 1,
 				"value": "control"
-			}
-		]
-	},
-	"af1c518c-6843-4966-9fab-764418da4315": {
-		"name": "dart_Fortnite_Galileo_Event_Viewer_Audience_2_holdout",
-		"v": 8908,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -23937,39 +23682,9 @@
 			}
 		]
 	},
-	"b17f549d-0861-4d8f-b70d-5adf7983daa6": {
-		"name": "dart_steamerbowl2_vwr_347_dav_cmc_wch_gmg_email_2101_holdout",
-		"v": 13074,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"b198f67e-12c0-4d3f-8477-4e9f4bfc910c": {
 		"name": "dart_thegatheringemea_vwr_423_awa_cmc_mis_gmg_email_2105_holdout",
 		"v": 15006,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"b19f6a73-8096-4b88-8861-b3800c3ba0e0": {
-		"name": "dart_jptwitchrivalsxescapefromtarkov_vwr_0_dav_cmc_wch_gmg_combo_2105_holdout",
-		"v": 14997,
 		"t": 2,
 		"groups": [
 			{
@@ -26078,21 +25793,6 @@
 			}
 		]
 	},
-	"c293f0a9-de8b-4fe2-a7d0-8c5862995c1c": {
-		"name": "dart_codwarzone_vwr_403_dav_cmc_wch_gmg_email_2107_holdout",
-		"v": 15880,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"c2a121ef-cd70-423f-8e65-de028477a140": {
 		"name": "ios_profile_redesign_tab_reorder",
 		"v": 3763,
@@ -27114,21 +26814,6 @@
 			}
 		]
 	},
-	"cac8eed8-750b-4aae-be3c-5716e7e507c5": {
-		"name": "dart_xboxevent_vwr_313_5mp_cmc_wch_tne_gmg_email_2011_holdout",
-		"v": 12420,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"cae6a476-6137-444e-aeba-a176453348f4": {
 		"name": "dart_djarii_vwr_290_dav_cmc_wch_tne_irl_pe_2010_holdout",
 		"v": 12218,
@@ -27457,21 +27142,6 @@
 			}
 		]
 	},
-	"cd0b4732-7d9e-471d-9bd8-54bf2c21bfcb": {
-		"name": "dart_gaelmonfils_vwr_323_flw_cmc_flw_spt_email_2011_holdout",
-		"v": 12622,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"cd0dd6d8-a3c6-4a71-a1d1-1e8c1b77a1d3": {
 		"name": "dart_rolling_loud_2_reminder_102920_holdout",
 		"v": 12267,
@@ -27483,21 +27153,6 @@
 			},
 			{
 				"weight": 94,
-				"value": "allowed"
-			}
-		]
-	},
-	"cd395a2a-60fa-4f08-83c4-196193a24236": {
-		"name": "dart_hitthelab3_vwr_344_dav_cmc_wch_gmg_pe_2101_holdout",
-		"v": 13271,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -28963,21 +28618,6 @@
 			},
 			{
 				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"d859382b-4059-423c-96d3-b6d7be4dc553": {
-		"name": "dart_sgf_indie_ejam_push_holdout",
-		"v": 10675,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
 				"value": "allowed"
 			}
 		]
@@ -31163,21 +30803,6 @@
 			}
 		]
 	},
-	"eb877083-1ef3-44ed-9676-294170895f93": {
-		"name": "dart_hellotest_holdout",
-		"v": 14951,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"eb8fc369-0b22-420f-b959-d2ddd8939dd9": {
 		"name": "dart_subtember_vwr_507_sbs_trn_sub_mis_email_2109_eu_holdout",
 		"v": 16744,
@@ -32461,21 +32086,6 @@
 			}
 		]
 	},
-	"f5cb0b3d-eed2-4c13-bda5-e982b80b3118": {
-		"name": "dart_internationalpricing_vwr_417_awa_cmc_lrn_mis_email_2107_holdout",
-		"v": 15962,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"f5ef9025-967b-4d52-9579-75c30949e98f": {
 		"name": "dart_cold_d21_top_streamers_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14482,
@@ -33350,21 +32960,6 @@
 			}
 		]
 	},
-	"fc9ab529-435d-42a4-8d5a-e316946cd774": {
-		"name": "dart_sgf_playstation_inactive_ps5games_holdout",
-		"v": 10497,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"fca667a1-0283-466e-b0b6-b4c6ef0cb304": {
 		"name": "dart_novembergamingbridgede_vwr_577_dav_cmc_wch_gmg_email_2111_holdout",
 		"v": 18090,
@@ -33602,21 +33197,6 @@
 			}
 		]
 	},
-	"fe574bc6-755a-4545-9a5a-b98222f7382f": {
-		"name": "dart_amsot_session2_holdout",
-		"v": 10896,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"fe5bad1f-521b-4ab9-9cd4-8161ef779550": {
 		"name": "crunchyroll_button",
 		"v": 1723,
@@ -33720,21 +33300,6 @@
 			{
 				"weight": 100,
 				"value": "active_11.0"
-			}
-		]
-	},
-	"ff634def-1c77-4a02-a287-eef069fedcda": {
-		"name": "dart_tr_valorant_latam_holdout",
-		"v": 10088,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
