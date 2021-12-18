@@ -8837,6 +8837,21 @@
 			}
 		]
 	},
+	"40dca150-f265-49c2-acba-e90216447329": {
+		"name": "dart_inactivefestivefpgosuben_vwr_602_cmm_cmc_sub_mis_email_2112_holdout",
+		"v": 18476,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"40f90081-bc8f-464a-b186-92e4ca6078a9": {
 		"name": "ios_stitched_ad_trigger",
 		"v": 8369,
@@ -33823,6 +33838,21 @@
 			{
 				"weight": 50,
 				"value": "active_12.1.2"
+			}
+		]
+	},
+	"fbf7a94a-5759-4b7f-84a9-02f5ed228eda": {
+		"name": "dart_inactivefestivefpgosuben_vwr_602_cmm_cmc_sub_mis_email_2112_email",
+		"v": 18477,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
