@@ -6334,6 +6334,21 @@
 			}
 		]
 	},
+	"3078975c-b142-4444-b168-cd8087d735e3": {
+		"name": "dart_apac_jpn_creatordiscoveryxfresh_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18558,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3096c7e1-a63f-4d34-9e7b-8ec0602d2c0c": {
 		"name": "ios_pc_media_services_reset_recovery",
 		"v": 15073,
@@ -7487,6 +7502,21 @@
 	"38191ff1-5c90-4883-89ba-74ddf493c9ea": {
 		"name": "dart_apac_tha_valorantchampionsquarterfinalsday2_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
 		"v": 18261,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"382a034d-97e6-4e74-9dfa-2e8b77c9cf1c": {
+		"name": "dart_apac_anz_creatordiscoveryxhardcore_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18563,
 		"t": 2,
 		"groups": [
 			{
@@ -12195,6 +12225,21 @@
 			}
 		]
 	},
+	"5bf6964f-c81d-412f-b9bb-ea1739f607d9": {
+		"name": "dart_apac_anz_creatordiscoveryxinfrequent_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18561,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5c116b3e-571b-4f25-9dab-6598a4c9a9a7": {
 		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13576,
@@ -12678,6 +12723,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"5f66e448-6199-42d6-b07f-aee7d6b5c33c": {
+		"name": "dart_apac_jpn_creatordiscoveryxhardcore_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18557,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -20174,6 +20234,21 @@
 			}
 		]
 	},
+	"97e26a50-4e44-496c-aed9-ef4d619d6d56": {
+		"name": "dart_apac_anz_creatordiscoveryxoccasional_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18560,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"97e60beb-25c9-4141-b121-1515e0bbbc9c": {
 		"name": "android_om_vaes_enabled_8_1_1",
 		"v": 14358,
@@ -20811,6 +20886,21 @@
 			}
 		]
 	},
+	"9be57761-e972-4052-9c07-9cad8aa96f47": {
+		"name": "dart_apac_anz_creatordiscoveryxconsistent_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18564,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9c1c65b0-607c-497c-b89f-cd14e84f08d0": {
 		"name": "android_gdpr_track_personal_data",
 		"v": 3840,
@@ -20942,6 +21032,21 @@
 			},
 			{
 				"weight": 94,
+				"value": "allowed"
+			}
+		]
+	},
+	"9cdf700d-07af-43f5-9479-756599e4e6db": {
+		"name": "dart_apac_jpn_creatordiscoveryxcore_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18559,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -21232,6 +21337,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"9f13f85d-5b1a-45e2-b0d7-158e0cadc9e3": {
+		"name": "dart_apac_jpn_creatordiscoveryxoccasional_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18555,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -21744,6 +21864,21 @@
 			},
 			{
 				"weight": 98,
+				"value": "allowed"
+			}
+		]
+	},
+	"a3c7974c-204c-4785-9069-7ce1c33d8690": {
+		"name": "dart_apac_jpn_creatordiscoveryxconsistent_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18553,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -22695,6 +22830,21 @@
 			}
 		]
 	},
+	"ab339327-fdcf-4462-b4c0-552986c11571": {
+		"name": "dart_apac_jpn_creatordiscoveryxinfrequent_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18556,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ab4a7c72-1d7a-4961-80d4-e7d2f69780a2": {
 		"name": "dart_apac_ido_valorantchampionsquarterfinals_vwr_0_dav_trn_flw_gmg_onsite_2112_holdout",
 		"v": 18227,
@@ -23042,6 +23192,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"ae2325ec-13a9-4eb7-b51d-c99a4bc69c0f": {
+		"name": "dart_apac_anz_creatordiscoveryxfresh_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18565,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -28592,6 +28757,21 @@
 			}
 		]
 	},
+	"d7d275e7-853a-4eb4-afb4-ded0e805a478": {
+		"name": "dart_apac_jpn_creatordiscoveryxborn_vwr_0_dav_trn_wch_gmg_email_2112_r1_holdout",
+		"v": 18554,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d82e3cd2-0481-4287-8d54-129f3913d87d": {
 		"name": "android_offline_channel_page",
 		"v": 10482,
@@ -29431,6 +29611,21 @@
 	"dfc00cb5-901a-4af0-acbf-cfce4b837044": {
 		"name": "dart_esocceraidoptin_vwr_521_dav_cmc_wch_esp_email_2109_holdout",
 		"v": 17115,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"e0390498-48cc-4ce3-bc57-1e5ffdfa3929": {
+		"name": "dart_apac_anz_creatordiscoveryxborn_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18562,
 		"t": 2,
 		"groups": [
 			{
@@ -31354,6 +31549,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"ef2668bb-3153-47ee-bb96-5b8873673ca1": {
+		"name": "dart_apac_anz_creatordiscoveryxcore_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
+		"v": 18566,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
