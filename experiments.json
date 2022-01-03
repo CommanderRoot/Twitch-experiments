@@ -2528,7 +2528,7 @@
 	},
 	"13adc3f7-830c-485a-aa5e-91a5771813f9": {
 		"name": "android_creator_mode_segment_a",
-		"v": 17655,
+		"v": 18599,
 		"t": 2,
 		"groups": [
 			{
@@ -2536,8 +2536,12 @@
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_12.1"
+			},
+			{
+				"weight": 50,
+				"value": "active_12.2"
 			}
 		]
 	},
@@ -20440,7 +20444,7 @@
 	},
 	"98bd3766-7a20-45f1-80ea-5299c557b9ff": {
 		"name": "android_creator_mode_segment_b",
-		"v": 17656,
+		"v": 18600,
 		"t": 2,
 		"groups": [
 			{
@@ -20448,8 +20452,12 @@
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_12.1"
+			},
+			{
+				"weight": 50,
+				"value": "active_12.2"
 			}
 		]
 	},
@@ -26347,7 +26355,7 @@
 	},
 	"c5166e9f-2bac-4063-a3b8-7d06b70bf330": {
 		"name": "android_creator_mode",
-		"v": 17788,
+		"v": 18601,
 		"t": 2,
 		"groups": [
 			{
@@ -26357,6 +26365,10 @@
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.2"
 			}
 		]
 	},
