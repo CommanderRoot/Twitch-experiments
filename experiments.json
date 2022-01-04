@@ -4810,7 +4810,7 @@
 	},
 	"23f22968-bfea-42a2-b461-f409508473b9": {
 		"name": "android_creator_mode",
-		"v": 18606,
+		"v": 18607,
 		"t": 2,
 		"groups": [
 			{
@@ -4820,6 +4820,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.2"
 			}
 		]
 	},
