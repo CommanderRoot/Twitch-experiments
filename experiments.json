@@ -20857,6 +20857,21 @@
 			}
 		]
 	},
+	"9a94bece-0302-4f0b-aacd-43c43fbf3153": {
+		"name": "dart_commintroexperimentlowerpriority_ctr_584_awa_cmc_lrn_mis_onsite_2201_holdout",
+		"v": 18647,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9aaa4575-3524-424c-961c-dc877d073a05": {
 		"name": "mobile_web_native_interstitial",
 		"v": 9940,
