@@ -22744,6 +22744,21 @@
 			}
 		]
 	},
+	"a9bfd2b5-c847-4675-b1c8-84de3f14d9db": {
+		"name": "ios_creator_mode_segment_b",
+		"v": 18659,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"a9f5ebce-01af-4958-add9-0ce080e86302": {
 		"name": "dart_japanstreamerbattlesxwitchit1_vwr_0_dav_cmc_wch_gmg_push_2105_holdout",
 		"v": 14502,
@@ -32189,6 +32204,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"f41b6f9e-2975-4c11-a5d1-0b50d95a4504": {
+		"name": "ios_creator_mode_segment_a",
+		"v": 18658,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
