@@ -9639,6 +9639,21 @@
 			}
 		]
 	},
+	"49a53db8-3be5-429c-a646-64217a17ed9c": {
+		"name": "dart_reactivationemail1_vwr_587_dav_cmc_wch_mis_email_2112_holdout",
+		"v": 18662,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"49a91a65-7ab4-4369-9d93-1ceadce3197c": {
 		"name": "dart_gaymingawards_vwr_555_awa_cmc_gmg_email_2111_holdout",
 		"v": 17650,
