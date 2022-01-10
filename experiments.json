@@ -4695,6 +4695,21 @@
 			}
 		]
 	},
+	"23278c5a-1999-4da7-9ac7-0dc8c92bc454": {
+		"name": "dart_recurringsubsdeprecationru_vwr_519_awa_trn_lrn_mis_email_2201_holdout",
+		"v": 18663,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2352d0b6-7692-49f1-9f8d-88e6cc47994b": {
 		"name": "android_rollout_vod_uploads",
 		"v": 803,
