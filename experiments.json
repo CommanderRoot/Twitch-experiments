@@ -257,11 +257,11 @@
 	},
 	"01501b3e-11b1-4447-8753-0e30698f0790": {
 		"name": "android_mgst_ivs_ingest_tester",
-		"v": 17845,
+		"v": 18666,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 75,
 				"value": "control"
 			},
 			{
@@ -279,6 +279,10 @@
 			{
 				"weight": 5,
 				"value": "active_30"
+			},
+			{
+				"weight": 5,
+				"value": "active_raw"
 			}
 		]
 	},
