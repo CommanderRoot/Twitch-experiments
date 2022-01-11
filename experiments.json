@@ -1797,6 +1797,21 @@
 			}
 		]
 	},
+	"0d71d06a-dab6-4d6c-992b-c4bd4cda5adc": {
+		"name": "android_mgst_brb_scene_global",
+		"v": 18673,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.2"
+			}
+		]
+	},
 	"0d91438c-c3ee-4efc-8e27-d2bc7436c919": {
 		"name": "ios_unified_access_token",
 		"v": 13723,
