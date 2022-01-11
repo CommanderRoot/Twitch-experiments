@@ -1269,6 +1269,21 @@
 			}
 		]
 	},
+	"0945f560-aa94-40a7-83ac-a5618cd02c9f": {
+		"name": "android_ads_video_ad_request_from_client",
+		"v": 18672,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_12.2"
+			}
+		]
+	},
 	"096252ea-5fc8-43c1-868a-d5c686b11742": {
 		"name": "ios_web_login_disable_implicit_flow",
 		"v": 4193,
