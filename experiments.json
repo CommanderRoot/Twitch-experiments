@@ -11372,6 +11372,21 @@
 			}
 		]
 	},
+	"53c3db96-c412-46f8-9bbc-a48ef28b8ab7": {
+		"name": "ios_ads_loudness_normalization",
+		"v": 18685,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v12.2"
+			}
+		]
+	},
 	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
 		"name": "live_qos_model",
 		"v": 10429,
