@@ -8210,6 +8210,25 @@
 			}
 		]
 	},
+	"3d32f8cd-fc2d-4fa0-b629-d83a19c38c30": {
+		"name": "android_multioption_predictions",
+		"v": 18671,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"3d8e616b-2904-4c5b-bcfd-1c3d3b2e66bd": {
 		"name": "ios_allow_playing_from_completed_state",
 		"v": 13742,
