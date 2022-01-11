@@ -17531,21 +17531,6 @@
 			}
 		]
 	},
-	"7fe5c460-d644-423a-ae97-44cde7e969bb": {
-		"name": "android_autohost_2",
-		"v": 18424,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
-			}
-		]
-	},
 	"8036e036-569d-459b-82df-c049f466f410": {
 		"name": "ios_browse_updates",
 		"v": 9179,
