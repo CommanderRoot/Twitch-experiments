@@ -6033,6 +6033,21 @@
 			}
 		]
 	},
+	"2b94b079-4362-4f38-b963-0e06485c944a": {
+		"name": "dart_tslettercommunity_ctr_625_awa_trn_non_mis_email_2201_holdout",
+		"v": 18695,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2bb9900d-b5bf-4f8e-bf2d-3efdb3320a32": {
 		"name": "ios_following_hosted_channels",
 		"v": 8715,
