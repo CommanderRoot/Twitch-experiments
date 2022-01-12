@@ -31560,6 +31560,21 @@
 			}
 		]
 	},
+	"ec808c52-e8fc-4ce4-be1c-0f8a8ebc99e7": {
+		"name": "android_mgst_network_health_tracking",
+		"v": 18698,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.2"
+			}
+		]
+	},
 	"ec99d720-8cf7-4737-ad0d-35b46b6ee676": {
 		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
 		"v": 13403,
