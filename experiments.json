@@ -18197,6 +18197,21 @@
 			}
 		]
 	},
+	"85377449-4495-45b9-a580-13d4ffdad6be": {
+		"name": "dart_frenchbrandwelcome1_vwr_615_awa_cmc_lrn_mis_email_2112_holdout",
+		"v": 18691,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"85738ca8-17cc-4c68-b6b8-b1fab8417df9": {
 		"name": "logged_out_notifications",
 		"v": 8619,
