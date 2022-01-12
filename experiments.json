@@ -23162,6 +23162,21 @@
 			}
 		]
 	},
+	"aba2b33e-351b-486e-b94f-97457f34d76f": {
+		"name": "dart_frenchbrandwelcome2_vwr_615_awa_cmc_lrn_mis_email_2112_holdout",
+		"v": 18692,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"abcdf2e9-45df-40e0-8410-065e257458f6": {
 		"name": "dart_twitch_gift_card_2_102320_holdout",
 		"v": 12212,
@@ -31346,6 +31361,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"eb8f907f-d652-4677-9a2f-4d9e9c4e06cc": {
+		"name": "dart_frenchbrandwelcome3_vwr_615_awa_cmc_lrn_mis_email_2112_holdout",
+		"v": 18693,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
