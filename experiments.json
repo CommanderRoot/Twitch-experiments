@@ -10109,12 +10109,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 18670,
+		"v": 18687,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-c6d73e.pdx01.abs.hls.ttvnw.net/v1/segment/CqUrp1cQJUXKxD8kC_Lr4Qo5JCcbNxCTP8AwyMTjtvrWvzyA0nwVgReXjwYmhwu2nNbEGyhtWyz8EvvWALUrZ8FPVt-JJHUSEBQ0JOiJHQHu2mcNm_kaWiEQOub4u4DbAzz0KsddjVRRneElE06WOoePWA3ycK0IVzJ5L1ajF55GePoqZ9XLy4If1R8Hff3Wti1VNGPnKQjA0SfuC-ayZgnbo9ujznfL-4xlYSKtO3rOo4sehedgwtlWStDwYE21L1t_0hcZD8muBbczNsb9W_KCnJO1c_LkzpmFyYDl5atlMv2AxYokzmHXI_jIHIbidZ0R7yCiuKEk8N2rKJt_q3pe1HbWeVWuLkT09WLGdPs37VbqAsj_hiEdibEbIpzUECmFowz7f2ZHoUlL_kzEwLQ1ep9ihQ_QfsJqNewMJwZIc2M8MKjCj5CfWge3pJnUtDfHPRurTMKmIwUQDXzp-mol34k8yfoDciietQcZYBm230_H8IeRgoLVAfoJwamkqQGF_JssuT6XsRjlXLMeH1Hz95gpzwX0rAQfjFDIi_WLUwceiT4Y0Xv3aAxApo7H2a9VETfJQw2knmFSyoK6Aqmg8DGf93QVmxHSr-5Y6fD7z2KEzz_pQrGggIhXS2VzrTuip_YwRzWg7TEHT8pAdmrFEjrjjgHHKHx_7tNdqd07HI4Anx6qkvnO0r1zr-_IU6YBawM72p7HG7tq7WX0ZwWVZ28ZrSqzLAcerihz-CrlbZONw-DIfi8BKIZL6E4uY-faTB4XekZdHipZyVETH.ts"
+				"value": "//video-edge-e6bcad.pdx01.abs.hls.ttvnw.net/v1/segment/CpE8D8C6TXgj2YmMjtik79TR2ffqTaAXz7J-D91C29DmS9lK_xmjWWatlMhjsAvbfjemIivxt6md9EeO_9XXgTLE05sdMaSXIavv-AzX8G8Myj_TLdfHxPd5sNRzb-58gg_TEydhVaDuV9KB8L3FDPLy8neOhgbrAfOABCQBp49H9NYlppuX4cFaOMiLknsLTDoSYiYVXh3Gb4kOjlCPfMhlMdc4UtTfgxgH22H9hgrP7XkMx4bRc-MMJUrG1oPXw3HMR830RgufnSCXS04HfBTa4xqB61vkkH1fomhKqOByrHsqU5yOlHLgIsXs0kYHWdJ35somvarjhTy5r6aQIWGcg_x8WLM9A8mBXyYhBb87-gCuAxgwIuT0aWHZBvbmbSg39FEwI54wOqT8f6nEFOoAT8E9KiN8fSUIacOeXuVcxRJ8IWUyF7iac9JWVyZkhSyjk4dw4sF4vR-knYPrBjaSNxRmeASD3nRbg-k681Zl2_i_6Hxp5q8gfAAcr2RTolkb96PugOEHC4uGI0SeATgbBh_UCHEDfksHSdDAGY7qT9AoJXmuU6MHRqdnI-wV4x6D7riqO09TQDiWglu78xZAoRhYNXVERGE_c2K3PN6yJa5c7DlxXlka_uelV2zwqp7_mLTRuf5x-UBE0kJxTSvIxWrsdDBZhEEWElMcP-aVALxLZzTXTi3GO6hq5Ac8_husks2y2NwDt9XiR4TaQRdPjAet6I9kayqHQ1zYr6rsKg1qzDHp8ty47VYBntPmhYVTOJJ2Bf.ts"
 			}
 		]
 	},
@@ -25849,6 +25849,21 @@
 	"bfebe099-b19f-4f69-aa71-11a85f3e55e8": {
 		"name": "dart_apac_twn_valorantchampions_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
 		"v": 18167,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"c003acba-fd58-4adf-a02b-d1f98bb4a8a8": {
+		"name": "dart_dyinglight2dying2know_vwr_622_dav_cmc_wch_gmg_pushonsite_2201_holdout",
+		"v": 18686,
 		"t": 2,
 		"groups": [
 			{
