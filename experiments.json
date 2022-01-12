@@ -21956,6 +21956,21 @@
 			}
 		]
 	},
+	"a2289d53-fd5f-4a16-aada-fad893dd6431": {
+		"name": "dart_communityleaderem1_vwr_604_sbs_cmc_sub_mis_email_2112_holdout",
+		"v": 18694,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a2303f76-3110-4ccf-93bd-74bd1dceed3b": {
 		"name": "tvapps_androidtv_legacy_recommendations",
 		"v": 10175,
