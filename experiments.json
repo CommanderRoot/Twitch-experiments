@@ -27905,7 +27905,7 @@
 	},
 	"ce1c93c5-fa7f-4a4e-a306-f72e64849da7": {
 		"name": "community_moments_android",
-		"v": 17769,
+		"v": 18717,
 		"t": 1,
 		"groups": [
 			{
@@ -27919,6 +27919,10 @@
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.2"
 			}
 		]
 	},
