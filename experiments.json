@@ -17524,6 +17524,21 @@
 			}
 		]
 	},
+	"7ec631d5-4ce2-47c0-848c-ca8fe79357dc": {
+		"name": "ios_multioption_predictions",
+		"v": 18716,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"7ecd2720-5df0-4111-8060-58335f050866": {
 		"name": "ios_native_subs_iap",
 		"v": 9170,
