@@ -6063,6 +6063,21 @@
 			}
 		]
 	},
+	"2beaeabe-0ff2-4130-aa0b-ba9aa69ddd91": {
+		"name": "dart_tnf0116_vwr_514_dav_cmc_wch_spt_push_2201_holdout",
+		"v": 18722,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2c169854-dedd-41d0-8e55-a20ce75424ec": {
 		"name": "leftnav_li_similarity_isolated",
 		"v": 12162,
@@ -26087,6 +26102,21 @@
 			{
 				"weight": 0,
 				"value": "enabled"
+			}
+		]
+	},
+	"c0eee42a-81f2-48be-b3d8-5787a10f55b5": {
+		"name": "dart_tnf0116_vwr_514_dav_cmc_wch_spt_emailonsite_2201_holdout",
+		"v": 18721,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
