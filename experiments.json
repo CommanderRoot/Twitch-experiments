@@ -4590,6 +4590,21 @@
 			}
 		]
 	},
+	"21c9c6e1-161e-428e-abc6-e4b3a68fe9fa": {
+		"name": "android_ads_multi_stream_mafs_decision",
+		"v": 18726,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "active_12.3"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"21cff3a1-c757-4790-a3df-2d8634818af9": {
 		"name": "android_use_streamlined_pipeline_on_android_5_or_6",
 		"v": 18242,
