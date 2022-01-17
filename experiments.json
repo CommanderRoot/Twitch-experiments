@@ -29491,6 +29491,21 @@
 			}
 		]
 	},
+	"d9769dd0-9fb2-4e34-87e4-1adc5c421df8": {
+		"name": "dart_eslandawards_vwr_629_mis_cmc_wch_mis_email_2201_holdout",
+		"v": 18730,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d97b6b6f-5f4f-4655-b212-0bb21c2bcec9": {
 		"name": "ios_use_new_copy_for_legacy_gdpr",
 		"v": 13473,
