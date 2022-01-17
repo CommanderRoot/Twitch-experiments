@@ -18962,6 +18962,21 @@
 			}
 		]
 	},
+	"8bfc6243-7b05-408e-a91a-fc77c9f36ba4": {
+		"name": "dart_reactivationemail2_vwr_587_dav_cmc_wch_mis_email_2112_holdout",
+		"v": 18733,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8c4ef9dd-5c74-46eb-bb58-aecf627fba98": {
 		"name": "ios_swift_video_player_controller",
 		"v": 8457,
