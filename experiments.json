@@ -29676,6 +29676,21 @@
 			}
 		]
 	},
+	"dacb12ed-b9e2-4263-9faf-98eba66620c1": {
+		"name": "dart_communityleaderem2_vwr_604_sbs_cmc_sub_mis_email_2112_holdout",
+		"v": 18732,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"dae00e3f-330a-41af-a79c-9d71f099f1b3": {
 		"name": "dart_rollingloud_day2_onsite_holdout",
 		"v": 11683,
