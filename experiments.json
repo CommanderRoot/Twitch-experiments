@@ -9846,6 +9846,21 @@
 			}
 		]
 	},
+	"49afd59d-63a4-40f5-b89c-aec311d64139": {
+		"name": "dart_rivalslsbowlcombine_ctr_628_awa_cmc_str_esp_email_2201_holdout",
+		"v": 18739,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"49cc2917-d8a3-42bc-96b5-2c58b680c92b": {
 		"name": "ios_artificial_latency_discover",
 		"v": 16875,
@@ -10279,6 +10294,21 @@
 	"4c11d69d-64f3-4b2a-a5f3-81f5ab253310": {
 		"name": "dart_ecommedfpsogiftsublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_de_holdout",
 		"v": 15269,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"4d09690e-251b-4a6a-86f9-d92a937db860": {
+		"name": "dart_rivalslsbowlcombine_vwr_628_dav_cmc_wch_esp_email_2201_holdout",
+		"v": 18740,
 		"t": 2,
 		"groups": [
 			{
