@@ -1833,15 +1833,15 @@
 	},
 	"0d71d06a-dab6-4d6c-992b-c4bd4cda5adc": {
 		"name": "android_mgst_brb_scene_global",
-		"v": 18673,
+		"v": 18738,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.2"
 			}
 		]
