@@ -9848,7 +9848,7 @@
 	},
 	"49afd59d-63a4-40f5-b89c-aec311d64139": {
 		"name": "dart_rivalslsbowlcombine_ctr_628_awa_cmc_str_esp_email_2201_holdout",
-		"v": 18739,
+		"v": 18742,
 		"t": 2,
 		"groups": [
 			{
@@ -10308,7 +10308,7 @@
 	},
 	"4d09690e-251b-4a6a-86f9-d92a937db860": {
 		"name": "dart_rivalslsbowlcombine_vwr_628_dav_cmc_wch_esp_email_2201_holdout",
-		"v": 18740,
+		"v": 18743,
 		"t": 2,
 		"groups": [
 			{
@@ -13375,6 +13375,21 @@
 			{
 				"weight": 0,
 				"value": "yes"
+			}
+		]
+	},
+	"6217ac35-cd2e-4a3a-a214-d08b37da49c2": {
+		"name": "ios_riddle_bits",
+		"v": 18741,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
