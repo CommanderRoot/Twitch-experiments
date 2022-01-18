@@ -17862,6 +17862,21 @@
 			}
 		]
 	},
+	"816073db-4494-401d-b80d-e57537de578d": {
+		"name": "dart_apac_twn_woohooredenvelope_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
+		"v": 18736,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"81744e89-ce2b-448a-b205-6c41f18fb153": {
 		"name": "android_mgst_mobile_games_browse",
 		"v": 9165,
@@ -24251,6 +24266,21 @@
 			{
 				"weight": 50,
 				"value": "enabled"
+			}
+		]
+	},
+	"b165cfe9-55ba-49df-b90f-4943392eec1c": {
+		"name": "dart_apac_twn_woohooredenvelope_vwr_0_dav_trn_wch_gmg_email_2201_holdout",
+		"v": 18735,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
