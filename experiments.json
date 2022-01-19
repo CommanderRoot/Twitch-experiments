@@ -3681,7 +3681,7 @@
 	},
 	"1b1249a5-8f97-4585-81ac-85d6b0a4f977": {
 		"name": "ios_multi_ad_format_parse_strategy",
-		"v": 18714,
+		"v": 18758,
 		"t": 1,
 		"groups": [
 			{
@@ -3690,11 +3690,15 @@
 			},
 			{
 				"weight": 0,
-				"value": "parse_multi_ad_format_v11.6"
+				"value": "parse_maf_filter_v12.2"
 			},
 			{
 				"weight": 0,
 				"value": "parse_multi_ad_format_v11.8"
+			},
+			{
+				"weight": 0,
+				"value": "parse_multi_ad_format_v12.2"
 			}
 		]
 	},
@@ -25216,16 +25220,16 @@
 	},
 	"b8843dac-7688-430b-a10b-f3e38c7de2cf": {
 		"name": "android_disable_dynamic_security_provider",
-		"v": 18595,
+		"v": 18756,
 		"t": 1,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_11.7"
 			}
 		]
