@@ -7778,6 +7778,21 @@
 			}
 		]
 	},
+	"382fc221-9cc1-466d-97f9-dcb319206497": {
+		"name": "android_channel_experiment_bucketing_test",
+		"v": 18783,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"383ae8ec-2ed1-464e-8ff2-c67c981e077a": {
 		"name": "tvapps_xboxone_feature_tags",
 		"v": 9777,
