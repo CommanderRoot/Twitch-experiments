@@ -2101,6 +2101,21 @@
 			}
 		]
 	},
+	"0fb50dfe-15d4-4645-8762-371f28344672": {
+		"name": "dart_rainbowsix_vwr_633_dav_cmc_drt_gmg_email_2201_es_holdout",
+		"v": 18770,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0fd0ab7f-b90b-4573-81ab-d0b28fd62242": {
 		"name": "cc_xo_avs",
 		"v": 5761,
@@ -3661,6 +3676,21 @@
 			{
 				"weight": 100,
 				"value": "active_v9.0"
+			}
+		]
+	},
+	"1abf75c1-3d94-4960-8e6c-130a72898c27": {
+		"name": "dart_rainbowsix_vwr_633_dav_cmc_drt_gmg_email_2201_de_holdout",
+		"v": 18769,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -25392,6 +25422,21 @@
 			}
 		]
 	},
+	"b9976500-f2a2-4dd6-b42c-87c6dc397a92": {
+		"name": "dart_rainbowsix_vwr_633_dav_cmc_drt_gmg_email_2201_en_holdout",
+		"v": 18767,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ba0614e4-88d2-4279-8e82-57cd07b248c7": {
 		"name": "tvapps_ps4_feature_tags",
 		"v": 9781,
@@ -28516,6 +28561,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"d191a6e5-1a67-433f-a18e-13fec06157b0": {
+		"name": "dart_rainbowsix_vwr_633_dav_cmc_drt_gmg_email_2201_it_holdout",
+		"v": 18772,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -33792,6 +33852,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"fc26ce05-8dc8-4ce5-b365-7e1eb2c20c3a": {
+		"name": "dart_rainbowsix_vwr_633_dav_cmc_drt_gmg_email_2201_fr_holdout",
+		"v": 18768,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
