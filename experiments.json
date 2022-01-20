@@ -2733,6 +2733,21 @@
 			}
 		]
 	},
+	"14c00ac0-3d6c-49c1-852b-5a67f546c5af": {
+		"name": "ios_gql_interceptors",
+		"v": 18775,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "legacy"
+			},
+			{
+				"weight": 0,
+				"value": "interceptors"
+			}
+		]
+	},
 	"14f1211b-6aa3-4a8f-87a0-128fb2ce7d29": {
 		"name": "ios_redeem_5_get_6",
 		"v": 11595,
