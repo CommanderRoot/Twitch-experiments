@@ -8355,15 +8355,15 @@
 	},
 	"3c2f9b16-2024-4e1d-a6d6-c864e7c2e314": {
 		"name": "android_prime_gaming_activation_brazil",
-		"v": 16553,
+		"v": 18796,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "active_11.4"
 			}
 		]
@@ -31975,15 +31975,15 @@
 	},
 	"ec808c52-e8fc-4ce4-be1c-0f8a8ebc99e7": {
 		"name": "android_mgst_network_health_tracking",
-		"v": 18698,
+		"v": 18795,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.2"
 			}
 		]
