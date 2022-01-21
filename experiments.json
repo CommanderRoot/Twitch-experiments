@@ -3173,15 +3173,15 @@
 	},
 	"17620d7e-3772-4fea-9edf-6f4860369379": {
 		"name": "creatorhome_ffa_stream_progress",
-		"v": 18084,
+		"v": 18794,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
