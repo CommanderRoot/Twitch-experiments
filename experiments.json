@@ -5399,6 +5399,21 @@
 			}
 		]
 	},
+	"26ef2d4e-44aa-4547-a4f5-9cd1e70f7adb": {
+		"name": "dart_apac_twn_woohooredenvelopeday1_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
+		"v": 18791,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"27036b5f-8b74-4da1-9bad-a6eaa25a4c33": {
 		"name": "navi_li_similarity",
 		"v": 17628,
@@ -6560,6 +6575,21 @@
 			},
 			{
 				"weight": 94,
+				"value": "allowed"
+			}
+		]
+	},
+	"306a5c1a-9e83-47b6-be3f-d759130ad253": {
+		"name": "dart_apac_twn_woohooredenvelopetype2_vwr_0_dav_trn_wch_gmg_2ndemail_2201_holdout",
+		"v": 18793,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -30266,6 +30296,21 @@
 			}
 		]
 	},
+	"de1476a2-890f-4882-babc-d928847e2f4a": {
+		"name": "dart_apac_twn_woohooredenvelopeday3_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
+		"v": 18792,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"de582455-1d02-48e4-9ff5-9fbe029ad978": {
 		"name": "onaffiliate_twitch_prime_experiment",
 		"v": 5082,
@@ -32903,6 +32948,21 @@
 			{
 				"weight": 100,
 				"value": "active_v9.4"
+			}
+		]
+	},
+	"f4c80a75-b35f-486a-ba83-1123a8f07b65": {
+		"name": "dart_apac_twn_twitchrivalsxapexlegends_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
+		"v": 18790,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
