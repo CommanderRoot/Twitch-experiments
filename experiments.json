@@ -7954,6 +7954,21 @@
 			}
 		]
 	},
+	"397ebb80-5523-4618-a3bb-067657f29081": {
+		"name": "dart_apac_sea_intelworldopenbeijingdota2_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
+		"v": 18806,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"399ab0eb-44da-4d41-86fe-7527e5d1a4b4": {
 		"name": "dart_briancoxdreamjam_vwr_564_dav_cmc_wch_mis_oe_2111_holdout",
 		"v": 17732,
@@ -32998,7 +33013,7 @@
 	},
 	"f4c80a75-b35f-486a-ba83-1123a8f07b65": {
 		"name": "dart_apac_twn_twitchrivalsxapexlegends_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
-		"v": 18790,
+		"v": 18805,
 		"t": 2,
 		"groups": [
 			{
