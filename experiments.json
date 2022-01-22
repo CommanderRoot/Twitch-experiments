@@ -19236,6 +19236,21 @@
 			}
 		]
 	},
+	"8c8ed96b-b3db-40ae-95c2-ef107b67df42": {
+		"name": "dart_apac_twn_woohooredenvelopeday2_vwr_0_dav_trn_wch_gmg_push_2201_r1_holdout",
+		"v": 18810,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8cd19976-40be-47fa-b09f-14955459235e": {
 		"name": "dart_anzstreamerbattleapril2021v1gamefollowers_vwr_0_dav_cmc_wch_gmg_email_2104_holdout",
 		"v": 14201,
@@ -20620,6 +20635,21 @@
 	"96a5b940-9bad-49e7-9961-6841c17cc26e": {
 		"name": "dart_ecommedfpsoprimesublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_fr_holdout",
 		"v": 15272,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"96c38bfd-f0bc-467f-816d-a000ab99d8f7": {
+		"name": "dart_apac_twn_woohooredenvelopeday4_vwr_0_dav_trn_wch_gmg_push_2201_r1_holdout",
+		"v": 18811,
 		"t": 2,
 		"groups": [
 			{
