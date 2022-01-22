@@ -7956,7 +7956,7 @@
 	},
 	"397ebb80-5523-4618-a3bb-067657f29081": {
 		"name": "dart_apac_sea_intelworldopenbeijingdota2_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
-		"v": 18806,
+		"v": 18807,
 		"t": 2,
 		"groups": [
 			{
@@ -23553,6 +23553,21 @@
 			{
 				"weight": 100,
 				"value": "yes"
+			}
+		]
+	},
+	"ac31d909-1197-4109-8c2c-49be06579052": {
+		"name": "dart_apac_twn_woohooredenvelopeday2_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
+		"v": 18808,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
