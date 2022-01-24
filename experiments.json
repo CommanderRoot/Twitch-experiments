@@ -32017,6 +32017,21 @@
 			}
 		]
 	},
+	"ec443914-74db-47cf-81a9-613da6617b25": {
+		"name": "dart_reactivationemail3_vwr_587_dav_cmc_wch_mis_email_2112_holdout",
+		"v": 18814,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ec47a1b5-2f8d-4b56-b874-71b05b8c03b2": {
 		"name": "dart_amsot_session3_holdout",
 		"v": 10987,
