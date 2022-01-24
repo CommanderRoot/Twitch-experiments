@@ -22162,6 +22162,21 @@
 			}
 		]
 	},
+	"a1027ba0-4ad5-46e6-9b3f-78301e61b4bf": {
+		"name": "reduced_chatters_list",
+		"v": 18822,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "in-exp"
+			},
+			{
+				"weight": 100,
+				"value": "out-exp"
+			}
+		]
+	},
 	"a116bfa6-ae61-431a-9531-1aecab049e26": {
 		"name": "dart_welcomeemail3_vwr_551_dav_cmc_wch_mis_email_2111_email",
 		"v": 18325,
