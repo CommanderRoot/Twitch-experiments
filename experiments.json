@@ -7810,15 +7810,15 @@
 	},
 	"382fc221-9cc1-466d-97f9-dcb319206497": {
 		"name": "android_channel_experiment_bucketing_test",
-		"v": 18783,
+		"v": 18816,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -10349,15 +10349,15 @@
 	},
 	"4bc764f2-f282-41e9-8aeb-15cb1f132d78": {
 		"name": "animated_emotes_for_affiliates",
-		"v": 18333,
+		"v": 18817,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
