@@ -14195,7 +14195,7 @@
 	},
 	"65f4469b-6f7c-45bc-88ea-557031f5d3dc": {
 		"name": "ios_twitch_radio_v2",
-		"v": 18635,
+		"v": 18851,
 		"t": 1,
 		"groups": [
 			{
@@ -14203,11 +14203,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "content_promotion_disabled"
 			}
 		]
