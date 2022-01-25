@@ -20068,15 +20068,15 @@
 	},
 	"91c2ab2e-8c1c-4b86-a49c-b30197a599b4": {
 		"name": "android_prime_gaming_activation_tier_1_regions",
-		"v": 17986,
+		"v": 18840,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "active_12.0"
 			}
 		]
@@ -26363,6 +26363,21 @@
 	"bf7123de-b4a5-4263-8a7d-bbcb326d4109": {
 		"name": "dart_japanstreamerbattlesxwitchit2_vwr_0_dav_cmc_wch_gmg_push_2105_holdout",
 		"v": 14501,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"bf771047-34d5-4d87-b7c4-3d9f44f30322": {
+		"name": "dart_rivalslsbowlcombine2_vwr_636_dav_cmc_wch_esp_emailonsitepush_2201_holdout",
+		"v": 18841,
 		"t": 2,
 		"groups": [
 			{
