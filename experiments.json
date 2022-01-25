@@ -18106,6 +18106,21 @@
 			}
 		]
 	},
+	"813e8af9-54ed-499b-9652-08a6fc862ce6": {
+		"name": "android_mgst_just_chatting",
+		"v": 18844,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"8140d736-e8dd-49bc-b7cb-0d5b65d4cd5b": {
 		"name": "mobile_native_chat_filter_existing_users",
 		"v": 9186,
