@@ -23845,6 +23845,21 @@
 			}
 		]
 	},
+	"ad583673-daa5-4fde-bccc-147f814aae2a": {
+		"name": "dart_frozen_2014_forward_us_en_012622_holdout",
+		"v": 18875,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ad5f316b-0a87-44a6-9348-f6b6ee36b0bb": {
 		"name": "REQUIEM",
 		"v": 2094,
@@ -31680,23 +31695,23 @@
 	},
 	"e82cf894-8810-4990-ae9e-6a3011da6999": {
 		"name": "android_stream_subs_cta_landscape_mode",
-		"v": 18697,
+		"v": 18874,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "prediction_or_poll_started_12.2"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "commerce_spent_increased_12.2"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "chat_activity_increased_12.2"
 			}
 		]
