@@ -10731,6 +10731,21 @@
 			}
 		]
 	},
+	"4dfeba21-fcf1-4cf2-9ac0-3cf3c38af573": {
+		"name": "dart_frozencorreceted_2014_forward_us_en_012622_holdout",
+		"v": 18876,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4e10cdad-1f9d-4556-8617-122179c39d9b": {
 		"name": "ios_age_gating",
 		"v": 11564,
