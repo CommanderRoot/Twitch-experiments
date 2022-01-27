@@ -844,6 +844,21 @@
 			}
 		]
 	},
+	"062cf5c8-69b8-4645-9917-e29a37a60651": {
+		"name": "dart_rocketleaguesanta_vwr_638_cmm_cmc_ulk_mis_email_221_holdout",
+		"v": 18881,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0637bccd-2a5b-49c7-9d01-0c431d14fc25": {
 		"name": "promotions_force_user_override",
 		"v": 10200,
