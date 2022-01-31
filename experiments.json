@@ -17468,16 +17468,16 @@
 	},
 	"7c09b4dd-4385-4730-b870-af29c927bad8": {
 		"name": "ios_mb_chat_local_notifications",
-		"v": 18680,
+		"v": 18902,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
