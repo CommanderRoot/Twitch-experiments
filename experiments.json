@@ -14415,6 +14415,25 @@
 			}
 		]
 	},
+	"66e3abc3-40b3-419f-8ab1-94056d3c7460": {
+		"name": "android_sub_modal_landscape",
+		"v": 18922,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_no_25_subs"
+			}
+		]
+	},
 	"66eef7be-86bb-4ca1-92ee-3a22099b6cc6": {
 		"name": "dart_PUBG1122E_holdout",
 		"v": 8725,
