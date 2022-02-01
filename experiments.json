@@ -1251,15 +1251,15 @@
 	},
 	"092e4b89-0b1f-400a-9f27-058b80c9b337": {
 		"name": "ios_mb_chat_local_notifications_global",
-		"v": 18681,
+		"v": 18923,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "chat_messages_only"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "disabled"
 			},
 			{
@@ -11186,15 +11186,15 @@
 	},
 	"50b12ef8-a7a9-45d0-a0dd-91e8d6a66086": {
 		"name": "android_mgst_marquee_chat_experience_v2",
-		"v": 16545,
+		"v": 18924,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_11.4"
 			}
 		]
