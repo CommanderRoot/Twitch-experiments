@@ -19353,6 +19353,21 @@
 			}
 		]
 	},
+	"8b40a4f9-710b-47d0-928d-dee4b3b1dfda": {
+		"name": "android_multi_month_subs",
+		"v": 18918,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"8b8b3edb-b4eb-4b10-b94c-7a56fcdb81d4": {
 		"name": "dart_santaeffect_vwr_344_dav_cmc_wch_gmg_pe_2101_holdout",
 		"v": 13110,
