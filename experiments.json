@@ -14173,15 +14173,15 @@
 	},
 	"64e00532-71de-4dcd-874f-dfa4d503f4d0": {
 		"name": "android_mafs_decision",
-		"v": 18879,
+		"v": 18934,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_12.2"
 			}
 		]
