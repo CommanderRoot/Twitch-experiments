@@ -4529,6 +4529,21 @@
 			}
 		]
 	},
+	"20c6caab-d7e4-4960-9461-9e0e5b0b92c8": {
+		"name": "dart_fpsogiftsubd7_vwr_619_cmm_cmc_sub_mis_email_2201_email",
+		"v": 18936,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			}
+		]
+	},
 	"20c91448-ea6a-46ec-b065-fda344865a71": {
 		"name": "dart_cold_d21_top_streamers_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14480,
@@ -21027,6 +21042,21 @@
 			}
 		]
 	},
+	"9791840f-9225-4ebe-88a4-1cc5535bca17": {
+		"name": "dart_fpsogiftsubd1_vwr_619_cmm_cmc_sub_mis_email_2201_email",
+		"v": 18938,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"979aa473-ad9d-4940-bbf6-693acf6f6ac1": {
 		"name": "dart_euro2020keyevent1_vwr_445_dav_cmc_wch_spt_email_2106_dach_holdout",
 		"v": 15310,
@@ -26955,6 +26985,21 @@
 			}
 		]
 	},
+	"c1d1723a-73ee-4a15-85c4-63193e236615": {
+		"name": "dart_fpsogiftsubd1_vwr_619_cmm_cmc_sub_mis_email_2201_holdout",
+		"v": 18937,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c1d758e5-b4cb-46b0-84d3-7b8688c039cc": {
 		"name": "android_logged_out",
 		"v": 8721,
@@ -27654,6 +27699,21 @@
 	"c6b1b32a-7766-48bf-9eab-5ef2ba05c958": {
 		"name": "dart_lol_extension_reinstall_holdout",
 		"v": 10313,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"c6bb364d-4a5a-4940-9bae-eec9caf2f691": {
+		"name": "dart_fpsogiftsubd7_vwr_619_cmm_cmc_sub_mis_email_2201_holdout",
+		"v": 18935,
 		"t": 2,
 		"groups": [
 			{
