@@ -429,21 +429,6 @@
 			}
 		]
 	},
-	"03711288-6208-434a-bc00-10bd8c11a665": {
-		"name": "dart_hindsight1217jam_vwr_339_awa_cmc_lrn_mis_email_2012_holdout",
-		"v": 12964,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"0394f9e5-4153-4424-94b8-69de64717aea": {
 		"name": "dart_nrs_rainbow6_sunday_holdout",
 		"v": 14720,
@@ -1413,21 +1398,6 @@
 			{
 				"weight": 100,
 				"value": "hint-picker"
-			}
-		]
-	},
-	"0a7548e2-bcb5-4f0d-b29d-3c9ea2aaff8f": {
-		"name": "dart_escapefromtarkovrivals_vwr_415_dav_cmc_wch_gmg_email_2105_holdout",
-		"v": 14649,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -14807,21 +14777,6 @@
 			}
 		]
 	},
-	"6ab096bf-a7f2-4af1-bc79-f9ceaa2b482c": {
-		"name": "dart_posteventlando_vwr_378_dav_cmc_wch_gmg_email_2103_holdout",
-		"v": 13778,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 30,
-				"value": "holdout"
-			},
-			{
-				"weight": 70,
-				"value": "allowed"
-			}
-		]
-	},
 	"6ac5539d-a622-4c75-a09a-7798591a78c5": {
 		"name": "ios_watch_party_2019",
 		"v": 9690,
@@ -15064,21 +15019,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"6cc11c68-2465-4111-bf90-5f5d96cb1718": {
-		"name": "dart_twitchrivalslol4_vwr_398_dav_cmc_wch_gmg_push_2104_holdout",
-		"v": 14464,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -16229,21 +16169,6 @@
 	"74d3c4d1-c2c2-4839-88ff-64becd2e0b08": {
 		"name": "dart_arcane_vwr_554_dav_cmc_wch_gmg_pe_2111_de_holdout",
 		"v": 17671,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"751146aa-29a4-4799-81af-dcb39f6576da": {
-		"name": "dart_move_forward_music_101420_holdout",
-		"v": 12076,
 		"t": 2,
 		"groups": [
 			{
@@ -21927,21 +21852,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"9fd95269-c3b3-4771-9588-cb4fc31fa76f": {
-		"name": "dart_internationalpricingmiddleeast_ctr_417_awa_cmc_lrn_mis_email_2107_holdout",
-		"v": 16099,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 3,
-				"value": "holdout"
-			},
-			{
-				"weight": 97,
-				"value": "allowed"
 			}
 		]
 	},
@@ -31119,21 +31029,6 @@
 			}
 		]
 	},
-	"e5174135-e7ea-4f0b-9528-d56c6dc0140f": {
-		"name": "dart_escapefromtarkovrivals_vwr_415_dav_cmc_wch_gmg_email_2105_ru_holdout",
-		"v": 14650,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"e5a6585e-8863-471e-b290-f7338b84ab31": {
 		"name": "dart_cold_d7_top_streams_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 16763,
@@ -31301,21 +31196,6 @@
 			{
 				"weight": 0,
 				"value": "active_8.9.1"
-			}
-		]
-	},
-	"e67ddefc-ffdd-43d4-b0d7-83f754052ac4": {
-		"name": "dart_euro2020announcement_vwr_441_awa_cmc_lrn_spt_email_2106_fr_holdout",
-		"v": 15315,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
