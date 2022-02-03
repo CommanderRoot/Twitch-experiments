@@ -399,6 +399,21 @@
 			}
 		]
 	},
+	"0325cd28-a487-478d-afba-a6f240ae8d5d": {
+		"name": "dart_dyinglight2launch_vwr_651_dav_cmc_wch_gmg_email_2202_it_holdout",
+		"v": 18986,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"034c69e4-45d6-4e68-9c1e-7709459a9301": {
 		"name": "dart_welcomeheroimagetest_vwr_463_dav_cmc_wch_mis_email_2107_holdout",
 		"v": 17180,
@@ -14141,6 +14156,21 @@
 			}
 		]
 	},
+	"651ab5b8-013d-43bb-ac73-9a79a0dc6dc0": {
+		"name": "dart_dyinglight2launch_vwr_651_dav_cmc_wch_gmg_email_2202_en_holdout",
+		"v": 18985,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6522baf6-dc69-4461-bed6-a41cfe1f4213": {
 		"name": "ios_chat_input_mode_followers_only",
 		"v": 7125,
@@ -18847,6 +18877,21 @@
 			}
 		]
 	},
+	"879609d3-d5b1-4df2-8334-77c1d472a440": {
+		"name": "dart_dyinglight2launch_vwr_651_dav_cmc_wch_gmg_email_2202_fr_holdout",
+		"v": 18984,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"87ceedcc-f8ac-4822-8bf5-1744193d1a7a": {
 		"name": "dart_kor_localsubpricing_vwr_0_cmm_cmc_sub_mis_email_2108_holdout",
 		"v": 16538,
@@ -21185,21 +21230,6 @@
 			{
 				"weight": 100,
 				"value": "rules_v2"
-			}
-		]
-	},
-	"990d0476-ca5a-4acc-91c5-1059046ec333": {
-		"name": "dart_anzstreamerbattlesmidcampaign_vwr_0_dav_cmc_wch_gmg_push_2104_holdout",
-		"v": 14211,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -27741,6 +27771,21 @@
 			}
 		]
 	},
+	"c7c29f5b-5b65-494d-86fe-710c50a284cc": {
+		"name": "dart_dyinglight2launch_vwr_651_dav_cmc_wch_gmg_email_2202_eses_holdout",
+		"v": 18983,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c7f532d2-817c-4677-811c-b611767c57ac": {
 		"name": "tvapps_ps4_player_native",
 		"v": 9128,
@@ -31814,21 +31859,6 @@
 			}
 		]
 	},
-	"e8126944-c0a4-44e2-9ff2-15dcb645d6ee": {
-		"name": "dart_nobru_has_arrived_inactive_holdout",
-		"v": 10019,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"e82cf894-8810-4990-ae9e-6a3011da6999": {
 		"name": "android_stream_subs_cta_landscape_mode",
 		"v": 18874,
@@ -34224,6 +34254,21 @@
 			{
 				"weight": 0,
 				"value": "new"
+			}
+		]
+	},
+	"fb360407-ca65-4ec0-94d4-01ab1dda4d5b": {
+		"name": "dart_dyinglight2launch_vwr_651_dav_cmc_wch_gmg_email_2202_de_holdout",
+		"v": 18987,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
