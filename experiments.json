@@ -9707,6 +9707,21 @@
 			}
 		]
 	},
+	"458befcc-0936-4816-9dcf-391d6723e478": {
+		"name": "dart_commercemerchfeb_vwr_641_cmm_cmc_buy_mis_onsite_2202_holdout",
+		"v": 18962,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"459dfd2f-4585-4d55-9897-ef61bc84c455": {
 		"name": "ios_following_full_bleed",
 		"v": 15447,
