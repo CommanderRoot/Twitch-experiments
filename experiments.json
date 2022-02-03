@@ -6912,15 +6912,16 @@
 	},
 	"3421e6e0-aa9e-4738-8b60-73cb6eac8dea": {
 		"name": "sidenav_active_gift",
-		"v": 18947,
+		"v": 19052,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "variant"
 			}
 		]
