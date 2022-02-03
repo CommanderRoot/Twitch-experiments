@@ -6039,16 +6039,16 @@
 	},
 	"2c03c1b9-3562-4381-913f-6c282cb646f3": {
 		"name": "ios_fmp_tracking",
-		"v": 18916,
+		"v": 19051,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "legacy LatencyTracker"
+				"value": "legacy"
 			},
 			{
 				"weight": 0,
-				"value": "new FMPLatencyTracker"
+				"value": "full_fmp"
 			}
 		]
 	},
