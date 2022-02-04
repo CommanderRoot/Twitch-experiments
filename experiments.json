@@ -23258,6 +23258,21 @@
 			}
 		]
 	},
+	"abec43e1-2e7c-42df-ac32-e630b712a7f4": {
+		"name": "dart_announcements_categoryholdout",
+		"v": 19057,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
+				"value": "allowed"
+			}
+		]
+	},
 	"abf37d97-87ab-4029-b200-318663191b50": {
 		"name": "dart_newcreatorgbe2_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
 		"v": 13682,
@@ -34138,6 +34153,21 @@
 			{
 				"weight": 100,
 				"value": "active_11.0"
+			}
+		]
+	},
+	"feeb1a42-942d-4f35-af1e-fe83a6960ea6": {
+		"name": "dart_gaymingawards_vwr_646_awa_cmc_lrn_mis_email_2202_holdout",
+		"v": 19056,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
