@@ -3666,15 +3666,15 @@
 	},
 	"1b1249a5-8f97-4585-81ac-85d6b0a4f977": {
 		"name": "ios_multi_ad_format_parse_strategy",
-		"v": 18847,
+		"v": 19065,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "parse_client_ad_v11.4"
 			},
 			{
-				"weight": 40,
+				"weight": 50,
 				"value": "parse_maf_filter_v12.2"
 			},
 			{
@@ -3682,7 +3682,7 @@
 				"value": "parse_multi_ad_format_v11.8"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "parse_multi_ad_format_v12.2"
 			}
 		]
@@ -4263,6 +4263,21 @@
 			{
 				"weight": 0,
 				"value": "on"
+			}
+		]
+	},
+	"2008b8bd-cc87-479b-ae5d-78b99e558596": {
+		"name": "android_ads_maf_decision_12.3",
+		"v": 19064,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.3"
 			}
 		]
 	},
