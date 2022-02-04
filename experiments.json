@@ -3860,6 +3860,21 @@
 			}
 		]
 	},
+	"1c400df9-b9f7-4247-8168-94d3f56f55c4": {
+		"name": "dart_marketing_umbrella_holdout",
+		"v": 19061,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
+				"value": "allowed"
+			}
+		]
+	},
 	"1c420e48-a36d-4b2d-b244-b2af86eed0f6": {
 		"name": "dart_viewer_cp2077_twitchgaming_101520_onsite",
 		"v": 12091,
@@ -22342,6 +22357,21 @@
 			}
 		]
 	},
+	"a4ec3e60-5fe3-4d29-9c22-1e097d24a587": {
+		"name": "dart_lifecycle_categoryholdout",
+		"v": 19059,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
+				"value": "allowed"
+			}
+		]
+	},
 	"a4fe76cb-66cd-485c-920b-5d4f987734f6": {
 		"name": "dart_new_d5_top_games_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14434,
@@ -25818,6 +25848,21 @@
 			}
 		]
 	},
+	"bda2ecdf-99a8-4f06-a74b-b5f849649643": {
+		"name": "dart_offers_categoryholdout",
+		"v": 19060,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
+				"value": "allowed"
+			}
+		]
+	},
 	"bdb5c085-9f43-41f5-ac33-d58b41af2e5c": {
 		"name": "TWILIGHT_AAX_DISPLAY_DIRECTORY_M2",
 		"v": 16145,
@@ -27934,6 +27979,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"cd5099d1-29ca-4821-bf4c-4a063118fb0b": {
+		"name": "dart_events_categoryholdout",
+		"v": 19058,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
 				"value": "allowed"
 			}
 		]
