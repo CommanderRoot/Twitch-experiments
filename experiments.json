@@ -271,6 +271,21 @@
 			}
 		]
 	},
+	"0187ca6c-2ef6-429c-be3b-5b5fb9e1b005": {
+		"name": "ios_activity_performance",
+		"v": 19067,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"01b97c60-a202-4042-9f65-f22624ecff0d": {
 		"name": "dart_fpgo_existing_sub_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14726,
