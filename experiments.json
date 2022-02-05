@@ -13859,16 +13859,20 @@
 	},
 	"64e00532-71de-4dcd-874f-dfa4d503f4d0": {
 		"name": "android_mafs_decision",
-		"v": 18946,
+		"v": 19071,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_12.2"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.3"
 			}
 		]
 	},
