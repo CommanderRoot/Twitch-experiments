@@ -31341,23 +31341,23 @@
 	},
 	"e82cf894-8810-4990-ae9e-6a3011da6999": {
 		"name": "android_stream_subs_cta_landscape_mode",
-		"v": 19066,
+		"v": 19086,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "prediction_or_poll_started_12.2"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "commerce_spent_increased_12.2"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "chat_activity_increased_12.2"
 			}
 		]
