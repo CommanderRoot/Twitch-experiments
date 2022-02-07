@@ -1919,15 +1919,15 @@
 	},
 	"0e973b2f-ec91-4e73-944f-186cc24489d8": {
 		"name": "ios_community_moments",
-		"v": 17665,
+		"v": 19080,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -28234,7 +28234,7 @@
 	},
 	"ce1c93c5-fa7f-4a4e-a306-f72e64849da7": {
 		"name": "android_community_moments",
-		"v": 18723,
+		"v": 19078,
 		"t": 1,
 		"groups": [
 			{
@@ -28246,11 +28246,11 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_12.2"
 			}
 		]
