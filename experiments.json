@@ -4872,6 +4872,21 @@
 			}
 		]
 	},
+	"2357cefd-2a53-4640-8058-2c212a274bb1": {
+		"name": "dart_lostarkusfrozen_vwr_0_dav_cmc_wch_gmg_email_2202_holdout",
+		"v": 19115,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2364cdc3-fc64-40ce-917e-1c18dd744584": {
 		"name": "dart_coldd14_top_games_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 16767,
@@ -18281,6 +18296,21 @@
 	"85377449-4495-45b9-a580-13d4ffdad6be": {
 		"name": "dart_frenchbrandwelcome1_vwr_615_awa_cmc_lrn_mis_email_2112_holdout",
 		"v": 18691,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"8539e1c3-481a-4c56-8ebf-6d5c7a06e6fb": {
+		"name": "dart_lostarkus_vwr_0_dav_cmc_wch_gmg_email_2202_holdout",
+		"v": 19116,
 		"t": 2,
 		"groups": [
 			{
