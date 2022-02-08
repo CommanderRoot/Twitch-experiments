@@ -523,6 +523,21 @@
 			}
 		]
 	},
+	"03fd473b-0d36-409d-9f77-f8fd0703beed": {
+		"name": "dart_lostarklaunch_vwr_655_dav_cmc_wch_gmg_email_2202_holdout",
+		"v": 19109,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
 		"v": 12124,
