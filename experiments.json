@@ -34512,6 +34512,21 @@
 			}
 		]
 	},
+	"ff437345-e51e-4e56-9f6e-3026eed73e1a": {
+		"name": "dart_bhm2022_vwr_656_awa_cmc_lrn_mis_email_221_holdout",
+		"v": 19131,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ffb0b356-fd84-4d50-b1dd-9406d7cf49f9": {
 		"name": "dart_wintergday1_vwr_597_dav_cmc_wch_gmg_onsitepush_2112_holdout",
 		"v": 18254,
