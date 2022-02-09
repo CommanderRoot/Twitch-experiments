@@ -429,6 +429,21 @@
 			}
 		]
 	},
+	"0353758d-94f8-4587-a2fb-77367bfdc0e4": {
+		"name": "dart_fortnitedrops_vwr_630_dav_cmc_flw_gmg_email_2202_it_holdout",
+		"v": 19125,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0364d915-106c-4360-b245-083e9faf03ad": {
 		"name": "dart_tnf1216_vwr_514_dav_cmc_wch_spt_emailonsite_2112_holdout",
 		"v": 18428,
@@ -13025,6 +13040,21 @@
 			}
 		]
 	},
+	"5ed8e61f-82ed-4f14-ac0f-3da668bfd787": {
+		"name": "dart_fortnitedrops_vwr_630_dav_cmc_flw_gmg_email_2202_es_holdout",
+		"v": 19126,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5edaeb04-c517-4303-a684-91abd4e217e1": {
 		"name": "dart_apac_php_valorantchampionsphpvsbrz_vwr_0_dav_trn_wch_gmg_onsite_2112_holdout",
 		"v": 18185,
@@ -21467,6 +21497,21 @@
 	"9c6a5829-757c-4ad9-88d0-93c5c5495b13": {
 		"name": "dart_verizon_rivals_email_onsite_102220_holdout",
 		"v": 12207,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"9c7b335d-bdfb-4354-915b-eb1426deb110": {
+		"name": "dart_fortnitedrops_vwr_630_dav_cmc_flw_gmg_email_2202_en_holdout",
+		"v": 19124,
 		"t": 2,
 		"groups": [
 			{
