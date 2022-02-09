@@ -14529,6 +14529,21 @@
 			}
 		]
 	},
+	"6879cfdf-a44f-4190-a771-659310a022f0": {
+		"name": "ios_ads_aws_pinpoint",
+		"v": 19136,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_v12.4"
+			},
+			{
+				"weight": 100,
+				"value": "control_v12.4"
+			}
+		]
+	},
 	"687a9736-e089-4be1-bec6-7b440b601a8d": {
 		"name": "android_private_callouts_dart",
 		"v": 16527,
