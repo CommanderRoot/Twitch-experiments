@@ -23205,15 +23205,15 @@
 	},
 	"a93c264e-d28b-4cde-89df-3d47db663c39": {
 		"name": "android_chomments_chat_parsing",
-		"v": 19150,
+		"v": 19152,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_12.0"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
