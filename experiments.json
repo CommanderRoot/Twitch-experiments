@@ -22170,15 +22170,15 @@
 	},
 	"a1027ba0-4ad5-46e6-9b3f-78301e61b4bf": {
 		"name": "reduced_chatters_list",
-		"v": 18843,
+		"v": 19147,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "in-exp"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "out-exp"
 			}
 		]
