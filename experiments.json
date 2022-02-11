@@ -6178,15 +6178,15 @@
 	},
 	"2c03c1b9-3562-4381-913f-6c282cb646f3": {
 		"name": "ios_fmp_tracking",
-		"v": 19051,
+		"v": 19161,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "full_fmp"
 			}
 		]
