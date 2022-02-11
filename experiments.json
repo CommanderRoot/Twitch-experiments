@@ -1140,21 +1140,6 @@
 			}
 		]
 	},
-	"0835fbfc-1908-403a-b095-12904bbd3559": {
-		"name": "dart_minedraftshowdownsrivals_vwr_422_dav_cmc_wch_gmg_email_2105_es_holdout",
-		"v": 15040,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"0850e882-ca33-43ac-81a7-0652eedf283c": {
 		"name": "dart_celine_catapush_msg_4_holdout",
 		"v": 8814,
@@ -3423,21 +3408,6 @@
 			}
 		]
 	},
-	"192e7b64-e3af-4292-a405-3dfad6bfd6b2": {
-		"name": "dart_kortwitchrivalsdeadbydaylight_vwr_0_dav_cmc_wch_gmg_push_2104_holdout",
-		"v": 14199,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"1952fbec-d7d0-4c87-b822-872badf67820": {
 		"name": "dart_apac_twn_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_email_2111_holdout",
 		"v": 18016,
@@ -5403,21 +5373,6 @@
 			}
 		]
 	},
-	"269ad669-cd25-417f-9793-bb5f71a6a191": {
-		"name": "dart_hyperscape_emote_viewer_holdout",
-		"v": 11424,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"26c9f018-f78b-4f35-8cd1-67d44b9e5b88": {
 		"name": "android_user_appeals",
 		"v": 16566,
@@ -5750,21 +5705,6 @@
 			},
 			{
 				"weight": 97,
-				"value": "allowed"
-			}
-		]
-	},
-	"295bc7a3-2726-45d9-859f-9d7af07984d3": {
-		"name": "dart_thegathering1_vwr_423_dav_cmc_wch_gmg_push_2106_holdout",
-		"v": 15276,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -8535,21 +8475,6 @@
 			}
 		]
 	},
-	"3f0a8c29-8101-4325-878e-c02e550fd8fb": {
-		"name": "dart_euro2020keyevent8_vwr_445_dav_cmc_wch_spt_email_2106_de_holdout",
-		"v": 15654,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"3f25e02c-e0eb-49be-93ec-3a1e581df3b3": {
 		"name": "ios_theater_launch_jitter",
 		"v": 14209,
@@ -9836,21 +9761,6 @@
 	"487b852c-1b34-43ec-b2e8-3fd063c7fdd5": {
 		"name": "dart_fpso_gift_sub_reminder_localized_en_vwr_47941_cmm_cmc_sub_mis_email_201_holdout",
 		"v": 15558,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"48b9554f-ddf8-41f5-8a4b-47b14e6e8112": {
-		"name": "dart_gameawards_ctr_331_awa_cmc_str_gmg_email_2012_holdout",
-		"v": 12861,
 		"t": 2,
 		"groups": [
 			{
@@ -11419,21 +11329,6 @@
 			}
 		]
 	},
-	"52d610af-30ff-491b-a6cc-44c58f7e2a45": {
-		"name": "dart_thegathering_vwr_423_awa_cmc_mis_gmg_email_2105_holdout",
-		"v": 14996,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"52fddb9d-f51c-415c-8329-96eb7f464cbd": {
 		"name": "celebi_experiment",
 		"v": 9599,
@@ -12283,21 +12178,6 @@
 			{
 				"weight": 50,
 				"value": "active"
-			}
-		]
-	},
-	"597fdecd-06ff-4641-8ea5-a073526754f8": {
-		"name": "dart_korleagueoflegendschampions_vwr_0_dav_cmc_wch_gmg_push_2104_holdout",
-		"v": 14203,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -14120,6 +14000,21 @@
 			}
 		]
 	},
+	"65ab7676-cc96-49b6-8064-cbdaa7d8897f": {
+		"name": "dart_valentinesdaypromo_vwr_659_cmm_cmc_buy_mis_email_2202_de_holdout",
+		"v": 19182,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"65b0afe6-70e2-473e-8796-da2dfbdedcc6": {
 		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13540,
@@ -15029,21 +14924,6 @@
 	"6b554629-a198-46ff-a529-9fc260ab5d89": {
 		"name": "dart_streamerbowlii5_vwr_355_dav_cmc_wch_gmg_eo_2101_holdout",
 		"v": 13240,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"6b5a0cd8-8c68-4480-b090-59d1c77eccf7": {
-		"name": "dart_minedraftshowdownsrivals_vwr_422_dav_cmc_wch_gmg_email_2105_fr_holdout",
-		"v": 14773,
 		"t": 2,
 		"groups": [
 			{
@@ -20001,21 +19881,6 @@
 			}
 		]
 	},
-	"9143b15b-3c34-4344-9c94-1c9185a24b5a": {
-		"name": "dart_moving_forward_push_101820_holdout",
-		"v": 12115,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"91c2ab2e-8c1c-4b86-a49c-b30197a599b4": {
 		"name": "android_prime_gaming_activation_tier_1_regions",
 		"v": 18840,
@@ -22511,21 +22376,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"a3b0a9a6-17df-4d98-a8a7-91de75d1c6bb": {
-		"name": "dart_move_forward_reengage_101920_holdout",
-		"v": 12126,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 2,
-				"value": "holdout"
-			},
-			{
-				"weight": 98,
-				"value": "allowed"
 			}
 		]
 	},
@@ -26754,21 +26604,6 @@
 			}
 		]
 	},
-	"c229a97c-6802-4a66-b905-42498958f7bd": {
-		"name": "dart_codmobilespanishhighfinal_push",
-		"v": 8330,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"c22ba599-db9b-4ec8-a41a-6613f4331639": {
 		"name": "surestream_rollout_android_jp",
 		"v": 8259,
@@ -28374,21 +28209,6 @@
 			}
 		]
 	},
-	"cdb880fa-8ac3-448b-81b0-6e7751ee7947": {
-		"name": "dart_streamerbowl_vwr_337_dav_cmc_wch_gmg_email_2012_holdout",
-		"v": 12931,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"cdb91ab9-5b9a-462c-b5b8-23b24bcb26f4": {
 		"name": "dart_collectiveincubatoreoy_ctr_624_awa_cmc_non_msc_email_2112_holdout",
 		"v": 18570,
@@ -29010,6 +28830,21 @@
 			{
 				"weight": 100,
 				"value": "active_v8.2"
+			}
+		]
+	},
+	"d1d3cb3d-ba8a-4f2d-a4c5-e1c3dcb45d59": {
+		"name": "dart_valentinesdaypromo_vwr_659_cmm_cmc_buy_mis_email_2202_es_holdout",
+		"v": 19189,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -32495,6 +32330,21 @@
 			}
 		]
 	},
+	"ee8404c2-6344-4836-8cbf-7c8ce1a66c84": {
+		"name": "dart_valentinesdaypromo_vwr_659_cmm_cmc_buy_mis_email_2202_fr_holdout",
+		"v": 19176,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ee876010-0bad-4f76-af63-edb5b8393554": {
 		"name": "ios_dynamic_font",
 		"v": 9207,
@@ -32680,21 +32530,6 @@
 			{
 				"weight": 0,
 				"value": "graduate"
-			}
-		]
-	},
-	"eff9b1d5-2b8b-4ea0-b3cc-060c37036dd4": {
-		"name": "dart_ppp_complex_102620_holdout",
-		"v": 12228,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -34643,21 +34478,6 @@
 	"ffb0b356-fd84-4d50-b1dd-9406d7cf49f9": {
 		"name": "dart_wintergday1_vwr_597_dav_cmc_wch_gmg_onsitepush_2112_holdout",
 		"v": 18254,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"ffcc37db-72ff-4e7c-b495-e342a8c53291": {
-		"name": "dart_wildrift_vwr_397_dav_cmc_wch_gmg_push_2104_holdout",
-		"v": 14248,
 		"t": 2,
 		"groups": [
 			{
