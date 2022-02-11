@@ -29571,15 +29571,15 @@
 	},
 	"d8f10844-9492-4c46-b939-f9575a13dfce": {
 		"name": "ios_discover_swiftui",
-		"v": 19045,
+		"v": 19221,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
