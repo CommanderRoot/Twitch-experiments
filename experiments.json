@@ -12629,7 +12629,7 @@
 	},
 	"5dd5836b-16d3-4cd2-9612-1b3635aa22c9": {
 		"name": "ios_video_ad_api",
-		"v": 19243,
+		"v": 19253,
 		"t": 1,
 		"groups": [
 			{
@@ -12641,11 +12641,11 @@
 				"value": "amazon_third_party"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "twitch_ad_edge"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "twitch_ad_edge_multi_ad_formats"
 			}
 		]
