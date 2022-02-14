@@ -11331,7 +11331,7 @@
 	},
 	"53c3db96-c412-46f8-9bbc-a48ef28b8ab7": {
 		"name": "ios_ads_loudness_normalization",
-		"v": 18944,
+		"v": 19241,
 		"t": 1,
 		"groups": [
 			{
@@ -11343,7 +11343,7 @@
 				"value": "active_v12.2"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v12.3"
 			}
 		]
@@ -12584,15 +12584,15 @@
 	},
 	"5db9c4b9-2234-480c-ae6c-ac11869f6e0a": {
 		"name": "ios_audio_ads_enabled",
-		"v": 18754,
+		"v": 19242,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v12.3"
 			}
 		]
@@ -12629,7 +12629,7 @@
 	},
 	"5dd5836b-16d3-4cd2-9612-1b3635aa22c9": {
 		"name": "ios_video_ad_api",
-		"v": 16962,
+		"v": 19243,
 		"t": 1,
 		"groups": [
 			{
@@ -12641,11 +12641,11 @@
 				"value": "amazon_third_party"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "twitch_ad_edge"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "twitch_ad_edge_multi_ad_formats"
 			}
 		]
