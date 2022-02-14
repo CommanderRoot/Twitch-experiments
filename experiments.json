@@ -12584,7 +12584,7 @@
 	},
 	"5db9c4b9-2234-480c-ae6c-ac11869f6e0a": {
 		"name": "ios_audio_ads_enabled",
-		"v": 19242,
+		"v": 19262,
 		"t": 1,
 		"groups": [
 			{
@@ -12594,6 +12594,10 @@
 			{
 				"weight": 100,
 				"value": "active_v12.3"
+			},
+			{
+				"weight": 0,
+				"value": "active_v12.4"
 			}
 		]
 	},
@@ -20628,15 +20632,15 @@
 	},
 	"983865b2-e0ee-494f-84cb-240134b3a8f4": {
 		"name": "ios_ads_video_ad_api_v2",
-		"v": 19259,
+		"v": 19260,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "twitch_ad_edge_v12.4"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "twitch_ad_edge_mafs_v12.4"
 			}
 		]
