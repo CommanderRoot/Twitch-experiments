@@ -6062,15 +6062,15 @@
 	},
 	"2c03c1b9-3562-4381-913f-6c282cb646f3": {
 		"name": "ios_fmp_tracking",
-		"v": 19161,
+		"v": 19258,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "full_fmp"
 			}
 		]
@@ -12629,7 +12629,7 @@
 	},
 	"5dd5836b-16d3-4cd2-9612-1b3635aa22c9": {
 		"name": "ios_video_ad_api",
-		"v": 19255,
+		"v": 19257,
 		"t": 1,
 		"groups": [
 			{
@@ -20628,16 +20628,16 @@
 	},
 	"983865b2-e0ee-494f-84cb-240134b3a8f4": {
 		"name": "ios_ads_video_ad_api_v2",
-		"v": 19256,
+		"v": 19259,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "twitch_ad_edge"
+				"value": "twitch_ad_edge_v12.4"
 			},
 			{
 				"weight": 0,
-				"value": "twitch_ad_edge_mafs"
+				"value": "twitch_ad_edge_mafs_v12.4"
 			}
 		]
 	},
