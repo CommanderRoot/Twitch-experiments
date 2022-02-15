@@ -3864,6 +3864,21 @@
 			}
 		]
 	},
+	"1c1953b5-15a0-4a63-83f4-44261f25bcca": {
+		"name": "ios_kmp_chat",
+		"v": 19282,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"1c3bad88-9db9-463b-a050-d241779b1869": {
 		"name": "dart_truegeordie_vwr_591_dav_cmc_wch_spt_push_2112_holdout",
 		"v": 18266,
@@ -30291,7 +30306,7 @@
 	},
 	"df6423ff-76e9-4e99-be7a-6dafe9f3946b": {
 		"name": "android_disable_1080p_on_32bit_devices",
-		"v": 19281,
+		"v": 19283,
 		"t": 1,
 		"groups": [
 			{
@@ -30300,7 +30315,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_12.5"
 			}
 		]
 	},
