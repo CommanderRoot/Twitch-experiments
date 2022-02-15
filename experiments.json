@@ -11331,11 +11331,11 @@
 	},
 	"53c3db96-c412-46f8-9bbc-a48ef28b8ab7": {
 		"name": "ios_ads_loudness_normalization",
-		"v": 19241,
+		"v": 19275,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
