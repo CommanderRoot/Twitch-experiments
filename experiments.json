@@ -12599,7 +12599,7 @@
 	},
 	"5db9c4b9-2234-480c-ae6c-ac11869f6e0a": {
 		"name": "ios_audio_ads_enabled",
-		"v": 19262,
+		"v": 19296,
 		"t": 1,
 		"groups": [
 			{
@@ -12607,11 +12607,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v12.3"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v12.4"
 			}
 		]
