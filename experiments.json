@@ -1814,15 +1814,15 @@
 	},
 	"0d71d06a-dab6-4d6c-992b-c4bd4cda5adc": {
 		"name": "android_mgst_brb_scene_global",
-		"v": 18738,
+		"v": 19297,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.2"
 			}
 		]
@@ -28947,15 +28947,15 @@
 	},
 	"d4a1648f-3a72-4163-b56a-c0e4a1f23db8": {
 		"name": "android_mgst_scene_preview_global",
-		"v": 19153,
+		"v": 19298,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.3"
 			}
 		]
