@@ -24970,16 +24970,16 @@
 	},
 	"b72c6e09-ad24-4880-9447-5c7ca8508332": {
 		"name": "android_conscrypt_as_first_security_provider_non_latam",
-		"v": 18926,
+		"v": 19295,
 		"t": 1,
 		"s": 6,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.2"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
