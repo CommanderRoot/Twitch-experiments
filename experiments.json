@@ -23914,6 +23914,21 @@
 			}
 		]
 	},
+	"af47b17d-3021-4489-b1bb-a37ec8f72e09": {
+		"name": "dart_fpsoprimed7v2_vwr_668_cmm_cmc_sub_mis_email_2202_holdout",
+		"v": 19341,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"af533195-07d4-4532-ba6b-93dcb72ce5a8": {
 		"name": "dart_international_price_mxtr_prime_holdout",
 		"v": 15301,
@@ -33460,6 +33475,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"f9879ce9-56c2-4f4c-8f68-5a76c24eec46": {
+		"name": "dart_fpsoprimed1reminderv2_vwr_670_cmm_cmc_sub_mis_email_2202_holdout",
+		"v": 19342,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
