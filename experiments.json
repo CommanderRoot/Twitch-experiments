@@ -8306,6 +8306,21 @@
 			}
 		]
 	},
+	"3e29791e-629e-4543-86a9-b958eec4b1d7": {
+		"name": "dart_horizonforbiddenwest_vwr_664_dav_cmc_wch_gmg_push_2202_holdout",
+		"v": 19333,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3e6edc54-69dd-4793-b056-22a77a477aa1": {
 		"name": "android_graphql_apq",
 		"v": 14525,
@@ -9646,6 +9661,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"480589de-43d9-4eef-b4b8-2fad8b6e8dcd": {
+		"name": "dart_horizonforbiddenwest_vwr_664_dav_cmc_wch_gmg_email_2202_holdout",
+		"v": 19332,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
