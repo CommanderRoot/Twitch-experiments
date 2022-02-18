@@ -19207,7 +19207,7 @@
 	},
 	"8dd6a399-9703-460c-bb7f-2c3093b81df3": {
 		"name": "dart_welcomeemail1_vwr_571_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 18350,
+		"v": 19335,
 		"t": 2,
 		"groups": [
 			{
@@ -19921,16 +19921,28 @@
 	},
 	"930ac7f5-4b74-4894-ad6f-ffdcf304ca55": {
 		"name": "dart_welcomeemail1_vwr_571_dav_cmc_wch_mis_email_2111_email",
-		"v": 18351,
+		"v": 19336,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 20,
 				"value": "Variant A"
 			},
 			{
-				"weight": 50,
+				"weight": 20,
 				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
 			}
 		]
 	},
