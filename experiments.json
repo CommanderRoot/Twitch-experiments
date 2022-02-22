@@ -5427,6 +5427,21 @@
 			}
 		]
 	},
+	"27301c99-d046-4390-aaec-32d715abb53d": {
+		"name": "dart_apac_tha_iwd_vwr_0_dav_trn_wch_gmg_onsite_2202_holdout",
+		"v": 19363,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"274f6835-a41d-417c-ad58-f1321e2aac39": {
 		"name": "android_skippable_ads",
 		"v": 2582,
