@@ -7496,15 +7496,15 @@
 	},
 	"375a6e24-2952-4f68-914a-40b3729056cb": {
 		"name": "android_surestream_ad_viewability_bridge",
-		"v": 19318,
+		"v": 19380,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.3"
 			}
 		]
