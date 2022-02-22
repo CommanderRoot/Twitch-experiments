@@ -32162,6 +32162,21 @@
 			}
 		]
 	},
+	"ed64f6ed-2c79-4025-a138-e2b5d3eaa415": {
+		"name": "android_ads_video_async_loading",
+		"v": 19374,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_12.5"
+			}
+		]
+	},
 	"ed7311c3-c39d-4202-b6c6-90eb250e1b1c": {
 		"name": "dart_iwdweek4_vwr_388_dav_cmc_lrn_mis_email_2103_fr_holdout",
 		"v": 14097,
