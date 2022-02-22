@@ -30108,6 +30108,21 @@
 			}
 		]
 	},
+	"db600073-fbc6-42b8-8fa7-ec7bc14fbb33": {
+		"name": "dart_apac_sgp_iwd_vwr_0_dav_trn_wch_gmg_onsite_2202_holdout",
+		"v": 19362,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"db8150ee-b487-4e8c-b691-21579b29effd": {
 		"name": "dads_experiment_user_test",
 		"v": 6210,
