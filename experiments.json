@@ -23099,6 +23099,21 @@
 			}
 		]
 	},
+	"a9577c37-c588-4ea5-81a8-ca6c44a160eb": {
+		"name": "dart_tcon22announce_vwr_635_awa_cmc_lrn_mis_email_221_holdout",
+		"v": 19359,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a9667563-723a-4cf7-b253-674d9eef0a53": {
 		"name": "twilight_web_onboarding_user",
 		"v": 2506,
