@@ -20805,15 +20805,15 @@
 	},
 	"983865b2-e0ee-494f-84cb-240134b3a8f4": {
 		"name": "ios_ads_video_ad_api_v2",
-		"v": 19260,
+		"v": 19365,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "twitch_ad_edge_v12.4"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "twitch_ad_edge_mafs_v12.4"
 			}
 		]
