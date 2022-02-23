@@ -24616,15 +24616,15 @@
 	},
 	"b235449a-b882-4266-b968-0fc591fba387": {
 		"name": "gift_chat_command",
-		"v": 18114,
+		"v": 19381,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
