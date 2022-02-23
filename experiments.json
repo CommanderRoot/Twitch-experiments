@@ -11982,6 +11982,21 @@
 			}
 		]
 	},
+	"588f7e99-ce8b-4923-a7f2-bc34619f232f": {
+		"name": "android_preload_theater_requirements_global",
+		"v": 19393,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.5"
+			}
+		]
+	},
 	"5896122f-1a84-4130-9938-b4c86efc69df": {
 		"name": "navi_fulton_follows_rollout",
 		"v": 13106,
