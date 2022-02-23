@@ -6390,15 +6390,15 @@
 	},
 	"2fc35cab-1706-4ef5-8617-fef6a1a8e1fe": {
 		"name": "ios_follower_emotes",
-		"v": 18285,
+		"v": 19409,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v12.2"
 			}
 		]
