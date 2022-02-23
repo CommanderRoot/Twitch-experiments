@@ -13416,15 +13416,15 @@
 	},
 	"6217ac35-cd2e-4a3a-a214-d08b37da49c2": {
 		"name": "ios_riddle_bits",
-		"v": 18741,
+		"v": 19395,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -20835,7 +20835,7 @@
 	},
 	"983865b2-e0ee-494f-84cb-240134b3a8f4": {
 		"name": "ios_ads_video_ad_api_v2",
-		"v": 19365,
+		"v": 19396,
 		"t": 1,
 		"groups": [
 			{
@@ -26478,7 +26478,7 @@
 	},
 	"c13edd2a-a27a-4a0a-9815-8545b568fdf3": {
 		"name": "ios_idfa_consent_prompt",
-		"v": 19371,
+		"v": 19394,
 		"t": 1,
 		"groups": [
 			{
