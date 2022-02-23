@@ -13416,15 +13416,15 @@
 	},
 	"6217ac35-cd2e-4a3a-a214-d08b37da49c2": {
 		"name": "ios_riddle_bits",
-		"v": 19395,
+		"v": 19397,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
