@@ -3086,7 +3086,7 @@
 	},
 	"16e4934e-d955-410e-a35c-99cc7a548574": {
 		"name": "android_follower_emotes",
-		"v": 19412,
+		"v": 19452,
 		"t": 1,
 		"groups": [
 			{
@@ -3100,6 +3100,10 @@
 			{
 				"weight": 0,
 				"value": "active_12.1"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.6"
 			}
 		]
 	},
@@ -12371,6 +12375,21 @@
 			}
 		]
 	},
+	"5bf4b300-d049-4454-9d26-22053bd2ca7a": {
+		"name": "dart_eldenringnalapseconsist_vwr_666_dav_cmc_wch_gmg_email_2202_holdout",
+		"v": 19451,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5bf6964f-c81d-412f-b9bb-ea1739f607d9": {
 		"name": "dart_apac_anz_creatordiscoveryxinfrequent_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
 		"v": 18561,
@@ -19886,6 +19905,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"929c44f0-3e30-4614-90ca-113d6c806a48": {
+		"name": "dart_eldenringna5mp_vwr_666_dav_cmc_wch_gmg_email_2202_holdout",
+		"v": 19450,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -31180,6 +31214,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"e6ddc965-4aee-4549-ab84-ecb520cd50cc": {
+		"name": "dart_eldenringnafrozen_vwr_666_dav_cmc_wch_gmg_email_2202_holdout",
+		"v": 19449,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
