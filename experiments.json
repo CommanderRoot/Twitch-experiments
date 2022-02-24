@@ -11577,6 +11577,21 @@
 			}
 		]
 	},
+	"551569d5-8363-4a92-a9c1-e2763c50980a": {
+		"name": "dart_apac_sgp_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
+		"v": 19420,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5527643b-93ba-4f12-bc36-1468d05cd4ca": {
 		"name": "dart_haloinfinite_vwr_595_dav_cmc_wch_gmg_email_2112_fr_holdout",
 		"v": 18232,
@@ -14402,6 +14417,21 @@
 			}
 		]
 	},
+	"680850eb-846a-43bf-a757-00ab380046a0": {
+		"name": "dart_apac_twn_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
+		"v": 19418,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"680b5624-5ada-4e0f-9f33-0264eb318777": {
 		"name": "pushy_ios_streamup_stream_title_unused",
 		"v": 3598,
@@ -15385,6 +15415,21 @@
 			}
 		]
 	},
+	"6ecc6173-3d84-4b8a-969d-3e3c2fdd5497": {
+		"name": "dart_apac_jpn_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
+		"v": 19416,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6ee6c5a1-c7d5-47c4-8140-788eb0d5780a": {
 		"name": "dart_cold_d21_top_streamers_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 16766,
@@ -16338,6 +16383,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"75933625-4d57-4e9c-a09b-c5120ded27ee": {
+		"name": "dart_apac_anz_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
+		"v": 19415,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -18328,6 +18388,21 @@
 			{
 				"weight": 1,
 				"value": "new_algorithm"
+			}
+		]
+	},
+	"852903f4-774a-46bd-afb1-82c688c5b3ce": {
+		"name": "dart_apac_kor_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
+		"v": 19417,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -22008,6 +22083,21 @@
 			{
 				"weight": 100,
 				"value": "unified"
+			}
+		]
+	},
+	"a00ae08b-0c4e-4073-8077-0291d37572e9": {
+		"name": "dart_apac_tha_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
+		"v": 19419,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
