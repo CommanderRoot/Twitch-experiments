@@ -4955,21 +4955,6 @@
 			}
 		]
 	},
-	"23e7023f-9b2f-4aed-a6f6-213e5f5cb4e3": {
-		"name": "dart_apac_anz_creatordiscoveryxinfrequent_vwr_0_dav_trn_wch_gmg_email_2202_holdout",
-		"v": 19353,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"23edd834-27d9-4bae-bcde-1e59b25aff51": {
 		"name": "android_big_goku",
 		"v": 1755,
@@ -5424,21 +5409,6 @@
 			{
 				"weight": 0,
 				"value": "post_sunset"
-			}
-		]
-	},
-	"27301c99-d046-4390-aaec-32d715abb53d": {
-		"name": "dart_apac_tha_iwd_vwr_0_dav_trn_wch_gmg_onsite_2202_holdout",
-		"v": 19363,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -8336,21 +8306,6 @@
 			}
 		]
 	},
-	"3e29791e-629e-4543-86a9-b958eec4b1d7": {
-		"name": "dart_horizonforbiddenwest_vwr_664_dav_cmc_wch_gmg_push_2202_holdout",
-		"v": 19333,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"3e6edc54-69dd-4793-b056-22a77a477aa1": {
 		"name": "android_graphql_apq",
 		"v": 14525,
@@ -9344,21 +9299,6 @@
 			}
 		]
 	},
-	"458befcc-0936-4816-9dcf-391d6723e478": {
-		"name": "dart_commercemerchfeb_vwr_641_cmm_cmc_buy_mis_onsite_2202_holdout",
-		"v": 18962,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"459dfd2f-4585-4d55-9897-ef61bc84c455": {
 		"name": "ios_following_full_bleed",
 		"v": 15447,
@@ -9676,21 +9616,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"480589de-43d9-4eef-b4b8-2fad8b6e8dcd": {
-		"name": "dart_horizonforbiddenwest_vwr_664_dav_cmc_wch_gmg_email_2202_holdout",
-		"v": 19332,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -10244,21 +10169,6 @@
 			}
 		]
 	},
-	"4c3ecfe3-a1c7-4209-8ca1-4d47b622daa5": {
-		"name": "dart_apac_anz_creatordiscoveryxhc_vwr_0_dav_trn_wch_gmg_email_2202_holdout",
-		"v": 19352,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"4c7c7610-b9b3-4e6b-85c6-e99e428ae16e": {
 		"name": "dart_apac_tha_monthlynewsletterjan_vwr_0_dav_trn_wch_gmg_email_2201_email",
 		"v": 18901,
@@ -10705,21 +10615,6 @@
 			{
 				"weight": 0,
 				"value": "prerolls_disabled_all_v11.2"
-			}
-		]
-	},
-	"4f44378f-e2f6-407e-bb98-30d1cd683f86": {
-		"name": "dart_momentsremindtholdout_ctr_657_awa_cmc_lrn_mis_eo_222_holdout",
-		"v": 19301,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -12850,21 +12745,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"5e5eb434-9235-4562-9272-ed87c312e69a": {
-		"name": "dart_apac_anz_creatordiscoveryxcore_vwr_0_dav_trn_wch_gmg_email_2202_holdout",
-		"v": 19350,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -15418,21 +15298,6 @@
 	"6ee6c5a1-c7d5-47c4-8140-788eb0d5780a": {
 		"name": "dart_cold_d21_top_streamers_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 16766,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"6f31f729-051f-402a-b9c6-f8a9d58b422c": {
-		"name": "dart_apac_anz_creatordiscoveryxfresh_vwr_0_dav_trn_wch_gmg_email_2202_holdout",
-		"v": 19351,
 		"t": 2,
 		"groups": [
 			{
@@ -19036,21 +18901,6 @@
 			}
 		]
 	},
-	"8b1fcfc4-cec0-4d83-8de0-c2aaeda4799c": {
-		"name": "dart_apac_anz_creatordiscoveryxborn_vwr_0_dav_trn_wch_gmg_email_2202_holdout",
-		"v": 19348,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"8b40a4f9-710b-47d0-928d-dee4b3b1dfda": {
 		"name": "android_multi_month_subs",
 		"v": 18918,
@@ -19809,21 +19659,6 @@
 			{
 				"weight": 100,
 				"value": "variant_b"
-			}
-		]
-	},
-	"907affd9-afbf-401d-aeaa-d8ff2500afbd": {
-		"name": "dart_apac_anz_creatordiscoveryxconsistent_vwr_0_dav_trn_wch_gmg_email_2202_duplicate_holdout",
-		"v": 19349,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -21442,21 +21277,6 @@
 	"9b7c68b8-1c1b-4aa0-bf22-c4878e2d9e62": {
 		"name": "dart_apac_twn_woohooredenvelopeday1_vwr_0_dav_trn_wch_gmg_push_2201_r1_holdout",
 		"v": 18809,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"9b86443c-0534-4348-a0bb-4473208a01de": {
-		"name": "dart_apac_anz_creatordiscoveryxocc_vwr_0_dav_trn_wch_gmg_email_2202_holdout",
-		"v": 19354,
 		"t": 2,
 		"groups": [
 			{
@@ -23223,21 +23043,6 @@
 			}
 		]
 	},
-	"a9577c37-c588-4ea5-81a8-ca6c44a160eb": {
-		"name": "dart_tcon22announce_vwr_635_awa_cmc_lrn_mis_email_221_holdout",
-		"v": 19361,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"a9667563-723a-4cf7-b253-674d9eef0a53": {
 		"name": "twilight_web_onboarding_user",
 		"v": 2506,
@@ -24140,21 +23945,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"af47b17d-3021-4489-b1bb-a37ec8f72e09": {
-		"name": "dart_fpsoprimed7v2_vwr_668_cmm_cmc_sub_mis_email_2202_holdout",
-		"v": 19341,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -30232,21 +30022,6 @@
 			}
 		]
 	},
-	"db600073-fbc6-42b8-8fa7-ec7bc14fbb33": {
-		"name": "dart_apac_sgp_iwd_vwr_0_dav_trn_wch_gmg_onsite_2202_holdout",
-		"v": 19362,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"db8150ee-b487-4e8c-b691-21579b29effd": {
 		"name": "dads_experiment_user_test",
 		"v": 6210,
@@ -32508,21 +32283,6 @@
 			}
 		]
 	},
-	"eeaf878d-dfcf-402c-9a91-ad35c3b5ba7c": {
-		"name": "dart_apac_sgp_lnyday4_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19172,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"eebffd83-1db1-4613-8a1b-af562cd7ee00": {
 		"name": "android_cookie_consent_button_toast",
 		"v": 15068,
@@ -33737,21 +33497,6 @@
 			}
 		]
 	},
-	"f9879ce9-56c2-4f4c-8f68-5a76c24eec46": {
-		"name": "dart_fpsoprimed1reminderv2_vwr_670_cmm_cmc_sub_mis_email_2202_holdout",
-		"v": 19342,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"f9e1d87d-3abf-4118-b749-85f4138479b4": {
 		"name": "dart_hitthelab6_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13487,
@@ -34341,21 +34086,6 @@
 			{
 				"weight": 5,
 				"value": "yes"
-			}
-		]
-	},
-	"fd7e6057-5b61-4a5c-a53e-3781819d0ce2": {
-		"name": "dart_apac_sgp_lnyday3_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19171,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
