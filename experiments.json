@@ -5715,6 +5715,21 @@
 			}
 		]
 	},
+	"28c04ce6-381e-4875-ae9c-8f72360fbb71": {
+		"name": "dart_eldenringlaunch_vwr_666_dav_cmc_wch_gmg_push_2202_holdout",
+		"v": 19462,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"28ca5427-cb5e-4bf4-a286-9ccc59b8ee03": {
 		"name": "tvapps_global_player_low_latency_experiment",
 		"v": 10751,
@@ -25271,6 +25286,21 @@
 			{
 				"weight": 60,
 				"value": "rollout"
+			}
+		]
+	},
+	"b7719d5c-411f-4d64-90ff-6a69794e2c10": {
+		"name": "dart_eldenringlaunch_vwr_666_dav_cmc_wch_gmg_email_2202_holdout",
+		"v": 19461,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
