@@ -6347,6 +6347,53 @@
 			}
 		]
 	},
+	"2f9b56de-bfbd-4105-bf03-b869aa4b45cc": {
+		"name": "dart_apac_twn_eldenringday2_vwr_0_dav_trn_wch_gmg_push_2202_push",
+		"v": 19455,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "Variant A"
+			},
+			{
+				"weight": 10,
+				"value": "Variant B"
+			},
+			{
+				"weight": 10,
+				"value": "Variant C"
+			},
+			{
+				"weight": 10,
+				"value": "Variant D"
+			},
+			{
+				"weight": 10,
+				"value": "Variant E"
+			},
+			{
+				"weight": 10,
+				"value": "Variant F"
+			},
+			{
+				"weight": 10,
+				"value": "Variant G"
+			},
+			{
+				"weight": 10,
+				"value": "Variant H"
+			},
+			{
+				"weight": 10,
+				"value": "Variant I"
+			},
+			{
+				"weight": 10,
+				"value": "Variant J"
+			}
+		]
+	},
 	"2fc19750-b8f0-4d6d-9683-61803d8e86bf": {
 		"name": "dart_ccu250below_ctr_481_awa_cmc_lrn_mis_email_2109_holdout",
 		"v": 16847,
@@ -26342,6 +26389,21 @@
 			{
 				"weight": 0,
 				"value": "no-keyboard-suggester"
+			}
+		]
+	},
+	"c12a6063-ab7b-417e-bdf0-fd18f8b792a8": {
+		"name": "dart_apac_twn_eldenringday2_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
+		"v": 19454,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
