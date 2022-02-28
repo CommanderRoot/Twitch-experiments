@@ -3572,21 +3572,6 @@
 			}
 		]
 	},
-	"19eaa4b6-60ac-4017-baac-a7e3d748ce22": {
-		"name": "dart_fpsogiftsubd7v2_vwr_619_cmm_cmc_sub_mis_email_2201_holdout",
-		"v": 19468,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"19f5492f-19f1-430c-8f22-1db077308950": {
 		"name": "ios_broadcast_abs",
 		"v": 3231,
@@ -3855,21 +3840,6 @@
 			{
 				"weight": 0,
 				"value": "enabled"
-			}
-		]
-	},
-	"1b91790f-eb84-4ebb-b3f1-6d95c7360223": {
-		"name": "dart_fpsogiftsubd1v2_vwr_619_cmm_cmc_sub_mis_email_2201_holdout",
-		"v": 19469,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -5715,21 +5685,6 @@
 			}
 		]
 	},
-	"28c04ce6-381e-4875-ae9c-8f72360fbb71": {
-		"name": "dart_eldenringlaunch_vwr_666_dav_cmc_wch_gmg_push_2202_holdout",
-		"v": 19462,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"28ca5427-cb5e-4bf4-a286-9ccc59b8ee03": {
 		"name": "tvapps_global_player_low_latency_experiment",
 		"v": 10751,
@@ -6451,53 +6406,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"2f9b56de-bfbd-4105-bf03-b869aa4b45cc": {
-		"name": "dart_apac_twn_eldenringday2_vwr_0_dav_trn_wch_gmg_push_2202_push",
-		"v": 19455,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "Variant A"
-			},
-			{
-				"weight": 10,
-				"value": "Variant B"
-			},
-			{
-				"weight": 10,
-				"value": "Variant C"
-			},
-			{
-				"weight": 10,
-				"value": "Variant D"
-			},
-			{
-				"weight": 10,
-				"value": "Variant E"
-			},
-			{
-				"weight": 10,
-				"value": "Variant F"
-			},
-			{
-				"weight": 10,
-				"value": "Variant G"
-			},
-			{
-				"weight": 10,
-				"value": "Variant H"
-			},
-			{
-				"weight": 10,
-				"value": "Variant I"
-			},
-			{
-				"weight": 10,
-				"value": "Variant J"
 			}
 		]
 	},
@@ -9002,21 +8910,6 @@
 			}
 		]
 	},
-	"41e5cec9-a5ab-4889-b386-721dd06f3bc4": {
-		"name": "dart_adsincentivereminderofferp2_ctr_606_awa_trn_lrn_mis_emailonsite_2201_holdout",
-		"v": 19465,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"41e640c8-c5ad-4e72-b32f-b3c36d70dbe3": {
 		"name": "ios_chomments_deprecation",
 		"v": 9634,
@@ -10305,25 +10198,6 @@
 			{
 				"weight": 0,
 				"value": "FullPageTakeover"
-			}
-		]
-	},
-	"4be2d474-51c6-4802-8b6f-204bbfa05f4d": {
-		"name": "dart_multimonthen_vwr_543_cmm_cmc_buy_mis_email_2110_email",
-		"v": 19467,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 30,
-				"value": "Variant A"
-			},
-			{
-				"weight": 35,
-				"value": "Variant B"
-			},
-			{
-				"weight": 35,
-				"value": "Variant C"
 			}
 		]
 	},
@@ -11630,21 +11504,6 @@
 			}
 		]
 	},
-	"551569d5-8363-4a92-a9c1-e2763c50980a": {
-		"name": "dart_apac_sgp_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19420,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"5527643b-93ba-4f12-bc36-1468d05cd4ca": {
 		"name": "dart_haloinfinite_vwr_595_dav_cmc_wch_gmg_email_2112_fr_holdout",
 		"v": 18232,
@@ -12556,21 +12415,6 @@
 			{
 				"weight": 33,
 				"value": "Variant C"
-			}
-		]
-	},
-	"5bf4b300-d049-4454-9d26-22053bd2ca7a": {
-		"name": "dart_eldenringnalapseconsist_vwr_666_dav_cmc_wch_gmg_email_2202_holdout",
-		"v": 19451,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -14008,21 +13852,6 @@
 			}
 		]
 	},
-	"65181375-6418-428e-b239-0d2fbf04451d": {
-		"name": "dart_multimonthen_vwr_543_cmm_cmc_buy_mis_email_2110_holdout",
-		"v": 19466,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"651ab5b8-013d-43bb-ac73-9a79a0dc6dc0": {
 		"name": "dart_dyinglight2launch_vwr_651_dav_cmc_wch_gmg_email_2202_en_holdout",
 		"v": 18985,
@@ -14467,21 +14296,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"680850eb-846a-43bf-a757-00ab380046a0": {
-		"name": "dart_apac_twn_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19418,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -15468,21 +15282,6 @@
 			}
 		]
 	},
-	"6ecc6173-3d84-4b8a-969d-3e3c2fdd5497": {
-		"name": "dart_apac_jpn_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19416,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"6ee6c5a1-c7d5-47c4-8140-788eb0d5780a": {
 		"name": "dart_cold_d21_top_streamers_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 16766,
@@ -16421,21 +16220,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"75933625-4d57-4e9c-a09b-c5120ded27ee": {
-		"name": "dart_apac_anz_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19415,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -18429,21 +18213,6 @@
 			}
 		]
 	},
-	"852903f4-774a-46bd-afb1-82c688c5b3ce": {
-		"name": "dart_apac_kor_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19417,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"8539e1c3-481a-4c56-8ebf-6d5c7a06e6fb": {
 		"name": "dart_lostarkus_vwr_0_dav_cmc_wch_gmg_email_2202_holdout",
 		"v": 19116,
@@ -20089,21 +19858,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"929c44f0-3e30-4614-90ca-113d6c806a48": {
-		"name": "dart_eldenringna5mp_vwr_666_dav_cmc_wch_gmg_email_2202_holdout",
-		"v": 19450,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -22091,21 +21845,6 @@
 			{
 				"weight": 100,
 				"value": "unified"
-			}
-		]
-	},
-	"a00ae08b-0c4e-4073-8077-0291d37572e9": {
-		"name": "dart_apac_tha_eldenringday1_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19419,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -25319,21 +25058,6 @@
 			}
 		]
 	},
-	"b7719d5c-411f-4d64-90ff-6a69794e2c10": {
-		"name": "dart_eldenringlaunch_vwr_666_dav_cmc_wch_gmg_email_2202_holdout",
-		"v": 19461,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"b776b4d5-2c9b-4ad1-9ddb-4be53e8e1a42": {
 		"name": "dart_apac_sgp_valorantchampionsquarterfinals_vwr_0_dav_trn_flw_gmg_onsite_2112_onsite",
 		"v": 18222,
@@ -26541,21 +26265,6 @@
 			{
 				"weight": 0,
 				"value": "no-keyboard-suggester"
-			}
-		]
-	},
-	"c12a6063-ab7b-417e-bdf0-fd18f8b792a8": {
-		"name": "dart_apac_twn_eldenringday2_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19454,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -31428,21 +31137,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"e6ddc965-4aee-4549-ab84-ecb520cd50cc": {
-		"name": "dart_eldenringnafrozen_vwr_666_dav_cmc_wch_gmg_email_2202_holdout",
-		"v": 19449,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
