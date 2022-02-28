@@ -18948,6 +18948,21 @@
 			}
 		]
 	},
+	"8c2fafa8-f822-4cab-93b3-b6426e25ac12": {
+		"name": "ios_viewer_card_update",
+		"v": 19500,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8c4ef9dd-5c74-46eb-bb58-aecf627fba98": {
 		"name": "ios_swift_video_player_controller",
 		"v": 8457,
