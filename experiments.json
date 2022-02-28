@@ -20184,15 +20184,15 @@
 	},
 	"95372c71-56bc-4d6a-8d5d-d4885a7aadf9": {
 		"name": "creatorhome_new_affiliate_cluster",
-		"v": 17786,
+		"v": 19499,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "variant"
 			}
 		]
