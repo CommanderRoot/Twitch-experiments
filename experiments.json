@@ -3045,11 +3045,11 @@
 	},
 	"161549dc-8537-43d2-96b2-03d3bb63ceaa": {
 		"name": "android_activityfeed_migration",
-		"v": 19157,
+		"v": 19524,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -3057,7 +3057,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.4"
 			}
 		]
