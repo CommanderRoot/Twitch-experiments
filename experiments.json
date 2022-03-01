@@ -4400,21 +4400,6 @@
 			}
 		]
 	},
-	"20598094-cb72-4a35-bfdc-156a0d9bd9f4": {
-		"name": "dart_apac_sgp_eldenringday2_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19460,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"206387e2-dda2-4e88-a619-6a0e910e8268": {
 		"name": "dart_jira_7391_holdout",
 		"v": 17654,
@@ -7192,21 +7177,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"35047168-450c-4e7c-bb5c-c6e4c18745a7": {
-		"name": "dart_apac_php_valorantstage1finals_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19471,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
