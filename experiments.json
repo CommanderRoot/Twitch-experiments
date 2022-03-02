@@ -4873,6 +4873,21 @@
 			}
 		]
 	},
+	"233b4c82-b664-4e80-ac91-a52237a41096": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2203_it_holdout",
+		"v": 19548,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2352d0b6-7692-49f1-9f8d-88e6cc47994b": {
 		"name": "android_rollout_vod_uploads",
 		"v": 803,
