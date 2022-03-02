@@ -16617,6 +16617,21 @@
 			}
 		]
 	},
+	"7961650d-5df4-479b-8c7d-6835004aadff": {
+		"name": "dart_apac_sgp_eldenringblack_vwr_0_dav_trn_wch_gmg_push_2203_holdout",
+		"v": 19543,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"79accd86-e77e-4eae-8979-d19ab2bc4521": {
 		"name": "ios_skippable_ads",
 		"v": 2583,
