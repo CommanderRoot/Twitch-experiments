@@ -26342,6 +26342,21 @@
 			}
 		]
 	},
+	"c1232d35-d527-413d-b3a3-b796c655df72": {
+		"name": "android_apollo_3_batching",
+		"v": 19549,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.5"
+			}
+		]
+	},
 	"c12a6a77-7905-4737-b469-1c04b967c48e": {
 		"name": "dart_valorantemea_vwr_302_flw_cmc_flw_evt_esp_email_2011_email",
 		"v": 12336,
