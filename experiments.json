@@ -2526,6 +2526,21 @@
 			}
 		]
 	},
+	"12fc0ae6-8c8a-430e-8b7c-3113515b1f2b": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2203_de_holdout",
+		"v": 19546,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"13181a0e-9be7-4d9f-b602-35d87e3dceed": {
 		"name": "surestream_rollout_firetv",
 		"v": 7139,
@@ -18114,6 +18129,21 @@
 			}
 		]
 	},
+	"8490b291-795d-471f-954b-2f9748b357b1": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2203_es_holdout",
+		"v": 19547,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"849c701d-2f2e-4dce-8ed4-01053d6bbbc4": {
 		"name": "dart_d30frozen_vwr_560_dav_cmc_wch_mis_email_2111_duplicate_holdout",
 		"v": 17747,
@@ -21143,6 +21173,21 @@
 	"9a94bece-0302-4f0b-aacd-43c43fbf3153": {
 		"name": "dart_commintroexperimentlowerpriority_ctr_584_awa_cmc_lrn_mis_onsite_2201_holdout",
 		"v": 18651,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"9aa85a8b-1ef0-4c72-99da-2e43c81c3ab7": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2203_fr_holdout",
+		"v": 19545,
 		"t": 2,
 		"groups": [
 			{
