@@ -399,21 +399,6 @@
 			}
 		]
 	},
-	"030d6050-40e1-47ce-9893-3102886ba02a": {
-		"name": "dart_apac_twn_eldenringday3_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
-		"v": 19456,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"0325cd28-a487-478d-afba-a6f240ae8d5d": {
 		"name": "dart_dyinglight2launch_vwr_651_dav_cmc_wch_gmg_email_2202_it_holdout",
 		"v": 18986,
@@ -1266,45 +1251,6 @@
 			{
 				"weight": 0,
 				"value": "57"
-			}
-		]
-	},
-	"093da67c-a4ca-471a-a554-945d4fbffdf4": {
-		"name": "dart_apac_twn_eldenringday3_vwr_0_dav_trn_wch_gmg_push_2202_push",
-		"v": 19457,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 9,
-				"value": "Variant A"
-			},
-			{
-				"weight": 13,
-				"value": "Variant B"
-			},
-			{
-				"weight": 13,
-				"value": "Variant C"
-			},
-			{
-				"weight": 13,
-				"value": "Variant D"
-			},
-			{
-				"weight": 13,
-				"value": "Variant E"
-			},
-			{
-				"weight": 13,
-				"value": "Variant F"
-			},
-			{
-				"weight": 13,
-				"value": "Variant G"
-			},
-			{
-				"weight": 13,
-				"value": "Variant H"
 			}
 		]
 	},
