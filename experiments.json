@@ -11282,6 +11282,21 @@
 			}
 		]
 	},
+	"535c8c78-902b-4919-a739-bd873bb522b9": {
+		"name": "dart_fpgov2activeprvsub_vwr_617_cmm_cmc_sub_mis_email_2201_duplicate_holdout",
+		"v": 19537,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"536bb971-5a7a-445a-a8e6-929d26e3b399": {
 		"name": "android_mads_rainfall_animation",
 		"v": 11831,
@@ -13150,6 +13165,25 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"60c2bf81-9c15-4c8f-a18b-8a23ea0083e5": {
+		"name": "dart_fpgov2activeprvsub_vwr_617_cmm_cmc_sub_mis_email_2201_duplicate_email",
+		"v": 19538,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
