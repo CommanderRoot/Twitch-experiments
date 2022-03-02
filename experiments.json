@@ -14367,6 +14367,25 @@
 			}
 		]
 	},
+	"6888c9c7-8486-4387-8dce-43bd4f0fa0e4": {
+		"name": "dart_fpgov1existsub_vwr_618_cmm_cmc_sub_mis_email_2201_email",
+		"v": 19540,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
+			}
+		]
+	},
 	"68b0d8c6-59b3-4630-a975-f2e8f8047e15": {
 		"name": "ios_profile_header_v2",
 		"v": 10670,
@@ -17262,6 +17281,21 @@
 	"7d508837-1ff9-4b98-bd12-962bdaa1e98b": {
 		"name": "dart_dyinglightfrozen_vwr_640_awa_cmc_wch_gmg_email_2202_holdout",
 		"v": 19063,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"7d8cb28c-465c-41d4-bddf-35b8741a9867": {
+		"name": "dart_fpgov1existsub_vwr_618_cmm_cmc_sub_mis_email_2201_holdout",
+		"v": 19539,
 		"t": 2,
 		"groups": [
 			{
