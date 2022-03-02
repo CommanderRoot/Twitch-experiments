@@ -4586,6 +4586,21 @@
 			}
 		]
 	},
+	"214b2bf2-e2dd-4824-8dde-47057ee616a5": {
+		"name": "ios_crashlytics_sampling",
+		"v": 19550,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "sample"
+			},
+			{
+				"weight": 100,
+				"value": "no_sample"
+			}
+		]
+	},
 	"214ba04b-7496-4c9f-a606-5e3ff1980d89": {
 		"name": "dart_fortnite_vwr_594_dav_cmc_wch_gmg_email_2112_it_holdout",
 		"v": 18190,
