@@ -26359,11 +26359,11 @@
 	},
 	"c1232d35-d527-413d-b3a3-b796c655df72": {
 		"name": "android_apollo_3_batching",
-		"v": 19552,
+		"v": 19559,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -26371,7 +26371,7 @@
 				"value": "active_12.5_current_batching"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.5_older_batching"
 			}
 		]
