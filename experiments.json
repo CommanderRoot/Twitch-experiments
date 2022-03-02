@@ -9176,6 +9176,21 @@
 			}
 		]
 	},
+	"44877e09-6af6-4739-8112-f3e4e434ee08": {
+		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2203_en_holdout",
+		"v": 19544,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"44a503af-d77f-4f1d-9fa4-c99c5f783f9c": {
 		"name": "twilight_video_manager_release",
 		"v": 2850,
