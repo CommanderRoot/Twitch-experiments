@@ -521,7 +521,7 @@
 	},
 	"03e74256-d490-4aab-9f57-898bbc394eba": {
 		"name": "ios_left_third_display_ads_a_b_test_eligible",
-		"v": 17517,
+		"v": 19587,
 		"t": 1,
 		"groups": [
 			{
@@ -530,11 +530,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "ab_test_treatment"
+				"value": "ab_test_treatment_v12.6"
 			},
 			{
 				"weight": 0,
-				"value": "ab_test_control"
+				"value": "ab_test_control_v12.6"
 			}
 		]
 	},
@@ -3482,7 +3482,7 @@
 	},
 	"19c897e3-e9f6-49bf-b967-34a5286123e5": {
 		"name": "ios_left_third_display_ads",
-		"v": 17811,
+		"v": 19588,
 		"t": 1,
 		"groups": [
 			{
@@ -3491,15 +3491,15 @@
 			},
 			{
 				"weight": 100,
-				"value": "staff_v12.0"
+				"value": "staff_v12.6"
 			},
 			{
 				"weight": 0,
-				"value": "beta_v12.0"
+				"value": "beta_v12.6"
 			},
 			{
 				"weight": 0,
-				"value": "active_v12.0"
+				"value": "active_v12.6"
 			}
 		]
 	},
