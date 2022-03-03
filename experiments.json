@@ -4805,6 +4805,21 @@
 			}
 		]
 	},
+	"22f237d3-0b3f-438b-a42c-3c97e8bdd764": {
+		"name": "dart_apac_twn_twitchrivalsxpokemonunite_vwr_0_dav_trn_wch_gmg_push_2203_r1_holdout",
+		"v": 19571,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"22fbff5c-df81-4fca-9c06-56317df1202b": {
 		"name": "tvapps_androidtv_devicecodeflow",
 		"v": 12123,
@@ -16715,6 +16730,21 @@
 			}
 		]
 	},
+	"79d7778c-21b0-467b-bd20-5035921b4ebf": {
+		"name": "dart_apac_twn_twitchrivalsxpokemonunite_vwr_0_dav_trn_wch_gmg_email_2203_holdout",
+		"v": 19568,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"79dd6ff1-6d80-43f6-b412-b7dbfa5d7297": {
 		"name": "vitreous-rollout",
 		"v": 8391,
@@ -18959,6 +18989,21 @@
 			{
 				"weight": 50,
 				"value": "no"
+			}
+		]
+	},
+	"8bc9df97-08a0-4296-bd3e-ba3bd997fc8c": {
+		"name": "dart_apac_twn_twitchrivalsxpokemonunite_vwr_0_dav_trn_wch_gmg_push_2203_holdout",
+		"v": 19569,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
