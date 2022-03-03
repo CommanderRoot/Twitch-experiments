@@ -33686,6 +33686,21 @@
 			}
 		]
 	},
+	"fa24ae23-6257-402f-b843-89f8a421d02b": {
+		"name": "dart_apac_sgp_iwdsingapore_vwr_0_dav_trn_wch_gmg_onsite_2203_holdout",
+		"v": 19582,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"fa2fa316-88b9-49b2-a96c-6ad4ecef2904": {
 		"name": "ios_enable_rooms",
 		"v": 2188,
