@@ -4588,15 +4588,15 @@
 	},
 	"214b2bf2-e2dd-4824-8dde-47057ee616a5": {
 		"name": "ios_crashlytics_non_fatal_sampling",
-		"v": 19560,
+		"v": 19563,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "drop_non_fatals"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "log_non_fatals"
 			}
 		]
