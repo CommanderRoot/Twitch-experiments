@@ -489,21 +489,6 @@
 			}
 		]
 	},
-	"03bb3b5f-a9c4-4bbd-aef2-d8707126bef8": {
-		"name": "dart_redeem5v2_vwr_503_sbs_cmc_sub_mis_email_2108_holdout",
-		"v": 17969,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"03e27667-d926-47dc-ab02-5435a6e16205": {
 		"name": "dart_fpso_prime_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15564,
@@ -7240,21 +7225,6 @@
 			{
 				"weight": 100,
 				"value": "enabled"
-			}
-		]
-	},
-	"35594c7e-e24f-4078-b3ef-2e5f28260184": {
-		"name": "dart_redeem5v2_vwr_503_sbs_cmc_sub_mis_email_2108_email",
-		"v": 17970,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
