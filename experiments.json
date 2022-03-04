@@ -10134,12 +10134,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 19562,
+		"v": 19600,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-468372.pdx01.abs.hls.ttvnw.net/v1/segment/CudhuC_4doExGIPHxwUs7dcqi5NplBfuzH62mJvDX2i30H2jc-fAQQASx9VFXjJ5DEDy4Z5Uu6qJpS_jKrT3jdBoYWcp_kkW4-iLGaciAnaHdq0phRyU0OZE6dCqEssGgp88YQWlB9NdlE485VDxfepCOrOIKUCnh2gkC2h9M9nD578lr4yNMqY_aoQfAJLJiqoDiAlBmyVAMn0imYiYbSW20ovJzwxWkEGkivtlu8-0ctlHQhVVNzuTGytiiyfezF2BpPUoVntEqseiDm6sI4aKw40QCybmphMHUphZ_UI6WxUGKdG5e9KT_wrKum6JFdEyVJ2Hvrp7I6LV-SnCnmGINBLc5vDvkPBh6KONpfrDYlMdd5jr-FbxZXD4dlDqiWyVl_9pJ9xCkDhgaB8WcA6GXkKSOCQWgRzvGioe6U01QGkWTZ4Z5RxUCO7VyLWl9eNFhY--AYtufqr0vjCRFT4cqGrEWy503kRrVI60dzpccJqkMFsAMdnsMBFZOoGeXpji7ch2mF6_p2GTLxsu8lMZSA5qZcO0pbXF9cMZjcNIXUrf4fZJTT1YrAXORQNgqeyCNuDBoKh6haiI0dCLpZ-GaXAUX5HqjWbUiUO8bXQ3_QfUO-M-sJ3xa0dXqG5W2xdssmxW1d81Agzta8FQWW1OW_MQdmRa92gYtEbnucl6KMb08G77qaEw9QlEY8eLO3uGCCVBo31bbFaPPeRNGSxe20CeJR2wDeLAAJM16R4xoCcmDU5vndVVeK5Jc5LdX6Gm6A7Woc.ts"
+				"value": "//video-edge-435056.pdx01.abs.hls.ttvnw.net/v1/segment/ClxnxqpE2zfEHI8Yb1tdWx0zQHP2fUV9SOm68cMMwise20mNc9N_5Io8n2aoCI-Hx1QN7LVaZdMfM8zn-apThkDlK3deskKCkdoLQmi88wTN99gzkLwuuA4lgeaOjsfWudtQ-FmGxb8GOIAxF1WYG166d-xA8B8frN6_8o_gKHeNlCP_198ajoVmrPUR1FwgOaqyUVASDu5mrOw4pB8r2G4iUxfuKlFteeHgrds09rI8s45qL0evwa-_ZFCgoZ4dLGa6ubzqhVvcvG788raFebv6l4uKf96fyWfPCPYLuZ4e4GFhVrL1vaHfFF3Jt0pumLDa4jNwkJU4f-78QuLgjoElDvQfPk8L7kq7rr0oEVSAxc5jR159vKZW98FtTB84WaekYnI4KpQFUQ0bdbADokDZcRkws1rRZKIFu6QNavMLz2oNBBxnnAEndPwX0hEdxtDtt18RptZPQEiT4KqWYytrFhaRIwOYxdOuL_3bh-MX_01uD8-D-id4McPGYb1mcXeLhii4-5A0ow_hzisnhXcSXCYepdFgO4H6GEotqskqlHRaJJArlpLsNuP11izP0rnnl21979kKrutu6_rgwZi90e5urdZ3v1KO5Vsw2CykHiG2vlYcF0N4U5x63xIX3IPatQBun6J1iqhZt1goJFct4VA_Cwi9Rku6513u9nV0JD3o9Z_bsqnRR-uj0p-jLIqRHfsFinCf9V2AlTdqI4-JMsRXOlpwBvejZvCLDph_Cd7O-PeAch04Nk6eJ.ts"
 			}
 		]
 	},
@@ -20806,15 +20806,15 @@
 	},
 	"983865b2-e0ee-494f-84cb-240134b3a8f4": {
 		"name": "ios_ads_video_ad_api_v2",
-		"v": 19396,
+		"v": 19602,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "twitch_ad_edge_v12.4"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "twitch_ad_edge_mafs_v12.4"
 			}
 		]
