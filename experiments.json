@@ -4067,29 +4067,6 @@
 			}
 		]
 	},
-	"1e12ea8b-2872-4436-98f4-c41e4fe5a723": {
-		"name": "dart_apac_twn_eldenringday4_vwr_0_dav_trn_wch_gmg_push_2203_push",
-		"v": 19459,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 25,
-				"value": "Variant A"
-			},
-			{
-				"weight": 25,
-				"value": "Variant B"
-			},
-			{
-				"weight": 25,
-				"value": "Variant C"
-			},
-			{
-				"weight": 25,
-				"value": "Variant D"
-			}
-		]
-	},
 	"1e46ddd7-2916-44cb-9c79-6147afdbc9e3": {
 		"name": "dart_fortnitedrops_vwr_630_dav_cmc_flw_gmg_email_2202_de_holdout",
 		"v": 19127,
@@ -32548,21 +32525,6 @@
 			{
 				"weight": 0,
 				"value": "graduate"
-			}
-		]
-	},
-	"efdb1204-65a8-4433-8bd2-6b0f85be1ad1": {
-		"name": "dart_apac_twn_eldenringday4_vwr_0_dav_trn_wch_gmg_push_2203_holdout",
-		"v": 19458,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
