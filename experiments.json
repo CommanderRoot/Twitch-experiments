@@ -1329,6 +1329,21 @@
 			}
 		]
 	},
+	"09af2167-89ba-4129-87f2-080ff9d9f9f1": {
+		"name": "dart_apac_tha_iwdnomi_vwr_0_dav_trn_wch_gmg_onsite_2203_holdout",
+		"v": 19610,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"09cea69f-96f8-48ad-90fe-547dc3fe97a0": {
 		"name": "android_extensions_entry_point",
 		"v": 6382,
