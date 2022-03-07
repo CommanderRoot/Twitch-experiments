@@ -4550,15 +4550,15 @@
 	},
 	"214b2bf2-e2dd-4824-8dde-47057ee616a5": {
 		"name": "ios_crashlytics_non_fatal_sampling",
-		"v": 19563,
+		"v": 19638,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 999,
 				"value": "drop_non_fatals"
 			},
 			{
-				"weight": 100,
+				"weight": 1,
 				"value": "log_non_fatals"
 			}
 		]
@@ -5700,15 +5700,15 @@
 	},
 	"296b40c3-12df-4266-b50d-6540e83a9fd1": {
 		"name": "ios_sidebar_on_ipad",
-		"v": 17892,
+		"v": 19637,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
