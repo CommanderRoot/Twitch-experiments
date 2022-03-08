@@ -23827,6 +23827,21 @@
 			}
 		]
 	},
+	"ae6e2ea3-6f5a-49bc-8e4f-b64c9e23b8ea": {
+		"name": "android_mobile_growth_ttv_holdout",
+		"v": 19661,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "active_12.6"
+			}
+		]
+	},
 	"ae7811bb-0bf1-42ee-bae0-589e6d692a96": {
 		"name": "android_quick_cheer",
 		"v": 10006,
