@@ -31699,6 +31699,21 @@
 			}
 		]
 	},
+	"e9c4c43d-9d69-47ed-a1e5-0c25d29627d6": {
+		"name": "android_load_stream_data_on_home_tab",
+		"v": 19657,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.6"
+			}
+		]
+	},
 	"e9ed0d14-5491-46f2-b70c-79331d47aaa0": {
 		"name": "android_ads_still_send_video_events",
 		"v": 18605,
