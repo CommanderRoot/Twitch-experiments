@@ -31059,6 +31059,21 @@
 			}
 		]
 	},
+	"e4b3e67d-9e32-44c2-95e0-fb90f0b0bbe0": {
+		"name": "dart_iwdlaunchcorrection_vwr_677_dav_cmc_lrn_mis_email_2203_uk_holdout",
+		"v": 19654,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e4f268c8-b489-49e6-b045-3cadb5daaf92": {
 		"name": "android_app_install",
 		"v": 8676,
