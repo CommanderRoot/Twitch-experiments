@@ -16654,21 +16654,6 @@
 			}
 		]
 	},
-	"7961650d-5df4-479b-8c7d-6835004aadff": {
-		"name": "dart_apac_sgp_eldenringblack_vwr_0_dav_trn_wch_gmg_push_2203_holdout",
-		"v": 19543,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"79accd86-e77e-4eae-8979-d19ab2bc4521": {
 		"name": "ios_skippable_ads",
 		"v": 2583,
@@ -30879,21 +30864,6 @@
 			{
 				"weight": 0,
 				"value": "option2_consumables"
-			}
-		]
-	},
-	"e3b9bc15-a292-46b2-b56f-264d01a348d2": {
-		"name": "dart_apac_jpn_twitchrivalsapex_vwr_0_dav_trn_wch_gmg_email_2203_holdout",
-		"v": 19609,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
