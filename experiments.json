@@ -123,6 +123,21 @@
 			}
 		]
 	},
+	"009f7dda-87ee-45e0-9eb9-9dd863e38f53": {
+		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_push_2203_fr_holdout",
+		"v": 19651,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"00a7a76a-0bea-4455-a186-0dae44285f75": {
 		"name": "android_multiplayer_ads",
 		"v": 12705,
@@ -13760,6 +13775,21 @@
 			}
 		]
 	},
+	"649f0e70-85d9-4fb8-876b-50fe59339191": {
+		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_push_2203_uk_holdout",
+		"v": 19649,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"64bfcb47-6285-4036-ab8f-0a8634d4f352": {
 		"name": "following_service_cache_removal",
 		"v": 11277,
@@ -24392,6 +24422,21 @@
 	"b198f67e-12c0-4d3f-8477-4e9f4bfc910c": {
 		"name": "dart_thegatheringemea_vwr_423_awa_cmc_mis_gmg_email_2105_holdout",
 		"v": 15006,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"b1b47602-17a8-4189-b4ca-2d4c68e30d8b": {
+		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_push_2203_de_holdout",
+		"v": 19650,
 		"t": 2,
 		"groups": [
 			{
