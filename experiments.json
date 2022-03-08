@@ -14,6 +14,21 @@
 			}
 		]
 	},
+	"0004e31e-8d2c-42a9-a2e2-10d1e097e5cd": {
+		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_email_2203_de_holdout",
+		"v": 19647,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0016759f-1344-45de-99e2-f9bfa46a8a6a": {
 		"name": "android_videoplayer_r7",
 		"v": 4918,
@@ -9090,6 +9105,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"42d02a99-7ef3-4525-8caf-f4b30ce0c9d3": {
+		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_email_2203_uk_holdout",
+		"v": 19646,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
