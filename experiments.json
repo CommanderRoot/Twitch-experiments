@@ -2172,6 +2172,21 @@
 			}
 		]
 	},
+	"1040a2b8-540f-48d0-b592-51262121a296": {
+		"name": "dart_apac_anz_monthlynewsletterborn_vwr_0_dav_trn_wch_gmg_email_2203_holdout",
+		"v": 19644,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"10b0d3c8-2088-4f67-bddf-df00901513fb": {
 		"name": "dart_fpso_gift_sub_v2_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 13224,
@@ -34226,6 +34241,21 @@
 			{
 				"weight": 0,
 				"value": "variant_3"
+			}
+		]
+	},
+	"fe3493cb-a96d-49ce-8979-e992b77159b9": {
+		"name": "dart_apac_anz_monthlynewsletterfresh_vwr_0_dav_trn_wch_gmg_email_2203_duplicate_holdout",
+		"v": 19645,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
 			}
 		]
 	},
