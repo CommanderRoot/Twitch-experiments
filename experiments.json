@@ -10538,21 +10538,6 @@
 			}
 		]
 	},
-	"4e84439f-3dd9-4c17-81a0-0d37f337ae78": {
-		"name": "dart_apac_jpn_twitchrivalsapex_vwr_0_dav_trn_wch_gmg_push_2203_holdout",
-		"v": 19607,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"4e9d0a3c-4f43-4817-8db4-ac060fc32b74": {
 		"name": "latency_component_instrumentation",
 		"v": 1579,
