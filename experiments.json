@@ -1344,21 +1344,6 @@
 			}
 		]
 	},
-	"09af2167-89ba-4129-87f2-080ff9d9f9f1": {
-		"name": "dart_apac_tha_iwdnomi_vwr_0_dav_trn_wch_gmg_onsite_2203_holdout",
-		"v": 19610,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"09cea69f-96f8-48ad-90fe-547dc3fe97a0": {
 		"name": "android_extensions_entry_point",
 		"v": 6382,
@@ -4739,15 +4724,15 @@
 	},
 	"21cff3a1-c757-4790-a3df-2d8634818af9": {
 		"name": "android_use_streamlined_pipeline_on_android_5_or_6",
-		"v": 18863,
+		"v": 19683,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
@@ -33640,21 +33625,6 @@
 			},
 			{
 				"weight": 100,
-				"value": "allowed"
-			}
-		]
-	},
-	"fa24ae23-6257-402f-b843-89f8a421d02b": {
-		"name": "dart_apac_sgp_iwdsingapore_vwr_0_dav_trn_wch_gmg_onsite_2203_holdout",
-		"v": 19603,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
 				"value": "allowed"
 			}
 		]
