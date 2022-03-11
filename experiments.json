@@ -27170,6 +27170,25 @@
 			}
 		]
 	},
+	"c6d5ba99-2f86-4406-b539-8134302eb487": {
+		"name": "android_go_live_entry_creator_mode",
+		"v": 19693,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "top_nav"
+			},
+			{
+				"weight": 0,
+				"value": "bottom_nav"
+			}
+		]
+	},
 	"c6f0d95b-23eb-48df-ab6c-6549c96f60d7": {
 		"name": "dart_bitssubsem1_vwr_537_sbs_cmc_sub_mis_email_2110_it_holdout",
 		"v": 17508,
