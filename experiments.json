@@ -14,21 +14,6 @@
 			}
 		]
 	},
-	"0004e31e-8d2c-42a9-a2e2-10d1e097e5cd": {
-		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_email_2203_de_holdout",
-		"v": 19647,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"0016759f-1344-45de-99e2-f9bfa46a8a6a": {
 		"name": "android_videoplayer_r7",
 		"v": 4918,
@@ -120,21 +105,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"009f7dda-87ee-45e0-9eb9-9dd863e38f53": {
-		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_push_2203_fr_holdout",
-		"v": 19651,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -2183,21 +2153,6 @@
 			},
 			{
 				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"1040a2b8-540f-48d0-b592-51262121a296": {
-		"name": "dart_apac_anz_monthlynewsletterborn_vwr_0_dav_trn_wch_gmg_email_2203_holdout",
-		"v": 19644,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 3,
-				"value": "holdout"
-			},
-			{
-				"weight": 97,
 				"value": "allowed"
 			}
 		]
@@ -8878,21 +8833,6 @@
 			}
 		]
 	},
-	"41ef3780-1d2f-483a-94f1-50cbabca8470": {
-		"name": "dart_whm22_vwr_680_awa_cmc_non_mis_email_223_holdout",
-		"v": 19639,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"41fb6317-aef9-40eb-8790-5d459a53bd7d": {
 		"name": "dart_euro2020heartbeat3_vwr_441_awa_cmc_lrn_spt_email_2106_holdout",
 		"v": 15614,
@@ -9105,21 +9045,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"42d02a99-7ef3-4525-8caf-f4b30ce0c9d3": {
-		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_email_2203_uk_holdout",
-		"v": 19646,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -13699,21 +13624,6 @@
 	"6494c8f6-655a-44dc-a390-2afb527ccb43": {
 		"name": "dart_back4blood_vwr_540_dav_cmc_wch_gmg_pe_2110_holdout",
 		"v": 17566,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"649f0e70-85d9-4fb8-876b-50fe59339191": {
-		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_push_2203_uk_holdout",
-		"v": 19649,
 		"t": 2,
 		"groups": [
 			{
@@ -24370,21 +24280,6 @@
 			}
 		]
 	},
-	"b1b47602-17a8-4189-b4ca-2d4c68e30d8b": {
-		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_push_2203_de_holdout",
-		"v": 19650,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"b1b6cefc-b689-4b4a-8bac-4d230895a85c": {
 		"name": "android_beyond_thunderdome",
 		"v": 17438,
@@ -31029,21 +30924,6 @@
 			}
 		]
 	},
-	"e4b3e67d-9e32-44c2-95e0-fb90f0b0bbe0": {
-		"name": "dart_iwdlaunchcorrection_vwr_677_dav_cmc_lrn_mis_email_2203_uk_holdout",
-		"v": 19654,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"e4f268c8-b489-49e6-b045-3cadb5daaf92": {
 		"name": "android_app_install",
 		"v": 8676,
@@ -32215,21 +32095,6 @@
 	"ed904aeb-52c7-4c0e-b849-bfd146c19dc3": {
 		"name": "dart_welcomeheromitest_vwr_539_dav_cmc_wch_mis_email_2110_holdout",
 		"v": 17512,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"edb7394e-6b09-480c-af70-50d648fd08c0": {
-		"name": "dart_iwdlaunch_vwr_677_dav_cmc_lrn_mis_email_2203_fr_holdout",
-		"v": 19648,
 		"t": 2,
 		"groups": [
 			{
@@ -34316,21 +34181,6 @@
 			{
 				"weight": 0,
 				"value": "variant_3"
-			}
-		]
-	},
-	"fe3493cb-a96d-49ce-8979-e992b77159b9": {
-		"name": "dart_apac_anz_monthlynewsletterfresh_vwr_0_dav_trn_wch_gmg_email_2203_duplicate_holdout",
-		"v": 19645,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 3,
-				"value": "holdout"
-			},
-			{
-				"weight": 97,
-				"value": "allowed"
 			}
 		]
 	},
