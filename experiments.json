@@ -1446,6 +1446,21 @@
 			}
 		]
 	},
+	"0ad044e4-639f-4c4d-9820-a2fe74c417a8": {
+		"name": "dart_iwdshowcase1_vwr_677_dav_cmc_lrn_mis_email_2203_fr_holdout",
+		"v": 19707,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0ad34aea-5b3c-45a8-aa50-cbdfe6989cee": {
 		"name": "promoter_liveline_caching",
 		"v": 13247,
