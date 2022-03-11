@@ -21041,6 +21041,25 @@
 			}
 		]
 	},
+	"9b438522-a2c8-465c-aa03-c3d4bacf5509": {
+		"name": "community-gifting-recommendation-v3.0",
+		"v": 19731,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control_2_6"
+			},
+			{
+				"weight": 0,
+				"value": "variant_3_0"
+			},
+			{
+				"weight": 0,
+				"value": "holdout_v1"
+			}
+		]
+	},
 	"9b7c68b8-1c1b-4aa0-bf22-c4878e2d9e62": {
 		"name": "dart_apac_twn_woohooredenvelopeday1_vwr_0_dav_trn_wch_gmg_push_2201_r1_holdout",
 		"v": 18809,
