@@ -14331,6 +14331,21 @@
 			}
 		]
 	},
+	"69190102-d01a-449d-a6cb-f20a5fc21272": {
+		"name": "android_ads_preload_player",
+		"v": 19733,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"697896b3-a4b9-4c00-a1a2-7fa35ec9a8e4": {
 		"name": "pushy_notifications_disable",
 		"v": 3420,
