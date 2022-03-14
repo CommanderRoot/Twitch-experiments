@@ -384,6 +384,21 @@
 			}
 		]
 	},
+	"02575994-036f-4382-9088-bff8295afdbc": {
+		"name": "android_preload_on_deeplink_|global",
+		"v": 19740,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.6"
+			}
+		]
+	},
 	"0275e081-851e-4297-888e-4001c4bfe4c3": {
 		"name": "dart_euro2020keyevent2_vwr_445_dav_cmc_wch_spt_email_2106_es_holdout",
 		"v": 15340,
