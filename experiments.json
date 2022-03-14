@@ -13606,6 +13606,21 @@
 			}
 		]
 	},
+	"64a22e3c-e3b0-46a8-8cd1-9ae58e34c4fd": {
+		"name": "android_anonymous_gifting",
+		"v": 19750,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"64bfcb47-6285-4036-ab8f-0a8634d4f352": {
 		"name": "following_service_cache_removal",
 		"v": 11277,
