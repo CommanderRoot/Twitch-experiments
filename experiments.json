@@ -33264,6 +33264,21 @@
 			}
 		]
 	},
+	"f8f78e1c-f48c-463f-8fc0-095e1f2cf4b3": {
+		"name": "boost_train",
+		"v": 19747,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "boost_train_off"
+			},
+			{
+				"weight": 0,
+				"value": "boost_train_on"
+			}
+		]
+	},
 	"f90f298d-1bc1-4dc7-a74b-e107745780b1": {
 		"name": "android_mgst_top_nav_stream_button",
 		"v": 12054,
