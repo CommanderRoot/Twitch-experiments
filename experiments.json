@@ -1217,16 +1217,20 @@
 	},
 	"08f77b30-67a4-4107-9ff2-0c1e6bbcba6f": {
 		"name": "ios_go_live_entry_creator_mode",
-		"v": 19768,
+		"v": 19769,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "top_nav"
+			},
+			{
+				"weight": 0,
+				"value": "bottom_nav"
 			}
 		]
 	},
@@ -31939,15 +31943,15 @@
 	},
 	"ed64f6ed-2c79-4025-a138-e2b5d3eaa415": {
 		"name": "android_ads_video_async_loading",
-		"v": 19374,
+		"v": 19770,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.5"
 			}
 		]
