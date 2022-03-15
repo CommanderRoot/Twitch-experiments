@@ -1215,6 +1215,21 @@
 			}
 		]
 	},
+	"08f77b30-67a4-4107-9ff2-0c1e6bbcba6f": {
+		"name": "ios_go_live_entry_creator_mode",
+		"v": 19768,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"092e4b89-0b1f-400a-9f27-058b80c9b337": {
 		"name": "ios_mb_chat_local_notifications_global",
 		"v": 19377,
