@@ -30281,15 +30281,15 @@
 	},
 	"df6423ff-76e9-4e99-be7a-6dafe9f3946b": {
 		"name": "android_disable_1080p_on_32bit_devices",
-		"v": 19739,
+		"v": 19782,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_12.5"
 			}
 		]
