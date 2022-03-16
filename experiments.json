@@ -9567,6 +9567,21 @@
 			}
 		]
 	},
+	"47d9aef7-2408-4e65-a60c-95da722d8369": {
+		"name": "Remove Pops From Mapping Considerations ",
+		"v": 19781,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "new_pop_control_group"
+			},
+			{
+				"weight": 50,
+				"value": "new_pop_experimental_group"
+			}
+		]
+	},
 	"47dc3b2f-05ac-43c9-9e94-1b8277d81ae6": {
 		"name": "dart_logic_push_holdout",
 		"v": 10959,
