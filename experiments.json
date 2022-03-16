@@ -4255,6 +4255,21 @@
 			}
 		]
 	},
+	"1f80da85-267e-4427-baef-95252f72d14d": {
+		"name": "dart_bitssubsem2_vwr_537_sbs_cmc_sub_mis_email_2203_holdout",
+		"v": 19773,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"20008fa4-0b13-46b7-a1e4-8a863b4fa9f2": {
 		"name": "dart_tnf1202_vwr_514_dav_cmc_wch_spt_emailonsite_2112_holdout",
 		"v": 18134,
