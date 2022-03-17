@@ -10637,6 +10637,21 @@
 			}
 		]
 	},
+	"4f8596d0-0cc0-404c-a2f0-985aa65ce59d": {
+		"name": "dart_apac_kor_twitchrivalsxdbd_vwr_0_dav_trn_wch_gmg_email_2203_holdout",
+		"v": 19788,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4f897f06-d982-4459-9a2a-618c09713b77": {
 		"name": "ios_cookie_consent_sticky_alert",
 		"v": 15061,
@@ -11345,6 +11360,21 @@
 			{
 				"weight": 50,
 				"value": "control"
+			}
+		]
+	},
+	"54c14bf2-250f-4bb2-b49f-1dd9a6d3ad31": {
+		"name": "dart_apac_kor_twitchrivalsxdbd_vwr_0_dav_trn_wch_gmg_push_2203_holdout",
+		"v": 19789,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
