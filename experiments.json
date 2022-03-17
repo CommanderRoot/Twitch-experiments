@@ -24004,15 +24004,15 @@
 	},
 	"afae8712-272f-4f6c-9d5c-083117cf1530": {
 		"name": "ios_chat_settings",
-		"v": 15616,
+		"v": 19798,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
