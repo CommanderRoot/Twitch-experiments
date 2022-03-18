@@ -11273,6 +11273,21 @@
 			}
 		]
 	},
+	"536ac355-0dc7-489a-a11a-e5e00f481bb1": {
+		"name": "ios_dynamically_switch_for_airplay",
+		"v": 19805,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "dont_switch"
+			},
+			{
+				"weight": 100,
+				"value": "switch"
+			}
+		]
+	},
 	"536bb971-5a7a-445a-a8e6-929d26e3b399": {
 		"name": "android_mads_rainfall_animation",
 		"v": 11831,
