@@ -22326,21 +22326,6 @@
 			}
 		]
 	},
-	"a4b9c010-d8ea-4fc1-91d0-a061f0061f73": {
-		"name": "dart_idxboxcostream_ctr_689_awa_cmc_str_gmg_email_223_holdout",
-		"v": 19753,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"a4dc194c-c4af-4566-bccd-ab3c0b715286": {
 		"name": "vx_following_rate_limit",
 		"v": 16630,
@@ -22608,21 +22593,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"a6aac815-d856-4eda-91c3-12988205c512": {
-		"name": "dart_iwdshowcase2_vwr_677_dav_cmc_lrn_mis_email_2203_uk_holdout",
-		"v": 19757,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
