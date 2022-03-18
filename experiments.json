@@ -10531,6 +10531,21 @@
 			}
 		]
 	},
+	"4ed21cb9-13d3-4d5f-8b32-b171be38e68f": {
+		"name": "dart_d30frozenv1_vwr_560_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 19803,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4f2ebce8-68ed-40a4-afb2-9db8fb09711d": {
 		"name": "vod_qos_model",
 		"v": 3976,
@@ -14042,6 +14057,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"66f473b4-8164-4769-b754-aabb14aeace8": {
+		"name": "dart_adsmanagereg_ctr_632_awa_cmc_lrn_mis_email_221_holdout",
+		"v": 19804,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
