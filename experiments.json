@@ -1005,6 +1005,25 @@
 			}
 		]
 	},
+	"06d7f651-5b2e-4d89-8344-6067b3ae6d56": {
+		"name": "android_ivs_broadcast_abr_aggressiveness",
+		"v": 19802,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 25,
+				"value": "treatment_1"
+			},
+			{
+				"weight": 25,
+				"value": "treatment_2"
+			}
+		]
+	},
 	"06ec7fca-f08d-4363-83a1-22af509aba74": {
 		"name": "dart_welcomeheroimagetest2_vwr_464_dav_cmc_wch_mis_email_2108_email",
 		"v": 16517,
