@@ -13144,6 +13144,25 @@
 			}
 		]
 	},
+	"60e344d9-10fd-45e7-8833-0a1b71c5e55c": {
+		"name": "android_anonymous_gifting_v2",
+		"v": 19833,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "anonymous_gifting_enabled"
+			},
+			{
+				"weight": 0,
+				"value": "reduced_description_enabled"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"612e5870-3d15-4770-96d0-c26eba557903": {
 		"name": "dart_euro2020keyevent1_vwr_445_dav_cmc_wch_spt_email_2106_en_holdout",
 		"v": 15309,
@@ -30201,6 +30220,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"dde9c514-e367-4642-91f2-1e58a75b4a36": {
+		"name": "android_mg_irl_broadcast_migration",
+		"v": 19834,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
