@@ -9844,7 +9844,7 @@
 	},
 	"4a21eec0-1de5-469e-b755-0d1087bbf18b": {
 		"name": "one_click",
-		"v": 18159,
+		"v": 19836,
 		"t": 1,
 		"groups": [
 			{
@@ -9854,6 +9854,18 @@
 			{
 				"weight": 0,
 				"value": "experiment"
+			},
+			{
+				"weight": 0,
+				"value": "variant_1"
+			},
+			{
+				"weight": 0,
+				"value": "variant_2"
+			},
+			{
+				"weight": 0,
+				"value": "variant_3"
 			}
 		]
 	},
