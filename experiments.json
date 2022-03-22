@@ -2658,6 +2658,21 @@
 			}
 		]
 	},
+	"136f3e41-0722-449f-891e-389a20f2e705": {
+		"name": "android_use_updated_discover_tab_query",
+		"v": 19868,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"13adc3f7-830c-485a-aa5e-91a5771813f9": {
 		"name": "android_creator_mode_segment_a",
 		"v": 18599,
