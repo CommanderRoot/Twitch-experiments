@@ -271,6 +271,21 @@
 			}
 		]
 	},
+	"015cb381-cc2e-4eae-a3e6-19af4f93c381": {
+		"name": "android_access_token_on_home_tab",
+		"v": 19860,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.7"
+			}
+		]
+	},
 	"0187ca6c-2ef6-429c-be3b-5b5fb9e1b005": {
 		"name": "ios_activity_performance",
 		"v": 19067,
@@ -1101,15 +1116,15 @@
 	},
 	"076af520-5b70-4249-8f25-3d500fdb9c85": {
 		"name": "android_squad_streaming",
-		"v": 19144,
+		"v": 19859,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
@@ -31606,7 +31621,7 @@
 	},
 	"e9c4c43d-9d69-47ed-a1e5-0c25d29627d6": {
 		"name": "android_ad_properties_on_home_tab",
-		"v": 19858,
+		"v": 19864,
 		"t": 1,
 		"groups": [
 			{
