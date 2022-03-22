@@ -20927,6 +20927,29 @@
 			}
 		]
 	},
+	"99585f75-3f82-441d-8d41-1b8fd9b186ec": {
+		"name": "android_global_http3_with_cronet",
+		"v": 19850,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.7_prod_cronet"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.7_cdn_cronet"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.7_cdn_http3"
+			}
+		]
+	},
 	"9982577c-99f7-49fb-b6e9-0499eb91ed1f": {
 		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_it_holdout",
 		"v": 17113,
@@ -29492,7 +29515,7 @@
 	},
 	"d7b752d0-fc92-4321-8c57-d563478ce160": {
 		"name": "android_http3_with_cronet",
-		"v": 19749,
+		"v": 19851,
 		"t": 1,
 		"groups": [
 			{
@@ -29501,15 +29524,15 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_dev_12.6_prod_cronet"
+				"value": "active_12.7_prod_cronet"
 			},
 			{
 				"weight": 0,
-				"value": "active_dev_12.6_stage_cronet"
+				"value": "active_12.7_cdn_cronet"
 			},
 			{
 				"weight": 0,
-				"value": "active_dev_12.6_stage_http3"
+				"value": "active_12.7_cdn_http3"
 			}
 		]
 	},
