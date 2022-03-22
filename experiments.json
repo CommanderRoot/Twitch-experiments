@@ -16239,6 +16239,21 @@
 			}
 		]
 	},
+	"758294a2-3fc6-4168-8bc7-4519df2e6bf3": {
+		"name": "android_exo2_on_32bit_devices",
+		"v": 19867,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.7"
+			}
+		]
+	},
 	"7582bc5a-db43-4579-a0e6-6c8fd79a41ba": {
 		"name": "android_first_time_chatter_prompt",
 		"v": 2768,
