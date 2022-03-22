@@ -25933,7 +25933,7 @@
 	},
 	"bdc3afcf-e104-49af-b3df-556f5f008ed7": {
 		"name": "ios_user_suspension_appeal",
-		"v": 15971,
+		"v": 19856,
 		"t": 1,
 		"groups": [
 			{
@@ -31605,8 +31605,8 @@
 		]
 	},
 	"e9c4c43d-9d69-47ed-a1e5-0c25d29627d6": {
-		"name": "android_load_stream_data_on_home_tab",
-		"v": 19657,
+		"name": "android_ad_properties_on_home_tab",
+		"v": 19858,
 		"t": 1,
 		"groups": [
 			{
@@ -31615,7 +31615,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_12.6"
+				"value": "active_12.7"
 			}
 		]
 	},
