@@ -21676,6 +21676,21 @@
 			}
 		]
 	},
+	"9d6c1a2b-101d-4f09-97cc-3d7b0d64b653": {
+		"name": "android_player_adaptive_quality_switch",
+		"v": 19893,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"9d7831af-91b4-4e39-be17-2a3a9130e7a7": {
 		"name": "dart_internationalpricingthai_ctr_417_awa_cmc_lrn_mis_email_2107_holdout",
 		"v": 15964,
