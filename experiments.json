@@ -9265,15 +9265,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 19881,
+		"v": 19885,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 40,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 60,
+				"weight": 50,
 				"value": "promotions_enabled"
 			}
 		]
@@ -18174,6 +18174,21 @@
 			{
 				"weight": 100,
 				"value": "active_8.9"
+			}
+		]
+	},
+	"844ecca2-effd-4f79-a40b-7ea461f463e9": {
+		"name": "android_ttv_holdout_aa",
+		"v": 19884,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
 			}
 		]
 	},
