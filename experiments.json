@@ -11346,6 +11346,21 @@
 			}
 		]
 	},
+	"538fd45f-6438-4e48-8356-5b92025ef94c": {
+		"name": "android_exo2_on_64bit_devices",
+		"v": 19890,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.7"
+			}
+		]
+	},
 	"53c3db96-c412-46f8-9bbc-a48ef28b8ab7": {
 		"name": "ios_ads_loudness_normalization",
 		"v": 19501,
