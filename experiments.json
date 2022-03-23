@@ -9265,15 +9265,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 19885,
+		"v": 19886,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 40,
 				"value": "promotions_enabled"
 			}
 		]
@@ -26396,11 +26396,11 @@
 	},
 	"c13edd2a-a27a-4a0a-9815-8545b568fdf3": {
 		"name": "ios_idfa_consent_prompt",
-		"v": 19866,
+		"v": 19887,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -26428,7 +26428,7 @@
 				"value": "no_pre_prompt_v12.4"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "no_pre_prompt_v12.6"
 			}
 		]
