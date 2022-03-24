@@ -1252,7 +1252,7 @@
 	},
 	"08f77b30-67a4-4107-9ff2-0c1e6bbcba6f": {
 		"name": "ios_go_live_entry_creator_mode",
-		"v": 19769,
+		"v": 19917,
 		"t": 2,
 		"groups": [
 			{
@@ -1261,11 +1261,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "top_nav"
+				"value": "label_only"
 			},
 			{
 				"weight": 0,
-				"value": "bottom_nav"
+				"value": "dropdown"
 			}
 		]
 	},
