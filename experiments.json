@@ -29625,23 +29625,23 @@
 	},
 	"d7b752d0-fc92-4321-8c57-d563478ce160": {
 		"name": "android_http3_with_cronet",
-		"v": 19851,
+		"v": 19906,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_12.7_prod_cronet"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_12.7_cdn_cronet"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_12.7_cdn_http3"
 			}
 		]
