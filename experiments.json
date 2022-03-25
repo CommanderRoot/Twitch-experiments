@@ -2888,6 +2888,21 @@
 			}
 		]
 	},
+	"153f905f-d0bf-4fd5-9900-8b5f36b79cee": {
+		"name": "dart_apac_sgp_monthlynewsletter_vwr_0_dav_trn_wch_gmg_email_2203_holdout",
+		"v": 19925,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"15418977-9c99-45b6-8509-ba405a220497": {
 		"name": "dart_sgf_cyberpunk2_onsite_holdout",
 		"v": 11251,
@@ -18935,6 +18950,21 @@
 			}
 		]
 	},
+	"8b0fbb5a-bdc3-4864-9178-190ef2679139": {
+		"name": "dart_apac_tha_monthlynewslettermar_vwr_0_dav_trn_wch_gmg_email_2203_holdout",
+		"v": 19927,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8b1d580b-ce4e-4b99-92a3-56a63a7568b7": {
 		"name": "ios_use_legacy_playback_state_change",
 		"v": 10487,
@@ -25052,6 +25082,21 @@
 			}
 		]
 	},
+	"b52a90c0-4e33-4aac-b514-bb1b0c4ce440": {
+		"name": "dart_apac_sgp_monthlynewsletter_vwr_0_dav_trn_wch_gmg_email_2203_email",
+		"v": 19926,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"b54f8797-2b35-4024-8a8c-0f2ef440e4fa": {
 		"name": "android_channel_deeplink_to_theatre",
 		"v": 3592,
@@ -28570,6 +28615,21 @@
 			{
 				"weight": 90,
 				"value": "allowed"
+			}
+		]
+	},
+	"d00ad6a1-707b-40f3-a6ca-1ea7705a13c8": {
+		"name": "dart_apac_tha_monthlynewslettermar_vwr_0_dav_trn_wch_gmg_email_2203_email",
+		"v": 19928,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
