@@ -2723,6 +2723,21 @@
 			}
 		]
 	},
+	"13f4c84d-2937-4343-ad09-ba0c24a6d6cf": {
+		"name": "dart_commercemerchmarch_vwr_678_cmm_cmc_buy_mis_onsite_223_holdout",
+		"v": 19920,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"13f76c2e-aa1b-45ad-adde-87f179bdefb3": {
 		"name": "dart_ecommedfpsoprimesublifecycle1_vwr_412_sbs_cmc_sub_mis_email_2105_de_holdout",
 		"v": 15265,
