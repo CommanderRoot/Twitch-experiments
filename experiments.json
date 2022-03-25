@@ -15735,6 +15735,21 @@
 			}
 		]
 	},
+	"71afa5c7-bc04-4596-a21a-14d3eb79b2e9": {
+		"name": "dart_adsmanagert3t4_test_ctr_675_awa_cmc_lrn_mis_email_223_holdout",
+		"v": 19947,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"71c5e21b-22b6-4ccc-a11a-0da1c1aceab5": {
 		"name": "android_poliwag",
 		"v": 8984,
