@@ -30776,6 +30776,21 @@
 			}
 		]
 	},
+	"e0d67502-d38f-4744-b3f6-b8b220bb0c5c": {
+		"name": "dart_apac_anz_ampodcast_vwr_0_dav_trn_wch_gmg_push_2203_holdout",
+		"v": 19964,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e0f0e500-2d38-4423-a9de-b41178992e79": {
 		"name": "dart_twitch_gift_card_092320_holdout",
 		"v": 11849,
