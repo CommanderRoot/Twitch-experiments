@@ -19944,11 +19944,11 @@
 	},
 	"91c4a97d-9b5a-490c-b41c-b4cd7a51a475": {
 		"name": "android_extensions_to_gql",
-		"v": 19670,
+		"v": 19972,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
@@ -19956,7 +19956,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_12.6"
 			}
 		]
@@ -28246,21 +28246,6 @@
 			{
 				"weight": 99,
 				"value": "allowed"
-			}
-		]
-	},
-	"cd6e0530-ee25-4416-9b76-3b4f4cc517ca": {
-		"name": "the_sill",
-		"v": 19561,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
