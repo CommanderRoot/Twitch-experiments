@@ -17928,15 +17928,15 @@
 	},
 	"813e8af9-54ed-499b-9652-08a6fc862ce6": {
 		"name": "android_mgst_just_chatting",
-		"v": 19402,
+		"v": 19985,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.5"
 			}
 		]
