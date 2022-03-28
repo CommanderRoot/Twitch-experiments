@@ -27938,7 +27938,7 @@
 	},
 	"cb91e771-2765-4b25-9c0b-276a42277df2": {
 		"name": "android_mgst_scenes_preview",
-		"v": 19325,
+		"v": 19983,
 		"t": 2,
 		"groups": [
 			{
@@ -27946,11 +27946,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_12.1_scenes_only"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_12.1_scenes_and_preview"
 			}
 		]
@@ -29325,15 +29325,15 @@
 	},
 	"d4a1648f-3a72-4163-b56a-c0e4a1f23db8": {
 		"name": "android_mgst_scene_preview_global",
-		"v": 19298,
+		"v": 19984,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.3"
 			}
 		]
