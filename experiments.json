@@ -14091,7 +14091,7 @@
 	},
 	"66e3abc3-40b3-419f-8ab1-94056d3c7460": {
 		"name": "android_sub_modal_landscape",
-		"v": 18922,
+		"v": 19975,
 		"t": 1,
 		"groups": [
 			{
@@ -14105,6 +14105,10 @@
 			{
 				"weight": 0,
 				"value": "enabled_no_25_subs"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_centered"
 			}
 		]
 	},
@@ -33825,15 +33829,15 @@
 	},
 	"f9e68b3d-de4b-47f3-b1a8-13a027edf7be": {
 		"name": "android_ads_audio_ads_background",
-		"v": 19792,
+		"v": 19976,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.6"
 			}
 		]
