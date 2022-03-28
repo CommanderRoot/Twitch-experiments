@@ -19678,6 +19678,21 @@
 			}
 		]
 	},
+	"8fc24074-8b36-4d9b-9a5a-e0934d5ccc5b": {
+		"name": "dart_dmcacopyright_ctr_awa_cmc_non_msc_email_223_holdout",
+		"v": 19989,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8fd8fecf-28cd-4e6f-a790-b7c5f970f57b": {
 		"name": "dart_test_chats_choice_award_kc_email",
 		"v": 11597,
