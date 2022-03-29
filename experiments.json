@@ -24495,21 +24495,6 @@
 			}
 		]
 	},
-	"b13d93ac-5405-4370-bbaf-56eba5836808": {
-		"name": "dart_apac_tha_twitchrivalsdbd_vwr_0_dav_trn_wch_gmg_onsite_2203_holdout",
-		"v": 19903,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"b15201ca-01dd-4145-82ee-62672910aca4": {
 		"name": "android_creator_benefits_messages",
 		"v": 17519,
@@ -26968,21 +26953,6 @@
 			{
 				"weight": 100,
 				"value": "active_10.9"
-			}
-		]
-	},
-	"c4974b2f-b1c7-49c1-b744-b681bff0ee05": {
-		"name": "dart_apac_tha_twitchrivalsdbd_vwr_0_dav_trn_wch_gmg_push_2203_holdout",
-		"v": 19898,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
