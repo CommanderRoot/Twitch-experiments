@@ -17618,6 +17618,21 @@
 			}
 		]
 	},
+	"7e5e23c0-f7d5-4295-9445-b18ca2c8e6f0": {
+		"name": "dart_apac_anz_foodanddrinkmonth_vwr_0_dav_trn_wch_irl_email_2204_holdout",
+		"v": 19993,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7e5e8a28-f599-4fee-9ad6-d1acc242cd29": {
 		"name": "android_visage_tracking",
 		"v": 10748,
