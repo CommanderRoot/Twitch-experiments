@@ -33930,16 +33930,16 @@
 	},
 	"f8f78e1c-f48c-463f-8fc0-095e1f2cf4b3": {
 		"name": "boost_train",
-		"v": 19847,
+		"v": 20036,
 		"t": 3,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "boost_train_off"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "boost_train_on"
 			}
 		]
