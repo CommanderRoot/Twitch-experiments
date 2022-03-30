@@ -20306,7 +20306,7 @@
 	},
 	"937b71c1-f7fc-442d-912a-614e5eaaf1c0": {
 		"name": "dart_multichannelexwelcome_vwr_7501_cmm_cmc_wch_mis_email_223_email",
-		"v": 19979,
+		"v": 20032,
 		"t": 2,
 		"groups": [
 			{
@@ -26653,7 +26653,7 @@
 	},
 	"c13edd2a-a27a-4a0a-9815-8545b568fdf3": {
 		"name": "ios_idfa_consent_prompt",
-		"v": 19887,
+		"v": 20034,
 		"t": 1,
 		"groups": [
 			{
@@ -26687,6 +26687,10 @@
 			{
 				"weight": 0,
 				"value": "no_pre_prompt_v12.6"
+			},
+			{
+				"weight": 0,
+				"value": "no_pre_prompt_v12.7"
 			}
 		]
 	},
