@@ -14687,6 +14687,21 @@
 			}
 		]
 	},
+	"69e9cfa1-6fa6-452d-868c-574311ed517b": {
+		"name": "android_32bit_devices_autoplay_off",
+		"v": 20048,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.8"
+			}
+		]
+	},
 	"69efcfc8-07df-4236-b7e4-71dd20c02990": {
 		"name": "dart_haloinfinite_vwr_595_dav_cmc_wch_gmg_email_2112_es_holdout",
 		"v": 18230,
