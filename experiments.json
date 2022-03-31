@@ -19145,7 +19145,7 @@
 	},
 	"8b40a4f9-710b-47d0-928d-dee4b3b1dfda": {
 		"name": "android_multi_month_subs",
-		"v": 18918,
+		"v": 20052,
 		"t": 1,
 		"groups": [
 			{
@@ -19154,7 +19154,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "enabled_sub_page"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_bottom_sheet"
 			}
 		]
 	},
