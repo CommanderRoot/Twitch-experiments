@@ -18342,15 +18342,15 @@
 	},
 	"844ecca2-effd-4f79-a40b-7ea461f463e9": {
 		"name": "android_ttv_holdout_aa",
-		"v": 19884,
+		"v": 20046,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
