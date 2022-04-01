@@ -30916,21 +30916,6 @@
 			}
 		]
 	},
-	"e0d67502-d38f-4744-b3f6-b8b220bb0c5c": {
-		"name": "dart_apac_anz_ampodcast_vwr_0_dav_trn_wch_gmg_push_2203_holdout",
-		"v": 19965,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"e0f0e500-2d38-4423-a9de-b41178992e79": {
 		"name": "dart_twitch_gift_card_092320_holdout",
 		"v": 11849,
@@ -30973,21 +30958,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"e16a6754-a846-440b-9587-e4942f3f875a": {
-		"name": "dart_iwdshowcase4_vwr_677_dav_cmc_lrn_mis_email_2203_uk_holdout",
-		"v": 19994,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
