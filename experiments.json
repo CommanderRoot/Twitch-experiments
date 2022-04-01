@@ -1560,21 +1560,6 @@
 			}
 		]
 	},
-	"0aec11b7-eceb-446e-93cb-7d86384b5949": {
-		"name": "dart_test_local_time_zone_send_holdout",
-		"v": 20068,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "holdout"
-			},
-			{
-				"weight": 0,
-				"value": "allowed"
-			}
-		]
-	},
 	"0afd7516-d46e-475b-ad41-ee36de88090d": {
 		"name": "android_mgst_ivs_game_broadcast_global",
 		"v": 16536,
