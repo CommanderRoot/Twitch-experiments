@@ -9649,15 +9649,15 @@
 	},
 	"47d9aef7-2408-4e65-a60c-95da722d8369": {
 		"name": "Remove Pops From Mapping Considerations ",
-		"v": 20056,
+		"v": 20077,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 71,
+				"weight": 29,
 				"value": "new_pop_control_group"
 			},
 			{
-				"weight": 29,
+				"weight": 71,
 				"value": "new_pop_experimental_group"
 			}
 		]
