@@ -402,16 +402,16 @@
 	},
 	"02575994-036f-4382-9088-bff8295afdbc": {
 		"name": "android_preload_on_deeplink_global",
-		"v": 19829,
+		"v": 20096,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_12.6"
+				"weight": 50,
+				"value": "active_12.7"
 			}
 		]
 	},
