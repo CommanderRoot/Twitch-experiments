@@ -11553,6 +11553,21 @@
 			}
 		]
 	},
+	"55815aab-f596-4b18-a9a3-02902bb785ce": {
+		"name": "dart_apac_anz_foodanddrinkmonth_vwr_0_dav_trn_wch_irl_onsite_2204_holdout",
+		"v": 20090,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"55b11149-bb43-4e7e-af20-8fcc5788e5a7": {
 		"name": "dart_tnf1225_vwr_514_dav_cmc_wch_spt_push_2112_holdout",
 		"v": 18576,
