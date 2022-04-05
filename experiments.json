@@ -4821,6 +4821,21 @@
 			}
 		]
 	},
+	"22c7f45d-1702-4b50-9970-66d4156939dc": {
+		"name": "ios_live_hls_preloading",
+		"v": 20111,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"22d79ca1-99b8-42fe-bc37-7d57a3537258": {
 		"name": "android_brand_safety_phase_1",
 		"v": 15284,
