@@ -13396,11 +13396,11 @@
 	},
 	"6217ac35-cd2e-4a3a-a214-d08b37da49c2": {
 		"name": "ios_riddle_bits",
-		"v": 20113,
+		"v": 20114,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -13408,7 +13408,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_12.7"
 			}
 		]
