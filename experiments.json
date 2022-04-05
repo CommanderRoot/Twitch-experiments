@@ -21153,23 +21153,23 @@
 	},
 	"99585f75-3f82-441d-8d41-1b8fd9b186ec": {
 		"name": "android_global_http3_with_cronet",
-		"v": 19907,
+		"v": 20118,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_12.7_prod_cronet"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_12.7_cdn_cronet"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_12.7_cdn_http3"
 			}
 		]
@@ -29801,23 +29801,23 @@
 	},
 	"d7b752d0-fc92-4321-8c57-d563478ce160": {
 		"name": "android_http3_with_cronet",
-		"v": 19906,
+		"v": 20120,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 5,
 				"value": "active_12.7_prod_cronet"
 			},
 			{
-				"weight": 25,
+				"weight": 5,
 				"value": "active_12.7_cdn_cronet"
 			},
 			{
-				"weight": 25,
+				"weight": 5,
 				"value": "active_12.7_cdn_http3"
 			}
 		]
