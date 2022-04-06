@@ -19203,6 +19203,21 @@
 			}
 		]
 	},
+	"8c21abda-6ee9-4114-9de0-f78588ff7ab0": {
+		"name": "dart_deeplyfrozenapac_vwr_1_awa_cmc_wch_mis_email_223_holdout",
+		"v": 20132,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8c2fafa8-f822-4cab-93b3-b6426e25ac12": {
 		"name": "ios_viewer_card_update",
 		"v": 19500,
