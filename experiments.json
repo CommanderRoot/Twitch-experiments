@@ -2273,7 +2273,7 @@
 	},
 	"10781306-f68c-4206-9692-d93dc2b015a8": {
 		"name": "ios_mb_ivs_audio_quality",
-		"v": 20161,
+		"v": 20173,
 		"t": 2,
 		"groups": [
 			{
@@ -27055,20 +27055,16 @@
 	},
 	"c3d9dad9-2ab1-401a-9c11-d2296fb17083": {
 		"name": "aj_test",
-		"v": 20171,
+		"v": 20174,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 90,
-				"value": ""
-			},
-			{
-				"weight": 5,
-				"value": "variant2"
+				"weight": 10,
+				"value": "variant1"
 			}
 		]
 	},
