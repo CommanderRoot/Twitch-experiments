@@ -10589,6 +10589,21 @@
 			}
 		]
 	},
+	"4e4e2f85-8c80-4dbc-97ff-16edbcbc747d": {
+		"name": "dart_subchallenge_ctr_696_sbs_cmc_sup_mis_oe_2204_holdout",
+		"v": 20138,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4e7403b3-f819-4658-a4e2-bc203d134da8": {
 		"name": "dart_japantwitchrivalsxguiltygear_vwr_0_dav_trn_wch_gmg_push_2109_holdout",
 		"v": 16890,
