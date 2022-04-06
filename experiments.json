@@ -2241,6 +2241,21 @@
 			}
 		]
 	},
+	"0ff71e80-e0c2-4c33-9ef3-aae106eb6cd3": {
+		"name": "aj_test2",
+		"v": 20182,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 95,
+				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "variant"
+			}
+		]
+	},
 	"10098d01-1146-440e-b880-ee3fb29206bb": {
 		"name": "dart_euro2020keyevent7_vwr_445_dav_cmc_wch_spt_email_2106_pt_holdout",
 		"v": 15615,
@@ -27055,19 +27070,19 @@
 	},
 	"c3d9dad9-2ab1-401a-9c11-d2296fb17083": {
 		"name": "aj_test",
-		"v": 20180,
+		"v": 20184,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 14,
+				"weight": 10,
 				"value": "variant1"
 			},
 			{
-				"weight": 11,
+				"weight": 10,
 				"value": "variant2"
 			}
 		]
