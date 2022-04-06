@@ -27055,16 +27055,20 @@
 	},
 	"c3d9dad9-2ab1-401a-9c11-d2296fb17083": {
 		"name": "aj_test",
-		"v": 20174,
+		"v": 20180,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 14,
 				"value": "variant1"
+			},
+			{
+				"weight": 11,
+				"value": "variant2"
 			}
 		]
 	},
