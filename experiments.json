@@ -27053,6 +27053,21 @@
 			}
 		]
 	},
+	"c3d9dad9-2ab1-401a-9c11-d2296fb17083": {
+		"name": "aj_test",
+		"v": 20166,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 99,
+				"value": "variant"
+			}
+		]
+	},
 	"c42b68e4-46a6-4064-8318-95fd9a4a8fce": {
 		"name": "dart_subtemberfinalcall_vwr_492_dav_cmc_lrn_mis_eo_2109_holdout",
 		"v": 17057,
