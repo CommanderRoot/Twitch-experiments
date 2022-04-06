@@ -2350,6 +2350,21 @@
 			}
 		]
 	},
+	"10df8aa0-48fb-495e-9cac-a8482357e98b": {
+		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 20189,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"11611bbf-0188-4d2f-a200-84358cfaaf57": {
 		"name": "twilight_editing_les_poissons",
 		"v": 4282,
@@ -8462,6 +8477,21 @@
 			}
 		]
 	},
+	"3e868ce6-d5e4-44d7-82c2-1aca0e104478": {
+		"name": "dart_cold_d5_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 20191,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3e958da8-9f98-41ba-8ba4-424f0a39210e": {
 		"name": "dart_international_price_mxtr_gift_holdout",
 		"v": 15302,
@@ -10664,6 +10694,21 @@
 	"4eb2fb6e-f566-4b29-b99e-b3d65e21864a": {
 		"name": "dart_ps5_digital_showcase_september_holdout",
 		"v": 11719,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"4ed21cb9-13d3-4d5f-8b32-b171be38e68f": {
+		"name": "dart_d30frozenv1_vwr_560_dav_cmc_wch_mis_email_2111_holdout",
+		"v": 20190,
 		"t": 2,
 		"groups": [
 			{
@@ -15545,6 +15590,21 @@
 			{
 				"weight": 0,
 				"value": "7"
+			}
+		]
+	},
+	"6fb32348-8b9f-4319-9948-4a3c126ac7ff": {
+		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 20192,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -27070,20 +27130,24 @@
 	},
 	"c3d9dad9-2ab1-401a-9c11-d2296fb17083": {
 		"name": "aj_test",
-		"v": 20184,
+		"v": 20194,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "variant1"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "variant2"
+			},
+			{
+				"weight": 50,
+				"value": "bam"
 			}
 		]
 	},
@@ -28780,6 +28844,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"cf115fa2-e2d3-46e0-a5f9-ed8c9a8a12f2": {
+		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 20188,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
