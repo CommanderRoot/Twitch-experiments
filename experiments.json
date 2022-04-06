@@ -535,6 +535,21 @@
 			}
 		]
 	},
+	"03c25ed5-59ae-4d53-a584-2635cc632ba7": {
+		"name": "dart_deeplyfrozenelatam_vwr_1_awa_cmc_wch_mis_email_223_holdout",
+		"v": 20133,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"03e27667-d926-47dc-ab02-5435a6e16205": {
 		"name": "dart_fpso_prime_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15564,
