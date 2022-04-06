@@ -27491,7 +27491,7 @@
 	},
 	"c6d5ba99-2f86-4406-b539-8134302eb487": {
 		"name": "android_go_live_entry_creator_mode",
-		"v": 19997,
+		"v": 20139,
 		"t": 2,
 		"groups": [
 			{
@@ -27500,11 +27500,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "labeled_button"
+				"value": "label_only_active_12.8"
 			},
 			{
 				"weight": 0,
-				"value": "dropdown"
+				"value": "dropdown_active_12.8"
 			}
 		]
 	},
