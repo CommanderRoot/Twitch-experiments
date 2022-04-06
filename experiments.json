@@ -2273,7 +2273,7 @@
 	},
 	"10781306-f68c-4206-9692-d93dc2b015a8": {
 		"name": "ios_mb_ivs_audio_quality",
-		"v": 20159,
+		"v": 20161,
 		"t": 2,
 		"groups": [
 			{
@@ -2286,7 +2286,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "lowest"
+				"value": "minimum"
 			}
 		]
 	},
@@ -8351,7 +8351,7 @@
 	},
 	"3d32f8cd-fc2d-4fa0-b629-d83a19c38c30": {
 		"name": "android_multioption_predictions",
-		"v": 20154,
+		"v": 20162,
 		"t": 1,
 		"groups": [
 			{
