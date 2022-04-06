@@ -19248,6 +19248,21 @@
 			}
 		]
 	},
+	"8c47f4d7-f089-4abf-b0c5-80dbb4add4df": {
+		"name": "dart_deeplyfrozeneus_vwr_1_awa_cmc_wch_mis_email_223_holdout",
+		"v": 20134,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8c4ef9dd-5c74-46eb-bb58-aecf627fba98": {
 		"name": "ios_swift_video_player_controller",
 		"v": 8457,
@@ -25262,6 +25277,25 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"b5db0365-0593-4495-ba2e-5818634fc3d6": {
+		"name": "dart_deeplyfrozeneus_vwr_1_awa_cmc_wch_mis_email_223_email",
+		"v": 20135,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
