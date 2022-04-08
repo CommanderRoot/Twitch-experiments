@@ -3896,6 +3896,21 @@
 			}
 		]
 	},
+	"1b53a5dd-aed1-494d-9e5f-8f71e5ed9d50": {
+		"name": "dart_zlan_vwr_699_dav_cmc_wch_irl_push_2204_holdout",
+		"v": 20238,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1b5d7f2b-7aad-4eea-9e1c-4be185db1628": {
 		"name": "android_creator_settings_p2",
 		"v": 11029,
