@@ -1301,11 +1301,11 @@
 	},
 	"092e4b89-0b1f-400a-9f27-058b80c9b337": {
 		"name": "ios_mb_chat_local_notifications_global",
-		"v": 20240,
+		"v": 20242,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "chat_messages_only"
 			},
 			{
@@ -1313,7 +1313,7 @@
 				"value": "disabled"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "expanded_events"
 			}
 		]
