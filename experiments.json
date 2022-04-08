@@ -34998,6 +34998,21 @@
 			}
 		]
 	},
+	"ff5db855-d09b-4f02-bd07-0cb8d44b2c47": {
+		"name": "dart_zlan_vwr_699_dav_cmc_wch_irl_email_2204_holdout",
+		"v": 20237,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ffb0b356-fd84-4d50-b1dd-9406d7cf49f9": {
 		"name": "dart_wintergday1_vwr_597_dav_cmc_wch_gmg_onsitepush_2112_holdout",
 		"v": 18254,
