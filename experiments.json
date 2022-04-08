@@ -22966,6 +22966,21 @@
 			}
 		]
 	},
+	"a540f013-f25a-4eb8-83f3-8328d0335e6b": {
+		"name": "dart_apac_kor_foodanddrinks_ctr_0_dav_trn_wch_gmg_onsite_2204_holdout",
+		"v": 20236,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a5475654-db4b-45ab-aef2-8ee851967c5e": {
 		"name": "dart_primday062121_viewer_email_push_holdout",
 		"v": 15498,
