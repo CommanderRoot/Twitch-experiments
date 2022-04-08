@@ -242,31 +242,31 @@
 	},
 	"01501b3e-11b1-4447-8753-0e30698f0790": {
 		"name": "android_mgst_ivs_ingest_tester",
-		"v": 19882,
+		"v": 20234,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_10"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_20"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_30"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_raw"
 			},
 			{
@@ -274,7 +274,7 @@
 				"value": "active_25"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_50"
 			},
 			{
@@ -282,7 +282,7 @@
 				"value": "active_raw_25"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_raw_50"
 			}
 		]
@@ -14152,15 +14152,15 @@
 	},
 	"65d5406a-9a8b-454b-9324-f34481472904": {
 		"name": "carrie_test",
-		"v": 20196,
+		"v": 20232,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
