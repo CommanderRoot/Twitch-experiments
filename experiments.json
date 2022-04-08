@@ -1301,11 +1301,11 @@
 	},
 	"092e4b89-0b1f-400a-9f27-058b80c9b337": {
 		"name": "ios_mb_chat_local_notifications_global",
-		"v": 19377,
+		"v": 20240,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "chat_messages_only"
 			},
 			{
@@ -1313,7 +1313,7 @@
 				"value": "disabled"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "expanded_events"
 			}
 		]
@@ -17409,12 +17409,12 @@
 	},
 	"7c09b4dd-4385-4730-b870-af29c927bad8": {
 		"name": "ios_mb_chat_local_notifications",
-		"v": 18902,
+		"v": 20241,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active"
 			},
 			{
@@ -17422,7 +17422,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "expanded_events"
 			}
 		]
