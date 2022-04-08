@@ -2243,7 +2243,7 @@
 	},
 	"0ff71e80-e0c2-4c33-9ef3-aae106eb6cd3": {
 		"name": "aj_test2",
-		"v": 20182,
+		"v": 20230,
 		"t": 1,
 		"groups": [
 			{
@@ -2253,6 +2253,10 @@
 			{
 				"weight": 5,
 				"value": "variant"
+			},
+			{
+				"weight": 100,
+				"value": "bam"
 			}
 		]
 	},
