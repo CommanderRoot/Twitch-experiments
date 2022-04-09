@@ -535,21 +535,6 @@
 			}
 		]
 	},
-	"03c25ed5-59ae-4d53-a584-2635cc632ba7": {
-		"name": "dart_deeplyfrozenelatam_vwr_1_awa_cmc_wch_mis_email_223_holdout",
-		"v": 20133,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"03e27667-d926-47dc-ab02-5435a6e16205": {
 		"name": "dart_fpso_prime_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15564,
@@ -8541,21 +8526,6 @@
 			}
 		]
 	},
-	"3e868ce6-d5e4-44d7-82c2-1aca0e104478": {
-		"name": "dart_cold_d5_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 20191,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"3e958da8-9f98-41ba-8ba4-424f0a39210e": {
 		"name": "dart_international_price_mxtr_gift_holdout",
 		"v": 15302,
@@ -10352,25 +10322,6 @@
 			}
 		]
 	},
-	"4be2d474-51c6-4802-8b6f-204bbfa05f4d": {
-		"name": "dart_multimonthen_vwr_543_cmm_cmc_buy_mis_email_2110_email",
-		"v": 20146,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 34,
-				"value": "Variant A"
-			},
-			{
-				"weight": 33,
-				"value": "Variant B"
-			},
-			{
-				"weight": 33,
-				"value": "Variant C"
-			}
-		]
-	},
 	"4c11d69d-64f3-4b2a-a5f3-81f5ab253310": {
 		"name": "dart_ecommedfpsogiftsublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_de_holdout",
 		"v": 15269,
@@ -10710,21 +10661,6 @@
 			}
 		]
 	},
-	"4e4e2f85-8c80-4dbc-97ff-16edbcbc747d": {
-		"name": "dart_subchallenge_ctr_696_sbs_cmc_sup_mis_oe_2204_holdout",
-		"v": 20138,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"4e7403b3-f819-4658-a4e2-bc203d134da8": {
 		"name": "dart_japantwitchrivalsxguiltygear_vwr_0_dav_trn_wch_gmg_push_2109_holdout",
 		"v": 16890,
@@ -10758,21 +10694,6 @@
 	"4eb2fb6e-f566-4b29-b99e-b3d65e21864a": {
 		"name": "dart_ps5_digital_showcase_september_holdout",
 		"v": 11719,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"4ed21cb9-13d3-4d5f-8b32-b171be38e68f": {
-		"name": "dart_d30frozenv1_vwr_560_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 20190,
 		"t": 2,
 		"groups": [
 			{
@@ -11722,21 +11643,6 @@
 	"5527643b-93ba-4f12-bc36-1468d05cd4ca": {
 		"name": "dart_haloinfinite_vwr_595_dav_cmc_wch_gmg_email_2112_fr_holdout",
 		"v": 18232,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"55815aab-f596-4b18-a9a3-02902bb785ce": {
-		"name": "dart_apac_anz_foodanddrinkmonth_vwr_0_dav_trn_wch_irl_onsite_2204_holdout",
-		"v": 20090,
 		"t": 2,
 		"groups": [
 			{
@@ -14063,21 +13969,6 @@
 	"651531c3-c35e-4f1d-a5ec-ef4029dd7860": {
 		"name": "dart_gaymingawards_vwr_646_awa_cmc_lrn_mis_email_2202_uk_holdout",
 		"v": 19074,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"65181375-6418-428e-b239-0d2fbf04451d": {
-		"name": "dart_multimonthen_vwr_543_cmm_cmc_buy_mis_email_2110_holdout",
-		"v": 20145,
 		"t": 2,
 		"groups": [
 			{
@@ -19399,21 +19290,6 @@
 			}
 		]
 	},
-	"8c21abda-6ee9-4114-9de0-f78588ff7ab0": {
-		"name": "dart_deeplyfrozenapac_vwr_1_awa_cmc_wch_mis_email_223_holdout",
-		"v": 20132,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"8c2fafa8-f822-4cab-93b3-b6426e25ac12": {
 		"name": "ios_viewer_card_update",
 		"v": 19500,
@@ -19426,21 +19302,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"8c47f4d7-f089-4abf-b0c5-80dbb4add4df": {
-		"name": "dart_deeplyfrozeneus_vwr_1_awa_cmc_wch_mis_email_223_holdout",
-		"v": 20136,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -25492,25 +25353,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"b5db0365-0593-4495-ba2e-5818634fc3d6": {
-		"name": "dart_deeplyfrozeneus_vwr_1_awa_cmc_wch_mis_email_223_email",
-		"v": 20137,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 34,
-				"value": "Variant A"
-			},
-			{
-				"weight": 33,
-				"value": "Variant B"
-			},
-			{
-				"weight": 33,
-				"value": "Variant C"
 			}
 		]
 	},
