@@ -6777,6 +6777,21 @@
 			}
 		]
 	},
+	"3136dfb1-398a-47ed-8469-cb4874d8319f": {
+		"name": "ios_haptics_experiment",
+		"v": 20271,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"315d45d5-d4ca-47fc-b29e-d832978d8032": {
 		"name": "tvapps_viridian_feature_tags",
 		"v": 9842,
