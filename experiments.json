@@ -3881,21 +3881,6 @@
 			}
 		]
 	},
-	"1b53a5dd-aed1-494d-9e5f-8f71e5ed9d50": {
-		"name": "dart_zlan_vwr_699_dav_cmc_wch_irl_push_2204_holdout",
-		"v": 20238,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"1b5d7f2b-7aad-4eea-9e1c-4be185db1628": {
 		"name": "android_creator_settings_p2",
 		"v": 11029,
@@ -34828,21 +34813,6 @@
 	"ff437345-e51e-4e56-9f6e-3026eed73e1a": {
 		"name": "dart_bhm2022_vwr_656_awa_cmc_lrn_mis_email_221_holdout",
 		"v": 19131,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"ff5db855-d09b-4f02-bd07-0cb8d44b2c47": {
-		"name": "dart_zlan_vwr_699_dav_cmc_wch_irl_email_2204_holdout",
-		"v": 20237,
 		"t": 2,
 		"groups": [
 			{
