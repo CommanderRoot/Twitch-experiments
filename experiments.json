@@ -22100,6 +22100,25 @@
 			}
 		]
 	},
+	"9ddb3385-950c-4a0b-b719-3e03c4294b91": {
+		"name": "roster_membership_writes",
+		"v": 20281,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "legacy"
+			},
+			{
+				"weight": 0,
+				"value": "fulton"
+			},
+			{
+				"weight": 100,
+				"value": "disable"
+			}
+		]
+	},
 	"9de218d7-f785-4fee-993a-04c8643562ac": {
 		"name": "dart_intlpricing_vwr_416_cmm_cmc_lrn_mis_email_2105_holdout",
 		"v": 14831,
@@ -24848,6 +24867,25 @@
 			}
 		]
 	},
+	"b15b6eaf-32ba-470c-8353-0666495c7a39": {
+		"name": "roster_invitation_reads",
+		"v": 20282,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "legacy"
+			},
+			{
+				"weight": 0,
+				"value": "fulton"
+			},
+			{
+				"weight": 100,
+				"value": "disable"
+			}
+		]
+	},
 	"b165cfe9-55ba-49df-b90f-4943392eec1c": {
 		"name": "dart_apac_twn_woohooredenvelope_vwr_0_dav_trn_wch_gmg_email_2201_holdout",
 		"v": 18735,
@@ -26855,11 +26893,11 @@
 	},
 	"c13edd2a-a27a-4a0a-9815-8545b568fdf3": {
 		"name": "ios_idfa_consent_prompt",
-		"v": 20219,
+		"v": 20284,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -26867,7 +26905,7 @@
 				"value": "no_pre_prompt"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "pre_prompt_personalized"
 			},
 			{
@@ -34615,6 +34653,25 @@
 			{
 				"weight": 100,
 				"value": "active_9.0"
+			}
+		]
+	},
+	"fc71afd5-ce1e-4135-9ecf-d7d5e6904da3": {
+		"name": "roster_invitation_writes",
+		"v": 20283,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "legacy"
+			},
+			{
+				"weight": 0,
+				"value": "fulton"
+			},
+			{
+				"weight": 100,
+				"value": "disable"
 			}
 		]
 	},
