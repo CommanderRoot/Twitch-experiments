@@ -16473,15 +16473,15 @@
 	},
 	"758294a2-3fc6-4168-8bc7-4519df2e6bf3": {
 		"name": "android_exo2_on_32bit_devices",
-		"v": 19867,
+		"v": 20273,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.7"
 			}
 		]
