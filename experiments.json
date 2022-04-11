@@ -6057,6 +6057,25 @@
 			}
 		]
 	},
+	"2a68d16e-446c-440d-8605-df0d99b18764": {
+		"name": "roster_team_writes",
+		"v": 20278,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "legacy"
+			},
+			{
+				"weight": 0,
+				"value": "fulton"
+			},
+			{
+				"weight": 100,
+				"value": "disable"
+			}
+		]
+	},
 	"2a90d5d9-47ba-47d5-9f92-4b12a7d62ae2": {
 		"name": "leftnav_recommended_promoted_streams",
 		"v": 17170,
@@ -6932,6 +6951,25 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"31f42cb0-5558-416a-b5ac-95a90c3dda04": {
+		"name": "roster_membership_reads",
+		"v": 20280,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "legacy"
+			},
+			{
+				"weight": 0,
+				"value": "fulton"
+			},
+			{
+				"weight": 100,
+				"value": "disable"
 			}
 		]
 	},
@@ -9336,6 +9374,25 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"43a6a23c-b9df-43ed-b71c-448075440f03": {
+		"name": "roster_team_reads",
+		"v": 20277,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "legacy"
+			},
+			{
+				"weight": 0,
+				"value": "fulton"
+			},
+			{
+				"weight": 100,
+				"value": "disable"
 			}
 		]
 	},
@@ -12626,6 +12683,25 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"5c4cbeb0-1672-44f1-a3c8-11277407590d": {
+		"name": "roster_image_uploads",
+		"v": 20279,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "legacy"
+			},
+			{
+				"weight": 0,
+				"value": "fulton"
+			},
+			{
+				"weight": 100,
+				"value": "disable"
 			}
 		]
 	},
