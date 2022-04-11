@@ -3191,6 +3191,21 @@
 			}
 		]
 	},
+	"16641928-b480-4891-a7ee-8881c80cea85": {
+		"name": "ios_onsite_notifcation_gestures",
+		"v": 20274,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"16cbccc3-d156-4020-b09b-83925e1be4d8": {
 		"name": "dart_fpso_prime_sub_reminder_localized_en_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15568,
