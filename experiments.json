@@ -13442,19 +13442,19 @@
 	},
 	"60e344d9-10fd-45e7-8833-0a1b71c5e55c": {
 		"name": "android_anonymous_gifting_v2",
-		"v": 20270,
+		"v": 20286,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 15,
 				"value": "anonymous_gifting_enabled"
 			},
 			{
-				"weight": 5,
+				"weight": 15,
 				"value": "optional_gift_description_hidden"
 			},
 			{
-				"weight": 90,
+				"weight": 70,
 				"value": "control"
 			}
 		]
