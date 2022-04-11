@@ -22827,6 +22827,21 @@
 			}
 		]
 	},
+	"a5229f4b-9ba8-4652-b8b0-88edd7d6bfee": {
+		"name": "android_cookie_consent_prompt_dismiss",
+		"v": 20267,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"a5273f61-a730-4711-9679-10d67168dd6e": {
 		"name": "android_gql_cloudflare_bot_score_tracking",
 		"v": 14569,
