@@ -3440,21 +3440,6 @@
 			}
 		]
 	},
-	"18885daf-684b-4fff-a655-4868cc73243f": {
-		"name": "dart_apac_php_dcpseadota2_vwr_0_dav_trn_wch_gmg_push_2204_holdout",
-		"v": 20235,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"1890c9c4-e8fc-4ab3-b933-e44de461c538": {
 		"name": "experiments_client_integration_test",
 		"v": 1909,
