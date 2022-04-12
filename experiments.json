@@ -2459,6 +2459,21 @@
 			}
 		]
 	},
+	"11e74298-4b3a-4aab-aaa0-153118291675": {
+		"name": "dart_ukgiftcard_vwr_704_cmm_cmc_buy_mis_oe_2204_holdout",
+		"v": 20292,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"11f74ac7-7573-4827-acdd-d2b1b8b5d51a": {
 		"name": "android_transition_logging",
 		"v": 12524,
