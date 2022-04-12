@@ -11567,15 +11567,15 @@
 	},
 	"538fd45f-6438-4e48-8356-5b92025ef94c": {
 		"name": "android_exo2_on_64bit_devices",
-		"v": 20294,
+		"v": 20295,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "active_12.7"
 			}
 		]
