@@ -26893,11 +26893,11 @@
 	},
 	"c13edd2a-a27a-4a0a-9815-8545b568fdf3": {
 		"name": "ios_idfa_consent_prompt",
-		"v": 20284,
+		"v": 20296,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -26905,7 +26905,7 @@
 				"value": "no_pre_prompt"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "pre_prompt_personalized"
 			},
 			{
