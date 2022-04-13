@@ -23481,7 +23481,7 @@
 	},
 	"a93c264e-d28b-4cde-89df-3d47db663c39": {
 		"name": "android_chomments_chat_parsing",
-		"v": 20312,
+		"v": 20313,
 		"t": 1,
 		"groups": [
 			{
@@ -23495,6 +23495,10 @@
 			{
 				"weight": 0,
 				"value": "active_12.5"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.9"
 			}
 		]
 	},
