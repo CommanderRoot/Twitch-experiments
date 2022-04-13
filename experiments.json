@@ -14844,7 +14844,7 @@
 	},
 	"69e9cfa1-6fa6-452d-868c-574311ed517b": {
 		"name": "android_32bit_devices_autoplay_off",
-		"v": 20048,
+		"v": 20322,
 		"t": 1,
 		"groups": [
 			{
@@ -14852,8 +14852,8 @@
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_12.8"
+				"weight": 20,
+				"value": "active_12.9"
 			}
 		]
 	},
