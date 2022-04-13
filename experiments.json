@@ -32405,7 +32405,7 @@
 	},
 	"eb1c8067-b0a0-4741-af78-a839f84503c4": {
 		"name": "ios_captcha",
-		"v": 12907,
+		"v": 20339,
 		"t": 1,
 		"groups": [
 			{
@@ -32419,6 +32419,10 @@
 			{
 				"weight": 0,
 				"value": "arkose_pre_challenge"
+			},
+			{
+				"weight": 0,
+				"value": "arkosev2"
 			}
 		]
 	},
