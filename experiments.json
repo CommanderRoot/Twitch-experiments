@@ -2727,21 +2727,6 @@
 			}
 		]
 	},
-	"13575b6f-a51f-432a-a46d-0f748ef82821": {
-		"name": "dart_apac_sea_vctstage1iceland_vwr_0_dav_trn_wch_gmg_push_2204_holdout",
-		"v": 20201,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"136216ca-7503-4cf0-a467-7806fc9614d9": {
 		"name": "dart_apac_mal_genshinimpactdrop_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
 		"v": 18141,
@@ -7051,21 +7036,6 @@
 	"32a7313f-b73b-46ae-956e-5a0f07aca498": {
 		"name": "dart_twfafachallengexlocalsubpricing_vwr_0_cmm_cmc_sub_mis_email_2108_holdout",
 		"v": 16286,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"32b657c4-fb11-4760-9899-0a7fe031035e": {
-		"name": "dart_apac_jpn_vctstage1iceland_vwr_0_dav_trn_wch_gmg_push_2204_holdout",
-		"v": 20200,
 		"t": 2,
 		"groups": [
 			{
@@ -27759,21 +27729,6 @@
 			{
 				"weight": 25,
 				"value": "dropdown_active_12.8"
-			}
-		]
-	},
-	"c6e76a71-d238-44e0-899d-0262d67def89": {
-		"name": "dart_apac_kor_vctstage1iceland_vwr_0_dav_trn_wch_gmg_push_2204_holdout",
-		"v": 20199,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
