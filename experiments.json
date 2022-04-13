@@ -27359,6 +27359,21 @@
 			}
 		]
 	},
+	"c4c04218-49ed-486a-aea5-1fa5c1c585d7": {
+		"name": "dart_rustbattle_vwr_707_dav_cmc_wch_gmg_email_2204_holdout",
+		"v": 20315,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c4cb4704-43e5-4715-aa73-2dd325ec9d9d": {
 		"name": "dart_truegeordie_vwr_322_dav_cmc_wch_spt_email_2011_holdout",
 		"v": 12616,
