@@ -402,15 +402,15 @@
 	},
 	"02575994-036f-4382-9088-bff8295afdbc": {
 		"name": "android_preload_on_deeplink_global",
-		"v": 20211,
+		"v": 20327,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_12.7"
 			}
 		]
@@ -6044,11 +6044,11 @@
 	},
 	"2a68d16e-446c-440d-8605-df0d99b18764": {
 		"name": "roster_team_writes",
-		"v": 20278,
+		"v": 20328,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
@@ -6056,7 +6056,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -9364,11 +9364,11 @@
 	},
 	"43a6a23c-b9df-43ed-b71c-448075440f03": {
 		"name": "roster_team_reads",
-		"v": 20277,
+		"v": 20325,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
@@ -9376,7 +9376,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -22117,11 +22117,11 @@
 	},
 	"9ddb3385-950c-4a0b-b719-3e03c4294b91": {
 		"name": "roster_membership_writes",
-		"v": 20281,
+		"v": 20326,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
@@ -22129,7 +22129,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
