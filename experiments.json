@@ -6941,11 +6941,11 @@
 	},
 	"31f42cb0-5558-416a-b5ac-95a90c3dda04": {
 		"name": "roster_membership_reads",
-		"v": 20280,
+		"v": 20330,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
@@ -6953,7 +6953,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -12119,15 +12119,15 @@
 	},
 	"588f7e99-ce8b-4923-a7f2-bc34619f232f": {
 		"name": "android_preload_theater_requirements_global",
-		"v": 19889,
+		"v": 20332,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.7"
 			}
 		]
@@ -12688,11 +12688,11 @@
 	},
 	"5c4cbeb0-1672-44f1-a3c8-11277407590d": {
 		"name": "roster_image_uploads",
-		"v": 20279,
+		"v": 20329,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
@@ -12700,7 +12700,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -24280,16 +24280,16 @@
 	},
 	"ae6e2ea3-6f5a-49bc-8e4f-b64c9e23b8ea": {
 		"name": "android_mobile_growth_ttv_holdout",
-		"v": 20109,
+		"v": 20334,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 100,
 				"value": "holdout"
 			},
 			{
-				"weight": 95,
+				"weight": 0,
 				"value": "active_12.6"
 			}
 		]
@@ -24888,11 +24888,11 @@
 	},
 	"b15b6eaf-32ba-470c-8353-0666495c7a39": {
 		"name": "roster_invitation_reads",
-		"v": 20282,
+		"v": 20333,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
@@ -24900,7 +24900,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -34722,11 +34722,11 @@
 	},
 	"fc71afd5-ce1e-4135-9ecf-d7d5e6904da3": {
 		"name": "roster_invitation_writes",
-		"v": 20283,
+		"v": 20331,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
@@ -34734,7 +34734,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
