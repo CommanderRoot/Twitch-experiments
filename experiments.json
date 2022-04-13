@@ -11712,6 +11712,21 @@
 			}
 		]
 	},
+	"552d1afd-97fc-45b3-b4ef-77145538fd58": {
+		"name": "dart_rustbattle_vwr_707_dav_cmc_wch_gmg_push_2204_holdout",
+		"v": 20317,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"55b11149-bb43-4e7e-af20-8fcc5788e5a7": {
 		"name": "dart_tnf1225_vwr_514_dav_cmc_wch_spt_push_2112_holdout",
 		"v": 18576,
@@ -29405,6 +29420,21 @@
 			{
 				"weight": 10,
 				"value": "new"
+			}
+		]
+	},
+	"d288d020-4d19-49b5-aa30-a95213c55a26": {
+		"name": "dart_rustbattle_vwr_707_dav_cmc_wch_gmg_email_2204_es_holdout",
+		"v": 20318,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
