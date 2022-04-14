@@ -31416,6 +31416,21 @@
 			}
 		]
 	},
+	"e25a470e-ef6d-4351-8f8c-16896117d243": {
+		"name": "dart_apac_twn_foodanddrinks_vwr_0_dav_trn_wch_gmg_onsite_2204_holdout",
+		"v": 20341,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e2b1eebd-2c78-4798-885b-d884123796af": {
 		"name": "vod_cloudfront_shift",
 		"v": 5126,
