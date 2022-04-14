@@ -28935,6 +28935,21 @@
 			}
 		]
 	},
+	"ceaa1576-abc2-454d-a87b-1a2352d70b88": {
+		"name": "dart_apac_twn_foodanddrinks_vwr_0_dav_trn_wch_gmg_email_2204_holdout",
+		"v": 20342,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ceb950a6-f5c4-4fd8-b00d-d689540abb04": {
 		"name": "dart_sgf_neville_onsite_holdout",
 		"v": 10724,
