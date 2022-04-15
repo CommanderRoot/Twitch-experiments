@@ -2459,21 +2459,6 @@
 			}
 		]
 	},
-	"11e74298-4b3a-4aab-aaa0-153118291675": {
-		"name": "dart_ukgiftcard_vwr_704_cmm_cmc_buy_mis_oe_2204_holdout",
-		"v": 20292,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"11f74ac7-7573-4827-acdd-d2b1b8b5d51a": {
 		"name": "android_transition_logging",
 		"v": 12524,
@@ -8546,21 +8531,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"3e868ce6-d5e4-44d7-82c2-1aca0e104478": {
-		"name": "dart_cold_d5_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 20305,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -22925,21 +22895,6 @@
 	"a4fe76cb-66cd-485c-920b-5d4f987734f6": {
 		"name": "dart_new_d5_top_games_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14434,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"a5160308-45e4-44c5-98ae-da067271c7da": {
-		"name": "dart_apac_anz_giftcardsaus_ctr_0_dav_trn_wch_gmg_email_2204_holdout",
-		"v": 20262,
 		"t": 2,
 		"groups": [
 			{
