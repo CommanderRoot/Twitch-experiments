@@ -15684,21 +15684,6 @@
 			}
 		]
 	},
-	"6fc435ef-ad9d-43c0-854b-9e74b55b7209": {
-		"name": "dart_apac_anz_giftcardsaus_ctr_0_dav_trn_wch_gmg_onsite_2204_holdout",
-		"v": 20263,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"6fe3a5bc-fb45-49ab-a535-c47d5853b69b": {
 		"name": "Promotions_SideNav_Recommended_Web",
 		"v": 16378,
@@ -27213,21 +27198,6 @@
 			{
 				"weight": 100,
 				"value": "active_v7.10"
-			}
-		]
-	},
-	"c37f1581-d2fc-4cc3-9edd-447f159285c9": {
-		"name": "dart_apac_anz_giftcardsaus_ctr_0_dav_trn_wch_gmg_onsite_2204_onsite",
-		"v": 20264,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
