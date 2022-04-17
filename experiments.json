@@ -11682,21 +11682,6 @@
 			}
 		]
 	},
-	"552d1afd-97fc-45b3-b4ef-77145538fd58": {
-		"name": "dart_rustbattle_vwr_707_dav_cmc_wch_gmg_push_2204_holdout",
-		"v": 20317,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"55b11149-bb43-4e7e-af20-8fcc5788e5a7": {
 		"name": "dart_tnf1225_vwr_514_dav_cmc_wch_spt_push_2112_holdout",
 		"v": 18576,
@@ -22937,21 +22922,6 @@
 			}
 		]
 	},
-	"a540f013-f25a-4eb8-83f3-8328d0335e6b": {
-		"name": "dart_apac_kor_foodanddrinks_ctr_0_dav_trn_wch_gmg_onsite_2204_holdout",
-		"v": 20236,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"a5475654-db4b-45ab-aef2-8ee851967c5e": {
 		"name": "dart_primday062121_viewer_email_push_holdout",
 		"v": 15498,
@@ -27314,21 +27284,6 @@
 			}
 		]
 	},
-	"c4c04218-49ed-486a-aea5-1fa5c1c585d7": {
-		"name": "dart_rustbattle_vwr_707_dav_cmc_wch_gmg_email_2204_holdout",
-		"v": 20315,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"c4cb4704-43e5-4715-aa73-2dd325ec9d9d": {
 		"name": "dart_truegeordie_vwr_322_dav_cmc_wch_spt_email_2011_holdout",
 		"v": 12616,
@@ -29375,21 +29330,6 @@
 			{
 				"weight": 10,
 				"value": "new"
-			}
-		]
-	},
-	"d288d020-4d19-49b5-aa30-a95213c55a26": {
-		"name": "dart_rustbattle_vwr_707_dav_cmc_wch_gmg_email_2204_es_holdout",
-		"v": 20318,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -33792,21 +33732,6 @@
 	"f598b9a1-9508-41a0-bbdc-b451f0130f6d": {
 		"name": "dart_localisedpricingprevsub_vwr_513_sbs_cmc_sub_mis_email_2109_holdout",
 		"v": 17012,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"f5ea428b-2e6a-46f5-9c3f-c418a3ea9c2f": {
-		"name": "dart_rustbattle_vwr_707_dav_cmc_wch_gmg_push_2204_es_holdout",
-		"v": 20316,
 		"t": 2,
 		"groups": [
 			{
