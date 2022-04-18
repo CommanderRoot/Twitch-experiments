@@ -12788,21 +12788,6 @@
 			}
 		]
 	},
-	"5d72e4ba-2e1c-44e5-8cb3-edb5474c13dc": {
-		"name": "dart_speedons_vwr_706_dav_cmc_wch_gmg_push_2204_holdout",
-		"v": 20320,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"5d9c778b-a56c-4277-b7d9-bae0be512e40": {
 		"name": "dart_partner_interest_survey_batch5_email",
 		"v": 18367,
@@ -29663,21 +29648,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"d4b66fd5-3736-454f-b6cd-ae853ac0d6f0": {
-		"name": "dart_speedons_vwr_706_dav_cmc_wch_gmg_email_2204_holdout",
-		"v": 20319,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
