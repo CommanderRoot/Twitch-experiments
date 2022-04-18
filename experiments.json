@@ -22237,6 +22237,21 @@
 			}
 		]
 	},
+	"9f77dcea-ae0c-46d9-9af5-536e6a31a2dd": {
+		"name": "android_okhttp_network_interceptors",
+		"v": 20368,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "crontol"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"9fa764ee-7293-4c1f-a0b6-b23c2f28c2cc": {
 		"name": "android_recommendations_in_following",
 		"v": 9160,
