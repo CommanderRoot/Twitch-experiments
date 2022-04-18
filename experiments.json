@@ -2883,15 +2883,15 @@
 	},
 	"14c00ac0-3d6c-49c1-852b-5a67f546c5af": {
 		"name": "ios_gql_interceptors",
-		"v": 20265,
+		"v": 20379,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 99,
 				"value": "legacy"
 			},
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "interceptors"
 			}
 		]
