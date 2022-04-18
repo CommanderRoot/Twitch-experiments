@@ -34026,6 +34026,21 @@
 			}
 		]
 	},
+	"f7f8cf56-ed25-4f8c-88d3-f1d699fc0912": {
+		"name": "android_latam_http3_cdn",
+		"v": 20373,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_12.9"
+			}
+		]
+	},
 	"f8156055-20a3-43a0-b9d0-84c19c76a547": {
 		"name": "android_artificial_latency_browse",
 		"v": 16881,
