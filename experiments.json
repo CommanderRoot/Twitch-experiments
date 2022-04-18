@@ -5852,15 +5852,15 @@
 	},
 	"296b40c3-12df-4266-b50d-6540e83a9fd1": {
 		"name": "ios_sidebar_on_ipad",
-		"v": 19637,
+		"v": 20377,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -22257,8 +22257,8 @@
 		]
 	},
 	"9f77dcea-ae0c-46d9-9af5-536e6a31a2dd": {
-		"name": "android_okhttp_network_interceptors",
-		"v": 20372,
+		"name": "android_latam_okhttp_network_interceptors",
+		"v": 20378,
 		"t": 1,
 		"groups": [
 			{
