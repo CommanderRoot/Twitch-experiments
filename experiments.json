@@ -19047,6 +19047,25 @@
 			}
 		]
 	},
+	"8964a30e-13b4-4547-a653-edeea7bf2376": {
+		"name": "dart_ainewofferaprilcontinuing_ctr_702_awa_trn_lrn_mis_onsite_224_onsite",
+		"v": 20370,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
+			}
+		]
+	},
 	"89718c8b-30b7-4176-bc92-f5c782f67207": {
 		"name": "dart_apac_anz_twitchrivalsxpicopark_vwr_0_dav_trn_flw_gmg_email_2110_holdout",
 		"v": 17351,
@@ -26822,11 +26841,11 @@
 	},
 	"c13edd2a-a27a-4a0a-9815-8545b568fdf3": {
 		"name": "ios_idfa_consent_prompt",
-		"v": 20323,
+		"v": 20369,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -26834,7 +26853,7 @@
 				"value": "no_pre_prompt"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "pre_prompt_personalized"
 			},
 			{
@@ -26862,7 +26881,7 @@
 				"value": "no_pre_prompt_v12.7"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "no_pre_prompt_v12.8"
 			}
 		]
