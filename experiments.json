@@ -718,15 +718,15 @@
 	},
 	"0533e7cb-29f5-4354-9426-fc9caa5ccb0a": {
 		"name": "dart_onsiteservice_read_rollout",
-		"v": 20416,
+		"v": 20419,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "rollout"
 			}
 		]
@@ -17897,21 +17897,6 @@
 	"7f009b6e-77eb-4965-aaba-b8903d624fb3": {
 		"name": "dart_tnfweek9_vwr_272_dav_cmc_wch_tne_spt_peo_2012_holdout",
 		"v": 12843,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"7f34c17e-ce6f-4eb6-a1cf-504f50d91765": {
-		"name": "dart_tgccurrencyexpansion_vwr_685_awa_cmc_buy_mis_email_224_holdout",
-		"v": 20392,
 		"t": 2,
 		"groups": [
 			{
