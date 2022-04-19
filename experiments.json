@@ -29491,26 +29491,6 @@
 			}
 		]
 	},
-	"d3de7921-6f17-4a7f-affd-09c6a7279a5a": {
-		"name": "android_lower_bits_sku_30_or_25",
-		"v": 14932,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_30_bits_10.9"
-			},
-			{
-				"weight": 0,
-				"value": "active_25_bits_10.9"
-			}
-		]
-	},
 	"d3f6b201-3e0a-4d96-b720-53aca4acb474": {
 		"name": "ios_vaes_sanitize_clickthrough_url",
 		"v": 16083,
