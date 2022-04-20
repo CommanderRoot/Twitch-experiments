@@ -3178,15 +3178,15 @@
 	},
 	"16641928-b480-4891-a7ee-8881c80cea85": {
 		"name": "ios_onsite_notifcation_gestures",
-		"v": 20274,
+		"v": 20437,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -6783,15 +6783,15 @@
 	},
 	"3136dfb1-398a-47ed-8469-cb4874d8319f": {
 		"name": "ios_haptics_experiment",
-		"v": 20271,
+		"v": 20436,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			}
 		]
@@ -29742,6 +29742,21 @@
 			{
 				"weight": 10,
 				"value": "theatre"
+			}
+		]
+	},
+	"d590374e-ec1c-4f22-9a70-30d62170727a": {
+		"name": "android_captcha",
+		"v": 20438,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "arkose_v1"
+			},
+			{
+				"weight": 0,
+				"value": "arkose_v2"
 			}
 		]
 	},
