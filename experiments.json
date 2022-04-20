@@ -23269,6 +23269,21 @@
 			}
 		]
 	},
+	"a7bb9117-b927-4722-85a9-519762de1e86": {
+		"name": "dart_notifications_settings_read",
+		"v": 20441,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"a7bceffa-356d-4532-bc0a-2053ea7ad786": {
 		"name": "ios_show_squad_banner_development",
 		"v": 4973,
