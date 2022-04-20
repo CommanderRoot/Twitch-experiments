@@ -17989,6 +17989,25 @@
 			}
 		]
 	},
+	"7fe4f67a-f2cf-4014-8a9d-10cd00961bc1": {
+		"name": "testing_new_experiment_steven",
+		"v": 20442,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment1"
+			},
+			{
+				"weight": 0,
+				"value": "treatment2"
+			}
+		]
+	},
 	"8036e036-569d-459b-82df-c049f466f410": {
 		"name": "ios_browse_updates",
 		"v": 9179,
