@@ -30297,6 +30297,21 @@
 			}
 		]
 	},
+	"d95336e6-8a2d-4cd2-8ffa-a8e29ad7795a": {
+		"name": "dart_tgccurrencyexpansionsend2_vwr_685_awa_cmc_buy_mis_email_224_holdout",
+		"v": 20428,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d968f80c-1f87-4142-8907-582afc60e3dc": {
 		"name": "pushy_email_liveups_kill_switch",
 		"v": 17332,
