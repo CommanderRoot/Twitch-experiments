@@ -19067,25 +19067,6 @@
 			}
 		]
 	},
-	"8964a30e-13b4-4547-a653-edeea7bf2376": {
-		"name": "dart_ainewofferaprilcontinuing_ctr_702_awa_trn_lrn_mis_onsite_224_onsite",
-		"v": 20370,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 34,
-				"value": "Variant A"
-			},
-			{
-				"weight": 33,
-				"value": "Variant B"
-			},
-			{
-				"weight": 33,
-				"value": "Variant C"
-			}
-		]
-	},
 	"89718c8b-30b7-4176-bc92-f5c782f67207": {
 		"name": "dart_apac_anz_twitchrivalsxpicopark_vwr_0_dav_trn_flw_gmg_email_2110_holdout",
 		"v": 17351,
@@ -28869,21 +28850,6 @@
 			}
 		]
 	},
-	"ceaa1576-abc2-454d-a87b-1a2352d70b88": {
-		"name": "dart_apac_twn_foodanddrinks_vwr_0_dav_trn_wch_gmg_email_2204_holdout",
-		"v": 20342,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"ceb950a6-f5c4-4fd8-b00d-d689540abb04": {
 		"name": "dart_sgf_neville_onsite_holdout",
 		"v": 10724,
@@ -31357,21 +31323,6 @@
 			{
 				"weight": 100,
 				"value": "v2"
-			}
-		]
-	},
-	"e25a470e-ef6d-4351-8f8c-16896117d243": {
-		"name": "dart_apac_twn_foodanddrinks_vwr_0_dav_trn_wch_gmg_onsite_2204_holdout",
-		"v": 20341,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
