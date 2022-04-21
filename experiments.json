@@ -25413,15 +25413,15 @@
 	},
 	"b513457d-752d-4e41-9aae-aeaedd8280e4": {
 		"name": "default_emotes_for_new_affiliates",
-		"v": 16838,
+		"v": 20454,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
