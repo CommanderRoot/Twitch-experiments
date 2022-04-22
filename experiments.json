@@ -24001,6 +24001,21 @@
 			}
 		]
 	},
+	"ad020e31-bb63-4dc3-99da-9e40a3eb8123": {
+		"name": "ios_ads_use_idfa_in_ad_request",
+		"v": 20472,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v12.9"
+			}
+		]
+	},
 	"ad048640-8726-433a-b822-69e30b8faa77": {
 		"name": "liverecs_holdout_device",
 		"v": 8980,
