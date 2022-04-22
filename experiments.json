@@ -33996,6 +33996,21 @@
 			}
 		]
 	},
+	"f76054a4-40a9-438e-868a-7f671a9ec748": {
+		"name": "dart_pubgrivalsevent_vwr_710_dav_cmc_wch_gmg_email_2204_holdout",
+		"v": 20468,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f761e710-7de0-4790-89f7-a1dbc7ad0947": {
 		"name": "dart_recurringsubsnopricechangev2_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
 		"v": 17773,
