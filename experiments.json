@@ -10092,6 +10092,45 @@
 			}
 		]
 	},
+	"4a0cc341-adf1-48bc-996c-a05cbc60f842": {
+		"name": "ios_ivs_broadcast_rtmp_stack",
+		"v": 20474,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "0"
+			},
+			{
+				"weight": 0,
+				"value": "1"
+			},
+			{
+				"weight": 0,
+				"value": "2"
+			},
+			{
+				"weight": 0,
+				"value": "3"
+			},
+			{
+				"weight": 0,
+				"value": "4"
+			},
+			{
+				"weight": 0,
+				"value": "5"
+			},
+			{
+				"weight": 0,
+				"value": "6"
+			},
+			{
+				"weight": 0,
+				"value": "7"
+			}
+		]
+	},
 	"4a21eec0-1de5-469e-b755-0d1087bbf18b": {
 		"name": "one_click",
 		"v": 19836,
