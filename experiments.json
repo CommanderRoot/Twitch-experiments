@@ -20288,6 +20288,21 @@
 			}
 		]
 	},
+	"92455cba-0aac-49bc-a73f-af16f4a553a2": {
+		"name": "dart_pubgrivalsevent_vwr_710_dav_cmc_wch_gmg_push_2204_holdout",
+		"v": 20467,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"92462671-5eee-42df-b7d4-4820796db2e0": {
 		"name": "dart_cold_d14_top_games_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14477,
