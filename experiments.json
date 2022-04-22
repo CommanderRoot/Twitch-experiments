@@ -29760,6 +29760,21 @@
 			}
 		]
 	},
+	"d5441b3e-8d2c-46b6-b5f9-bd43581c3fb7": {
+		"name": "dart_apac_jpn_valorantchampionsicelandfinal_vwr_0_dav_trn_wch_gmg_onsite_2204_holdout",
+		"v": 20466,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d590374e-ec1c-4f22-9a70-30d62170727a": {
 		"name": "android_captcha",
 		"v": 20438,
@@ -30002,6 +30017,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"d6fd6078-2427-4e85-9051-0974345355aa": {
+		"name": "dart_apac_jpn_valorantchampionsicelandsemi_vwr_0_dav_trn_wch_gmg_onsite_2204_holdout",
+		"v": 20465,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
