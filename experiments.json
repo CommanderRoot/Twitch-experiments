@@ -8549,21 +8549,6 @@
 			}
 		]
 	},
-	"3e868ce6-d5e4-44d7-82c2-1aca0e104478": {
-		"name": "dart_cold_d5_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 20429,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"3e958da8-9f98-41ba-8ba4-424f0a39210e": {
 		"name": "dart_international_price_mxtr_gift_holdout",
 		"v": 15302,
@@ -12201,41 +12186,6 @@
 			}
 		]
 	},
-	"58cc04df-d431-4e0e-9518-9915a08d8f0b": {
-		"name": "dart_cold_d5_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 20430,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 16,
-				"value": "Variant A"
-			},
-			{
-				"weight": 14,
-				"value": "Variant B"
-			},
-			{
-				"weight": 14,
-				"value": "Variant C"
-			},
-			{
-				"weight": 14,
-				"value": "Variant D"
-			},
-			{
-				"weight": 14,
-				"value": "Variant E"
-			},
-			{
-				"weight": 14,
-				"value": "Variant F"
-			},
-			{
-				"weight": 14,
-				"value": "Variant G"
-			}
-		]
-	},
 	"58cd93c6-6066-4312-8826-e46cd54eb567": {
 		"name": "dart_codwarzoneshowdown_vwr_592_dav_cmc_wch_gmg_push_2112_holdout",
 		"v": 18331,
@@ -14409,21 +14359,6 @@
 			},
 			{
 				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
-	"66f473b4-8164-4769-b754-aabb14aeace8": {
-		"name": "dart_adsmanagereg_ctr_632_awa_cmc_lrn_mis_email_221_holdout",
-		"v": 20439,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -30432,21 +30367,6 @@
 			{
 				"weight": 50,
 				"value": "experiment"
-			}
-		]
-	},
-	"d95336e6-8a2d-4cd2-8ffa-a8e29ad7795a": {
-		"name": "dart_tgccurrencyexpansionsend2_vwr_685_awa_cmc_buy_mis_email_224_holdout",
-		"v": 20428,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
