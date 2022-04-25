@@ -9772,6 +9772,21 @@
 			}
 		]
 	},
+	"4767b0cd-7e6d-4e45-a6cd-47cd6f420ee2": {
+		"name": "dart_apac_kor_subsad_vwr_0_dav_trn_wch_gmg_email_2204_holdout",
+		"v": 20486,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4768e2ea-7d46-431e-94fe-37132f0d0f40": {
 		"name": "android_following_full_bleed",
 		"v": 15448,
@@ -13520,6 +13535,21 @@
 	"617a039a-359c-4bbe-9c7c-f735eb0a6d11": {
 		"name": "dart_codwarzone_vwr_403_dav_cmc_wch_gmg_email_2104_holdout",
 		"v": 14399,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"6186205b-e2b6-4781-a598-851e8f59025a": {
+		"name": "dart_apac_kor_subsad_vwr_0_dav_trn_wch_gmg_onsite_2204_holdout",
+		"v": 20485,
 		"t": 2,
 		"groups": [
 			{
