@@ -8564,21 +8564,6 @@
 			}
 		]
 	},
-	"3ea28e89-9081-439d-8225-cbc8913ce8eb": {
-		"name": "dart_apac_sea_valorantchampionsiceland_vwr_0_dav_trn_wch_gmg_push_2204_holdout",
-		"v": 20464,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"3ec204f5-3307-4296-be1e-519a14a7b3bf": {
 		"name": "android_video_ads_first_party_api",
 		"v": 13061,
@@ -20262,21 +20247,6 @@
 			}
 		]
 	},
-	"92455cba-0aac-49bc-a73f-af16f4a553a2": {
-		"name": "dart_pubgrivalsevent_vwr_710_dav_cmc_wch_gmg_push_2204_holdout",
-		"v": 20467,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"92462671-5eee-42df-b7d4-4820796db2e0": {
 		"name": "dart_cold_d14_top_games_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14477,
@@ -30028,21 +29998,6 @@
 			}
 		]
 	},
-	"d6fd6078-2427-4e85-9051-0974345355aa": {
-		"name": "dart_apac_jpn_valorantchampionsicelandsemi_vwr_0_dav_trn_wch_gmg_onsite_2204_holdout",
-		"v": 20465,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"d70100c0-dc50-46e3-b007-049a5b270dec": {
 		"name": "android_video_edge_reassign",
 		"v": 5635,
@@ -33971,21 +33926,6 @@
 			{
 				"weight": 0,
 				"value": "variant1"
-			}
-		]
-	},
-	"f76054a4-40a9-438e-868a-7f671a9ec748": {
-		"name": "dart_pubgrivalsevent_vwr_710_dav_cmc_wch_gmg_email_2204_holdout",
-		"v": 20468,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
