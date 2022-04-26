@@ -16011,15 +16011,15 @@
 	},
 	"71c0d555-e195-4a45-8f5d-93be0a1597da": {
 		"name": "dart_notification_settings_write",
-		"v": 20544,
+		"v": 20545,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "rollout"
 			}
 		]
