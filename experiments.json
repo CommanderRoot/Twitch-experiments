@@ -9287,6 +9287,21 @@
 			}
 		]
 	},
+	"42eae733-8da5-45cf-9760-b13f3db2d558": {
+		"name": "dart_tcon22amstickets2_vwr_709_cmm_cmc_buy_mis_email_224_duplicate_holdout",
+		"v": 20515,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"42f036af-7ea7-49ea-94ff-8b26918ee074": {
 		"name": "zraha-test-experiment",
 		"v": 7298,
@@ -31651,6 +31666,21 @@
 			},
 			{
 				"weight": 99,
+				"value": "allowed"
+			}
+		]
+	},
+	"e50ee475-567e-4581-8a3d-a682e2508c80": {
+		"name": "dart_tcon22amstickets1_vwr_709_cmm_cmc_buy_mis_email_224_holdout",
+		"v": 20516,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
