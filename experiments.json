@@ -10358,6 +10358,21 @@
 			}
 		]
 	},
+	"4b7b9d2c-9458-46bb-8a43-93e44c790a27": {
+		"name": "android_banner_upload",
+		"v": 20543,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
 		"v": 20517,
@@ -15996,15 +16011,15 @@
 	},
 	"71c0d555-e195-4a45-8f5d-93be0a1597da": {
 		"name": "dart_notification_settings_write",
-		"v": 20542,
+		"v": 20544,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "rollout"
 			}
 		]
