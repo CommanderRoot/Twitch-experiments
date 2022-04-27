@@ -16250,6 +16250,21 @@
 			}
 		]
 	},
+	"72e6e1b0-a19c-4504-83dc-02df45892cc9": {
+		"name": "dart_apac_twn_motheresport_vwr_0_dav_trn_wch_gmg_email_2204_holdout",
+		"v": 20551,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"72eabfe6-2550-451e-b612-d768ca0521e7": {
 		"name": "android_nonnegative_transitions",
 		"v": 9162,
@@ -18879,6 +18894,21 @@
 	"8720f213-edbf-43a4-b3bf-d9e7d9a2cebb": {
 		"name": "dart_anzstreamerbattlexfallguys_ctr_0_flw_trn_flw_gmg_push_2109_holdout",
 		"v": 16897,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"872ba089-5b63-498e-b367-03b8c26428b2": {
+		"name": "dart_apac_twn_motheresport_vwr_0_dav_trn_wch_gmg_push_2205_holdout",
+		"v": 20552,
 		"t": 2,
 		"groups": [
 			{
