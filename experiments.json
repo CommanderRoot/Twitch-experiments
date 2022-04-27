@@ -20429,11 +20429,11 @@
 	},
 	"92f2e58c-dc61-49ee-aae3-874fe51872bc": {
 		"name": "android_chevron_bits",
-		"v": 20540,
+		"v": 20553,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -20441,7 +20441,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_12.8"
 			}
 		]
