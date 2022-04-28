@@ -12827,21 +12827,6 @@
 			}
 		]
 	},
-	"5d12510c-a7b8-4c7b-968e-3a34b39ebd81": {
-		"name": "dart_gaymingawards_vwr_712_dav_cmc_wch_gmg_email_2204_holdout",
-		"v": 20488,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"5d2cc9d7-7c05-4ee2-af8e-269d507c1e46": {
 		"name": "android_mgst_localized_streams",
 		"v": 9154,
@@ -20205,21 +20190,6 @@
 			{
 				"weight": 0,
 				"value": "active_with_entry_points"
-			}
-		]
-	},
-	"90e6518a-d778-4a61-b82c-e9d797743504": {
-		"name": "dart_gaymingawards_vwr_712_dav_cmc_wch_gmg_push_2204_push_holdout",
-		"v": 20487,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
