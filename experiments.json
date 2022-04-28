@@ -17935,15 +17935,15 @@
 	},
 	"7ec631d5-4ce2-47c0-848c-ca8fe79357dc": {
 		"name": "ios_multioption_predictions",
-		"v": 20218,
+		"v": 20596,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
