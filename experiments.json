@@ -2326,7 +2326,7 @@
 	},
 	"10df8aa0-48fb-495e-9cac-a8482357e98b": {
 		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 20189,
+		"v": 20626,
 		"t": 2,
 		"groups": [
 			{
@@ -15661,7 +15661,7 @@
 	},
 	"6fb32348-8b9f-4319-9948-4a3c126ac7ff": {
 		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 20192,
+		"v": 20624,
 		"t": 2,
 		"groups": [
 			{
@@ -16261,6 +16261,37 @@
 			}
 		]
 	},
+	"7357166d-5a2f-47dc-95af-fddf4c29aa1e": {
+		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
+		"v": 20627,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "Variant A"
+			},
+			{
+				"weight": 17,
+				"value": "Variant B"
+			},
+			{
+				"weight": 17,
+				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 17,
+				"value": "Variant E"
+			},
+			{
+				"weight": 17,
+				"value": "Variant F"
+			}
+		]
+	},
 	"73720cb1-72da-4443-b57b-5badb0113add": {
 		"name": "dart_fpgo_existing_sub_localized_latam_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14856,
@@ -16477,6 +16508,29 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"74b99b8c-baa9-472e-858d-383b89549155": {
+		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
+		"v": 20629,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 25,
+				"value": "Variant A"
+			},
+			{
+				"weight": 25,
+				"value": "Variant B"
+			},
+			{
+				"weight": 25,
+				"value": "Variant C"
+			},
+			{
+				"weight": 25,
+				"value": "Variant D"
 			}
 		]
 	},
@@ -28976,7 +29030,7 @@
 	},
 	"cf115fa2-e2d3-46e0-a5f9-ed8c9a8a12f2": {
 		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 20188,
+		"v": 20628,
 		"t": 2,
 		"groups": [
 			{
@@ -30717,6 +30771,33 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"dc78050f-382c-478f-8074-57f497b14eca": {
+		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
+		"v": 20625,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
 			}
 		]
 	},
