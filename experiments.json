@@ -10753,6 +10753,21 @@
 			}
 		]
 	},
+	"4ece8b03-ca44-48f4-8891-37421e7dc5b8": {
+		"name": "dart_apiheritagemonth_viewer_713_awa_cmc_lrn_mis_email_224_holdout",
+		"v": 20621,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4f2ebce8-68ed-40a4-afb2-9db8fb09711d": {
 		"name": "vod_qos_model",
 		"v": 3976,
