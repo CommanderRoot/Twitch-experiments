@@ -9023,6 +9023,29 @@
 			}
 		]
 	},
+	"41ee2c64-8921-4885-9619-b43957875696": {
+		"name": "android_subs_cta_leaderboard",
+		"v": 20666,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "subscribe_only"
+			},
+			{
+				"weight": 0,
+				"value": "time_based"
+			},
+			{
+				"weight": 0,
+				"value": "spent_based"
+			}
+		]
+	},
 	"41fb6317-aef9-40eb-8790-5d459a53bd7d": {
 		"name": "dart_euro2020heartbeat3_vwr_441_awa_cmc_lrn_spt_email_2106_holdout",
 		"v": 15614,
@@ -23351,15 +23374,15 @@
 	},
 	"a7bb9117-b927-4722-85a9-519762de1e86": {
 		"name": "dart_notifications_settings_read",
-		"v": 20665,
+		"v": 20667,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "rollout"
 			}
 		]
