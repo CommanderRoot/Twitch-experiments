@@ -23374,15 +23374,15 @@
 	},
 	"a7bb9117-b927-4722-85a9-519762de1e86": {
 		"name": "dart_notifications_settings_read",
-		"v": 20667,
+		"v": 20668,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "rollout"
 			}
 		]
