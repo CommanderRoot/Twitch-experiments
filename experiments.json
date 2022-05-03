@@ -18470,15 +18470,15 @@
 	},
 	"8328f076-af2f-41f2-8249-b72268d5cdb6": {
 		"name": "dart_decider_settings_rollout",
-		"v": 20701,
+		"v": 20706,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "rollout"
 			}
 		]
