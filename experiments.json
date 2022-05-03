@@ -18470,15 +18470,15 @@
 	},
 	"8328f076-af2f-41f2-8249-b72268d5cdb6": {
 		"name": "dart_decider_settings_rollout",
-		"v": 20706,
+		"v": 20708,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "rollout"
 			}
 		]
@@ -23374,15 +23374,15 @@
 	},
 	"a7bb9117-b927-4722-85a9-519762de1e86": {
 		"name": "dart_notifications_settings_read",
-		"v": 20668,
+		"v": 20709,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "rollout"
 			}
 		]
