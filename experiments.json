@@ -93,6 +93,21 @@
 			}
 		]
 	},
+	"008a9351-46d3-40ab-bfd8-429598f33057": {
+		"name": "dart_mcpraprilsend2_vwr_703_cmm_cmc_buy_mis_onsite_224_holdout",
+		"v": 20693,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"009de4ba-f40c-4602-bb32-dd5098309f84": {
 		"name": "ios_leaderboards",
 		"v": 17202,
