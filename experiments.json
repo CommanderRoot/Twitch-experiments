@@ -32431,7 +32431,7 @@
 	},
 	"eb1c8067-b0a0-4741-af78-a839f84503c4": {
 		"name": "ios_captcha",
-		"v": 20755,
+		"v": 20757,
 		"t": 1,
 		"groups": [
 			{
@@ -32439,7 +32439,7 @@
 				"value": "recaptcha"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "arkose"
 			},
 			{
@@ -32447,7 +32447,7 @@
 				"value": "arkose_pre_challenge"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "arkosev2"
 			}
 		]
