@@ -34876,15 +34876,15 @@
 	},
 	"fd5a97d3-d366-4cf3-9945-4dbac3ce8875": {
 		"name": "navi_getclusters_small_streams_rollout",
-		"v": 20679,
+		"v": 20773,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
