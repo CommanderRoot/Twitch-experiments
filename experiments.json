@@ -24317,16 +24317,16 @@
 	},
 	"ae6e2ea3-6f5a-49bc-8e4f-b64c9e23b8ea": {
 		"name": "android_mobile_growth_ttv_holdout",
-		"v": 20334,
+		"v": 20778,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "holdout"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_12.6"
 			}
 		]
