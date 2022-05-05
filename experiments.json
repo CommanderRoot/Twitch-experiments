@@ -16538,6 +16538,21 @@
 			}
 		]
 	},
+	"74d4523f-372b-4a1a-95c7-e7227831cc07": {
+		"name": "phone_verification_challenge",
+		"v": 20790,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"75397567-90b5-413c-9500-e3d35d6b8669": {
 		"name": "press_the_button",
 		"v": 4575,
