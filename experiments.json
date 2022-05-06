@@ -27145,7 +27145,7 @@
 	},
 	"c13edd2a-a27a-4a0a-9815-8545b568fdf3": {
 		"name": "ios_idfa_consent_prompt",
-		"v": 20470,
+		"v": 20818,
 		"t": 1,
 		"groups": [
 			{
@@ -27154,43 +27154,19 @@
 			},
 			{
 				"weight": 0,
-				"value": "no_pre_prompt"
+				"value": "no_pre_prompt_v13.0"
 			},
 			{
 				"weight": 0,
-				"value": "pre_prompt_personalized"
+				"value": "pre_prompt_personalized_v13.0"
 			},
 			{
 				"weight": 0,
-				"value": "pre_prompt_creators"
+				"value": "pre_prompt_creators_v13.0"
 			},
 			{
 				"weight": 0,
-				"value": "pre_prompt_free"
-			},
-			{
-				"weight": 0,
-				"value": "no_pre_prompt_v12.3"
-			},
-			{
-				"weight": 0,
-				"value": "no_pre_prompt_v12.4"
-			},
-			{
-				"weight": 0,
-				"value": "no_pre_prompt_v12.6"
-			},
-			{
-				"weight": 0,
-				"value": "no_pre_prompt_v12.7"
-			},
-			{
-				"weight": 0,
-				"value": "no_pre_prompt_v12.8"
-			},
-			{
-				"weight": 0,
-				"value": "no_pre_prompt_v12.9"
+				"value": "pre_prompt_free_v13.0"
 			}
 		]
 	},
