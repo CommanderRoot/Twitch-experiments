@@ -20542,6 +20542,21 @@
 			}
 		]
 	},
+	"92dccece-b938-423e-97e8-56d0a88a4a6b": {
+		"name": "android_tcf_v2",
+		"v": 20820,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"92e71f71-8c36-4c11-9496-42f4f4dc9bac": {
 		"name": "TWILIGHT_AAX_DISPLAY_APAC",
 		"v": 16056,
