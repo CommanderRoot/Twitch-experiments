@@ -14812,15 +14812,15 @@
 	},
 	"69e9cfa1-6fa6-452d-868c-574311ed517b": {
 		"name": "android_32bit_devices_autoplay_off",
-		"v": 20786,
+		"v": 20794,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_12.9"
 			}
 		]
