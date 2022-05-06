@@ -13557,7 +13557,7 @@
 	},
 	"61daf724-247f-4154-b369-85816b958927": {
 		"name": "dart_apac_sgp_mukbang_vwr_0_dav_trn_wch_gmg_onsite_2205_holdout",
-		"v": 20797,
+		"v": 20798,
 		"t": 2,
 		"groups": [
 			{
@@ -31680,6 +31680,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"e48c9d6b-7eda-4fea-9510-ff708eb771a8": {
+		"name": "dart_apac_tha_mukbang_vwr_0_dav_trn_wch_gmg_onsite_2205_holdout",
+		"v": 20799,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
 				"value": "allowed"
 			}
 		]
