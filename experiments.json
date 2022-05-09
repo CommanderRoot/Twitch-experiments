@@ -2926,6 +2926,21 @@
 			}
 		]
 	},
+	"152d45d4-6ad7-438f-8983-03c774080ba9": {
+		"name": "dart_day90frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_email",
+		"v": 20844,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"15418977-9c99-45b6-8509-ba405a220497": {
 		"name": "dart_sgf_cyberpunk2_onsite_holdout",
 		"v": 11251,
@@ -17096,6 +17111,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"7956b768-c812-4de2-afca-ca9571719c62": {
+		"name": "dart_d60frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_email",
+		"v": 20842,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -31720,6 +31750,21 @@
 			}
 		]
 	},
+	"e599eeb2-9ff5-49bc-ae1d-1dae8445452e": {
+		"name": "dart_day90frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_holdout",
+		"v": 20843,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e5a6585e-8863-471e-b290-f7338b84ab31": {
 		"name": "dart_cold_d7_top_streams_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 16763,
@@ -34832,6 +34877,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"fce07bdc-522f-43ca-a870-dd3c7b9430c7": {
+		"name": "dart_d60frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_holdout",
+		"v": 20841,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
