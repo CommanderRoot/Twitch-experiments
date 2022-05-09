@@ -2896,6 +2896,21 @@
 			}
 		]
 	},
+	"14c8ca17-b5fc-4d34-8e88-4dbef128d53b": {
+		"name": "ios_banner_upload",
+		"v": 20850,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"14f1211b-6aa3-4a8f-87a0-128fb2ce7d29": {
 		"name": "ios_redeem_5_get_6",
 		"v": 11595,
@@ -24347,16 +24362,16 @@
 	},
 	"ae6e2ea3-6f5a-49bc-8e4f-b64c9e23b8ea": {
 		"name": "android_mobile_growth_ttv_holdout",
-		"v": 20801,
+		"v": 20851,
 		"t": 1,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 5,
 				"value": "holdout"
 			},
 			{
-				"weight": 50,
+				"weight": 95,
 				"value": "active_12.6"
 			}
 		]
