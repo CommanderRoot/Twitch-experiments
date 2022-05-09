@@ -12737,21 +12737,6 @@
 			}
 		]
 	},
-	"5cc51da6-5d13-4a2b-9e28-4771f9024fd3": {
-		"name": "dart_artificial_s3_e1_holdout",
-		"v": 10292,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"5cd1b965-dc4b-4dce-836f-53c7353a1b88": {
 		"name": "ios_mgst_broadcast_async_flvmuxer",
 		"v": 12111,
