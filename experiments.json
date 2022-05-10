@@ -14316,23 +14316,23 @@
 	},
 	"66e3abc3-40b3-419f-8ab1-94056d3c7460": {
 		"name": "android_sub_modal_landscape",
-		"v": 20198,
+		"v": 20873,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "enabled_12.8"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "enabled_no_25_subs_12.8"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "default_centered_12.8"
 			}
 		]
