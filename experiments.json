@@ -14316,23 +14316,23 @@
 	},
 	"66e3abc3-40b3-419f-8ab1-94056d3c7460": {
 		"name": "android_sub_modal_landscape",
-		"v": 20873,
+		"v": 20880,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 55,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 15,
 				"value": "enabled_12.8"
 			},
 			{
-				"weight": 5,
+				"weight": 15,
 				"value": "enabled_no_25_subs_12.8"
 			},
 			{
-				"weight": 5,
+				"weight": 15,
 				"value": "default_centered_12.8"
 			}
 		]
@@ -33891,15 +33891,15 @@
 	},
 	"f56d57a2-89b2-4dec-a005-bba95668a1ff": {
 		"name": "mobile_native_hype_train_approaching",
-		"v": 20461,
+		"v": 20881,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
