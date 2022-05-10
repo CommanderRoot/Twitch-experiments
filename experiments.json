@@ -19798,6 +19798,29 @@
 			}
 		]
 	},
+	"8e13fb26-ef9f-4a10-ae24-520a931d46dd": {
+		"name": "ios_anonymous_gifting",
+		"v": 20876,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "anonymous_gifting_enabled"
+			},
+			{
+				"weight": 0,
+				"value": "optional_gift_description_hidden"
+			}
+		]
+	},
 	"8e177f68-71cc-491c-96f5-35e25db2b61d": {
 		"name": "twilight_native_login",
 		"v": 4351,
