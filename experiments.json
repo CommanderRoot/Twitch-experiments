@@ -31180,15 +31180,15 @@
 	},
 	"de376cee-5999-4070-a4db-dfa34db3c074": {
 		"name": "android_latam_cronet",
-		"v": 20762,
+		"v": 20902,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "active_12.9"
 			}
 		]
