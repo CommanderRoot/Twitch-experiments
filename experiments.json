@@ -17896,7 +17896,7 @@
 	},
 	"7dd53c67-a6c3-444b-af5c-1b4e4852e318": {
 		"name": "android_limit_threads_from_schedulers_io",
-		"v": 20897,
+		"v": 20898,
 		"t": 1,
 		"groups": [
 			{
@@ -17905,19 +17905,19 @@
 			},
 			{
 				"weight": 20,
-				"value": "max_thread_10"
+				"value": "max_threads_10"
 			},
 			{
 				"weight": 20,
-				"value": "max_thread_25"
+				"value": "max_threads_25"
 			},
 			{
 				"weight": 20,
-				"value": "max_thread_50"
+				"value": "max_threads_50"
 			},
 			{
 				"weight": 20,
-				"value": "max_thread_100"
+				"value": "max_threads_100"
 			}
 		]
 	},
