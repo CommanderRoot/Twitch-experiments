@@ -31227,21 +31227,6 @@
 			}
 		]
 	},
-	"df6423ff-76e9-4e99-be7a-6dafe9f3946b": {
-		"name": "android_disable_1080p_on_32bit_devices",
-		"v": 19782,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "active_12.5"
-			}
-		]
-	},
 	"df8c4e4a-d7f6-4af0-a064-38226ffe0607": {
 		"name": "player_exs",
 		"v": 5971,
