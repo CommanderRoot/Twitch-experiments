@@ -242,11 +242,11 @@
 	},
 	"01501b3e-11b1-4447-8753-0e30698f0790": {
 		"name": "android_mgst_ivs_ingest_tester",
-		"v": 20234,
+		"v": 20924,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 60,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -274,7 +274,7 @@
 				"value": "active_25"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_50"
 			},
 			{
@@ -282,7 +282,7 @@
 				"value": "active_raw_25"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "active_raw_50"
 			}
 		]
@@ -16593,16 +16593,21 @@
 	},
 	"74d4523f-372b-4a1a-95c7-e7227831cc07": {
 		"name": "phone_verification_challenge",
-		"v": 20790,
+		"v": 20923,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "variant"
+			},
+			{
+				"weight": 50,
+				"value": "aatester"
 			}
 		]
 	},
