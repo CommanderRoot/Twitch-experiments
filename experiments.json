@@ -22246,15 +22246,15 @@
 	},
 	"9d6c1a2b-101d-4f09-97cc-3d7b0d64b653": {
 		"name": "android_player_adaptive_quality_switch",
-		"v": 20863,
+		"v": 20914,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
