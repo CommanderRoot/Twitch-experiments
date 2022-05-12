@@ -34342,6 +34342,25 @@
 			}
 		]
 	},
+	"f7e319fe-a5c5-4833-b949-3ccec65e6cb6": {
+		"name": "random_tomato",
+		"v": 20931,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			},
+			{
+				"weight": 50,
+				"value": "aatester"
+			}
+		]
+	},
 	"f7f8cf56-ed25-4f8c-88d3-f1d699fc0912": {
 		"name": "android_latam_http3_cdn",
 		"v": 20763,
