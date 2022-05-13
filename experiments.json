@@ -13698,6 +13698,21 @@
 			}
 		]
 	},
+	"631503a0-cd7b-4b51-93c3-97ed97806dda": {
+		"name": "dart_commercemerchmayde_vwr_716_cmm_cmc_buy_mis_onsite_225_holdout",
+		"v": 20941,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6315fd24-9c8e-43e6-90fe-4602e40f9214": {
 		"name": "dart_creatorgoals_ctr_491_awa_cmc_non_mis_onsite_2108_holdout",
 		"v": 16606,
