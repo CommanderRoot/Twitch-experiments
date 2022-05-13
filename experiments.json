@@ -25301,6 +25301,25 @@
 			}
 		]
 	},
+	"b26585b8-21d9-45b3-8552-5973556afae9": {
+		"name": "android_go_live_entry_latam_relaunch",
+		"v": 20950,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "label_only_active_13.1"
+			},
+			{
+				"weight": 0,
+				"value": "dropdown_active_13.1"
+			}
+		]
+	},
 	"b29512a7-f588-4218-b951-5042c871a818": {
 		"name": "android_vast_parser_use_kotlin",
 		"v": 15660,
