@@ -22895,6 +22895,21 @@
 			}
 		]
 	},
+	"a4b1981d-1f0b-4db2-ae83-befcb1279f94": {
+		"name": "android_players_final_clear",
+		"v": 20996,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_13.1"
+			}
+		]
+	},
 	"a4dc194c-c4af-4566-bccd-ab3c0b715286": {
 		"name": "vx_following_rate_limit",
 		"v": 16630,
