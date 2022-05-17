@@ -31391,6 +31391,21 @@
 			}
 		]
 	},
+	"e2c62dca-31f2-4380-a94a-feb50b894464": {
+		"name": "dart_rivals_bcn_announceen_vwr_720_flw_cmc_flw_gmg_email_2205_holdout",
+		"v": 20998,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e2fecbd4-98e4-45e0-aad5-624cc70d6b85": {
 		"name": "video_edge_reassignment",
 		"v": 5478,
