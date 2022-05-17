@@ -1145,6 +1145,21 @@
 			}
 		]
 	},
+	"077423c8-1434-468a-b7df-a71451dd6d19": {
+		"name": "dart_rivals_bcn_announcees_vwr_720_flw_cmc_flw_gmg_email_2205_holdout",
+		"v": 20999,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"07763e8e-d247-4ca0-9b48-930da70592d0": {
 		"name": "dart_recurringsubspricedecreasev2_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
 		"v": 17782,
