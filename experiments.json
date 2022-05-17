@@ -2339,6 +2339,21 @@
 			}
 		]
 	},
+	"10df8aa0-48fb-495e-9cac-a8482357e98b": {
+		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 21022,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"11611bbf-0188-4d2f-a200-84358cfaaf57": {
 		"name": "twilight_editing_les_poissons",
 		"v": 4282,
@@ -3685,6 +3700,21 @@
 			}
 		]
 	},
+	"19eaa4b6-60ac-4017-baac-a7e3d748ce22": {
+		"name": "dart_fpsogiftsubd7v2_vwr_619_cmm_cmc_sub_mis_email_2201_holdout",
+		"v": 21009,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"19f5492f-19f1-430c-8f22-1db077308950": {
 		"name": "ios_broadcast_abs",
 		"v": 3231,
@@ -3953,6 +3983,21 @@
 			{
 				"weight": 0,
 				"value": "enabled"
+			}
+		]
+	},
+	"1b91790f-eb84-4ebb-b3f1-6d95c7360223": {
+		"name": "dart_fpsogiftsubd1v2_vwr_619_cmm_cmc_sub_mis_email_2201_holdout",
+		"v": 21008,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -8515,6 +8560,21 @@
 			}
 		]
 	},
+	"3e868ce6-d5e4-44d7-82c2-1aca0e104478": {
+		"name": "dart_cold_d5_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 21014,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3e958da8-9f98-41ba-8ba4-424f0a39210e": {
 		"name": "dart_international_price_mxtr_gift_holdout",
 		"v": 15302,
@@ -10392,6 +10452,25 @@
 			}
 		]
 	},
+	"4be2d474-51c6-4802-8b6f-204bbfa05f4d": {
+		"name": "dart_multimonthen_vwr_543_cmm_cmc_buy_mis_email_2110_email",
+		"v": 21011,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
+			}
+		]
+	},
 	"4c11d69d-64f3-4b2a-a5f3-81f5ab253310": {
 		"name": "dart_ecommedfpsogiftsublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_de_holdout",
 		"v": 15269,
@@ -11488,6 +11567,21 @@
 			}
 		]
 	},
+	"535c8c78-902b-4919-a739-bd873bb522b9": {
+		"name": "dart_fpgov2activeprvsub_vwr_617_cmm_cmc_sub_mis_email_2201_duplicate_holdout",
+		"v": 21003,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"536ac355-0dc7-489a-a11a-e5e00f481bb1": {
 		"name": "ios_dynamically_switch_for_airplay",
 		"v": 19805,
@@ -12172,6 +12266,41 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"58cc04df-d431-4e0e-9518-9915a08d8f0b": {
+		"name": "dart_cold_d5_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
+		"v": 21015,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 16,
+				"value": "Variant A"
+			},
+			{
+				"weight": 14,
+				"value": "Variant B"
+			},
+			{
+				"weight": 14,
+				"value": "Variant C"
+			},
+			{
+				"weight": 14,
+				"value": "Variant D"
+			},
+			{
+				"weight": 14,
+				"value": "Variant E"
+			},
+			{
+				"weight": 14,
+				"value": "Variant F"
+			},
+			{
+				"weight": 14,
+				"value": "Variant G"
 			}
 		]
 	},
@@ -13408,6 +13537,25 @@
 			}
 		]
 	},
+	"60c2bf81-9c15-4c8f-a18b-8a23ea0083e5": {
+		"name": "dart_fpgov2activeprvsub_vwr_617_cmm_cmc_sub_mis_email_2201_duplicate_email",
+		"v": 21004,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
+			}
+		]
+	},
 	"60cb4f7e-0364-4a97-ba77-050aa3f6519d": {
 		"name": "dart_apac_jpn_twitchrivalsxminecraft_vwr_0_flw_trn_flw_gmg_email_2110_holdout",
 		"v": 17563,
@@ -14085,6 +14233,21 @@
 			}
 		]
 	},
+	"65181375-6418-428e-b239-0d2fbf04451d": {
+		"name": "dart_multimonthen_vwr_543_cmm_cmc_buy_mis_email_2110_holdout",
+		"v": 21010,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"651ab5b8-013d-43bb-ac73-9a79a0dc6dc0": {
 		"name": "dart_dyinglight2launch_vwr_651_dav_cmc_wch_gmg_email_2202_en_holdout",
 		"v": 18985,
@@ -14352,6 +14515,21 @@
 			}
 		]
 	},
+	"66f473b4-8164-4769-b754-aabb14aeace8": {
+		"name": "dart_adsmanagereg_ctr_632_awa_cmc_lrn_mis_email_221_holdout",
+		"v": 21000,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"67073a66-8131-41e0-acf1-73a9ec14f3f1": {
 		"name": "ios_airplay_reset_fix",
 		"v": 9172,
@@ -14612,6 +14790,25 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			}
+		]
+	},
+	"6888c9c7-8486-4387-8dce-43bd4f0fa0e4": {
+		"name": "dart_fpgov1existsub_vwr_618_cmm_cmc_sub_mis_email_2201_email",
+		"v": 21007,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
@@ -15652,6 +15849,21 @@
 			}
 		]
 	},
+	"6fb32348-8b9f-4319-9948-4a3c126ac7ff": {
+		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 21018,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6fbde053-695a-44f4-a518-9de5c698b87e": {
 		"name": "cheering2.0_bits_pinata",
 		"v": 15659,
@@ -16224,6 +16436,37 @@
 			}
 		]
 	},
+	"7357166d-5a2f-47dc-95af-fddf4c29aa1e": {
+		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
+		"v": 21023,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "Variant A"
+			},
+			{
+				"weight": 17,
+				"value": "Variant B"
+			},
+			{
+				"weight": 17,
+				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 17,
+				"value": "Variant E"
+			},
+			{
+				"weight": 17,
+				"value": "Variant F"
+			}
+		]
+	},
 	"73720cb1-72da-4443-b57b-5badb0113add": {
 		"name": "dart_fpgo_existing_sub_localized_latam_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14856,
@@ -16440,6 +16683,29 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"74b99b8c-baa9-472e-858d-383b89549155": {
+		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
+		"v": 21025,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 25,
+				"value": "Variant A"
+			},
+			{
+				"weight": 25,
+				"value": "Variant B"
+			},
+			{
+				"weight": 25,
+				"value": "Variant C"
+			},
+			{
+				"weight": 25,
+				"value": "Variant D"
 			}
 		]
 	},
@@ -17625,6 +17891,21 @@
 	"7d508837-1ff9-4b98-bd12-962bdaa1e98b": {
 		"name": "dart_dyinglightfrozen_vwr_640_awa_cmc_wch_gmg_email_2202_holdout",
 		"v": 19063,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"7d8cb28c-465c-41d4-bddf-35b8741a9867": {
+		"name": "dart_fpgov1existsub_vwr_618_cmm_cmc_sub_mis_email_2201_holdout",
+		"v": 21006,
 		"t": 2,
 		"groups": [
 			{
@@ -29012,6 +29293,21 @@
 			}
 		]
 	},
+	"cf115fa2-e2d3-46e0-a5f9-ed8c9a8a12f2": {
+		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
+		"v": 21024,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"cf55b0dc-c618-4819-9dc3-84fff379a42f": {
 		"name": "dart_slurgtestnewd3tpstreams_vwr_460_dav_cmc_wch_mis_email_2107_holdout",
 		"v": 15974,
@@ -30744,6 +31040,33 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"dc78050f-382c-478f-8074-57f497b14eca": {
+		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
+		"v": 21019,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
 			}
 		]
 	},
@@ -34311,6 +34634,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"f9879ce9-56c2-4f4c-8f68-5a76c24eec46": {
+		"name": "dart_fpsoprimed1reminderv2_vwr_670_cmm_cmc_sub_mis_email_2202_holdout",
+		"v": 21005,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
