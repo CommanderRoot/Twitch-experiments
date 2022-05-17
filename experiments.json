@@ -1190,6 +1190,21 @@
 			}
 		]
 	},
+	"07f5c9b1-4703-4934-94a4-dc0f15b99f55": {
+		"name": "dart_live_up_email",
+		"v": 21036,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"07f69861-4bbe-4b74-a051-8d82274ac223": {
 		"name": "ios_game_broadcasting_top_nav",
 		"v": 12476,
@@ -6533,6 +6548,21 @@
 			}
 		]
 	},
+	"2e6271e2-8acf-495c-899f-6a686431c48e": {
+		"name": "dart_live_up_onsite",
+		"v": 21038,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"2ea9efcc-8188-4c86-b5be-3ea99805e58c": {
 		"name": "dart_rolling_loud_2_reminder_102920_holdout",
 		"v": 12264,
@@ -10837,6 +10867,25 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"4e9932f0-43f8-4d84-a123-a34ed4f81dd7": {
+		"name": "dart_live_up_push",
+		"v": 21037,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
