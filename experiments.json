@@ -31986,6 +31986,21 @@
 			}
 		]
 	},
+	"e4e147e7-862e-4651-ac1e-99cbc4b18a21": {
+		"name": "ios_theater_options_implementation",
+		"v": 21034,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "mvi_swiftui"
+			}
+		]
+	},
 	"e4f268c8-b489-49e6-b045-3cadb5daaf92": {
 		"name": "android_app_install",
 		"v": 8676,
