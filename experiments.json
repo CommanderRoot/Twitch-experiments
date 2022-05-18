@@ -5910,6 +5910,21 @@
 			}
 		]
 	},
+	"293a1840-ac2a-472a-a792-f1a8829dfd89": {
+		"name": "dart_apac_sgp_twitchrivalsstreamerchef_vwr_0_dav_trn_wch_gmg_onsite_2205_v2_holdout",
+		"v": 21044,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"295f24fe-045a-4739-9ca0-7dc824e3e19b": {
 		"name": "android_multiview",
 		"v": 9135,
@@ -18246,6 +18261,21 @@
 			{
 				"weight": 95,
 				"value": "control"
+			}
+		]
+	},
+	"7e70901d-68fc-4cc3-a8e1-404c2c14c4ad": {
+		"name": "dart_apac_sgp_twitchrivalsstreamerchef_vwr_0_dav_trn_wch_gmg_onsite_2205_holdout",
+		"v": 21043,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
 			}
 		]
 	},
