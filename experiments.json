@@ -2772,25 +2772,6 @@
 			}
 		]
 	},
-	"13adc3f7-830c-485a-aa5e-91a5771813f9": {
-		"name": "android_creator_mode_segment_a",
-		"v": 21068,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_12.1"
-			},
-			{
-				"weight": 50,
-				"value": "active_12.2"
-			}
-		]
-	},
 	"13bab58e-d975-4d01-a255-d8925b440a77": {
 		"name": "ios_channel_points_predictions_spectator_mode",
 		"v": 14045,
@@ -5202,29 +5183,6 @@
 			{
 				"weight": 0,
 				"value": "collection"
-			}
-		]
-	},
-	"23f22968-bfea-42a2-b461-f409508473b9": {
-		"name": "android_creator_mode",
-		"v": 21067,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
-			},
-			{
-				"weight": 0,
-				"value": "active_12.2"
-			},
-			{
-				"weight": 0,
-				"value": "active_12.4"
 			}
 		]
 	},
