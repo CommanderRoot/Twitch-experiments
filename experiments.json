@@ -30224,15 +30224,15 @@
 	},
 	"d590374e-ec1c-4f22-9a70-30d62170727a": {
 		"name": "android_captcha",
-		"v": 20738,
+		"v": 21046,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 50,
 				"value": "arkose_v1"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "arkose_v2"
 			}
 		]
