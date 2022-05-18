@@ -2292,19 +2292,19 @@
 	},
 	"10781306-f68c-4206-9692-d93dc2b015a8": {
 		"name": "ios_mb_ivs_audio_quality",
-		"v": 20173,
+		"v": 21060,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 70,
 				"value": "medium"
 			},
 			{
-				"weight": 0,
+				"weight": 15,
 				"value": "low"
 			},
 			{
-				"weight": 0,
+				"weight": 15,
 				"value": "minimum"
 			}
 		]
