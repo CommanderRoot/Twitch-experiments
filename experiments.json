@@ -28236,6 +28236,21 @@
 			}
 		]
 	},
+	"c79b34aa-7805-4401-8f6b-fbc1d1cf29f2": {
+		"name": "android_mobile_game_broadcasting",
+		"v": 21095,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_13.2"
+			}
+		]
+	},
 	"c7a26fae-525b-41b3-8101-cbca3686392e": {
 		"name": "follows_fulton_graphdb_reads",
 		"v": 12926,
