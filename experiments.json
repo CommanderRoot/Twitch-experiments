@@ -4803,15 +4803,15 @@
 	},
 	"216af0b9-5b32-4d9b-abd8-de1d2a5eae7b": {
 		"name": "android_prime_subs_migration",
-		"v": 21075,
+		"v": 21098,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_development"
 			}
 		]
@@ -13337,6 +13337,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"5ef9c9be-bc25-4b0b-a2d3-bcad72541771": {
+		"name": "adblock_prerollratelimit_rollout",
+		"v": 21097,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "ON"
+			},
+			{
+				"weight": 100,
+				"value": "OFF"
 			}
 		]
 	},
