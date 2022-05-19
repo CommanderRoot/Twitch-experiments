@@ -22089,15 +22089,15 @@
 	},
 	"9b438522-a2c8-465c-aa03-c3d4bacf5509": {
 		"name": "community-gifting-recommendation-v2.8",
-		"v": 20099,
+		"v": 21083,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control_2_6"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "variant_2_8"
 			},
 			{
