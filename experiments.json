@@ -4810,6 +4810,21 @@
 			}
 		]
 	},
+	"218cb089-f331-42ae-a7ed-215a47646d1a": {
+		"name": "dart_apac_sgp_twitchrivalsstreamerchef_vwr_0_dav_trn_wch_gmg_email_2205_holdout",
+		"v": 21120,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"2193868a-1c8f-4587-8bdc-c25df67ff66a": {
 		"name": "dart_apac_ido_genshinimpactdrop_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
 		"v": 18140,
