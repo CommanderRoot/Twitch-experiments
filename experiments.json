@@ -32172,21 +32172,6 @@
 			}
 		]
 	},
-	"e7692d8b-05e0-4674-be40-4c65b9c69aa4": {
-		"name": "ios_gql_interceptors_v13.1",
-		"v": 21123,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "legacy"
-			},
-			{
-				"weight": 0,
-				"value": "interceptors"
-			}
-		]
-	},
 	"e77bc8ab-9f36-4753-918b-c5336b620ed5": {
 		"name": "ios_recaptcha_deprecation_alert",
 		"v": 12139,
