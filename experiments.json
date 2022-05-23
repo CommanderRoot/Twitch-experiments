@@ -33611,6 +33611,21 @@
 			}
 		]
 	},
+	"f161aa01-a636-49d4-95af-f31ed050774e": {
+		"name": "dart_mcpraprilsend2secondwave_vwr_703_cmm_cmc_buy_mis_onsite_224_holdout",
+		"v": 21140,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f164d19e-cbbd-4774-86c7-106f21d892c0": {
 		"name": "ios_browse_game_display_tablet_layout",
 		"v": 2102,
