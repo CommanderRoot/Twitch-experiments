@@ -29738,6 +29738,21 @@
 			}
 		]
 	},
+	"d42d3d43-236e-46ee-8684-ed45c050c1e2": {
+		"name": "ios_playercore_opt_in",
+		"v": 21138,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "opt_in"
+			},
+			{
+				"weight": 99,
+				"value": "opt_out"
+			}
+		]
+	},
 	"d4313b20-c13c-46fb-853b-bb33cc5ec0cc": {
 		"name": "dart_tnf_week_5_vwr_272_5mp_cmc_wch_tne_spt_peo_2011_email",
 		"v": 12381,
