@@ -14810,6 +14810,21 @@
 			}
 		]
 	},
+	"69458321-a0e5-4d88-922d-65048776edc9": {
+		"name": "dart_mcpraprilsend1secondwave_vwr_703_cmm_cmc_buy_mis_email_224_holdout",
+		"v": 21139,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"697896b3-a4b9-4c00-a1a2-7fa35ec9a8e4": {
 		"name": "pushy_notifications_disable",
 		"v": 3420,
