@@ -24468,17 +24468,21 @@
 	},
 	"ae6e2ea3-6f5a-49bc-8e4f-b64c9e23b8ea": {
 		"name": "android_mobile_growth_ttv_holdout",
-		"v": 20851,
+		"v": 21159,
 		"t": 1,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 5,
-				"value": "holdout"
+				"weight": 95,
+				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 0,
 				"value": "active_12.6"
+			},
+			{
+				"weight": 5,
+				"value": "active_13.2"
 			}
 		]
 	},
@@ -32513,15 +32517,15 @@
 	},
 	"ea6dc687-3f68-4791-b843-848bf687b6c5": {
 		"name": "android_ads_client_ad_allocator_v1",
-		"v": 20356,
+		"v": 21160,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "active_development"
+				"weight": 50,
+				"value": "active_13.2"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
