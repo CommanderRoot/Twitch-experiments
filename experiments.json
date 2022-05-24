@@ -16843,6 +16843,21 @@
 			}
 		]
 	},
+	"76a1127f-9634-449b-8c4f-a5113d85e962": {
+		"name": "android_seamless_background_audio",
+		"v": 21157,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"76c19512-f352-4e7a-9d9d-1608ff792865": {
 		"name": "android_mgst_stream_manager_badge_states",
 		"v": 11731,
