@@ -25291,19 +25291,19 @@
 	},
 	"b26585b8-21d9-45b3-8552-5973556afae9": {
 		"name": "android_go_live_entry_latam_relaunch",
-		"v": 20950,
+		"v": 21176,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 34,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "label_only_active_13.1"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "dropdown_active_13.1"
 			}
 		]
