@@ -9017,11 +9017,11 @@
 	},
 	"41d8556b-356a-41a7-bde3-2764ba3f0e00": {
 		"name": "android_super_wizard",
-		"v": 20987,
+		"v": 21158,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -9029,7 +9029,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_13.0"
 			}
 		]
