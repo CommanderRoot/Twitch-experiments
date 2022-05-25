@@ -32713,15 +32713,15 @@
 	},
 	"ebb50df3-a856-43fe-bb7c-9b1c3b1ed0ea": {
 		"name": "roster_test",
-		"v": 21194,
+		"v": 21196,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
