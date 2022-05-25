@@ -6257,6 +6257,21 @@
 			}
 		]
 	},
+	"2bd527cd-9a03-42b6-b388-1d2202802aa2": {
+		"name": "ios_purpose_based_consent_enabled",
+		"v": 21185,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_dev"
+			}
+		]
+	},
 	"2beaeabe-0ff2-4130-aa0b-ba9aa69ddd91": {
 		"name": "dart_tnf0116_vwr_514_dav_cmc_wch_spt_push_2201_holdout",
 		"v": 18722,
