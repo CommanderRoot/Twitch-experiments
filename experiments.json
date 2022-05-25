@@ -6259,7 +6259,7 @@
 	},
 	"2bd527cd-9a03-42b6-b388-1d2202802aa2": {
 		"name": "ios_purpose_based_consent_enabled",
-		"v": 21185,
+		"v": 21186,
 		"t": 1,
 		"groups": [
 			{
@@ -6268,7 +6268,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_dev"
+				"value": "active_debug"
 			}
 		]
 	},
