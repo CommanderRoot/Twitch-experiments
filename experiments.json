@@ -32711,6 +32711,25 @@
 			}
 		]
 	},
+	"ebb50df3-a856-43fe-bb7c-9b1c3b1ed0ea": {
+		"name": "roster_test",
+		"v": 21194,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "legacy"
+			},
+			{
+				"weight": 0,
+				"value": "fulton"
+			},
+			{
+				"weight": 0,
+				"value": "disable"
+			}
+		]
+	},
 	"ebfbfe25-8132-4330-90d0-380d130ea07b": {
 		"name": "dart_recurringsubsnopricechange_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
 		"v": 17754,
