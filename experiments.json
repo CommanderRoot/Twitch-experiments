@@ -34403,7 +34403,7 @@
 	},
 	"f7e319fe-a5c5-4833-b949-3ccec65e6cb6": {
 		"name": "random_tomato",
-		"v": 21170,
+		"v": 21216,
 		"t": 2,
 		"s": 1,
 		"groups": [
@@ -34412,11 +34412,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 20,
 				"value": "variant"
 			},
 			{
-				"weight": 19,
+				"weight": 0,
 				"value": "aatester"
 			}
 		]
