@@ -14791,21 +14791,6 @@
 			}
 		]
 	},
-	"69458321-a0e5-4d88-922d-65048776edc9": {
-		"name": "dart_mcpraprilsend1secondwave_vwr_703_cmm_cmc_buy_mis_email_224_holdout",
-		"v": 21139,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"697896b3-a4b9-4c00-a1a2-7fa35ec9a8e4": {
 		"name": "pushy_notifications_disable",
 		"v": 3420,
@@ -31954,21 +31939,6 @@
 			}
 		]
 	},
-	"e5dac70f-7f9b-45a2-a3e9-05057ca2c439": {
-		"name": "dart_apac_kor_mayfamilysubquest_vwr_0_dav_trn_wch_gmg_onsite_2205_holdout",
-		"v": 21117,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"e5fe2b37-59aa-4f2e-a2ff-57363630de02": {
 		"name": "ios_artificial_latency_vod_first_frame",
 		"v": 16879,
@@ -33714,21 +33684,6 @@
 			{
 				"weight": 0,
 				"value": "active_10.7_mic_volume_only"
-			}
-		]
-	},
-	"f1b5762f-1645-49d0-83d3-585dc9baba51": {
-		"name": "dart_apac_kor_mayfamilysubquest_vwr_0_dav_trn_wch_gmg_email_2205_holdout",
-		"v": 21118,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
