@@ -30405,6 +30405,21 @@
 			}
 		]
 	},
+	"d76b0a89-a583-43b8-9db4-8f9b2c25473c": {
+		"name": "dart_tc_ticketsales_onsite_ctr_728_awa_cmc_buy_mis_onsite_2205_holdout",
+		"v": 21232,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d76c815d-2f36-4548-8d48-daa8174bb382": {
 		"name": "ios_clip_theatre_mode",
 		"v": 2024,
