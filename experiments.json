@@ -29637,6 +29637,21 @@
 			}
 		]
 	},
+	"d1f2ad96-0fef-44eb-be9e-fef6badad49c": {
+		"name": "dart_apac_kor_lolfinalsmsi_vwr_0_dav_trn_wch_gmg_push_2205_holdout",
+		"v": 21226,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d1fe9a0a-e9f2-4450-ac57-4ff2eefa0dcf": {
 		"name": "twilight_get_bits_top_nav",
 		"v": 4017,
