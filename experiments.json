@@ -22760,6 +22760,21 @@
 			}
 		]
 	},
+	"a1685120-9851-465c-81b2-4b8879d08111": {
+		"name": "dart_apac_tha_twitchrivalsthai_vwr_0_dav_trn_wch_gmg_push_2205_holdout",
+		"v": 21223,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
 	"a16d5c24-5e0b-4c1f-894e-e7bd08d25de4": {
 		"name": "android_mgst_follow_button_revamp_v2",
 		"v": 9486,
