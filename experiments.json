@@ -21309,6 +21309,21 @@
 			}
 		]
 	},
+	"97e8df7a-3e61-4cf3-99ca-6abd0645bc57": {
+		"name": "dart_rivals_bcn_tuneinen_vwr_729_dav_cmc_wch_gmg_email_2205_holdout",
+		"v": 21227,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"97f31dd4-d1c8-477d-8ec0-bc661c887857": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13563,
