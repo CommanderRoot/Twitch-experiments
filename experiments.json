@@ -19955,11 +19955,11 @@
 	},
 	"8e13fb26-ef9f-4a10-ae24-520a931d46dd": {
 		"name": "ios_anonymous_gifting",
-		"v": 20876,
+		"v": 21236,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -19967,7 +19967,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "anonymous_gifting_enabled"
 			},
 			{
