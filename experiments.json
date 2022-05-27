@@ -93,6 +93,21 @@
 			}
 		]
 	},
+	"007b3568-99f8-4126-b0a4-dba15440e33c": {
+		"name": "dart_rivals_bcn_tuneines_vwr_729_dav_cmc_wch_gmg_oe_2205_holdout",
+		"v": 21230,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"009de4ba-f40c-4602-bb32-dd5098309f84": {
 		"name": "ios_leaderboards",
 		"v": 17202,
