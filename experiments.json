@@ -381,6 +381,21 @@
 			}
 		]
 	},
+	"021d1193-0584-44fb-94b3-71f2dcb46bd1": {
+		"name": "ios_playercore_enable_video_renderer_memory_growth_fix",
+		"v": 21264,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"022cf7ca-3dcc-4a29-b2ee-c220ada8bc2e": {
 		"name": "ios_new_followed_screen",
 		"v": 4276,
@@ -7515,6 +7530,21 @@
 			{
 				"weight": 0,
 				"value": "SURESTREAM_OFF"
+			}
+		]
+	},
+	"3572efee-b78b-4df4-ba87-cf35f5f2afbc": {
+		"name": "ios_playercore_enable_background_audio_fix",
+		"v": 21263,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
