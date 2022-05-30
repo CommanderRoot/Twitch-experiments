@@ -2384,6 +2384,21 @@
 			}
 		]
 	},
+	"10f62188-a295-4735-bf10-627c323f679b": {
+		"name": "dart_apac_sgp_maynewsletternongaming_vwr_0_dav_trn_wch_gmg_email_2205_holdout",
+		"v": 21273,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"11611bbf-0188-4d2f-a200-84358cfaaf57": {
 		"name": "twilight_editing_les_poissons",
 		"v": 4282,
@@ -8191,6 +8206,21 @@
 			{
 				"weight": 0,
 				"value": "report_v11.1"
+			}
+		]
+	},
+	"3a765be1-cae4-4bd2-b627-7bf69a5749d1": {
+		"name": "dart_apac_sgp_maynewslettergaming_vwr_0_dav_trn_wch_gmg_email_2205_holdout",
+		"v": 21272,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
