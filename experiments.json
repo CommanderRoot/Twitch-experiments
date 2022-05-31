@@ -33302,16 +33302,20 @@
 	},
 	"ed99a1d3-4739-4173-b14a-00870da02199": {
 		"name": "ios_creator_mode_global",
-		"v": 21287,
+		"v": 21288,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "label_only"
 			},
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "dropdown"
+			},
+			{
+				"weight": 0,
+				"value": "disabled"
 			}
 		]
 	},
