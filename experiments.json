@@ -2943,15 +2943,15 @@
 	},
 	"14c8ca17-b5fc-4d34-8e88-4dbef128d53b": {
 		"name": "ios_banner_upload",
-		"v": 20850,
+		"v": 21300,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
