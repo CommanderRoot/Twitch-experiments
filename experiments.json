@@ -10546,6 +10546,21 @@
 			}
 		]
 	},
+	"4c318f11-26d8-4452-b01c-18cf1a461294": {
+		"name": "ios_ivs_irl_broadcasting",
+		"v": 21296,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"4c7c7610-b9b3-4e6b-85c6-e99e428ae16e": {
 		"name": "dart_apac_tha_monthlynewsletterjan_vwr_0_dav_trn_wch_gmg_email_2201_email",
 		"v": 18901,
@@ -29242,16 +29257,20 @@
 	},
 	"ce7a9de1-1e09-4cbf-9845-646dd3a316a7": {
 		"name": "ios_creator_mode",
-		"v": 21289,
+		"v": 21295,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "development"
+				"value": "label_only"
+			},
+			{
+				"weight": 0,
+				"value": "dropdown"
 			},
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "disabled"
 			}
 		]
 	},
@@ -33302,7 +33321,7 @@
 	},
 	"ed99a1d3-4739-4173-b14a-00870da02199": {
 		"name": "ios_creator_mode_global",
-		"v": 21288,
+		"v": 21294,
 		"t": 2,
 		"groups": [
 			{
@@ -33310,11 +33329,11 @@
 				"value": "label_only"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "dropdown"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "disabled"
 			}
 		]
