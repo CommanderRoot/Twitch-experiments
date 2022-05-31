@@ -27126,6 +27126,21 @@
 			}
 		]
 	},
+	"c00eacf2-f60a-4c9f-92bc-47929ff48448": {
+		"name": "dart_trackmaniafr_vwr_734_dav_cmc_wch_gmg_email_2206_holdout",
+		"v": 21278,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c021f3d5-1852-44dd-8935-f14d061e59f4": {
 		"name": "ios_ivs_low_latency_video_encoder",
 		"v": 20407,
@@ -32351,6 +32366,21 @@
 			{
 				"weight": 0,
 				"value": "recaptcha_deprecated"
+			}
+		]
+	},
+	"e7872523-436b-4e30-8cf0-f2d2fb234396": {
+		"name": "dart_trackmaniafr_vwr_734_dav_cmc_wch_gmg_push_2206_holdout",
+		"v": 21277,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
