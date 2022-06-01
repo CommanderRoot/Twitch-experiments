@@ -16892,6 +16892,21 @@
 			}
 		]
 	},
+	"76022f49-3c59-475c-8e4c-64b633439d21": {
+		"name": "ios_playercore_enable_playlist_updater_increased_rebuffering_fix",
+		"v": 21316,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"7653a391-6490-4efe-9dcc-894e7115563b": {
 		"name": "android_chat_clear_glide_resources",
 		"v": 19159,
@@ -22893,6 +22908,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"a1a15752-8387-4bd1-bf3e-d4fa4eebda42": {
+		"name": "ios_playercore_enable_set_low_latency_increased_rebuffering_fix",
+		"v": 21318,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
@@ -29758,6 +29788,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"d2a38ddb-5305-474c-bdd0-c548b2823acf": {
+		"name": "dart_apac_anz_pridemonth_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
+		"v": 21317,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
 				"value": "allowed"
 			}
 		]
