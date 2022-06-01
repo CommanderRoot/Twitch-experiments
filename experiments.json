@@ -7356,6 +7356,21 @@
 			}
 		]
 	},
+	"34900ed0-0457-4bdf-bb21-bfb120a6269d": {
+		"name": "dart_pridemonthannouncement_vwr_733_dav_cmc_wch_mis_email_2206_holdout",
+		"v": 21319,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"34951071-7ee7-427b-9bc6-86d3895aef45": {
 		"name": "dart_giftcard_ctr_389_cmm_cmc_lrn_mis_email_2103_holdout",
 		"v": 14126,
