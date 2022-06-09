@@ -1280,22 +1280,18 @@
 			}
 		]
 	},
-	"08f77b30-67a4-4107-9ff2-0c1e6bbcba6f": {
-		"name": "ios_go_live_entry_creator_mode",
-		"v": 19917,
+	"08e8bb90-936f-46b3-9f6d-77faa1712d7d": {
+		"name": "dart_apac_twn_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
+		"v": 21485,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
-				"value": "control"
+				"weight": 5,
+				"value": "holdout"
 			},
 			{
-				"weight": 0,
-				"value": "label_only"
-			},
-			{
-				"weight": 0,
-				"value": "dropdown"
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -1492,6 +1488,21 @@
 			},
 			{
 				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
+	"0a34bb22-42ec-4196-8c73-915b8d437344": {
+		"name": "new_hermes_channels_rollout",
+		"v": 21411,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "rollout"
+			},
+			{
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -2369,21 +2380,6 @@
 			}
 		]
 	},
-	"10f62188-a295-4735-bf10-627c323f679b": {
-		"name": "dart_apac_sgp_maynewsletternongaming_vwr_0_dav_trn_wch_gmg_email_2205_holdout",
-		"v": 21273,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"11611bbf-0188-4d2f-a200-84358cfaaf57": {
 		"name": "twilight_editing_les_poissons",
 		"v": 4282,
@@ -2847,21 +2843,6 @@
 			}
 		]
 	},
-	"142ef82a-d862-484f-a7c9-c42e8ad4a6e6": {
-		"name": "ios_creator_mode_segment_c",
-		"v": 18827,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_12.3"
-			}
-		]
-	},
 	"1436dd77-6aa3-4585-82b4-a7c4a47dabf5": {
 		"name": "mads_trigger_auto_ads",
 		"v": 16417,
@@ -2909,11 +2890,11 @@
 	},
 	"14c00ac0-3d6c-49c1-852b-5a67f546c5af": {
 		"name": "ios_gql_interceptors",
-		"v": 21130,
+		"v": 21469,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 50,
 				"value": "legacy"
 			},
 			{
@@ -2921,7 +2902,7 @@
 				"value": "interceptors"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "interceptors_v13.1"
 			}
 		]
@@ -4730,6 +4711,21 @@
 			}
 		]
 	},
+	"21405ede-ee1c-4690-aeb4-b92000286506": {
+		"name": "dart_apac_tha_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
+		"v": 21486,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"214b2bf2-e2dd-4824-8dde-47057ee616a5": {
 		"name": "ios_crashlytics_non_fatal_sampling",
 		"v": 19638,
@@ -4792,15 +4788,15 @@
 	},
 	"216af0b9-5b32-4d9b-abd8-de1d2a5eae7b": {
 		"name": "android_prime_subs_migration",
-		"v": 21098,
+		"v": 21442,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_development"
 			}
 		]
@@ -6769,21 +6765,6 @@
 			}
 		]
 	},
-	"3096c7e1-a63f-4d34-9e7b-8ec0602d2c0c": {
-		"name": "ios_pc_media_services_reset_recovery",
-		"v": 15073,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"30a0881e-31d7-4297-8a1f-87350531e4e5": {
 		"name": "dart_twghostmonthstreamerbattletournament_vwr_0_dav_cmc_wch_mis_email_2108_holdout",
 		"v": 16543,
@@ -7356,21 +7337,6 @@
 			}
 		]
 	},
-	"34900ed0-0457-4bdf-bb21-bfb120a6269d": {
-		"name": "dart_pridemonthannouncement_vwr_733_dav_cmc_wch_mis_email_2206_holdout",
-		"v": 21319,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"34951071-7ee7-427b-9bc6-86d3895aef45": {
 		"name": "dart_giftcard_ctr_389_cmm_cmc_lrn_mis_email_2103_holdout",
 		"v": 14126,
@@ -7505,16 +7471,31 @@
 	},
 	"3572efee-b78b-4df4-ba87-cf35f5f2afbc": {
 		"name": "ios_playercore_enable_background_audio_fix",
-		"v": 21263,
+		"v": 21394,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
+	"3582317b-37f1-4b8d-be77-cdce3710504c": {
+		"name": "ios_ivs_analytics_override",
+		"v": 21322,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "do_not_send"
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "send_prefixed"
 			}
 		]
 	},
@@ -8206,21 +8187,6 @@
 			{
 				"weight": 0,
 				"value": "report_v11.1"
-			}
-		]
-	},
-	"3a765be1-cae4-4bd2-b627-7bf69a5749d1": {
-		"name": "dart_apac_sgp_maynewslettergaming_vwr_0_dav_trn_wch_gmg_email_2205_holdout",
-		"v": 21272,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -9407,6 +9373,21 @@
 			}
 		]
 	},
+	"42ef4bfd-4152-445e-b95f-3971abe837e1": {
+		"name": "dart_apac_kor_apexlegendstwitchrivals_vwr_0_dav_trn_wch_gmg_push_2206_holdout",
+		"v": 21359,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"42f036af-7ea7-49ea-94ff-8b26918ee074": {
 		"name": "zraha-test-experiment",
 		"v": 7298,
@@ -10473,12 +10454,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 21310,
+		"v": 21477,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-1744da.pdx01.abs.hls.ttvnw.net/v1/segment/CgiGpxyUaGGiJt-JeknlMwVhQR8BZO8yTRJZTS0Rg6ltwUSpBG3T7rNNkiM6w_ZE2B1gIW3GccTzCt1UvlBvJdfVR_SMVx7dPdg0mFpyNHamuS-zbjtGVP9nT7xwN_QhwLyPmZwpLXI8TWIiGrgVJ0qs1YvMg4-h0RSJyf-navsgDwI9DMinkr13TSJeIMKaMbKZUQZlIiyZotIrhObzbuJbErCF39wG_6hNO9mjOT3NFE9NYyF4Ay1w6XBAp3fRAUuHMuX0V7ah5NuTqhfPF0uP-ZxSvmhHOYSLATa7RvCzoQpncNEQrz4C6R-BrK_v-9HEZFyH-fN3NydVUYnMDGFgNIxj9QxqkdgPRp1NobHZ3kwDP6gywNsUuGpSnvxDNnCeX87aeaFVYcHLrTNY7Ovizd9sbRxHoFo5eN_pH7ec441wIGPFkOokmEw0kgnDPHuxJ9AbCxwHt2Ep9ZSk75NLN-FPjeH2g5A14TVF-J6T40099LS7zNZJ728Vrkucmx3tLUlBktUCBR_k4rLBeY4iveff6RtqLdUR2TyUEZuZkFxk0WBKNU26E6IGb40rhwEK_J58W_hcIPOl4sA2uy2G2kFGIaOENGe8Tsp69U7l4UFkgBqfhtvyAjpfbsaHIWkA8qcH_YqkrgyqyeEtvZ4X4CGyvcHGLaY3N6Kd_7Q2HXvTSHdPmqdyuAGs5xsx5_T55jipJ6-FefwhBNL89dQiNpJqPpA0mX0Q13InNe-zMzUH9n3ud4_kbWxSVFfJ_Ok46D.ts"
+				"value": "//video-edge-8a5586.pdx01.abs.hls.ttvnw.net/v1/segment/Cgcwr7ZnNP_4wYLHywwxGJdiTAWYTRFD-PSkRyS1WOs0rnKhg379qTmEgPakdX2aYAur6SyAfhM2gbH_VZHyWKhaw_dIgUXHsLpBqk4wlZ7hB--0LGA6akRiR-xgkCO5VT1a7ftFWRuW9UjCzjtrp4zgd_v_TOc-S4O41MQtgidx9SJdgaP9t6FZKxlcBLeIZI_zpFDbOh0x0kkoS9nkZscWGTn558uDpG9OruNspLwhieelUJOB3MZPNfrFQL26eUcR7_dQYQrYDfrw5RoNelk3nDTFBWCD2sIfiYfdhydyxOJXX9ZtJ88VnyJWBmgOz44amsbsy3-CzNnw_Q1TYu66lnz0d5IVV2ZMNuxty20crO9O7jVLReT3VRsdIlWyNNEvfxEW3QHvs6O-5o8nWDsFmUXNaLWwFIo8SP-GzlGHaVal1O2dfnPl4G2nYPFtJmXig6Ml6nDTwc9p8sGYrrJc0DHej-avs3wUYbSfdqyW8LshTnWlSSC2I-JfOV4bAELcybBqxganqz9fmBdpVBCjvxih5doZYjBWDoyBOtuHgT2Zualu59Tjpe6sscZ2kfA79CdmgZhegds7fUYX31uiobWEzBUV8uP_TOmvDnWA_tXHD6WTmUwpAM2BKrhk0OLaOy1lyYKiVxVW4jdPXNBgrFumujUqtROWrvIv8CPktP-0Or20qv0KFbdU1br7_ksMMUAeR6x65aUC-ro7jZNUW6z08ER4W3NfbS52teqqMx8h4oemU8odSKhaZV.ts"
 			}
 		]
 	},
@@ -13110,6 +13091,21 @@
 			}
 		]
 	},
+	"5ddcbcf0-c14c-4c89-b9ef-e0f89454f989": {
+		"name": "dart_apac_anz_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_1_holdout",
+		"v": 21488,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5de3e4c7-c788-4b1b-b0d0-3f8c4d67078a": {
 		"name": "android_nielsen_s2s",
 		"v": 8202,
@@ -13345,7 +13341,7 @@
 	},
 	"5ef9c9be-bc25-4b0b-a2d3-bcad72541771": {
 		"name": "adblock_prerollratelimit_rollout",
-		"v": 21097,
+		"v": 21429,
 		"t": 1,
 		"groups": [
 			{
@@ -13672,6 +13668,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"60f52570-d953-45d4-8f22-8ddd8b863552": {
+		"name": "android_pip_improvements",
+		"v": 21471,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
@@ -14534,23 +14545,23 @@
 	},
 	"66e3abc3-40b3-419f-8ab1-94056d3c7460": {
 		"name": "android_sub_modal_landscape",
-		"v": 20885,
+		"v": 21378,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "enabled_12.8"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "enabled_no_25_subs_12.8"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "default_centered_12.8"
 			}
 		]
@@ -15400,19 +15411,19 @@
 	},
 	"6c3dc103-5428-44a8-8955-cdfa7974a844": {
 		"name": "android_ads_preload_player_v2",
-		"v": 20891,
+		"v": 21490,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "active_no_preload_13.1"
 			},
 			{
-				"weight": 34,
+				"weight": 100,
 				"value": "active_preload_13.1"
 			}
 		]
@@ -16119,6 +16130,21 @@
 			{
 				"weight": 0,
 				"value": "variant"
+			}
+		]
+	},
+	"7151abe6-451a-4dd2-8b47-991bc59ddd0c": {
+		"name": "dart_apac_kor_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
+		"v": 21484,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -18501,15 +18527,15 @@
 	},
 	"813e8af9-54ed-499b-9652-08a6fc862ce6": {
 		"name": "android_mgst_just_chatting",
-		"v": 19985,
+		"v": 21470,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.5"
 			}
 		]
@@ -18898,6 +18924,21 @@
 			{
 				"weight": 0,
 				"value": "Variant"
+			}
+		]
+	},
+	"84d19216-cb53-4f0a-b5ac-b29218900fa0": {
+		"name": "pm_reengagement_testing_martech_dev",
+		"v": 21376,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "test"
 			}
 		]
 	},
@@ -19616,11 +19657,11 @@
 	},
 	"8b40a4f9-710b-47d0-928d-dee4b3b1dfda": {
 		"name": "android_multi_month_subs",
-		"v": 20052,
+		"v": 21463,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 34,
 				"value": "control"
 			},
 			{
@@ -19630,6 +19671,14 @@
 			{
 				"weight": 0,
 				"value": "enabled_bottom_sheet"
+			},
+			{
+				"weight": 33,
+				"value": "enabled_sub_page_13.1"
+			},
+			{
+				"weight": 33,
+				"value": "enabled_bottom_sheet_13.1"
 			}
 		]
 	},
@@ -20726,11 +20775,11 @@
 	},
 	"92f2e58c-dc61-49ee-aae3-874fe51872bc": {
 		"name": "android_chevron_bits",
-		"v": 20553,
+		"v": 21379,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -20738,7 +20787,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.8"
 			}
 		]
@@ -21661,6 +21710,21 @@
 			}
 		]
 	},
+	"994768bb-4723-4213-bdb6-2e16b190f5ae": {
+		"name": "ios_intercept_survey",
+		"v": 21336,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"99494f77-1c7c-46c5-9b9c-a117db47d3c5": {
 		"name": "BROWSE_EXPERIMENT",
 		"v": 1047,
@@ -22575,21 +22639,6 @@
 			}
 		]
 	},
-	"9ea72afd-d3a4-42bb-b6b3-aef616352d2f": {
-		"name": "ios_pc_pause_on_termination",
-		"v": 18033,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"9ec140f8-3b64-45d4-b7ed-b19870e29eac": {
 		"name": "android_granddads",
 		"v": 8358,
@@ -23073,6 +23122,21 @@
 			}
 		]
 	},
+	"a2d2f3b8-7e5a-4203-a03e-48cad08f1f9b": {
+		"name": "ios_dnr_migration",
+		"v": 21443,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "visage"
+			},
+			{
+				"weight": 0,
+				"value": "gql"
+			}
+		]
+	},
 	"a2fe32b7-9827-4afa-9b2c-1232b8e5fdfd": {
 		"name": "dart_ecommedtactical1_vwr_411_sbs_cmc_sub_mis_email_2105_es_holdout",
 		"v": 16911,
@@ -23178,6 +23242,21 @@
 			}
 		]
 	},
+	"a424f101-342c-42f0-a12f-a71e5baf0cad": {
+		"name": "android_leaderboards_webview",
+		"v": 21413,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"a426b4ec-a5a6-4b9b-bd6b-9f4f53a694ba": {
 		"name": "dart_shinodavol2_push_holdout",
 		"v": 11103,
@@ -23241,15 +23320,15 @@
 	},
 	"a4b1981d-1f0b-4db2-ae83-befcb1279f94": {
 		"name": "android_players_final_clear",
-		"v": 21166,
+		"v": 21382,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_13.1"
 			}
 		]
@@ -23971,21 +24050,6 @@
 			}
 		]
 	},
-	"a9bfd2b5-c847-4675-b1c8-84de3f14d9db": {
-		"name": "ios_creator_mode_segment_b",
-		"v": 18659,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"a9f7ca96-40f2-4047-a7d9-846f762c695a": {
 		"name": "ios_artificial_latency_following",
 		"v": 16876,
@@ -24072,6 +24136,21 @@
 	"aa531af5-90b1-4cc2-b022-753943ef43e0": {
 		"name": "dart_apac_jpn_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
 		"v": 18055,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"aa5b595e-b798-4fff-bf66-ee208de82419": {
+		"name": "dart_summerg22viewers_vwr_724_awa_cmc_lrn_mis_emailonsite_226_holdout",
+		"v": 21434,
 		"t": 2,
 		"groups": [
 			{
@@ -24375,15 +24454,15 @@
 	},
 	"ad020e31-bb63-4dc3-99da-9e40a3eb8123": {
 		"name": "ios_ads_use_idfa_in_ad_request",
-		"v": 21210,
+		"v": 21403,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "active_v13.0"
 			}
 		]
@@ -26061,15 +26140,15 @@
 	},
 	"b734a839-9d24-4059-ba9e-a824c24acd97": {
 		"name": "hermes_east_ses_rollout",
-		"v": 18379,
+		"v": 21437,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 40,
+				"weight": 30,
 				"value": "control"
 			},
 			{
-				"weight": 60,
+				"weight": 70,
 				"value": "rollout"
 			}
 		]
@@ -27156,21 +27235,6 @@
 			}
 		]
 	},
-	"c00eacf2-f60a-4c9f-92bc-47929ff48448": {
-		"name": "dart_trackmaniafr_vwr_734_dav_cmc_wch_gmg_email_2206_holdout",
-		"v": 21278,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"c021f3d5-1852-44dd-8935-f14d061e59f4": {
 		"name": "ios_ivs_low_latency_video_encoder",
 		"v": 20407,
@@ -27645,6 +27709,21 @@
 			}
 		]
 	},
+	"c35678ab-610d-4d4b-a769-cab83c8d73f8": {
+		"name": "new_hermes_channels_team_rollout",
+		"v": 21412,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "rollout"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"c35dcc1f-7617-4c17-b318-578897d50d2d": {
 		"name": "ios_swift_player_stack_v2",
 		"v": 7265,
@@ -28052,6 +28131,21 @@
 			},
 			{
 				"weight": 96,
+				"value": "allowed"
+			}
+		]
+	},
+	"c626f746-8737-4a08-8f99-b5606ebf5efa": {
+		"name": "dart_apac_sgp_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
+		"v": 21487,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -29807,21 +29901,6 @@
 			}
 		]
 	},
-	"d2a38ddb-5305-474c-bdd0-c548b2823acf": {
-		"name": "dart_apac_anz_pridemonth_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
-		"v": 21317,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 3,
-				"value": "holdout"
-			},
-			{
-				"weight": 97,
-				"value": "allowed"
-			}
-		]
-	},
 	"d2c2114e-50ad-4537-8159-9c8ba71b5107": {
 		"name": "android_system_message_chat_parsing",
 		"v": 17611,
@@ -31323,7 +31402,7 @@
 	},
 	"dde9c514-e367-4642-91f2-1e58a75b4a36": {
 		"name": "android_mg_irl_broadcast_migration",
-		"v": 19834,
+		"v": 21329,
 		"t": 2,
 		"groups": [
 			{
@@ -31332,7 +31411,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_13.2"
 			}
 		]
 	},
@@ -31763,6 +31842,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"e1c16585-8240-4177-90b8-31904c13d7dd": {
+		"name": "android_example",
+		"v": 21395,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
 			}
 		]
 	},
@@ -32400,21 +32494,6 @@
 			{
 				"weight": 0,
 				"value": "recaptcha_deprecated"
-			}
-		]
-	},
-	"e7872523-436b-4e30-8cf0-f2d2fb234396": {
-		"name": "dart_trackmaniafr_vwr_734_dav_cmc_wch_gmg_push_2206_holdout",
-		"v": 21277,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -33650,6 +33729,21 @@
 			}
 		]
 	},
+	"ef34f7dc-f92d-4c50-9ca4-677ecedc3761": {
+		"name": "dart_summerg22creators_ctr_724_awa_cmc_lrn_mis_email_226_holdout",
+		"v": 21435,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ef91d6ac-cd56-4843-a398-1f0e1406d692": {
 		"name": "dart_ecommedfpsogiftsublifecycle1_vwr_412_sbs_cmc_sub_mis_email_2105_fr_holdout",
 		"v": 15260,
@@ -34098,21 +34192,6 @@
 			}
 		]
 	},
-	"f41b6f9e-2975-4c11-a5d1-0b50d95a4504": {
-		"name": "ios_creator_mode_segment_a",
-		"v": 18658,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"f41d7d52-a2b1-4e0a-89f8-2aba121f996b": {
 		"name": "android_mgst_broadcasting_upsell",
 		"v": 11781,
@@ -34475,6 +34554,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"f6b43f06-b0ea-4b2a-8c73-103747b58533": {
+		"name": "android_guest_star_bar",
+		"v": 21476,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
