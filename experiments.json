@@ -31531,15 +31531,15 @@
 	},
 	"dde9c514-e367-4642-91f2-1e58a75b4a36": {
 		"name": "android_mg_irl_broadcast_migration",
-		"v": 21329,
+		"v": 21519,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_13.2"
 			}
 		]
