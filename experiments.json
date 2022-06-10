@@ -15495,11 +15495,11 @@
 	},
 	"6c3dc103-5428-44a8-8955-cdfa7974a844": {
 		"name": "android_ads_preload_player_v2",
-		"v": 21490,
+		"v": 21511,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -15507,7 +15507,7 @@
 				"value": "active_no_preload_13.1"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active_preload_13.1"
 			}
 		]
