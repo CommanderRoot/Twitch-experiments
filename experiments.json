@@ -19772,6 +19772,21 @@
 			}
 		]
 	},
+	"8c18c603-6b5a-41d0-a2e1-5a4d6e3ec023": {
+		"name": "android_dnr_migration",
+		"v": 21498,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"8c2fafa8-f822-4cab-93b3-b6426e25ac12": {
 		"name": "ios_viewer_card_update",
 		"v": 19500,
