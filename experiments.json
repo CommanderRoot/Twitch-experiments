@@ -6660,6 +6660,21 @@
 			}
 		]
 	},
+	"2fbe95f2-1383-4c15-afc7-14e5fcbea844": {
+		"name": "dart_modonboardfollowupd3_vwr_719_awa_cmc_non_mis_email_225_holdout",
+		"v": 21523,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2fc19750-b8f0-4d6d-9683-61803d8e86bf": {
 		"name": "dart_ccu250below_ctr_481_awa_cmc_lrn_mis_email_2109_holdout",
 		"v": 16847,
@@ -29475,6 +29490,21 @@
 			{
 				"weight": 1,
 				"value": "gather"
+			}
+		]
+	},
+	"ce4e976d-999a-4e8d-bb95-163f4c76476f": {
+		"name": "dart_modonboardfollowupd7_vwr_719_awa_cmc_non_mis_email_225_holdout",
+		"v": 21524,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
