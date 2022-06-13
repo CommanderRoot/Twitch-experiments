@@ -23136,15 +23136,15 @@
 	},
 	"a1a15752-8387-4bd1-bf3e-d4fa4eebda42": {
 		"name": "ios_playercore_enable_set_low_latency_increased_rebuffering_fix",
-		"v": 21318,
+		"v": 21532,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
