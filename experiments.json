@@ -13751,6 +13751,21 @@
 			}
 		]
 	},
+	"60c62cbe-d304-474a-924d-84acd4268b3f": {
+		"name": "android_sprig_survey",
+		"v": 21526,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"60cb4f7e-0364-4a97-ba77-050aa3f6519d": {
 		"name": "dart_apac_jpn_twitchrivalsxminecraft_vwr_0_flw_trn_flw_gmg_email_2110_holdout",
 		"v": 17563,
