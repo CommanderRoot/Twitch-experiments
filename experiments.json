@@ -29918,6 +29918,21 @@
 			}
 		]
 	},
+	"d0557e6d-edd2-487e-b8c4-19dee97e97ed": {
+		"name": "dart_liveup_dual_send_drop_migration",
+		"v": 21545,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"d05eb96f-8dc6-4cd5-8a52-d6b67ca1187b": {
 		"name": "dart_ecommedtactical1_vwr_411_sbs_cmc_sub_mis_email_2105_it_holdout",
 		"v": 16910,
