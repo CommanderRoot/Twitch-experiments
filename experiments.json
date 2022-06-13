@@ -368,15 +368,15 @@
 	},
 	"021d1193-0584-44fb-94b3-71f2dcb46bd1": {
 		"name": "ios_playercore_enable_video_renderer_memory_growth_fix",
-		"v": 21264,
+		"v": 21530,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -17064,15 +17064,15 @@
 	},
 	"76022f49-3c59-475c-8e4c-64b633439d21": {
 		"name": "ios_playercore_enable_playlist_updater_increased_rebuffering_fix",
-		"v": 21316,
+		"v": 21531,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
