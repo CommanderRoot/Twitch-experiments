@@ -13534,15 +13534,15 @@
 	},
 	"5ef9c9be-bc25-4b0b-a2d3-bcad72541771": {
 		"name": "adblock_prerollratelimit_rollout",
-		"v": 21567,
+		"v": 21573,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "ON"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "OFF"
 			}
 		]
