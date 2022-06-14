@@ -6426,21 +6426,6 @@
 			}
 		]
 	},
-	"2c37e392-e7c0-4436-975e-d61e8e5483dd": {
-		"name": "dart_expireprimed14_vwr_1234_cmc_cmc_sub_mis_onsite_2205_holdout",
-		"v": 21244,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"2c8a55a3-f93a-4d1d-b767-d60b01e2ce29": {
 		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13580,
@@ -13400,21 +13385,6 @@
 	"5e9cef68-0701-415e-8243-6c33c84d3cc4": {
 		"name": "dart_adsmanagerboth_ctr_517_awa_cmc_lrn_mis_o_2110_holdout",
 		"v": 17609,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"5ea38d11-d265-4c39-8e0d-418c304e20e9": {
-		"name": "dart_expireprimed7_vwr_1234_cmc_cmc_sub_mis_onsite_2205_holdout",
-		"v": 21245,
 		"t": 2,
 		"groups": [
 			{
