@@ -30700,6 +30700,21 @@
 			}
 		]
 	},
+	"d5739480-8442-457b-832c-1b77a94e56c7": {
+		"name": "dart_motivation_viewer_feedback_email_exp_holdout",
+		"v": 21576,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"d590374e-ec1c-4f22-9a70-30d62170727a": {
 		"name": "android_captcha",
 		"v": 21046,
