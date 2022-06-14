@@ -17987,6 +17987,21 @@
 			}
 		]
 	},
+	"7bc4f3f8-98e0-492f-86e0-da7ad41c3d6f": {
+		"name": "ios_ivs_irl_broadcasting_restricted",
+		"v": 21563,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"7be551c3-80c4-43fa-8a22-2fce34fdf089": {
 		"name": "dart_fncs_hh_111921_holdout",
 		"v": 17924,
@@ -22281,6 +22296,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"9a752e46-3ebc-4a05-8737-4425807a368d": {
+		"name": "ios_ivs_irl_broadcasting_global",
+		"v": 21564,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
 			}
 		]
 	},
