@@ -28576,6 +28576,21 @@
 			}
 		]
 	},
+	"c6f4855c-654a-4eb1-9c00-ade6559e7251": {
+		"name": "dart_commercemerchjune_vwr_715_cmm_cmc_buy_mis_onsite_226_holdout",
+		"v": 21612,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c6fd0d37-c577-4e5f-a2a7-9d2e1c7c300b": {
 		"name": "community-gifting-recommendation-v2.6",
 		"v": 12736,
