@@ -13382,6 +13382,21 @@
 			}
 		]
 	},
+	"5e7a2628-2418-419b-93b2-df38ebdafabd": {
+		"name": "commerce_fraud_low_risk_velocity",
+		"v": 21591,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treat"
+			}
+		]
+	},
 	"5e9cef68-0701-415e-8243-6c33c84d3cc4": {
 		"name": "dart_adsmanagerboth_ctr_517_awa_cmc_lrn_mis_o_2110_holdout",
 		"v": 17609,
@@ -25540,6 +25555,21 @@
 			{
 				"weight": 0,
 				"value": "active_8_1_1_staff"
+			}
+		]
+	},
+	"b120bb1d-bf6c-4bdb-a599-2b0eaf944e5d": {
+		"name": "pur_rep_low_risk_velocity",
+		"v": 21590,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treat"
 			}
 		]
 	},
