@@ -35196,16 +35196,16 @@
 	},
 	"f7e319fe-a5c5-4833-b949-3ccec65e6cb6": {
 		"name": "random_tomato",
-		"v": 21216,
+		"v": 21626,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 980,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "variant"
 			},
 			{
