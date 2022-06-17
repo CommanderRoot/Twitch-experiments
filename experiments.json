@@ -20698,6 +20698,21 @@
 			}
 		]
 	},
+	"8fdde777-1f1e-4230-813d-1fe857526edf": {
+		"name": "dart_sgfpostevent_ctr_735_awa_cmc_non_mis_email_226_holdout",
+		"v": 21665,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8feaebce-0955-4d59-bbad-4e3469dbb2f8": {
 		"name": "android_chomments_posting",
 		"v": 2067,
