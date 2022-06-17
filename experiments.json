@@ -9621,6 +9621,21 @@
 			}
 		]
 	},
+	"44895496-acba-4992-b3d9-9e29964ed6bb": {
+		"name": "dart_pride_spotlighten_vwr_737_dav_cmc_wch_mis_email_2206_holdout",
+		"v": 21650,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"44a503af-d77f-4f1d-9fa4-c99c5f783f9c": {
 		"name": "twilight_video_manager_release",
 		"v": 2850,
@@ -14826,6 +14841,21 @@
 	"671fb703-3ce6-4ef8-b443-ecf105b2c70f": {
 		"name": "dart_tnfweek10_vwr_272_dav_cmc_wch_tne_spt_peo_2012_holdout",
 		"v": 12882,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"672c06cf-9d5a-4074-a958-235d91ed8ce0": {
+		"name": "dart_pride_spotlightfr_vwr_737_dav_cmc_wch_mis_email_2206_holdout",
+		"v": 21649,
 		"t": 2,
 		"groups": [
 			{
@@ -21363,6 +21393,21 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			}
+		]
+	},
+	"94da13dc-3991-4cf0-ac18-ed007b05a5ac": {
+		"name": "dart_pride_spotlightit_vwr_737_dav_cmc_wch_mis_email_2206_holdout",
+		"v": 21651,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
