@@ -32399,6 +32399,21 @@
 			}
 		]
 	},
+	"e208bfaf-c0cd-478d-98c3-1c73c1fa7aaf": {
+		"name": "android_cronet_play_services_query",
+		"v": 21664,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_13.4"
+			}
+		]
+	},
 	"e22d3649-1f11-46b3-8199-d6a04d39ba01": {
 		"name": "dart_eoy_inactive_vwr_0_dav_cmc_non_mis_email_2101_holdout",
 		"v": 13122,
