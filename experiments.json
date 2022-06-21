@@ -1646,6 +1646,21 @@
 			}
 		]
 	},
+	"0b7eb038-a449-45c6-bdf8-26b456f399de": {
+		"name": "dart_apac_aus_ausgiftcardprimeday_ctr_0_dav_trn_wch_gmg_email_2206_holdout",
+		"v": 21674,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0b8f9426-3478-4a89-804e-0ef0bb35ac18": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13568,
@@ -29105,6 +29120,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"c9a40b91-4b79-4f34-ba4c-13ee994e4d54": {
+		"name": "dart_apac_aus_ausgiftcardprimeday_ctr_0_dav_trn_wch_gmg_onsite_2206_holdout",
+		"v": 21675,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
