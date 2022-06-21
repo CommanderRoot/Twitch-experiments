@@ -8363,6 +8363,21 @@
 			}
 		]
 	},
+	"3b4d43fd-2be9-45d0-8d6e-edb8698901f1": {
+		"name": "android_google_billing_library_v5_update",
+		"v": 21693,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_development"
+			}
+		]
+	},
 	"3b6b17d7-f7e8-4ab3-8030-e74c790b6297": {
 		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13577,
