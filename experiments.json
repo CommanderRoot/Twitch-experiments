@@ -2382,7 +2382,7 @@
 	},
 	"10df8aa0-48fb-495e-9cac-a8482357e98b": {
 		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 21022,
+		"v": 21684,
 		"t": 2,
 		"groups": [
 			{
@@ -16159,7 +16159,7 @@
 	},
 	"6fb32348-8b9f-4319-9948-4a3c126ac7ff": {
 		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 21018,
+		"v": 21681,
 		"t": 2,
 		"groups": [
 			{
@@ -16761,7 +16761,7 @@
 	},
 	"7357166d-5a2f-47dc-95af-fddf4c29aa1e": {
 		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 21023,
+		"v": 21685,
 		"t": 2,
 		"groups": [
 			{
@@ -30811,15 +30811,15 @@
 	},
 	"d590374e-ec1c-4f22-9a70-30d62170727a": {
 		"name": "android_captcha",
-		"v": 21046,
+		"v": 21683,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "arkose_v1"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "arkose_v2"
 			}
 		]
@@ -31756,7 +31756,7 @@
 	},
 	"dc78050f-382c-478f-8074-57f497b14eca": {
 		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 21019,
+		"v": 21682,
 		"t": 2,
 		"groups": [
 			{
