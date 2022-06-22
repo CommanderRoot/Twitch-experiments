@@ -17672,6 +17672,21 @@
 			}
 		]
 	},
+	"7a032a92-9720-4ff9-8c41-f9242fd0006e": {
+		"name": "dart_apac_twn_twitchrivalsxvalorant_vwr_0_dav_trn_wch_gmg_push_2206_holdout",
+		"v": 21720,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7a120eef-4323-4c9f-9922-3f56969ff67d": {
 		"name": "dart_decider_new_consumer_rollback",
 		"v": 17260,
