@@ -23449,7 +23449,7 @@
 	},
 	"a2d2f3b8-7e5a-4203-a03e-48cad08f1f9b": {
 		"name": "ios_dnr_migration",
-		"v": 21729,
+		"v": 21735,
 		"t": 1,
 		"groups": [
 			{
@@ -33373,12 +33373,12 @@
 	},
 	"ea6dc687-3f68-4791-b843-848bf687b6c5": {
 		"name": "android_ads_client_ad_allocator_v1",
-		"v": 21617,
+		"v": 21734,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "active_13.2"
+				"value": "active_13.4"
 			},
 			{
 				"weight": 100,
