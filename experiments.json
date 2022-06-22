@@ -30506,15 +30506,15 @@
 	},
 	"d42d3d43-236e-46ee-8684-ed45c050c1e2": {
 		"name": "ios_playercore_opt_in",
-		"v": 21676,
+		"v": 21726,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 35,
 				"value": "opt_in"
 			},
 			{
-				"weight": 80,
+				"weight": 65,
 				"value": "opt_out"
 			}
 		]
