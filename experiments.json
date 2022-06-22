@@ -4681,21 +4681,6 @@
 			}
 		]
 	},
-	"20c91448-ea6a-46ec-b065-fda344865a71": {
-		"name": "dart_cold_d21_top_streamers_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 14480,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"20dc1556-5a44-477f-8f44-4a4466755f40": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13555,
@@ -16055,21 +16040,6 @@
 			{
 				"weight": 100,
 				"value": "active_9.10"
-			}
-		]
-	},
-	"6ee6c5a1-c7d5-47c4-8140-788eb0d5780a": {
-		"name": "dart_cold_d21_top_streamers_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 16766,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -34949,21 +34919,6 @@
 	"f598b9a1-9508-41a0-bbdc-b451f0130f6d": {
 		"name": "dart_localisedpricingprevsub_vwr_513_sbs_cmc_sub_mis_email_2109_holdout",
 		"v": 17012,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"f5ef9025-967b-4d52-9579-75c30949e98f": {
-		"name": "dart_cold_d21_top_streamers_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 14482,
 		"t": 2,
 		"groups": [
 			{
