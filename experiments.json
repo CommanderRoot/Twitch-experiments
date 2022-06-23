@@ -28931,7 +28931,7 @@
 	},
 	"c89c0dae-5355-4765-b97a-5dd499e85245": {
 		"name": "ios_playercore",
-		"v": 21742,
+		"v": 21744,
 		"t": 1,
 		"groups": [
 			{
@@ -30585,15 +30585,15 @@
 	},
 	"d42d3d43-236e-46ee-8684-ed45c050c1e2": {
 		"name": "ios_playercore_opt_in",
-		"v": 21726,
+		"v": 21743,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 35,
+				"weight": 50,
 				"value": "opt_in"
 			},
 			{
-				"weight": 65,
+				"weight": 50,
 				"value": "opt_out"
 			}
 		]
