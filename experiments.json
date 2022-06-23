@@ -8623,6 +8623,21 @@
 			}
 		]
 	},
+	"3d2a16b5-9d37-4b45-b049-4f4c8511f289": {
+		"name": "new_hermes_channels_sms_rollout",
+		"v": 21754,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "rollout"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"3d32f8cd-fc2d-4fa0-b629-d83a19c38c30": {
 		"name": "android_multioption_predictions",
 		"v": 20595,
@@ -28275,6 +28290,21 @@
 			}
 		]
 	},
+	"c4b044b7-d830-420f-9ce4-1d4fc80cf162": {
+		"name": "new_hermes_channels_fcm_rollout",
+		"v": 21752,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "rollout"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"c4cb4704-43e5-4715-aa73-2dd325ec9d9d": {
 		"name": "dart_truegeordie_vwr_322_dav_cmc_wch_spt_email_2011_holdout",
 		"v": 12616,
@@ -29546,6 +29576,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"ccfa29d7-e2ed-4c70-a123-802c476a751d": {
+		"name": "new_hermes_channels_onsite_rollout",
+		"v": 21750,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "rollout"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
@@ -31913,6 +31958,21 @@
 			}
 		]
 	},
+	"dd5d0e8a-610b-47dd-8098-63d9a51b576b": {
+		"name": "new_hermes_channels_apns_rollout",
+		"v": 21751,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "rollout"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"dd92ae9c-16e3-4726-9f53-fefef4ef8731": {
 		"name": "android_notifications_sorting",
 		"v": 11115,
@@ -32672,6 +32732,21 @@
 			{
 				"weight": 100,
 				"value": "active_9.2"
+			}
+		]
+	},
+	"e417cd5a-78fd-4d3b-a9e3-b2e77e34c299": {
+		"name": "new_hermes_channels_browser_rollout",
+		"v": 21753,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "rollout"
+			},
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
