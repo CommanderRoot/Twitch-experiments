@@ -6585,6 +6585,25 @@
 			}
 		]
 	},
+	"2e9849ad-346e-4b74-89be-569661d102e3": {
+		"name": "android_subscriber_badge",
+		"v": 21741,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_no_background_dev"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_background_dev"
+			}
+		]
+	},
 	"2ea9efcc-8188-4c86-b5be-3ea99805e58c": {
 		"name": "dart_rolling_loud_2_reminder_102920_holdout",
 		"v": 12264,
