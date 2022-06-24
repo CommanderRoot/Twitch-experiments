@@ -8273,6 +8273,21 @@
 			}
 		]
 	},
+	"3a2958d0-2ab0-48d5-b875-556c8181a044": {
+		"name": "dart_ibai_la_velada_vwr_744_dav_cmc_wch_gmg_push_2206_holdout",
+		"v": 21761,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3a5a9b24-c7bd-4b0b-adf4-14ac95030581": {
 		"name": "ios_report_vast_urls_invalid_macros",
 		"v": 15406,
@@ -8334,6 +8349,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"3b1a8e4a-180d-438d-bc4e-1b407bc82c7e": {
+		"name": "dart_ibai_la_velada_vwr_744_dav_cmc_wch_gmg_email_2206_email",
+		"v": 21760,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -20017,6 +20047,21 @@
 	"8b1d7969-92c3-4c3c-a373-8a581d7c43dd": {
 		"name": "dart_newcreatorgbe1_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
 		"v": 16004,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"8b29e9c9-e5d7-4b45-a995-f8d633db4dd0": {
+		"name": "dart_ibai_la_velada_vwr_744_dav_cmc_wch_gmg_email_2206_holdout",
+		"v": 21759,
 		"t": 2,
 		"groups": [
 			{
