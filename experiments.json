@@ -10392,35 +10392,35 @@
 	},
 	"4a21eec0-1de5-469e-b755-0d1087bbf18b": {
 		"name": "one_click",
-		"v": 21241,
+		"v": 21797,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 15,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 15,
 				"value": "experiment"
 			},
 			{
-				"weight": 20,
+				"weight": 55,
 				"value": "variant_1"
 			},
 			{
-				"weight": 20,
+				"weight": 15,
 				"value": "variant_2"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "experiment"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "variant_1"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "variant_2"
 			}
 		]
