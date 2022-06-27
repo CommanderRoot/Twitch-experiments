@@ -9623,15 +9623,15 @@
 	},
 	"43a6a23c-b9df-43ed-b71c-448075440f03": {
 		"name": "roster_team_reads",
-		"v": 21803,
+		"v": 21806,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "legacy"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "fulton"
 			},
 			{
