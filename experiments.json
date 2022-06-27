@@ -13034,6 +13034,21 @@
 			}
 		]
 	},
+	"5c25cc9b-b5b0-41f7-8da7-94f1c49a7f11": {
+		"name": "dart_twitchconexcitenl_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
+		"v": 21787,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5c29076a-ea6b-4627-ad91-e0e903484dd9": {
 		"name": "new_hermes_rollout",
 		"v": 15646,
@@ -24011,6 +24026,21 @@
 			}
 		]
 	},
+	"a62b4673-a980-4730-be9d-85619219facd": {
+		"name": "dart_twitchconexcitede_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
+		"v": 21789,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a64224a9-8292-4d4f-80ec-f7df532b6bf8": {
 		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_pe_2011_holdout",
 		"v": 12383,
@@ -28027,6 +28057,21 @@
 			}
 		]
 	},
+	"c21e7776-f19a-4836-b866-4d48510e2309": {
+		"name": "android_game_broadcast_settings",
+		"v": 21788,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"c21edfae-f146-410b-9956-af21e4e20416": {
 		"name": "dart_valorantemea_vwr_302_dav_cmc_wch_evt_esp_push_2011_holdout",
 		"v": 12388,
@@ -31759,6 +31804,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"db387426-92e0-4d45-87d3-bce9ad81f866": {
+		"name": "dart_twitchconexcitefr_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
+		"v": 21790,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
