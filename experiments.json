@@ -2425,6 +2425,21 @@
 			}
 		]
 	},
+	"11968a26-0088-47b9-bee3-b9f156926a94": {
+		"name": "dart_twitchconexciteit_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
+		"v": 21793,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"11b478c1-c91e-4daf-ab0f-d9865829407c": {
 		"name": "dart_fallemotemore_ctr_awa_trn_non_mis_emailonsite_2111_holdout",
 		"v": 17898,
@@ -17634,6 +17649,21 @@
 			{
 				"weight": 100,
 				"value": "experiment"
+			}
+		]
+	},
+	"79456617-8967-4b0d-8e14-021b0ebbc418": {
+		"name": "dart_twitchconexcitees_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
+		"v": 21792,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -33928,6 +33958,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"ec54807a-4c9b-4e91-b0a6-830b6151dda7": {
+		"name": "dart_twitchconexciteuk_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
+		"v": 21791,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
