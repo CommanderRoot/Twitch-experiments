@@ -32322,11 +32322,11 @@
 	},
 	"e0295388-18b8-43c8-b411-27026755b95a": {
 		"name": "android_revoke_unack_purchases_gql_migration",
-		"v": 21622,
+		"v": 21820,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -32334,7 +32334,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_13.3"
 			}
 		]
