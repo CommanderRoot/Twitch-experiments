@@ -13034,6 +13034,21 @@
 			}
 		]
 	},
+	"5c25cc9b-b5b0-41f7-8da7-94f1c49a7f11": {
+		"name": "dart_twitchconexcitenl_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
+		"v": 21779,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5c29076a-ea6b-4627-ad91-e0e903484dd9": {
 		"name": "new_hermes_rollout",
 		"v": 15646,
@@ -33868,6 +33883,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"ec54807a-4c9b-4e91-b0a6-830b6151dda7": {
+		"name": "dart_twitchconexciteuk_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
+		"v": 21780,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
