@@ -6111,7 +6111,7 @@
 	},
 	"2a68d16e-446c-440d-8605-df0d99b18764": {
 		"name": "roster_team_writes",
-		"v": 21799,
+		"v": 21811,
 		"t": 1,
 		"groups": [
 			{
@@ -6119,11 +6119,11 @@
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -6408,21 +6408,6 @@
 			{
 				"weight": 0,
 				"value": "variant2"
-			}
-		]
-	},
-	"2c37e392-e7c0-4436-975e-d61e8e5483dd": {
-		"name": "dart_expireprimed14_vwr_1234_cmc_cmc_sub_mis_onsite_2205_holdout",
-		"v": 21739,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -9623,15 +9608,15 @@
 	},
 	"43a6a23c-b9df-43ed-b71c-448075440f03": {
 		"name": "roster_team_reads",
-		"v": 21806,
+		"v": 21807,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
@@ -12970,21 +12955,6 @@
 			}
 		]
 	},
-	"5bc18b39-492c-4828-b29a-5136cf3d5723": {
-		"name": "dart_expireprimed1_vwr_1234_cmc_cmc_sub_mis_onsite_2205_holdout",
-		"v": 21736,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"5bdcd7ae-c35c-4c5a-80b4-72716c3f5612": {
 		"name": "android_disable_core_player_mp4_playback",
 		"v": 3738,
@@ -13359,21 +13329,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"5e28839d-52be-4751-b9e4-8db4e782c3d1": {
-		"name": "dart_expireprimed1_vwr_1234_cmc_cmc_sub_mis_onsite_2205_onsite",
-		"v": 21737,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
