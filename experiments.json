@@ -12675,6 +12675,21 @@
 			}
 		]
 	},
+	"59a475d1-0104-4368-8158-b9ac3096a1bb": {
+		"name": "dart_apac_tha_monthlynewsletter_ctr_0_dav_trn_wch_gmg_email_2206_email",
+		"v": 21830,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"59a5e076-7dbe-4c27-afc7-01b927c22e3a": {
 		"name": "dart_riotsummerrumbleday1_vwr_447_dav_cmc_wch_gmg_push_2106_holdout",
 		"v": 15512,
@@ -30780,6 +30795,21 @@
 			{
 				"weight": 0,
 				"value": "off"
+			}
+		]
+	},
+	"d47ce9e4-e6ea-4f8c-8f81-72b1ab44d560": {
+		"name": "dart_apac_tha_monthlynewsletter_ctr_0_dav_trn_wch_gmg_email_2206_holdout",
+		"v": 21829,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
