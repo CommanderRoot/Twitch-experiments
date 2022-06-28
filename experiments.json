@@ -23770,6 +23770,21 @@
 			}
 		]
 	},
+	"a475116a-193e-4e6f-9d60-8b7f12765398": {
+		"name": "community_shoutouts_rollout",
+		"v": 21831,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_development"
+			}
+		]
+	},
 	"a4a07343-a41e-4cc8-91c1-c27ade775801": {
 		"name": "ios_ivs_broadcasting",
 		"v": 16151,
