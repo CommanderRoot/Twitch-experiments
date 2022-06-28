@@ -25831,15 +25831,15 @@
 	},
 	"b15b6eaf-32ba-470c-8353-0666495c7a39": {
 		"name": "roster_invitation_reads",
-		"v": 20333,
+		"v": 21859,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
@@ -36249,7 +36249,7 @@
 	},
 	"fc71afd5-ce1e-4135-9ecf-d7d5e6904da3": {
 		"name": "roster_invitation_writes",
-		"v": 21857,
+		"v": 21860,
 		"t": 1,
 		"groups": [
 			{
@@ -36257,11 +36257,11 @@
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "disable"
 			}
 		]
