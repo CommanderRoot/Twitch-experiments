@@ -7068,15 +7068,15 @@
 	},
 	"31f42cb0-5558-416a-b5ac-95a90c3dda04": {
 		"name": "roster_membership_reads",
-		"v": 21844,
+		"v": 21845,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "fulton"
 			},
 			{
@@ -17029,7 +17029,7 @@
 	},
 	"74b99b8c-baa9-472e-858d-383b89549155": {
 		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 21708,
+		"v": 21850,
 		"t": 2,
 		"groups": [
 			{
@@ -22996,11 +22996,11 @@
 	},
 	"9ddb3385-950c-4a0b-b719-3e03c4294b91": {
 		"name": "roster_membership_writes",
-		"v": 21842,
+		"v": 21846,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
@@ -23008,7 +23008,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -30104,7 +30104,7 @@
 	},
 	"cf115fa2-e2d3-46e0-a5f9-ed8c9a8a12f2": {
 		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 21707,
+		"v": 21849,
 		"t": 2,
 		"groups": [
 			{
