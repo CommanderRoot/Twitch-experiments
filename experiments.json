@@ -36249,7 +36249,7 @@
 	},
 	"fc71afd5-ce1e-4135-9ecf-d7d5e6904da3": {
 		"name": "roster_invitation_writes",
-		"v": 21860,
+		"v": 21861,
 		"t": 1,
 		"groups": [
 			{
@@ -36257,11 +36257,11 @@
 				"value": "legacy"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
