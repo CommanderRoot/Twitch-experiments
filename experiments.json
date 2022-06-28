@@ -22996,7 +22996,7 @@
 	},
 	"9ddb3385-950c-4a0b-b719-3e03c4294b91": {
 		"name": "roster_membership_writes",
-		"v": 21854,
+		"v": 21855,
 		"t": 1,
 		"groups": [
 			{
@@ -23004,11 +23004,11 @@
 				"value": "legacy"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
