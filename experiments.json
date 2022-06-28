@@ -7068,15 +7068,15 @@
 	},
 	"31f42cb0-5558-416a-b5ac-95a90c3dda04": {
 		"name": "roster_membership_reads",
-		"v": 20330,
+		"v": 21844,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "fulton"
 			},
 			{
@@ -22996,11 +22996,11 @@
 	},
 	"9ddb3385-950c-4a0b-b719-3e03c4294b91": {
 		"name": "roster_membership_writes",
-		"v": 21839,
+		"v": 21842,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
@@ -23008,7 +23008,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "disable"
 			}
 		]
@@ -26653,15 +26653,15 @@
 	},
 	"b734a839-9d24-4059-ba9e-a824c24acd97": {
 		"name": "hermes_east_ses_rollout",
-		"v": 21689,
+		"v": 21843,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 80,
 				"value": "rollout"
 			}
 		]
