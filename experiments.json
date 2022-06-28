@@ -22996,11 +22996,11 @@
 	},
 	"9ddb3385-950c-4a0b-b719-3e03c4294b91": {
 		"name": "roster_membership_writes",
-		"v": 20326,
+		"v": 21837,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
@@ -23008,7 +23008,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "disable"
 			}
 		]
@@ -23771,8 +23771,8 @@
 		]
 	},
 	"a475116a-193e-4e6f-9d60-8b7f12765398": {
-		"name": "community_shoutouts_rollout",
-		"v": 21831,
+		"name": "android_community_shoutouts_rollout",
+		"v": 21838,
 		"t": 1,
 		"groups": [
 			{
