@@ -11281,6 +11281,21 @@
 			}
 		]
 	},
+	"502fe8f0-6858-465e-83b4-8f58f538528a": {
+		"name": "hype_train_all_time_high",
+		"v": 21869,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "hype_train_all_time_high_off"
+			},
+			{
+				"weight": 0,
+				"value": "hype_train_all_time_high_on"
+			}
+		]
+	},
 	"50418f28-335b-4245-86f5-1392c0424bbc": {
 		"name": "android_left_third_display_ads_a_b_test",
 		"v": 19815,
