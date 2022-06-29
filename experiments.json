@@ -10612,15 +10612,15 @@
 	},
 	"4b7b9d2c-9458-46bb-8a43-93e44c790a27": {
 		"name": "android_banner_upload",
-		"v": 21298,
+		"v": 21867,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_13.1"
 			}
 		]
