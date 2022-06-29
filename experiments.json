@@ -20208,11 +20208,11 @@
 	},
 	"8c18c603-6b5a-41d0-a2e1-5a4d6e3ec023": {
 		"name": "android_dnr_migration",
-		"v": 21623,
+		"v": 21868,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -20220,7 +20220,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_13.3"
 			}
 		]
