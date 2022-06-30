@@ -20298,11 +20298,11 @@
 	},
 	"8c18c603-6b5a-41d0-a2e1-5a4d6e3ec023": {
 		"name": "android_dnr_migration",
-		"v": 21868,
+		"v": 21889,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -20310,7 +20310,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_13.3"
 			}
 		]
@@ -32487,11 +32487,11 @@
 	},
 	"e0295388-18b8-43c8-b411-27026755b95a": {
 		"name": "android_revoke_unack_purchases_gql_migration",
-		"v": 21820,
+		"v": 21888,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -32499,7 +32499,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_13.3"
 			}
 		]
