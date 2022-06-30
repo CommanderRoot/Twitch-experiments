@@ -23193,6 +23193,21 @@
 			}
 		]
 	},
+	"9e9f70b0-06d7-4a33-8faa-f72ad097e089": {
+		"name": "android_ads_om_sdk_api",
+		"v": 21895,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active_13.4"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"9ea291fe-63ac-4234-b56e-bcc49f6085ea": {
 		"name": "android_ads_stream_presenter_8_1",
 		"v": 8455,
