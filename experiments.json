@@ -30982,6 +30982,21 @@
 			}
 		]
 	},
+	"d53464ab-4f71-47bc-a5d1-4852dbc3fdb1": {
+		"name": "dart_apac_twn_tw77festival_vwr_0_dav_trn_wch_gmg_onsite_2207_holdout",
+		"v": 21874,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d538ecca-9292-4ee2-8f4c-3992d0d1c092": {
 		"name": "dart_euro2020keyevent5_vwr_445_dav_cmc_wch_spt_push_2106_de_holdout",
 		"v": 15474,
@@ -36413,6 +36428,21 @@
 			{
 				"weight": 0,
 				"value": "variant"
+			}
+		]
+	},
+	"fd0af485-36a3-4c79-9ffd-bb6ab25ca16c": {
+		"name": "dart_apac_twn_tw77festival_vwr_0_dav_trn_wch_gmg_email_2207_holdout",
+		"v": 21873,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
