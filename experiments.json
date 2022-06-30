@@ -10610,6 +10610,21 @@
 			}
 		]
 	},
+	"4b630eb2-bd3f-4fee-aae9-1df767f09ad3": {
+		"name": "dart_tc_ticketsaleslm_onsite_affiliate_ctr_na_awa_cmc_buy_mis_onsite_2207_holdout",
+		"v": 21882,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4b79ad96-2307-48fe-9bc5-f903a29dc55d": {
 		"name": "android_enable_rooms_release",
 		"v": 3336,
@@ -12162,6 +12177,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"55e24c37-5368-44ef-acb0-2a7e1b93097c": {
+		"name": "dart_tc_ticketsaleslm_onsite_community_ctr_na_awa_cmc_buy_mis_onsite_2207_holdout",
+		"v": 21881,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
