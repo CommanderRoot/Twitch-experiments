@@ -10407,23 +10407,23 @@
 	},
 	"4a21eec0-1de5-469e-b755-0d1087bbf18b": {
 		"name": "one_click",
-		"v": 21797,
+		"v": 21890,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 15,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 0,
 				"value": "experiment"
 			},
 			{
-				"weight": 55,
+				"weight": 100,
 				"value": "variant_1"
 			},
 			{
-				"weight": 15,
+				"weight": 0,
 				"value": "variant_2"
 			},
 			{
