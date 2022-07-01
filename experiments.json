@@ -6441,6 +6441,21 @@
 			}
 		]
 	},
+	"2c37e392-e7c0-4436-975e-d61e8e5483dd": {
+		"name": "dart_expireprimed14_vwr_1234_cmc_cmc_sub_mis_onsite_2205_holdout",
+		"v": 21902,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2c8a55a3-f93a-4d1d-b767-d60b01e2ce29": {
 		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
 		"v": 13580,
@@ -13045,6 +13060,21 @@
 			}
 		]
 	},
+	"5bc18b39-492c-4828-b29a-5136cf3d5723": {
+		"name": "dart_expireprimed1_vwr_1234_cmc_cmc_sub_mis_onsite_2205_holdout",
+		"v": 21903,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5bdcd7ae-c35c-4c5a-80b4-72716c3f5612": {
 		"name": "android_disable_core_player_mp4_playback",
 		"v": 3738,
@@ -13434,6 +13464,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"5e28839d-52be-4751-b9e4-8db4e782c3d1": {
+		"name": "dart_expireprimed1_vwr_1234_cmc_cmc_sub_mis_onsite_2205_onsite",
+		"v": 21904,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -35495,6 +35540,21 @@
 			{
 				"weight": 80,
 				"value": "control"
+			}
+		]
+	},
+	"f69803a0-2e3e-4ace-a51b-6732030cbc4e": {
+		"name": "dart_phonenumbersignupd3_vwr_1234_sgn_cmc_drt_mis_onsite_2205_holdout",
+		"v": 21905,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
