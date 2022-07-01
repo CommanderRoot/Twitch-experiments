@@ -1349,6 +1349,21 @@
 			}
 		]
 	},
+	"09544200-64ac-436c-91a8-cdc1244ff0c4": {
+		"name": "dart_primeday_subfr_vwr_752_cmm_cmc_buy_mis_email_2207_holdout",
+		"v": 21910,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"096252ea-5fc8-43c1-868a-d5c686b11742": {
 		"name": "ios_web_login_disable_implicit_flow",
 		"v": 4193,
