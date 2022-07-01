@@ -7096,6 +7096,21 @@
 			}
 		]
 	},
+	"31c3cc00-a964-4043-8b05-585b2bc4280e": {
+		"name": "dart_primeday_giftcarduk_vwr_752_cmm_cmc_buy_mis_email_2207_holdout",
+		"v": 21913,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"31dbec12-33a6-4254-88fa-787f3be03372": {
 		"name": "android_country_code_picker",
 		"v": 8795,
@@ -23435,6 +23450,21 @@
 			}
 		]
 	},
+	"9ffab356-017d-44dd-a6a2-0369417dd6ed": {
+		"name": "dart_primeday_subit_vwr_752_cmm_cmc_buy_mis_email_2207_holdout",
+		"v": 21911,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a0182907-4ddc-48a3-877c-ffdd8f27b963": {
 		"name": "dart_ecommedfpsoprimesublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_de_holdout",
 		"v": 15273,
@@ -36081,6 +36111,21 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"fa4c7259-3134-4bee-8d4d-ed29f57cdc61": {
+		"name": "dart_primeday_subes_vwr_752_cmm_cmc_buy_mis_email_2207_holdout",
+		"v": 21912,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
