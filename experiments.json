@@ -24751,6 +24751,21 @@
 			}
 		]
 	},
+	"aa209692-491c-4b0f-a6bb-e9d47aa490b4": {
+		"name": "ios_channel_cheer_info_gql_migration",
+		"v": 21909,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"aa2e339f-e985-4c8f-aa20-2d501bf253da": {
 		"name": "dart_wintergathering_ctr_581_awa_cmc_flw_gmg_email_2111_holdout",
 		"v": 18087,
