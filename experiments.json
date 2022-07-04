@@ -16746,6 +16746,21 @@
 			}
 		]
 	},
+	"7209f494-cb0a-4464-a7c3-36bafec9a3e3": {
+		"name": "dart_primedaymerchdo_vwr_745_cmm_cmc_buy_mis_emailonsite_227_holdout",
+		"v": 21934,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"720b92aa-fa9a-4683-af8b-362ce083f827": {
 		"name": "android_disable_preroll_ad",
 		"v": 15395,
