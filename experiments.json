@@ -10458,11 +10458,11 @@
 	},
 	"4a0cc341-adf1-48bc-996c-a05cbc60f842": {
 		"name": "ios_ivs_broadcast_rtmp_stack",
-		"v": 21256,
+		"v": 21944,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "0"
 			},
 			{
@@ -10474,7 +10474,7 @@
 				"value": "2"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "3"
 			},
 			{
@@ -16378,11 +16378,11 @@
 	},
 	"6f8613de-6232-4232-af20-bf1b1a692775": {
 		"name": "android_ivs_broadcast_rtmp_stack",
-		"v": 21257,
+		"v": 21943,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "0"
 			},
 			{
@@ -16394,7 +16394,7 @@
 				"value": "2"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "3"
 			},
 			{
