@@ -7555,6 +7555,21 @@
 			}
 		]
 	},
+	"34d3e969-c88b-449b-857f-c259d76a3b7f": {
+		"name": "dart_primedaygiftcarddo_vwr_747_cmm_cmc_buy_mis_email_227_holdout",
+		"v": 21936,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"34d5f32d-b32c-4976-86ab-2ddfcc750d29": {
 		"name": "ios_nielsen",
 		"v": 18915,
@@ -9712,6 +9727,21 @@
 			{
 				"weight": 0,
 				"value": "disable"
+			}
+		]
+	},
+	"43b5dd47-dedb-4805-b7e9-44e7c409741a": {
+		"name": "dart_primedaygiftcardca_vwr_742_cmm_cmc_buy_mis_emailonsite_227_holdout",
+		"v": 21937,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -14562,6 +14592,21 @@
 	"63d474e1-e7f1-46a6-9502-b94ecff1033c": {
 		"name": "dart_apac_anz_twitchpogpicks_vwr_0_dav_trn_flw_gmg_email_2112_r11_holdout",
 		"v": 18215,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"63f5067f-9a7d-4742-98c0-b882a688f64e": {
+		"name": "dart_primedaygiftcardusdo_vwr_742_cmm_cmc_buy_mis_emailonsite_227_holdout",
+		"v": 21938,
 		"t": 2,
 		"groups": [
 			{
