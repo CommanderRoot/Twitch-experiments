@@ -22414,6 +22414,21 @@
 			}
 		]
 	},
+	"9919937f-325a-4f5b-92bf-4370a083c518": {
+		"name": "notifications_disable_holdout",
+		"v": 21966,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"992bf996-8870-478c-a895-e538dc4b25d7": {
 		"name": "ios_hide_play_in_background_setting",
 		"v": 11681,
