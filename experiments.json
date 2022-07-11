@@ -30314,19 +30314,19 @@
 	},
 	"ce7a9de1-1e09-4cbf-9845-646dd3a316a7": {
 		"name": "ios_creator_mode",
-		"v": 21295,
+		"v": 21954,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "label_only"
 			},
 			{
-				"weight": 0,
+				"weight": 34,
 				"value": "dropdown"
 			},
 			{
-				"weight": 100,
+				"weight": 33,
 				"value": "disabled"
 			}
 		]
