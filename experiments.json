@@ -30581,15 +30581,15 @@
 	},
 	"d0557e6d-edd2-487e-b8c4-19dee97e97ed": {
 		"name": "dart_liveup_dual_send_drop_migration",
-		"v": 21955,
+		"v": 21956,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 97,
+				"weight": 94,
 				"value": "control"
 			},
 			{
-				"weight": 3,
+				"weight": 6,
 				"value": "rollout"
 			}
 		]
