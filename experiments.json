@@ -17288,24 +17288,28 @@
 	},
 	"74b99b8c-baa9-472e-858d-383b89549155": {
 		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 21850,
+		"v": 22011,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Variant A"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Variant B"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Variant C"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "Variant D"
+			},
+			{
+				"weight": 100,
+				"value": "Variant E"
 			}
 		]
 	},
@@ -30438,7 +30442,7 @@
 	},
 	"cf115fa2-e2d3-46e0-a5f9-ed8c9a8a12f2": {
 		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 21849,
+		"v": 22010,
 		"t": 2,
 		"groups": [
 			{
