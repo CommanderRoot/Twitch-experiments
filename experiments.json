@@ -2999,16 +2999,20 @@
 	},
 	"152d45d4-6ad7-438f-8983-03c774080ba9": {
 		"name": "dart_day90frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_email",
-		"v": 21705,
+		"v": 22015,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "Variant A"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "Variant B"
+			},
+			{
+				"weight": 100,
+				"value": "Variant C"
 			}
 		]
 	},
@@ -33402,7 +33406,7 @@
 	},
 	"e599eeb2-9ff5-49bc-ae1d-1dae8445452e": {
 		"name": "dart_day90frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_holdout",
-		"v": 21704,
+		"v": 22014,
 		"t": 2,
 		"groups": [
 			{
