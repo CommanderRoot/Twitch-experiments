@@ -18635,6 +18635,21 @@
 			}
 		]
 	},
+	"7d4a81e3-2e66-4906-aaad-e541bfb00f7d": {
+		"name": "android_pip_endless_scroll_fix",
+		"v": 22033,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_13.5"
+			}
+		]
+	},
 	"7d508837-1ff9-4b98-bd12-962bdaa1e98b": {
 		"name": "dart_dyinglightfrozen_vwr_640_awa_cmc_wch_gmg_email_2202_holdout",
 		"v": 19063,
@@ -24144,21 +24159,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"a4b1981d-1f0b-4db2-ae83-befcb1279f94": {
-		"name": "android_players_final_clear",
-		"v": 21637,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_13.1"
 			}
 		]
 	},
