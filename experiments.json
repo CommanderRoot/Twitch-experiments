@@ -2397,7 +2397,7 @@
 	},
 	"10df8aa0-48fb-495e-9cac-a8482357e98b": {
 		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 21713,
+		"v": 22007,
 		"t": 2,
 		"groups": [
 			{
@@ -17034,32 +17034,36 @@
 	},
 	"7357166d-5a2f-47dc-95af-fddf4c29aa1e": {
 		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 21714,
+		"v": 22008,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 15,
+				"weight": 0,
 				"value": "Variant A"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant B"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant C"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant D"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant E"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant F"
+			},
+			{
+				"weight": 100,
+				"value": "Variant G"
 			}
 		]
 	},
