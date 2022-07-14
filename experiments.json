@@ -32590,6 +32590,21 @@
 			}
 		]
 	},
+	"de1c5f3d-3a5f-425b-9fa5-ed357c258e41": {
+		"name": "dart_apac_anz_thrashtalk_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22038,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"de376cee-5999-4070-a4db-dfa34db3c074": {
 		"name": "android_latam_cronet",
 		"v": 21594,
