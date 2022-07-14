@@ -20392,11 +20392,11 @@
 	},
 	"8b40a4f9-710b-47d0-928d-dee4b3b1dfda": {
 		"name": "android_multi_month_subs",
-		"v": 22034,
+		"v": 22044,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -20408,11 +20408,11 @@
 				"value": "enabled_bottom_sheet"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "enabled_sub_page_13.1"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "enabled_bottom_sheet_13.1"
 			}
 		]
