@@ -36348,6 +36348,21 @@
 			}
 		]
 	},
+	"fad7ae07-4705-4bac-9667-a9bef9e049f8": {
+		"name": "dart_apac_anz_thrashtalk_vwr_0_dav_trn_wch_gmg_onsite_2207_holdout",
+		"v": 22051,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"faea9b75-83d6-488e-8879-f70adecb4839": {
 		"name": "dart_notification_settings_dual_write",
 		"v": 20537,
