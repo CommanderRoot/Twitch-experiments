@@ -16408,19 +16408,19 @@
 	},
 	"6f8613de-6232-4232-af20-bf1b1a692775": {
 		"name": "android_ivs_broadcast_rtmp_stack",
-		"v": 21946,
+		"v": 22070,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 30,
 				"value": "0"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "1"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "2"
 			},
 			{
@@ -16432,11 +16432,11 @@
 				"value": "4"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "5"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "6"
 			},
 			{
