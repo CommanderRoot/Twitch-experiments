@@ -5216,6 +5216,21 @@
 			}
 		]
 	},
+	"232b2bea-f1c7-4e9c-950c-d7b9d2217b54": {
+		"name": "dart_commintro2_vwr_764_awa_cmc_lrn_mis_onsite_227_holdout",
+		"v": 22086,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2352d0b6-7692-49f1-9f8d-88e6cc47994b": {
 		"name": "android_rollout_vod_uploads",
 		"v": 803,
@@ -22013,6 +22028,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"9663b7f7-3fcd-4293-9a51-88e2ec0f9d18": {
+		"name": "dart_commintro1_vwr_764_awa_cmc_lrn_mis_onsite_227_holdout",
+		"v": 22087,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
