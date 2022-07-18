@@ -32828,6 +32828,21 @@
 			}
 		]
 	},
+	"dfbb8c45-d2de-4200-bcb0-d4dc764be726": {
+		"name": "dart_liveup_migration",
+		"v": 22090,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"dfc00cb5-901a-4af0-acbf-cfce4b837044": {
 		"name": "dart_esocceraidoptin_vwr_521_dav_cmc_wch_esp_email_2109_holdout",
 		"v": 17115,
