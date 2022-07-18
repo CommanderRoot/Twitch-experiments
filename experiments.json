@@ -17661,15 +17661,15 @@
 	},
 	"76c8c22a-480d-4dfb-8cac-cc4bc10858db": {
 		"name": "android_go_live_entry_global",
-		"v": 21884,
+		"v": 22085,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "label_only_active_13.4"
 			}
 		]
