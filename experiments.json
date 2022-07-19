@@ -23687,15 +23687,15 @@
 	},
 	"9e9f70b0-06d7-4a33-8faa-f72ad097e089": {
 		"name": "android_ads_om_sdk_api",
-		"v": 21895,
+		"v": 22111,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active_13.4"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			}
 		]
