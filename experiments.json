@@ -731,6 +731,21 @@
 			}
 		]
 	},
+	"0534946b-43e3-42ac-9e3e-be0cb187a899": {
+		"name": "dart_apac_jpn_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22103,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0552780e-6483-43a9-8a1c-ad9907952487": {
 		"name": "ios_av_player_do_not_wait_to_minimize_stalling",
 		"v": 14594,
@@ -1440,6 +1455,21 @@
 			{
 				"weight": 100,
 				"value": "variant_b"
+			}
+		]
+	},
+	"09d4e20c-8589-4140-ab9a-42931987273e": {
+		"name": "dart_apac_anz_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22095,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -2195,6 +2225,21 @@
 	"0f844ed8-9c1e-4e49-999d-1a2659b5ee47": {
 		"name": "dart_esocceraidfrozen_vwr_521_dav_cmc_wch_esp_pe_2109_de_holdout",
 		"v": 17165,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"0f865169-3db5-4b47-8ae3-a304ddc57f49": {
+		"name": "dart_apac_twn_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22098,
 		"t": 2,
 		"groups": [
 			{
@@ -3563,6 +3608,21 @@
 	"18b3ff76-fbb0-45e5-90ee-90d86546d618": {
 		"name": "dart_zlan_vwr_436_dav_cmc_wch_gmg_email_2106_holdout",
 		"v": 15121,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"18c2ac83-24d5-40af-88c4-3cc039ae562f": {
+		"name": "dart_apac_php_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22101,
 		"t": 2,
 		"groups": [
 			{
@@ -4959,6 +5019,21 @@
 			}
 		]
 	},
+	"2189714b-fc88-4907-bbe8-aff56eb9476e": {
+		"name": "dart_apac_sgp_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22107,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"218acff9-67f7-459f-9f3e-d9b41238e761": {
 		"name": "ht_celeb_experiment",
 		"v": 17652,
@@ -5356,6 +5431,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"2424e4e7-adf5-4126-a002-43a8b9b4ac65": {
+		"name": "dart_apac_tha_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22106,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -7661,6 +7751,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"34fda03b-0a29-419d-aae5-99c0f2550341": {
+		"name": "dart_apac_kor_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22097,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -12420,6 +12525,21 @@
 			}
 		]
 	},
+	"56c1ef2a-26ee-44dc-9fbf-368c4e6e7063": {
+		"name": "dart_apac_anz_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22102,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"56dfadcf-cfb6-4e29-977f-2cb8c4e1aa1e": {
 		"name": "dart_contributorprogramme_vwr_603_sbs_cmc_sub_mis_email_2112_es_holdout",
 		"v": 18409,
@@ -12468,6 +12588,21 @@
 	"570a57b8-fae3-4ad2-a438-683aaf937d2a": {
 		"name": "dart_apac_sgp_lnyday2_vwr_0_dav_trn_wch_gmg_push_2202_holdout",
 		"v": 19169,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"57184ad1-5cde-493d-a316-5d6575bcabe0": {
+		"name": "dart_apac_sgp_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22100,
 		"t": 2,
 		"groups": [
 			{
@@ -12974,6 +13109,21 @@
 			{
 				"weight": 0,
 				"value": "complete"
+			}
+		]
+	},
+	"59e955a8-aac2-487b-8332-778f85b327ac": {
+		"name": "dart_apac_php_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22108,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -14652,6 +14802,21 @@
 	"63d474e1-e7f1-46a6-9502-b94ecff1033c": {
 		"name": "dart_apac_anz_twitchpogpicks_vwr_0_dav_trn_flw_gmg_email_2112_r11_holdout",
 		"v": 18215,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"63d6bb8f-c790-4c14-9734-3354eb46ac27": {
+		"name": "dart_apac_kor_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22104,
 		"t": 2,
 		"groups": [
 			{
@@ -22130,6 +22295,21 @@
 			}
 		]
 	},
+	"96ee64a7-2668-4e69-9a84-a2cee8fb5e30": {
+		"name": "dart_apac_jpn_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22096,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"972d3986-543b-4e75-b690-ddcc73073510": {
 		"name": "ios_ad_pbyp",
 		"v": 8791,
@@ -24245,6 +24425,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"a4a086b4-3854-4d98-aa1e-4d90476cecc8": {
+		"name": "dart_apac_twn_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22105,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -35853,6 +36048,21 @@
 			{
 				"weight": 80,
 				"value": "control"
+			}
+		]
+	},
+	"f67ec4fe-7530-41ca-8914-ae3f0b03449f": {
+		"name": "dart_apac_tha_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
+		"v": 22099,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
