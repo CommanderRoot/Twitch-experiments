@@ -5148,6 +5148,29 @@
 			}
 		]
 	},
+	"222e1e0f-9fd9-4bc4-a8e5-96d65b353c67": {
+		"name": "dart_d30frozenv1_vwr_560_dav_cmc_wch_mis_email_2111_email",
+		"v": 22131,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 25,
+				"value": "Variant A"
+			},
+			{
+				"weight": 25,
+				"value": "Variant B"
+			},
+			{
+				"weight": 25,
+				"value": "Variant C"
+			},
+			{
+				"weight": 25,
+				"value": "Variant D"
+			}
+		]
+	},
 	"22924577-c2f5-4135-974e-5edc1e9cc992": {
 		"name": "dart_lastmingiftcard_vwr_613_cmm_cmc_buy_mis_email_2112_i_holdout",
 		"v": 18433,
@@ -11443,7 +11466,7 @@
 	},
 	"4ed21cb9-13d3-4d5f-8b32-b171be38e68f": {
 		"name": "dart_d30frozenv1_vwr_560_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 21499,
+		"v": 22130,
 		"t": 2,
 		"groups": [
 			{
