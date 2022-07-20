@@ -18976,33 +18976,6 @@
 			}
 		]
 	},
-	"7dd53c67-a6c3-444b-af5c-1b4e4852e318": {
-		"name": "android_limit_threads_from_schedulers_io",
-		"v": 21959,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "unlimited"
-			},
-			{
-				"weight": 0,
-				"value": "max_threads_10"
-			},
-			{
-				"weight": 0,
-				"value": "max_threads_25"
-			},
-			{
-				"weight": 0,
-				"value": "max_threads_50"
-			},
-			{
-				"weight": 0,
-				"value": "max_threads_100"
-			}
-		]
-	},
 	"7de7ecda-d28c-44cc-bc13-6f5a0859b7f4": {
 		"name": "android_leaderboards_v3",
 		"v": 16855,
