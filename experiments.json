@@ -11856,6 +11856,21 @@
 			}
 		]
 	},
+	"51093b66-a049-4b1d-9e0d-e7e4a0f80881": {
+		"name": "dart_sharedban_ctr_1448_awa_cmc_lrn_mis_onsite_227_holdout",
+		"v": 22152,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"510c6e3c-4241-4cc2-a6dd-701938d04b09": {
 		"name": "dart_esocceraidlaunch_vwr_521_dav_cmc_wch_esp_pe_2109_de_holdout",
 		"v": 17168,
