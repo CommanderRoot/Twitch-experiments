@@ -7943,6 +7943,21 @@
 			}
 		]
 	},
+	"35844b3a-1f85-4e54-bcfc-11f65930d145": {
+		"name": "dart_aip55partnerreminder0721_ctr_722_awa_cmc_lrn_mis_emailonsite_227_holdout",
+		"v": 22163,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"35b3f451-bad7-4927-8503-fdc094e6e8f4": {
 		"name": "ios_community_points_final",
 		"v": 7821,
