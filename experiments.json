@@ -21702,7 +21702,7 @@
 	},
 	"91c4a97d-9b5a-490c-b41c-b4cd7a51a475": {
 		"name": "android_extensions_to_gql",
-		"v": 19973,
+		"v": 22187,
 		"t": 1,
 		"groups": [
 			{
@@ -21716,6 +21716,10 @@
 			{
 				"weight": 0,
 				"value": "active_12.6"
+			},
+			{
+				"weight": 0,
+				"value": "active_13.5"
 			}
 		]
 	},
