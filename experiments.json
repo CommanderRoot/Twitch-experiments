@@ -22149,6 +22149,21 @@
 			}
 		]
 	},
+	"9517ecaf-59a7-4e63-90c4-68bcf3ef28ec": {
+		"name": "notifications_reminder_custom_notifications_dual_write",
+		"v": 22189,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"95372c71-56bc-4d6a-8d5d-d4885a7aadf9": {
 		"name": "creatorhome_new_affiliate_cluster",
 		"v": 19533,
