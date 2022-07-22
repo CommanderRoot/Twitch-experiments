@@ -20695,41 +20695,6 @@
 			}
 		]
 	},
-	"8b1e1c3d-8486-4649-a68d-798d2947e04e": {
-		"name": "dart_coldday5abtest_vwr_750_dav_cmc_wch_mis_email_2206_email",
-		"v": 21769,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 16,
-				"value": "Variant A"
-			},
-			{
-				"weight": 14,
-				"value": "Variant B"
-			},
-			{
-				"weight": 14,
-				"value": "Variant C"
-			},
-			{
-				"weight": 14,
-				"value": "Variant D"
-			},
-			{
-				"weight": 14,
-				"value": "Variant E"
-			},
-			{
-				"weight": 14,
-				"value": "Variant F"
-			},
-			{
-				"weight": 14,
-				"value": "Variant G"
-			}
-		]
-	},
 	"8b29e9c9-e5d7-4b45-a995-f8d633db4dd0": {
 		"name": "dart_ibai_la_velada_vwr_744_dav_cmc_wch_gmg_email_2206_holdout",
 		"v": 21759,
@@ -33440,21 +33405,6 @@
 			{
 				"weight": 0,
 				"value": "prefer_app_pip"
-			}
-		]
-	},
-	"e1acfe73-c1ef-4c59-a892-35d6dd3248cc": {
-		"name": "dart_coldday5abtest_vwr_750_dav_cmc_wch_mis_email_2206_holdout",
-		"v": 21768,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
