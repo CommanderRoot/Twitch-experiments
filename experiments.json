@@ -30444,6 +30444,21 @@
 			}
 		]
 	},
+	"cccfa25c-77c3-4d9b-a534-2760fd340085": {
+		"name": "ios_send_cheer_gql_migration",
+		"v": 22197,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"ccd9292e-7ac8-4cd2-a151-9dfadf7264b5": {
 		"name": "dart_apac_kor_twitchyearendparty_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
 		"v": 18363,
