@@ -33248,15 +33248,15 @@
 	},
 	"dfbb8c45-d2de-4200-bcb0-d4dc764be726": {
 		"name": "dart_liveup_migration",
-		"v": 22213,
+		"v": 22233,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "rollout"
 			}
 		]
