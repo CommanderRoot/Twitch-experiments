@@ -19034,15 +19034,15 @@
 	},
 	"7d4a81e3-2e66-4906-aaad-e541bfb00f7d": {
 		"name": "android_pip_endless_scroll_fix",
-		"v": 22037,
+		"v": 22238,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_13.4"
 			}
 		]
