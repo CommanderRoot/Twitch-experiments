@@ -8758,6 +8758,21 @@
 			}
 		]
 	},
+	"3bc9f48a-7fec-410d-a78c-fa92de881012": {
+		"name": "dart_modonboardfollowupd7v2_vwr_719_awa_cmc_non_mis_email_225_holdout",
+		"v": 22219,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3bdc18d8-11c2-4c47-9873-9baa57368a45": {
 		"name": "android_player_core_ad_playback",
 		"v": 18051,
@@ -22344,6 +22359,21 @@
 			}
 		]
 	},
+	"9670ea88-7a2b-41b0-a163-de065b4395c9": {
+		"name": "dart_modonboardfollowupd3v2_vwr_719_awa_cmc_non_mis_email_225_holdout",
+		"v": 22220,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"96771625-1381-489b-ac51-1cc43c50d67d": {
 		"name": "hype_train_approaching_2",
 		"v": 16395,
@@ -28565,6 +28595,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"c006ab06-4c81-44d3-a786-a8ebd6ed36e3": {
+		"name": "dart_modonboardv2_vwr_719_awa_cmc_non_mis_email_225_email",
+		"v": 22222,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -35861,6 +35906,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"f346dd46-8c3e-4837-a7b3-3b5ebb80d8bf": {
+		"name": "dart_modonboardv2_vwr_719_awa_cmc_non_mis_email_225_holdout",
+		"v": 22221,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
