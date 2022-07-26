@@ -19490,6 +19490,21 @@
 			}
 		]
 	},
+	"80e72d2d-b984-487d-9745-e855aa2ccee9": {
+		"name": "ios_user_list_update",
+		"v": 22217,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"80ee272f-44ec-4d8c-8ad1-72f4933a3da4": {
 		"name": "android_pipboy_broadcasting",
 		"v": 1382,
