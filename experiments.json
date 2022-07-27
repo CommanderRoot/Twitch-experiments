@@ -14163,15 +14163,15 @@
 	},
 	"5ef9c9be-bc25-4b0b-a2d3-bcad72541771": {
 		"name": "adblock_prerollratelimit_rollout",
-		"v": 21728,
+		"v": 22262,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "ON"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "OFF"
 			}
 		]
@@ -18819,12 +18819,12 @@
 	},
 	"7c60840f-cf28-4b3f-adb3-1f3d958628ed": {
 		"name": "android_billing_unavailable_error_logging_disabled",
-		"v": 22193,
+		"v": 22263,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_13.5"
 			},
 			{
 				"weight": 100,
