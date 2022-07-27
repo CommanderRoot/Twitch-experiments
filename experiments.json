@@ -7151,7 +7151,7 @@
 	},
 	"309e5547-b509-400d-bd26-30c8cbec317b": {
 		"name": "ios_automod_queue",
-		"v": 22269,
+		"v": 22273,
 		"t": 1,
 		"groups": [
 			{
@@ -7159,8 +7159,8 @@
 				"value": "active"
 			},
 			{
-				"weight": 100,
-				"value": "active_tests"
+				"weight": 0,
+				"value": "inactive"
 			}
 		]
 	},
