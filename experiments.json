@@ -385,6 +385,21 @@
 			}
 		]
 	},
+	"0233e531-ec1f-44c3-aa46-09c0eac5bd47": {
+		"name": "dart_momentsbeta0727_vwr_766_awa_cmc_lrn_mis_eo_227_holdout",
+		"v": 22272,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0238d763-05ee-4d27-ba3f-0b7d45346102": {
 		"name": "android_spade_batching_v2",
 		"v": 2916,
