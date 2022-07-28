@@ -30939,19 +30939,19 @@
 	},
 	"ce7a9de1-1e09-4cbf-9845-646dd3a316a7": {
 		"name": "ios_creator_mode",
-		"v": 21954,
+		"v": 22284,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "label_only"
 			},
 			{
-				"weight": 34,
+				"weight": 0,
 				"value": "dropdown"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "disabled"
 			}
 		]
@@ -35252,11 +35252,11 @@
 	},
 	"ed99a1d3-4739-4173-b14a-00870da02199": {
 		"name": "ios_creator_mode_global",
-		"v": 21294,
+		"v": 22285,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "label_only"
 			},
 			{
@@ -35264,7 +35264,7 @@
 				"value": "dropdown"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "disabled"
 			}
 		]
