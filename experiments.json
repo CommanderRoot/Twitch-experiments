@@ -21790,6 +21790,21 @@
 			}
 		]
 	},
+	"91a1c40a-5c9e-4fc3-ac9f-06e3412d001b": {
+		"name": "android_purchase_event",
+		"v": 22298,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_development"
+			}
+		]
+	},
 	"91c2ab2e-8c1c-4b86-a49c-b30197a599b4": {
 		"name": "android_prime_gaming_activation_tier_1_regions",
 		"v": 18840,
