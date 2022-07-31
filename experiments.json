@@ -28720,15 +28720,15 @@
 	},
 	"c021f3d5-1852-44dd-8935-f14d061e59f4": {
 		"name": "ios_ivs_low_latency_video_encoder",
-		"v": 20407,
+		"v": 22329,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			}
 		]
