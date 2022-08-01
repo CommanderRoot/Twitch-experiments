@@ -7241,15 +7241,15 @@
 	},
 	"3136dfb1-398a-47ed-8469-cb4874d8319f": {
 		"name": "ios_haptics_experiment",
-		"v": 20436,
+		"v": 22338,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 100,
 				"value": "active"
 			}
 		]
