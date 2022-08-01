@@ -24077,15 +24077,15 @@
 	},
 	"9fb5791d-b18f-461a-a519-8a59add0c17d": {
 		"name": "percolite-global-overrides",
-		"v": 22315,
+		"v": 22331,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
