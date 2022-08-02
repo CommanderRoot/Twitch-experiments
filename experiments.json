@@ -19854,6 +19854,21 @@
 			}
 		]
 	},
+	"822b4db7-c367-46ea-8434-7a66df937bff": {
+		"name": "ios_host_deprecation",
+		"v": 22382,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8230b88c-6367-4718-bd52-14fdce34e776": {
 		"name": "ios_braavos",
 		"v": 9681,
