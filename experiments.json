@@ -22996,15 +22996,15 @@
 	},
 	"9919937f-325a-4f5b-92bf-4370a083c518": {
 		"name": "notifications_disable_holdout",
-		"v": 22019,
+		"v": 22378,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "rollout"
 			}
 		]
