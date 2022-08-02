@@ -34735,15 +34735,15 @@
 	},
 	"ea6dc687-3f68-4791-b843-848bf687b6c5": {
 		"name": "android_ads_client_ad_allocator_v1",
-		"v": 22117,
+		"v": 22377,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_13.5"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
