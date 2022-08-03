@@ -6378,7 +6378,7 @@
 	},
 	"2a68d16e-446c-440d-8605-df0d99b18764": {
 		"name": "roster_team_writes",
-		"v": 22392,
+		"v": 22398,
 		"t": 1,
 		"groups": [
 			{
@@ -6386,11 +6386,11 @@
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -10044,15 +10044,15 @@
 	},
 	"43a6a23c-b9df-43ed-b71c-448075440f03": {
 		"name": "roster_team_reads",
-		"v": 22395,
+		"v": 22397,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
@@ -33280,16 +33280,16 @@
 	},
 	"de376cee-5999-4070-a4db-dfa34db3c074": {
 		"name": "android_latam_cronet",
-		"v": 22066,
+		"v": 22396,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "active_12.9"
 			}
 		]
