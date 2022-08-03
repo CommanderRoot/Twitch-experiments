@@ -22316,15 +22316,15 @@
 	},
 	"9517ecaf-59a7-4e63-90c4-68bcf3ef28ec": {
 		"name": "notifications_reminder_custom_notifications_dual_write",
-		"v": 22400,
+		"v": 22416,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 30,
 				"value": "rollout"
 			}
 		]
@@ -37419,7 +37419,7 @@
 	},
 	"fc71afd5-ce1e-4135-9ecf-d7d5e6904da3": {
 		"name": "roster_invitation_writes",
-		"v": 22409,
+		"v": 22415,
 		"t": 1,
 		"groups": [
 			{
@@ -37427,11 +37427,11 @@
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
