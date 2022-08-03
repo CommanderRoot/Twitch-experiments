@@ -7414,15 +7414,15 @@
 	},
 	"31f42cb0-5558-416a-b5ac-95a90c3dda04": {
 		"name": "roster_membership_reads",
-		"v": 22406,
+		"v": 22407,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
@@ -23891,7 +23891,7 @@
 	},
 	"9ddb3385-950c-4a0b-b719-3e03c4294b91": {
 		"name": "roster_membership_writes",
-		"v": 22401,
+		"v": 22408,
 		"t": 1,
 		"groups": [
 			{
@@ -23899,11 +23899,11 @@
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -26801,15 +26801,15 @@
 	},
 	"b15b6eaf-32ba-470c-8353-0666495c7a39": {
 		"name": "roster_invitation_reads",
-		"v": 22371,
+		"v": 22410,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "fulton"
 			},
 			{
@@ -37419,11 +37419,11 @@
 	},
 	"fc71afd5-ce1e-4135-9ecf-d7d5e6904da3": {
 		"name": "roster_invitation_writes",
-		"v": 22370,
+		"v": 22409,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
@@ -37431,7 +37431,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "disable"
 			}
 		]
