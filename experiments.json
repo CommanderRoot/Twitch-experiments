@@ -22316,15 +22316,15 @@
 	},
 	"9517ecaf-59a7-4e63-90c4-68bcf3ef28ec": {
 		"name": "notifications_reminder_custom_notifications_dual_write",
-		"v": 22189,
+		"v": 22388,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "rollout"
 			}
 		]
