@@ -19452,6 +19452,21 @@
 			}
 		]
 	},
+	"7e935b89-056a-40ab-a3f5-0bed4370517b": {
+		"name": "android_pubsub_client_rollout",
+		"v": 22441,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"7ec631d5-4ce2-47c0-848c-ca8fe79357dc": {
 		"name": "ios_multioption_predictions",
 		"v": 20596,
