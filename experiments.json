@@ -22361,15 +22361,15 @@
 	},
 	"9517ecaf-59a7-4e63-90c4-68bcf3ef28ec": {
 		"name": "notifications_reminder_custom_notifications_dual_write",
-		"v": 22429,
+		"v": 22434,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "rollout"
 			}
 		]
