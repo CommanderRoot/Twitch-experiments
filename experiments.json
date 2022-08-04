@@ -9997,6 +9997,21 @@
 			}
 		]
 	},
+	"42f2b2a1-fdb0-4299-b8d7-5592e970a54c": {
+		"name": "dart_twitchconwrapup_vwr_773_awa_cmc_non_mis_email_2208_holdout",
+		"v": 22433,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"42f5eea6-c548-4791-b767-9c7e29b73ef6": {
 		"name": "CLIENT_BATCH_MIXPANEL",
 		"v": 729,
