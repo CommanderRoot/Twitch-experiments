@@ -9731,15 +9731,15 @@
 	},
 	"41ee2c64-8921-4885-9619-b43957875696": {
 		"name": "android_subs_cta_leaderboard",
-		"v": 22276,
+		"v": 22435,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "subscribe_only_13.5"
 			},
 			{
@@ -9747,7 +9747,7 @@
 				"value": "time_based_13.5"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "spent_based_13.5"
 			}
 		]
@@ -22361,15 +22361,15 @@
 	},
 	"9517ecaf-59a7-4e63-90c4-68bcf3ef28ec": {
 		"name": "notifications_reminder_custom_notifications_dual_write",
-		"v": 22434,
+		"v": 22436,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 80,
 				"value": "rollout"
 			}
 		]
