@@ -8208,15 +8208,15 @@
 	},
 	"37174052-304a-494e-acaf-ee296c46d9e3": {
 		"name": "android_ivs_broadcast_old_versions",
-		"v": 17069,
+		"v": 22443,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_11.6"
 			}
 		]
