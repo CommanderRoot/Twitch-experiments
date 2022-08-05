@@ -23893,6 +23893,37 @@
 			}
 		]
 	},
+	"9d604fb8-ae3c-44cd-8867-6c9d3fb240a5": {
+		"name": "ios_ivs_initial_buffer_duration",
+		"v": 22455,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "1.0"
+			},
+			{
+				"weight": 0,
+				"value": "2.0"
+			},
+			{
+				"weight": 0,
+				"value": "3.0"
+			},
+			{
+				"weight": 0,
+				"value": "4.0"
+			},
+			{
+				"weight": 0,
+				"value": "5.0"
+			}
+		]
+	},
 	"9d6c1a2b-101d-4f09-97cc-3d7b0d64b653": {
 		"name": "android_player_adaptive_quality_switch",
 		"v": 20914,
