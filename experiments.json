@@ -7414,15 +7414,15 @@
 	},
 	"31f42cb0-5558-416a-b5ac-95a90c3dda04": {
 		"name": "roster_membership_reads",
-		"v": 22476,
+		"v": 22479,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 50,
 				"value": "legacy"
 			},
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "fulton"
 			},
 			{
