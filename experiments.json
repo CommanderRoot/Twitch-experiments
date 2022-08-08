@@ -30777,15 +30777,15 @@
 	},
 	"cccfa25c-77c3-4d9b-a534-2760fd340085": {
 		"name": "ios_send_cheer_gql_migration",
-		"v": 22197,
+		"v": 22498,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
