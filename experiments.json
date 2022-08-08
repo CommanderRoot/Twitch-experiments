@@ -7414,15 +7414,15 @@
 	},
 	"31f42cb0-5558-416a-b5ac-95a90c3dda04": {
 		"name": "roster_membership_reads",
-		"v": 22458,
+		"v": 22467,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "legacy"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "fulton"
 			},
 			{
@@ -18889,15 +18889,15 @@
 	},
 	"7bc4f3f8-98e0-492f-86e0-da7ad41c3d6f": {
 		"name": "ios_ivs_irl_broadcasting_restricted",
-		"v": 21563,
+		"v": 22466,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			}
 		]
@@ -21866,15 +21866,15 @@
 	},
 	"90e64cbc-7665-4d88-9734-781f2b30f617": {
 		"name": "ios_clipfinity_v1",
-		"v": 12765,
+		"v": 22465,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			},
 			{
