@@ -33942,6 +33942,21 @@
 			}
 		]
 	},
+	"e2fc6d90-9999-4a38-895e-16e44d67a8a6": {
+		"name": "ios_mobile_shield_login_signup",
+		"v": 22509,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"e2fecbd4-98e4-45e0-aad5-624cc70d6b85": {
 		"name": "video_edge_reassignment",
 		"v": 5478,
