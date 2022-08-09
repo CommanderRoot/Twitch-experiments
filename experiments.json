@@ -17173,6 +17173,21 @@
 			}
 		]
 	},
+	"714720dd-222f-494a-a151-10cb37dd66d8": {
+		"name": "dart_freeformtags_ctr_760_awa_cmc_lrn_mis_email_228_holdout",
+		"v": 22580,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7151abe6-451a-4dd2-8b47-991bc59ddd0c": {
 		"name": "dart_apac_kor_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
 		"v": 21484,
