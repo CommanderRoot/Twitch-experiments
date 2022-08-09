@@ -27380,21 +27380,6 @@
 			}
 		]
 	},
-	"b3914a40-d8f4-4a3c-ad18-b9147fbcf1c8": {
-		"name": "dart_notifications_team_test_holdout",
-		"v": 7701,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"b3aebe8f-daa6-4a7b-be71-97af8da9e6c7": {
 		"name": "android_rebuffer_to_live",
 		"v": 13338,
