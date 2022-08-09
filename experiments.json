@@ -33521,21 +33521,6 @@
 			}
 		]
 	},
-	"df1e2ef6-2aa4-4fd4-a264-ad58214043ca": {
-		"name": "dart_codlaunchport_holdout",
-		"v": 8304,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "holdout"
-			},
-			{
-				"weight": 80,
-				"value": "allowed"
-			}
-		]
-	},
 	"df8c4e4a-d7f6-4af0-a064-38226ffe0607": {
 		"name": "player_exs",
 		"v": 5971,
