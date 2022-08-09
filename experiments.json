@@ -18874,15 +18874,15 @@
 	},
 	"7bb9d05e-9613-4473-b6c5-298a5248a230": {
 		"name": "android_social_links_editor",
-		"v": 22112,
+		"v": 22535,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_13.4"
 			}
 		]
