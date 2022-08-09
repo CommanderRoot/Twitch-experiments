@@ -29659,6 +29659,21 @@
 			}
 		]
 	},
+	"c56e79bb-243c-4643-b7ed-e2ef21e67f8a": {
+		"name": "android_host_deprecation",
+		"v": 22554,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"c570cc47-352e-4709-b517-7a802aefc9ab": {
 		"name": "android_collect_postal_code",
 		"v": 17939,
