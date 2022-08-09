@@ -6886,21 +6886,6 @@
 			}
 		]
 	},
-	"2ea9efcc-8188-4c86-b5be-3ea99805e58c": {
-		"name": "dart_rolling_loud_2_reminder_102920_holdout",
-		"v": 12264,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"2eded830-5250-45e7-81c7-649de9c56e8f": {
 		"name": "dart_twitchcon_amsterdam_announce_vwr_736_awa_cmc_lrn_mis_email_2206_holdout",
 		"v": 21554,
@@ -7221,21 +7206,6 @@
 			{
 				"weight": 50,
 				"value": "active"
-			}
-		]
-	},
-	"3124a793-c26b-4688-a6d3-7e09a2091c0e": {
-		"name": "dart_dota2ti_grouprecap_holdout",
-		"v": 7681,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
 			}
 		]
 	},
@@ -10588,6 +10558,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"4810aca4-5c8e-481c-ac30-c6827ba1cab8": {
+		"name": "dart_rivalsrustbattle2ukus_vwr_781_dav_cmc_wch_gmg_push_2208_holdout",
+		"v": 22546,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -17754,6 +17739,21 @@
 			}
 		]
 	},
+	"7477c42c-fb98-4681-b918-8b3e8fb045b2": {
+		"name": "dart_rivalsrustbattle2es_vwr_781_dav_cmc_wch_gmg_push_2208_holdout",
+		"v": 22545,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"748d708b-7edf-4134-a91f-830423e37cd0": {
 		"name": "android_watch_party_viewer",
 		"v": 14204,
@@ -20707,21 +20707,6 @@
 			{
 				"weight": 100,
 				"value": "active_v10.2"
-			}
-		]
-	},
-	"891a218c-37fe-4cff-a995-7403fda11e08": {
-		"name": "dart_rolling_loud_2_reminder_102920_holdout",
-		"v": 12263,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -28111,6 +28096,21 @@
 			}
 		]
 	},
+	"b9e9bff1-c30a-4acc-b201-2443e3c560ba": {
+		"name": "dart_rivalsrustbattle2es_vwr_781_dav_cmc_wch_gmg_email_2208_holdout",
+		"v": 22547,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ba0614e4-88d2-4279-8e82-57cd07b248c7": {
 		"name": "tvapps_ps4_feature_tags",
 		"v": 9781,
@@ -28183,21 +28183,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"ba7e9d3c-d86c-4da3-b7b0-d2cef640a173": {
-		"name": "dart_ dota2ti_groupreminder_5_holdout",
-		"v": 7651,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
 			}
 		]
 	},
@@ -30850,21 +30835,6 @@
 			}
 		]
 	},
-	"cd0dd6d8-a3c6-4a71-a1d1-1e8c1b77a1d3": {
-		"name": "dart_rolling_loud_2_reminder_102920_holdout",
-		"v": 12267,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 6,
-				"value": "holdout"
-			},
-			{
-				"weight": 94,
-				"value": "allowed"
-			}
-		]
-	},
 	"cd16d643-6607-43f3-b56e-926794b03edb": {
 		"name": "dart_adsincentivereminderoffer_ctr_606_awa_trn_lrn_mis_email_2201_holdout",
 		"v": 18800,
@@ -31341,21 +31311,6 @@
 			{
 				"weight": 50,
 				"value": "experiment"
-			}
-		]
-	},
-	"cfc19aad-6f3c-4d7a-8728-42d136d80f13": {
-		"name": "dart_dota2ti_maineventreminder_holdout",
-		"v": 7720,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
 			}
 		]
 	},
@@ -34377,21 +34332,6 @@
 			{
 				"weight": 0,
 				"value": "active_2100"
-			}
-		]
-	},
-	"e61b4843-3d16-488d-a5ae-e8c535c973d7": {
-		"name": "dart_rolling_loud_2_reminder_102920_holdout",
-		"v": 12266,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 6,
-				"value": "holdout"
-			},
-			{
-				"weight": 94,
-				"value": "allowed"
 			}
 		]
 	},
