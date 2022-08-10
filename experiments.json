@@ -27854,15 +27854,15 @@
 	},
 	"bf70d85f-d42d-4e05-b979-9b75b4253485": {
 		"name": "ios_freeform_tags",
-		"v": 22711,
+		"v": 22761,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -32495,15 +32495,15 @@
 	},
 	"e04e2b30-c639-438b-a201-b45cfac1392d": {
 		"name": "ios_freeform_tags_search",
-		"v": 22712,
+		"v": 22762,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active"
 			}
 		]
