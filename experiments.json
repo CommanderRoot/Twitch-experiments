@@ -11677,11 +11677,11 @@
 	},
 	"50d42f78-6b93-4043-8d4a-f330ac1f6e9d": {
 		"name": "android_freeform_tags",
-		"v": 22709,
+		"v": 22716,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "control"
 			},
 			{
@@ -11689,7 +11689,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 30,
 				"value": "active_13.4"
 			}
 		]
@@ -36264,11 +36264,11 @@
 	},
 	"f8e49972-4da4-4b5a-a456-5559d19a6f56": {
 		"name": "android_freeform_tags_search",
-		"v": 22710,
+		"v": 22717,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "control"
 			},
 			{
@@ -36276,7 +36276,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 30,
 				"value": "active_13.4"
 			}
 		]
