@@ -6237,6 +6237,21 @@
 			}
 		]
 	},
+	"2aec0f59-7e76-4a54-81d9-55ab7c07a8f7": {
+		"name": "dart_apac_php_globestreamers2_vwr_0_dav_trn_wch_gmg_onsite_2208_holdout",
+		"v": 22650,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2b0732e9-1bcf-494f-bf7c-5961ebcd1309": {
 		"name": "dart_apac_twn_valorantchampionssemifinals_vwr_0_dav_trn_wch_gmg_push_2112_holdout",
 		"v": 18312,
@@ -18915,6 +18930,21 @@
 			}
 		]
 	},
+	"7dae171d-801f-47ef-9d5d-15deddbc12e1": {
+		"name": "dart_apac_php_globestreamers3_vwr_0_dav_trn_wch_gmg_onsite_2208_holdout",
+		"v": 22649,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7dae49e1-1fad-4987-be1b-9093612bdffa": {
 		"name": "dart_ecommedtactical1burst3_vwr_411_sbs_cmc_sub_mis_email_2105_fr_holdout",
 		"v": 17064,
@@ -23015,6 +23045,21 @@
 			{
 				"weight": 1,
 				"value": "control"
+			}
+		]
+	},
+	"9a808ab3-8f27-4258-867c-a8c7f2cf880b": {
+		"name": "dart_apac_php_globestreamers1_vwr_0_dav_trn_wch_gmg_onsite_2208_holdout",
+		"v": 22648,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
