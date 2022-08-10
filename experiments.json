@@ -8045,6 +8045,21 @@
 			}
 		]
 	},
+	"3770cb30-d7d1-4619-8108-f259fe04c812": {
+		"name": "dart_apac_anz_creativeweek_vwr_0_dav_trn_wch_gmg_onsite_2208_onsite",
+		"v": 22645,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"37ad5d63-0fff-42e7-8c74-6ee30b3d6900": {
 		"name": "dart_celine_catapush_msg_3_holdout",
 		"v": 8816,
@@ -8891,6 +8906,21 @@
 			{
 				"weight": 50,
 				"value": "no_show"
+			}
+		]
+	},
+	"3e3189a2-ac3c-431a-bf97-1511d63d59d9": {
+		"name": "dart_apac_anz_creativeweek_vwr_0_dav_trn_wch_gmg_onsite_2208_holdout",
+		"v": 22644,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
 			}
 		]
 	},
@@ -19107,6 +19137,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"7ed8cc98-8681-41bc-be78-76479d360083": {
+		"name": "dart_apac_kor_creativeweek_vwr_0_dav_trn_wch_gmg_email_2208_holdout",
+		"v": 22643,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
