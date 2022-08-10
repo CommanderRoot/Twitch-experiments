@@ -48,21 +48,6 @@
 			}
 		]
 	},
-	"00659916-818e-4bcb-9d68-6f3afbf860d7": {
-		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_de_holdout",
-		"v": 17060,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"009de4ba-f40c-4602-bb32-dd5098309f84": {
 		"name": "ios_leaderboards",
 		"v": 17202,
@@ -412,21 +397,6 @@
 			{
 				"weight": 100,
 				"value": "active_12.7"
-			}
-		]
-	},
-	"0275e081-851e-4297-888e-4001c4bfe4c3": {
-		"name": "dart_euro2020keyevent2_vwr_445_dav_cmc_wch_spt_email_2106_es_holdout",
-		"v": 15340,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -2283,21 +2253,6 @@
 			{
 				"weight": 100,
 				"value": "bam"
-			}
-		]
-	},
-	"10098d01-1146-440e-b880-ee3fb29206bb": {
-		"name": "dart_euro2020keyevent7_vwr_445_dav_cmc_wch_spt_email_2106_pt_holdout",
-		"v": 15615,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -5645,21 +5600,6 @@
 			}
 		]
 	},
-	"2604e3e0-648f-475b-baf9-2e502b8c06f9": {
-		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_es_holdout",
-		"v": 17111,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"264f75af-a787-4a40-8654-40d78b4d8b41": {
 		"name": "extensions",
 		"v": 1360,
@@ -7319,21 +7259,6 @@
 			{
 				"weight": 0,
 				"value": "following_play"
-			}
-		]
-	},
-	"32ed686b-0a30-4f2e-9212-c9469c2d050e": {
-		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_de_holdout",
-		"v": 17109,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -12690,21 +12615,6 @@
 			}
 		]
 	},
-	"582ae9a1-6f2e-4ced-8506-844985c2d282": {
-		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_es_email",
-		"v": 17112,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"582e8787-2402-407c-8957-57da6adc2f98": {
 		"name": "android_multi_view_alpha",
 		"v": 9157,
@@ -13262,21 +13172,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"5b521900-b9dd-4043-a579-2836392128a5": {
-		"name": "dart_ecommedtactical1_vwr_411_sbs_cmc_sub_mis_email_2105_fr_holdout",
-		"v": 16913,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 3,
-				"value": "holdout"
-			},
-			{
-				"weight": 97,
-				"value": "allowed"
 			}
 		]
 	},
@@ -14332,21 +14227,6 @@
 			{
 				"weight": 0,
 				"value": "active_development"
-			}
-		]
-	},
-	"612e5870-3d15-4770-96d0-c26eba557903": {
-		"name": "dart_euro2020keyevent1_vwr_445_dav_cmc_wch_spt_email_2106_en_holdout",
-		"v": 15309,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -15441,21 +15321,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"67d5f864-b729-4c0d-8a5b-779de370c7e3": {
-		"name": "dart_ecommedtactical1burst3_vwr_411_sbs_cmc_sub_mis_email_2105_it_holdout",
-		"v": 17068,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -17042,21 +16907,6 @@
 			}
 		]
 	},
-	"726badbd-e3de-4f1f-8fb5-2d2b1379b47e": {
-		"name": "dart_euro2020keyevent1_vwr_445_dav_cmc_wch_spt_email_2106_it_holdout",
-		"v": 15311,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"727980ba-c2fc-4d9b-a346-0fb505289210": {
 		"name": "ios_ccpa_enabled",
 		"v": 9591,
@@ -17718,21 +17568,6 @@
 			}
 		]
 	},
-	"7682edab-26b1-4235-ad2a-2b77cad84659": {
-		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_en_holdout",
-		"v": 17058,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"76a1127f-9634-449b-8c4f-a5113d85e962": {
 		"name": "android_seamless_background_audio",
 		"v": 21157,
@@ -18365,21 +18200,6 @@
 			}
 		]
 	},
-	"7aacf4c8-23cd-43ff-a82a-f73411eb7e4e": {
-		"name": "dart_ecommedtactical2_vwr_511_sbs_cmc_sub_mis_email_2109_it_email",
-		"v": 16975,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"7aae7adf-0634-40ed-9a86-fe1fa92dd2d4": {
 		"name": "dart_cold_d7_top_streams_ctashapetest_vwr_524_dav_cmc_wch_mis_email_2109_email",
 		"v": 17214,
@@ -18903,21 +18723,6 @@
 	"7dae171d-801f-47ef-9d5d-15deddbc12e1": {
 		"name": "dart_apac_php_globestreamers3_vwr_0_dav_trn_wch_gmg_onsite_2208_holdout",
 		"v": 22649,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"7dae49e1-1fad-4987-be1b-9093612bdffa": {
-		"name": "dart_ecommedtactical1burst3_vwr_411_sbs_cmc_sub_mis_email_2105_fr_holdout",
-		"v": 17064,
 		"t": 2,
 		"groups": [
 			{
@@ -20230,21 +20035,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"88b69dfd-dfb4-4980-bc73-de51a315bf68": {
-		"name": "dart_euro2020keyevent3_vwr_445_dav_cmc_wch_spt_email_2106_dach_holdout",
-		"v": 15379,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -22315,21 +22105,6 @@
 			}
 		]
 	},
-	"979aa473-ad9d-4940-bbf6-693acf6f6ac1": {
-		"name": "dart_euro2020keyevent1_vwr_445_dav_cmc_wch_spt_email_2106_dach_holdout",
-		"v": 15310,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"97a8c1d3-f5ca-4b06-9664-1d8a3469a37d": {
 		"name": "support_panel",
 		"v": 16269,
@@ -22710,21 +22485,6 @@
 			{
 				"weight": 0,
 				"value": "active_12.7_cdn_http3"
-			}
-		]
-	},
-	"9982577c-99f7-49fb-b6e9-0499eb91ed1f": {
-		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_it_holdout",
-		"v": 17113,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -25059,21 +24819,6 @@
 			}
 		]
 	},
-	"a97570f8-fbcc-4cb5-84f4-155ca7b54057": {
-		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_es_holdout",
-		"v": 17061,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
 		"v": 17721,
@@ -25426,21 +25171,6 @@
 			{
 				"weight": 50,
 				"value": "allowed"
-			}
-		]
-	},
-	"abfb82ff-edda-4f22-acef-2fdf402bf7ec": {
-		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_it_email",
-		"v": 17114,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -26146,21 +25876,6 @@
 			{
 				"weight": 1,
 				"value": "last"
-			}
-		]
-	},
-	"afced8c8-292c-43ca-8576-9534073790d4": {
-		"name": "dart_ecommedtactical2_vwr_511_sbs_cmc_sub_mis_email_2109_fr_email",
-		"v": 16972,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -28043,21 +27758,6 @@
 			}
 		]
 	},
-	"be7dfb5a-6d3c-48af-bab7-3cc5d37178bb": {
-		"name": "dart_ecommedtactical1_vwr_411_sbs_cmc_sub_mis_email_2105_de_holdout",
-		"v": 16912,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 3,
-				"value": "holdout"
-			},
-			{
-				"weight": 97,
-				"value": "allowed"
-			}
-		]
-	},
 	"be8adf95-86ec-4a2d-8f5c-1de73506bbeb": {
 		"name": "android_parse_ad_player_event",
 		"v": 14983,
@@ -29078,21 +28778,6 @@
 			}
 		]
 	},
-	"c5c0d10c-7756-46cc-a7a5-c4e1473544be": {
-		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_fr_holdout",
-		"v": 17059,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"c5c2ffc5-dc30-4037-8f91-165dd621719b": {
 		"name": "android_tnf_drm_691",
 		"v": 4706,
@@ -29637,8 +29322,8 @@
 		]
 	},
 	"c93c6203-36c7-4ff0-a63e-6f9a6e76745a": {
-		"name": "iso_creator_content_viewer",
-		"v": 22708,
+		"name": "ios_creator_content_viewer",
+		"v": 22726,
 		"t": 1,
 		"groups": [
 			{
@@ -30668,21 +30353,6 @@
 			}
 		]
 	},
-	"d05eb96f-8dc6-4cd5-8a52-d6b67ca1187b": {
-		"name": "dart_ecommedtactical1_vwr_411_sbs_cmc_sub_mis_email_2105_it_holdout",
-		"v": 16910,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 3,
-				"value": "holdout"
-			},
-			{
-				"weight": 97,
-				"value": "allowed"
-			}
-		]
-	},
 	"d061c37d-df54-48f2-85af-e9ffc9652b28": {
 		"name": "dart_apac_twn_halloween21_vwr_0_dav_trn_wch_gmg_push_2110_holdout",
 		"v": 17475,
@@ -31359,21 +31029,6 @@
 	"d53464ab-4f71-47bc-a5d1-4852dbc3fdb1": {
 		"name": "dart_apac_twn_tw77festival_vwr_0_dav_trn_wch_gmg_onsite_2207_holdout",
 		"v": 21874,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"d538ecca-9292-4ee2-8f4c-3992d0d1c092": {
-		"name": "dart_euro2020keyevent5_vwr_445_dav_cmc_wch_spt_push_2106_de_holdout",
-		"v": 15474,
 		"t": 2,
 		"groups": [
 			{
@@ -34707,21 +34362,6 @@
 			}
 		]
 	},
-	"edbd4f1e-3457-4cf6-9762-48caf571a54e": {
-		"name": "dart_euro2020keyevent3_vwr_445_dav_cmc_wch_spt_email_2106_fr_holdout",
-		"v": 15377,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"edd10ba0-402e-4ae3-86c5-daaa720f0a72": {
 		"name": "pd_whispdet_aa_testing",
 		"v": 14923,
@@ -35084,21 +34724,6 @@
 			{
 				"weight": 0,
 				"value": "no"
-			}
-		]
-	},
-	"f09849c4-f8b5-4151-a83f-ced58416d714": {
-		"name": "dart_ecommedtactical2burst3_vwr_511_sbs_cmc_sub_mis_email_2109_de_email",
-		"v": 17110,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -35664,21 +35289,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"f57fd676-8678-4d42-9a34-e0709731dbcd": {
-		"name": "dart_euro2020keyevent8_vwr_445_dav_cmc_wch_spt_email_2106_en_holdout",
-		"v": 15653,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -36503,21 +36113,6 @@
 			}
 		]
 	},
-	"fb833564-a85c-4172-a75e-1f413cebdd4f": {
-		"name": "dart_euro2020keyevent4_vwr_445_dav_cmc_wch_spt_push_2106_en_holdout",
-		"v": 15466,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "holdout"
-			},
-			{
-				"weight": 50,
-				"value": "allowed"
-			}
-		]
-	},
 	"fb9c8ed5-f432-43f7-85fe-7f6b456a5798": {
 		"name": "android_mgst_mini_chat",
 		"v": 14789,
@@ -36572,21 +36167,6 @@
 			},
 			{
 				"weight": 97,
-				"value": "allowed"
-			}
-		]
-	},
-	"fbea246c-9762-4f2f-bda2-68ad6b27623d": {
-		"name": "dart_ecommedtactical1burst3_vwr_411_sbs_cmc_sub_mis_email_2105_es_holdout",
-		"v": 17067,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
 				"value": "allowed"
 			}
 		]
