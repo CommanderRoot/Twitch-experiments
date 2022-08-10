@@ -48,21 +48,6 @@
 			}
 		]
 	},
-	"003b46f8-84af-4010-985b-ffbfd7d7856b": {
-		"name": "dart_eoy_ctr_0_dav_cmc_non_mis_email_2101_holdout",
-		"v": 13123,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"00659916-818e-4bcb-9d68-6f3afbf860d7": {
 		"name": "dart_ecommedtactical3_vwr_511_sbs_cmc_sub_mis_email_2109_de_holdout",
 		"v": 17060,
@@ -445,21 +430,6 @@
 			}
 		]
 	},
-	"02e6abe9-aa6b-4efe-9175-65b92ac2fdc3": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13552,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"0325cd28-a487-478d-afba-a6f240ae8d5d": {
 		"name": "dart_dyinglight2launch_vwr_651_dav_cmc_wch_gmg_email_2202_it_holdout",
 		"v": 18986,
@@ -531,21 +501,6 @@
 			},
 			{
 				"weight": 98,
-				"value": "allowed"
-			}
-		]
-	},
-	"03a12553-e117-4203-8869-653dfecc6e86": {
-		"name": "dart_eoy_active_vwr_0_dav_cmc_non_mis_email_2101_holdout",
-		"v": 13121,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -898,21 +853,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"0614a329-0cde-45dd-b596-341fdebe3297": {
-		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13575,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -2189,21 +2129,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"0ec5aa95-b1ef-4a0d-b37f-09fe8b59e70b": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13551,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -4320,21 +4245,6 @@
 			}
 		]
 	},
-	"1c808e4e-d241-448d-a007-c6caaca6c203": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13541,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"1c909a5a-6018-46b5-bf27-ecf00cf99e44": {
 		"name": "ios_ad_requester_manager",
 		"v": 9700,
@@ -6256,21 +6166,6 @@
 			}
 		]
 	},
-	"29d6e001-f71b-4fd8-9863-34126e5f0913": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13542,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 4,
-				"value": "holdout"
-			},
-			{
-				"weight": 96,
-				"value": "allowed"
-			}
-		]
-	},
 	"29ea7a8a-6f23-45a2-8cc2-76d58664a2a0": {
 		"name": "ios_vaes_sanitize_low_prioritiy_vast_urls",
 		"v": 16423,
@@ -6651,21 +6546,6 @@
 	"2c37e392-e7c0-4436-975e-d61e8e5483dd": {
 		"name": "dart_expireprimed14_vwr_1234_cmc_cmc_sub_mis_onsite_2205_holdout",
 		"v": 21902,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"2c8a55a3-f93a-4d1d-b767-d60b01e2ce29": {
-		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13580,
 		"t": 2,
 		"groups": [
 			{
@@ -8450,21 +8330,6 @@
 			}
 		]
 	},
-	"38b6dd9b-2559-457a-9640-56de05902893": {
-		"name": "dart_landonorrisgeneric_vwr_378_dav_cmc_wch_gmg_email_2103_holdout",
-		"v": 13722,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"391646a0-779e-490d-ab10-22e9a811c157": {
 		"name": "dart_apac_sgp_valorantchampionsquarterfinals_vwr_0_dav_trn_flw_gmg_onsite_2112_r1_holdout",
 		"v": 18225,
@@ -8740,21 +8605,6 @@
 			{
 				"weight": 0,
 				"value": "enabled_development"
-			}
-		]
-	},
-	"3b6b17d7-f7e8-4ab3-8030-e74c790b6297": {
-		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13577,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -9851,21 +9701,6 @@
 			{
 				"weight": 0,
 				"value": "bonus_amount"
-			}
-		]
-	},
-	"42a27786-4b64-40f8-82a4-6d86041e73d2": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13553,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -12131,21 +11966,6 @@
 			}
 		]
 	},
-	"521ce923-7f79-422f-953a-83ffc74f08ed": {
-		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13579,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"52820760-635e-409f-baa6-bb7cba95d1e7": {
 		"name": "ios_player_seek_on_load",
 		"v": 13124,
@@ -12608,21 +12428,6 @@
 			},
 			{
 				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"565be704-4f1c-46ba-a5d9-b15fbc423d7c": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13543,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 4,
-				"value": "holdout"
-			},
-			{
-				"weight": 96,
 				"value": "allowed"
 			}
 		]
@@ -13618,21 +13423,6 @@
 	"5bf6964f-c81d-412f-b9bb-ea1739f607d9": {
 		"name": "dart_apac_anz_creatordiscoveryxinfrequent_vwr_0_dav_trn_wch_gmg_email_2112_holdout",
 		"v": 18561,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"5c116b3e-571b-4f25-9dab-6598a4c9a9a7": {
-		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13576,
 		"t": 2,
 		"groups": [
 			{
@@ -15350,21 +15140,6 @@
 			}
 		]
 	},
-	"65b0afe6-70e2-473e-8796-da2dfbdedcc6": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13540,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"65cb8a90-d438-40ed-aa2d-1c2271ad7403": {
 		"name": "dart_apac_anz_spookyweek21_vwr_0_dav_trn_flw_gmg_onsite_2110_holdout",
 		"v": 17466,
@@ -16037,21 +15812,6 @@
 	"69efcfc8-07df-4236-b7e4-71dd20c02990": {
 		"name": "dart_haloinfinite_vwr_595_dav_cmc_wch_gmg_email_2112_es_holdout",
 		"v": 18230,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"6a13758c-54e7-4102-bb62-0652bca23b57": {
-		"name": "dart_blizzconline_vwr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13578,
 		"t": 2,
 		"groups": [
 			{
@@ -19899,21 +19659,6 @@
 			}
 		]
 	},
-	"82806ef7-959b-4e21-b4bb-22e8d010d6c4": {
-		"name": "dart_tnfweek6_vwr_272_dav_cmc_wch_tne_spt_peo_2011_holdout",
-		"v": 12477,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"82fa1d06-a80c-4646-ae58-0dd2ad883d0b": {
 		"name": "android_extensions_public_release",
 		"v": 3156,
@@ -21642,21 +21387,6 @@
 			}
 		]
 	},
-	"906d5275-2ea4-43d2-86bf-85ede1c0558b": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13549,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"90768e1b-367a-4e73-af79-dc9cd8105489": {
 		"name": "dart_apac_anz_twitchrivalsxpicopark_vwr_0_dav_cmc_wch_mis_push_2110_holdout",
 		"v": 17350,
@@ -21983,21 +21713,6 @@
 			{
 				"weight": 100,
 				"value": "AAX"
-			}
-		]
-	},
-	"92ee82af-ad11-4ee0-9770-1b654d454a69": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13547,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -25831,21 +25546,6 @@
 			}
 		]
 	},
-	"ac9b1f11-5dda-49ab-8bc0-12cbba000162": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13545,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"acd1d47b-3c08-41e4-9b8c-c9003b516dc7": {
 		"name": "dart_kpop_emotes_2_102220_holdout",
 		"v": 12189,
@@ -27652,21 +27352,6 @@
 			}
 		]
 	},
-	"b7bd5d60-d827-4976-a5a3-5fa8877b57bf": {
-		"name": "dart_fpso_prime_sub_reminder_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
-		"v": 14179,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"b7d320bf-c137-4c2d-b374-ea9fa20e3bd9": {
 		"name": "CHANNEL_CHAT_CTA",
 		"v": 1287,
@@ -28291,21 +27976,6 @@
 			},
 			{
 				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
-	"bc8cab08-ccee-49dc-bb6c-5d0f9bb58aab": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13539,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -29634,21 +29304,6 @@
 			}
 		]
 	},
-	"c61196c1-eeaf-4b4f-a944-f66d0ecb0711": {
-		"name": "dart_blizzconline_ctr_371_awa_cmc_str_gmg_email_2102_holdout",
-		"v": 13544,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 4,
-				"value": "holdout"
-			},
-			{
-				"weight": 96,
-				"value": "allowed"
-			}
-		]
-	},
 	"c626f746-8737-4a08-8f99-b5606ebf5efa": {
 		"name": "dart_apac_sgp_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
 		"v": 21487,
@@ -30628,21 +30283,6 @@
 	"cd16d643-6607-43f3-b56e-926794b03edb": {
 		"name": "dart_adsincentivereminderoffer_ctr_606_awa_trn_lrn_mis_email_2201_holdout",
 		"v": 18800,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"cd49b6e0-6adc-42b7-9602-5cf67596606a": {
-		"name": "dart_ca_lootcave_vwr_686_cmm_cmc_buy_misc_email_2012_holdout",
-		"v": 12883,
 		"t": 2,
 		"groups": [
 			{
@@ -33669,21 +33309,6 @@
 			{
 				"weight": 0,
 				"value": "active_13.4"
-			}
-		]
-	},
-	"e22d3649-1f11-46b3-8199-d6a04d39ba01": {
-		"name": "dart_eoy_inactive_vwr_0_dav_cmc_non_mis_email_2101_holdout",
-		"v": 13122,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
