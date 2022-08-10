@@ -8101,6 +8101,21 @@
 			}
 		]
 	},
+	"37ed3355-6544-4d07-9af1-dbc2fa690cd7": {
+		"name": "dart_apac_anz_creativeweek_vwr_0_dav_trn_wch_gmg_email_2208_email",
+		"v": 22647,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"37f65fc7-c3f8-4321-b364-6a0ba9c0bb24": {
 		"name": "ios_mgst_cold_search_suggestions",
 		"v": 9052,
@@ -18193,6 +18208,21 @@
 			{
 				"weight": 0,
 				"value": "v1"
+			}
+		]
+	},
+	"79eaf1b4-e0e9-4c3a-b157-1d79d01b01c5": {
+		"name": "dart_apac_anz_creativeweek_vwr_0_dav_trn_wch_gmg_email_2208_holdout",
+		"v": 22646,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 3,
+				"value": "holdout"
+			},
+			{
+				"weight": 97,
+				"value": "allowed"
 			}
 		]
 	},
