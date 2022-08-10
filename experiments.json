@@ -19482,21 +19482,6 @@
 			}
 		]
 	},
-	"82213125-aa4e-4b49-a971-234966f00789": {
-		"name": "dart_artificial_ep6_holdout",
-		"v": 10725,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"822b4db7-c367-46ea-8434-7a66df937bff": {
 		"name": "ios_host_deprecation",
 		"v": 22382,
