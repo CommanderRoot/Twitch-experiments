@@ -3114,29 +3114,6 @@
 			}
 		]
 	},
-	"15d4dde3-f60e-47fe-8946-58d494919a20": {
-		"name": "dart_surge_pricing_100_onsite_2_onsite",
-		"v": 8932,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 25,
-				"value": "Variant A"
-			},
-			{
-				"weight": 25,
-				"value": "Variant B"
-			},
-			{
-				"weight": 25,
-				"value": "Variant C"
-			},
-			{
-				"weight": 25,
-				"value": "Variant D"
-			}
-		]
-	},
 	"15ee6014-d61b-434f-a1d2-056fc78b4751": {
 		"name": "dart_jpn_apacsubtember_vwr_0_cmm_cmc_sub_mis_email_2109_holdout",
 		"v": 16835,
@@ -27947,21 +27924,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"bc7e9265-b4d1-4033-a555-b6699866aa65": {
-		"name": "dart_twitchrivalssupergamesfortnite_holdout",
-		"v": 9942,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
 			}
 		]
 	},
