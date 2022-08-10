@@ -693,21 +693,6 @@
 			}
 		]
 	},
-	"05044a5f-f0e5-4cb5-bfd9-766fe2165010": {
-		"name": "dart_brit_test_permissions_holdout",
-		"v": 15657,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "holdout"
-			},
-			{
-				"weight": 0,
-				"value": "allowed"
-			}
-		]
-	},
 	"05129a06-85ea-484f-ad10-38907fbbb781": {
 		"name": "ios_artificial_latency_browse",
 		"v": 16874,
@@ -2571,21 +2556,6 @@
 			},
 			{
 				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"11bb3d2d-8ea0-4424-8ddf-fe68d2f5666d": {
-		"name": "dart_intlpricing_ctr_416_cmm_cmc_lrn_mis_email_2105_holdout",
-		"v": 14833,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 2,
-				"value": "holdout"
-			},
-			{
-				"weight": 98,
 				"value": "allowed"
 			}
 		]
@@ -4772,21 +4742,6 @@
 			{
 				"weight": 100,
 				"value": "enabled_with_verification"
-			}
-		]
-	},
-	"206387e2-dda2-4e88-a619-6a0e910e8268": {
-		"name": "dart_jira_7391_holdout",
-		"v": 17654,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -12597,21 +12552,6 @@
 			}
 		]
 	},
-	"55b11149-bb43-4e7e-af20-8fcc5788e5a7": {
-		"name": "dart_tnf1225_vwr_514_dav_cmc_wch_spt_push_2112_holdout",
-		"v": 18576,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"55d298cb-71ab-4c03-bbe8-7210debf8ae0": {
 		"name": "dart_fpso_prime_sub_localized_vwr_47941_cmm_cmc_sub_mis_email_2011_onsite",
 		"v": 15298,
@@ -16004,21 +15944,6 @@
 			}
 		]
 	},
-	"6904f403-4309-47f3-a357-7807e25fc49c": {
-		"name": "dart_apac_kor_genshinimpactdrop_vwr_0_awa_cmc_buy_mis_push_2112_holdout",
-		"v": 18053,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"690a83da-6bed-474f-a20c-d8baaf003208": {
 		"name": "android_whispers_chat_parsing",
 		"v": 17587,
@@ -16321,21 +16246,6 @@
 			{
 				"weight": 100,
 				"value": "variant1"
-			}
-		]
-	},
-	"6b408f90-94e4-477b-892f-4d68afdd8052": {
-		"name": "dart_redeem5enonly_vwr_503_sbs_cmc_sub_mis_email_2108_holdout",
-		"v": 17591,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -17520,21 +17430,6 @@
 			{
 				"weight": 50,
 				"value": "control"
-			}
-		]
-	},
-	"72ed151d-5fb2-4053-bc53-3e86ed87a5a8": {
-		"name": "dart_tnf1225_vwr_514_dav_cmc_wch_spt_emailonsite_2112_holdout",
-		"v": 18575,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -20526,21 +20421,6 @@
 			},
 			{
 				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"873713d3-de02-4a1a-8009-7237c4750034": {
-		"name": "dart_intlpricingfix_vwr_416_cmm_cmc_lrn_mis_email_2105_holdout",
-		"v": 14886,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 3,
-				"value": "holdout"
-			},
-			{
-				"weight": 97,
 				"value": "allowed"
 			}
 		]
@@ -24010,21 +23890,6 @@
 			}
 		]
 	},
-	"9d9bb93e-ed6e-46c3-b7c3-700a56a6450a": {
-		"name": "dart_wintergameawards_vwr_596_dav_cmc_wch_gmg_email_2112_en_holdout",
-		"v": 18271,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"9daf3cbf-bd22-4101-95b9-b2c1b0461094": {
 		"name": "android_premieres_reruns",
 		"v": 2852,
@@ -24056,21 +23921,6 @@
 			{
 				"weight": 0,
 				"value": "disable"
-			}
-		]
-	},
-	"9de218d7-f785-4fee-993a-04c8643562ac": {
-		"name": "dart_intlpricing_vwr_416_cmm_cmc_lrn_mis_email_2105_holdout",
-		"v": 14831,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 4,
-				"value": "holdout"
-			},
-			{
-				"weight": 96,
-				"value": "allowed"
 			}
 		]
 	},
@@ -24768,21 +24618,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"a3e91b31-8a48-4bed-843c-0ef6922c0cd7": {
-		"name": "dart_intlpricing_vwr_416_cmm_cmc_lrn_mis_email_2105_email",
-		"v": 14832,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -27463,21 +27298,6 @@
 			}
 		]
 	},
-	"b4509c2e-3f9e-4e52-a6d5-a5e647f1300b": {
-		"name": "dart_fifa22toty_vwr_642_dav_cmc_wch_esp_email_2202_holdout",
-		"v": 18943,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"b451a3d9-79f4-4743-89c1-719335c2c974": {
 		"name": "CPR_SUB_NAV_V2",
 		"v": 727,
@@ -28670,21 +28490,6 @@
 			}
 		]
 	},
-	"be444653-787b-40c1-b54e-8096845c44cf": {
-		"name": "dart_wintergameawards_vwr_596_dav_cmc_wch_gmg_email_2112_de_holdout",
-		"v": 18305,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"be7dfb5a-6d3c-48af-bab7-3cc5d37178bb": {
 		"name": "dart_ecommedtactical1_vwr_411_sbs_cmc_sub_mis_email_2105_de_holdout",
 		"v": 16912,
@@ -29644,21 +29449,6 @@
 			}
 		]
 	},
-	"c5249f54-57e1-445d-b0ac-810ad6d71e92": {
-		"name": "dart_redeem5enonly_vwr_503_sbs_cmc_sub_mis_email_2108_email",
-		"v": 17592,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"c56e79bb-243c-4643-b7ed-e2ef21e67f8a": {
 		"name": "android_host_deprecation",
 		"v": 22554,
@@ -30553,21 +30343,6 @@
 			{
 				"weight": 100,
 				"value": "active_12.1_scenes_and_preview"
-			}
-		]
-	},
-	"cbcd86f4-a040-4198-93ee-f7c32938abbf": {
-		"name": "dart_intlpricing_ctr_416_cmm_cmc_lrn_mis_email_2105_email",
-		"v": 14834,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -34504,21 +34279,6 @@
 			}
 		]
 	},
-	"e72d3f3e-1522-447f-ad04-57b0e46ab356": {
-		"name": "dart_ufc_fightnightpreview_push",
-		"v": 14614,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "channel-1_Category Highlight_UFC"
-			},
-			{
-				"weight": 50,
-				"value": "channel-1_Channel Highlight_UFC"
-			}
-		]
-	},
 	"e77bc8ab-9f36-4753-918b-c5336b620ed5": {
 		"name": "ios_recaptcha_deprecation_alert",
 		"v": 12139,
@@ -35571,21 +35331,6 @@
 			{
 				"weight": 100,
 				"value": "MADS_ON"
-			}
-		]
-	},
-	"edff2aec-e2ec-489c-9a13-2ccab20848af": {
-		"name": "dart_intlpricingfix_vwr_416_cmm_cmc_lrn_mis_email_2105_email",
-		"v": 14887,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
