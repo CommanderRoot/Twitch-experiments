@@ -12127,6 +12127,21 @@
 			}
 		]
 	},
+	"54096258-3819-4c07-b912-c816c94886ea": {
+		"name": "ios_playercore_shareplay",
+		"v": 22776,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"544a8d95-3e54-4579-be17-83fd7d479ca0": {
 		"name": "live_qos_model",
 		"v": 10429,
