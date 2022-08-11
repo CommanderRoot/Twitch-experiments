@@ -2845,15 +2845,15 @@
 	},
 	"1444e538-4ab4-4be3-8e90-87075c5a1e2c": {
 		"name": "dart_onsite_service_tokens_rollout",
-		"v": 22778,
+		"v": 22780,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "rollout"
 			}
 		]
