@@ -4814,11 +4814,11 @@
 	},
 	"216af0b9-5b32-4d9b-abd8-de1d2a5eae7b": {
 		"name": "android_prime_subs_migration",
-		"v": 22040,
+		"v": 22772,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -4826,7 +4826,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_13.3"
 			}
 		]
