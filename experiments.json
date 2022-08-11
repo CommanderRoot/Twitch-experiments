@@ -22750,15 +22750,15 @@
 	},
 	"9a752e46-3ebc-4a05-8737-4425807a368d": {
 		"name": "ios_ivs_irl_broadcasting_global",
-		"v": 21564,
+		"v": 22784,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "control"
 			}
 		]
