@@ -9453,11 +9453,11 @@
 	},
 	"41ee2c64-8921-4885-9619-b43957875696": {
 		"name": "android_subs_cta_leaderboard",
-		"v": 22790,
+		"v": 22802,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 67,
 				"value": "control"
 			},
 			{
@@ -9469,7 +9469,7 @@
 				"value": "time_based_13.5"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "spent_based_13.5"
 			}
 		]
