@@ -3689,11 +3689,11 @@
 	},
 	"216af0b9-5b32-4d9b-abd8-de1d2a5eae7b": {
 		"name": "android_prime_subs_migration",
-		"v": 22793,
+		"v": 23697,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -3701,7 +3701,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_13.3"
 			}
 		]
@@ -4108,21 +4108,6 @@
 			{
 				"weight": 0,
 				"value": "active_9.6.0"
-			}
-		]
-	},
-	"2492dcb2-a2c8-422b-a88f-4ecb25be52ad": {
-		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
-		"v": 13401,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
