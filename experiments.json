@@ -4690,11 +4690,11 @@
 	},
 	"2a68d16e-446c-440d-8605-df0d99b18764": {
 		"name": "roster_team_writes",
-		"v": 22492,
+		"v": 23717,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
@@ -4702,7 +4702,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "disable"
 			}
 		]
@@ -7441,15 +7441,15 @@
 	},
 	"43a6a23c-b9df-43ed-b71c-448075440f03": {
 		"name": "roster_team_reads",
-		"v": 22491,
+		"v": 23719,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "fulton"
 			},
 			{
