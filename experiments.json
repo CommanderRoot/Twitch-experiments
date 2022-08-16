@@ -4690,7 +4690,7 @@
 	},
 	"2a68d16e-446c-440d-8605-df0d99b18764": {
 		"name": "roster_team_writes",
-		"v": 23717,
+		"v": 23722,
 		"t": 1,
 		"groups": [
 			{
@@ -4698,11 +4698,11 @@
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disable"
 			}
 		]
@@ -5482,15 +5482,15 @@
 	},
 	"31f42cb0-5558-416a-b5ac-95a90c3dda04": {
 		"name": "roster_membership_reads",
-		"v": 22494,
+		"v": 23724,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 98,
 				"value": "legacy"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "fulton"
 			},
 			{
@@ -7441,15 +7441,15 @@
 	},
 	"43a6a23c-b9df-43ed-b71c-448075440f03": {
 		"name": "roster_team_reads",
-		"v": 23719,
+		"v": 23721,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "fulton"
 			},
 			{
@@ -18037,11 +18037,11 @@
 	},
 	"9ddb3385-950c-4a0b-b719-3e03c4294b91": {
 		"name": "roster_membership_writes",
-		"v": 22493,
+		"v": 23723,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "legacy"
 			},
 			{
@@ -18049,7 +18049,7 @@
 				"value": "fulton"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "disable"
 			}
 		]
