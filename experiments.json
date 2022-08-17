@@ -3452,15 +3452,15 @@
 	},
 	"1f36f788-5ec9-4d8d-b01c-21a1c4e82534": {
 		"name": "dart_decider_tokens_user_based_rollout",
-		"v": 23752,
+		"v": 23753,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "rollout"
 			}
 		]
