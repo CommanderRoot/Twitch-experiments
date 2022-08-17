@@ -5452,15 +5452,15 @@
 	},
 	"31e58982-61f2-4481-8030-8687a19f5d8b": {
 		"name": "android_dispose_manifest_fetch",
-		"v": 22358,
+		"v": 23754,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_13.6"
 			}
 		]
