@@ -13621,15 +13621,15 @@
 	},
 	"76c8c22a-480d-4dfb-8cac-cc4bc10858db": {
 		"name": "android_go_live_entry_global",
-		"v": 22085,
+		"v": 23771,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "label_only_active_13.4"
 			}
 		]
@@ -13741,7 +13741,7 @@
 	},
 	"786fee02-59cd-4fff-afa0-4d936fa48578": {
 		"name": "ios_mb_low_latency_video_encoder",
-		"v": 20314,
+		"v": 23772,
 		"t": 2,
 		"groups": [
 			{
