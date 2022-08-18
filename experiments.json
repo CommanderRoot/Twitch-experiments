@@ -21559,21 +21559,6 @@
 			}
 		]
 	},
-	"c021f3d5-1852-44dd-8935-f14d061e59f4": {
-		"name": "ios_ivs_low_latency_video_encoder",
-		"v": 22329,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "control"
-			},
-			{
-				"weight": 10,
-				"value": "active"
-			}
-		]
-	},
 	"c0b02695-c605-44fb-a84d-fe87f999e81b": {
 		"name": "dart_wwfestvalorant_vwrnrp348_5mp_cmc_watchnow_event_gaming_email_2010_holdout",
 		"v": 13125,
