@@ -5057,11 +5057,11 @@
 	},
 	"2e9849ad-346e-4b74-89be-569661d102e3": {
 		"name": "android_subscriber_badge",
-		"v": 21741,
+		"v": 23781,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 34,
 				"value": "control"
 			},
 			{
@@ -5071,6 +5071,14 @@
 			{
 				"weight": 0,
 				"value": "enabled_background_dev"
+			},
+			{
+				"weight": 33,
+				"value": "enabled_no_background_13.7"
+			},
+			{
+				"weight": 33,
+				"value": "enabled_background_13.7"
 			}
 		]
 	},
