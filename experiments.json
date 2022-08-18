@@ -4883,15 +4883,15 @@
 	},
 	"2c0ccd07-53f7-4883-9d1e-bdd498cdddb8": {
 		"name": "ios_social_links_editor",
-		"v": 21035,
+		"v": 23776,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
