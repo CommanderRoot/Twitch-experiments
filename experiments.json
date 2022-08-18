@@ -1363,15 +1363,15 @@
 	},
 	"0bfcc03a-b941-4a5f-ad3b-1565dee819fb": {
 		"name": "ios_theater_mute_button",
-		"v": 23701,
+		"v": 23769,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "enabled_v13.5"
 			}
 		]
@@ -26597,11 +26597,11 @@
 	},
 	"ed99a1d3-4739-4173-b14a-00870da02199": {
 		"name": "ios_creator_mode_global",
-		"v": 22285,
+		"v": 23770,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "label_only"
 			},
 			{
@@ -26609,7 +26609,7 @@
 				"value": "dropdown"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "disabled"
 			}
 		]
