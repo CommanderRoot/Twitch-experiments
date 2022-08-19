@@ -18137,6 +18137,21 @@
 			}
 		]
 	},
+	"9e1e6a1b-a3e6-4b23-86a7-2e61197fd811": {
+		"name": "dart_tcsdschedule_vwr_777_awa_cmc_buy_mis_email_228_holdout",
+		"v": 23808,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9e9f70b0-06d7-4a33-8faa-f72ad097e089": {
 		"name": "android_ads_om_sdk_api",
 		"v": 22144,
