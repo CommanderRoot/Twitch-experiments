@@ -24068,15 +24068,15 @@
 	},
 	"d5a307af-67b9-41d7-8d77-7035171d29f5": {
 		"name": "notifications_reminder_custom_notifications_dual_read",
-		"v": 23796,
+		"v": 23809,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 60,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 50,
 				"value": "rollout"
 			}
 		]
