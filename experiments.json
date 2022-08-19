@@ -10832,6 +10832,21 @@
 			}
 		]
 	},
+	"60105635-efcd-41d7-98eb-705455ba48ad": {
+		"name": "dart_apac_anz_pathofexile_vwr_0_dav_trn_wch_gmg_email_2208_holdout",
+		"v": 23792,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"603ea784-c7d1-4556-993a-c3aa0d673062": {
 		"name": "ios_recs_in_following",
 		"v": 13712,
