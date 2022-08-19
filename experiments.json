@@ -10264,7 +10264,7 @@
 	},
 	"5c4cbeb0-1672-44f1-a3c8-11277407590d": {
 		"name": "roster_image_uploads",
-		"v": 23795,
+		"v": 23802,
 		"t": 1,
 		"groups": [
 			{
@@ -10272,11 +10272,11 @@
 				"value": "legacy"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "fulton"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "disable"
 			}
 		]
