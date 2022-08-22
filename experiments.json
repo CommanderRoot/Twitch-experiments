@@ -6290,6 +6290,21 @@
 			}
 		]
 	},
+	"38d5d1b1-f4a8-4e4a-a4cd-70c6ae0b9326": {
+		"name": "dart_riotsummerrumble_vwr_790_dav_cmc_wch_gmg_email_2208_holdout",
+		"v": 23816,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"39a78eae-7b21-4ff8-8c27-d8353e7531d4": {
 		"name": "dads_use_twitch_raids",
 		"v": 13652,
@@ -16419,6 +16434,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"90ce04b4-c64d-482e-9fee-5ed8528fc72c": {
+		"name": "dart_riotsummerrumble_vwr_790_dav_cmc_wch_gmg_push_2208_holdout",
+		"v": 23817,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
