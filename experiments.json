@@ -7552,6 +7552,21 @@
 			}
 		]
 	},
+	"44fba085-5a9c-443c-a93a-421985f97951": {
+		"name": "dart_apac_anz_pogpicksaug_vwr_0_dav_trn_wch_gmg_push_2208_holdout",
+		"v": 23844,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"45081886-ec79-4f81-9ed3-603c735b2b0c": {
 		"name": "mario",
 		"v": 1081,
@@ -17565,6 +17580,21 @@
 			{
 				"weight": 25,
 				"value": "Variant D"
+			}
+		]
+	},
+	"99bfbf35-49f3-454e-8bed-912ba7146e7c": {
+		"name": "dart_apac_anz_pogpicksaug_vwr_0_dav_trn_wch_gmg_email_2208_holdout",
+		"v": 23845,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
