@@ -5127,6 +5127,21 @@
 			}
 		]
 	},
+	"2f98579a-c8f4-4fb7-9a8c-1230e9a27326": {
+		"name": "presence_pubsub_fulton_migration",
+		"v": 23852,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"2fbe95f2-1383-4c15-afc7-14e5fcbea844": {
 		"name": "dart_modonboardfollowupd3_vwr_719_awa_cmc_non_mis_email_225_holdout",
 		"v": 21523,
@@ -6661,15 +6676,15 @@
 	},
 	"3d2a16b5-9d37-4b45-b049-4f4c8511f289": {
 		"name": "new_hermes_channels_sms_rollout",
-		"v": 21754,
+		"v": 23851,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "rollout"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			}
 		]
