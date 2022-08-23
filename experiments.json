@@ -2897,21 +2897,6 @@
 			}
 		]
 	},
-	"19eaa4b6-60ac-4017-baac-a7e3d748ce22": {
-		"name": "dart_fpsogiftsubd7v2_vwr_619_cmm_cmc_sub_mis_email_2201_holdout",
-		"v": 21541,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"19f5492f-19f1-430c-8f22-1db077308950": {
 		"name": "ios_broadcast_abs",
 		"v": 3231,
@@ -3150,21 +3135,6 @@
 			{
 				"weight": 0,
 				"value": "enabled"
-			}
-		]
-	},
-	"1b91790f-eb84-4ebb-b3f1-6d95c7360223": {
-		"name": "dart_fpsogiftsubd1v2_vwr_619_cmm_cmc_sub_mis_email_2201_holdout",
-		"v": 21537,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -9307,21 +9277,6 @@
 			}
 		]
 	},
-	"535c8c78-902b-4919-a739-bd873bb522b9": {
-		"name": "dart_fpgov2activeprvsub_vwr_617_cmm_cmc_sub_mis_email_2201_duplicate_holdout",
-		"v": 21536,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"536ac355-0dc7-489a-a11a-e5e00f481bb1": {
 		"name": "ios_dynamically_switch_for_airplay",
 		"v": 22657,
@@ -10986,25 +10941,6 @@
 			}
 		]
 	},
-	"60c2bf81-9c15-4c8f-a18b-8a23ea0083e5": {
-		"name": "dart_fpgov2activeprvsub_vwr_617_cmm_cmc_sub_mis_email_2201_duplicate_email",
-		"v": 21535,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 34,
-				"value": "Variant A"
-			},
-			{
-				"weight": 33,
-				"value": "Variant B"
-			},
-			{
-				"weight": 33,
-				"value": "Variant C"
-			}
-		]
-	},
 	"60c62cbe-d304-474a-924d-84acd4268b3f": {
 		"name": "android_sprig_survey",
 		"v": 21526,
@@ -11879,25 +11815,6 @@
 			{
 				"weight": 0,
 				"value": "active_development"
-			}
-		]
-	},
-	"6888c9c7-8486-4387-8dce-43bd4f0fa0e4": {
-		"name": "dart_fpgov1existsub_vwr_618_cmm_cmc_sub_mis_email_2201_email",
-		"v": 21574,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 34,
-				"value": "Variant A"
-			},
-			{
-				"weight": 33,
-				"value": "Variant B"
-			},
-			{
-				"weight": 33,
-				"value": "Variant C"
 			}
 		]
 	},
@@ -14506,21 +14423,6 @@
 			{
 				"weight": 100,
 				"value": "active_13.4"
-			}
-		]
-	},
-	"7d8cb28c-465c-41d4-bddf-35b8741a9867": {
-		"name": "dart_fpgov1existsub_vwr_618_cmm_cmc_sub_mis_email_2201_holdout",
-		"v": 21575,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -19962,21 +19864,6 @@
 			{
 				"weight": 100,
 				"value": "active_10.4"
-			}
-		]
-	},
-	"af47b17d-3021-4489-b1bb-a37ec8f72e09": {
-		"name": "dart_fpsoprimed7v2_vwr_668_cmm_cmc_sub_mis_email_2202_holdout",
-		"v": 22121,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -27849,21 +27736,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"f9879ce9-56c2-4f4c-8f68-5a76c24eec46": {
-		"name": "dart_fpsoprimed1reminderv2_vwr_670_cmm_cmc_sub_mis_email_2202_holdout",
-		"v": 21540,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
