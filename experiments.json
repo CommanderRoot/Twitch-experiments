@@ -4980,6 +4980,21 @@
 			}
 		]
 	},
+	"2def6419-eaa1-467f-bcc6-052498371c3f": {
+		"name": "ios_pinnedchat",
+		"v": 23863,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"2e330c88-4bff-4599-ba11-5445a98abbed": {
 		"name": "dart_creator_anniversaries_onsite_holdout",
 		"v": 16761,
