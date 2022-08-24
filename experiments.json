@@ -6657,15 +6657,15 @@
 	},
 	"3d2a16b5-9d37-4b45-b049-4f4c8511f289": {
 		"name": "new_hermes_channels_sms_rollout",
-		"v": 23864,
+		"v": 23866,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "rollout"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			}
 		]
