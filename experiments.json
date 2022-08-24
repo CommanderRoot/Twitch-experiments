@@ -389,6 +389,21 @@
 			}
 		]
 	},
+	"042ce8b9-aca4-47bb-a7e5-eea3a5a214a4": {
+		"name": "android_core_player_synchronized_release",
+		"v": 23871,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "active_13.7"
+			}
+		]
+	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
 		"v": 12124,
