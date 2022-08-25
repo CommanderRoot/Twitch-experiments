@@ -28031,6 +28031,25 @@
 			}
 		]
 	},
+	"fb7e3eb2-e3c4-4998-b26f-6673bcb446fb": {
+		"name": "android_player_thread",
+		"v": 23881,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_13.8_shared"
+			},
+			{
+				"weight": 0,
+				"value": "active_13.8_per_instance"
+			}
+		]
+	},
 	"fb9c8ed5-f432-43f7-85fe-7f6b456a5798": {
 		"name": "android_mgst_mini_chat",
 		"v": 14789,
