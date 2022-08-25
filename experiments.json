@@ -796,6 +796,21 @@
 			}
 		]
 	},
+	"06b3c4b8-eccc-49cd-8a31-5e22f72badfb": {
+		"name": "dart_charitylaunch_ctr_765_awa_cmc_lrn_mis_eo_228_holdout",
+		"v": 23883,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"06bd4c16-1de1-4eb3-9963-869dfaeafa5b": {
 		"name": "dart_fpso_prime_sub_reminder_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15571,
