@@ -12173,6 +12173,21 @@
 			}
 		]
 	},
+	"6bbe3e2c-510f-4e2b-a368-fcf1cee1423e": {
+		"name": "new_hermes_fcm_team_rollout",
+		"v": 23913,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"6c2e748c-e5a2-42de-bd63-29c6db0555c8": {
 		"name": "android_ads_loudness_normalization",
 		"v": 18127,
@@ -16864,6 +16879,21 @@
 			}
 		]
 	},
+	"949435e0-f49d-4359-a46b-16c149e76f5e": {
+		"name": "new_hermes_apns_team_rollout",
+		"v": 23914,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"94aaa3d6-03fb-4ffe-9d75-5ab3c8df37a7": {
 		"name": "android_improved_background_audio",
 		"v": 21578,
@@ -18643,6 +18673,21 @@
 			{
 				"weight": 50,
 				"value": "active_development"
+			}
+		]
+	},
+	"a49e5145-2453-4ea8-9187-b9a069cdbd8d": {
+		"name": "new_hermes_browser_team_rollout",
+		"v": 23915,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
 			}
 		]
 	},
@@ -22898,6 +22943,21 @@
 			{
 				"weight": 100,
 				"value": "active_12.1_scenes_and_preview"
+			}
+		]
+	},
+	"cbd5d091-d272-4c0b-af9a-cc5bb198bc74": {
+		"name": "new_hermes_onsite_team_rollout",
+		"v": 23912,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
 			}
 		]
 	},
