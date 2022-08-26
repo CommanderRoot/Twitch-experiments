@@ -22948,15 +22948,15 @@
 	},
 	"cbd5d091-d272-4c0b-af9a-cc5bb198bc74": {
 		"name": "new_hermes_onsite_team_rollout",
-		"v": 23912,
+		"v": 23917,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "rollout"
 			}
 		]
