@@ -22429,6 +22429,21 @@
 			}
 		]
 	},
+	"c68060b4-af24-4542-9eca-589628c3a6b3": {
+		"name": "dart_apac_anz_dreamhackrivals_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
+		"v": 23928,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c6a85b7d-7538-4aa5-8a8d-17769aeacec4": {
 		"name": "mads_trigger_api",
 		"v": 16399,
@@ -25218,6 +25233,21 @@
 			{
 				"weight": 50,
 				"value": "active"
+			}
+		]
+	},
+	"dfb2ca58-0500-4b4f-9407-790fdb463fe0": {
+		"name": "dart_apac_anz_dreamhackrivals_vwr_0_dav_trn_wch_gmg_email_2209_holdout",
+		"v": 23927,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
