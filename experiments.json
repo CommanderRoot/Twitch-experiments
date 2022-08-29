@@ -19438,16 +19438,20 @@
 	},
 	"ab22070a-64e4-418b-9095-59a59ce728a7": {
 		"name": "ios_chat_refactor",
-		"v": 21293,
+		"v": 23940,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 10,
+				"value": "active_v13.8"
 			}
 		]
 	},
@@ -23167,15 +23171,15 @@
 	},
 	"ccfa29d7-e2ed-4c70-a123-802c476a751d": {
 		"name": "new_hermes_channels_onsite_rollout",
-		"v": 23938,
+		"v": 23941,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "rollout"
 			},
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			}
 		]
