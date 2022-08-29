@@ -13799,6 +13799,21 @@
 			}
 		]
 	},
+	"78b31012-98e1-4245-8b0f-f4009102391a": {
+		"name": "ios_custom_gift_quantity",
+		"v": 23951,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"78bd2248-16f8-493b-abbf-205d823fa46b": {
 		"name": "android_stream_display_ads",
 		"v": 18009,
