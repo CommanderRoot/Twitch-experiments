@@ -23171,15 +23171,15 @@
 	},
 	"ccfa29d7-e2ed-4c70-a123-802c476a751d": {
 		"name": "new_hermes_channels_onsite_rollout",
-		"v": 23941,
+		"v": 23942,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 40,
 				"value": "rollout"
 			},
 			{
-				"weight": 80,
+				"weight": 60,
 				"value": "control"
 			}
 		]
