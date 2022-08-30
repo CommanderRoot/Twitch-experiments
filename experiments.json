@@ -10396,15 +10396,15 @@
 	},
 	"5d404303-56fc-45f8-afc3-d07fe9a3a6d3": {
 		"name": "android_userlist_v2",
-		"v": 23794,
+		"v": 23973,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_13.7"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -14901,15 +14901,15 @@
 	},
 	"80e72d2d-b984-487d-9745-e855aa2ccee9": {
 		"name": "ios_user_list_update",
-		"v": 22217,
+		"v": 23974,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
