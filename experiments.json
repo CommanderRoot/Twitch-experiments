@@ -340,6 +340,21 @@
 			}
 		]
 	},
+	"0314f042-5579-493f-ae83-2bb40f3c018b": {
+		"name": "dart_apac_php_globestreamers5_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
+		"v": 24000,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"034c69e4-45d6-4e68-9c1e-7709459a9301": {
 		"name": "dart_welcomeheroimagetest_vwr_463_dav_cmc_wch_mis_email_2107_holdout",
 		"v": 17180,
@@ -12203,6 +12218,21 @@
 			}
 		]
 	},
+	"6bc96cfe-de03-4296-8100-24be9fd7511f": {
+		"name": "dart_apac_php_globestreamers4_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
+		"v": 23999,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6c2e748c-e5a2-42de-bd63-29c6db0555c8": {
 		"name": "android_ads_loudness_normalization",
 		"v": 18127,
@@ -15711,6 +15741,21 @@
 			{
 				"weight": 0,
 				"value": "disabled"
+			}
+		]
+	},
+	"8aa442a7-6e74-462e-891b-65021dfb60bd": {
+		"name": "dart_apac_php_globestreamers6_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
+		"v": 24001,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
