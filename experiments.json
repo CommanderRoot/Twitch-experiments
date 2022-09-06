@@ -7389,15 +7389,15 @@
 	},
 	"42b95784-44ac-4f1d-9766-233ee634e91f": {
 		"name": "android_carousel_remove_view_before_adding",
-		"v": 23995,
+		"v": 24022,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_13.7"
 			}
 		]
