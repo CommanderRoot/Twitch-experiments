@@ -16975,15 +16975,15 @@
 	},
 	"949435e0-f49d-4359-a46b-16c149e76f5e": {
 		"name": "new_hermes_apns_team_rollout",
-		"v": 24036,
+		"v": 24038,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "rollout"
 			}
 		]
