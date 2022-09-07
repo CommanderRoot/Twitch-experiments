@@ -310,6 +310,21 @@
 			}
 		]
 	},
+	"0237a448-8c0f-4452-b81b-cf9660694dbe": {
+		"name": "android_clips_manager",
+		"v": 24046,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_13.8"
+			}
+		]
+	},
 	"0238d763-05ee-4d27-ba3f-0b7d45346102": {
 		"name": "android_spade_batching_v2",
 		"v": 2916,
