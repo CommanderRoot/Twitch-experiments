@@ -18757,16 +18757,20 @@
 	},
 	"a475116a-193e-4e6f-9d60-8b7f12765398": {
 		"name": "android_community_shoutouts_rollout",
-		"v": 21838,
+		"v": 24042,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_13.8"
 			}
 		]
 	},
