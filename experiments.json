@@ -16975,7 +16975,7 @@
 	},
 	"949435e0-f49d-4359-a46b-16c149e76f5e": {
 		"name": "new_hermes_apns_team_rollout",
-		"v": 23914,
+		"v": 24036,
 		"t": 2,
 		"groups": [
 			{
@@ -25856,6 +25856,21 @@
 			{
 				"weight": 50,
 				"value": "active"
+			}
+		]
+	},
+	"e42eb4cf-eee5-41e4-8d49-9485761b7499": {
+		"name": "dart_test_apns_team_send_push",
+		"v": 24037,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
