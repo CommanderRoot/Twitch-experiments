@@ -7179,6 +7179,21 @@
 			}
 		]
 	},
+	"41c522b9-5867-429f-950a-2a10790c2380": {
+		"name": "ios_creator_preferences",
+		"v": 24052,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"41cc8630-60da-4689-a8aa-7bf6f414faca": {
 		"name": "ride_the_wave",
 		"v": 4690,
@@ -17537,6 +17552,21 @@
 			{
 				"weight": 100,
 				"value": "enabled_v6.6_and_later"
+			}
+		]
+	},
+	"987cca77-0b6f-4e6a-abe5-4520b0318891": {
+		"name": "ios_irl_ux_revamp",
+		"v": 24053,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 1,
+				"value": "control"
 			}
 		]
 	},
