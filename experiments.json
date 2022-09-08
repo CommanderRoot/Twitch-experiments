@@ -21141,6 +21141,21 @@
 			}
 		]
 	},
+	"b69196ae-b278-405c-872d-4940cfc3e64d": {
+		"name": "android_segmented_signup",
+		"v": 24065,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"b6a38dba-31e5-494a-a310-047dabf4c0bc": {
 		"name": "dart_new_d3slwintest_1tpstreams_vwr_497_dav_cmc_wch_mis_email_2108_holdout",
 		"v": 16447,
