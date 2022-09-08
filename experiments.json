@@ -18874,15 +18874,15 @@
 	},
 	"a49e5145-2453-4ea8-9187-b9a069cdbd8d": {
 		"name": "new_hermes_browser_team_rollout",
-		"v": 24060,
+		"v": 24061,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "rollout"
 			}
 		]
