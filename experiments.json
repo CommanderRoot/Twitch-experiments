@@ -18136,6 +18136,21 @@
 			}
 		]
 	},
+	"9c2ab477-295c-4322-8656-608579ade1e2": {
+		"name": "ios_ads_branded_content",
+		"v": 24063,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_debug"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"9c5b2a82-917b-48b4-91fd-e42126e83eb3": {
 		"name": "tvapps_global_player_bitrate_experiment",
 		"v": 9395,
