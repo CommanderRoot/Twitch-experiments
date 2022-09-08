@@ -7682,15 +7682,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 24066,
+		"v": 24067,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 15,
 				"value": "promotions_enabled"
 			}
 		]
