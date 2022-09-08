@@ -5837,27 +5837,27 @@
 	},
 	"3520b529-e266-454f-98b7-9460bf80c77c": {
 		"name": "dart_stream_summary_cta_all_email",
-		"v": 18917,
+		"v": 24062,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "Variant A"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "Variant B"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "Variant C"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "Variant D"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "Variant E"
 			}
 		]
