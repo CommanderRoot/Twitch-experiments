@@ -13903,15 +13903,15 @@
 	},
 	"786fee02-59cd-4fff-afa0-4d936fa48578": {
 		"name": "ios_mb_low_latency_video_encoder",
-		"v": 23773,
+		"v": 24069,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 33,
 				"value": "active"
 			},
 			{
-				"weight": 90,
+				"weight": 67,
 				"value": "control"
 			}
 		]
