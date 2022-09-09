@@ -11931,6 +11931,21 @@
 			}
 		]
 	},
+	"684aae89-b17b-4746-9689-4865c2bb53e9": {
+		"name": "dart_zevent_vwr_808_dav_cmc_wch_gmg_email_2209_holdout",
+		"v": 24078,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6879cfdf-a44f-4190-a771-659310a022f0": {
 		"name": "ios_ads_aws_pinpoint",
 		"v": 19136,
@@ -15873,6 +15888,21 @@
 			{
 				"weight": 0,
 				"value": "inactive"
+			}
+		]
+	},
+	"8acda01f-ce69-4185-a7c7-d8de7b788e01": {
+		"name": "dart_zevent_vwr_808_dav_cmc_wch_gmg_push_2209_holdout",
+		"v": 24079,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
