@@ -12307,15 +12307,15 @@
 	},
 	"6bbe3e2c-510f-4e2b-a368-fcf1cee1423e": {
 		"name": "new_hermes_fcm_team_rollout",
-		"v": 23913,
+		"v": 24092,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "rollout"
 			}
 		]
