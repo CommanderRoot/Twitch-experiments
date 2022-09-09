@@ -12710,39 +12710,39 @@
 	},
 	"6f8613de-6232-4232-af20-bf1b1a692775": {
 		"name": "android_ivs_broadcast_rtmp_stack",
-		"v": 22070,
+		"v": 24083,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 9,
 				"value": "0"
 			},
 			{
-				"weight": 10,
+				"weight": 13,
 				"value": "1"
 			},
 			{
-				"weight": 10,
+				"weight": 13,
 				"value": "2"
 			},
 			{
-				"weight": 10,
+				"weight": 13,
 				"value": "3"
 			},
 			{
-				"weight": 10,
+				"weight": 13,
 				"value": "4"
 			},
 			{
-				"weight": 10,
+				"weight": 13,
 				"value": "5"
 			},
 			{
-				"weight": 10,
+				"weight": 13,
 				"value": "6"
 			},
 			{
-				"weight": 10,
+				"weight": 13,
 				"value": "7"
 			}
 		]
