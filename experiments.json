@@ -26607,7 +26607,7 @@
 	},
 	"ea2c9418-1a27-4ec7-b289-9021ee25776d": {
 		"name": "pogchat_10",
-		"v": 22385,
+		"v": 24091,
 		"t": 3,
 		"groups": [
 			{
@@ -26616,7 +26616,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "Variant"
+				"value": "pogchat_10_below_video_player"
+			},
+			{
+				"weight": 0,
+				"value": "pogchat_10_top_of_chat"
 			}
 		]
 	},
