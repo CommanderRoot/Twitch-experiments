@@ -3665,6 +3665,25 @@
 			}
 		]
 	},
+	"2122aa92-8bd3-4765-bb03-f6f65ad1a189": {
+		"name": "ios_powercheering",
+		"v": 24104,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "phase1"
+			},
+			{
+				"weight": 0,
+				"value": "phase2"
+			}
+		]
+	},
 	"21405ede-ee1c-4690-aeb4-b92000286506": {
 		"name": "dart_apac_tha_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
 		"v": 21486,
