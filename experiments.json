@@ -5214,21 +5214,6 @@
 			}
 		]
 	},
-	"2f98579a-c8f4-4fb7-9a8c-1230e9a27326": {
-		"name": "presence_pubsub_fulton_migration",
-		"v": 23852,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "rollout"
-			}
-		]
-	},
 	"2fbe95f2-1383-4c15-afc7-14e5fcbea844": {
 		"name": "dart_modonboardfollowupd3_vwr_719_awa_cmc_non_mis_email_225_holdout",
 		"v": 21523,
@@ -28351,6 +28336,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"fa38bad3-f9ea-43f9-b2a9-8c51caac3078": {
+		"name": "browser_token_db_migration",
+		"v": 24113,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
 			}
 		]
 	},
