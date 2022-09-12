@@ -25998,15 +25998,15 @@
 	},
 	"e417cd5a-78fd-4d3b-a9e3-b2e77e34c299": {
 		"name": "new_hermes_channels_browser_rollout",
-		"v": 24116,
+		"v": 24118,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "rollout"
 			},
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			}
 		]
