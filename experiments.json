@@ -24024,6 +24024,21 @@
 			}
 		]
 	},
+	"d1bd7f83-2b9f-4980-8ba2-50b683a9aec5": {
+		"name": "android_improved_sub_anniversary",
+		"v": 24137,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_private_callout_dev"
+			}
+		]
+	},
 	"d1c179f0-e917-4eac-9a12-877a1ed93c00": {
 		"name": "dart_fpgo_existing_sub_localized_en_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14712,
@@ -25998,15 +26013,15 @@
 	},
 	"e417cd5a-78fd-4d3b-a9e3-b2e77e34c299": {
 		"name": "new_hermes_channels_browser_rollout",
-		"v": 24129,
+		"v": 24138,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "rollout"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			}
 		]
