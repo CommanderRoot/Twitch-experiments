@@ -25309,15 +25309,15 @@
 	},
 	"dd5d0e8a-610b-47dd-8098-63d9a51b576b": {
 		"name": "new_hermes_channels_apns_rollout",
-		"v": 21751,
+		"v": 24141,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "rollout"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			}
 		]
@@ -26013,15 +26013,15 @@
 	},
 	"e417cd5a-78fd-4d3b-a9e3-b2e77e34c299": {
 		"name": "new_hermes_channels_browser_rollout",
-		"v": 24138,
+		"v": 24140,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "rollout"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			}
 		]
