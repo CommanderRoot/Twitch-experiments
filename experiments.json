@@ -3667,20 +3667,20 @@
 	},
 	"2122aa92-8bd3-4765-bb03-f6f65ad1a189": {
 		"name": "ios_powercheering",
-		"v": 24104,
+		"v": 24108,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "phase1"
+				"weight": 100,
+				"value": "active_phase1"
 			},
 			{
 				"weight": 0,
-				"value": "phase2"
+				"value": "active_phase2"
 			}
 		]
 	},
