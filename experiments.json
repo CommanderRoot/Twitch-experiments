@@ -28578,7 +28578,7 @@
 	},
 	"fb7e3eb2-e3c4-4998-b26f-6673bcb446fb": {
 		"name": "android_player_thread",
-		"v": 24161,
+		"v": 24164,
 		"t": 1,
 		"groups": [
 			{
@@ -28586,11 +28586,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_13.8_shared"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_13.8_per_instance"
 			}
 		]
