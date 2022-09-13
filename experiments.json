@@ -7112,6 +7112,21 @@
 			}
 		]
 	},
+	"40916068-0408-4273-95c5-87c404c00326": {
+		"name": "dart_onsite_new_hermes_apns_rollout",
+		"v": 24167,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"409d6b75-c64e-449c-b6ec-130118312d3f": {
 		"name": "ios_raids",
 		"v": 2391,
