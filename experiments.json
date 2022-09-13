@@ -1305,6 +1305,21 @@
 			}
 		]
 	},
+	"0b3a018e-b654-43c3-bcd5-809c0782a7d1": {
+		"name": "ios_custom_gift_quantity",
+		"v": 24155,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"0b7eb038-a449-45c6-bdf8-26b456f399de": {
 		"name": "dart_apac_aus_ausgiftcardprimeday_ctr_0_dav_trn_wch_gmg_email_2206_holdout",
 		"v": 21674,
@@ -13966,8 +13981,8 @@
 		]
 	},
 	"78b31012-98e1-4245-8b0f-f4009102391a": {
-		"name": "ios_custom_gift_quantity",
-		"v": 24099,
+		"name": "ios_custom_gift_quantity_device_id",
+		"v": 24154,
 		"t": 1,
 		"groups": [
 			{
