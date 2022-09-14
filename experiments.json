@@ -28440,15 +28440,15 @@
 	},
 	"fa38bad3-f9ea-43f9-b2a9-8c51caac3078": {
 		"name": "browser_token_db_migration",
-		"v": 24181,
+		"v": 24182,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "rollout"
 			}
 		]
