@@ -6231,6 +6231,21 @@
 			}
 		]
 	},
+	"379f8b92-1424-428c-a635-cb6625c35bb3": {
+		"name": "android_cheering_2_hype_train",
+		"v": 24208,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"37ad5d63-0fff-42e7-8c74-6ee30b3d6900": {
 		"name": "dart_celine_catapush_msg_3_holdout",
 		"v": 8816,
@@ -23901,6 +23916,21 @@
 			}
 		]
 	},
+	"cf71801f-2c13-44c5-9563-455ad9b2ba95": {
+		"name": "android_cheering_2_format_offer_currency",
+		"v": 24210,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"cf88d09d-53c6-4054-992c-f77e7035685a": {
 		"name": "android_lower_bits_sku_50",
 		"v": 16016,
@@ -25541,8 +25571,8 @@
 		]
 	},
 	"de5e8f11-76aa-4124-9dbe-db0de4b165db": {
-		"name": "android_cheering_2.0",
-		"v": 21721,
+		"name": "android_cheering_2",
+		"v": 24207,
 		"t": 1,
 		"groups": [
 			{
