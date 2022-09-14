@@ -12342,15 +12342,15 @@
 	},
 	"6bbe3e2c-510f-4e2b-a368-fcf1cee1423e": {
 		"name": "new_hermes_fcm_team_rollout",
-		"v": 24092,
+		"v": 24178,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "rollout"
 			}
 		]
@@ -25393,15 +25393,15 @@
 	},
 	"dd5d0e8a-610b-47dd-8098-63d9a51b576b": {
 		"name": "new_hermes_channels_apns_rollout",
-		"v": 24166,
+		"v": 24177,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "rollout"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			}
 		]
