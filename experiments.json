@@ -25378,15 +25378,15 @@
 	},
 	"dd5d0e8a-610b-47dd-8098-63d9a51b576b": {
 		"name": "new_hermes_channels_apns_rollout",
-		"v": 24190,
+		"v": 24192,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "rollout"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			}
 		]
