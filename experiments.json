@@ -7714,6 +7714,21 @@
 			}
 		]
 	},
+	"450f8890-179a-49b7-88e3-5fa2c571c3f2": {
+		"name": "android_ads_sponsored_streams",
+		"v": 24206,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 1,
+				"value": "control"
+			}
+		]
+	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
 		"v": 24067,
