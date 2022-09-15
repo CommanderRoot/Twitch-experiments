@@ -10561,6 +10561,25 @@
 			}
 		]
 	},
+	"5d31bc8f-3a26-4add-84cc-14d78b25ab90": {
+		"name": "dart_bounce_complaint_migration",
+		"v": 24253,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "pushy"
+			},
+			{
+				"weight": 0,
+				"value": "both"
+			},
+			{
+				"weight": 0,
+				"value": "hermes"
+			}
+		]
+	},
 	"5d404303-56fc-45f8-afc3-d07fe9a3a6d3": {
 		"name": "android_userlist_v2",
 		"v": 24126,
@@ -19762,25 +19781,6 @@
 			{
 				"weight": 0,
 				"value": "active_development"
-			}
-		]
-	},
-	"aad8711c-a215-4d57-af0a-ddf6490982ee": {
-		"name": "notifications_dart_bounce_complaint_migration",
-		"v": 24230,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "pushy"
-			},
-			{
-				"weight": 0,
-				"value": "both"
-			},
-			{
-				"weight": 0,
-				"value": "hermes"
 			}
 		]
 	},
