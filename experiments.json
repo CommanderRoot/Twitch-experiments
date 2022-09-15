@@ -13298,6 +13298,21 @@
 			}
 		]
 	},
+	"72af947c-eed4-4c68-9ccc-adac0c4ac632": {
+		"name": "dart_tnflaunch_vwr_799_dav_cmc_lrn_wch_e_229_holdout",
+		"v": 24239,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"72c14aa9-d78d-4095-8f27-d97b9aac4233": {
 		"name": "TWILIGHT_SUB_CHECKOUT_POPUP",
 		"v": 3022,
@@ -17205,6 +17220,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"9508ffc9-1f43-493e-8575-31c157f70af0": {
+		"name": "dart_tnflaunch_vwr_799_dav_cmc_lrn_wch_e_229_onsite",
+		"v": 24240,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
