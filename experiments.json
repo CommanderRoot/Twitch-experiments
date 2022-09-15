@@ -7133,15 +7133,15 @@
 	},
 	"40916068-0408-4273-95c5-87c404c00326": {
 		"name": "dart_onsite_new_hermes_apns_rollout",
-		"v": 24228,
+		"v": 24232,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "rollout"
 			}
 		]
