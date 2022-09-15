@@ -2956,15 +2956,15 @@
 	},
 	"19d32f0d-df06-474e-a9a3-ba0ee1e20df6": {
 		"name": "android_send_cheer_gql_migration",
-		"v": 24219,
+		"v": 24234,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_13.5"
 			}
 		]
