@@ -2969,6 +2969,21 @@
 			}
 		]
 	},
+	"19e2bcfb-e70b-4ed3-ae06-2898f35dbdeb": {
+		"name": "dart_apac_kor_goosegoose_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
+		"v": 24259,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"19f5492f-19f1-430c-8f22-1db077308950": {
 		"name": "ios_broadcast_abs",
 		"v": 3231,
@@ -7384,6 +7399,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"424283f4-cc50-4935-8e99-32ab00ff3bf3": {
+		"name": "dart_apac_kor_goosegoose_vwr_0_dav_trn_wch_gmg_email_2209_holdout",
+		"v": 24258,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
