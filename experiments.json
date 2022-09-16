@@ -312,7 +312,7 @@
 	},
 	"0237a448-8c0f-4452-b81b-cf9660694dbe": {
 		"name": "android_clips_manager",
-		"v": 24046,
+		"v": 24279,
 		"t": 2,
 		"groups": [
 			{
@@ -321,7 +321,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_13.8"
+				"value": "active_13.9"
 			}
 		]
 	},
@@ -9872,21 +9872,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"57a32eab-f8ed-4b96-af9e-0a8bd468ce81": {
-		"name": "android_creator_clips",
-		"v": 24045,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_13.8"
 			}
 		]
 	},
