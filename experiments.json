@@ -7780,15 +7780,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 24288,
+		"v": 24291,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 50,
 				"value": "promotions_enabled"
 			}
 		]
@@ -16215,15 +16215,15 @@
 	},
 	"8cde72ed-16f2-4561-ab1a-700541eb9988": {
 		"name": "android_creator_pinned_chat",
-		"v": 23874,
+		"v": 24294,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_13.7"
 			}
 		]
