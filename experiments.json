@@ -5103,15 +5103,15 @@
 	},
 	"2def6419-eaa1-467f-bcc6-052498371c3f": {
 		"name": "ios_pinnedchat",
-		"v": 23863,
+		"v": 24290,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
