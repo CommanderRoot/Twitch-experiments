@@ -10580,21 +10580,6 @@
 			}
 		]
 	},
-	"5d4f55a1-38ce-4895-ac8a-c4f504bf607f": {
-		"name": "dart_new_d5_top_games_emea_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 16760,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"5d9b3dd5-4160-42d4-b651-76069aaa7dd8": {
 		"name": "dart_apac_aus_ausgiftcardprimeday_ctr_0_dav_trn_wch_gmg_email_2206_r1_holdout",
 		"v": 21864,
@@ -14438,21 +14423,6 @@
 			{
 				"weight": 100,
 				"value": "graphql"
-			}
-		]
-	},
-	"7b8ab3e1-c343-4478-abfd-8fb79bc7b122": {
-		"name": "dart_new_d5_top_games_latam_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 14432,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -19100,21 +19070,6 @@
 			},
 			{
 				"weight": 99,
-				"value": "allowed"
-			}
-		]
-	},
-	"a4fe76cb-66cd-485c-920b-5d4f987734f6": {
-		"name": "dart_new_d5_top_games_apac_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 14434,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
 				"value": "allowed"
 			}
 		]
