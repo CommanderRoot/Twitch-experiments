@@ -9226,15 +9226,15 @@
 	},
 	"516a9c35-5eba-4e4a-930a-ed2112741780": {
 		"name": "android_leaderboards_V4",
-		"v": 24212,
+		"v": 24345,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_13.8"
 			}
 		]
