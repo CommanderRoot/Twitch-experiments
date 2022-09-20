@@ -5218,6 +5218,21 @@
 			}
 		]
 	},
+	"2f713d7c-4b84-435c-8713-a8b9a00099b8": {
+		"name": "dart_welcomeemail1all_vwr_571_dav_cmc_wch_mis_email_223_holdout",
+		"v": 24340,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2fbe95f2-1383-4c15-afc7-14e5fcbea844": {
 		"name": "dart_modonboardfollowupd3_vwr_719_awa_cmc_non_mis_email_225_holdout",
 		"v": 21523,
@@ -12925,6 +12940,33 @@
 			}
 		]
 	},
+	"71088472-00bc-4ec4-a6ee-c4b81944cfd9": {
+		"name": "dart_welcomeemail1all_vwr_571_dav_cmc_wch_mis_email_223_email",
+		"v": 24341,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
+			}
+		]
+	},
 	"711aaaf6-61c0-4cc4-9469-0dfc9908785a": {
 		"name": "VP_QOS_TEST",
 		"v": 819,
@@ -17883,7 +17925,7 @@
 	},
 	"99bebb8d-5edd-4b66-a9a3-7b4c45afb2bb": {
 		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_email",
-		"v": 22229,
+		"v": 24337,
 		"t": 2,
 		"groups": [
 			{
@@ -22955,7 +22997,7 @@
 	},
 	"c8813b54-002e-4866-a8d6-296d04aa67cb": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_holdout",
-		"v": 22226,
+		"v": 24338,
 		"t": 2,
 		"groups": [
 			{
@@ -27021,7 +27063,7 @@
 	},
 	"ed053da0-4adf-4ab7-80c2-8b321425a96b": {
 		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 22228,
+		"v": 24336,
 		"t": 2,
 		"groups": [
 			{
@@ -27609,7 +27651,7 @@
 	},
 	"f18c55b9-6290-40a1-999d-b29b55d2f6df": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_email",
-		"v": 22227,
+		"v": 24339,
 		"t": 2,
 		"groups": [
 			{
