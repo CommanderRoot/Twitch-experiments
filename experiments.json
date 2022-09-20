@@ -1016,11 +1016,11 @@
 	},
 	"093679b6-f8ba-4f79-af5c-2499183341f6": {
 		"name": "eVPR_threshold",
-		"v": 23890,
+		"v": 24349,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "control"
 			},
 			{
@@ -1048,8 +1048,12 @@
 				"value": "57"
 			},
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "170"
+			},
+			{
+				"weight": 10,
+				"value": "100"
 			}
 		]
 	},
@@ -20836,15 +20840,15 @@
 	},
 	"b286104d-d4e4-477a-94a6-af238c4fcdbd": {
 		"name": "ios_password_checker",
-		"v": 24176,
+		"v": 24348,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_13.9"
 			}
 		]
