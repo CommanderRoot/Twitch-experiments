@@ -25507,16 +25507,16 @@
 	},
 	"dde9c514-e367-4642-91f2-1e58a75b4a36": {
 		"name": "android_mg_irl_broadcast_migration",
-		"v": 24097,
+		"v": 24389,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_13.2"
 			}
 		]
