@@ -16805,6 +16805,21 @@
 			}
 		]
 	},
+	"91c221c4-1f61-445d-b50d-10b8e2798295": {
+		"name": "android_cheering_user_notice",
+		"v": 24380,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_13.9"
+			}
+		]
+	},
 	"91c2ab2e-8c1c-4b86-a49c-b30197a599b4": {
 		"name": "android_prime_gaming_activation_tier_1_regions",
 		"v": 18840,
@@ -21092,6 +21107,21 @@
 			{
 				"weight": 0,
 				"value": "surestream_disabled"
+			}
+		]
+	},
+	"b4052b26-2f67-4ab5-80aa-3796540967cc": {
+		"name": "android_charity_user_notice",
+		"v": 24379,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_13.9"
 			}
 		]
 	},
