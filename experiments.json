@@ -10605,7 +10605,7 @@
 	},
 	"5d31bc8f-3a26-4add-84cc-14d78b25ab90": {
 		"name": "dart_bounce_complaint_migration",
-		"v": 24403,
+		"v": 24404,
 		"t": 2,
 		"groups": [
 			{
@@ -10613,11 +10613,11 @@
 				"value": "pushy"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "both"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "hermes"
 			}
 		]
