@@ -1505,6 +1505,21 @@
 			}
 		]
 	},
+	"0cb28c4f-16fe-4e4b-9842-2d16c99bb279": {
+		"name": "dart_tnflweek3_vwr_799_dav_cmc_lrn_wch_onsite_229_holdout",
+		"v": 24417,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0cc08918-eff5-49d3-92cf-efd8999a4477": {
 		"name": "ios_community_points_alpha",
 		"v": 6636,
