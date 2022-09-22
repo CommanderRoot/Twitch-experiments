@@ -1993,15 +1993,15 @@
 	},
 	"1195827e-ced2-4162-aa4e-736ae6550134": {
 		"name": "ios_charity_user_notices",
-		"v": 24395,
+		"v": 24411,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
