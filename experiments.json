@@ -26378,6 +26378,21 @@
 			}
 		]
 	},
+	"e559d41c-a6cf-498d-9a82-66cdae6ae81e": {
+		"name": "dart_merchaugptcams_vwr_784_cmm_cmc_buy_mis_onsite_229_holdout",
+		"v": 24429,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e599eeb2-9ff5-49bc-ae1d-1dae8445452e": {
 		"name": "dart_day90frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_holdout",
 		"v": 22351,
