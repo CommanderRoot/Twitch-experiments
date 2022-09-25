@@ -1016,11 +1016,11 @@
 	},
 	"093679b6-f8ba-4f79-af5c-2499183341f6": {
 		"name": "eVPR_threshold",
-		"v": 24437,
+		"v": 24439,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 40,
 				"value": "control"
 			},
 			{
@@ -1032,15 +1032,15 @@
 				"value": "66"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "45"
 			},
 			{
-				"weight": 20,
+				"weight": 15,
 				"value": "35"
 			},
 			{
-				"weight": 20,
+				"weight": 35,
 				"value": "27"
 			},
 			{
