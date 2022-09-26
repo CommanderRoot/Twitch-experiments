@@ -22625,15 +22625,15 @@
 	},
 	"c4b044b7-d830-420f-9ce4-1d4fc80cf162": {
 		"name": "new_hermes_channels_fcm_rollout",
-		"v": 24452,
+		"v": 24453,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "rollout"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			}
 		]
