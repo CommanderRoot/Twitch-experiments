@@ -9110,15 +9110,15 @@
 	},
 	"502fe8f0-6858-465e-83b4-8f58f538528a": {
 		"name": "hype_train_all_time_high",
-		"v": 21988,
+		"v": 24445,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "hype_train_all_time_high_off"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "hype_train_all_time_high_on"
 			}
 		]
