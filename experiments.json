@@ -22083,15 +22083,15 @@
 	},
 	"bf7cb223-45bd-4d43-9798-eb4a939299f7": {
 		"name": "notifications_reminder_streamup_handler",
-		"v": 24460,
+		"v": 24470,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "rollout"
 			}
 		]
