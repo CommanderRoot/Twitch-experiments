@@ -5514,11 +5514,11 @@
 	},
 	"31953014-3979-47f0-b9bb-514dd139a377": {
 		"name": "android_mobile_shield_login_signup",
-		"v": 24430,
+		"v": 24455,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -5526,7 +5526,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "active_13.8"
 			}
 		]
@@ -26078,15 +26078,15 @@
 	},
 	"e2fc6d90-9999-4a38-895e-16e44d67a8a6": {
 		"name": "ios_mobile_shield_login_signup",
-		"v": 24431,
+		"v": 24456,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "active"
 			}
 		]
