@@ -22098,15 +22098,15 @@
 	},
 	"bf7cb223-45bd-4d43-9798-eb4a939299f7": {
 		"name": "notifications_reminder_streamup_handler",
-		"v": 24196,
+		"v": 24460,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "rollout"
 			}
 		]
@@ -22625,15 +22625,15 @@
 	},
 	"c4b044b7-d830-420f-9ce4-1d4fc80cf162": {
 		"name": "new_hermes_channels_fcm_rollout",
-		"v": 24458,
+		"v": 24461,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "rollout"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			}
 		]
