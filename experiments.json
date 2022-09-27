@@ -22062,6 +22062,21 @@
 			}
 		]
 	},
+	"bd983a56-45fe-4a01-9bbc-7a13044d0243": {
+		"name": "android_back_press_manager",
+		"v": 24492,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.0"
+			}
+		]
+	},
 	"bda2ecdf-99a8-4f06-a74b-b5f849649643": {
 		"name": "dart_offers_categoryholdout",
 		"v": 19060,
