@@ -10639,15 +10639,15 @@
 	},
 	"5d404303-56fc-45f8-afc3-d07fe9a3a6d3": {
 		"name": "android_userlist_v2",
-		"v": 24368,
+		"v": 24501,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_13.9"
 			}
 		]
