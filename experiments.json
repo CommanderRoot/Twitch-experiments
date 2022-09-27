@@ -22246,6 +22246,21 @@
 			}
 		]
 	},
+	"c0345115-070a-4a30-8e12-aef761647c54": {
+		"name": "user_tokens_db_migration",
+		"v": 24493,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"c0b02695-c605-44fb-a84d-fe87f999e81b": {
 		"name": "dart_wwfestvalorant_vwrnrp348_5mp_cmc_watchnow_event_gaming_email_2010_holdout",
 		"v": 13125,
