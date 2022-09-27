@@ -27794,7 +27794,7 @@
 	},
 	"f0d474da-ce17-4d1e-a54f-f6e38755e3ce": {
 		"name": "ios_segmented_signup",
-		"v": 24050,
+		"v": 24496,
 		"t": 1,
 		"groups": [
 			{
@@ -27803,7 +27803,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "variant_1"
+			},
+			{
+				"weight": 0,
+				"value": "variant_2"
 			}
 		]
 	},
