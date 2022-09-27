@@ -419,6 +419,21 @@
 			}
 		]
 	},
+	"03ec7d18-84a2-4d3d-8d6c-1b0cb6319d43": {
+		"name": "dart_apac_twn_backtoschool_vwr_0_dav_trn_wch_gmg_email_2209_holdout",
+		"v": 24474,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"042ce8b9-aca4-47bb-a7e5-eea3a5a214a4": {
 		"name": "android_core_player_synchronized_release",
 		"v": 23871,
@@ -5140,6 +5155,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"2d4ddb5e-e262-4a8e-b973-9f8d665a6103": {
+		"name": "dart_apac_twn_backtoschool_vwr_0_dav_trn_wch_gmg_push_2210_v3_holdout",
+		"v": 24477,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -11033,6 +11063,21 @@
 			}
 		]
 	},
+	"5fa0fca5-ea7d-45cf-aa2d-60f59081fe5d": {
+		"name": "dart_apac_twn_backtoschool_vwr_0_dav_trn_wch_gmg_push_2210_v5_holdout",
+		"v": 24479,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5fbb67a0-b4ff-4775-b836-e9a348a87481": {
 		"name": "Network Profile Collection",
 		"v": 30,
@@ -11351,6 +11396,21 @@
 			{
 				"weight": 100,
 				"value": "month"
+			}
+		]
+	},
+	"6241b95b-3a5c-4870-8855-bfd7c9a06d8c": {
+		"name": "dart_apac_twn_backtoschool_vwr_0_dav_trn_wch_gmg_push_2209_holdout",
+		"v": 24475,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -20003,6 +20063,21 @@
 			}
 		]
 	},
+	"ac78de57-c322-4aeb-820b-047a30846235": {
+		"name": "dart_apac_twn_backtoschool_vwr_0_dav_trn_wch_gmg_push_2209_v2_holdout",
+		"v": 24476,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ace3cec2-d08e-4d58-81ca-a6f103f6ccb3": {
 		"name": "ios_game_broadcasting_global",
 		"v": 12749,
@@ -21939,6 +22014,21 @@
 			{
 				"weight": 0,
 				"value": "disabled"
+			}
+		]
+	},
+	"bd3baaf5-718c-4ac9-8143-e8be433007a2": {
+		"name": "dart_apac_twn_backtoschool_vwr_0_dav_trn_wch_gmg_push_2210_v4_holdout",
+		"v": 24478,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
