@@ -6077,6 +6077,21 @@
 			}
 		]
 	},
+	"35ba7a58-39b6-4371-ae8e-0a4aad366625": {
+		"name": "dart_aip55partnerreminder0923_ctr_722_awa_cmc_lrn_mis_emailonsite_229_holdout",
+		"v": 24504,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"35ce0677-ffcb-4395-b824-3e854af7b74e": {
 		"name": "android_auto_mod_cheering",
 		"v": 9137,
