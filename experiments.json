@@ -19877,7 +19877,7 @@
 	},
 	"ab1af901-9a20-4274-aeca-0d1adc8c4bd7": {
 		"name": "ios_non_fatal_sampling",
-		"v": 12371,
+		"v": 24518,
 		"t": 1,
 		"groups": [
 			{
@@ -19885,11 +19885,11 @@
 				"value": "disabled"
 			},
 			{
-				"weight": 999,
+				"weight": 1000,
 				"value": "active_spade"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_spade_sentry"
 			}
 		]
@@ -22188,15 +22188,15 @@
 	},
 	"bf7cb223-45bd-4d43-9798-eb4a939299f7": {
 		"name": "notifications_reminder_streamup_handler",
-		"v": 24514,
+		"v": 24517,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "rollout"
 			}
 		]
