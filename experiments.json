@@ -23086,6 +23086,21 @@
 			}
 		]
 	},
+	"c743de66-30c7-40a0-b4a7-777266e67b4d": {
+		"name": "dart_chathighlights_ctr_783_awa_cmc_lrn_mis_email_229_holdout",
+		"v": 24525,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c7450480-3f58-4aa5-b220-36181f444803": {
 		"name": "dart_recurringsubsnopricechange_ctr_519_awa_trn_lrn_mis_email_2111_holdout",
 		"v": 17767,
