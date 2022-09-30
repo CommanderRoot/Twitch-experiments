@@ -26211,6 +26211,21 @@
 			}
 		]
 	},
+	"e29f47a5-10c8-47b3-9046-8237a31c9f25": {
+		"name": "dart_bhm_vwr_834_dav_cmc_lrn_mis_email_2210_holdout",
+		"v": 24538,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e2b1eebd-2c78-4798-885b-d884123796af": {
 		"name": "vod_cloudfront_shift",
 		"v": 5126,
