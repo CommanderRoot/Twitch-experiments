@@ -18590,21 +18590,6 @@
 			}
 		]
 	},
-	"9d6c1a2b-101d-4f09-97cc-3d7b0d64b653": {
-		"name": "android_player_adaptive_quality_switch",
-		"v": 24313,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"9d7b5e6a-4463-40a8-9594-efb482fac441": {
 		"name": "dart_new_client_verification_email",
 		"v": 15722,
