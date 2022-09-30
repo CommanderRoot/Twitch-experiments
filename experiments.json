@@ -10788,6 +10788,21 @@
 			}
 		]
 	},
+	"5ddadabf-8872-4c1d-8a1a-2901091293db": {
+		"name": "dart_fifa23_vwr_822_dav_cmc_wch_gmg_email_2209_holdout",
+		"v": 24540,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5ddcbcf0-c14c-4c89-b9ef-e0f89454f989": {
 		"name": "dart_apac_anz_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_1_holdout",
 		"v": 21488,
@@ -18730,6 +18745,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"9f549e6a-0e8d-4511-9d3e-6fc2a4994dd7": {
+		"name": "dart_fifa23_vwr_822_dav_cmc_wch_gmg_email_2209_email",
+		"v": 24541,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
