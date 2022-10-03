@@ -22319,15 +22319,15 @@
 	},
 	"c0345115-070a-4a30-8e12-aef761647c54": {
 		"name": "user_tokens_db_migration",
-		"v": 24493,
+		"v": 24585,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "rollout"
 			}
 		]
