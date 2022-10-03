@@ -26735,21 +26735,6 @@
 			}
 		]
 	},
-	"e636f8a9-c23e-4aef-9191-5a9f5fb71566": {
-		"name": "dart_phonenumbersignupd1_vwr_1234_sgn_cmc_drt_mis_onsite_2205_holdout",
-		"v": 21309,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"e637a011-c013-4520-9914-a50baed9b6b7": {
 		"name": "android_player_set_max_resolution",
 		"v": 19326,
@@ -28420,21 +28405,6 @@
 	"f67ec4fe-7530-41ca-8914-ae3f0b03449f": {
 		"name": "dart_apac_tha_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22099,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"f69803a0-2e3e-4ace-a51b-6732030cbc4e": {
-		"name": "dart_phonenumbersignupd3_vwr_1234_sgn_cmc_drt_mis_onsite_2205_holdout",
-		"v": 21905,
 		"t": 2,
 		"groups": [
 			{
