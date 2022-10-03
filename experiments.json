@@ -2676,11 +2676,11 @@
 	},
 	"1664e39d-e623-4f4c-8032-f80e6f441b20": {
 		"name": "ios_community_shoutouts_rollout",
-		"v": 24362,
+		"v": 24574,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -2692,7 +2692,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v13_9"
 			}
 		]
