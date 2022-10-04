@@ -2676,11 +2676,11 @@
 	},
 	"1664e39d-e623-4f4c-8032-f80e6f441b20": {
 		"name": "ios_community_shoutouts_rollout",
-		"v": 24574,
+		"v": 24604,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -2692,7 +2692,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v13_9"
 			}
 		]
@@ -19214,11 +19214,11 @@
 	},
 	"a475116a-193e-4e6f-9d60-8b7f12765398": {
 		"name": "android_community_shoutouts_rollout",
-		"v": 24575,
+		"v": 24603,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -19230,7 +19230,7 @@
 				"value": "active_13.8"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_13.9"
 			}
 		]
