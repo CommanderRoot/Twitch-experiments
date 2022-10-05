@@ -10007,6 +10007,25 @@
 			}
 		]
 	},
+	"580daffa-c5ba-476d-b3b3-6c366c5bc070": {
+		"name": "android_separate_player_thread",
+		"v": 24621,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.0_shared"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.0_per_instance"
+			}
+		]
+	},
 	"580ed101-5afc-4228-bf77-e831860b6801": {
 		"name": "ios_country_code_signup",
 		"v": 13906,
