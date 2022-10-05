@@ -385,21 +385,6 @@
 			}
 		]
 	},
-	"038877f5-6909-487f-8000-123d3d2511ba": {
-		"name": "dart_days330reactivationemail1_vwr_786_dav_cmc_wch_mis_email_2209_holdout",
-		"v": 24569,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"03e27667-d926-47dc-ab02-5435a6e16205": {
 		"name": "dart_fpso_prime_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15564,
@@ -3279,21 +3264,6 @@
 			{
 				"weight": 0,
 				"value": "enabled"
-			}
-		]
-	},
-	"1b98acc6-2bd6-41cf-b818-c9ca944563ff": {
-		"name": "dart_reactivationemail2_vwr_787_dav_cmc_wch_mis_email_2209_holdout",
-		"v": 24568,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -15141,21 +15111,6 @@
 	"7ed8cc98-8681-41bc-be78-76479d360083": {
 		"name": "dart_apac_kor_creativeweek_vwr_0_dav_trn_wch_gmg_email_2208_holdout",
 		"v": 22643,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"7f2c8255-acc2-443b-bde1-a2737b0e6422": {
-		"name": "dart_reactivationemail1_vwr_786_dav_cmc_wch_mis_email_2209_holdout",
-		"v": 24570,
 		"t": 2,
 		"groups": [
 			{
