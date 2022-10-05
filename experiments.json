@@ -27547,6 +27547,21 @@
 			}
 		]
 	},
+	"edcf30a5-e876-488e-9ff1-64873810acb8": {
+		"name": "ios_in_app_purchase",
+		"v": 24649,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "disabled"
+			},
+			{
+				"weight": 100,
+				"value": "enabled"
+			}
+		]
+	},
 	"edd10ba0-402e-4ae3-86c5-daaa720f0a72": {
 		"name": "pd_whispdet_aa_testing",
 		"v": 14923,
