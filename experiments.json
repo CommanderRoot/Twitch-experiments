@@ -5335,21 +5335,6 @@
 			}
 		]
 	},
-	"2fbe95f2-1383-4c15-afc7-14e5fcbea844": {
-		"name": "dart_modonboardfollowupd3_vwr_719_awa_cmc_non_mis_email_225_holdout",
-		"v": 21523,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"2fc35cab-1706-4ef5-8617-fef6a1a8e1fe": {
 		"name": "ios_follower_emotes",
 		"v": 19409,
@@ -21335,21 +21320,6 @@
 			}
 		]
 	},
-	"b45dcb9f-c29b-4a42-b1ed-5ebcec9aa43f": {
-		"name": "dart_modonboard_vwr_719_awa_cmc_non_mis_email_225_holdout",
-		"v": 21521,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"b47cbab0-7457-4990-aee9-d7ad657f9da7": {
 		"name": "dart_ccar_holdout",
 		"v": 20153,
@@ -24015,21 +23985,6 @@
 			}
 		]
 	},
-	"ce4e976d-999a-4e8d-bb95-163f4c76476f": {
-		"name": "dart_modonboardfollowupd7_vwr_719_awa_cmc_non_mis_email_225_holdout",
-		"v": 21524,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"ce62423f-4298-4448-bd1c-5421d96f65d6": {
 		"name": "ios_dashboard",
 		"v": 2544,
@@ -24106,21 +24061,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"cf0382dc-3669-401c-8222-aa8d4ebd6028": {
-		"name": "dart_modonboard_vwr_719_awa_cmc_non_mis_email_225_email",
-		"v": 21522,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
