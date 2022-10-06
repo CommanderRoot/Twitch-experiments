@@ -82,6 +82,21 @@
 			}
 		]
 	},
+	"00dc99a1-4175-4045-bda9-91a726f824e0": {
+		"name": "dart_apac_php_globetwitchconmaggiekarp3_vwr_0_dav_trn_wch_gmg_push_2210_holdout",
+		"v": 24667,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"00e1034d-ee3c-4227-8e33-569445f0bfe2": {
 		"name": "android_artificial_latency_vod",
 		"v": 16887,
@@ -2053,7 +2068,7 @@
 	},
 	"11ab0881-f7f4-4c16-94cd-b313dd29e611": {
 		"name": "dart_apac_php_globetwitchconregsanchez3_vwr_0_dav_trn_wch_gmg_onsite_2210_holdout",
-		"v": 24658,
+		"v": 24662,
 		"t": 2,
 		"groups": [
 			{
@@ -13102,6 +13117,21 @@
 			}
 		]
 	},
+	"70e20eae-6f78-424a-a9fd-f242104228df": {
+		"name": "dart_apac_php_globetwitchconregsanchez1_vwr_0_dav_trn_wch_gmg_push_2210_holdout",
+		"v": 24664,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"71088472-00bc-4ec4-a6ee-c4b81944cfd9": {
 		"name": "dart_welcomeemail1all_vwr_571_dav_cmc_wch_mis_email_223_email",
 		"v": 24341,
@@ -15748,6 +15778,21 @@
 			{
 				"weight": 1,
 				"value": "new_algorithm"
+			}
+		]
+	},
+	"85653fb2-a83f-46d4-87d6-550e02bbd6b5": {
+		"name": "dart_apac_php_globetwitchconmaggiekarp2_vwr_0_dav_trn_wch_gmg_push_2210_holdout",
+		"v": 24666,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -21803,6 +21848,21 @@
 			}
 		]
 	},
+	"ba1ca822-6fb8-4d93-a9da-73c236328e21": {
+		"name": "dart_apac_jpn_streetfighter6_vwr_0_dav_trn_wch_gmg_push_2210_holdout",
+		"v": 24668,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ba438689-4e40-47fa-99e7-4bbee13c2f84": {
 		"name": "vaes_rollout_FR",
 		"v": 7684,
@@ -25240,6 +25300,21 @@
 			{
 				"weight": 50,
 				"value": "experiment"
+			}
+		]
+	},
+	"d963509b-56bc-48a3-8386-248636f9504d": {
+		"name": "dart_apac_php_globetwitchconmaggiekarp1_vwr_0_dav_trn_wch_gmg_push_2210_holdout",
+		"v": 24665,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -29393,6 +29468,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"fdff5b73-12d8-41e7-99db-9ef1e5a8dc31": {
+		"name": "dart_apac_php_globetwitchconregsanchez2_vwr_0_dav_trn_wch_gmg_push_2210_holdout",
+		"v": 24663,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
