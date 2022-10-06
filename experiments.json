@@ -2051,6 +2051,21 @@
 			}
 		]
 	},
+	"11ab0881-f7f4-4c16-94cd-b313dd29e611": {
+		"name": "dart_apac_php_globetwitchconregsanchez3_vwr_0_dav_trn_wch_gmg_onsite_2210_holdout",
+		"v": 24658,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"11b478c1-c91e-4daf-ab0f-d9865829407c": {
 		"name": "dart_fallemotemore_ctr_awa_trn_non_mis_emailonsite_2111_holdout",
 		"v": 17898,
