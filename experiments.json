@@ -7854,6 +7854,21 @@
 			}
 		]
 	},
+	"44882fd5-48c9-473b-9a7e-a87c68ca49b5": {
+		"name": "dart_apac_twn_petsnanimal_vwr_0_dav_trn_wch_gmg_onsite_2210_holdout",
+		"v": 24695,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"44895496-acba-4992-b3d9-9e29964ed6bb": {
 		"name": "dart_pride_spotlighten_vwr_737_dav_cmc_wch_mis_email_2206_holdout",
 		"v": 21650,
@@ -25941,6 +25956,21 @@
 	"de1c5f3d-3a5f-425b-9fa5-ed357c258e41": {
 		"name": "dart_apac_anz_thrashtalk_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22038,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"de1eeee5-e763-44a4-99e2-dd3e0f7b2a4c": {
+		"name": "dart_apac_twn_petsnanimal_vwr_0_dav_trn_wch_gmg_email_2210_holdout",
+		"v": 24694,
 		"t": 2,
 		"groups": [
 			{
