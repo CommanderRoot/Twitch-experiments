@@ -29237,7 +29237,7 @@
 	},
 	"fba9e195-1661-42c2-85f5-64320965273e": {
 		"name": "subs_pif",
-		"v": 24708,
+		"v": 24711,
 		"t": 2,
 		"s": 2,
 		"groups": [
@@ -29246,11 +29246,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "gift_first"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "thank_first"
 			},
 			{
