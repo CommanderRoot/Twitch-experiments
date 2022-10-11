@@ -5308,6 +5308,21 @@
 			}
 		]
 	},
+	"2e7d03f8-304c-487c-8301-fd4e4e928b9d": {
+		"name": "ios_multi_month_subscriptions",
+		"v": 24710,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"2e9849ad-346e-4b74-89be-569661d102e3": {
 		"name": "android_subscriber_badge",
 		"v": 23781,
@@ -6064,15 +6079,15 @@
 	},
 	"353bb4a0-566d-4a2a-a231-fc0e7e8040ad": {
 		"name": "android_irl_revamp",
-		"v": 24648,
+		"v": 24709,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_14.0"
 			}
 		]
