@@ -19368,15 +19368,15 @@
 	},
 	"a424f101-342c-42f0-a12f-a71e5baf0cad": {
 		"name": "android_leaderboards_webview",
-		"v": 24738,
+		"v": 24744,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_13.9"
 			}
 		]
