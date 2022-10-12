@@ -2878,6 +2878,21 @@
 			}
 		]
 	},
+	"178a1589-be5e-4989-b286-a582ca77feff": {
+		"name": "dart_survey_tcsd_partner_holdout",
+		"v": 24749,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"17b33c41-5bf3-40b7-8fc0-ea450d797b0b": {
 		"name": "ios_broadcasting",
 		"v": 1031,
@@ -18634,6 +18649,21 @@
 			}
 		]
 	},
+	"9bd85833-5abd-44ba-8967-5889b9183e5b": {
+		"name": "dart_survey_tcsd_affiliates_holdout",
+		"v": 24750,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9c1c65b0-607c-497c-b89f-cd14e84f08d0": {
 		"name": "android_gdpr_track_personal_data",
 		"v": 3840,
@@ -19618,6 +19648,21 @@
 	"a62b4673-a980-4730-be9d-85619219facd": {
 		"name": "dart_twitchconexcitede_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
 		"v": 21789,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"a62fc845-fdb4-4d66-9098-b4f7e69e981d": {
+		"name": "dart_survey_tcsd_community_holdout",
+		"v": 24751,
 		"t": 2,
 		"groups": [
 			{
