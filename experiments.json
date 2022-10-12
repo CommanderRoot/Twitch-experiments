@@ -16715,15 +16715,15 @@
 	},
 	"8dfc9e67-17ff-452d-a61f-b78112e9971c": {
 		"name": "ios_leaderboards_webview",
-		"v": 24727,
+		"v": 24729,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active"
 			}
 		]
