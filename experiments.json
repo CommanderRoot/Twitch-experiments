@@ -479,6 +479,21 @@
 			}
 		]
 	},
+	"045f434c-11e1-4351-bb17-74c33e6099f7": {
+		"name": "ios_gs_request_to_join",
+		"v": 24719,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"046de967-2e75-4eed-ad7e-c55b445d27a5": {
 		"name": "tvapps_tvos_devicecodeflow",
 		"v": 12124,
@@ -11093,6 +11108,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"5ee6b20c-7057-4021-8ad2-a9d4c2d76e25": {
+		"name": "ios_gs_viewer",
+		"v": 24720,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
