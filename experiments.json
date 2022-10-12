@@ -27979,6 +27979,33 @@
 			}
 		]
 	},
+	"ef595177-0207-4e41-92b0-4c25f78b2ef9": {
+		"name": "android_giftsub_modal_sku_optimization",
+		"v": 24722,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_no_2_sku"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_no_5_sku"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_no_2_and_5_sku"
+			},
+			{
+				"weight": 0,
+				"value": "enabled_reversed"
+			}
+		]
+	},
 	"ef91d6ac-cd56-4843-a398-1f0e1406d692": {
 		"name": "dart_ecommedfpsogiftsublifecycle1_vwr_412_sbs_cmc_sub_mis_email_2105_fr_holdout",
 		"v": 15260,
