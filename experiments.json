@@ -7338,6 +7338,21 @@
 			}
 		]
 	},
+	"40745c6f-bec1-4c90-bb26-79cc10730ab4": {
+		"name": "ios_rec_22",
+		"v": 24768,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"40916068-0408-4273-95c5-87c404c00326": {
 		"name": "dart_onsite_new_hermes_apns_rollout",
 		"v": 24232,
