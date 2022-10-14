@@ -7805,6 +7805,21 @@
 			}
 		]
 	},
+	"4359a7b1-4982-46c1-95ea-8a4e20deb263": {
+		"name": "dart_tnflwk6_vwr_799_dav_cmc_lrn_wch_po_2210_holdout",
+		"v": 24776,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"437fe86e-f266-4902-8bb1-a6a1b5cda299": {
 		"name": "dads_experiment_user_test",
 		"v": 6126,
