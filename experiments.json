@@ -29397,30 +29397,6 @@
 			}
 		]
 	},
-	"fba9e195-1661-42c2-85f5-64320965273e": {
-		"name": "subs_pif",
-		"v": 24711,
-		"t": 2,
-		"s": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "gift_first"
-			},
-			{
-				"weight": 100,
-				"value": "thank_first"
-			},
-			{
-				"weight": 0,
-				"value": "use_ml"
-			}
-		]
-	},
 	"fbeb06ec-2ecc-4a5f-80ec-0a307272b4b6": {
 		"name": "tvapps_viridian_player_native",
 		"v": 9843,
