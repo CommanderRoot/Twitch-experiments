@@ -6588,6 +6588,21 @@
 			}
 		]
 	},
+	"39453d5d-d28d-476c-adb6-f655beb66556": {
+		"name": "ios_broadcast_category_streamkey_check",
+		"v": 24799,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"39a78eae-7b21-4ff8-8c27-d8353e7531d4": {
 		"name": "dads_use_twitch_raids",
 		"v": 13652,
@@ -14815,15 +14830,15 @@
 	},
 	"7bc4f3f8-98e0-492f-86e0-da7ad41c3d6f": {
 		"name": "ios_ivs_irl_broadcasting_restricted",
-		"v": 22466,
+		"v": 24800,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			}
 		]
