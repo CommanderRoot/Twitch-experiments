@@ -11113,15 +11113,15 @@
 	},
 	"5e7a2628-2418-419b-93b2-df38ebdafabd": {
 		"name": "commerce_fraud_low_risk_velocity",
-		"v": 24837,
+		"v": 24843,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "treat"
 			}
 		]
