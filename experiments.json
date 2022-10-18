@@ -21769,7 +21769,7 @@
 	},
 	"b69196ae-b278-405c-872d-4940cfc3e64d": {
 		"name": "android_segmented_signup",
-		"v": 24065,
+		"v": 24819,
 		"t": 1,
 		"groups": [
 			{
@@ -21778,7 +21778,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "credentials_first_14.1"
+			},
+			{
+				"weight": 0,
+				"value": "contact_first_14.1"
 			}
 		]
 	},
