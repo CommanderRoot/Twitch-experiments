@@ -19448,15 +19448,15 @@
 	},
 	"a424f101-342c-42f0-a12f-a71e5baf0cad": {
 		"name": "android_leaderboards_webview",
-		"v": 24744,
+		"v": 24856,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_13.9"
 			}
 		]
@@ -24375,15 +24375,15 @@
 	},
 	"ce9667fd-7325-406d-ac86-dbaf7b894821": {
 		"name": "android_player_seek_mediatime_fix",
-		"v": 24816,
+		"v": 24855,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
