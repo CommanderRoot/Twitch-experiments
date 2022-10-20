@@ -6167,6 +6167,21 @@
 			}
 		]
 	},
+	"3580ae45-6c7a-4e9f-b1ee-eacb685e176a": {
+		"name": "android_annual_recaps_2022",
+		"v": 24874,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"3582317b-37f1-4b8d-be77-cdce3710504c": {
 		"name": "ios_ivs_analytics_override",
 		"v": 22270,
