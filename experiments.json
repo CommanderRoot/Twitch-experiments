@@ -1076,7 +1076,7 @@
 	},
 	"093679b6-f8ba-4f79-af5c-2499183341f6": {
 		"name": "eVPR_threshold",
-		"v": 24771,
+		"v": 24860,
 		"t": 2,
 		"groups": [
 			{
@@ -1088,7 +1088,7 @@
 				"value": "140"
 			},
 			{
-				"weight": 30,
+				"weight": 10,
 				"value": "66"
 			},
 			{
@@ -1112,7 +1112,7 @@
 				"value": "170"
 			},
 			{
-				"weight": 65,
+				"weight": 85,
 				"value": "100"
 			}
 		]
@@ -9171,6 +9171,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"4ed6b227-ff1a-434e-964e-c8ab8fc7aa9a": {
+		"name": "ios_upcoming_streams",
+		"v": 24861,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_xarth"
 			}
 		]
 	},
