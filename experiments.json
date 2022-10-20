@@ -10588,16 +10588,16 @@
 	},
 	"5b2415ba-02c6-4de4-9afa-2e18a1d4f904": {
 		"name": "android_mgst_live_theatre_refactor",
-		"v": 24158,
+		"v": 24876,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_13.1"
 			}
 		]
