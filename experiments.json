@@ -11896,6 +11896,21 @@
 			}
 		]
 	},
+	"64244c7b-1d26-47e3-8674-56cdc8dafb30": {
+		"name": "dart_adstestimonialvid_ctr_843_awa_cmc_non_mis_email_1022_email",
+		"v": 24871,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"646e8b92-33d7-43b7-893b-dc4de7d6e64a": {
 		"name": "ios_oauth_refresh",
 		"v": 9176,
@@ -23347,6 +23362,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"c601a502-0c50-4b46-b79e-578f95ff68d7": {
+		"name": "dart_adstestimonialvid_ctr_843_awa_cmc_non_mis_email_1022_holdout",
+		"v": 24870,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
