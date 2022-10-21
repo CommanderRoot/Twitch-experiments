@@ -6355,6 +6355,21 @@
 			}
 		]
 	},
+	"36e0477a-5961-46b7-aebc-093e1771088e": {
+		"name": "dart_apac_anz_anzhalloween_vwr_0_dav_trn_wch_gmg_email_2210_holdout",
+		"v": 24889,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"370bff35-06d9-490f-87e9-2f6d11f9c4cc": {
 		"name": "android_rev_share_copy",
 		"v": 8326,
@@ -29351,6 +29366,21 @@
 	"fad7ae07-4705-4bac-9667-a9bef9e049f8": {
 		"name": "dart_apac_anz_thrashtalk_vwr_0_dav_trn_wch_gmg_onsite_2207_holdout",
 		"v": 22051,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"fadae89e-adf2-4fee-98be-ed4fa47723b7": {
+		"name": "dart_apac_anz_anzhalloween_vwr_0_dav_trn_wch_gmg_onsite_2210_holdout",
+		"v": 24890,
 		"t": 2,
 		"groups": [
 			{
