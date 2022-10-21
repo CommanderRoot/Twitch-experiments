@@ -13879,6 +13879,21 @@
 			}
 		]
 	},
+	"73baf850-331e-4216-b097-efa312e671ee": {
+		"name": "dart_apac_kor_krhalloween_vwr_0_dav_trn_wch_gmg_email_2210_holdout",
+		"v": 24892,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"73e0d181-8d03-4456-ba76-c0f04c2b5da3": {
 		"name": "android_animated_bits",
 		"v": 3455,
@@ -25421,6 +25436,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"d724a99d-9dce-4174-a22f-c76e7078cfa5": {
+		"name": "dart_apac_kor_krhalloween_vwr_0_dav_trn_wch_gmg_onsite_2210_holdout",
+		"v": 24891,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
