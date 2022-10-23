@@ -17893,21 +17893,6 @@
 			}
 		]
 	},
-	"9670ea88-7a2b-41b0-a163-de065b4395c9": {
-		"name": "dart_modonboardfollowupd3v2_vwr_719_awa_cmc_non_mis_email_225_holdout",
-		"v": 22220,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"96771625-1381-489b-ac51-1cc43c50d67d": {
 		"name": "hype_train_approaching_2",
 		"v": 16395,
@@ -22661,21 +22646,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"c006ab06-4c81-44d3-a786-a8ebd6ed36e3": {
-		"name": "dart_modonboardv2_vwr_719_awa_cmc_non_mis_email_225_email",
-		"v": 22222,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -28568,21 +28538,6 @@
 	"f3466720-500f-47dd-8ee8-2538b05409b8": {
 		"name": "dart_tnflweek5_vwr_799_dav_cmc_lrn_wch_po_2210_holdout",
 		"v": 24680,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"f346dd46-8c3e-4837-a7b3-3b5ebb80d8bf": {
-		"name": "dart_modonboardv2_vwr_719_awa_cmc_non_mis_email_225_holdout",
-		"v": 22221,
 		"t": 2,
 		"groups": [
 			{
