@@ -16654,6 +16654,21 @@
 			}
 		]
 	},
+	"8be8f050-04a9-49ea-ba67-0c40afa7535e": {
+		"name": "dart_apac_sgp_halloweennoti_vwr_0_dav_trn_wch_gmg_onsite_2210_holdout",
+		"v": 24932,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8c18c603-6b5a-41d0-a2e1-5a4d6e3ec023": {
 		"name": "android_dnr_migration",
 		"v": 21920,
