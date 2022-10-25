@@ -10625,6 +10625,21 @@
 			}
 		]
 	},
+	"5b2c9694-a5c6-46f4-969f-9453025a4c14": {
+		"name": "dart_apac_twn_gooseducktwitchrivals_vwr_0_dav_trn_wch_gmg_push_2210_holdout",
+		"v": 24930,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5b3c7579-e32e-4ddd-b569-8bf76265a431": {
 		"name": "dart_newcreatoruse1_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
 		"v": 13683,
@@ -25169,6 +25184,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"d4b58c29-d626-43f1-b0c9-8537360e0596": {
+		"name": "dart_apac_twn_gooseducktwitchrivals_vwr_0_dav_trn_wch_gmg_email_2210_holdout",
+		"v": 24931,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
