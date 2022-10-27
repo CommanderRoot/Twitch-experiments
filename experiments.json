@@ -1721,6 +1721,21 @@
 			}
 		]
 	},
+	"0dbec913-ed09-4fc2-be49-e8b6bab188e2": {
+		"name": "dart_codmodernwarfareii_vwr_852_dav_cmc_wch_gmg_email_2210_email",
+		"v": 24968,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"0dc9a9c9-fee5-4b5f-a462-f07675713e5e": {
 		"name": "TWILIGHT_FOLLOWING_INDEX_LATEST_VIDEOS_V2",
 		"v": 5983,
@@ -16414,6 +16429,21 @@
 			{
 				"weight": 0,
 				"value": "out-of-exp"
+			}
+		]
+	},
+	"89a69495-bef6-48c6-8a59-e1cf95e42927": {
+		"name": "dart_codmodernwarfareii_vwr_852_dav_cmc_wch_gmg_email_2210_holdout",
+		"v": 24967,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
