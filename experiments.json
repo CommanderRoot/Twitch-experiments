@@ -13128,6 +13128,21 @@
 			}
 		]
 	},
+	"6e8e6782-1a45-44bf-9f7a-2816726d2d92": {
+		"name": "dart_communityguideupdate_mod_823_awa_cmc_lrn_mis_email_1022_holdout",
+		"v": 24957,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6ec0cc4b-771d-4e43-8cf8-8dba9562f78a": {
 		"name": "android_amazon_identity_integration",
 		"v": 12948,
