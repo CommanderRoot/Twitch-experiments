@@ -2059,6 +2059,25 @@
 			}
 		]
 	},
+	"11167327-09ab-4e58-80e3-666413e18740": {
+		"name": "dart_performance_email_batch1_onsitetest_onsite",
+		"v": 24993,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
+			}
+		]
+	},
 	"11611bbf-0188-4d2f-a200-84358cfaaf57": {
 		"name": "twilight_editing_les_poissons",
 		"v": 4282,
@@ -12366,6 +12385,21 @@
 			}
 		]
 	},
+	"6756303b-f591-4a9b-9afe-ffd8062a7334": {
+		"name": "dart_performance_email_batch3_initialoutreach_subjectlinetest_email",
+		"v": 24995,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"67596d86-c652-4a8d-a0a0-89aa8b654700": {
 		"name": "ios_welcome_exp",
 		"v": 17485,
@@ -12955,6 +12989,25 @@
 			{
 				"weight": 95,
 				"value": "active"
+			}
+		]
+	},
+	"6ccf0808-f8c8-4709-8abb-baf4d7fe49f6": {
+		"name": "dart_performance_email_batch2_reminder_emailtest_email",
+		"v": 24994,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
