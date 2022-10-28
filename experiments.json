@@ -2931,6 +2931,21 @@
 			}
 		]
 	},
+	"17b84421-24bf-4a71-984c-5dc6f4af09c5": {
+		"name": "dart_sportcasteremail1valenciavsbarcelona_vwr_854_dav_cmc_wch_spt_email_2210_holdout",
+		"v": 24978,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"17e281d4-72e3-473f-9b13-b09002340317": {
 		"name": "ios_private_callouts",
 		"v": 19020,
