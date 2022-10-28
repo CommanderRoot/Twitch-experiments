@@ -3632,6 +3632,21 @@
 			}
 		]
 	},
+	"1eb12ac9-987e-43be-a776-4747fe335e25": {
+		"name": "dart_adlastchanceen_ctr_848_awa_cmc_non_mis_email_1022_holdout",
+		"v": 24990,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1ec7ea94-1dfc-4ee2-99bd-fc745896f9e1": {
 		"name": "dart_tnf_preseason_launch_091720_holdout",
 		"v": 11734,
@@ -5644,6 +5659,21 @@
 			{
 				"weight": 50,
 				"value": "active"
+			}
+		]
+	},
+	"31089fe8-eaa8-4a07-9c38-0679cd623c5d": {
+		"name": "dart_aiplastchancenoen_ctr_722_awa_cmc_lrn_mis_emailonsite_2210_holdout",
+		"v": 24992,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -24633,6 +24663,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"cf17e033-e45f-4196-b413-2a0f6975d643": {
+		"name": "dart_adlastchanceen_ctr_848_awa_cmc_non_mis_email_1022_email",
+		"v": 24991,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
