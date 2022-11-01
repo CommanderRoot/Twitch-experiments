@@ -11337,15 +11337,15 @@
 	},
 	"5ee6b20c-7057-4021-8ad2-a9d4c2d76e25": {
 		"name": "ios_gs_viewer",
-		"v": 24720,
+		"v": 25025,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
