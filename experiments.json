@@ -8979,6 +8979,21 @@
 			}
 		]
 	},
+	"4bbc80a8-41c9-4ab0-b334-657485e0a96c": {
+		"name": "dart_gueststarlaunch_ctr_850_awa_cmc_lrn_mis_eo_2211_holdout",
+		"v": 25033,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "holdout"
+			},
+			{
+				"weight": 85,
+				"value": "allowed"
+			}
+		]
+	},
 	"4bc764f2-f282-41e9-8aeb-15cb1f132d78": {
 		"name": "animated_emotes_for_affiliates",
 		"v": 18817,
