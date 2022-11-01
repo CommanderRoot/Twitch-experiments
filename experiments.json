@@ -26009,6 +26009,21 @@
 			}
 		]
 	},
+	"da025c87-c712-4689-8b7f-72222c26e443": {
+		"name": "dart_xboxnocode_ctr_850_sgn_cmc_sup_mis_email_2210_holdout",
+		"v": 25024,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"da3cfa00-865a-48a4-bbd9-d4f22982564a": {
 		"name": "dart_nyga_vwr_350_dav_cmc_wch_gmg_email_2101_holdout",
 		"v": 13237,
