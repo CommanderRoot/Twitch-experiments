@@ -15980,7 +15980,7 @@
 	},
 	"83afcebe-cc43-4f27-b295-19c431ee03df": {
 		"name": "android_request_to_join",
-		"v": 24882,
+		"v": 25030,
 		"t": 1,
 		"groups": [
 			{
@@ -29114,11 +29114,11 @@
 	},
 	"f6b43f06-b0ea-4b2a-8c73-103747b58533": {
 		"name": "android_guest_star_bar",
-		"v": 24881,
+		"v": 25031,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -29126,7 +29126,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_14.1"
 			}
 		]
