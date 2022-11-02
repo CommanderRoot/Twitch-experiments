@@ -10311,7 +10311,7 @@
 	},
 	"580daffa-c5ba-476d-b3b3-6c366c5bc070": {
 		"name": "android_separate_player_thread",
-		"v": 24971,
+		"v": 25056,
 		"t": 1,
 		"groups": [
 			{
@@ -10325,6 +10325,14 @@
 			{
 				"weight": 1,
 				"value": "active_14.0_per_instance"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.2_shared"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.2_per_instance"
 			}
 		]
 	},
