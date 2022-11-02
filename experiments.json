@@ -19284,6 +19284,21 @@
 			}
 		]
 	},
+	"9f51f46d-3a61-46d6-80be-4567eeb25f26": {
+		"name": "ios_gql_cit_request_at_app_launch",
+		"v": 25037,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v14.2"
+			}
+		]
+	},
 	"9f549e6a-0e8d-4511-9d3e-6fc2a4994dd7": {
 		"name": "dart_fifa23_vwr_822_dav_cmc_wch_gmg_email_2209_email",
 		"v": 24541,
