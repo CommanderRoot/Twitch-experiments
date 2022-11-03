@@ -18972,6 +18972,21 @@
 			}
 		]
 	},
+	"9b973641-c7b7-48db-ae08-6789404f3618": {
+		"name": "android_quick_actions",
+		"v": 25062,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"9bc79cc8-43d9-4984-a269-9ceae142d131": {
 		"name": "dart_jandrop5_vwr_344_awa_cmc_wch_gmg_email_2102_holdout",
 		"v": 13464,
