@@ -10031,6 +10031,21 @@
 			}
 		]
 	},
+	"545e5e77-9068-41ea-a155-eccb746b9482": {
+		"name": "dart_xboxgamepass_vwr_850_sgn_cmc_sup_mis_email_2210_holdout",
+		"v": 25091,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 7,
+				"value": "holdout"
+			},
+			{
+				"weight": 93,
+				"value": "allowed"
+			}
+		]
+	},
 	"548d3912-40d8-46a3-bfd9-2bd2654a7626": {
 		"name": "ios_creator_mode_aa_test",
 		"v": 15527,
