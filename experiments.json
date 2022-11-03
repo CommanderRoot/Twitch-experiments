@@ -26178,6 +26178,21 @@
 			}
 		]
 	},
+	"db24e8dd-4458-4bd2-a709-0119f60b0252": {
+		"name": "ios_gs_rerouting",
+		"v": 25086,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
 	"db387426-92e0-4d45-87d3-bce9ad81f866": {
 		"name": "dart_twitchconexcitefr_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
 		"v": 21790,
