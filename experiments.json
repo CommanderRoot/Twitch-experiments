@@ -19328,15 +19328,15 @@
 	},
 	"9f51f46d-3a61-46d6-80be-4567eeb25f26": {
 		"name": "ios_gql_cit_request_at_app_launch",
-		"v": 25037,
+		"v": 25066,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v14.2"
 			}
 		]
@@ -29006,6 +29006,21 @@
 	"f4d86661-57ef-401c-a47d-ce780d8bcf4d": {
 		"name": "dart_festivefpsoday1reminderen_vwr_612_cmm_cmc_sub_mis_email_2112_holdout",
 		"v": 18394,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"f51053b9-dcfd-4b12-9a92-b34e2855917d": {
+		"name": "dart_rivalsgtaeventesauronplay_vwr_859_dav_cmc_wch_gmg_email_2211_holdout",
+		"v": 25067,
 		"t": 2,
 		"groups": [
 			{
