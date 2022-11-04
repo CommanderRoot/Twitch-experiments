@@ -20378,6 +20378,21 @@
 			}
 		]
 	},
+	"a94255e2-0a69-4f81-9531-7e56c3eb8126": {
+		"name": "dart_apac_twn_twsplatoon3_vwr_0_dav_trn_wch_gmg_push_2211_holdout",
+		"v": 25101,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a9445a37-d1b7-45ee-9ea4-2d8da493bfb9": {
 		"name": "ad_affiliate_rev_share",
 		"v": 8316,
