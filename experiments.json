@@ -28043,6 +28043,21 @@
 			}
 		]
 	},
+	"ebd99120-bda6-45d8-b148-28bbe0b0c070": {
+		"name": "dart_fanout_nes_dual_read_rollout",
+		"v": 25107,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"ebfbfe25-8132-4330-90d0-380d130ea07b": {
 		"name": "dart_recurringsubsnopricechange_vwr_519_awa_trn_lrn_mis_email_2111_holdout",
 		"v": 17754,
