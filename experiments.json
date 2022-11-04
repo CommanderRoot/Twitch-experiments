@@ -27413,6 +27413,21 @@
 			}
 		]
 	},
+	"e5af8047-cff7-4db1-880d-9fff1fac184a": {
+		"name": "TwitchAds_RCA_dual_write",
+		"v": 25114,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "ON"
+			},
+			{
+				"weight": 0,
+				"value": "OFF"
+			}
+		]
+	},
 	"e5c7c4d7-ff89-43f1-9551-f33df1acc7a6": {
 		"name": "dart_updatedwelcomeheroimagetest2_vwr_464_dav_cmc_wch_mis_email_2108_holdout",
 		"v": 16682,
