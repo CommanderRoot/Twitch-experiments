@@ -16621,6 +16621,21 @@
 			}
 		]
 	},
+	"898110ab-5e54-40ce-935a-9cf5659d8a1b": {
+		"name": "dart_pogofwar_ctr_857_cmm_cmr_lrn_mis_email_2211_holdout",
+		"v": 25141,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"89a69495-bef6-48c6-8a59-e1cf95e42927": {
 		"name": "dart_codmodernwarfareii_vwr_852_dav_cmc_wch_gmg_email_2210_holdout",
 		"v": 24967,
