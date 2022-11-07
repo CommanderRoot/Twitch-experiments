@@ -20638,15 +20638,15 @@
 	},
 	"abb40f77-0f3e-4840-b089-71be83adad02": {
 		"name": "android_games_broadcast_stream_settings",
-		"v": 23879,
+		"v": 25140,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_13.6"
 			}
 		]
@@ -22776,15 +22776,15 @@
 	},
 	"bd983a56-45fe-4a01-9bbc-7a13044d0243": {
 		"name": "android_back_press_manager",
-		"v": 24972,
+		"v": 25139,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_14.0"
 			}
 		]
