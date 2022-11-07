@@ -19338,15 +19338,15 @@
 	},
 	"9f51f46d-3a61-46d6-80be-4567eeb25f26": {
 		"name": "ios_gql_cit_request_at_app_launch",
-		"v": 25066,
+		"v": 25131,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 1,
 				"value": "active_v14.2"
 			}
 		]
