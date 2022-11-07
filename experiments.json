@@ -1518,11 +1518,11 @@
 	},
 	"0bfcc03a-b941-4a5f-ad3b-1565dee819fb": {
 		"name": "ios_theater_mute_button",
-		"v": 25108,
+		"v": 25129,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -1530,7 +1530,7 @@
 				"value": "enabled_v13.5"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "enabled_v13.9"
 			}
 		]
