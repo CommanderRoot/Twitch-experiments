@@ -415,6 +415,21 @@
 			}
 		]
 	},
+	"03cc2fef-0d87-415b-90f1-e153e1c7007c": {
+		"name": "dart_godofwarragnarok_vwr_863_dav_cmc_wch_gmg_email_2211_holdout",
+		"v": 25161,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"03e27667-d926-47dc-ab02-5435a6e16205": {
 		"name": "dart_fpso_prime_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15564,
@@ -1673,6 +1688,21 @@
 			{
 				"weight": 0,
 				"value": "activity_similarity_title"
+			}
+		]
+	},
+	"0d3ceded-b1d2-43fd-ab7e-210fa569157c": {
+		"name": "dart_godofwarragnarok_vwr_863_dav_cmc_wch_gmg_email_2211_email",
+		"v": 25162,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -26799,6 +26829,21 @@
 			{
 				"weight": 100,
 				"value": "rollout"
+			}
+		]
+	},
+	"dfd4cb2d-b5d9-4db6-b914-90cb2de21353": {
+		"name": "dart_godofwarragnarok_vwr_863_dav_cmc_wch_gmg_push_2211_holdout",
+		"v": 25163,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
