@@ -25763,6 +25763,21 @@
 			}
 		]
 	},
+	"d708fa8b-ceaa-42bb-afdd-46f1a7f57d9b": {
+		"name": "dart_apac_sgp_mlbb_vwr_0_dav_trn_wch_gmg_onsite_2211_holdout",
+		"v": 25159,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d724a99d-9dce-4174-a22f-c76e7078cfa5": {
 		"name": "dart_apac_kor_krhalloween_vwr_0_dav_trn_wch_gmg_onsite_2210_holdout",
 		"v": 24891,
