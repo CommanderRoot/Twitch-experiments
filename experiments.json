@@ -496,15 +496,15 @@
 	},
 	"045f434c-11e1-4351-bb17-74c33e6099f7": {
 		"name": "ios_gs_request_to_join",
-		"v": 24719,
+		"v": 25169,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
@@ -3314,15 +3314,15 @@
 	},
 	"1af72cb8-79c2-4ef7-a021-a81e674624fc": {
 		"name": "ios_gs",
-		"v": 21871,
+		"v": 25170,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
