@@ -22470,6 +22470,29 @@
 			}
 		]
 	},
+	"b922202a-f108-4da4-beb1-bcb4f21b2f16": {
+		"name": "ios_integrity_gql",
+		"v": 25177,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_without_enforcement_14.3"
+			},
+			{
+				"weight": 0,
+				"value": "active_with_enforcement_14.3"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"b9318c3d-54be-4f2b-8c89-8cad079e5be2": {
 		"name": "android_whispers_verification",
 		"v": 9184,
