@@ -23836,6 +23836,21 @@
 			}
 		]
 	},
+	"c6838631-e0f8-4fcd-8d07-2df62f3d60e8": {
+		"name": "android_pending_transactions_fix",
+		"v": 25180,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.3"
+			}
+		]
+	},
 	"c6a85b7d-7538-4aa5-8a8d-17769aeacec4": {
 		"name": "mads_trigger_api",
 		"v": 16399,
