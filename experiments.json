@@ -8359,6 +8359,21 @@
 			}
 		]
 	},
+	"46504e01-5099-45d2-bd33-2f9cf242766a": {
+		"name": "dart_tnflwk10vwr_799_dav_cmc_lrn_wch_po_2211_holdout",
+		"v": 25190,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"46516c47-cf5c-41c9-96c6-fd913f49d84e": {
 		"name": "android_disable_amazon_ads_analytics",
 		"v": 17880,
