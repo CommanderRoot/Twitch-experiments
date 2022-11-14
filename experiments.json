@@ -13552,6 +13552,21 @@
 			}
 		]
 	},
+	"6ff8b0e5-c213-432b-afbd-01ccfc755af5": {
+		"name": "dart_creatorcamplaunchusca_ctr_864_dav_cmc_lrn_mis_email_2211_holdout",
+		"v": 25202,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6fff56b3-f76e-47d9-bd4d-ad1b1bd03fff": {
 		"name": "ios_airplay_seek_fix",
 		"v": 22694,
