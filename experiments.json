@@ -12422,7 +12422,7 @@
 	},
 	"66e3abc3-40b3-419f-8ab1-94056d3c7460": {
 		"name": "android_sub_modal_landscape",
-		"v": 24687,
+		"v": 25241,
 		"t": 1,
 		"groups": [
 			{
@@ -12431,11 +12431,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "enabled_13.9"
-			},
-			{
-				"weight": 0,
-				"value": "enabled_no_25_subs_13.9"
+				"value": "enabled_14.2"
 			},
 			{
 				"weight": 0,
@@ -27885,7 +27881,7 @@
 	},
 	"e82cf894-8810-4990-ae9e-6a3011da6999": {
 		"name": "android_stream_subs_cta_landscape_mode",
-		"v": 19086,
+		"v": 25242,
 		"t": 1,
 		"groups": [
 			{
@@ -27894,15 +27890,15 @@
 			},
 			{
 				"weight": 0,
-				"value": "prediction_or_poll_started_12.2"
+				"value": "sub_goal_started_or_updated_14.3"
 			},
 			{
 				"weight": 0,
-				"value": "commerce_spent_increased_12.2"
+				"value": "commerce_spent_increased_14.3"
 			},
 			{
 				"weight": 0,
-				"value": "chat_activity_increased_12.2"
+				"value": "chat_activity_increased_14.3"
 			}
 		]
 	},
