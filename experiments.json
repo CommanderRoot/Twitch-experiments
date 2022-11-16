@@ -2406,6 +2406,25 @@
 			}
 		]
 	},
+	"1321d10a-b8c7-4f61-b65c-f5cd63e7f8c5": {
+		"name": "android_integrity_gql",
+		"v": 25245,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_without_enforcement_14.3"
+			},
+			{
+				"weight": 0,
+				"value": "active_with_enforcement_14.3"
+			}
+		]
+	},
 	"1340206a-34dc-48f5-80cb-3cb0ab6fa223": {
 		"name": "ios_channel_points_predictions_notifications",
 		"v": 12618,
@@ -24902,15 +24921,15 @@
 	},
 	"ce9667fd-7325-406d-ac86-dbaf7b894821": {
 		"name": "android_player_seek_mediatime_fix",
-		"v": 24945,
+		"v": 25248,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
