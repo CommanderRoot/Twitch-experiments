@@ -2711,6 +2711,21 @@
 			}
 		]
 	},
+	"15e9840b-134e-41c5-93c6-ce638e404887": {
+		"name": "moat_adblocker_mitigation_fastly",
+		"v": 25288,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "on"
+			},
+			{
+				"weight": 100,
+				"value": "off"
+			}
+		]
+	},
 	"15f45479-526d-4455-95f0-64e4150933d7": {
 		"name": "dart_wwfestvalorant_vwrnrp348_5mp_cmc_watchnow_event_gaming_email_2010_holdout",
 		"v": 13126,
