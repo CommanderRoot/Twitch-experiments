@@ -12345,6 +12345,21 @@
 			}
 		]
 	},
+	"657e92b3-edc3-4bee-b97c-37023a97aa69": {
+		"name": "dart_goatsimulator3_vwr_868_dav_cmc_wch_gmg_email_2211_holdout",
+		"v": 25270,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"65d5406a-9a8b-454b-9324-f34481472904": {
 		"name": "carrie_test",
 		"v": 20232,
@@ -24829,6 +24844,21 @@
 			{
 				"weight": 0,
 				"value": "no_prerolls"
+			}
+		]
+	},
+	"cdafd160-91f6-4f70-9758-508d7643b928": {
+		"name": "dart_goatsimulator3_vwr_868_dav_cmc_wch_gmg_email_2211_email",
+		"v": 25271,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
