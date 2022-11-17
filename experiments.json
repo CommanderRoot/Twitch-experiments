@@ -19657,6 +19657,21 @@
 			}
 		]
 	},
+	"a0499549-234d-4690-8233-cda2f11915ee": {
+		"name": "android_hype_train_start_gql_optimization",
+		"v": 25268,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.3"
+			}
+		]
+	},
 	"a08f8d09-7890-4eae-914f-6b272d05d1aa": {
 		"name": "prioritized_APM_icons",
 		"v": 11669,
