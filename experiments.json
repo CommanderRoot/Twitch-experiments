@@ -3331,6 +3331,21 @@
 			}
 		]
 	},
+	"1aa09aea-ad3d-4a9b-a40e-f695a8fb6b66": {
+		"name": "android_creator_quick_actions",
+		"v": 25300,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.3"
+			}
+		]
+	},
 	"1ab8854c-163d-4640-ac49-8bd6291135bf": {
 		"name": "ios_battery_tracking",
 		"v": 22670,
@@ -19186,21 +19201,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"9b973641-c7b7-48db-ae08-6789404f3618": {
-		"name": "android_creator_quick_actions",
-		"v": 25064,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
