@@ -8370,6 +8370,21 @@
 			}
 		]
 	},
+	"45cceb9d-53c0-47ac-bb58-d7efd70d98b2": {
+		"name": "dart_ocactivitysumtest_vwr_849_dav_cmc_wch_mis_email_2211_holdout",
+		"v": 25312,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"45d73059-3cea-436a-b41f-86bb05f845f2": {
 		"name": "CVP May 18",
 		"v": 1904,
@@ -18345,6 +18360,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"963997c4-d739-45d0-9781-5380315240b3": {
+		"name": "dart_infreqactivitysumtest_vwr_849_dav_cmc_wch_mis_email_2211_holdout",
+		"v": 25311,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
 				"value": "allowed"
 			}
 		]
