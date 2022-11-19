@@ -10388,6 +10388,21 @@
 			}
 		]
 	},
+	"575d4334-d54a-4790-9fd7-c7cee06a642f": {
+		"name": "dart_copa_no_caze_jogo1_holdout",
+		"v": 25309,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"5766eac9-19a0-471b-8716-708987a0f62d": {
 		"name": "ios_om_vaes_enabled",
 		"v": 8302,
