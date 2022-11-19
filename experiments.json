@@ -14709,6 +14709,21 @@
 			}
 		]
 	},
+	"775471e9-5977-42ea-9e30-8d30a930fb5b": {
+		"name": "dart_world_cup_casimiro_final_holdout",
+		"v": 25308,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"77694bf2-b690-46c7-8b6c-624ef477a53a": {
 		"name": "android_autoplay_disable",
 		"v": 9150,
