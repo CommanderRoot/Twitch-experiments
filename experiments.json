@@ -16203,6 +16203,21 @@
 			}
 		]
 	},
+	"8284a348-0ed4-4789-82a3-db87223eaadf": {
+		"name": "dart_merchnovcyberweekpromolaunch_vwr_836_cmm_cmc_buy_mis_onsite_2211_holdout",
+		"v": 25331,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"82fa1d06-a80c-4646-ae58-0dd2ad883d0b": {
 		"name": "android_extensions_public_release",
 		"v": 3156,
