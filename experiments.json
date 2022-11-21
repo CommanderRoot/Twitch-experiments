@@ -30656,6 +30656,21 @@
 			}
 		]
 	},
+	"fd552496-a971-4ed5-860e-2354f0d45a37": {
+		"name": "ios_gs_join_button",
+		"v": 25327,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"fd5a97d3-d366-4cf3-9945-4dbac3ce8875": {
 		"name": "navi_getclusters_small_streams_rollout",
 		"v": 21515,
