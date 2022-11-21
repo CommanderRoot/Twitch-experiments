@@ -30954,6 +30954,21 @@
 			}
 		]
 	},
+	"ffbae574-1b46-4a81-9eef-acb00b73f6b5": {
+		"name": "android_gift_a_sub_cta_color_experiment",
+		"v": 25330,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"ffe0c67b-19e4-43fe-8193-8897dbf4b8ed": {
 		"name": "extensions_kill_switch_on_event_channels",
 		"v": 1675,
