@@ -16675,23 +16675,23 @@
 	},
 	"87bc791d-ae59-4494-85b5-0e6552fb905b": {
 		"name": "android_max_playback_rate",
-		"v": 24169,
+		"v": 25339,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 97,
 				"value": "1"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "2"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "3"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "4"
 			}
 		]
@@ -21760,21 +21760,6 @@
 			{
 				"weight": 0,
 				"value": "active_8_1_1_staff"
-			}
-		]
-	},
-	"b120bb1d-bf6c-4bdb-a599-2b0eaf944e5d": {
-		"name": "pur_rep_low_risk_velocity",
-		"v": 21590,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treat"
 			}
 		]
 	},
