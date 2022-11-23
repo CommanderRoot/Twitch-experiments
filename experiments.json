@@ -17998,6 +17998,21 @@
 			}
 		]
 	},
+	"927be6cb-85d7-4c50-ab57-5c034c2c5375": {
+		"name": "dart_apac_anz_ausgiftcard_vwr_0_dav_trn_wch_gmg_onsite_2211_holdout",
+		"v": 25383,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"92dccece-b938-423e-97e8-56d0a88a4a6b": {
 		"name": "android_tcf_v2",
 		"v": 22184,
@@ -20762,6 +20777,21 @@
 			{
 				"weight": 0,
 				"value": "skip"
+			}
+		]
+	},
+	"a97d4cc1-e84b-44a1-9293-3ca06a4dc947": {
+		"name": "dart_apac_twn_taiwanmusicfestival_vwr_0_dav_trn_wch_gmg_push_2211_holdout",
+		"v": 25384,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
