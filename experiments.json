@@ -14660,6 +14660,21 @@
 			}
 		]
 	},
+	"7659376b-8b80-40ee-bfdc-e0cc6a586f36": {
+		"name": "dart_adlastchancenov_ctr_848_awa_cmc_non_mis_eo_1122_holdout",
+		"v": 25393,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7678a52b-b88b-491b-b2af-63863fbc0fb0": {
 		"name": "dart_liveup",
 		"v": 12405,
@@ -17110,6 +17125,21 @@
 			{
 				"weight": 0,
 				"value": "enabled_bottom_sheet_13.1"
+			}
+		]
+	},
+	"8b49e402-955b-4d58-be1a-a830d782e729": {
+		"name": "dart_adlastchancenov_ctr_848_awa_cmc_non_mis_eo_1122_email",
+		"v": 25394,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
