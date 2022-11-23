@@ -15872,6 +15872,21 @@
 			}
 		]
 	},
+	"7f2ead51-a85f-4170-8805-ae7f0ce08aa1": {
+		"name": "dart_apac_anz_plateupxrivals_vwr_0_dav_trn_wch_gmg_onsite_2211_holdout",
+		"v": 25379,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7f6c9e38-b147-4ea1-9e25-2654a42977e2": {
 		"name": "ios_chromecast_vod_seek",
 		"v": 22688,
