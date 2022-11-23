@@ -13927,6 +13927,21 @@
 			}
 		]
 	},
+	"71eed65e-9641-4350-8dc3-5d57a89d38a2": {
+		"name": "dart_apac_anz_plateupxrivals_vwr_0_dav_trn_wch_gmg_email_2211_holdout",
+		"v": 25380,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"71fe4cc8-3852-4a59-9dab-1a1612fcd035": {
 		"name": "ios_rev_share_ad_copy",
 		"v": 8328,
