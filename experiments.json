@@ -17851,6 +17851,21 @@
 			}
 		]
 	},
+	"914f6d99-84fb-47e2-88b1-0eba48eff640": {
+		"name": "dart_h12022transparencyreportonsite_ctr_850_flw_trn_lrn_mis_onsite_2211_holdout",
+		"v": 25390,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"91a1c40a-5c9e-4fc3-ac9f-06e3412d001b": {
 		"name": "android_purchase_event",
 		"v": 22298,
