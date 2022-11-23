@@ -20410,6 +20410,21 @@
 			}
 		]
 	},
+	"a62f5bfb-b16e-48d0-84ca-151c74393dfe": {
+		"name": "dart_newuscharitiestostreamers_ctr_882_awa_cmc_lrn_mis_onsite_2211_holdout",
+		"v": 25391,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a62fc845-fdb4-4d66-9098-b4f7e69e981d": {
 		"name": "dart_survey_tcsd_community_holdout",
 		"v": 24751,
