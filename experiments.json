@@ -18364,6 +18364,21 @@
 			}
 		]
 	},
+	"94bc7b9d-a5b6-4dd6-ae66-ef2aca753c8d": {
+		"name": "dart_aiplastchance_ctr_881_awa_cmc_lrn_mis_onsite_2211_holdout",
+		"v": 25406,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"94da13dc-3991-4cf0-ac18-ed007b05a5ac": {
 		"name": "dart_pride_spotlightit_vwr_737_dav_cmc_wch_mis_email_2206_holdout",
 		"v": 21651,
