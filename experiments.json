@@ -9416,6 +9416,21 @@
 			}
 		]
 	},
+	"4e809572-a1c8-40fc-bd01-f018356c070a": {
+		"name": "android_new_games_pill",
+		"v": 25429,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"4e9932f0-43f8-4d84-a123-a34ed4f81dd7": {
 		"name": "dart_live_up_push",
 		"v": 22161,
