@@ -27225,6 +27225,21 @@
 			}
 		]
 	},
+	"de28be6d-d909-4b75-b661-645edb09f0d6": {
+		"name": "android_expandable_ads",
+		"v": 25434,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"de376cee-5999-4070-a4db-dfa34db3c074": {
 		"name": "android_latam_cronet",
 		"v": 22396,
@@ -29408,19 +29423,19 @@
 	},
 	"f0d474da-ce17-4d1e-a54f-f6e38755e3ce": {
 		"name": "ios_segmented_signup",
-		"v": 25168,
+		"v": 25433,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "contact_first"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "credentials_first"
 			}
 		]
