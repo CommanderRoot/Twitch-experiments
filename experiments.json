@@ -22605,19 +22605,19 @@
 	},
 	"b69196ae-b278-405c-872d-4940cfc3e64d": {
 		"name": "android_segmented_signup",
-		"v": 25167,
+		"v": 25420,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "credentials_first_14.2"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "contact_first_14.2"
 			}
 		]
