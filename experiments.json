@@ -6278,28 +6278,16 @@
 	},
 	"3520b529-e266-454f-98b7-9460bf80c77c": {
 		"name": "dart_stream_summary_cta_all_email",
-		"v": 24062,
+		"v": 25446,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "Variant A"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "Variant B"
-			},
-			{
-				"weight": 0,
-				"value": "Variant C"
-			},
-			{
-				"weight": 100,
-				"value": "Variant D"
-			},
-			{
-				"weight": 0,
-				"value": "Variant E"
 			}
 		]
 	},
@@ -11608,19 +11596,19 @@
 	},
 	"5ee8cadc-f902-4700-adfa-b99ad92bf1ab": {
 		"name": "dart_stream_summary_experiment_email",
-		"v": 24049,
+		"v": 25445,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 0,
 				"value": "Variant A"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "Variant B"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "Variant C"
 			}
 		]
