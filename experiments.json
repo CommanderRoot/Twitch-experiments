@@ -29190,6 +29190,21 @@
 			}
 		]
 	},
+	"ee77188b-aa13-463b-8598-64aa0a565b09": {
+		"name": "ads-intelligence-test-gomausti",
+		"v": 25457,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "A"
+			}
+		]
+	},
 	"ee80111d-e5e8-4d99-a211-6059f5e763da": {
 		"name": "ios_hypetrain_approaching_bucketing",
 		"v": 23949,
