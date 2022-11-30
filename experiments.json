@@ -1249,6 +1249,21 @@
 			}
 		]
 	},
+	"09f25343-d1ee-432a-8e04-fd65c4fa41bf": {
+		"name": "dart_shield_mode_ctr_867_flw_trn_irn_mis_onsite_2211_holdout",
+		"v": 25471,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0a1a5f41-2552-43b8-b469-4fb61668f966": {
 		"name": "tvapps_xboxone_feature_cloud_broadcasting",
 		"v": 11464,
