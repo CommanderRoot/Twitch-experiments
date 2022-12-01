@@ -30961,15 +30961,15 @@
 	},
 	"fd552496-a971-4ed5-860e-2354f0d45a37": {
 		"name": "ios_gs_join_button",
-		"v": 25327,
+		"v": 25486,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
