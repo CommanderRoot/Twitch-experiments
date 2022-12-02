@@ -25931,16 +25931,16 @@
 	},
 	"d42d3d43-236e-46ee-8684-ed45c050c1e2": {
 		"name": "ios_playercore_opt_in",
-		"v": 25491,
+		"v": 25501,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "opt_in"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "opt_out"
 			}
 		]
