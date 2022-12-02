@@ -19690,15 +19690,15 @@
 	},
 	"9d959728-88de-4882-a8e0-103ae7c02b1e": {
 		"name": "ios_freeform_tags_v2",
-		"v": 25154,
+		"v": 25493,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
