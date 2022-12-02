@@ -10421,21 +10421,6 @@
 			}
 		]
 	},
-	"56ea4f1e-bcfc-4ed3-8b64-f471f8b872f0": {
-		"name": "default_emotes_new_affiliates",
-		"v": 16816,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant"
-			}
-		]
-	},
 	"57184ad1-5cde-493d-a316-5d6575bcabe0": {
 		"name": "dart_apac_sgp_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22100,
@@ -22539,21 +22524,6 @@
 			{
 				"weight": 50,
 				"value": "allowed"
-			}
-		]
-	},
-	"b513457d-752d-4e41-9aae-aeaedd8280e4": {
-		"name": "default_emotes_for_new_affiliates",
-		"v": 20454,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant"
 			}
 		]
 	},
