@@ -26539,15 +26539,15 @@
 	},
 	"d88751c5-688a-4099-86e9-a66ccee4a223": {
 		"name": "android_request_to_join_join_button",
-		"v": 25334,
+		"v": 25522,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_14.3"
 			}
 		]
