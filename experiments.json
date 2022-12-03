@@ -9362,6 +9362,21 @@
 			}
 		]
 	},
+	"4d606345-ab70-49f1-991e-a892e75b816f": {
+		"name": "dart_copanocaze_bra_kor_holdout",
+		"v": 25520,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4dab626b-79b1-4b4d-b8bb-81d93e660b88": {
 		"name": "android_leaderboards",
 		"v": 14335,
