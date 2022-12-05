@@ -4219,15 +4219,15 @@
 	},
 	"224ee659-4fa5-4e2e-a8bd-d86a3805254f": {
 		"name": "ios_creator_insights_u",
-		"v": 25478,
+		"v": 25538,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "inactive"
 			}
 		]
@@ -17106,15 +17106,15 @@
 	},
 	"8ac9fd83-8f61-4fea-ae68-3e0646be8226": {
 		"name": "android_creator_insights",
-		"v": 25443,
+		"v": 25537,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_14.3"
 			}
 		]
