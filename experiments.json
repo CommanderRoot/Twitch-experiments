@@ -22527,6 +22527,21 @@
 			}
 		]
 	},
+	"b436942e-ae12-45ef-88a7-87772e39f5e5": {
+		"name": "dart_bitspriceadjustmentskorea_ctr_847_awa_trn_lrn_mis_onsite_2212_holdout",
+		"v": 25541,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"b451a3d9-79f4-4743-89c1-719335c2c974": {
 		"name": "CPR_SUB_NAV_V2",
 		"v": 727,
