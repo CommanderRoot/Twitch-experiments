@@ -5621,6 +5621,21 @@
 			}
 		]
 	},
+	"2e9c0a52-6729-4cac-b999-b6765155d406": {
+		"name": "android_follow_sub_during_ads",
+		"v": 25578,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"2eded830-5250-45e7-81c7-649de9c56e8f": {
 		"name": "dart_twitchcon_amsterdam_announce_vwr_736_awa_cmc_lrn_mis_email_2206_holdout",
 		"v": 21554,
