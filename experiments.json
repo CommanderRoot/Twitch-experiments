@@ -24163,15 +24163,15 @@
 	},
 	"c54b1467-4d1c-4dc6-859f-8d41c2a86ae9": {
 		"name": "affiliate_onboarding_fraud",
-		"v": 25558,
+		"v": 25559,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 40,
 				"value": "heuristics"
 			},
 			{
-				"weight": 50,
+				"weight": 60,
 				"value": "model"
 			}
 		]
