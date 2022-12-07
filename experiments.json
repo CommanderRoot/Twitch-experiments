@@ -24138,15 +24138,15 @@
 	},
 	"c54b1467-4d1c-4dc6-859f-8d41c2a86ae9": {
 		"name": "affiliate_onboarding_fraud",
-		"v": 25581,
+		"v": 25589,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 5,
 				"value": "heuristics"
 			},
 			{
-				"weight": 80,
+				"weight": 95,
 				"value": "model"
 			}
 		]
