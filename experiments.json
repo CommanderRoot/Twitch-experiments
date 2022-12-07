@@ -16346,6 +16346,21 @@
 			}
 		]
 	},
+	"82bc0a35-eaad-4436-ae69-fe2a2b3adfb9": {
+		"name": "dart_uscharityannouncement_ctr_882_awa_cmc_lrn_mis_eo_2211_holdout",
+		"v": 25602,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"82fa1d06-a80c-4646-ae58-0dd2ad883d0b": {
 		"name": "android_extensions_public_release",
 		"v": 3156,
@@ -28689,6 +28704,21 @@
 			{
 				"weight": 50,
 				"value": "control"
+			}
+		]
+	},
+	"ea8f3ff8-0af6-417a-94d0-928801b5c92f": {
+		"name": "dart_globalcharityannouncement_ctr_882_awa_cmc_lrn_mis_eo_2211_holdout",
+		"v": 25603,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
