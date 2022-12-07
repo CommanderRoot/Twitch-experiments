@@ -9195,12 +9195,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 25557,
+		"v": 25582,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-145a2b.pdx01.abs.hls.ttvnw.net/v1/segment/ClH5ACpnv2s_owi59dWtPOvKGa86jp15jZajR7OuIoacWEEzPjemw0suHMYYJ0U0xm9LKZupw_ZkPGinpGmbfXhh0bPhkkBhEU8jbOxIHN7_574NFBPW6GyFCcJgFnC80xaU1JgSaFjvdA4CL5KA2SBPynpTI5dUscVqYY2s3aHGqZ61twK0udi9LGRCUuOk5bH41v-plrBLvofMO-ZdyrXtfrP-Luqw5DWAd6yNTLQ4zdAIrpfyvVzz1TdKa8U1BL55Vc4uChlOlzBW-rVxtcPXlrMO8btVqK0dQ73YmVOle3sXplDV8eOSPOO3P12oh5TsirW1KZKPBzVKrhCbuduKqGLHH1ZGq_G3MZ4Cmm5G_Nl_JcpMUE7qgZjQ_YJZRWi_JFXaZs_SsNz75biFfDETdrbn5PnYSyTFkgdo0f_zDON2egHv8cJjPXxapEx8AVWv3B7v9_QPY3gAyiu8jrk5Xxtb1ibOmyT6N-4rAAX0ZgPyftUMWYW2f0GR_KAhXuPiM8QPXOU9-jcNS3P18bQvBIX7-mqwad6h_4bOhsYLzHqzRpqQIGdxCJ-xFYOdp4a_wPViT5fyRZi5iRrrX9d43XlV-XZurmxyqrLkm3EZNr35pyPgfB6oKVsj-Mk6gaOaAclKLFq6qpcFQrADI_6AiWamu1q_muyJISnvA6IQXKKgdsN6xMp3Q6BWXFCzqlhTfTAwMNjrdNpK6tMVfN_51AtR32T76VBo7j5-tDJpGT5WVgZWpQdwSPyVw4lpHAvoCLj.ts"
+				"value": "//video-edge-e5f2cc.pdx01.abs.hls.ttvnw.net/v1/segment/CtrXxa8bFRCuIJVwV1IOefriSSTi62yxTg1Iq-4P1QlY1gCm69pXtnx2z0iTjoSGLGx0p5v9HqKvtPuyvdu3RIF-lcsTVQjw0p5YO77_rHFbReJgvHiexKnHEYQwZFmy2YHe3B2ldralS9GF6sW5QMFZwj9-dzSyl54Lxz5fjlociCv6PSsBTe1WpZLboqT5YaPduilzTZv9ZZM4YRM0ZFpsQvjerx2dOQ3IbhoKi3sKgq-JV_Z1ATGpEYeos2OO-CIpPm2Ap9RVpjEyvuNqfvk6tlIJqSOHce1OhhpQUuqQLJvc0FUy56lOyY5Xbf_0dveGn5BGquHuMv8faaUS5ITBgbuiRSppVVasBmWso-xHBw9e8I1Jx0Url2KIHAhNMM6XqLV-wZ_OM1j3MNAoXIVg-O5jUeN6WW5izd0mN9Rq8-6Pf-edqZe0SZ9Mcswu2hA4fl-14CziFysLe6b36gghQ0ALf7KzL11D_0klUZU2pWPG6G2hRVQobyv1XHH22gjkyeRWE--BMlmLJHY_jSbzdApO47F2CpArE5kx3jQJefMVbXpdz_LIEsC3xNQr0RWjl0CcC6Lj9ntDPodbmAwyjYMZ9XgowPpWbQ84pYZwHc_8dTPxWauvDj_Eku5Thxpnsd4IQPO0QcpqIZZTO2Ragm38S1JpKKdn_M-milzIp9kTyUkMOJRBCulPdlN5VCasPDwOICqOv1YiLwa63UqSKeG1Tj2tM3ub_dWncBnzYg17nKXCuVfOjGHvYw9K0lvD-1.ts"
 			}
 		]
 	},
@@ -24123,15 +24123,15 @@
 	},
 	"c54b1467-4d1c-4dc6-859f-8d41c2a86ae9": {
 		"name": "affiliate_onboarding_fraud",
-		"v": 25566,
+		"v": 25581,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 20,
 				"value": "heuristics"
 			},
 			{
-				"weight": 70,
+				"weight": 80,
 				"value": "model"
 			}
 		]
