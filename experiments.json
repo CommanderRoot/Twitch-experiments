@@ -12935,6 +12935,21 @@
 			}
 		]
 	},
+	"68f5115a-6157-47ed-b414-3711991ad42a": {
+		"name": "dart_tnfwk13pgcvwr_895_dav_cmc_lrn_wch_po_2212_holdout",
+		"v": 25593,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"690a83da-6bed-474f-a20c-d8baaf003208": {
 		"name": "android_whispers_chat_parsing",
 		"v": 17587,
