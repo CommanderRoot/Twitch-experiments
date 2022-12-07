@@ -4219,15 +4219,15 @@
 	},
 	"224ee659-4fa5-4e2e-a8bd-d86a3805254f": {
 		"name": "ios_creator_insights_u",
-		"v": 25538,
+		"v": 25605,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "inactive"
 			}
 		]
@@ -12922,15 +12922,15 @@
 	},
 	"68ef13be-6f9d-40ea-9347-da8c36c96f5b": {
 		"name": "ios_dashboard_v2",
-		"v": 24432,
+		"v": 25606,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -17111,15 +17111,15 @@
 	},
 	"8ac9fd83-8f61-4fea-ae68-3e0646be8226": {
 		"name": "android_creator_insights",
-		"v": 25537,
+		"v": 25604,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_14.3"
 			}
 		]
