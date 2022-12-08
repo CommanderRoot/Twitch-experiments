@@ -15450,6 +15450,21 @@
 			}
 		]
 	},
+	"7bf05eeb-95d1-40f8-919b-67ec5185ab5b": {
+		"name": "android_error_catching_proxy_selector",
+		"v": 25623,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.4"
+			}
+		]
+	},
 	"7bf6c345-cc48-4bc4-bfdc-908453588b25": {
 		"name": "dart_streamerbowl_vwr_359_dav_cmc_wch_gmg_eo_2102_holdout",
 		"v": 13399,
