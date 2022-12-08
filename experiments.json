@@ -11599,25 +11599,6 @@
 			}
 		]
 	},
-	"5ee8cadc-f902-4700-adfa-b99ad92bf1ab": {
-		"name": "dart_stream_summary_experiment_email",
-		"v": 25445,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "Variant A"
-			},
-			{
-				"weight": 0,
-				"value": "Variant B"
-			},
-			{
-				"weight": 100,
-				"value": "Variant C"
-			}
-		]
-	},
 	"5ef9c9be-bc25-4b0b-a2d3-bcad72541771": {
 		"name": "adblock_prerollratelimit_rollout",
 		"v": 22262,
