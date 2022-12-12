@@ -23092,19 +23092,19 @@
 	},
 	"b922202a-f108-4da4-beb1-bcb4f21b2f16": {
 		"name": "ios_integrity_gql",
-		"v": 25533,
+		"v": 25665,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 33,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 33,
 				"value": "active_without_enforcement_14.3"
 			},
 			{
-				"weight": 1,
+				"weight": 33,
 				"value": "active_with_enforcement_14.3"
 			}
 		]
