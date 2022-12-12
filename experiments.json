@@ -2123,6 +2123,21 @@
 			}
 		]
 	},
+	"114e0fec-2bb0-479c-bc92-8b73980ea80e": {
+		"name": "ios_raids_v2",
+		"v": 25670,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"11611bbf-0188-4d2f-a200-84358cfaaf57": {
 		"name": "twilight_editing_les_poissons",
 		"v": 4282,
