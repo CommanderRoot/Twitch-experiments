@@ -7679,15 +7679,15 @@
 	},
 	"40745c6f-bec1-4c90-bb26-79cc10730ab4": {
 		"name": "ios_rec_22",
-		"v": 25677,
+		"v": 25686,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -29014,15 +29014,15 @@
 	},
 	"ebd99120-bda6-45d8-b148-28bbe0b0c070": {
 		"name": "dart_fanout_nes_dual_read_rollout",
-		"v": 25684,
+		"v": 25685,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "variant"
 			}
 		]
