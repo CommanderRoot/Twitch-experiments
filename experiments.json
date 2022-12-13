@@ -11555,9 +11555,9 @@
 	},
 	"5e7a2628-2418-419b-93b2-df38ebdafabd": {
 		"name": "commerce_fraud_low_risk_velocity",
-		"v": 25591,
+		"v": 25680,
 		"t": 2,
-		"s": 3,
+		"s": 4,
 		"groups": [
 			{
 				"weight": 50,
@@ -16800,6 +16800,21 @@
 	"85a2eee0-41c8-418c-b7f8-4b6588066149": {
 		"name": "dart_rdeem5_vwr_503_sbs_cmc_sub_mis_email_2108_duplicate_holdout",
 		"v": 17719,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"85aec203-6d59-483b-8a8c-80c13f942809": {
+		"name": "dart_eoycreatoremail_vwr_898_awa_cmc_mis_email_2212_holdout",
+		"v": 25678,
 		"t": 2,
 		"groups": [
 			{
@@ -28849,6 +28864,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"eaef2a09-07cd-4f99-ab4c-0f60c408fb53": {
+		"name": "dart_eoyvieweremail_vwr_898_awa_cmc_mis_email_2212_holdout",
+		"v": 25679,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
 				"value": "allowed"
 			}
 		]
