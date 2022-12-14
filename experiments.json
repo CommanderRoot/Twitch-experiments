@@ -24995,6 +24995,21 @@
 			}
 		]
 	},
+	"c9fb84b7-f08d-4809-8e14-cf85fb900419": {
+		"name": "dart_tnflwk14vwr_799_dav_cmc_lrn_wch_po_2212_holdout",
+		"v": 25711,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ca0925b3-1c6b-4351-8309-a2110855bd3f": {
 		"name": "dart_frozenbatchen1011_vwr_560_dav_cmc_wch_mis_email_2111_holdout",
 		"v": 17728,
@@ -28302,6 +28317,21 @@
 	"e559d41c-a6cf-498d-9a82-66cdae6ae81e": {
 		"name": "dart_merchaugptcams_vwr_784_cmm_cmc_buy_mis_onsite_229_holdout",
 		"v": 24429,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"e5621124-e14d-4092-a39a-396f93093e27": {
+		"name": "dart_tnflwk15vwr_799_dav_cmc_lrn_wch_po_2212_holdout",
+		"v": 25710,
 		"t": 2,
 		"groups": [
 			{
