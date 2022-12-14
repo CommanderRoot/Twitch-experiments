@@ -29787,19 +29787,19 @@
 	},
 	"f0d474da-ce17-4d1e-a54f-f6e38755e3ce": {
 		"name": "ios_segmented_signup",
-		"v": 25510,
+		"v": 25718,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "contact_first"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "credentials_first"
 			}
 		]
