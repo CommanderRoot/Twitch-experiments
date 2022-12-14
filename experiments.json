@@ -31529,17 +31529,17 @@
 		]
 	},
 	"ffbae574-1b46-4a81-9eef-acb00b73f6b5": {
-		"name": "android_gift_a_sub_cta_color_experiment",
-		"v": 25330,
+		"name": "android_gift_a_sub_cta_color",
+		"v": 25712,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_development"
+				"weight": 10,
+				"value": "active_14.3"
 			}
 		]
 	},
