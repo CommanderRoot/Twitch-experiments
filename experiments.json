@@ -2575,6 +2575,21 @@
 			}
 		]
 	},
+	"148d0095-f5e7-4961-bfe1-2c71c932e60b": {
+		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_onsite_2212_2ndsend_holdout",
+		"v": 25725,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"14c00ac0-3d6c-49c1-852b-5a67f546c5af": {
 		"name": "ios_gql_interceptors",
 		"v": 22652,
@@ -8753,6 +8768,21 @@
 			}
 		]
 	},
+	"476e7ece-e5a5-44ea-af2b-7ce73c3dc003": {
+		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_push_2212_holdout",
+		"v": 25723,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"47d9aef7-2408-4e65-a60c-95da722d8369": {
 		"name": "Remove Pops From Mapping Considerations ",
 		"v": 21942,
@@ -9050,6 +9080,21 @@
 			{
 				"weight": 0,
 				"value": "variant_2"
+			}
+		]
+	},
+	"4a7bb40c-9114-443c-aae8-70910fa1106f": {
+		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_push_2212_3rdday_holdout",
+		"v": 25726,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -19153,6 +19198,21 @@
 			{
 				"weight": 100,
 				"value": "enabled_v6.6_and_later"
+			}
+		]
+	},
+	"98779d7c-43fc-40a1-a6b7-c964db3a8df1": {
+		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_onsite_2212_holdout",
+		"v": 25724,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -29567,6 +29627,21 @@
 			{
 				"weight": 100,
 				"value": "active_v8.5"
+			}
+		]
+	},
+	"ee8de73a-7358-4f49-9980-ceb32be2f73f": {
+		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_push_2212_2ndday_holdout",
+		"v": 25722,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
