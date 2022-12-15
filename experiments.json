@@ -8431,15 +8431,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 25224,
+		"v": 25738,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 5,
 				"value": "promotions_enabled"
 			}
 		]
