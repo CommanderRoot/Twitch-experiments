@@ -17007,6 +17007,21 @@
 			}
 		]
 	},
+	"8731f664-712a-4ccd-91c8-c3880bf28ce3": {
+		"name": "dart_merchholidaypromo_ctr_884_cmm_cmc_buy_mis_onsite_2212_holdout",
+		"v": 25737,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"87bc791d-ae59-4494-85b5-0e6552fb905b": {
 		"name": "android_max_playback_rate",
 		"v": 25448,
