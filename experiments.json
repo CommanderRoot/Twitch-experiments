@@ -18366,6 +18366,21 @@
 			}
 		]
 	},
+	"92a232ad-aea5-4554-a0da-106ebf19d7f8": {
+		"name": "dart_leagueoftwittos_vwr_897_dav_cmc_wch_gmg_email_2212_holdout",
+		"v": 25745,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"92dccece-b938-423e-97e8-56d0a88a4a6b": {
 		"name": "android_tcf_v2",
 		"v": 22184,
@@ -25425,6 +25440,21 @@
 			{
 				"weight": 0,
 				"value": "active_2100"
+			}
+		]
+	},
+	"ccb8b894-13ee-427c-920b-db3dbf8ff021": {
+		"name": "dart_leagueoftwittos_vwr_897_dav_cmc_wch_gmg_push_2212_holdout",
+		"v": 25746,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
