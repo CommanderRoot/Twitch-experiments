@@ -10740,6 +10740,21 @@
 			}
 		]
 	},
+	"5806ef8f-f154-4ead-b074-7e9a412a92a8": {
+		"name": "dart_adobefolowupaffiliates_ctr_892_cmm_cmc_sup_mis_email_2212_holdout",
+		"v": 25748,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"580daffa-c5ba-476d-b3b3-6c366c5bc070": {
 		"name": "android_separate_player_thread",
 		"v": 25700,
@@ -29224,7 +29239,7 @@
 	},
 	"ebd99120-bda6-45d8-b148-28bbe0b0c070": {
 		"name": "dart_fanout_nes_dual_read_rollout",
-		"v": 25747,
+		"v": 25749,
 		"t": 2,
 		"groups": [
 			{
@@ -29232,7 +29247,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "variant"
 			}
 		]
