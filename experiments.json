@@ -26158,6 +26158,21 @@
 			}
 		]
 	},
+	"d24d0646-6787-414b-ab4b-412b1d5081de": {
+		"name": "ios_ads_mcf",
+		"v": 25758,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_debug"
+			}
+		]
+	},
 	"d24df7e2-f6eb-4ba9-aa1e-2fb9274788d5": {
 		"name": "dart_rivalrustbattle20ukus_vwr_781_dav_cmc_wch_gmg_email_2208_holdout",
 		"v": 22548,
