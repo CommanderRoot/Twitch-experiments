@@ -20220,6 +20220,21 @@
 			}
 		]
 	},
+	"9fab44d9-4e9b-4257-ba78-dfae09e711c2": {
+		"name": "dart_giftcard2022_ctr_900_cmm_cmc_buy_mis_email_2212_holdout",
+		"v": 25764,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9fb5791d-b18f-461a-a519-8a59add0c17d": {
 		"name": "percolite-global-overrides",
 		"v": 22374,
