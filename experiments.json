@@ -30173,6 +30173,21 @@
 			}
 		]
 	},
+	"f2a21d34-cf40-43ae-b1bf-c311dece07e0": {
+		"name": "dart_merchnewyearpromo_ctr_884_cmm_cmc_buy_mis_email_2212_holdout",
+		"v": 25769,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f303bbaa-db8a-4ed1-ad49-8d078de106d8": {
 		"name": "ads_squadstream_decliner_rollout",
 		"v": 15412,
