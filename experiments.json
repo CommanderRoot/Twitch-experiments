@@ -4482,15 +4482,15 @@
 	},
 	"23c4d1d3-847e-4f7a-af5a-8212f4a2765d": {
 		"name": "android_player_latency_buffer_strategy",
-		"v": 24363,
+		"v": 25781,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "treatment"
 			}
 		]
@@ -9360,12 +9360,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 25776,
+		"v": 25780,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-712c5e.pdx01.abs.hls.ttvnw.net/v1/segment/CkWRxqelMvUc2QN_Ws6OO4VdcCwBusafHMEYrlVssx2ZbJhEYDQ1Mxi64CLIwagaBiJQuIVdZLjjrXxCBqh8cyGKshhY3h-p9nFM4M-qxSW6Pwo4tfBD0ELtVJ6kKGPbTgJteSeN_7gIuht7tC7rjQARvE5eo4oHGyEx_tfWcMcrLvPInVdx9-l6Vzz2nE0_JakkoOUNMxtUq4wf8sTEmXcYCGhiHFL8kyNX_Wo6W1FnId6rV3r-rhdpk5MjpdAjNOYG7DJLmZ0xcxQv1mK7heSyqvVkWCDsbaCB9IwHQgq1R7SSxfEowHcw3enVwtbU-3O8mbPcobkY8HhsWRXbS8L8Isnv-i8DAtT7tHOmX0avzM3BrM5hQSfA9j9cbnCCyYAKkF4jJgIb6RMlvtN_KXJcweyhn4GtKyARR51sLBTM54nL08pwIRPxd5gsTipDd4DpFreSLlK4GU2srce5-UgI6vYa3PqcUec5Kd9xQanNeXOqoU8VQVyDvoqRPtMtUVytzu6RD3fAxVutgfjeGwVFHa2heHIRAJpPMGL0PUgbqTnuDrfczaWACsDmqv9DuLRy3mSpS8RKwOQYkuOTVCv8BHzvcQOnPtgi6CDJElxVmGo-ayyv97gaJU4gDOQe9wiSVPuiRFs_wqSgCR92CxKIrPrJI3f6nK2o9GwjiT4izBGYcv_HXeVTTLJPODSew0Q2C1FQ67DDMAZZyhEy4XB1u93ZzslczOvQ2PcQRmFQLaJOjdZTs8qtq90McVXkHvx5rDOj9EqxcwTUzGsYTlyJTg.ts"
+				"value": "//video-edge-8846ca.pdx01.abs.hls.ttvnw.net/v1/segment/CsV6faf5mI9iVG_Qob8tTKIC5LilmYn6zj_HpHC19OX4er-n6hoBCxULwaGWvP81wc-mlrOilSMq4vyDATuXIkZhmRYolV1Bi26i5zV56tBhKqliOvKu4e6zgXcjicHY10aWhKGjJqPKi_uBajIpTbi-8VgP-DLyqsd0ecRefQA-21tWhE5u4GU8GmJneN5Qxyo-g6gOCRhejbPK-iV0wKe9MWu_1OaZU-s5XZDK02wPzOoegHDzihpPONTTfE9e5pAoLDmTJypO1OUphAiW1Q_-QpF3VtTrkmzbHTLSUeNaH-kLzYyva8G7gjm72pogHOfFXp7HDuhMF-d2qHjxW51G99G2rPJ2U2zwFWfdow-Sy0m0w1kzdSTtleljc3ze0G6PLjeqIU40O-tLJfwEq2vivY3D7qA1BQg_9_-7u2QenDxEBZz2NqrpQyYJzIFJCtYPO32s0cRt1K5LNZsp7zUbBcWm7nH-nXPaUm8KOnkXZrA_6n-Ugw7TyauK6L40a-sPZnGQbIW0cwhtaMHeL8FIgiNVFZX74txkPsL23z1sFVRHZt6Zvrii3Y0-Q203zPbd8qEbGxPfkKj3UYoag6ebqkaEipW4Zdf39fnN8t4EL8fwyc_Kx-4qZ61v4jHLooSQSF8rL_dUd0KFmlHe4brt2AGNR-XfuRtg2btRhgVflASE_X2RT2f2qEW_-p8SbVUrXrW7fd-L8PfHDwpyIiH-L5WFT7KtEN5PjoVuPvzUltCwrkWCsJs8jTnaR16RjKreJtIuFi5o.ts"
 			}
 		]
 	},
