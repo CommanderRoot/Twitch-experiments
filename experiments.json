@@ -11938,6 +11938,21 @@
 			}
 		]
 	},
+	"603840b1-a9de-48f1-b105-f08e5ef3f168": {
+		"name": "android_ads_mcf",
+		"v": 25788,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"603ea784-c7d1-4556-993a-c3aa0d673062": {
 		"name": "ios_recs_in_following",
 		"v": 13712,
