@@ -29284,15 +29284,15 @@
 	},
 	"ebd99120-bda6-45d8-b148-28bbe0b0c070": {
 		"name": "dart_fanout_nes_dual_read_rollout",
-		"v": 25777,
+		"v": 25786,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "variant"
 			}
 		]
