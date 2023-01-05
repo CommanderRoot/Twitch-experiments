@@ -27512,6 +27512,21 @@
 			}
 		]
 	},
+	"dc885225-b912-4574-9fe7-fac09a306a59": {
+		"name": "dart_action5mpfollowtest_vwr_905_flw_cmc_flw_mis_email_2301_holdout",
+		"v": 25801,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"dc9b2702-249c-4f76-bd24-1e2d0fb11d87": {
 		"name": "android_audio_ads",
 		"v": 18704,
