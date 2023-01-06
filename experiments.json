@@ -481,15 +481,15 @@
 	},
 	"042ce8b9-aca4-47bb-a7e5-eea3a5a214a4": {
 		"name": "android_core_player_synchronized_release",
-		"v": 23871,
+		"v": 25817,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_13.7"
 			}
 		]
