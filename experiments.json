@@ -11209,6 +11209,21 @@
 			}
 		]
 	},
+	"5b76bf67-cd28-4c27-9f28-24e004f3d072": {
+		"name": "dart_fanout_nes_migration_rollout",
+		"v": 25821,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"5ba34d44-bc46-4962-8cf6-5ea9f8a28f2a": {
 		"name": "android_global_follow_button_revamp",
 		"v": 10412,
