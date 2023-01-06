@@ -4873,6 +4873,21 @@
 			}
 		]
 	},
+	"2744e375-39ac-4491-b6c3-16fedaff5c67": {
+		"name": "ios_new_games_pill",
+		"v": 25815,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"274f6835-a41d-417c-ad58-f1321e2aac39": {
 		"name": "android_skippable_ads",
 		"v": 2582,
@@ -6014,7 +6029,7 @@
 	},
 	"31c036b2-618d-4375-ba38-b9488749debf": {
 		"name": "android_pip_smooth_enter",
-		"v": 23922,
+		"v": 25814,
 		"t": 1,
 		"groups": [
 			{
@@ -6023,7 +6038,7 @@
 			},
 			{
 				"weight": 50,
-				"value": "active_13.8"
+				"value": "active_14.4"
 			}
 		]
 	},
