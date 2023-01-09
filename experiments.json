@@ -20774,6 +20774,21 @@
 			}
 		]
 	},
+	"a4fd6ed3-6483-43e0-b1c7-44709f96ca23": {
+		"name": "dart_apac_twn_hongbao_vwr_0_dav_trn_wch_gmg_email_2312_holdout",
+		"v": 25830,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a51bc8be-9cad-477b-b084-83931bb04413": {
 		"name": "ad_countdown_timers_surestream",
 		"v": 6237,
