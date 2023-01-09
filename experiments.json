@@ -31037,6 +31037,21 @@
 			}
 		]
 	},
+	"fa173333-8132-4293-8db2-40abadbfc5d8": {
+		"name": "ios_omnibus_signup",
+		"v": 25841,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "active"
+			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"fa2fa316-88b9-49b2-a96c-6ad4ecef2904": {
 		"name": "ios_enable_rooms",
 		"v": 2188,
