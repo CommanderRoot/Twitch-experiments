@@ -21503,6 +21503,21 @@
 			}
 		]
 	},
+	"aa48ea39-abe6-49f8-a516-5041497e293c": {
+		"name": "dart_santaeffectio_ctr_884_dav_cmc_wch_mis_email_231_holdout",
+		"v": 25862,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"aa5b595e-b798-4fff-bf66-ee208de82419": {
 		"name": "dart_summerg22viewers_vwr_724_awa_cmc_lrn_mis_emailonsite_226_holdout",
 		"v": 21434,
@@ -27123,6 +27138,21 @@
 			}
 		]
 	},
+	"d8e2b368-95ed-4a3f-b090-f231c2ba9131": {
+		"name": "dart_santaeffectio_ctr_884_dav_cmc_wch_mis_email_231_email",
+		"v": 25863,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"d8f10844-9492-4c46-b939-f9575a13dfce": {
 		"name": "ios_discover_swiftui",
 		"v": 20493,
@@ -27790,12 +27820,12 @@
 	},
 	"de28be6d-d909-4b75-b661-645edb09f0d6": {
 		"name": "android_expandable_ads",
-		"v": 25434,
+		"v": 25861,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_14.4"
 			},
 			{
 				"weight": 100,
