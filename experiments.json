@@ -27957,15 +27957,15 @@
 	},
 	"df9d5a63-1e48-47b8-80ec-db48a6d818d1": {
 		"name": "ios_ivs_player_seek_mediatime_fix",
-		"v": 25283,
+		"v": 25867,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
