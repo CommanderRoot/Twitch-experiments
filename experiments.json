@@ -4482,15 +4482,15 @@
 	},
 	"23c4d1d3-847e-4f7a-af5a-8212f4a2765d": {
 		"name": "android_player_latency_buffer_strategy",
-		"v": 25781,
+		"v": 25852,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
