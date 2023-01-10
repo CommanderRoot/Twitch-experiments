@@ -9665,16 +9665,20 @@
 	},
 	"4e809572-a1c8-40fc-bd01-f018356c070a": {
 		"name": "android_new_games_pill",
-		"v": 25429,
+		"v": 25860,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 100,
+				"value": "active_14.4"
 			}
 		]
 	},
