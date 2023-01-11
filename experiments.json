@@ -4875,15 +4875,15 @@
 	},
 	"2744e375-39ac-4491-b6c3-16fedaff5c67": {
 		"name": "ios_new_games_pill",
-		"v": 25815,
+		"v": 25884,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
