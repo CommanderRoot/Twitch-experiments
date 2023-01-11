@@ -19889,16 +19889,20 @@
 	},
 	"9c2ab477-295c-4322-8656-608579ade1e2": {
 		"name": "ios_ads_branded_content",
-		"v": 24926,
+		"v": 25878,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "active_14.2"
+				"value": "active_14.5"
 			},
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.2"
 			}
 		]
 	},
