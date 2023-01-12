@@ -1518,15 +1518,15 @@
 	},
 	"0bdb3658-2524-48d7-8165-36a11168c580": {
 		"name": "android_ads_rx_client_video_ad_presenter",
-		"v": 21172,
+		"v": 25911,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "active_development"
+				"weight": 50,
+				"value": "active_14.4"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
