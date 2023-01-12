@@ -13162,15 +13162,15 @@
 	},
 	"68ef13be-6f9d-40ea-9347-da8c36c96f5b": {
 		"name": "ios_dashboard_v2",
-		"v": 25606,
+		"v": 25907,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
