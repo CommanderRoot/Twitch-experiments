@@ -4697,6 +4697,21 @@
 			}
 		]
 	},
+	"2570d37f-12e8-4d49-aff0-e1ed574a4b19": {
+		"name": "dart_merchq1flashsaleuk_ctr_902_cmm_cmc_buy_mis_onsite_231_holdout",
+		"v": 25923,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"258573af-70a2-49b7-a7a7-8f534ed2f0af": {
 		"name": "tvapps_additional_crash_dump_info",
 		"v": 9153,
