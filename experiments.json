@@ -29008,23 +29008,23 @@
 	},
 	"e82cf894-8810-4990-ae9e-6a3011da6999": {
 		"name": "android_stream_subs_cta_landscape_mode",
-		"v": 25732,
+		"v": 25924,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "sub_goal_started_or_updated_14.3"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "commerce_spent_increased_14.3"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "chat_activity_increased_14.3"
 			}
 		]
@@ -31947,15 +31947,15 @@
 	},
 	"ffbae574-1b46-4a81-9eef-acb00b73f6b5": {
 		"name": "android_gift_a_sub_cta_color",
-		"v": 25733,
+		"v": 25925,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_14.3"
 			}
 		]
