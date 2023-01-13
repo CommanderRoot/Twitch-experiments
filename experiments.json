@@ -17319,6 +17319,21 @@
 			}
 		]
 	},
+	"8a515e92-152d-4b05-9cdb-da0c38565992": {
+		"name": "dart_merchq1flashsaleus_ctr_902_cmm_cmc_buy_mis_onsite_231_holdout",
+		"v": 25921,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8a549d2e-99bf-4ff9-bd82-db0298b91d3a": {
 		"name": "android_project_post",
 		"v": 11431,
@@ -20389,6 +20404,21 @@
 			},
 			{
 				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
+	"a02f9343-9dcd-451c-bd75-1946acecd9fd": {
+		"name": "dart_merchfashsaleq1de_ctr_902_cmm_cmc_buy_mis_onsite_231_holdout",
+		"v": 25922,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
