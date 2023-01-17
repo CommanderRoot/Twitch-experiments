@@ -5422,15 +5422,15 @@
 	},
 	"2bd527cd-9a03-42b6-b388-1d2202802aa2": {
 		"name": "ios_purpose_based_consent_enabled",
-		"v": 22430,
+		"v": 25949,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v13.6"
 			}
 		]
@@ -19372,8 +19372,9 @@
 	},
 	"987cca77-0b6f-4e6a-abe5-4520b0318891": {
 		"name": "ios_irl_ux_revamp",
-		"v": 25945,
+		"v": 25950,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 50,
