@@ -19372,15 +19372,15 @@
 	},
 	"987cca77-0b6f-4e6a-abe5-4520b0318891": {
 		"name": "ios_irl_ux_revamp",
-		"v": 25887,
+		"v": 25945,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_14.4"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
