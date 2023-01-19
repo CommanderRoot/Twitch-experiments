@@ -2438,19 +2438,20 @@
 	},
 	"1321d10a-b8c7-4f61-b65c-f5cd63e7f8c5": {
 		"name": "android_integrity_gql",
-		"v": 25534,
+		"v": 25986,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 96,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 2,
 				"value": "active_without_enforcement_14.3"
 			},
 			{
-				"weight": 1,
+				"weight": 2,
 				"value": "active_with_enforcement_14.3"
 			}
 		]
