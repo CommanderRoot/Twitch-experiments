@@ -16632,6 +16632,21 @@
 			}
 		]
 	},
+	"82935078-a38f-42a2-b7fb-3c03b00aa04b": {
+		"name": "ios_raids_v2_target_filtering",
+		"v": 25995,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"82bc0a35-eaad-4436-ae69-fe2a2b3adfb9": {
 		"name": "dart_uscharityannouncement_ctr_882_awa_cmc_lrn_mis_eo_2211_holdout",
 		"v": 25602,
