@@ -17871,11 +17871,11 @@
 	},
 	"8dfc9e67-17ff-452d-a61f-b78112e9971c": {
 		"name": "ios_leaderboards_webview",
-		"v": 25930,
+		"v": 26005,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -17883,7 +17883,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_14.3"
 			}
 		]
@@ -20762,15 +20762,15 @@
 	},
 	"a424f101-342c-42f0-a12f-a71e5baf0cad": {
 		"name": "android_leaderboards_webview",
-		"v": 25929,
+		"v": 26004,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_13.9"
 			}
 		]
