@@ -11261,15 +11261,15 @@
 	},
 	"5b76bf67-cd28-4c27-9f28-24e004f3d072": {
 		"name": "dart_fanout_nes_migration_rollout",
-		"v": 26051,
+		"v": 26052,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 40,
 				"value": "variant"
 			}
 		]
