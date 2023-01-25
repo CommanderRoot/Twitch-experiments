@@ -370,6 +370,33 @@
 			}
 		]
 	},
+	"02ec3205-c11e-4079-bc93-da2335c680f8": {
+		"name": "ios_integrity_gql_v2",
+		"v": 26066,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_without_enforcement_14.5"
+			},
+			{
+				"weight": 0,
+				"value": "active_with_dummy_token_14.5"
+			},
+			{
+				"weight": 0,
+				"value": "active_without_token_14.5"
+			},
+			{
+				"weight": 0,
+				"value": "active_with_enforcement_14.5"
+			}
+		]
+	},
 	"0314f042-5579-493f-ae83-2bb40f3c018b": {
 		"name": "dart_apac_php_globestreamers5_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
 		"v": 24000,
