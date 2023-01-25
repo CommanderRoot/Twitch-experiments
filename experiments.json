@@ -5682,6 +5682,21 @@
 			}
 		]
 	},
+	"2e339e33-62ee-4824-89da-2042513386c2": {
+		"name": "dart_adobefinalonsiteaffiliates_ctr_916_cmm_cmc_sup_mis_onsite_231_holdout",
+		"v": 26089,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2e6271e2-8acf-495c-899f-6a686431c48e": {
 		"name": "dart_live_up_onsite",
 		"v": 26041,
@@ -22298,6 +22313,21 @@
 			}
 		]
 	},
+	"af423fcb-e4f7-4917-b86c-e7b9d3d1ef50": {
+		"name": "dart_adobefinalonsitepartners_ctr_916_cmm_cmc_sup_mis_onsite_231_holdout",
+		"v": 26090,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"af533195-07d4-4532-ba6b-93dcb72ce5a8": {
 		"name": "dart_international_price_mxtr_prime_holdout",
 		"v": 15301,
@@ -22880,6 +22910,21 @@
 			{
 				"weight": 98,
 				"value": "control"
+			}
+		]
+	},
+	"b2a4c2b6-0885-4a5d-a85d-6f703d28f153": {
+		"name": "dart_adobefinalemailaffiliates_ctr_916_cmm_cmc_sup_mis_eo_231_holdout",
+		"v": 26088,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
