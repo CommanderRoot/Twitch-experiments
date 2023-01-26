@@ -5756,15 +5756,15 @@
 	},
 	"2e9c0a52-6729-4cac-b999-b6765155d406": {
 		"name": "android_follow_sub_during_ads",
-		"v": 26087,
+		"v": 26121,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_14.4"
 			}
 		]
@@ -15784,15 +15784,15 @@
 	},
 	"7bf05eeb-95d1-40f8-919b-67ec5185ab5b": {
 		"name": "android_error_catching_proxy_selector",
-		"v": 25623,
+		"v": 26122,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_14.4"
 			}
 		]
