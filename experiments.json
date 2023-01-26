@@ -30297,6 +30297,21 @@
 			}
 		]
 	},
+	"f0473f96-d7c1-4936-b9ef-c7ab2ead29d5": {
+		"name": "dart_littlebigcommunitiesannounce_ctr_928_awa_cmc_wch_mis_oe_2301_holdout",
+		"v": 26113,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f0707895-a226-4e71-92cb-9fe85024b132": {
 		"name": "dart_yogscastjinglejam_vwr_889_dav_cmc_wch_gmg_email_2212_holdout",
 		"v": 25477,
