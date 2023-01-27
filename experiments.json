@@ -4010,6 +4010,21 @@
 			}
 		]
 	},
+	"208067ce-2bce-4c51-9764-536fe68e1e0c": {
+		"name": "dart_esland_awards_vwr_919_dav_cmc_wch_mis_oe_2301_holdout",
+		"v": 26134,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"20a3c743-f570-442b-a0db-4dad344be426": {
 		"name": "android_ccpa_gdpr",
 		"v": 9241,
@@ -20833,6 +20848,21 @@
 			{
 				"weight": 1,
 				"value": "variant1"
+			}
+		]
+	},
+	"a3aeaba2-d7af-4f2f-8d42-bcd68c99ab25": {
+		"name": "dart_esland_awards_vwr_919_dav_cmc_wch_mis_push_2301_holdout",
+		"v": 26135,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
