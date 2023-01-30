@@ -29829,6 +29829,21 @@
 			}
 		]
 	},
+	"eca5ffa3-3ce1-4319-936a-56440be13091": {
+		"name": "dart_littlebigcommunitieslaunchstreamers_ctr_932_awa_cmc_wch_mis_oe_2301_holdout",
+		"v": 26155,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ed053da0-4adf-4ab7-80c2-8b321425a96b": {
 		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_holdout",
 		"v": 25265,
