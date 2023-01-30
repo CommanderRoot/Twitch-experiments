@@ -13248,6 +13248,21 @@
 			}
 		]
 	},
+	"68cf4a78-8df5-48b7-8013-af4addc76eb3": {
+		"name": "dart_adlastchancenov_ctr_848_awa_cmc_non_mis_2301_email",
+		"v": 26161,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "Variant A"
+			},
+			{
+				"weight": 100,
+				"value": "Variant B"
+			}
+		]
+	},
 	"68e81235-d069-4c70-b8b4-22a5a9719a50": {
 		"name": "bf_recs_test",
 		"v": 4123,
@@ -15237,6 +15252,21 @@
 			{
 				"weight": 100,
 				"value": "active_14.3"
+			}
+		]
+	},
+	"77875b2e-cdc2-4f60-8c19-e8024f3271a9": {
+		"name": "dart_adlastchancenov_ctr_848_awa_cmc_non_mis_2301_holdout",
+		"v": 26160,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
