@@ -10507,15 +10507,15 @@
 	},
 	"538fd45f-6438-4e48-8356-5b92025ef94c": {
 		"name": "android_exo2_on_64bit_devices",
-		"v": 22787,
+		"v": 26187,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_12.7"
 			}
 		]
@@ -14994,15 +14994,15 @@
 	},
 	"758294a2-3fc6-4168-8bc7-4519df2e6bf3": {
 		"name": "android_exo2_on_32bit_devices",
-		"v": 22786,
+		"v": 26188,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_12.7"
 			}
 		]
