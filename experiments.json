@@ -24957,15 +24957,15 @@
 	},
 	"c54b1467-4d1c-4dc6-859f-8d41c2a86ae9": {
 		"name": "affiliate_onboarding_fraud",
-		"v": 26218,
+		"v": 26219,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "heuristics"
 			},
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "model"
 			}
 		]
