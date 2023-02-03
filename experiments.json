@@ -32114,6 +32114,21 @@
 			}
 		]
 	},
+	"fd69d9f0-ef4d-4581-83ba-5ca5b190d033": {
+		"name": "notification_settings_dax_dual_rollout",
+		"v": 26249,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"fd6c3fc5-b4e5-40b4-8fce-755622914cee": {
 		"name": "ios_friends_to_gql",
 		"v": 11692,
