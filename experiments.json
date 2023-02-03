@@ -15451,6 +15451,21 @@
 			}
 		]
 	},
+	"78e3355a-1000-41c2-86db-d812904abece": {
+		"name": "hls_refactor_android",
+		"v": 26236,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"78fc88b3-5d5e-49e5-9b95-539cb65c31e7": {
 		"name": "android_mgst_dynamic_resolution",
 		"v": 20473,
@@ -23827,6 +23842,21 @@
 			}
 		]
 	},
+	"b9e43daf-242f-4521-b36b-00f50d38602a": {
+		"name": "hls_refactor_ios",
+		"v": 26235,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"b9e9bff1-c30a-4acc-b201-2443e3c560ba": {
 		"name": "dart_rivalsrustbattle2es_vwr_781_dav_cmc_wch_gmg_email_2208_holdout",
 		"v": 22547,
@@ -30199,6 +30229,21 @@
 			{
 				"weight": 1,
 				"value": "active-10.8"
+			}
+		]
+	},
+	"ee0aa3fc-296a-4d83-b185-7077206755f2": {
+		"name": "hls_refactor_web",
+		"v": 26234,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
