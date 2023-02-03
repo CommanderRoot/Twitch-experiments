@@ -1052,6 +1052,21 @@
 			}
 		]
 	},
+	"08478764-2334-4cbb-b8b4-1eeaa10c3b46": {
+		"name": "notifications_settings_dax_write_rollout",
+		"v": 26250,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"0850e882-ca33-43ac-81a7-0652eedf283c": {
 		"name": "dart_celine_catapush_msg_4_holdout",
 		"v": 8814,
