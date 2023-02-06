@@ -4322,15 +4322,15 @@
 	},
 	"224ee659-4fa5-4e2e-a8bd-d86a3805254f": {
 		"name": "ios_creator_insights_u",
-		"v": 25605,
+		"v": 26275,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "inactive"
 			}
 		]
