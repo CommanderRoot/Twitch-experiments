@@ -31398,6 +31398,21 @@
 			}
 		]
 	},
+	"f816d7ac-fbd6-4773-a680-e6c2fb5d0905": {
+		"name": "dart_walletdrop_expiration_dynamic_2301_holdout",
+		"v": 26278,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
+				"value": "allowed"
+			}
+		]
+	},
 	"f8740e82-1221-46ea-84cb-0a8192660cd7": {
 		"name": "android_conscrypt_as_first_security_provider_latam",
 		"v": 18838,
