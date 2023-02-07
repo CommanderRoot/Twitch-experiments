@@ -15349,6 +15349,21 @@
 			}
 		]
 	},
+	"77e82e08-36ab-4d86-8166-b63d87ee76bc": {
+		"name": "android_reuse_autoplay_player",
+		"v": 26293,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"781530f1-5a77-449c-9d1e-604db8050127": {
 		"name": "stream_summary_email",
 		"v": 6932,
