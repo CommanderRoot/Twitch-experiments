@@ -8583,15 +8583,15 @@
 	},
 	"4510d64c-76f0-4105-90f9-536fc1f6320f": {
 		"name": "Promotions_Live_Recommended_Web",
-		"v": 25738,
+		"v": 26301,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "promotions_enabled"
 			}
 		]
@@ -18734,11 +18734,11 @@
 	},
 	"92dccece-b938-423e-97e8-56d0a88a4a6b": {
 		"name": "android_tcf_v2",
-		"v": 26226,
+		"v": 26300,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -18746,7 +18746,7 @@
 				"value": "active_13.5"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_14.4"
 			}
 		]
