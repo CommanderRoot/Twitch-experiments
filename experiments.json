@@ -21149,6 +21149,21 @@
 			}
 		]
 	},
+	"a5064664-178b-4313-a4bb-3365ae8d0d06": {
+		"name": "dart_streamerbowlemail_ctr_907_awa_cmc_wch_gmg_email_232_holdout",
+		"v": 26327,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a51bc8be-9cad-477b-b084-83931bb04413": {
 		"name": "ad_countdown_timers_surestream",
 		"v": 6237,
@@ -27885,6 +27900,21 @@
 			{
 				"weight": 100,
 				"value": "test"
+			}
+		]
+	},
+	"da9aed97-31dd-4d4f-88ba-02a963255672": {
+		"name": "dart_streamerbowlonsite_ctr_907_awa_cmc_wch_gmg_onsite_232_holdout",
+		"v": 26328,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
