@@ -32201,15 +32201,15 @@
 	},
 	"fd69d9f0-ef4d-4581-83ba-5ca5b190d033": {
 		"name": "notification_settings_dax_dual_rollout",
-		"v": 26249,
+		"v": 26340,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "rollout"
 			}
 		]
