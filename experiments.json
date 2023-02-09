@@ -27905,7 +27905,7 @@
 	},
 	"da9aed97-31dd-4d4f-88ba-02a963255672": {
 		"name": "dart_streamerbowlonsite_ctr_907_awa_cmc_wch_gmg_onsite_232_holdout",
-		"v": 26328,
+		"v": 26336,
 		"t": 2,
 		"groups": [
 			{
@@ -31412,26 +31412,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"f7e319fe-a5c5-4833-b949-3ccec65e6cb6": {
-		"name": "random_tomato",
-		"v": 21626,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant"
-			},
-			{
-				"weight": 0,
-				"value": "aatester"
 			}
 		]
 	},
