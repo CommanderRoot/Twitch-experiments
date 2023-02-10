@@ -32465,15 +32465,15 @@
 	},
 	"ffbae574-1b46-4a81-9eef-acb00b73f6b5": {
 		"name": "android_gift_a_sub_cta_color",
-		"v": 25925,
+		"v": 26349,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_14.3"
 			}
 		]
