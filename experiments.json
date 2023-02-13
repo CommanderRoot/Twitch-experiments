@@ -2829,6 +2829,21 @@
 			}
 		]
 	},
+	"1610c724-365a-4b78-8129-ba5b8f395f86": {
+		"name": "dart_tagimpression_ctr_887_awa_cmc_lrn_mis_onsite_232_holdout",
+		"v": 26360,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1610e57d-fa7d-483b-89cc-97a3bd2f999d": {
 		"name": "android_polls_hack",
 		"v": 15322,
