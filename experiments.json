@@ -4463,6 +4463,21 @@
 			}
 		]
 	},
+	"233d7b8d-6cfb-4d90-b373-f25e08b90e1a": {
+		"name": "dart_apac_sgp_valentineday_vwr_0_dav_trn_wch_gmg_email_2302_holdout",
+		"v": 26356,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2352d0b6-7692-49f1-9f8d-88e6cc47994b": {
 		"name": "android_rollout_vod_uploads",
 		"v": 803,
