@@ -5510,11 +5510,11 @@
 	},
 	"2bd527cd-9a03-42b6-b388-1d2202802aa2": {
 		"name": "ios_purpose_based_consent_enabled",
-		"v": 26388,
+		"v": 26390,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -5522,7 +5522,7 @@
 				"value": "active_v13.6"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "active_v14.5"
 			}
 		]
@@ -18794,11 +18794,11 @@
 	},
 	"92dccece-b938-423e-97e8-56d0a88a4a6b": {
 		"name": "android_tcf_v2",
-		"v": 26387,
+		"v": 26389,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -18806,7 +18806,7 @@
 				"value": "active_13.5"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_14.4"
 			}
 		]
