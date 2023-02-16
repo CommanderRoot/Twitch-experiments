@@ -25932,6 +25932,21 @@
 			}
 		]
 	},
+	"cacdeaee-37c7-4c50-ab36-5843df4da9d0": {
+		"name": "dart_lbcrecapviewer_vwr_939_awa_cmc_wch_mis_email_2302_holdout",
+		"v": 26434,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"cb3fe730-3b7d-4fdb-8080-6e99803c6bc9": {
 		"name": "dart_international_price_mxtr_prime_remind_holdout",
 		"v": 15303,
@@ -26299,6 +26314,21 @@
 			{
 				"weight": 20,
 				"value": "Variant E"
+			}
+		]
+	},
+	"cd952304-da90-47b0-84d0-5c6b01da4987": {
+		"name": "dart_twitchcon2023_ctr_908_awa_cmc_lrn_mis_onsite_232_holdout",
+		"v": 26435,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
