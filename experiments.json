@@ -29873,6 +29873,21 @@
 			}
 		]
 	},
+	"ea41ed48-ae2d-4786-bcc6-c2879a33f789": {
+		"name": "test_experiment",
+		"v": 26450,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "test"
+			}
+		]
+	},
 	"ea5d4917-98d3-49c0-8de9-18641e61bfbb": {
 		"name": "dart_rdeem5_vwr_503_sbs_cmc_sub_mis_email_2108_duplicate_email",
 		"v": 17720,
