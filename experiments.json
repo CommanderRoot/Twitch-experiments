@@ -29000,16 +29000,16 @@
 	},
 	"e24202cd-cd09-4f39-8095-03e16a62e5cd": {
 		"name": "transcode-mode",
-		"v": 26468,
+		"v": 26469,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "cbr_v1"
 			},
 			{
 				"weight": 0,
-				"value": "treatment"
+				"value": "vbr_v1"
 			}
 		]
 	},
