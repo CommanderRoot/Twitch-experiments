@@ -5063,6 +5063,21 @@
 			}
 		]
 	},
+	"2800b146-1381-4f0d-bc77-6885ae218940": {
+		"name": "dart_merchq1flashsalepresidentsdayuk_ctr_902_cmm_cmc_buy_mis_onsite_231_duplicate_holdout",
+		"v": 26464,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"286aa215-8f95-4f9d-86f0-232fb96ec4f0": {
 		"name": "ios_latency_tracking",
 		"v": 6477,
@@ -7791,6 +7806,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"3f4ee037-0a35-4e08-a880-fb5c4f2466b7": {
+		"name": "dart_merchfashsaleq1de_ctr_902_cmm_cmc_buy_mis_onsite_232_holdout",
+		"v": 26466,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -24960,6 +24990,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"c33dc788-6d9f-4556-960c-675f2116ad33": {
+		"name": "dart_merchq1flashsalepresidentsdayus_ctr_902_cmm_cmc_buy_mis_onsite_231_duplicate_holdout",
+		"v": 26465,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
