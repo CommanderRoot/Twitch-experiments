@@ -28998,6 +28998,21 @@
 			}
 		]
 	},
+	"e24202cd-cd09-4f39-8095-03e16a62e5cd": {
+		"name": "transcode-mode",
+		"v": 26468,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"e29f47a5-10c8-47b3-9046-8237a31c9f25": {
 		"name": "dart_bhm_vwr_834_dav_cmc_lrn_mis_email_2210_holdout",
 		"v": 24538,
