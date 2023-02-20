@@ -2167,15 +2167,15 @@
 	},
 	"114e0fec-2bb0-479c-bc92-8b73980ea80e": {
 		"name": "ios_raids_v2",
-		"v": 25670,
+		"v": 26481,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
