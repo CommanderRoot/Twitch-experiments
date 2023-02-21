@@ -4337,16 +4337,20 @@
 	},
 	"224ee659-4fa5-4e2e-a8bd-d86a3805254f": {
 		"name": "ios_creator_insights_u",
-		"v": 26275,
+		"v": 26487,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "inactive"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.6.1"
 			}
 		]
 	},
