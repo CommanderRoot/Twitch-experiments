@@ -5379,6 +5379,21 @@
 			}
 		]
 	},
+	"2a450a67-ddfe-4ccc-bfbf-2d6b31c2fcb3": {
+		"name": "android_hls_refactor",
+		"v": 26490,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"2a68d16e-446c-440d-8605-df0d99b18764": {
 		"name": "roster_team_writes",
 		"v": 23722,
@@ -15647,21 +15662,6 @@
 			}
 		]
 	},
-	"78e3355a-1000-41c2-86db-d812904abece": {
-		"name": "hls_refactor_android",
-		"v": 26236,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"78fc88b3-5d5e-49e5-9b95-539cb65c31e7": {
 		"name": "android_mgst_dynamic_resolution",
 		"v": 20473,
@@ -21585,6 +21585,21 @@
 			}
 		]
 	},
+	"a70dd3eb-29dc-4f17-8aea-ed3c9d4d9575": {
+		"name": "ios_hls_refactor",
+		"v": 26491,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"a75597d9-15f1-48eb-b2cd-95f6dc107672": {
 		"name": "ios_mgst_video_b_frames_2",
 		"v": 10612,
@@ -24092,21 +24107,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"b9e43daf-242f-4521-b36b-00f50d38602a": {
-		"name": "hls_refactor_ios",
-		"v": 26235,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
