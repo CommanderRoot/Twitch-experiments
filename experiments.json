@@ -18204,6 +18204,21 @@
 			}
 		]
 	},
+	"8dc97ba9-0aaa-4c2f-8463-017fb511608f": {
+		"name": "ios_creator_content_sharing",
+		"v": 26486,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8dddafde-7002-4789-b3a3-92cb6f84bbfb": {
 		"name": "dart_processor_decider_rollout",
 		"v": 12746,
