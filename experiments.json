@@ -8901,6 +8901,21 @@
 			}
 		]
 	},
+	"4694991c-f753-486d-932a-02e80f9775e2": {
+		"name": "dart_twitchcon2023callforcontent1_ctr_940_sgn_cmc_sup_mis_oe_2302_holdout",
+		"v": 26521,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"46bf9f05-d230-4b50-bc35-e015ce528241": {
 		"name": "ios_skip_kraken_information",
 		"v": 22684,
@@ -17119,6 +17134,17 @@
 			{
 				"weight": 100,
 				"value": "twitch_ad_edge"
+			}
+		]
+	},
+	"8411d964-797d-4260-bfe5-ca4f1c0e149e": {
+		"name": "dart_twitchcon2023callforcontent1_ctr_940_sgn_cmc_sup_mis_oe_2302_email",
+		"v": 26522,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "Variant A"
 			}
 		]
 	},
