@@ -1622,6 +1622,21 @@
 			}
 		]
 	},
+	"0c641f00-6d1f-4f7a-887b-6796579cb1fb": {
+		"name": "dart_adlastchancenov_ctr_937_awa_cmc_non_mis_2301_email",
+		"v": 26547,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"0c8aec5f-c2ff-442d-802c-4c4de7a20e3e": {
 		"name": "android_multi_partner_ad_verification",
 		"v": 14135,
@@ -17825,6 +17840,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"8a71c6de-04bc-46f4-9318-c81326130ff4": {
+		"name": "dart_adlastchancenov_ctr_937_awa_cmc_non_mis_2301_holdout",
+		"v": 26546,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
