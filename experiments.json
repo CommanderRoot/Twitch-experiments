@@ -5780,6 +5780,21 @@
 			}
 		]
 	},
+	"2e122324-83ca-43a8-89b4-b583c415cc7a": {
+		"name": "test-otto-experiment",
+		"v": 26536,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "A"
+			}
+		]
+	},
 	"2e330c88-4bff-4599-ba11-5445a98abbed": {
 		"name": "dart_creator_anniversaries_onsite_holdout",
 		"v": 16761,
