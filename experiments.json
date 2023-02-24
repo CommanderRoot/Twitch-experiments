@@ -9574,6 +9574,21 @@
 			}
 		]
 	},
+	"4b608a3d-3b63-4460-9bbb-f1dfdb84a160": {
+		"name": "ads-intelligence-test-otto",
+		"v": 26538,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "A"
+			}
+		]
+	},
 	"4b630eb2-bd3f-4fee-aae9-1df767f09ad3": {
 		"name": "dart_tc_ticketsaleslm_onsite_affiliate_ctr_na_awa_cmc_buy_mis_onsite_2207_holdout",
 		"v": 21882,
@@ -20810,6 +20825,21 @@
 			{
 				"weight": 5,
 				"value": "active_12.9"
+			}
+		]
+	},
+	"9f7dbd5d-9d1a-42f0-9b58-055e4e2225e4": {
+		"name": "ads-intelligence-test-otto",
+		"v": 26539,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "A"
 			}
 		]
 	},
