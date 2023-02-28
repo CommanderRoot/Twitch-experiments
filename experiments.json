@@ -14094,6 +14094,21 @@
 			}
 		]
 	},
+	"6d88c50b-4e76-4970-bec9-c002f81d1848": {
+		"name": "dart_squidcraft2_vwr_944_dav_cmc_wch_gmg_push_2302_holdout",
+		"v": 26582,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6da825ed-8d01-4c6f-bd4e-660c4a65aee8": {
 		"name": "android_player_parallel_hls",
 		"v": 13262,
@@ -25462,6 +25477,21 @@
 			{
 				"weight": 20,
 				"value": "lenient_variant_11.6"
+			}
+		]
+	},
+	"c570db02-2da1-4a61-97ca-686ab541dfc6": {
+		"name": "dart_squidcraft2_vwr_944_dav_cmc_wch_gmg_email_2302_holdout",
+		"v": 26583,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
