@@ -12876,15 +12876,15 @@
 	},
 	"64241d2f-40e3-4e8a-abbd-67fdd5be299c": {
 		"name": "android_creator_content_sharing",
-		"v": 26523,
+		"v": 26587,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_14.7"
 			}
 		]
