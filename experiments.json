@@ -29471,6 +29471,21 @@
 			}
 		]
 	},
+	"e4b3799f-8818-43b8-96bf-bab2979b84ab": {
+		"name": "android_policy_update_prompt",
+		"v": 26580,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"e4e147e7-862e-4651-ac1e-99cbc4b18a21": {
 		"name": "ios_theater_options_implementation",
 		"v": 22655,
