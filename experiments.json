@@ -30415,15 +30415,15 @@
 	},
 	"ec1097e1-dc75-421e-82e0-00716fd28c42": {
 		"name": "ios_onechat",
-		"v": 26570,
+		"v": 26586,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 10,
 				"value": "active"
 			}
 		]
