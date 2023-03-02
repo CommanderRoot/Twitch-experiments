@@ -9955,6 +9955,21 @@
 			}
 		]
 	},
+	"4e39cfb8-7451-44e0-a394-1b9181fe44fd": {
+		"name": "ios_creator_content_delete",
+		"v": 26600,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"4e809572-a1c8-40fc-bd01-f018356c070a": {
 		"name": "android_new_games_pill",
 		"v": 25860,
