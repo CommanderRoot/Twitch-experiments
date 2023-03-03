@@ -15360,15 +15360,15 @@
 	},
 	"75862bf8-5b65-4b48-924c-2e8a8e5e88d9": {
 		"name": "notifications_settings_active_lookup_deprecation",
-		"v": 26597,
+		"v": 26620,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "variant"
 			}
 		]
