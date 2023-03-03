@@ -23220,6 +23220,21 @@
 			}
 		]
 	},
+	"b10e3080-9d0a-48a2-8265-aa4662a19d28": {
+		"name": "dart_twitchcon2023callforcontent2_ctr_947_sgn_cmc_sup_mis_onsite_2303_holdout",
+		"v": 26615,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"b110ecaf-4082-4cf5-a396-b1f00f7bc437": {
 		"name": "ios_subtokens",
 		"v": 8413,
