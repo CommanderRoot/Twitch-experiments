@@ -3755,6 +3755,21 @@
 			}
 		]
 	},
+	"1cd3d744-ba28-4885-9eff-ce3cad2ee57c": {
+		"name": "dart_apac_anz_iwdanz_vwr_0_dav_trn_wch_gmg_onsite_2303_holdout",
+		"v": 26638,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1cde3420-0c76-43fb-a0b4-3f42ed6fc731": {
 		"name": "mads_trigger_ads_manager",
 		"v": 16418,
