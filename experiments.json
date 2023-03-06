@@ -23734,6 +23734,21 @@
 			}
 		]
 	},
+	"b3ac339c-918e-49e6-84bc-6da827e1613d": {
+		"name": "dart_apac_anz_iwdanz_vwr_0_dav_trn_wch_gmg_email_2303_holdout",
+		"v": 26639,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"b3aebe8f-daa6-4a7b-be71-97af8da9e6c7": {
 		"name": "android_rebuffer_to_live",
 		"v": 13338,
