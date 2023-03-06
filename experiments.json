@@ -5888,15 +5888,15 @@
 	},
 	"2e7d03f8-304c-487c-8301-fd4e4e928b9d": {
 		"name": "ios_multi_month_subscriptions",
-		"v": 24710,
+		"v": 26652,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
