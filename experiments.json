@@ -10754,6 +10754,21 @@
 			}
 		]
 	},
+	"539b3391-1cb6-4d2d-9077-019deef5af04": {
+		"name": "dart_supermariostreameremail_ctr_943_awa_cmc_lrn_gmg_email_233_holdout",
+		"v": 26681,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"53c3db96-c412-46f8-9bbc-a48ef28b8ab7": {
 		"name": "ios_ads_loudness_normalization",
 		"v": 19501,
@@ -22344,11 +22359,11 @@
 	},
 	"ab22070a-64e4-418b-9095-59a59ce728a7": {
 		"name": "ios_chat_refactor",
-		"v": 26373,
+		"v": 26682,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -22368,7 +22383,7 @@
 				"value": "active_v14.5"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_v14.7"
 			}
 		]
