@@ -10085,15 +10085,15 @@
 	},
 	"4ed6b227-ff1a-434e-964e-c8ab8fc7aa9a": {
 		"name": "ios_upcoming_streams_rollout",
-		"v": 26660,
+		"v": 26673,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active_xarth"
 			}
 		]
@@ -12921,15 +12921,16 @@
 	},
 	"64241d2f-40e3-4e8a-abbd-67fdd5be299c": {
 		"name": "android_creator_content_sharing",
-		"v": 26647,
+		"v": 26675,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_14.7"
 			}
 		]
@@ -18436,15 +18437,15 @@
 	},
 	"8dc97ba9-0aaa-4c2f-8463-017fb511608f": {
 		"name": "ios_creator_content_sharing",
-		"v": 26486,
+		"v": 26674,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -30003,15 +30004,15 @@
 	},
 	"e8001f96-2301-4d4a-8793-a1daf406e923": {
 		"name": "android_upcoming_streams",
-		"v": 26661,
+		"v": 26678,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active_14.5"
 			},
 			{
