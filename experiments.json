@@ -4131,6 +4131,25 @@
 			}
 		]
 	},
+	"20da49fe-2671-4df1-ac9d-988981b77c26": {
+		"name": "android_leaderboard_in_webview_latency_experiment",
+		"v": 26686,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.8"
+			}
+		]
+	},
 	"20dc1556-5a44-477f-8f44-4a4466755f40": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13555,
