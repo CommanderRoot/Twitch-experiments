@@ -27253,11 +27253,11 @@
 	},
 	"d1bd7f83-2b9f-4980-8ba2-50b683a9aec5": {
 		"name": "android_improved_sub_anniversary",
-		"v": 25882,
+		"v": 26685,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -27265,7 +27265,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_14.4"
 			}
 		]
