@@ -6193,15 +6193,15 @@
 	},
 	"309e5547-b509-400d-bd26-30c8cbec317b": {
 		"name": "ios_automod_queue",
-		"v": 22459,
+		"v": 26700,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "inactive"
 			}
 		]
@@ -10149,15 +10149,15 @@
 	},
 	"4ed6b227-ff1a-434e-964e-c8ab8fc7aa9a": {
 		"name": "ios_upcoming_streams_rollout",
-		"v": 26673,
+		"v": 26702,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 30,
 				"value": "active_xarth"
 			}
 		]
@@ -11192,15 +11192,15 @@
 	},
 	"57c8ca1d-bab5-40a6-a372-185442210442": {
 		"name": "android_bits_simplified_cheering_and_compose",
-		"v": 26503,
+		"v": 26701,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "simplified_cheering_enabled_14.7"
 			},
 			{
@@ -30128,15 +30128,15 @@
 	},
 	"e8001f96-2301-4d4a-8793-a1daf406e923": {
 		"name": "android_upcoming_streams",
-		"v": 26678,
+		"v": 26703,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 30,
 				"value": "active_14.5"
 			},
 			{
