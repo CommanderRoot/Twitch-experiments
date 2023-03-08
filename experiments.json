@@ -1404,6 +1404,21 @@
 			}
 		]
 	},
+	"0ab11f37-cab1-4b28-89d1-532f654db288": {
+		"name": "dart_iwdlaunches_vwr_953_awa_cmc_lrn_irl_email_2303_holdout",
+		"v": 26693,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0ace5fda-aa24-4263-9b07-e8a3099729d6": {
 		"name": "ios_theater_offline_channel_deeplink_to_profile",
 		"v": 3764,
@@ -1896,6 +1911,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"0e8f974f-c0fc-450f-a3b9-826c1a71862a": {
+		"name": "dart_iwdlaunchfr_vwr_953_awa_cmc_lrn_irl_email_2303_holdout",
+		"v": 26694,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -26426,6 +26456,21 @@
 			}
 		]
 	},
+	"cbe1c292-8142-4576-978d-accdbe37a7ff": {
+		"name": "dart_iwdlaunchuk_vwr_953_awa_cmc_lrn_irl_email_2303_holdout",
+		"v": 26691,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"cbe89bdd-4882-4cf1-aea8-e5341a4a198a": {
 		"name": "dart_omertestfollowemail1_email",
 		"v": 7411,
@@ -26627,6 +26672,21 @@
 			{
 				"weight": 0,
 				"value": "active_2100"
+			}
+		]
+	},
+	"ccaedef3-54f7-4a4f-9d11-e2e9aa242b6a": {
+		"name": "dart_iwdlaunchde_vwr_953_awa_cmc_lrn_irl_email_2303_holdout",
+		"v": 26692,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
