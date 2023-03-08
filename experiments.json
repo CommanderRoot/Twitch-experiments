@@ -10149,15 +10149,15 @@
 	},
 	"4ed6b227-ff1a-434e-964e-c8ab8fc7aa9a": {
 		"name": "ios_upcoming_streams_rollout",
-		"v": 26702,
+		"v": 26707,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 40,
 				"value": "active_xarth"
 			}
 		]
@@ -15778,7 +15778,7 @@
 	},
 	"77e82e08-36ab-4d86-8166-b63d87ee76bc": {
 		"name": "android_reuse_autoplay_player",
-		"v": 26293,
+		"v": 26708,
 		"t": 1,
 		"groups": [
 			{
@@ -15787,7 +15787,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_14.8"
 			}
 		]
 	},
@@ -30128,15 +30128,15 @@
 	},
 	"e8001f96-2301-4d4a-8793-a1daf406e923": {
 		"name": "android_upcoming_streams",
-		"v": 26703,
+		"v": 26706,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 40,
 				"value": "active_14.5"
 			},
 			{
