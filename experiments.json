@@ -14705,6 +14705,21 @@
 			}
 		]
 	},
+	"714dbd8f-ca96-40f1-88c4-4ba54e4a089a": {
+		"name": "dart_iwdlaunchit_vwr_953_awa_cmc_lrn_irl_email_2303_holdout",
+		"v": 26695,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7151abe6-451a-4dd2-8b47-991bc59ddd0c": {
 		"name": "dart_apac_kor_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
 		"v": 21484,
