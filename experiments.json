@@ -22438,11 +22438,11 @@
 	},
 	"ab22070a-64e4-418b-9095-59a59ce728a7": {
 		"name": "ios_chat_refactor",
-		"v": 26682,
+		"v": 26704,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -22462,7 +22462,7 @@
 				"value": "active_v14.5"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active_v14.7"
 			}
 		]
