@@ -5875,6 +5875,21 @@
 			}
 		]
 	},
+	"2d529e3b-fae5-4267-8b66-d8c0eb6d4dcd": {
+		"name": "dart_aipupdateblogimplementation_ctr_918_awa_cmc_non_mis_eo_233_holdout",
+		"v": 26726,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2def6419-eaa1-467f-bcc6-052498371c3f": {
 		"name": "ios_pinnedchat",
 		"v": 24290,
