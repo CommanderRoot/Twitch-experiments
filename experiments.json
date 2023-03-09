@@ -13833,6 +13833,21 @@
 			}
 		]
 	},
+	"6a6037c9-bbb4-4e1a-b452-0126832d98de": {
+		"name": "dart_apac_jpn_marioday_vwr_0_dav_trn_wch_gmg_onsite_2303_holdout",
+		"v": 26720,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6a6bf186-27dc-490a-9597-83b8e5c9fe7e": {
 		"name": "android_maf_ad_tracking",
 		"v": 16758,
@@ -22999,6 +23014,21 @@
 			}
 		]
 	},
+	"af0a4295-bb4e-44c2-a9a2-0b7972e0e2fb": {
+		"name": "dart_apac_anz_marioday_ctr_0_dav_trn_wch_gmg_onsite_2303_holdout",
+		"v": 26718,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"af191167-5620-45cc-9db9-e601d3e93b6f": {
 		"name": "android_granddads_final",
 		"v": 7813,
@@ -25420,6 +25450,21 @@
 			{
 				"weight": 100,
 				"value": "active_v7.10"
+			}
+		]
+	},
+	"c38d4fc4-fe25-4ee0-b39b-09bccb9af0e1": {
+		"name": "dart_apac_jpn_marioday_ctr_0_dav_trn_wch_gmg_onsite_2303_holdout",
+		"v": 26719,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -27953,6 +27998,21 @@
 			}
 		]
 	},
+	"d6842312-3bf2-4a71-b8d4-332d23571faa": {
+		"name": "dart_apac_anz_marioday_vwr_0_dav_trn_wch_gmg_onsite_2303_holdout",
+		"v": 26717,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d685634f-fd2a-46cd-89df-30996367b585": {
 		"name": "ios_artificial_latency_theater_chat",
 		"v": 16878,
@@ -28900,6 +28960,21 @@
 			{
 				"weight": 50,
 				"value": "treatment"
+			}
+		]
+	},
+	"dd95582d-8cda-4448-bb40-d7614f31eccd": {
+		"name": "dart_apac_twn_marioday_vwr_0_dav_trn_wch_gmg_onsite_2303_holdout",
+		"v": 26721,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
