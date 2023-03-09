@@ -10179,15 +10179,15 @@
 	},
 	"4ed6b227-ff1a-434e-964e-c8ab8fc7aa9a": {
 		"name": "ios_upcoming_streams_rollout",
-		"v": 26728,
+		"v": 26735,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 70,
+				"weight": 80,
 				"value": "active_xarth"
 			}
 		]
@@ -11222,15 +11222,15 @@
 	},
 	"57c8ca1d-bab5-40a6-a372-185442210442": {
 		"name": "android_bits_simplified_cheering_and_compose",
-		"v": 26715,
+		"v": 26733,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "simplified_cheering_enabled_14.7"
 			},
 			{
@@ -30263,15 +30263,15 @@
 	},
 	"e8001f96-2301-4d4a-8793-a1daf406e923": {
 		"name": "android_upcoming_streams",
-		"v": 26727,
+		"v": 26734,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 70,
+				"weight": 80,
 				"value": "active_14.5"
 			},
 			{
