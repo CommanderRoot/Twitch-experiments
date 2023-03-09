@@ -1809,6 +1809,21 @@
 			}
 		]
 	},
+	"0d65b016-7337-4d8a-8658-8056398eb775": {
+		"name": "dart_supermarioviewersemail_ctr_943_awa_cmc_irn_gmg_email_233_holdout",
+		"v": 26740,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0d71d06a-dab6-4d6c-992b-c4bd4cda5adc": {
 		"name": "android_mgst_brb_scene_global",
 		"v": 19297,
