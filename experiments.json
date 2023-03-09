@@ -9090,6 +9090,21 @@
 			}
 		]
 	},
+	"46ebee71-90cd-4ce7-acc1-f599079cc8ca": {
+		"name": "dart_apac_tha_marioday_ctr_0_dav_trn_wch_gmg_onsite_2303_holdout",
+		"v": 26724,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"474db509-7fb8-403e-97da-66dae8954e6d": {
 		"name": "android_home_games_carousel",
 		"v": 643,
@@ -11859,6 +11874,21 @@
 			}
 		]
 	},
+	"5cb9c8f8-08a7-49d0-86d2-e39b44a8d544": {
+		"name": "dart_apac_twn_marioday_ctr_0_dav_trn_wch_gmg_onsite_2303_holdout",
+		"v": 26722,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5cd1b965-dc4b-4dce-836f-53c7353a1b88": {
 		"name": "ios_mgst_broadcast_async_flvmuxer",
 		"v": 12111,
@@ -13713,6 +13743,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"693ad855-1910-4709-a313-72958570552d": {
+		"name": "dart_apac_tha_marioday_vwr_0_dav_trn_wch_gmg_onsite_2303_holdout",
+		"v": 26723,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
