@@ -10194,15 +10194,15 @@
 	},
 	"4ed6b227-ff1a-434e-964e-c8ab8fc7aa9a": {
 		"name": "ios_upcoming_streams_rollout",
-		"v": 26737,
+		"v": 26744,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 95,
 				"value": "active_xarth"
 			}
 		]
@@ -30278,15 +30278,15 @@
 	},
 	"e8001f96-2301-4d4a-8793-a1daf406e923": {
 		"name": "android_upcoming_streams",
-		"v": 26738,
+		"v": 26745,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 95,
 				"value": "active_14.5"
 			},
 			{
