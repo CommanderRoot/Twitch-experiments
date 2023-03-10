@@ -29232,6 +29232,21 @@
 			}
 		]
 	},
+	"df092dd0-b03a-488f-a54d-3170002fb914": {
+		"name": "dart_mariodaycreator_ctr_952_dav_cmc_lrn_gmg_onsite_2303_holdout",
+		"v": 26761,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"df1cee5b-8edf-4c83-af78-fa9953ed9a84": {
 		"name": "android_mgst_load_chat_after_video",
 		"v": 16404,
@@ -30571,6 +30586,21 @@
 			{
 				"weight": 0,
 				"value": "test"
+			}
+		]
+	},
+	"ea59b609-3e20-4124-aa60-168aca82fb7c": {
+		"name": "dart_mariodayviewer_vwr_952_dav_cmc_lrn_gmg_onsite_2303_holdout",
+		"v": 26760,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
