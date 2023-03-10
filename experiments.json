@@ -7727,6 +7727,21 @@
 			}
 		]
 	},
+	"3c67a225-8683-4566-8872-3968c557843b": {
+		"name": "dart_supermarioviewersonsite_ctr_943_dav_cmc_lrn_gmg_onsite_2303_holdout",
+		"v": 26765,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3c96ce24-799b-4758-9b0e-adef8f490a33": {
 		"name": "xsolla_back_button",
 		"v": 17944,
@@ -23554,6 +23569,21 @@
 			{
 				"weight": 0,
 				"value": "disable"
+			}
+		]
+	},
+	"b1a0ae22-4001-4e5c-8cdb-56b41c65bd1f": {
+		"name": "dart_supermaristreameronsite_ctr_942_dav_cmc_lrn_gmg_onsite_2303_holdout",
+		"v": 26764,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
