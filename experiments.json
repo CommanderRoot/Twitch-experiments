@@ -7652,6 +7652,21 @@
 			}
 		]
 	},
+	"3bebd8cf-007d-4373-bfd7-1c9896f9843f": {
+		"name": "dart_dropsen_vwr_dav_031023_holdout",
+		"v": 26786,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"3bfd0516-9ef2-4e1b-8056-11b68a3449e9": {
 		"name": "fulton_receiver_fulton_processor_rollout",
 		"v": 14018,
