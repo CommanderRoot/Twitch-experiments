@@ -9746,25 +9746,16 @@
 	},
 	"4b608a3d-3b63-4460-9bbb-f1dfdb84a160": {
 		"name": "ads-intelligence-test-otto",
-		"v": 26777,
+		"v": 26778,
 		"t": 1,
-		"s": 1,
 		"groups": [
 			{
-				"weight": 25,
-				"value": "0_0"
-			},
-			{
-				"weight": 25,
-				"value": "0_1"
-			},
-			{
-				"weight": 25,
-				"value": "0_2"
-			},
-			{
-				"weight": 25,
+				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "A"
 			}
 		]
 	},
