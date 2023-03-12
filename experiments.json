@@ -6251,6 +6251,21 @@
 			}
 		]
 	},
+	"30f4a536-ed5e-48c6-81ea-386ad4b3afa5": {
+		"name": "dart_apac_anz_localcrm_vwr_0_dav_trn_wch_gmg_email_2303_send1_holdout",
+		"v": 26793,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"310307c1-94a1-438c-95c3-ca88f2a5f757": {
 		"name": "android_mgst_follow_button_revamp",
 		"v": 8627,
@@ -30337,6 +30352,21 @@
 			{
 				"weight": 100,
 				"value": "wrap_v11.2"
+			}
+		]
+	},
+	"e7d5a69a-8702-458e-9090-f0f22546ad3c": {
+		"name": "dart_apac_anz_localcrm_vwr_0_dav_trn_wch_gmg_email_2303_send1_email",
+		"v": 26794,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
