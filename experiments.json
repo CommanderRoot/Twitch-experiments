@@ -26303,6 +26303,21 @@
 			}
 		]
 	},
+	"c885f1ea-631c-436a-94db-9f0fb8a2325a": {
+		"name": "dart_twitchcon2023callforcontent3_ctr_951_lrn_cmc_sup_mis_oe_2303_holdout",
+		"v": 26800,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c8964da4-7bfb-49dc-9298-e244009569b7": {
 		"name": "ios_1080p_broadcasting",
 		"v": 16939,
