@@ -15029,6 +15029,25 @@
 			}
 		]
 	},
+	"72332443-cfaa-4eaa-90f9-239755051a45": {
+		"name": "android_deterministic_theatre_loading",
+		"v": 26869,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_14.9"
+			},
+			{
+				"weight": 0,
+				"value": "active_preload_chat_14.9"
+			}
+		]
+	},
 	"723d9162-59f1-4582-9ecb-7dda5c42bf47": {
 		"name": "dart_slsoptestnewd3tpstreams_vwr_461_dav_cmc_wch_mis_email_2107_holdout",
 		"v": 16021,
