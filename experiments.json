@@ -18541,6 +18541,21 @@
 			}
 		]
 	},
+	"8d1a7386-b38d-494a-afd5-d41d6775ddf4": {
+		"name": "dart_aipearlysignup_ctr_909_cmm_cmc_sup_mis_eo_233_holdout",
+		"v": 26863,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8d1ffa4a-458d-4ad4-862f-e35d45c44427": {
 		"name": "dart_littlebigcommunitieslaunchviewers_vwr_932_dav_cmc_wch_mis_oe_2301_holdout",
 		"v": 26156,
