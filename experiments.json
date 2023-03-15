@@ -12429,6 +12429,25 @@
 			}
 		]
 	},
+	"5fab04c8-ba88-4156-abc9-4c42910d03f7": {
+		"name": "dart_fivempactionfollowup_vwr_905_flw_cmc_flw_mis_email_2303_email",
+		"v": 26843,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
+			}
+		]
+	},
 	"5fbb67a0-b4ff-4775-b836-e9a348a87481": {
 		"name": "Network Profile Collection",
 		"v": 30,
@@ -33214,6 +33233,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"fdd5a764-61f0-498b-a0cb-ac47d9d0669f": {
+		"name": "dart_fivempactionfollowup_vwr_905_flw_cmc_flw_mis_email_2303_holdout",
+		"v": 26842,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
