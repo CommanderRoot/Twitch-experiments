@@ -25066,6 +25066,21 @@
 			}
 		]
 	},
+	"bf0e817d-d03e-4cf2-8064-23945c0addc1": {
+		"name": "viewer_card_ios_upgrade",
+		"v": 26862,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"bf70d85f-d42d-4e05-b979-9b75b4253485": {
 		"name": "ios_freeform_tags",
 		"v": 22771,
