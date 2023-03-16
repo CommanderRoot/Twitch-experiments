@@ -24637,6 +24637,21 @@
 			}
 		]
 	},
+	"b918848c-a7ed-4810-86f6-404405d25eba": {
+		"name": "ios_experiment_cluster_test",
+		"v": 26884,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"b922202a-f108-4da4-beb1-bcb4f21b2f16": {
 		"name": "ios_integrity_gql",
 		"v": 26571,
