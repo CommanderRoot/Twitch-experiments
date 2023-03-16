@@ -22618,6 +22618,21 @@
 			}
 		]
 	},
+	"ab79d3b7-2881-4c97-be08-b98f1cc4a074": {
+		"name": "ios_paid_pinned_chat",
+		"v": 26873,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"ab8bbd20-2f5d-4d4d-8cf3-023f08d8f64a": {
 		"name": "surestream_rollout_ios",
 		"v": 6801,
