@@ -4712,6 +4712,21 @@
 			}
 		]
 	},
+	"23b0ddf1-92ca-4cc3-9fa7-800e2aec956d": {
+		"name": "dart_commercenonspender_vwr_960_sbs_cmc_sub_mis_email_2303_holdout",
+		"v": 26899,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"23c4d1d3-847e-4f7a-af5a-8212f4a2765d": {
 		"name": "android_player_latency_buffer_strategy",
 		"v": 26882,
