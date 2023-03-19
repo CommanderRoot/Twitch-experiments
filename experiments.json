@@ -2049,6 +2049,21 @@
 			}
 		]
 	},
+	"0f874b38-e6f9-41a0-b4ef-4aee0a58316f": {
+		"name": "dart_apac_anz_localcrm_vwr_0_dav_trn_wch_gmg_email_2303_send2_holdout",
+		"v": 26909,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0fd0ab7f-b90b-4573-81ab-d0b28fd62242": {
 		"name": "cc_xo_avs",
 		"v": 5761,
@@ -21606,6 +21621,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"a2607a1f-47c2-4b6a-bb7c-dfb72de3471c": {
+		"name": "dart_apac_anz_localcrm_vwr_0_dav_trn_wch_gmg_email_2303_send2_email",
+		"v": 26910,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
