@@ -6969,15 +6969,15 @@
 	},
 	"3582317b-37f1-4b8d-be77-cdce3710504c": {
 		"name": "ios_ivs_analytics_override",
-		"v": 22270,
+		"v": 26933,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "do_not_send"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "send_prefixed"
 			}
 		]
