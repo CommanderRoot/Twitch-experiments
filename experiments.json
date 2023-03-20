@@ -442,6 +442,21 @@
 			}
 		]
 	},
+	"03bea943-d1c0-4088-8164-516f7c0fa557": {
+		"name": "ios_player_pooling_strategy",
+		"v": 26930,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "noPool"
+			},
+			{
+				"weight": 0,
+				"value": "infinite"
+			}
+		]
+	},
 	"03cc2fef-0d87-415b-90f1-e153e1c7007c": {
 		"name": "dart_godofwarragnarok_vwr_863_dav_cmc_wch_gmg_email_2211_holdout",
 		"v": 25161,
