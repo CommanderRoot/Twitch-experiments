@@ -15974,15 +15974,15 @@
 	},
 	"77e82e08-36ab-4d86-8166-b63d87ee76bc": {
 		"name": "android_reuse_autoplay_player",
-		"v": 26851,
+		"v": 26927,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_14.8"
 			}
 		]
