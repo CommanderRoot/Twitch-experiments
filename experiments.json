@@ -29882,15 +29882,15 @@
 	},
 	"e24202cd-cd09-4f39-8095-03e16a62e5cd": {
 		"name": "mobile_native_web_transcode_mode",
-		"v": 26893,
+		"v": 26920,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "cbr_v1"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "cbr_v2"
 			},
 			{
