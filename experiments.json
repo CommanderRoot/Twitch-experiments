@@ -29448,15 +29448,15 @@
 	},
 	"de28be6d-d909-4b75-b661-645edb09f0d6": {
 		"name": "android_expandable_ads",
-		"v": 26946,
+		"v": 26981,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_14.8"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
