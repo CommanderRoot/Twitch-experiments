@@ -15771,15 +15771,15 @@
 	},
 	"764e8b78-5072-4fce-9af0-7bcddde78127": {
 		"name": "ios_channel_skins",
-		"v": 26949,
+		"v": 26991,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v14.7"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
