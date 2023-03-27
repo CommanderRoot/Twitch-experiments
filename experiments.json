@@ -17406,6 +17406,21 @@
 			}
 		]
 	},
+	"82009df7-6d05-4a6c-a3f1-dd749725a59f": {
+		"name": "ios_emote_refactor",
+		"v": 27001,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"821d3e5f-5836-48d6-b203-a7973d6f097c": {
 		"name": "android_raids",
 		"v": 2339,
