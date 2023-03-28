@@ -1496,16 +1496,16 @@
 	},
 	"0b3a018e-b654-43c3-bcd5-809c0782a7d1": {
 		"name": "ios_custom_gift_quantity",
-		"v": 26569,
+		"v": 27013,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			},
 			{
