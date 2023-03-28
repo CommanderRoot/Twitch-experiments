@@ -3687,6 +3687,21 @@
 			}
 		]
 	},
+	"1b86375b-1e60-4503-8250-83bc357301f4": {
+		"name": "dart_bonjwagladiator_vwr_963_dav_cmc_wch_mis_email_2303_holdout",
+		"v": 27007,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1b905261-e257-4703-ac84-12a6a9099935": {
 		"name": "CLIENT_BATCH_SPADE",
 		"v": 730,
@@ -22704,6 +22719,21 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			}
+		]
+	},
+	"aafc0b03-8105-48e4-9139-d08e76d26aaa": {
+		"name": "dart_bonjwagladiator_vwr_963_dav_cmc_wch_mis_email_2303_email",
+		"v": 27008,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
