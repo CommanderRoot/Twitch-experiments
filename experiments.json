@@ -2455,6 +2455,21 @@
 			}
 		]
 	},
+	"129a48af-8e45-4c21-ac02-6d2b9fa3bfe5": {
+		"name": "dart_apac_modappreciationday_vwr_0_dav_trn_wch_gmg_email_2303_nonen_holdout",
+		"v": 27017,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"12a2340d-84c9-42d7-a108-dd24a0c2d2df": {
 		"name": "twilight_ad_request_builder_rollout",
 		"v": 17145,
