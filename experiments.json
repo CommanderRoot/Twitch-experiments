@@ -4106,15 +4106,15 @@
 	},
 	"1ffb8ed8-a4d2-4606-b5a4-74aac05c0899": {
 		"name": "ios_leaderboard_in_webview_latency_experiment",
-		"v": 27012,
+		"v": 27027,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 30,
 				"value": "active_14.8"
 			}
 		]
@@ -4253,11 +4253,11 @@
 	},
 	"20da49fe-2671-4df1-ac9d-988981b77c26": {
 		"name": "android_leaderboard_in_webview_latency_experiment",
-		"v": 27011,
+		"v": 27026,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 70,
 				"value": "control"
 			},
 			{
@@ -4265,7 +4265,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 10,
+				"weight": 30,
 				"value": "active_14.8"
 			}
 		]
