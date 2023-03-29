@@ -31950,6 +31950,21 @@
 			}
 		]
 	},
+	"f0a9f2f7-ef8f-497c-bbd7-4bf18849260d": {
+		"name": "ios_alerts_viewer_customization",
+		"v": 27044,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"f0c26e8e-06be-4d7e-8394-57a376d91df8": {
 		"name": "android_batch_poller_exception_fix_attempt",
 		"v": 18117,
