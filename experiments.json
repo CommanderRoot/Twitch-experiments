@@ -8804,6 +8804,21 @@
 			}
 		]
 	},
+	"438d026b-2052-4c96-a705-7a57f5ee4fa0": {
+		"name": "dart_michouprimetime_vwr_967_dav_cmc_wch_irl_push_2303_holdout",
+		"v": 27051,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"439281d1-c97e-48d1-a886-aaa25cbcab65": {
 		"name": "android_autoplay_last_one",
 		"v": 8475,
@@ -16956,6 +16971,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"7e081a43-0d92-428c-a489-0475500bc2cd": {
+		"name": "dart_michouprimetime_vwr_967_dav_cmc_wch_irl_email_2303_holdout",
+		"v": 27050,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
