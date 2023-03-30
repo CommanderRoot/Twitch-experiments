@@ -9693,41 +9693,6 @@
 			}
 		]
 	},
-	"4a21eec0-1de5-469e-b755-0d1087bbf18b": {
-		"name": "one_click",
-		"v": 21890,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "experiment"
-			},
-			{
-				"weight": 100,
-				"value": "variant_1"
-			},
-			{
-				"weight": 0,
-				"value": "variant_2"
-			},
-			{
-				"weight": 0,
-				"value": "experiment"
-			},
-			{
-				"weight": 0,
-				"value": "variant_1"
-			},
-			{
-				"weight": 0,
-				"value": "variant_2"
-			}
-		]
-	},
 	"4a7bb40c-9114-443c-aae8-70910fa1106f": {
 		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_push_2212_3rdday_holdout",
 		"v": 25726,
