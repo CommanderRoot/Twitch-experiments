@@ -24382,6 +24382,21 @@
 			}
 		]
 	},
+	"b4cbaa9c-08fe-4aa5-866a-126721575aa4": {
+		"name": "dart_modappreciationday_vwr_965_awa_cmc_lrn_mis_oe_2303_holdout",
+		"v": 27049,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"b4d9581c-a4dd-4c6f-b54f-7128fb529cf6": {
 		"name": "dart_user_drop_reward_reminder_notification_holdout",
 		"v": 14681,
