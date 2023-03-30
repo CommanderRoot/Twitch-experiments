@@ -24737,6 +24737,21 @@
 			}
 		]
 	},
+	"b866096c-b614-4a03-ac1d-a48a22444e9c": {
+		"name": "dart_modappreciationdayinitial_vwr_946_awa_cmc_lrn_mis_eo_233_holdout",
+		"v": 27048,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"b8843dac-7688-430b-a10b-f3e38c7de2cf": {
 		"name": "android_disable_dynamic_security_provider",
 		"v": 18756,
