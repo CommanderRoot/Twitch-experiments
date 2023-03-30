@@ -3510,6 +3510,21 @@
 			}
 		]
 	},
+	"1a57af8b-9d78-49ac-a62e-c6a74e50a677": {
+		"name": "dart_baftagamesawards_vwr_968_dav_cmc_wch_gmg_email_2303_holdout",
+		"v": 27054,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1a85f2c8-da8d-4c00-8c0f-0d8c456a3c31": {
 		"name": "ios_keyboard_shortcuts",
 		"v": 10344,
@@ -18079,6 +18094,25 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"87824215-3c06-4aa8-9a47-cff0906197cb": {
+		"name": "dart_baftagamesawards_vwr_968_dav_cmc_wch_gmg_email_2303_email",
+		"v": 27055,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
