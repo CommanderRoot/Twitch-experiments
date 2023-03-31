@@ -4599,6 +4599,21 @@
 			}
 		]
 	},
+	"22ed292f-98e0-463d-85d1-86ff8cb9d0d7": {
+		"name": "ios_mobile_discovery_feed",
+		"v": 27073,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_xarth"
+			}
+		]
+	},
 	"22f237d3-0b3f-438b-a42c-3c97e8bdd764": {
 		"name": "dart_apac_twn_twitchrivalsxpokemonunite_vwr_0_dav_trn_wch_gmg_push_2203_r1_holdout",
 		"v": 19575,
