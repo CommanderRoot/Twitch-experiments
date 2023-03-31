@@ -11826,6 +11826,21 @@
 			}
 		]
 	},
+	"5a8745d9-0fda-4234-9696-fe7fca029975": {
+		"name": "ios_mobile_discovery_feed_default_tab",
+		"v": 27075,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "feed"
+			}
+		]
+	},
 	"5a88d15b-bc13-444d-9902-cec2a5cdbb27": {
 		"name": "dart_domingoeuropaleague_vwr_934_dav_cmc_wch_spt_push_2302_holdout",
 		"v": 26431,
