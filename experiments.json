@@ -12910,6 +12910,21 @@
 			}
 		]
 	},
+	"620027ef-4577-47f5-94af-8604321f0bd9": {
+		"name": "dart_wildehorde_vwr_966_dav_cmc_wch_gmg_email_2303_holdout",
+		"v": 27072,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6217ac35-cd2e-4a3a-a214-d08b37da49c2": {
 		"name": "ios_riddle_bits",
 		"v": 20114,
