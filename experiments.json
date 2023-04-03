@@ -32239,6 +32239,21 @@
 			}
 		]
 	},
+	"f0ecbed1-48e3-478d-bc04-77f2cca4dd58": {
+		"name": "is-user-in-friendly-fraud-group",
+		"v": 27116,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "friendly_fraud_model"
+			}
+		]
+	},
 	"f10f92e6-14b7-473a-90ee-4ed6033e4def": {
 		"name": "dart_new_d5_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 14431,
