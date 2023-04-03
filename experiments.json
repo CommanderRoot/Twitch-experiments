@@ -7183,7 +7183,7 @@
 	},
 	"368c6fd3-5fe9-4af1-aced-404d8569be23": {
 		"name": "android_help_pages",
-		"v": 26985,
+		"v": 27113,
 		"t": 1,
 		"groups": [
 			{
@@ -7191,11 +7191,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_14.9"
 			}
 		]
