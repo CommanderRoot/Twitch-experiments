@@ -838,6 +838,21 @@
 			}
 		]
 	},
+	"06170e8a-d74b-45a7-8c91-c1793e90e900": {
+		"name": "dart_aipupdateexistingusers_911_cmm_cmc_sup_mis_eo_234_holdout",
+		"v": 27102,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0637bccd-2a5b-49c7-9d01-0c431d14fc25": {
 		"name": "promotions_force_user_override",
 		"v": 10200,
@@ -21514,6 +21529,21 @@
 			{
 				"weight": 100,
 				"value": "unified"
+			}
+		]
+	},
+	"9ff5dda0-c02e-483d-a030-c38089014849": {
+		"name": "dart_aipupdatenewusers_910_cmm_cmc_sup_mis_eo_234_holdout",
+		"v": 27103,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
