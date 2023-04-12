@@ -13200,6 +13200,21 @@
 			}
 		]
 	},
+	"6363eba4-9052-4a32-893a-69b5aed3c3a6": {
+		"name": "ios_game_broadcasting_setup_callout",
+		"v": 27204,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "active"
+			},
+			{
+				"weight": 50,
+				"value": "control"
+			}
+		]
+	},
 	"636d8534-9e70-4c2a-891a-da206ea669ca": {
 		"name": "ios_me_command",
 		"v": 14458,
