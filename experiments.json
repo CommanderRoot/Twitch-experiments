@@ -10335,15 +10335,15 @@
 	},
 	"4e39cfb8-7451-44e0-a394-1b9181fe44fd": {
 		"name": "ios_creator_content_delete",
-		"v": 26600,
+		"v": 27220,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
