@@ -19011,15 +19011,15 @@
 	},
 	"8dc97ba9-0aaa-4c2f-8463-017fb511608f": {
 		"name": "ios_creator_content_sharing",
-		"v": 26674,
+		"v": 27239,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
