@@ -21803,6 +21803,21 @@
 			}
 		]
 	},
+	"a0e4747f-12c1-4185-902e-c6ff5409be42": {
+		"name": "dart_cmc_vwr_960_sbs_cmc_sub_mis_email_2304_holdout",
+		"v": 27273,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"a12e6150-15d5-45ce-8db8-bbaf49f4ec8c": {
 		"name": "vaes_rollout_t1",
 		"v": 7647,
