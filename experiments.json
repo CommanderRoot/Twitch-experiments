@@ -24726,27 +24726,28 @@
 	},
 	"b5557f22-d79e-4d6e-8f16-1d83d6a08262": {
 		"name": "android_integrity_gql_v2",
-		"v": 26171,
+		"v": 27274,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 60,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "control_with_mock_token_14.5"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_without_enforcement_14.5"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_with_enforcement_14.5"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_without_header_14.5"
 			}
 		]
