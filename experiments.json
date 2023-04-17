@@ -22029,6 +22029,21 @@
 			}
 		]
 	},
+	"a33ffe25-310d-4db1-920a-4b6e48b66b1e": {
+		"name": "ios_mdf_dismiss_pip",
+		"v": 27281,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "dismiss"
+			}
+		]
+	},
 	"a342fd79-b34a-4fdc-acb8-3bd2082d72f7": {
 		"name": "tvapps_firetv_playercore",
 		"v": 9131,
