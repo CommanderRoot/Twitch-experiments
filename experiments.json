@@ -12022,21 +12022,6 @@
 			}
 		]
 	},
-	"5b9db0fe-8c3f-43c6-9a77-cfe48dc4fbb9": {
-		"name": "android_creator_home_feed_tcp_override",
-		"v": 27297,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "default"
-			},
-			{
-				"weight": 0,
-				"value": "preaffiliate"
-			}
-		]
-	},
 	"5ba34d44-bc46-4962-8cf6-5ea9f8a28f2a": {
 		"name": "android_global_follow_button_revamp",
 		"v": 10412,
@@ -30065,6 +30050,25 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"e01400c7-60b3-4660-b832-0614ba16ddf5": {
+		"name": "android_creator_cluster_override",
+		"v": 27303,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "default"
+			},
+			{
+				"weight": 0,
+				"value": "preaffiliate"
 			}
 		]
 	},
