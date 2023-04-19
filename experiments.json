@@ -12713,6 +12713,21 @@
 			}
 		]
 	},
+	"5fb205d5-f58f-4c04-bf66-38e825aa15ef": {
+		"name": "dart_aiplastchanceupdate_912_cmm_cmc_sup_mis_eo_234_duplicate_holdout",
+		"v": 27329,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5fbb67a0-b4ff-4775-b836-e9a348a87481": {
 		"name": "Network Profile Collection",
 		"v": 30,
