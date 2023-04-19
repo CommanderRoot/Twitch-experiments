@@ -32372,6 +32372,21 @@
 			}
 		]
 	},
+	"f0ced459-7a73-4a2a-b2f8-0b3f6f7c4655": {
+		"name": "dart_aiplastchanceupdate_912_cmm_cmc_sup_mis_eo_234_holdout",
+		"v": 27323,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f0d474da-ce17-4d1e-a54f-f6e38755e3ce": {
 		"name": "ios_segmented_signup",
 		"v": 25718,
