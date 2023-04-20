@@ -26675,15 +26675,15 @@
 	},
 	"c6838631-e0f8-4fcd-8d07-2df62f3d60e8": {
 		"name": "android_pending_transactions_fix",
-		"v": 25180,
+		"v": 27339,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_14.3"
 			}
 		]
