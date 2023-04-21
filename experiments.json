@@ -2769,6 +2769,21 @@
 			}
 		]
 	},
+	"14b9675d-9d0b-4125-862a-7edde0e00274": {
+		"name": "android_lazy_drm",
+		"v": 27353,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.1"
+			}
+		]
+	},
 	"14c00ac0-3d6c-49c1-852b-5a67f546c5af": {
 		"name": "ios_gql_interceptors",
 		"v": 22652,
