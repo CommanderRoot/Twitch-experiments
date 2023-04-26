@@ -4659,21 +4659,6 @@
 			}
 		]
 	},
-	"22ed292f-98e0-463d-85d1-86ff8cb9d0d7": {
-		"name": "ios_mdf_feature_flag",
-		"v": 27079,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_xarth"
-			}
-		]
-	},
 	"22f237d3-0b3f-438b-a42c-3c97e8bdd764": {
 		"name": "dart_apac_twn_twitchrivalsxpokemonunite_vwr_0_dav_trn_wch_gmg_push_2203_r1_holdout",
 		"v": 19575,
@@ -11928,21 +11913,6 @@
 			{
 				"weight": 1,
 				"value": "control"
-			}
-		]
-	},
-	"5a8745d9-0fda-4234-9696-fe7fca029975": {
-		"name": "ios_mdf_default_tab",
-		"v": 27078,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "feed"
 			}
 		]
 	},
@@ -22105,21 +22075,6 @@
 			{
 				"weight": 100,
 				"value": "gql"
-			}
-		]
-	},
-	"a33ffe25-310d-4db1-920a-4b6e48b66b1e": {
-		"name": "ios_mdf_dismiss_pip",
-		"v": 27281,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "dismiss"
 			}
 		]
 	},
