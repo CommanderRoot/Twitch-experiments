@@ -31124,6 +31124,21 @@
 			}
 		]
 	},
+	"e76d398b-fa24-4fba-9f16-997b09d04cda": {
+		"name": "android_vod_playback_speed_controls",
+		"v": 27422,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"e77bc8ab-9f36-4753-918b-c5336b620ed5": {
 		"name": "ios_recaptcha_deprecation_alert",
 		"v": 22667,
