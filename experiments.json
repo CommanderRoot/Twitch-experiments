@@ -14810,7 +14810,7 @@
 	},
 	"6e603572-10b0-4023-9db2-4bc2b9926cb1": {
 		"name": "android_schedule_management",
-		"v": 27439,
+		"v": 27443,
 		"t": 1,
 		"groups": [
 			{
@@ -14819,11 +14819,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_12.3"
+				"value": "active_15.2"
 			},
 			{
 				"weight": 0,
-				"value": "active_15.2"
+				"value": ""
 			}
 		]
 	},
@@ -20029,6 +20029,21 @@
 			{
 				"weight": 0,
 				"value": "active_with_entry_points"
+			}
+		]
+	},
+	"9451233f-5e74-4aa6-b75a-bb38a064ac02": {
+		"name": "dart_viewernewsletterapr_vwr_988_dav_cmc_wch_mis_email_2304_email",
+		"v": 27441,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -32558,6 +32573,21 @@
 			{
 				"weight": 0,
 				"value": "friendly_fraud_model"
+			}
+		]
+	},
+	"f1028392-9130-41d7-a7a6-52887cdf680e": {
+		"name": "dart_viewernewsletterapr_vwr_988_dav_cmc_wch_mis_email_2304_holdout",
+		"v": 27440,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
 			}
 		]
 	},
