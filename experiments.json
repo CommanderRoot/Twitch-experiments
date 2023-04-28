@@ -14810,7 +14810,7 @@
 	},
 	"6e603572-10b0-4023-9db2-4bc2b9926cb1": {
 		"name": "android_schedule_management",
-		"v": 26485,
+		"v": 27439,
 		"t": 1,
 		"groups": [
 			{
@@ -14820,6 +14820,10 @@
 			{
 				"weight": 0,
 				"value": "active_12.3"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.2"
 			}
 		]
 	},
