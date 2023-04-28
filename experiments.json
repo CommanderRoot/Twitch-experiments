@@ -8555,6 +8555,21 @@
 			}
 		]
 	},
+	"419b50b1-b03d-4b18-a238-27682ebb9eeb": {
+		"name": "dart_actionfollow_vwr_905_flw_cmc_flw_mis_email_2304_holdout",
+		"v": 27452,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"41c522b9-5867-429f-950a-2a10790c2380": {
 		"name": "ios_creator_preferences",
 		"v": 24052,
