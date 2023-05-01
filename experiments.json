@@ -27017,7 +27017,7 @@
 	},
 	"c8813b54-002e-4866-a8d6-296d04aa67cb": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_holdout",
-		"v": 27291,
+		"v": 27493,
 		"t": 2,
 		"groups": [
 			{
@@ -32706,24 +32706,16 @@
 	},
 	"f18c55b9-6290-40a1-999d-b29b55d2f6df": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_email",
-		"v": 27292,
+		"v": 27494,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "Variant A"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "Variant B"
-			},
-			{
-				"weight": 25,
-				"value": "Variant C"
-			},
-			{
-				"weight": 25,
-				"value": "Variant D"
 			}
 		]
 	},
