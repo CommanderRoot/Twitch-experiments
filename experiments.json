@@ -14628,17 +14628,17 @@
 		]
 	},
 	"6d0a6e7a-594d-4424-ad30-22743e45baa1": {
-		"name": "ios_channel_skins_source",
-		"v": 27513,
+		"name": "ios_channel_skins_use_gql",
+		"v": 27515,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "useLegacy"
+				"value": "control"
 			},
 			{
 				"weight": 0,
-				"value": "useGQL"
+				"value": "active_v15.2"
 			}
 		]
 	},
