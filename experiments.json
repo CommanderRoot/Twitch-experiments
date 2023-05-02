@@ -9159,15 +9159,15 @@
 	},
 	"450f8890-179a-49b7-88e3-5fa2c571c3f2": {
 		"name": "android_ads_sponsored_streams",
-		"v": 27499,
+		"v": 27510,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "active_15.1"
 			},
 			{
-				"weight": 99,
+				"weight": 50,
 				"value": "control"
 			}
 		]
@@ -20233,7 +20233,7 @@
 	},
 	"951d4306-ad22-4741-9428-c7f5646f73de": {
 		"name": "ios_chathistory",
-		"v": 27195,
+		"v": 27511,
 		"t": 1,
 		"groups": [
 			{
