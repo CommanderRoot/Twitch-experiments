@@ -31580,21 +31580,6 @@
 			}
 		]
 	},
-	"ea41ed48-ae2d-4786-bcc6-c2879a33f789": {
-		"name": "test_experiment",
-		"v": 26450,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "test"
-			}
-		]
-	},
 	"ea59b609-3e20-4124-aa60-168aca82fb7c": {
 		"name": "dart_mariodayviewer_vwr_952_dav_cmc_lrn_gmg_onsite_2303_holdout",
 		"v": 26760,
