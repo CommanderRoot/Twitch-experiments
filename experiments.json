@@ -12194,7 +12194,7 @@
 	},
 	"5c509ab4-d431-4e6b-b30c-8a03c03a0d52": {
 		"name": "android_kmp_chat",
-		"v": 27081,
+		"v": 27507,
 		"t": 1,
 		"groups": [
 			{
@@ -12321,6 +12321,21 @@
 			{
 				"weight": 1,
 				"value": "active"
+			}
+		]
+	},
+	"5d309676-8e63-49cc-965d-b18b81bc005d": {
+		"name": "android_chathistory",
+		"v": 27508,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
