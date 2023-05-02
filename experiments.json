@@ -18886,6 +18886,21 @@
 			}
 		]
 	},
+	"8bec3b1b-18a3-41a8-8303-51c902ee5512": {
+		"name": "dart_brandedcontenttool_crt_983_awa_cmc_lrn_mis_onsite_235_holdout",
+		"v": 27501,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8c18c603-6b5a-41d0-a2e1-5a4d6e3ec023": {
 		"name": "android_dnr_migration",
 		"v": 21920,
