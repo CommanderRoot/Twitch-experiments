@@ -15781,6 +15781,25 @@
 			}
 		]
 	},
+	"741ba449-abb6-4f23-8af8-07291238f2e3": {
+		"name": "android_player_pool",
+		"v": 27529,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_dev"
+			},
+			{
+				"weight": 0,
+				"value": "active_cold_instance_dev"
+			}
+		]
+	},
 	"742b7531-8f5c-4c62-9099-7b2a60048ab2": {
 		"name": "player_cs",
 		"v": 6562,
