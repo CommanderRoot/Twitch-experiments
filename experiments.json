@@ -14627,6 +14627,21 @@
 			}
 		]
 	},
+	"6d0a6e7a-594d-4424-ad30-22743e45baa1": {
+		"name": "ios_channel_skins_source",
+		"v": 27513,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "useLegacy"
+			},
+			{
+				"weight": 0,
+				"value": "useGQL"
+			}
+		]
+	},
 	"6d14d60c-7d9e-4b9c-9e74-f48a7a113d2d": {
 		"name": "dart_lapsedemail1slabctest4_vwr_470_dav_cmc_wch_mis_email_2108_holdout",
 		"v": 16306,
