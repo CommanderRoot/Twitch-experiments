@@ -27068,6 +27068,21 @@
 			}
 		]
 	},
+	"c827d370-70b5-47bb-a144-a3e76bffb6f7": {
+		"name": "ios_featured_clips",
+		"v": 27554,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"c84b614c-8eb6-4ab9-bb64-806170ff1e2b": {
 		"name": "android_strength",
 		"v": 7070,
@@ -31202,11 +31217,11 @@
 	},
 	"e64fec06-e82c-4456-a0d0-02b9ee7b0a9b": {
 		"name": "android_celebrations_beta",
-		"v": 27540,
+		"v": 27553,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -31218,7 +31233,7 @@
 				"value": "active_8.9.1"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active_15.0"
 			}
 		]
