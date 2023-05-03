@@ -31194,11 +31194,11 @@
 	},
 	"e64fec06-e82c-4456-a0d0-02b9ee7b0a9b": {
 		"name": "android_celebrations_beta",
-		"v": 27537,
+		"v": 27540,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
@@ -31210,7 +31210,7 @@
 				"value": "active_8.9.1"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "active_15.0"
 			}
 		]
