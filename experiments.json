@@ -18533,6 +18533,21 @@
 			}
 		]
 	},
+	"890915df-f14e-440d-9f4f-51e155c56e24": {
+		"name": "android_ivs_stage_simulcast",
+		"v": 27565,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"8935dd43-13ae-4ade-ba58-f188bcea7c9a": {
 		"name": "android_mgst_floating_chat_v2",
 		"v": 10199,
@@ -31604,6 +31619,21 @@
 			{
 				"weight": 1,
 				"value": "active_12.2"
+			}
+		]
+	},
+	"ea102775-3dcc-4e88-99b8-20321f92edde": {
+		"name": "ios_ivs_stage_simulcast",
+		"v": 27566,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
