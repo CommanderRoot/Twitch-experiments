@@ -18862,7 +18862,7 @@
 	},
 	"8b533a17-8df3-4b1c-afb5-32f2dca8c01b": {
 		"name": "android_channel_skins",
-		"v": 26540,
+		"v": 27580,
 		"t": 1,
 		"groups": [
 			{
@@ -18872,6 +18872,10 @@
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v15.3"
 			}
 		]
 	},
