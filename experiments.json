@@ -3438,6 +3438,21 @@
 			}
 		]
 	},
+	"1986c658-c9fd-44a9-9634-fb4f15626a4c": {
+		"name": "ios_mdf_feature_flag",
+		"v": 27590,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"198744b6-e96f-413b-aaf6-eab0128c9833": {
 		"name": "signup_redirect_search",
 		"v": 2153,
