@@ -2794,15 +2794,15 @@
 	},
 	"14b9675d-9d0b-4125-862a-7edde0e00274": {
 		"name": "android_lazy_drm",
-		"v": 27353,
+		"v": 27611,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_15.1"
 			}
 		]
@@ -15466,15 +15466,15 @@
 	},
 	"72332443-cfaa-4eaa-90f9-239755051a45": {
 		"name": "android_deterministic_theatre_loading",
-		"v": 27355,
+		"v": 27610,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_15.1"
 			},
 			{
@@ -16383,8 +16383,9 @@
 	},
 	"77e82e08-36ab-4d86-8166-b63d87ee76bc": {
 		"name": "android_reuse_autoplay_player",
-		"v": 27188,
+		"v": 27609,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 50,
