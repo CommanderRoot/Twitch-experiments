@@ -30263,25 +30263,6 @@
 			}
 		]
 	},
-	"df65da85-5719-4f2f-9e6d-922ad0fd837b": {
-		"name": "ios_mdf_feature_flag_neue",
-		"v": 27408,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "activeA_15.1"
-			},
-			{
-				"weight": 0,
-				"value": "activeB_15.1"
-			}
-		]
-	},
 	"df8c4e4a-d7f6-4af0-a064-38226ffe0607": {
 		"name": "player_exs",
 		"v": 5971,
