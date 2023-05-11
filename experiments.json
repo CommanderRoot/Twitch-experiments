@@ -30675,19 +30675,15 @@
 	},
 	"e24202cd-cd09-4f39-8095-03e16a62e5cd": {
 		"name": "mobile_native_web_transcode_mode",
-		"v": 27589,
+		"v": 27641,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "cbr_v1"
 			},
 			{
-				"weight": 0,
-				"value": "cbr_v2"
-			},
-			{
-				"weight": 0,
+				"weight": 1,
 				"value": "vbr_v1"
 			}
 		]
