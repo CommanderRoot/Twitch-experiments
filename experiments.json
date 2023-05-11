@@ -24122,6 +24122,21 @@
 			}
 		]
 	},
+	"aff80edb-7ec6-4224-b23a-4d7330d2c2de": {
+		"name": "ios_gs_discovery_card",
+		"v": 27640,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"affc81cf-3b11-4d59-8a6b-6e4a79a728fd": {
 		"name": "dart_newcreatoruse2_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
 		"v": 15995,
