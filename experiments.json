@@ -8917,6 +8917,37 @@
 			}
 		]
 	},
+	"42f0aa99-99d1-4446-beeb-c3b9e459e994": {
+		"name": "dart_contract_migration_triggered_fix_email",
+		"v": 27635,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "Variant A"
+			},
+			{
+				"weight": 17,
+				"value": "Variant B"
+			},
+			{
+				"weight": 17,
+				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 17,
+				"value": "Variant E"
+			},
+			{
+				"weight": 17,
+				"value": "Variant F"
+			}
+		]
+	},
 	"42f2b2a1-fdb0-4299-b8d7-5592e970a54c": {
 		"name": "dart_twitchconwrapup_vwr_773_awa_cmc_non_mis_email_2208_holdout",
 		"v": 22433,
@@ -18550,6 +18581,37 @@
 			{
 				"weight": 100,
 				"value": "active_v10.2"
+			}
+		]
+	},
+	"88e062b2-2301-4a6a-8afe-cf712aa4e3a1": {
+		"name": "dart_contract_migration_triggered_fix_onsite",
+		"v": 27636,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "Variant A"
+			},
+			{
+				"weight": 17,
+				"value": "Variant B"
+			},
+			{
+				"weight": 17,
+				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 17,
+				"value": "Variant E"
+			},
+			{
+				"weight": 17,
+				"value": "Variant F"
 			}
 		]
 	},
