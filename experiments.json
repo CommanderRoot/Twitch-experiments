@@ -28538,7 +28538,7 @@
 	},
 	"d24d0646-6787-414b-ab4b-412b1d5081de": {
 		"name": "ios_ads_mcf",
-		"v": 27544,
+		"v": 27642,
 		"t": 1,
 		"groups": [
 			{
@@ -28556,6 +28556,14 @@
 			{
 				"weight": 0,
 				"value": "dark_launch"
+			},
+			{
+				"weight": 0,
+				"value": "dark_launch_v15.3_test"
+			},
+			{
+				"weight": 0,
+				"value": "active_v15.3_test"
 			}
 		]
 	},
