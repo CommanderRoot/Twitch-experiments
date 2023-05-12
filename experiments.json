@@ -5275,15 +5275,15 @@
 	},
 	"26f93743-f5bb-4da9-a428-2ab8002d46ed": {
 		"name": "android_experiment_cluster_test",
-		"v": 26898,
+		"v": 27658,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
