@@ -16821,11 +16821,11 @@
 	},
 	"7abc1144-8984-400c-97a3-12eefc8b7290": {
 		"name": "ios_celebrations_beta",
-		"v": 27639,
+		"v": 27657,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -16833,7 +16833,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_15.1"
 			}
 		]
