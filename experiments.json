@@ -14663,15 +14663,15 @@
 	},
 	"6d0a6e7a-594d-4424-ad30-22743e45baa1": {
 		"name": "ios_channel_skins_use_gql",
-		"v": 27715,
+		"v": 27716,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v15.2"
 			}
 		]
