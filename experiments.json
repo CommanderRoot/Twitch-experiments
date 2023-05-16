@@ -2794,15 +2794,15 @@
 	},
 	"14b9675d-9d0b-4125-862a-7edde0e00274": {
 		"name": "android_lazy_drm",
-		"v": 27611,
+		"v": 27721,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_15.1"
 			}
 		]
