@@ -31740,6 +31740,21 @@
 			}
 		]
 	},
+	"ea15b23c-c2e2-4fc5-b4cb-65df3bb7b8d3": {
+		"name": "ios_allows_os_pip_default_value",
+		"v": 27747,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "pre-15.3"
+			},
+			{
+				"weight": 0,
+				"value": "post-15.3"
+			}
+		]
+	},
 	"ea2c9418-1a27-4ec7-b289-9021ee25776d": {
 		"name": "pogchat_10",
 		"v": 24091,
