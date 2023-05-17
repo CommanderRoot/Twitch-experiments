@@ -22110,6 +22110,21 @@
 			}
 		]
 	},
+	"a0fdb137-6ee8-4f04-b057-a91b43badb29": {
+		"name": "android_creator_disconnect_protection",
+		"v": 27748,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"a12e6150-15d5-45ce-8db8-bbaf49f4ec8c": {
 		"name": "vaes_rollout_t1",
 		"v": 7647,
