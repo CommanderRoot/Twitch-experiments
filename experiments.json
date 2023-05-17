@@ -11001,6 +11001,25 @@
 			}
 		]
 	},
+	"51cbdb89-a46b-422a-9954-f085f5d4da2c": {
+		"name": "ios_mobile_shield_logging",
+		"v": 27745,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "none"
+			},
+			{
+				"weight": 0,
+				"value": "default"
+			},
+			{
+				"weight": 0,
+				"value": "verbose"
+			}
+		]
+	},
 	"5215fdf9-f0b5-4d87-be64-f5466658b723": {
 		"name": "android_disable_native_pip_xiaomi",
 		"v": 11407,
