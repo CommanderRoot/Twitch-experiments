@@ -11014,15 +11014,15 @@
 	},
 	"51cbdb89-a46b-422a-9954-f085f5d4da2c": {
 		"name": "ios_mobile_shield_logging",
-		"v": 27746,
+		"v": 27836,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "none"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "verbose"
 			}
 		]
