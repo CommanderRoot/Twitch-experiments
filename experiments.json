@@ -3478,16 +3478,12 @@
 	},
 	"199b9b8e-6055-4d18-a55d-12a4b5e560bc": {
 		"name": "dart_netzdg_reporter_report_enforcement_email",
-		"v": 27159,
+		"v": 27835,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "Variant A"
-			},
-			{
 				"weight": 100,
-				"value": "Variant B"
+				"value": "Variant A"
 			}
 		]
 	},
