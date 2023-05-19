@@ -12265,7 +12265,7 @@
 	},
 	"5c509ab4-d431-4e6b-b30c-8a03c03a0d52": {
 		"name": "android_kmp_chat",
-		"v": 27622,
+		"v": 27850,
 		"t": 1,
 		"groups": [
 			{
@@ -12283,6 +12283,10 @@
 			{
 				"weight": 0,
 				"value": "active_15.2"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.3"
 			}
 		]
 	},
