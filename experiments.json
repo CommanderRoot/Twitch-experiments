@@ -467,7 +467,7 @@
 	},
 	"03bea943-d1c0-4088-8164-516f7c0fa557": {
 		"name": "ios_player_pooling_strategy",
-		"v": 26930,
+		"v": 27901,
 		"t": 1,
 		"groups": [
 			{
@@ -477,6 +477,10 @@
 			{
 				"weight": 0,
 				"value": "infinite"
+			},
+			{
+				"weight": 0,
+				"value": "3"
 			}
 		]
 	},
@@ -30810,7 +30814,7 @@
 	},
 	"e249a61d-adb9-4704-8677-ffdb792f8cbd": {
 		"name": "android_leaderboard_webview_source",
-		"v": 27714,
+		"v": 27900,
 		"t": 1,
 		"groups": [
 			{
@@ -30823,11 +30827,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_tachyon_15.2"
+				"value": "active_tachyon_15.3"
 			},
 			{
 				"weight": 0,
-				"value": "active_twilight_15.2"
+				"value": "active_twilight_15.3"
 			}
 		]
 	},
