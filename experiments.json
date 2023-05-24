@@ -27098,7 +27098,7 @@
 	},
 	"c7327c1e-323b-43f3-9eef-23f44c46b0b0": {
 		"name": "ios_community_highlights_refactor",
-		"v": 27503,
+		"v": 27909,
 		"t": 1,
 		"groups": [
 			{
@@ -27108,6 +27108,10 @@
 			{
 				"weight": 10,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.3"
 			}
 		]
 	},
