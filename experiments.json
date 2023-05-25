@@ -31635,36 +31635,6 @@
 			}
 		]
 	},
-	"e8867f09-8847-416f-b5c6-e31b88d95ce5": {
-		"name": "android_warp_staff",
-		"v": 16991,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
-	"e8ae73fe-8fac-43d6-9959-f1764b6ae6f5": {
-		"name": "android_warp_prod",
-		"v": 16343,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"e8c5cf6c-5259-446b-aef1-4e33747b3b93": {
 		"name": "Game Changes",
 		"v": 842,
