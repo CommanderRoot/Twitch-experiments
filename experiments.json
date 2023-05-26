@@ -12150,21 +12150,6 @@
 			}
 		]
 	},
-	"5b3c7579-e32e-4ddd-b569-8bf76265a431": {
-		"name": "dart_newcreatoruse1_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
-		"v": 13683,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"5b4b52f8-f313-466b-acd8-a4ddd9c89a87": {
 		"name": "ios_restart_mw_timer_after_video_play",
 		"v": 8856,
@@ -18914,21 +18899,6 @@
 			{
 				"weight": 0,
 				"value": "legacy"
-			}
-		]
-	},
-	"8b1d7969-92c3-4c3c-a373-8a581d7c43dd": {
-		"name": "dart_newcreatorgbe1_ctr_376_hrb_cmc_lrn_mis_email_2103_holdout",
-		"v": 16004,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -28908,21 +28878,6 @@
 			{
 				"weight": 0,
 				"value": "opt_out"
-			}
-		]
-	},
-	"d44c5e31-7364-4569-ac6a-a505f560c4db": {
-		"name": "dart_post_first_stream_success_holdout",
-		"v": 8177,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
 			}
 		]
 	},
