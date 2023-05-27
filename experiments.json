@@ -19149,11 +19149,11 @@
 	},
 	"8c872987-1f8d-40b8-8871-8b0c141e19f6": {
 		"name": "android_commerce_notices",
-		"v": 27960,
+		"v": 28002,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -19161,7 +19161,7 @@
 				"value": "active_2536_15.3"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "debug_one_channel"
 			},
 			{
