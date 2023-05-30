@@ -20412,15 +20412,15 @@
 	},
 	"951d4306-ad22-4741-9428-c7f5646f73de": {
 		"name": "ios_chathistory",
-		"v": 27511,
+		"v": 28027,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active"
 			}
 		]
