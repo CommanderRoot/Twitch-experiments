@@ -28881,6 +28881,21 @@
 			}
 		]
 	},
+	"d44c5e31-7364-4569-ac6a-a505f560c4db": {
+		"name": "dart_post_first_stream_success_holdout",
+		"v": 28017,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"d457dbd7-c26b-4459-9de1-66c6bb0ee0d7": {
 		"name": "dart_new_d3_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
 		"v": 16674,
