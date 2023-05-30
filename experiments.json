@@ -25354,6 +25354,21 @@
 			}
 		]
 	},
+	"b76ab924-2ff1-4397-bb08-8cb392d94632": {
+		"name": "dart_sf6onsite_vwr_987_cmm_cmc_flw_gmg_onsite_235_holdout",
+		"v": 28025,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"b776b4d5-2c9b-4ad1-9ddb-4be53e8e1a42": {
 		"name": "dart_apac_sgp_valorantchampionsquarterfinals_vwr_0_dav_trn_flw_gmg_onsite_2112_onsite",
 		"v": 18222,
