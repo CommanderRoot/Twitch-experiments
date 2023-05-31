@@ -15107,21 +15107,6 @@
 			}
 		]
 	},
-	"6fb32348-8b9f-4319-9948-4a3c126ac7ff": {
-		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 22349,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"6fbde053-695a-44f4-a518-9de5c698b87e": {
 		"name": "cheering2.0_bits_pinata",
 		"v": 15659,
@@ -30024,41 +30009,6 @@
 			{
 				"weight": 1,
 				"value": "active"
-			}
-		]
-	},
-	"dc78050f-382c-478f-8074-57f497b14eca": {
-		"name": "dart_cold_d7_top_streams_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 22350,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "Variant A"
-			},
-			{
-				"weight": 0,
-				"value": "Variant B"
-			},
-			{
-				"weight": 50,
-				"value": "Variant C"
-			},
-			{
-				"weight": 0,
-				"value": "Variant D"
-			},
-			{
-				"weight": 0,
-				"value": "Variant E"
-			},
-			{
-				"weight": 50,
-				"value": "Variant F"
-			},
-			{
-				"weight": 0,
-				"value": "Variant G"
 			}
 		]
 	},
