@@ -23140,6 +23140,21 @@
 			}
 		]
 	},
+	"a899c059-ec18-406c-b558-c5eb02d85e0d": {
+		"name": "android_chat_messages_refactor",
+		"v": 28054,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"a8af8c8f-7717-46c0-a5ef-c6f71f5a3ffb": {
 		"name": "ios_global_follow_button",
 		"v": 12003,
