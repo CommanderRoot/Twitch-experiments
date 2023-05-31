@@ -34750,7 +34750,7 @@
 	},
 	"ffe656cb-149b-4618-942d-5ffa0d48795a": {
 		"name": "zoltar_model",
-		"v": 18173,
+		"v": 28053,
 		"t": 1,
 		"s": 2,
 		"groups": [
@@ -34763,11 +34763,11 @@
 				"value": "TreatmentExplore"
 			},
 			{
-				"weight": 8,
+				"weight": 99,
 				"value": "TreatmentControl"
 			},
 			{
-				"weight": 6,
+				"weight": 0,
 				"value": "TreatmentMinBuf4V3"
 			},
 			{
@@ -34775,11 +34775,11 @@
 				"value": "TreatmentLiveSeg4V2"
 			},
 			{
-				"weight": 8,
+				"weight": 0,
 				"value": "TreatmentLiveSeg4V3"
 			},
 			{
-				"weight": 77,
+				"weight": 0,
 				"value": "TreatmentLiveSeg4V2Scale"
 			}
 		]
