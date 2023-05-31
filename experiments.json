@@ -548,6 +548,21 @@
 			}
 		]
 	},
+	"040a7ce7-b1d3-4863-b27f-f4c7cdf54dea": {
+		"name": "dart_mayviewernewsletter_vwr_1004_dav_cmc_wch_gmg_email_2305_holdout",
+		"v": 28050,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"042ce8b9-aca4-47bb-a7e5-eea3a5a214a4": {
 		"name": "android_core_player_synchronized_release",
 		"v": 25817,
