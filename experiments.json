@@ -25160,6 +25160,21 @@
 			}
 		]
 	},
+	"b53ade29-021e-4671-af79-c6703c89ace3": {
+		"name": "dart_viewsfromtwitchexperiment_crt_972_awa_cmc_irn_mis_onsite_236_holdout",
+		"v": 28087,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"b54f8797-2b35-4024-8a8c-0f2ef440e4fa": {
 		"name": "android_channel_deeplink_to_theatre",
 		"v": 3592,
