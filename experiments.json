@@ -19852,6 +19852,21 @@
 			}
 		]
 	},
+	"91411ff8-1e6e-4dd0-9cd0-5431989e2c13": {
+		"name": "dart_sf6email_crt_987_cmm_cmc_str_gmg_email_236_holdout",
+		"v": 28083,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"914f6d99-84fb-47e2-88b1-0eba48eff640": {
 		"name": "dart_h12022transparencyreportonsite_ctr_850_flw_trn_lrn_mis_onsite_2211_holdout",
 		"v": 25390,
