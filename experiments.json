@@ -12458,15 +12458,15 @@
 	},
 	"5d309676-8e63-49cc-965d-b18b81bc005d": {
 		"name": "android_chathistory",
-		"v": 28028,
+		"v": 28079,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 40,
 				"value": "active_development"
 			}
 		]
