@@ -25762,6 +25762,21 @@
 			}
 		]
 	},
+	"bb0d12ea-58f3-4e37-970b-c8ee6dae6611": {
+		"name": "dart_twitchconexpofloor_vwr_1005_dav_cmc_lrn_mis_email_2305_holdout",
+		"v": 28071,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"bb2d1459-65c5-49df-a5a0-b1c76ff23a85": {
 		"name": "ios_chromecast_control_center",
 		"v": 22693,
