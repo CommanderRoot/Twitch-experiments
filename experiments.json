@@ -13466,15 +13466,15 @@
 	},
 	"6363eba4-9052-4a32-893a-69b5aed3c3a6": {
 		"name": "ios_game_broadcasting_setup_callout",
-		"v": 27204,
+		"v": 28105,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "control"
 			}
 		]
