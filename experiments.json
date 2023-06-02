@@ -242,6 +242,21 @@
 			}
 		]
 	},
+	"01b17f66-09a6-4ea4-a419-53ba267b954f": {
+		"name": "dart_pridelaunchde_ctr_1009_awa_cmc_lrn_mis_oe_2306_holdout",
+		"v": 28097,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"01b97c60-a202-4042-9f65-f22624ecff0d": {
 		"name": "dart_fpgo_existing_sub_localized_apac_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14726,
@@ -5409,6 +5424,21 @@
 	"275cc403-c5c5-47ff-9e9f-4810508a07ee": {
 		"name": "dart_multi_mont_emea_vwr_325_cmm_cmc_buy_mis_email_2104_holdout",
 		"v": 16005,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"27bd3e7d-bd01-48fe-96a3-d2d49ce33240": {
+		"name": "dart_pridelaunchuki_ctr_1009_awa_cmc_lrn_mis_oe_2306_holdout",
+		"v": 28098,
 		"t": 2,
 		"groups": [
 			{
@@ -17689,6 +17719,21 @@
 			}
 		]
 	},
+	"80bfe761-b2ed-45c1-a3d8-67e7fed307ea": {
+		"name": "dart_pridelaunchfr_ctr_1009_awa_cmc_lrn_mis_oe_2306_holdout",
+		"v": 28101,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"80d35292-9569-4c83-adba-38d212d8b6bc": {
 		"name": "dart_slcurtestnewd3tpstreams_vwr_458_dav_cmc_wch_mis_email_2107_holdout",
 		"v": 15737,
@@ -19145,6 +19190,21 @@
 			{
 				"weight": 0,
 				"value": "debug_no_channel"
+			}
+		]
+	},
+	"8cbd71cc-c4b5-4b2c-a572-08cf51a31b43": {
+		"name": "dart_pridelaunchit_ctr_1009_awa_cmc_lrn_mis_oe_2306_holdout",
+		"v": 28099,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -26217,6 +26277,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"bfc806b9-d795-4a24-8bff-4f7dfad51cf0": {
+		"name": "dart_pridelaunches_ctr_1009_awa_cmc_lrn_mis_oe_2306_holdout",
+		"v": 28100,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
