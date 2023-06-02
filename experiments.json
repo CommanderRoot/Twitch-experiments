@@ -12488,7 +12488,7 @@
 	},
 	"5d309676-8e63-49cc-965d-b18b81bc005d": {
 		"name": "android_chathistory",
-		"v": 28106,
+		"v": 28108,
 		"t": 1,
 		"groups": [
 			{
@@ -12498,6 +12498,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.4"
 			}
 		]
 	},
@@ -20491,15 +20495,15 @@
 	},
 	"951d4306-ad22-4741-9428-c7f5646f73de": {
 		"name": "ios_chathistory",
-		"v": 28080,
+		"v": 28107,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 60,
+				"weight": 40,
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 60,
 				"value": "active"
 			}
 		]
