@@ -28688,6 +28688,25 @@
 			}
 		]
 	},
+	"d10a8795-adc7-40b0-a3f1-1a236e95c069": {
+		"name": "ios_player_pooling_strategy_v15.4",
+		"v": 28134,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "noPool"
+			},
+			{
+				"weight": 0,
+				"value": "3"
+			},
+			{
+				"weight": 0,
+				"value": "infinite"
+			}
+		]
+	},
 	"d187cb3d-48b1-4d84-89a4-933557803ceb": {
 		"name": "dart_freeformtagslochero_vwr_760_awa_cmc_lrn_mis_email_228_email",
 		"v": 22578,
