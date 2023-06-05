@@ -33059,12 +33059,12 @@
 	},
 	"f0ecbed1-48e3-478d-bc04-77f2cca4dd58": {
 		"name": "is-user-in-friendly-fraud-group",
-		"v": 27116,
+		"v": 28136,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "holdout"
+				"value": "control"
 			},
 			{
 				"weight": 0,
