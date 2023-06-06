@@ -19583,6 +19583,21 @@
 			}
 		]
 	},
+	"8e34c429-de76-439b-9e7c-afc077eeb8e5": {
+		"name": "dart_gueststartest060523_email",
+		"v": 28156,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"8e3d46fd-3c9c-4ea1-8b97-94b33414dfdb": {
 		"name": "android_gs_discovery_card",
 		"v": 27634,
@@ -31861,6 +31876,21 @@
 			},
 			{
 				"weight": 100,
+				"value": "allowed"
+			}
+		]
+	},
+	"e925d700-14b7-44ff-89d7-66c5419fd9b3": {
+		"name": "dart_gueststartest060523_holdout",
+		"v": 28155,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
 				"value": "allowed"
 			}
 		]
