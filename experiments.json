@@ -5451,6 +5451,21 @@
 			}
 		]
 	},
+	"2769302e-7828-4039-9de1-a9b2be8b474d": {
+		"name": "ios_sleep_timer",
+		"v": 28206,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "instructional_message"
+			}
+		]
+	},
 	"27bd3e7d-bd01-48fe-96a3-d2d49ce33240": {
 		"name": "dart_pridelaunchuki_ctr_1009_awa_cmc_lrn_mis_oe_2306_holdout",
 		"v": 28098,
