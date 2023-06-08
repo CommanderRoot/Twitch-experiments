@@ -4123,6 +4123,21 @@
 			}
 		]
 	},
+	"1e5baf33-feb3-4f1b-a701-ba9c1f8b0c1f": {
+		"name": "kylmella_test_experiment",
+		"v": 28210,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "test"
+			}
+		]
+	},
 	"1e826e43-17aa-41f4-8b4a-afd16217c97e": {
 		"name": "surestream_rollout_ios_jp",
 		"v": 8333,
@@ -21877,6 +21892,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"9d96d104-176f-4590-ae40-76da2fdbaf19": {
+		"name": "dart_twitchconrivals_vwr_1021_dav_cmc_lrn_mis_email_2306_holdout",
+		"v": 28211,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
