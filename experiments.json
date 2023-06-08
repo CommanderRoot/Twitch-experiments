@@ -6243,6 +6243,21 @@
 			}
 		]
 	},
+	"2d8ba37b-1541-4e24-a649-f061efadf14d": {
+		"name": "android_disco_krusty_krab",
+		"v": 28223,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"2def6419-eaa1-467f-bcc6-052498371c3f": {
 		"name": "ios_pinnedchat",
 		"v": 24290,
