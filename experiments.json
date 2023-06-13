@@ -17038,6 +17038,21 @@
 			}
 		]
 	},
+	"7af34d60-f702-4742-bd59-0713d3b28b41": {
+		"name": "dart_dropsvalorant061123na_holdout",
+		"v": 28274,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"7b300605-0816-4464-8e86-be5341835ab3": {
 		"name": "android_unified_video_access_token",
 		"v": 12520,
@@ -25890,6 +25905,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"ba233d7b-fca5-4e47-b599-6b73a0809da1": {
+		"name": "dart_dropsvalorant061123au_holdout",
+		"v": 28273,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
 				"value": "allowed"
 			}
 		]
