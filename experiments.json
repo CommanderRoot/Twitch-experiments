@@ -2309,21 +2309,6 @@
 			}
 		]
 	},
-	"10df8aa0-48fb-495e-9cac-a8482357e98b": {
-		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 22007,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"11167327-09ab-4e58-80e3-666413e18740": {
 		"name": "dart_performance_email_batch1_onsitetest_onsite",
 		"v": 24993,
@@ -15822,41 +15807,6 @@
 			}
 		]
 	},
-	"7357166d-5a2f-47dc-95af-fddf4c29aa1e": {
-		"name": "dart_cold_d14_top_games_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 22008,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "Variant A"
-			},
-			{
-				"weight": 0,
-				"value": "Variant B"
-			},
-			{
-				"weight": 0,
-				"value": "Variant C"
-			},
-			{
-				"weight": 0,
-				"value": "Variant D"
-			},
-			{
-				"weight": 0,
-				"value": "Variant E"
-			},
-			{
-				"weight": 0,
-				"value": "Variant F"
-			},
-			{
-				"weight": 100,
-				"value": "Variant G"
-			}
-		]
-	},
 	"73720cb1-72da-4443-b57b-5badb0113add": {
 		"name": "dart_fpgo_existing_sub_localized_latam_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14856,
@@ -16115,33 +16065,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"74b99b8c-baa9-472e-858d-383b89549155": {
-		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_email",
-		"v": 22336,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "Variant A"
-			},
-			{
-				"weight": 0,
-				"value": "Variant B"
-			},
-			{
-				"weight": 100,
-				"value": "Variant C"
-			},
-			{
-				"weight": 0,
-				"value": "Variant D"
-			},
-			{
-				"weight": 0,
-				"value": "Variant E"
 			}
 		]
 	},
@@ -28606,21 +28529,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"cf115fa2-e2d3-46e0-a5f9-ed8c9a8a12f2": {
-		"name": "dart_cold_d21_top_streamers_en_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
-		"v": 22335,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
