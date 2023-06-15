@@ -23022,11 +23022,11 @@
 	},
 	"a721b713-af96-439b-b2bc-b6cf252cb0d9": {
 		"name": "android_hype_train_overlay",
-		"v": 28267,
+		"v": 28367,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
@@ -23034,7 +23034,7 @@
 				"value": "horizontal_ht_banner_development"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "condensed_ht_banner_15.4"
 			},
 			{
