@@ -31138,11 +31138,11 @@
 	},
 	"e249a61d-adb9-4704-8677-ffdb792f8cbd": {
 		"name": "android_leaderboard_webview_source",
-		"v": 27906,
+		"v": 28350,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 1,
 				"value": "control"
 			},
 			{
@@ -31150,11 +31150,11 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "active_tachyon_15.3"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "active_twilight_15.3"
 			},
 			{
