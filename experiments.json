@@ -4894,7 +4894,7 @@
 	},
 	"239e7f42-04c6-4345-9653-abda0b4d3b5b": {
 		"name": "android_hype_train_overlay_v2",
-		"v": 28400,
+		"v": 28405,
 		"t": 2,
 		"groups": [
 			{
@@ -33541,6 +33541,21 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			}
+		]
+	},
+	"f5075837-2c37-417d-82eb-14bdb4ed548c": {
+		"name": "ios_disco_krusty_krab",
+		"v": 28406,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
