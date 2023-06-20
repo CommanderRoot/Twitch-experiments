@@ -5597,6 +5597,21 @@
 			}
 		]
 	},
+	"28a15c24-3695-4fd1-b79a-5c13cea74160": {
+		"name": "ios_multi_language_selector",
+		"v": 28442,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"28ca5427-cb5e-4bf4-a286-9ccc59b8ee03": {
 		"name": "tvapps_global_player_low_latency_experiment",
 		"v": 10751,
@@ -34042,6 +34057,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"f8c43aed-0b0e-47bf-88db-5f188bac2922": {
+		"name": "bits_simplified_purchase",
+		"v": 28443,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
