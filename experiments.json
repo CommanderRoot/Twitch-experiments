@@ -13047,7 +13047,7 @@
 	},
 	"603840b1-a9de-48f1-b105-f08e5ef3f168": {
 		"name": "android_ads_mcf",
-		"v": 28305,
+		"v": 28421,
 		"t": 1,
 		"groups": [
 			{
@@ -13059,11 +13059,11 @@
 				"value": "active_15.3"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "active_soft_launch_test_15.3"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_15.4"
 			}
 		]
@@ -28963,7 +28963,7 @@
 	},
 	"d24d0646-6787-414b-ab4b-412b1d5081de": {
 		"name": "ios_ads_mcf",
-		"v": 28120,
+		"v": 28422,
 		"t": 1,
 		"groups": [
 			{
@@ -28971,11 +28971,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "dark_launch_v15.3_prod"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v15.3_prod"
 			},
 			{
