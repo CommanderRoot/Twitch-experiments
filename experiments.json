@@ -5836,15 +5836,15 @@
 	},
 	"2a450a67-ddfe-4ccc-bfbf-2d6b31c2fcb3": {
 		"name": "android_hls_refactor",
-		"v": 28233,
+		"v": 28445,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
@@ -23082,15 +23082,15 @@
 	},
 	"a70dd3eb-29dc-4f17-8aea-ed3c9d4d9575": {
 		"name": "ios_hls_refactor",
-		"v": 28234,
+		"v": 28446,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
