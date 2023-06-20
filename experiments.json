@@ -1109,6 +1109,21 @@
 			}
 		]
 	},
+	"077364eb-b602-486c-b34b-1b09c6554ea9": {
+		"name": "dart_ccllaunchintstreamersemail_holdout",
+		"v": 28438,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"07f5c9b1-4703-4934-94a4-dc0f15b99f55": {
 		"name": "dart_live_up_email",
 		"v": 26294,
@@ -13047,7 +13062,7 @@
 	},
 	"603840b1-a9de-48f1-b105-f08e5ef3f168": {
 		"name": "android_ads_mcf",
-		"v": 28435,
+		"v": 28436,
 		"t": 1,
 		"groups": [
 			{
@@ -13059,11 +13074,11 @@
 				"value": "active_15.3"
 			},
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "active_soft_launch_test_15.3"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_15.4"
 			}
 		]
@@ -16837,6 +16852,21 @@
 			},
 			{
 				"weight": 97,
+				"value": "allowed"
+			}
+		]
+	},
+	"79f37f9f-5880-4b03-9d6d-157acaaf7c2e": {
+		"name": "dart_ccllaunchstengeamersemail_holdout",
+		"v": 28439,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -28959,7 +28989,7 @@
 	},
 	"d24d0646-6787-414b-ab4b-412b1d5081de": {
 		"name": "ios_ads_mcf",
-		"v": 28434,
+		"v": 28437,
 		"t": 1,
 		"groups": [
 			{
@@ -28967,11 +28997,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "dark_launch_v15.3_prod"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_v15.3_prod"
 			},
 			{
