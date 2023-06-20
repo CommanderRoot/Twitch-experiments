@@ -35019,12 +35019,16 @@
 	},
 	"fea59d73-9d45-4471-af17-48101a4ae707": {
 		"name": "ios_onechat_user",
-		"v": 28441,
+		"v": 28447,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
