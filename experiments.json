@@ -23199,27 +23199,27 @@
 	},
 	"a7dea553-0173-4678-aa4f-243941f1f9da": {
 		"name": "ios_leaderboard_webview_source",
-		"v": 27948,
+		"v": 28448,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 92,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 2,
 				"value": "active_twilight_15.2"
 			},
 			{
-				"weight": 33,
+				"weight": 2,
 				"value": "active_tachyon_15.2"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "active_tachyon_preloaded_15.4"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "active_twilight_preloaded_15.4"
 			}
 		]
@@ -31136,11 +31136,11 @@
 	},
 	"e249a61d-adb9-4704-8677-ffdb792f8cbd": {
 		"name": "android_leaderboard_webview_source",
-		"v": 28350,
+		"v": 28449,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 92,
 				"value": "control"
 			},
 			{
@@ -31148,19 +31148,19 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "active_tachyon_15.3"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "active_twilight_15.3"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "active_tachyon_preloaded_15.4"
 			},
 			{
-				"weight": 0,
+				"weight": 2,
 				"value": "active_twilight_preloaded_15.4"
 			}
 		]
