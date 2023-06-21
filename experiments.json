@@ -13069,7 +13069,7 @@
 	},
 	"603840b1-a9de-48f1-b105-f08e5ef3f168": {
 		"name": "android_ads_mcf",
-		"v": 28436,
+		"v": 28471,
 		"t": 1,
 		"groups": [
 			{
@@ -13081,11 +13081,11 @@
 				"value": "active_15.3"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_soft_launch_test_15.3"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_15.4"
 			}
 		]
