@@ -28819,7 +28819,7 @@
 	},
 	"d10a8795-adc7-40b0-a3f1-1a236e95c069": {
 		"name": "ios_player_pooling_strategy_v15.4",
-		"v": 28427,
+		"v": 28469,
 		"t": 1,
 		"groups": [
 			{
@@ -28827,11 +28827,11 @@
 				"value": "noPool"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "3"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "infinite"
 			}
 		]
