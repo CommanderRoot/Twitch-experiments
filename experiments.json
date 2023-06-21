@@ -34073,15 +34073,15 @@
 	},
 	"f8c43aed-0b0e-47bf-88db-5f188bac2922": {
 		"name": "bits_simplified_purchase",
-		"v": 28443,
+		"v": 28486,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
