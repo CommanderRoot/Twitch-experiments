@@ -14165,15 +14165,15 @@
 	},
 	"67ae023b-0b2d-42c5-b453-b4bfc7f9e4b8": {
 		"name": "android_attach_queue",
-		"v": 28381,
+		"v": 28500,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_15.5"
 			}
 		]
