@@ -30987,6 +30987,21 @@
 			}
 		]
 	},
+	"e0b40d19-3c0e-490e-9853-96399aa33222": {
+		"name": "ios_ads_headliner",
+		"v": 28512,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"e156fe80-96d1-410d-a9da-51930d034c55": {
 		"name": "dart_pride_spotlightes_vwr_737_dav_cmc_wch_mis_email_2206_holdout",
 		"v": 21652,
