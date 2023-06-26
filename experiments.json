@@ -4165,6 +4165,25 @@
 			}
 		]
 	},
+	"1e5baf33-feb3-4f1b-a701-ba9c1f8b0c1f": {
+		"name": "kylmella_test_experiment",
+		"v": 28553,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 70,
+				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "test"
+			},
+			{
+				"weight": 10,
+				"value": "some_new_group"
+			}
+		]
+	},
 	"1e826e43-17aa-41f4-8b4a-afd16217c97e": {
 		"name": "surestream_rollout_ios_jp",
 		"v": 8333,
