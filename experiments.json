@@ -1216,12 +1216,20 @@
 	},
 	"090ef277-f7a7-4480-9bcf-6f43f5622ae1": {
 		"name": "ios_player_pooling_strategy_v15.6",
-		"v": 28530,
+		"v": 28536,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "noPool"
+			},
+			{
+				"weight": 0,
+				"value": "3"
+			},
+			{
+				"weight": 0,
+				"value": "infinite"
 			}
 		]
 	},
