@@ -25898,15 +25898,15 @@
 	},
 	"b918848c-a7ed-4810-86f6-404405d25eba": {
 		"name": "ios_experiment_cluster_test",
-		"v": 26884,
+		"v": 28551,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "active"
 			}
 		]
