@@ -1214,6 +1214,17 @@
 			}
 		]
 	},
+	"090ef277-f7a7-4480-9bcf-6f43f5622ae1": {
+		"name": "ios_player_pooling_strategy_v15.6",
+		"v": 28530,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "noPool"
+			}
+		]
+	},
 	"092e4b89-0b1f-400a-9f27-058b80c9b337": {
 		"name": "ios_mb_chat_local_notifications_global",
 		"v": 20864,
