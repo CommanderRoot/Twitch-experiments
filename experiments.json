@@ -33257,15 +33257,15 @@
 	},
 	"f0a9f2f7-ef8f-497c-bbd7-4bf18849260d": {
 		"name": "ios_alerts_viewer_customization",
-		"v": 27044,
+		"v": 28544,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
