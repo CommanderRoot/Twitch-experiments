@@ -23313,27 +23313,27 @@
 	},
 	"a7dea553-0173-4678-aa4f-243941f1f9da": {
 		"name": "ios_leaderboard_webview_source",
-		"v": 28481,
+		"v": 28579,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_twilight_15.2"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_tachyon_15.2"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_tachyon_preloaded_15.4"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_twilight_preloaded_15.4"
 			}
 		]
