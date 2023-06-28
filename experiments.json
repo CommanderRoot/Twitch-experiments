@@ -6518,6 +6518,21 @@
 			}
 		]
 	},
+	"2faadc61-4ced-42ff-9ba6-b70a28bdc1fd": {
+		"name": "dart_juneviewernewsletterde_vwr_1035_dav_cmc_wch_mis_email_2306_holdout",
+		"v": 28607,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2fc35cab-1706-4ef5-8617-fef6a1a8e1fe": {
 		"name": "ios_follower_emotes",
 		"v": 19409,
@@ -12592,6 +12607,21 @@
 			}
 		]
 	},
+	"5d0bc1d0-59dd-4cf0-ab05-5b572b1d8fe8": {
+		"name": "dart_juneviewernewsletteruk_vwr_1035_dav_cmc_wch_mis_email_2306_email",
+		"v": 28606,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"5d2cc9d7-7c05-4ee2-af8e-269d507c1e46": {
 		"name": "android_mgst_localized_streams",
 		"v": 9154,
@@ -13469,6 +13499,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"626d6e4a-c22e-489e-9e07-56373fdcb353": {
+		"name": "dart_juneviewernewsletterde_vwr_1035_dav_cmc_wch_mis_email_2306_email",
+		"v": 28608,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -17649,6 +17694,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"7e16ba32-2ee6-4331-9d68-afbbd15cd12c": {
+		"name": "dart_juneviewernewsletteruk_vwr_1035_dav_cmc_wch_mis_email_2306_holdout",
+		"v": 28605,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -31318,11 +31378,11 @@
 	},
 	"e249a61d-adb9-4704-8677-ffdb792f8cbd": {
 		"name": "android_leaderboard_webview_source",
-		"v": 28482,
+		"v": 28604,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 1,
 				"value": "control"
 			},
 			{
@@ -31330,19 +31390,19 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_tachyon_15.3"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_twilight_15.3"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_tachyon_preloaded_15.4"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_twilight_preloaded_15.4"
 			}
 		]
