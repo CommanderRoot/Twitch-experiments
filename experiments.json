@@ -33464,7 +33464,7 @@
 	},
 	"f0a9f2f7-ef8f-497c-bbd7-4bf18849260d": {
 		"name": "ios_alerts_viewer_customization",
-		"v": 28619,
+		"v": 28620,
 		"t": 1,
 		"groups": [
 			{
@@ -33474,6 +33474,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.6"
 			}
 		]
 	},
