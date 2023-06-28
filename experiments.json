@@ -5598,6 +5598,21 @@
 			}
 		]
 	},
+	"2870c445-eeba-45ff-bb31-8149a06d2f03": {
+		"name": "dart_juneviewernewsletteres_vwr_1035_dav_cmc_wch_mis_email_2306_holdout",
+		"v": 28611,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2875614d-78dc-4e4c-9b7a-f537025b32d9": {
 		"name": "ios_unified_player_state",
 		"v": 22674,
@@ -10498,6 +10513,21 @@
 			}
 		]
 	},
+	"4ceb7c83-aee1-4576-a5ea-607c187bd052": {
+		"name": "dart_juneviewernewsletterit_vwr_1035_dav_cmc_wch_mis_email_2306_email",
+		"v": 28610,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"4d1a7041-5e37-4471-9125-41b547355831": {
 		"name": "vx_follow_blocking",
 		"v": 17203,
@@ -13321,6 +13351,21 @@
 			}
 		]
 	},
+	"60c400b9-b72a-4701-bcc0-0d2e15f4dc4a": {
+		"name": "dart_juneviewernewsletteres_vwr_1035_dav_cmc_wch_mis_email_2306_email",
+		"v": 28612,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"60c62cbe-d304-474a-924d-84acd4268b3f": {
 		"name": "android_sprig_survey",
 		"v": 21526,
@@ -13520,6 +13565,21 @@
 	"6275669e-ca1c-4108-92d7-a681b90d7aa3": {
 		"name": "dart_primeday_giftcardde_vwr_752_cmm_cmc_buy_mis_oe_2207_holdout",
 		"v": 21914,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"62b6e0cb-92b1-4a4c-810c-508ed8aafbf5": {
+		"name": "dart_juneviewernewsletterit_vwr_1035_dav_cmc_wch_mis_email_2306_holdout",
+		"v": 28609,
 		"t": 2,
 		"groups": [
 			{
@@ -16454,6 +16514,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"75f4e279-5fec-43c8-b0d3-abc6dc8b0251": {
+		"name": "dart_juneviewernewsletterfr_vwr_1035_dav_cmc_wch_mis_email_2306_email",
+		"v": 28614,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -34383,6 +34458,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"f9c65c92-d011-4098-bc73-90b5324fd7b4": {
+		"name": "dart_juneviewernewsletterfr_vwr_1035_dav_cmc_wch_mis_email_2306_holdout",
+		"v": 28613,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
