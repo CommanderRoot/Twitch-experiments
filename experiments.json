@@ -5568,6 +5568,21 @@
 			}
 		]
 	},
+	"28695d4d-a389-44ad-b72d-6a69782907c4": {
+		"name": "dart_lavelada_vwr_1037_dav_cmc_wch_spt_email_2307_email",
+		"v": 28666,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"286aa215-8f95-4f9d-86f0-232fb96ec4f0": {
 		"name": "ios_latency_tracking",
 		"v": 6477,
@@ -11781,7 +11796,7 @@
 	},
 	"56c63746-3413-449e-86ad-6d8f8317fd59": {
 		"name": "android_pogcheer_viewer",
-		"v": 26865,
+		"v": 28667,
 		"t": 1,
 		"groups": [
 			{
@@ -11791,6 +11806,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.6"
 			}
 		]
 	},
@@ -17925,6 +17944,21 @@
 	"7ed8cc98-8681-41bc-be78-76479d360083": {
 		"name": "dart_apac_kor_creativeweek_vwr_0_dav_trn_wch_gmg_email_2208_holdout",
 		"v": 22643,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"7ef7870c-3018-4166-8b6f-fc83e77688e4": {
+		"name": "dart_lavelada_vwr_1037_dav_cmc_wch_spt_email_2307_holdout",
+		"v": 28665,
 		"t": 2,
 		"groups": [
 			{
@@ -30187,6 +30221,21 @@
 	"d8c1fefa-208c-4afe-aead-5b2f23d56ba0": {
 		"name": "dart_fpgo_active_previous_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14855,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"d8c39c64-dd09-485c-8a09-c9b7170fdad5": {
+		"name": "dart_laveladapush_vwr_1037_dav_cmc_wch_spt_push_2307_holdout",
+		"v": 28664,
 		"t": 2,
 		"groups": [
 			{
