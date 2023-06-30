@@ -16035,15 +16035,15 @@
 	},
 	"7352a83d-b8ce-4f41-9a29-c66b9b647741": {
 		"name": "ios_ads_omsdk_js_version_15_6",
-		"v": 28662,
+		"v": 28663,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "1_4_6"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "1_4_2"
 			},
 			{
