@@ -18281,11 +18281,11 @@
 	},
 	"81d05701-6593-4528-ad4a-1db87b1c5fae": {
 		"name": "android_ads_omsdk_js_version_15_6",
-		"v": 28588,
+		"v": 28668,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "1_4_6"
 			},
 			{
@@ -18293,7 +18293,7 @@
 				"value": "1_4_2"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "1_3_2"
 			}
 		]
