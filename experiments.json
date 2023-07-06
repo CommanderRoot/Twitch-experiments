@@ -17045,6 +17045,21 @@
 			}
 		]
 	},
+	"798b6180-56e5-4e1d-a4e0-8bc422f400c7": {
+		"name": "dart_alertsvariant_goals_crt_1041_awa_cmc_lrn_mis_onsite_237_holdout",
+		"v": 28695,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"79accd86-e77e-4eae-8979-d19ab2bc4521": {
 		"name": "ios_skippable_ads",
 		"v": 2583,
@@ -26856,6 +26871,21 @@
 			{
 				"weight": 0,
 				"value": "no-keyboard-suggester"
+			}
+		]
+	},
+	"c11938f0-078e-4f7d-94d4-170a0057874c": {
+		"name": "dart_alertsvariant_hypechat_crt_1041_awa_cmc_lrn_mis_onsite_237_holdout",
+		"v": 28696,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
