@@ -24063,15 +24063,15 @@
 	},
 	"ab79d3b7-2881-4c97-be08-b98f1cc4a074": {
 		"name": "ios_paid_pinnedchat",
-		"v": 28680,
+		"v": 28719,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_15.6"
 			}
 		]
@@ -30101,6 +30101,21 @@
 			},
 			{
 				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
+	"d78eb407-6aa0-4130-a343-92346594eff9": {
+		"name": "ios_disco_no_this_is_patrick",
+		"v": 28721,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
 				"value": "active"
 			}
 		]
