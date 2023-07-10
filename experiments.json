@@ -5927,15 +5927,15 @@
 	},
 	"2a450a67-ddfe-4ccc-bfbf-2d6b31c2fcb3": {
 		"name": "android_hls_refactor",
-		"v": 28625,
+		"v": 28731,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
@@ -23437,15 +23437,15 @@
 	},
 	"a70dd3eb-29dc-4f17-8aea-ed3c9d4d9575": {
 		"name": "ios_hls_refactor",
-		"v": 28626,
+		"v": 28732,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
@@ -26726,15 +26726,15 @@
 	},
 	"bf0e817d-d03e-4cf2-8064-23945c0addc1": {
 		"name": "ios_viewer_card_upgrade_v2",
-		"v": 28726,
+		"v": 28729,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 65,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 35,
 				"value": "active"
 			}
 		]
