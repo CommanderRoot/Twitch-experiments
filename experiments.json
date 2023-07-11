@@ -14343,15 +14343,15 @@
 	},
 	"67ae023b-0b2d-42c5-b453-b4bfc7f9e4b8": {
 		"name": "android_attach_queue",
-		"v": 28691,
+		"v": 28760,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_15.5"
 			}
 		]
@@ -16197,11 +16197,11 @@
 	},
 	"741ba449-abb6-4f23-8af8-07291238f2e3": {
 		"name": "android_player_pool",
-		"v": 28546,
+		"v": 28759,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -16209,11 +16209,11 @@
 				"value": "size_1_15.4"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "size_2_15.4"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "size_1_w_cold_15.4"
 			},
 			{
