@@ -26726,15 +26726,15 @@
 	},
 	"bf0e817d-d03e-4cf2-8064-23945c0addc1": {
 		"name": "ios_viewer_card_upgrade_v2",
-		"v": 28729,
+		"v": 28741,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 65,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 35,
+				"weight": 40,
 				"value": "active"
 			}
 		]
