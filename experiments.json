@@ -3493,7 +3493,7 @@
 	},
 	"1986c658-c9fd-44a9-9634-fb4f15626a4c": {
 		"name": "ios_mdf_feature_flag",
-		"v": 28780,
+		"v": 28782,
 		"t": 1,
 		"groups": [
 			{
@@ -7185,6 +7185,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"34c42970-90cc-41c8-b2ce-4a8636897d87": {
+		"name": "ios_mdf_live",
+		"v": 28781,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
@@ -29576,6 +29591,21 @@
 			{
 				"weight": 100,
 				"value": "default_on"
+			}
+		]
+	},
+	"d38e48e2-8174-44f6-a516-d29bd07e5543": {
+		"name": "ios_mdf_clips",
+		"v": 28783,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
