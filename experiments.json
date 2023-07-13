@@ -29492,6 +29492,21 @@
 			}
 		]
 	},
+	"d224f36a-deff-43d0-a189-5311b74fda65": {
+		"name": "android_mdf_live",
+		"v": 28800,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"d24d0646-6787-414b-ab4b-412b1d5081de": {
 		"name": "ios_ads_mcf",
 		"v": 28472,
