@@ -27348,6 +27348,21 @@
 			}
 		]
 	},
+	"c36fde4c-5a4c-450d-813f-50586bfc0499": {
+		"name": "ios_manifest_preloading",
+		"v": 28802,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"c38d4fc4-fe25-4ee0-b39b-09bccb9af0e1": {
 		"name": "dart_apac_jpn_marioday_ctr_0_dav_trn_wch_gmg_onsite_2303_holdout",
 		"v": 26719,
