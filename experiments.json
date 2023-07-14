@@ -27851,7 +27851,7 @@
 	},
 	"c6a2a638-5496-49fb-9bbe-7e381420139e": {
 		"name": "android_mdf_clips",
-		"v": 28799,
+		"v": 28809,
 		"t": 1,
 		"groups": [
 			{
@@ -27860,7 +27860,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_development"
 			}
 		]
 	},
@@ -29509,7 +29509,7 @@
 	},
 	"d224f36a-deff-43d0-a189-5311b74fda65": {
 		"name": "android_mdf_live",
-		"v": 28800,
+		"v": 28810,
 		"t": 1,
 		"groups": [
 			{
@@ -29518,7 +29518,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_development"
 			}
 		]
 	},
