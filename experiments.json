@@ -16045,6 +16045,21 @@
 			}
 		]
 	},
+	"72cbae70-b2c0-4c99-a1e6-da6a10a39b73": {
+		"name": "player_core_send_recoverable_network_error",
+		"v": 28842,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"72eabfe6-2550-451e-b612-d768ca0521e7": {
 		"name": "android_nonnegative_transitions",
 		"v": 9162,
