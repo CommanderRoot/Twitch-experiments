@@ -15246,6 +15246,21 @@
 			}
 		]
 	},
+	"6e255f6b-30f7-4de1-a8dd-2e9c33b4464f": {
+		"name": "dart_dino_global_emote_day_071723_holdout",
+		"v": 28834,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"6e2a89f6-a1e8-45c0-8cc9-77e1fc5590ad": {
 		"name": "ios_raids_ads",
 		"v": 2773,
@@ -31471,6 +31486,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"e12be3f5-32a0-4f08-ba78-ad2ce97ccc12": {
+		"name": "dart_dino_global_emote_day_071723_onsite",
+		"v": 28835,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
