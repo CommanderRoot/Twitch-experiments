@@ -7086,6 +7086,21 @@
 			}
 		]
 	},
+	"33b188e4-c088-4f3c-8a87-f9cc5a7957d8": {
+		"name": "dart_pilot_en_policy_harassment_research_duplicate_email",
+		"v": 28857,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"33ee86c0-afec-4953-86ed-e75d70354d7d": {
 		"name": "following_service_fulton",
 		"v": 12415,
@@ -34121,6 +34136,21 @@
 			}
 		]
 	},
+	"f4aeee2f-211c-4788-91da-c887fade0f5b": {
+		"name": "dart_pilot_fr_policy_harassment_research_final_email",
+		"v": 28856,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"f4cfaad7-3641-46c1-941c-afacf61ff4e8": {
 		"name": "clips_closer",
 		"v": 2370,
@@ -35629,6 +35659,21 @@
 			{
 				"weight": 94,
 				"value": "allowed"
+			}
+		]
+	},
+	"fe91b676-11df-44e0-aab9-d23989276275": {
+		"name": "dart_pilot_jp_policy_harassment_research_final_email",
+		"v": 28855,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
