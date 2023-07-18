@@ -4615,15 +4615,15 @@
 	},
 	"21555737-4b25-4d93-8c31-6c757fb88acd": {
 		"name": "ios_multi_column_stream_manager",
-		"v": 27121,
+		"v": 28849,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "enabled"
 			}
 		]
