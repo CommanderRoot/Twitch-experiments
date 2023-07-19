@@ -26856,6 +26856,21 @@
 			}
 		]
 	},
+	"bef3fdfe-de74-43c9-80da-f4309d04a32c": {
+		"name": "dart_twitchconlv_community_vwr_1038_cmm_cmc_buy_mis_onsite_237_holdout",
+		"v": 28875,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"bf0e817d-d03e-4cf2-8064-23945c0addc1": {
 		"name": "ios_viewer_card_upgrade_v2",
 		"v": 28754,
