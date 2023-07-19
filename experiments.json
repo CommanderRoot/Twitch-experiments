@@ -9177,6 +9177,21 @@
 			}
 		]
 	},
+	"42e73e75-d39d-4c07-a07e-7153ca8fa0ab": {
+		"name": "dart_twitchconlv_partners_crt_1038_cmm_cmc_buy_mis_eo_237_holdout",
+		"v": 28873,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"42ef4bfd-4152-445e-b95f-3971abe837e1": {
 		"name": "dart_apac_kor_apexlegendstwitchrivals_vwr_0_dav_trn_wch_gmg_push_2206_holdout",
 		"v": 21359,
