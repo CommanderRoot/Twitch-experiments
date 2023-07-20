@@ -2392,6 +2392,21 @@
 			}
 		]
 	},
+	"1172e8ea-59f7-4d78-8c31-66620518b9c0": {
+		"name": "dart_cclreminder2onsite_crt_1036_awa_trn_lrn_mis_onsite_237 _holdout",
+		"v": 28908,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"117e3dbc-fc17-49b4-9d07-34d09dd2c10d": {
 		"name": "Promotions_Live_Recommended_Android",
 		"v": 12472,
