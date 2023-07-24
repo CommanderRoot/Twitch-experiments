@@ -32469,6 +32469,21 @@
 			}
 		]
 	},
+	"e6c85aa9-3dac-4684-8212-599bd91090aa": {
+		"name": "player_core_scip_probe",
+		"v": 28924,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"e72776a0-3333-4c59-8806-1f36ea82ae5b": {
 		"name": "dart_memoriesexperiment_vwr_727_awa_cmc_lrn_mis_email_226_holdout",
 		"v": 22323,
