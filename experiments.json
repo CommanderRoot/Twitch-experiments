@@ -22891,15 +22891,15 @@
 	},
 	"a0fdb137-6ee8-4f04-b057-a91b43badb29": {
 		"name": "android_creator_disconnect_protection",
-		"v": 28033,
+		"v": 28936,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_15.4"
 			}
 		]
@@ -25638,6 +25638,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"b3a1de72-2c2b-4935-9ec9-37687d587faf": {
+		"name": "dart_alertsphase2_eng_holdout",
+		"v": 28935,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
