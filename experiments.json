@@ -31590,6 +31590,21 @@
 			}
 		]
 	},
+	"e096c247-8b23-40bb-800d-042a2e5b1dda": {
+		"name": "android_mdf_disabled_countries",
+		"v": 28931,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_development"
+			}
+		]
+	},
 	"e0b40d19-3c0e-490e-9853-96399aa33222": {
 		"name": "ios_ads_headliner",
 		"v": 28512,
