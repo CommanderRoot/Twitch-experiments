@@ -6216,6 +6216,21 @@
 			}
 		]
 	},
+	"2c7f2e31-7594-48ab-8545-69652f1f24cc": {
+		"name": "dart_summerofchess_streamersonsite_ctr_1053_cmm_cmc_ulk_spt_onsite_237_holdout",
+		"v": 28952,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"2c9bc904-90e2-469f-9f09-d2eb5fddeadc": {
 		"name": "android_squad_streaming_alpha",
 		"v": 9136,
