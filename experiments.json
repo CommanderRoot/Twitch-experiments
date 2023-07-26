@@ -22001,7 +22001,7 @@
 	},
 	"9a08490f-1586-4067-9621-c0031b5df531": {
 		"name": "android_pubsub_message_receipt_tracking",
-		"v": 28958,
+		"v": 28960,
 		"t": 1,
 		"groups": [
 			{
@@ -22010,7 +22010,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_15.8"
 			}
 		]
 	},
@@ -31123,15 +31123,15 @@
 	},
 	"dd24b1d7-d40b-44a7-8c22-ac7413d2b2a8": {
 		"name": "ios_pubsub_message_receipt_tracking",
-		"v": 23948,
+		"v": 28959,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_13.8"
 			}
 		]
