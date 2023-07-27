@@ -18496,15 +18496,15 @@
 	},
 	"82009df7-6d05-4a6c-a3f1-dd749725a59f": {
 		"name": "ios_emote_refactor",
-		"v": 27001,
+		"v": 28985,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
