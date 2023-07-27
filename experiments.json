@@ -34108,21 +34108,6 @@
 			}
 		]
 	},
-	"f321aa37-e81d-4a81-99d5-303bf9429b7b": {
-		"name": "AKAMAI_IMAGE_MANAGER",
-		"v": 2318,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "experiment"
-			},
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
 	"f3466720-500f-47dd-8ee8-2538b05409b8": {
 		"name": "dart_tnflweek5_vwr_799_dav_cmc_lrn_wch_po_2210_holdout",
 		"v": 24680,
