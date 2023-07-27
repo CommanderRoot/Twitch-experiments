@@ -3154,37 +3154,6 @@
 			}
 		]
 	},
-	"164332c9-759a-46f5-92de-63d43ff2fd35": {
-		"name": "twilight_web_side_nav_upsell_center_channels",
-		"v": 7313,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "learn"
-			},
-			{
-				"weight": 0,
-				"value": "support"
-			},
-			{
-				"weight": 0,
-				"value": "liveup"
-			},
-			{
-				"weight": 0,
-				"value": "rec"
-			},
-			{
-				"weight": 100,
-				"value": "bullet"
-			}
-		]
-	},
 	"16641928-b480-4891-a7ee-8881c80cea85": {
 		"name": "ios_onsite_notifcation_gestures",
 		"v": 20437,
@@ -14959,22 +14928,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"6bafb943-5523-438b-a77f-e9260d7c3dc3": {
-		"name": "black_widow",
-		"v": 8548,
-		"t": 1,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
@@ -30550,21 +30503,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"d8bb0eee-b764-47d3-a7d9-a8ab437492d0": {
-		"name": "mobile_web_black_widow",
-		"v": 8811,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "treatment"
 			}
 		]
 	},
