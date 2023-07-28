@@ -14656,6 +14656,21 @@
 			}
 		]
 	},
+	"69354c28-929a-4541-bbba-490e6055ebb9": {
+		"name": "dart_julyviewernewsletterde_vwr_1054_dav_cmc_wch_mis_email_2307_holdout",
+		"v": 29028,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"693ad855-1910-4709-a313-72958570552d": {
 		"name": "dart_apac_tha_marioday_vwr_0_dav_trn_wch_gmg_onsite_2303_holdout",
 		"v": 26723,
@@ -27483,6 +27498,29 @@
 			{
 				"weight": 1,
 				"value": "control"
+			}
+		]
+	},
+	"c42e0247-a852-41f0-85ef-f788c0c58f89": {
+		"name": "dart_julyviewernewsletterde_vwr_1054_dav_cmc_wch_mis_email_2307_email",
+		"v": 29029,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 25,
+				"value": "Variant A"
+			},
+			{
+				"weight": 25,
+				"value": "Variant B"
+			},
+			{
+				"weight": 25,
+				"value": "Variant C"
+			},
+			{
+				"weight": 25,
+				"value": "Variant D"
 			}
 		]
 	},
