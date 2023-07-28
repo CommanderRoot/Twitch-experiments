@@ -18441,15 +18441,15 @@
 	},
 	"82009df7-6d05-4a6c-a3f1-dd749725a59f": {
 		"name": "ios_emote_refactor",
-		"v": 28985,
+		"v": 29031,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -31820,16 +31820,16 @@
 	},
 	"e24202cd-cd09-4f39-8095-03e16a62e5cd": {
 		"name": "mobile_native_web_transcode_mode",
-		"v": 28637,
+		"v": 29032,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "cbr_v1"
 			},
 			{
-				"weight": 0,
-				"value": "cbr_v2"
+				"weight": 1,
+				"value": "vbr_v1"
 			}
 		]
 	},
