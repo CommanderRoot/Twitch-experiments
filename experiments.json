@@ -9065,11 +9065,11 @@
 	},
 	"423e3503-a2f7-484a-ac2d-5fc66667f1a4": {
 		"name": "android_disco_squidward_snuggles",
-		"v": 28826,
+		"v": 29108,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 70,
 				"value": "control"
 			},
 			{
@@ -9077,7 +9077,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 30,
 				"value": "active_15.7"
 			}
 		]
@@ -28309,15 +28309,15 @@
 	},
 	"c827d370-70b5-47bb-a144-a3e76bffb6f7": {
 		"name": "ios_disco_squidward_snuggles",
-		"v": 28086,
+		"v": 29107,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 30,
 				"value": "active"
 			}
 		]
