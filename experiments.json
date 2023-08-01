@@ -10184,6 +10184,29 @@
 			}
 		]
 	},
+	"49f4d69e-7bc2-4c40-a2e7-545e084b3b3e": {
+		"name": "dart_julyviewernewsletterow_vwr_1054_dav_cmc_wch_mis_email_2307_email",
+		"v": 29103,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 25,
+				"value": "Variant A"
+			},
+			{
+				"weight": 25,
+				"value": "Variant B"
+			},
+			{
+				"weight": 25,
+				"value": "Variant C"
+			},
+			{
+				"weight": 25,
+				"value": "Variant D"
+			}
+		]
+	},
 	"49fc6817-ba19-4a19-b7a6-c87ab7234eb3": {
 		"name": "ios_squad_streaming",
 		"v": 6204,
@@ -10550,6 +10573,21 @@
 			},
 			{
 				"weight": 85,
+				"value": "allowed"
+			}
+		]
+	},
+	"4bbf715b-e242-4fad-a026-b997234f977e": {
+		"name": "dart_julyviewernewsletterow_vwr_1054_dav_cmc_wch_mis_email_2307_holdout",
+		"v": 29102,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
