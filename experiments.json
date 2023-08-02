@@ -940,6 +940,17 @@
 			}
 		]
 	},
+	"066cfd11-da90-40d3-9088-46acc804c228": {
+		"name": "Passport_Signup_Inhouse_Code_Generation",
+		"v": 29148,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"067d84e4-36bb-4cd1-a912-cfbb0527ee73": {
 		"name": "android_socket_tls_12",
 		"v": 14281,
@@ -16551,6 +16562,17 @@
 				"weight": 0,
 				"value": "active"
 			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
+	"74a36b02-abeb-490b-a09e-d7d27d0c95a6": {
+		"name": "Passport_Login_Inhouse_Code_Generation",
+		"v": 29147,
+		"t": 2,
+		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
