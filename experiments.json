@@ -482,7 +482,7 @@
 	},
 	"03bea943-d1c0-4088-8164-516f7c0fa557": {
 		"name": "ios_player_pooling_strategy",
-		"v": 28022,
+		"v": 29169,
 		"t": 1,
 		"groups": [
 			{
@@ -1227,19 +1227,19 @@
 	},
 	"090ef277-f7a7-4480-9bcf-6f43f5622ae1": {
 		"name": "ios_player_pooling_strategy_v15.6",
-		"v": 28536,
+		"v": 29168,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "noPool"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "3"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "infinite"
 			}
 		]
@@ -29685,7 +29685,7 @@
 	},
 	"d10a8795-adc7-40b0-a3f1-1a236e95c069": {
 		"name": "ios_player_pooling_strategy_v15.4",
-		"v": 28469,
+		"v": 29170,
 		"t": 1,
 		"groups": [
 			{
