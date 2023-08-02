@@ -9379,6 +9379,21 @@
 			}
 		]
 	},
+	"4325f04f-9e7b-418a-8620-2ff1a1b6f55e": {
+		"name": "dart_gamblingpolicyupd_ctr_1045_cmm_cmc_lrn_mis_onsite_238_holdout",
+		"v": 29156,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4359a7b1-4982-46c1-95ea-8a4e20deb263": {
 		"name": "dart_tnflwk6_vwr_799_dav_cmc_lrn_wch_po_2210_holdout",
 		"v": 24776,
