@@ -17050,6 +17050,21 @@
 			}
 		]
 	},
+	"777820e9-b5ac-4ff0-8430-232a64d78743": {
+		"name": "android_mdf_feature_flag",
+		"v": 29197,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.8"
+			}
+		]
+	},
 	"77875b2e-cdc2-4f60-8c19-e8024f3271a9": {
 		"name": "dart_adlastchancenov_ctr_848_awa_cmc_non_mis_2301_holdout",
 		"v": 26160,
@@ -31815,21 +31830,6 @@
 			}
 		]
 	},
-	"e096c247-8b23-40bb-800d-042a2e5b1dda": {
-		"name": "android_mdf_disabled_countries",
-		"v": 28931,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "active_development"
-			}
-		]
-	},
 	"e0b40d19-3c0e-490e-9853-96399aa33222": {
 		"name": "ios_ads_headliner",
 		"v": 28512,
@@ -35093,6 +35093,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"f9a2aef9-29fc-404c-ac9b-5034da2c69c9": {
+		"name": "android_mdf_live_user",
+		"v": 29198,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.8"
 			}
 		]
 	},
