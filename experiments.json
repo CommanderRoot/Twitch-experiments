@@ -3543,6 +3543,21 @@
 			}
 		]
 	},
+	"1940a44d-3760-4e30-98fb-0fbeaf277cf2": {
+		"name": "ios_mdf_live_user",
+		"v": 29212,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"1986c658-c9fd-44a9-9634-fb4f15626a4c": {
 		"name": "ios_mdf_feature_flag",
 		"v": 29134,
@@ -4598,6 +4613,21 @@
 			{
 				"weight": 100,
 				"value": "AAX"
+			}
+		]
+	},
+	"2110f771-f4ec-40c1-830e-1c435c2e60c3": {
+		"name": "ios_mdf_clips_user",
+		"v": 29213,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
@@ -18948,6 +18978,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"84883eae-f43c-4fa4-80e5-f987e64d8571": {
+		"name": "ios_mdf_feature_flag_user",
+		"v": 29211,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
