@@ -17031,6 +17031,21 @@
 			}
 		]
 	},
+	"76b8ca58-83a0-4d37-b8de-9f3ece19ed11": {
+		"name": "ios_smarter_mobile_follow_sorting_experiment",
+		"v": 29237,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"76c19512-f352-4e7a-9d9d-1608ff792865": {
 		"name": "android_mgst_stream_manager_badge_states",
 		"v": 11731,
