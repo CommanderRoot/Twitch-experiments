@@ -7426,16 +7426,12 @@
 	},
 	"351107f8-6768-4ced-b939-85be970b51fc": {
 		"name": "Passport_Vonage_Two_Factor_Auth",
-		"v": 29239,
+		"v": 29240,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
 				"weight": 100,
-				"value": "vonage "
+				"value": "control"
 			}
 		]
 	},
