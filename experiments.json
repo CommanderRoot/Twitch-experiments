@@ -6754,6 +6754,21 @@
 			}
 		]
 	},
+	"3067a796-9ce9-4fb6-8d01-418b7a39bd15": {
+		"name": "dart_firststream1_experiment_ctr_1002_awa_cmc_lrn_mis_email_2305_holdout",
+		"v": 29234,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"306b5fc1-d28c-4603-b2de-462d32c207bd": {
 		"name": "ads_countdown_timers",
 		"v": 5877,
@@ -9774,6 +9789,21 @@
 			{
 				"weight": 0,
 				"value": "two_full"
+			}
+		]
+	},
+	"45aa90be-962e-41d1-be5c-9037299d7dc0": {
+		"name": "dart_firststream1_experiment_ctr_1002_awa_cmc_lrn_mis_email_2305_email",
+		"v": 29235,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -30159,21 +30189,6 @@
 			{
 				"weight": 0,
 				"value": "opt_out"
-			}
-		]
-	},
-	"d44c5e31-7364-4569-ac6a-a505f560c4db": {
-		"name": "dart_post_first_stream_success_holdout",
-		"v": 28017,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
 			}
 		]
 	},
