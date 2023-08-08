@@ -9754,6 +9754,21 @@
 			}
 		]
 	},
+	"452a8921-9958-4feb-9ceb-2cbd0d5bbdfe": {
+		"name": "android_core_player_adaptive_auto_quality",
+		"v": 29270,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "active_15.9"
+			},
+			{
+				"weight": 0,
+				"value": "control"
+			}
+		]
+	},
 	"4567829d-4953-4029-884a-0eec9879d7a3": {
 		"name": "ios_drm",
 		"v": 4670,
