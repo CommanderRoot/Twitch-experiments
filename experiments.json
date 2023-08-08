@@ -1389,6 +1389,21 @@
 			}
 		]
 	},
+	"09cb7414-9522-4715-b18c-0b06bf0f0e4c": {
+		"name": "dart_pilot_jp_policy_harassment_research_final_excluded_email",
+		"v": 29245,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"09cea69f-96f8-48ad-90fe-547dc3fe97a0": {
 		"name": "android_extensions_entry_point",
 		"v": 6382,
@@ -24553,6 +24568,21 @@
 			{
 				"weight": 100,
 				"value": "SURESTREAM_OFF"
+			}
+		]
+	},
+	"ab9a0d46-90b9-4e31-b033-fa1e0a2a9db9": {
+		"name": "dart_pilot_fr_policy_harassment_research_final_excluded_email",
+		"v": 29246,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
