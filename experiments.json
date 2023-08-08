@@ -6440,11 +6440,11 @@
 	},
 	"2d8ba37b-1541-4e24-a649-f061efadf14d": {
 		"name": "android_disco_krusty_krab",
-		"v": 29233,
+		"v": 29259,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 70,
 				"value": "control"
 			},
 			{
@@ -6452,7 +6452,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 30,
 				"value": "active_15.7"
 			}
 		]
@@ -28062,21 +28062,6 @@
 			}
 		]
 	},
-	"c5411820-a046-48b5-a781-4420018f7e45": {
-		"name": "android_improved_background_audio_12",
-		"v": 24272,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_13.8"
-			}
-		]
-	},
 	"c54b1467-4d1c-4dc6-859f-8d41c2a86ae9": {
 		"name": "affiliate_onboarding_fraud",
 		"v": 26219,
@@ -34663,15 +34648,15 @@
 	},
 	"f5075837-2c37-417d-82eb-14bdb4ed548c": {
 		"name": "ios_disco_krusty_krab",
-		"v": 28406,
+		"v": 29258,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 30,
 				"value": "active"
 			}
 		]
