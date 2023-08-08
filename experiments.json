@@ -6440,11 +6440,11 @@
 	},
 	"2d8ba37b-1541-4e24-a649-f061efadf14d": {
 		"name": "android_disco_krusty_krab",
-		"v": 29263,
+		"v": 29268,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -6452,7 +6452,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 60,
+				"weight": 100,
 				"value": "active_15.7"
 			}
 		]
@@ -34648,15 +34648,15 @@
 	},
 	"f5075837-2c37-417d-82eb-14bdb4ed548c": {
 		"name": "ios_disco_krusty_krab",
-		"v": 29262,
+		"v": 29267,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 60,
+				"weight": 100,
 				"value": "active"
 			}
 		]
