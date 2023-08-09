@@ -32205,15 +32205,15 @@
 	},
 	"e24202cd-cd09-4f39-8095-03e16a62e5cd": {
 		"name": "mobile_native_web_transcode_mode",
-		"v": 29276,
+		"v": 29291,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "cbr_v1"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "vbr_v1"
 			}
 		]
