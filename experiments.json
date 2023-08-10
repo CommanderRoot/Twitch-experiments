@@ -15187,6 +15187,21 @@
 			}
 		]
 	},
+	"6b5cae9f-230c-49c0-ad17-e552c4f1153a": {
+		"name": "dart_pretzelrockspartnershipreminder_ctr_1034_cmm_cmc_sup_msc_eo_238_holdout",
+		"v": 29306,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"6b86a4d6-9141-48e5-87b1-932b0f844377": {
 		"name": "dart_aip55partnerreminder0721_ctr_722_awa_cmc_lrn_mis_emailonsite_228_holdout",
 		"v": 23873,
