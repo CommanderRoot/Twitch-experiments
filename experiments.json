@@ -19617,6 +19617,21 @@
 			}
 		]
 	},
+	"892c5b50-3168-463a-8705-47253fa2ccb5": {
+		"name": "stories_viewers_darklaunch_android",
+		"v": 29307,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
+			}
+		]
+	},
 	"8935dd43-13ae-4ade-ba58-f188bcea7c9a": {
 		"name": "android_mgst_floating_chat_v2",
 		"v": 10199,
@@ -27153,6 +27168,21 @@
 			{
 				"weight": 0,
 				"value": "disabled"
+			}
+		]
+	},
+	"bd039c62-023a-47a8-bb35-3745b790ab7a": {
+		"name": "stories_viewers_darklaunch_ios",
+		"v": 29308,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "rollout"
 			}
 		]
 	},
