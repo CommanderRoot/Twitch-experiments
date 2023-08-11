@@ -4992,15 +4992,15 @@
 	},
 	"234a622c-3ac8-4ed5-9b67-1c24381915a5": {
 		"name": "ios_tacos",
-		"v": 29207,
+		"v": 29341,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -12857,7 +12857,7 @@
 	},
 	"5c88150c-cd84-4e9c-b6ef-c2213e895ac4": {
 		"name": "android_mdf",
-		"v": 29136,
+		"v": 29345,
 		"t": 1,
 		"groups": [
 			{
@@ -12867,6 +12867,10 @@
 			{
 				"weight": 0,
 				"value": "active_15.8"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.9"
 			}
 		]
 	},
@@ -28415,7 +28419,7 @@
 	},
 	"c6a2a638-5496-49fb-9bbe-7e381420139e": {
 		"name": "android_mdf_clips",
-		"v": 29138,
+		"v": 29342,
 		"t": 1,
 		"groups": [
 			{
@@ -28425,6 +28429,10 @@
 			{
 				"weight": 0,
 				"value": "active_15.8"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.9"
 			}
 		]
 	},
@@ -30073,7 +30081,7 @@
 	},
 	"d224f36a-deff-43d0-a189-5311b74fda65": {
 		"name": "android_mdf_live",
-		"v": 29139,
+		"v": 29343,
 		"t": 1,
 		"groups": [
 			{
@@ -30083,6 +30091,10 @@
 			{
 				"weight": 0,
 				"value": "active_15.8"
+			},
+			{
+				"weight": 0,
+				"value": "active_15.9"
 			}
 		]
 	},
@@ -34734,6 +34746,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"f4e543a6-91fc-4c93-81a2-ae27e616a641": {
+		"name": "player_core_edge_prewarm",
+		"v": 29344,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
