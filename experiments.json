@@ -5772,15 +5772,15 @@
 	},
 	"28a15c24-3695-4fd1-b79a-5c13cea74160": {
 		"name": "ios_multi_language_selector",
-		"v": 28442,
+		"v": 29368,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
