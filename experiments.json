@@ -4164,6 +4164,21 @@
 			}
 		]
 	},
+	"1ce4c055-aea6-4bd7-80d7-cce4668db746": {
+		"name": "dart_clipseditoreducation_ctr_1078_awa_cmc_lrn_mis_email_2308_holdout",
+		"v": 29392,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"1d18304f-3734-4d63-a7ee-60becececb0f": {
 		"name": "dart_creatorhomeus061523_update_onsite",
 		"v": 28492,
@@ -26059,6 +26074,21 @@
 			{
 				"weight": 100,
 				"value": "active_14.2"
+			}
+		]
+	},
+	"b37a7158-6507-4d80-abc8-97967552c8ea": {
+		"name": "dart_clipseditoreducation_ctr_1078_awa_cmc_lrn_mis_email_2308_email",
+		"v": 29393,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
