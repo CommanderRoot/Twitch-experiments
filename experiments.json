@@ -23353,15 +23353,15 @@
 	},
 	"a0fdb137-6ee8-4f04-b057-a91b43badb29": {
 		"name": "android_creator_disconnect_protection",
-		"v": 28936,
+		"v": 29423,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_15.4"
 			}
 		]
@@ -32688,16 +32688,16 @@
 	},
 	"e4b3799f-8818-43b8-96bf-bab2979b84ab": {
 		"name": "android_policy_update_prompt",
-		"v": 26580,
+		"v": 29424,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active"
+				"weight": 1,
+				"value": "active_15.9"
 			}
 		]
 	},
