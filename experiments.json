@@ -34536,15 +34536,15 @@
 	},
 	"f0ecbed1-48e3-478d-bc04-77f2cca4dd58": {
 		"name": "is-user-in-friendly-fraud-group",
-		"v": 29140,
+		"v": 29453,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 10,
 				"value": "friendly_fraud_model"
 			}
 		]
