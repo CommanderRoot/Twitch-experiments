@@ -17260,19 +17260,15 @@
 	},
 	"777820e9-b5ac-4ff0-8430-232a64d78743": {
 		"name": "android_mdf_feature_flag",
-		"v": 29351,
+		"v": 29469,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_15.8"
-			},
-			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_15.9"
 			}
 		]
@@ -35296,19 +35292,15 @@
 	},
 	"f7de1874-8876-4631-ba5d-1faf0eb01db3": {
 		"name": "android_mdf_clips_user",
-		"v": 29349,
+		"v": 29471,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_15.8"
-			},
-			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_15.9"
 			}
 		]
@@ -35482,19 +35474,15 @@
 	},
 	"f9a2aef9-29fc-404c-ac9b-5034da2c69c9": {
 		"name": "android_mdf_live_user",
-		"v": 29350,
+		"v": 29470,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_15.8"
-			},
-			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_15.9"
 			}
 		]
