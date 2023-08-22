@@ -3598,15 +3598,15 @@
 	},
 	"1940a44d-3760-4e30-98fb-0fbeaf277cf2": {
 		"name": "ios_mdf_live_user",
-		"v": 29315,
+		"v": 29473,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v15_9"
 			}
 		]
@@ -4671,15 +4671,15 @@
 	},
 	"2110f771-f4ec-40c1-830e-1c435c2e60c3": {
 		"name": "ios_mdf_clips_user",
-		"v": 29314,
+		"v": 29472,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v15_9"
 			}
 		]
@@ -19191,15 +19191,15 @@
 	},
 	"84883eae-f43c-4fa4-80e5-f987e64d8571": {
 		"name": "ios_mdf_feature_flag_user",
-		"v": 29317,
+		"v": 29474,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v15_9"
 			}
 		]
