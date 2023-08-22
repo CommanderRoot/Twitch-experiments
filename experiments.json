@@ -12923,25 +12923,6 @@
 			}
 		]
 	},
-	"5c88150c-cd84-4e9c-b6ef-c2213e895ac4": {
-		"name": "android_mdf",
-		"v": 29345,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_15.8"
-			},
-			{
-				"weight": 0,
-				"value": "active_15.9"
-			}
-		]
-	},
 	"5c8e4a59-8c63-4000-9c4e-6224f34b7c21": {
 		"name": "twilight_web_onboarding_channel_surfing",
 		"v": 4245,
@@ -17300,6 +17281,21 @@
 			{
 				"weight": 20,
 				"value": "Variant B"
+			}
+		]
+	},
+	"77d13c0a-d5f1-40c2-9b82-b4f5f5d8e60f": {
+		"name": "dart_gamescommarveldrops082223_holdout",
+		"v": 29484,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
 			}
 		]
 	},
@@ -28540,25 +28536,6 @@
 			}
 		]
 	},
-	"c6a2a638-5496-49fb-9bbe-7e381420139e": {
-		"name": "android_mdf_clips",
-		"v": 29342,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_15.8"
-			},
-			{
-				"weight": 0,
-				"value": "active_15.9"
-			}
-		]
-	},
 	"c6a85b7d-7538-4aa5-8a8d-17769aeacec4": {
 		"name": "mads_trigger_api",
 		"v": 16399,
@@ -30199,25 +30176,6 @@
 			{
 				"weight": 100,
 				"value": "active_v8.2"
-			}
-		]
-	},
-	"d224f36a-deff-43d0-a189-5311b74fda65": {
-		"name": "android_mdf_live",
-		"v": 29343,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_15.8"
-			},
-			{
-				"weight": 0,
-				"value": "active_15.9"
 			}
 		]
 	},
