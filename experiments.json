@@ -9571,6 +9571,21 @@
 			}
 		]
 	},
+	"443eae08-3a9b-4e7e-a540-aa39a4c5c714": {
+		"name": "ios_playercore_15.9.2",
+		"v": 29521,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"4457b398-aec4-4289-9c22-64e73705d1d9": {
 		"name": "android_n_1_phone_account_recovery",
 		"v": 18069,
