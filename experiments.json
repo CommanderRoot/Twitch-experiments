@@ -9573,15 +9573,15 @@
 	},
 	"443eae08-3a9b-4e7e-a540-aa39a4c5c714": {
 		"name": "ios_playercore_15.9.2",
-		"v": 29522,
+		"v": 29541,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -30747,6 +30747,21 @@
 			{
 				"weight": 100,
 				"value": "variant"
+			}
+		]
+	},
+	"d63845ed-650e-44c3-a962-b7e68a13fbee": {
+		"name": "dart_subtember_announcement4streamers_vwr_1071_cmm_cmc_lrn_mis_email_238_holdout",
+		"v": 29542,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
