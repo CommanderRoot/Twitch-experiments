@@ -35451,6 +35451,21 @@
 			}
 		]
 	},
+	"f8f6b27b-82ca-4738-b17e-7946a0c10cdd": {
+		"name": "dart_unspentbitsfrozenuser_vwr_1056_cmm_cmc_mis_email_2307_holdout",
+		"v": 29569,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"f8f78e1c-f48c-463f-8fc0-095e1f2cf4b3": {
 		"name": "boost_train",
 		"v": 20037,
