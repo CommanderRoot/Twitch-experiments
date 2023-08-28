@@ -16697,15 +16697,15 @@
 	},
 	"741ba449-abb6-4f23-8af8-07291238f2e3": {
 		"name": "android_player_pool",
-		"v": 29540,
+		"v": 29588,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "size_1_15.9"
 			},
 			{
@@ -16721,7 +16721,7 @@
 				"value": "size_2_w_cold_15.9"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "size_0_15.9"
 			}
 		]
