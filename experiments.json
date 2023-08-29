@@ -15398,6 +15398,21 @@
 			}
 		]
 	},
+	"6ca15dc9-e374-45d5-8cde-43cf7260089d": {
+		"name": "ios_ads_alternative_headliner",
+		"v": 29600,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"6cc85744-ded0-481a-a6ea-38c4b13cea64": {
 		"name": "ios_aax",
 		"v": 2457,
