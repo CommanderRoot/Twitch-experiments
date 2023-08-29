@@ -2492,15 +2492,15 @@
 	},
 	"11882af6-385b-4010-9bde-6db520d1aafd": {
 		"name": "ios_twitch_radio",
-		"v": 11972,
+		"v": 29604,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -6210,15 +6210,15 @@
 	},
 	"2b90263c-f789-4da7-a339-578bfc08f6f6": {
 		"name": "android_twitch_radio",
-		"v": 11971,
+		"v": 29606,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -14486,11 +14486,11 @@
 	},
 	"65f4469b-6f7c-45bc-88ea-557031f5d3dc": {
 		"name": "ios_twitch_radio_v2",
-		"v": 18851,
+		"v": 29605,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -14498,7 +14498,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "content_promotion_disabled"
 			}
 		]
