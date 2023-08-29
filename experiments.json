@@ -36481,15 +36481,15 @@
 	},
 	"fea59d73-9d45-4471-af17-48101a4ae707": {
 		"name": "ios_onechat_user",
-		"v": 28832,
+		"v": 29602,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
