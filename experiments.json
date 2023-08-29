@@ -29116,6 +29116,21 @@
 			}
 		]
 	},
+	"c9c9d418-bd69-42af-b9a6-635e372cf589": {
+		"name": "dart_community_meetups_seattle_rsvp_holdout",
+		"v": 29601,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"c9fb84b7-f08d-4809-8e14-cf85fb900419": {
 		"name": "dart_tnflwk14vwr_799_dav_cmc_lrn_wch_po_2212_holdout",
 		"v": 25715,
