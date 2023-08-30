@@ -28130,15 +28130,15 @@
 	},
 	"c36fde4c-5a4c-450d-813f-50586bfc0499": {
 		"name": "ios_manifest_preloading",
-		"v": 29538,
+		"v": 29622,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			}
 		]
