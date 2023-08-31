@@ -20307,15 +20307,15 @@
 	},
 	"8c872987-1f8d-40b8-8871-8b0c141e19f6": {
 		"name": "android_commerce_notices",
-		"v": 28031,
+		"v": 29645,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_2536_15.3"
 			},
 			{
@@ -34614,15 +34614,15 @@
 	},
 	"f0ecbed1-48e3-478d-bc04-77f2cca4dd58": {
 		"name": "is-user-in-friendly-fraud-group",
-		"v": 29583,
+		"v": 29644,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "friendly_fraud_model"
 			}
 		]
