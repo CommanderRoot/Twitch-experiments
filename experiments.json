@@ -20550,6 +20550,21 @@
 			}
 		]
 	},
+	"8d874211-cb45-4169-b0ee-ee66146cebcc": {
+		"name": "android_mdf_explicit_signals",
+		"v": 29729,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"8dad3a94-23fe-40e2-8dd1-efe3a3cf4852": {
 		"name": "ios_channel_content_ad_metadata_enabled",
 		"v": 15283,
