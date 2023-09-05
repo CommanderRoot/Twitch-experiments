@@ -12166,6 +12166,17 @@
 			}
 		]
 	},
+	"55ead128-5038-4f33-ba98-ff9a5f070dc7": {
+		"name": "watch_streak_progress_1",
+		"v": 29725,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"560f30f8-b4fc-4a9d-96ac-9143dc1f4110": {
 		"name": "recommended_clips_live_recs",
 		"v": 3322,
@@ -24785,6 +24796,17 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"ab040de4-3c63-4c6b-ac1e-36554eafcbc7": {
+		"name": "watch_streak_progress_2_3",
+		"v": 29727,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
