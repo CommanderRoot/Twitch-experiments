@@ -11515,6 +11515,21 @@
 			}
 		]
 	},
+	"50e8013e-9bff-4e81-941f-676786417754": {
+		"name": "dart_community_meetups_la_2023_holdout",
+		"v": 29750,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"50f7ac3e-3b9c-42ee-ba89-2981e2b78b31": {
 		"name": "ios_raid_now",
 		"v": 4598,
@@ -31111,6 +31126,21 @@
 			}
 		]
 	},
+	"d76d40ab-1eec-471f-b48a-fdaba9ffb0fb": {
+		"name": "ios_ivs_player_low_latency",
+		"v": 29748,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"d78eb407-6aa0-4130-a343-92346594eff9": {
 		"name": "ios_disco_no_this_is_patrick",
 		"v": 28721,
@@ -35080,7 +35110,7 @@
 	},
 	"f504a5a5-1e6b-40bd-b8ef-1862a4ba6e88": {
 		"name": "android_ads_headliner",
-		"v": 29657,
+		"v": 29749,
 		"t": 1,
 		"groups": [
 			{
