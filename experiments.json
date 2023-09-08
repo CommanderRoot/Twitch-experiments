@@ -7598,6 +7598,21 @@
 			}
 		]
 	},
+	"35b33f8d-c36a-4a40-afd4-96c493c441d5": {
+		"name": "dart_gpexplorer2_vwr_1083_dav_cmc_wch_gmg_email_2309_email",
+		"v": 29772,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"35b3f451-bad7-4927-8503-fdc094e6e8f4": {
 		"name": "ios_community_points_final",
 		"v": 7821,
@@ -25449,6 +25464,21 @@
 			{
 				"weight": 100,
 				"value": "active_8_1_1"
+			}
+		]
+	},
+	"af044b3f-0a06-401a-9a1e-0be0f6be6496": {
+		"name": "dart_gpexplorer2_vwr_1083_dav_cmc_wch_gmg_email_2309_holdout",
+		"v": 29771,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
