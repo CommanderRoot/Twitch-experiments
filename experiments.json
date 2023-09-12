@@ -17461,16 +17461,16 @@
 	},
 	"77e82e08-36ab-4d86-8166-b63d87ee76bc": {
 		"name": "android_reuse_autoplay_player",
-		"v": 27609,
+		"v": 29827,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_14.8"
 			}
 		]
@@ -33352,15 +33352,15 @@
 	},
 	"e76d398b-fa24-4fba-9f16-997b09d04cda": {
 		"name": "android_vod_playback_speed_controls",
-		"v": 28383,
+		"v": 29828,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_15.5"
 			}
 		]
