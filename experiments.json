@@ -33853,15 +33853,15 @@
 	},
 	"eb46ea81-41a9-40de-a271-49a0e1c71c66": {
 		"name": "ios_ivs_player_bypass_video_toolbox",
-		"v": 29778,
+		"v": 29863,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
