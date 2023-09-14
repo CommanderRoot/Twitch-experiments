@@ -9211,15 +9211,15 @@
 	},
 	"42231511-74f7-40f6-8798-e93f5d5bf506": {
 		"name": "ios_ads_ccl_clips",
-		"v": 29611,
+		"v": 29882,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v16.2"
 			}
 		]
@@ -35180,7 +35180,7 @@
 	},
 	"f504a5a5-1e6b-40bd-b8ef-1862a4ba6e88": {
 		"name": "android_ads_headliner",
-		"v": 29880,
+		"v": 29881,
 		"t": 1,
 		"groups": [
 			{
@@ -35197,7 +35197,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "global_16.7"
+				"value": "active_global_16.7"
 			}
 		]
 	},
