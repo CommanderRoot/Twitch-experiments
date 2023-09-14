@@ -1225,6 +1225,21 @@
 			}
 		]
 	},
+	"08af54a6-e3c0-44de-ac8a-07736c1d018c": {
+		"name": "dart_q3safetyupdate_streamers_crt_1082_awa_cmc_lrn_mis_onsite_239_holdout",
+		"v": 29896,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"08e8bb90-936f-46b3-9f6d-77faa1712d7d": {
 		"name": "dart_apac_twn_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
 		"v": 21485,
@@ -17404,6 +17419,21 @@
 			{
 				"weight": 100,
 				"value": "active_14.3"
+			}
+		]
+	},
+	"77720d80-e2c9-431b-b857-f971a9b644e6": {
+		"name": "android_network_callbacks",
+		"v": 29895,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_16.4"
 			}
 		]
 	},
