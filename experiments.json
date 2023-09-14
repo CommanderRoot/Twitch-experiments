@@ -35180,7 +35180,7 @@
 	},
 	"f504a5a5-1e6b-40bd-b8ef-1862a4ba6e88": {
 		"name": "android_ads_headliner",
-		"v": 29856,
+		"v": 29880,
 		"t": 1,
 		"groups": [
 			{
@@ -35194,6 +35194,10 @@
 			{
 				"weight": 0,
 				"value": "below_stories_16.5"
+			},
+			{
+				"weight": 0,
+				"value": "global_16.7"
 			}
 		]
 	},
