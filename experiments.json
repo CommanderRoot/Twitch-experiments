@@ -9215,15 +9215,15 @@
 	},
 	"42231511-74f7-40f6-8798-e93f5d5bf506": {
 		"name": "ios_ads_ccl_clips",
-		"v": 29884,
+		"v": 29890,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_v16.2"
 			}
 		]
