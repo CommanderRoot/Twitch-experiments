@@ -11296,6 +11296,21 @@
 			}
 		]
 	},
+	"4e90b3cd-1bcb-4fac-96ee-7ac6a3a7c2dc": {
+		"name": "dart_tnf_eaglesvsvikings_091423_holdout",
+		"v": 29900,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 30,
+				"value": "holdout"
+			},
+			{
+				"weight": 70,
+				"value": "allowed"
+			}
+		]
+	},
 	"4e9932f0-43f8-4d84-a123-a34ed4f81dd7": {
 		"name": "dart_live_up_push",
 		"v": 26295,
@@ -36268,6 +36283,21 @@
 			{
 				"weight": 0,
 				"value": "active_10.9"
+			}
+		]
+	},
+	"fbb02037-7e6d-4460-ab8b-1c52662ae854": {
+		"name": "dart_tnf_eaglesvsvikings_091423_onsite",
+		"v": 29901,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
