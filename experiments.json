@@ -2366,6 +2366,21 @@
 			}
 		]
 	},
+	"101cf80a-d8e3-43d9-8940-eaf856c23ce1": {
+		"name": "dart_q3safetyupdate_mods_vwr_1082_awa_cmc_lrn_mis_onsite_239_holdout",
+		"v": 29897,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1035c751-dbcc-4ca1-af8d-ba48ea2bbf4d": {
 		"name": "dart_festivefpgosuben_vwr_602_cmm_cmc_sub_mis_email_2112_holdout",
 		"v": 18402,
