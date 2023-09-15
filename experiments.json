@@ -6875,6 +6875,21 @@
 			}
 		]
 	},
+	"305f442d-20e1-405b-b298-95df4452b9bd": {
+		"name": "dart_unspentbitsactiveuser_vwr_1056_cmm_cmc_mis_email_2307_holdout",
+		"v": 29920,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"3067a796-9ce9-4fb6-8d01-418b7a39bd15": {
 		"name": "dart_firststream1_experiment_ctr_1002_awa_cmc_lrn_mis_email_2305_holdout",
 		"v": 29234,
@@ -30438,6 +30453,25 @@
 			{
 				"weight": 0,
 				"value": "infinite"
+			}
+		]
+	},
+	"d1366fd5-0aa5-4e4b-95ef-d86d855a14e7": {
+		"name": "android_onechat_launch",
+		"v": 29919,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_16.4"
 			}
 		]
 	},
