@@ -6999,6 +6999,21 @@
 			}
 		]
 	},
+	"3120d9ec-0bae-4a15-8778-9040940298ad": {
+		"name": "dart_mk_emotetest_091523_holdout",
+		"v": 29917,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"3136dfb1-398a-47ed-8469-cb4874d8319f": {
 		"name": "ios_haptics_experiment",
 		"v": 22338,
