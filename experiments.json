@@ -26967,6 +26967,21 @@
 			}
 		]
 	},
+	"b71efbeb-f431-4bb3-9457-a722990dc61a": {
+		"name": "ios_ads_debug_viewability_script",
+		"v": 29912,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v16.4"
+			}
+		]
+	},
 	"b72c6e09-ad24-4880-9447-5c7ca8508332": {
 		"name": "android_conscrypt_as_first_security_provider_non_latam",
 		"v": 19295,
