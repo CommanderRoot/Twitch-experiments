@@ -480,21 +480,6 @@
 			}
 		]
 	},
-	"038877f5-6909-487f-8000-123d3d2511ba": {
-		"name": "dart_days330reactivationemail1_vwr_786_dav_cmc_wch_mis_email_2209_holdout",
-		"v": 24690,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"03bea943-d1c0-4088-8164-516f7c0fa557": {
 		"name": "ios_player_pooling_strategy",
 		"v": 29169,
@@ -3092,7 +3077,7 @@
 	},
 	"157b1f61-6931-4fb5-803d-ac76ead41846": {
 		"name": "android_esports_sub_sunset",
-		"v": 29876,
+		"v": 29946,
 		"t": 1,
 		"groups": [
 			{
@@ -3101,7 +3086,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_development"
 			}
 		]
 	},
@@ -4090,21 +4075,6 @@
 			{
 				"weight": 0,
 				"value": "enabled"
-			}
-		]
-	},
-	"1b98acc6-2bd6-41cf-b818-c9ca944563ff": {
-		"name": "dart_reactivationemail2_vwr_787_dav_cmc_wch_mis_email_2209_holdout",
-		"v": 24691,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
