@@ -3071,25 +3071,6 @@
 			}
 		]
 	},
-	"152d45d4-6ad7-438f-8983-03c774080ba9": {
-		"name": "dart_day90frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_email",
-		"v": 22352,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "Variant A"
-			},
-			{
-				"weight": 0,
-				"value": "Variant B"
-			},
-			{
-				"weight": 100,
-				"value": "Variant C"
-			}
-		]
-	},
 	"1574b000-7a17-4807-bb00-04afebf3926f": {
 		"name": "iOS_verification_at_sign_up",
 		"v": 16707,
@@ -33319,21 +33300,6 @@
 	"e56b653d-6b3b-48d3-b6d9-015aadc067f7": {
 		"name": "dart_turbotax_ctr_930_cmm_cmc_buy_mis_eo_232_holdout",
 		"v": 26365,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"e599eeb2-9ff5-49bc-ae1d-1dae8445452e": {
-		"name": "dart_day90frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_holdout",
-		"v": 22351,
 		"t": 2,
 		"groups": [
 			{
