@@ -2035,6 +2035,17 @@
 			}
 		]
 	},
+	"0d8cb7c4-6fe9-4cf6-8e7e-99c1a9e7b676": {
+		"name": "watch_streak_progress_bar_exp_1",
+		"v": 30001,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"0d91438c-c3ee-4efc-8e27-d2bc7436c919": {
 		"name": "ios_unified_access_token",
 		"v": 13723,
@@ -8919,6 +8930,17 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"401bc6bb-b8f5-449a-8724-1709e93c9df7": {
+		"name": "watch_streak_progress_bar_exp_2_3",
+		"v": 30002,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
@@ -19449,7 +19471,7 @@
 	},
 	"84883eae-f43c-4fa4-80e5-f987e64d8571": {
 		"name": "ios_mdf_feature_flag_user",
-		"v": 29476,
+		"v": 30004,
 		"t": 2,
 		"groups": [
 			{
@@ -20290,17 +20312,6 @@
 			{
 				"weight": 0,
 				"value": "legacy"
-			}
-		]
-	},
-	"8b249f22-3949-40b6-ac3e-603d116f7c03": {
-		"name": "watch_streak_progress_bar_1",
-		"v": 29995,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
@@ -29018,15 +29029,15 @@
 	},
 	"c7327c1e-323b-43f3-9eef-23f44c46b0b0": {
 		"name": "ios_community_highlights_refactor",
-		"v": 29996,
+		"v": 30008,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_15.3"
 			}
 		]
