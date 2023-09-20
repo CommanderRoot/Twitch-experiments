@@ -12324,17 +12324,6 @@
 			}
 		]
 	},
-	"55ead128-5038-4f33-ba98-ff9a5f070dc7": {
-		"name": "watch_streak_progress_1",
-		"v": 29725,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
 	"560f30f8-b4fc-4a9d-96ac-9143dc1f4110": {
 		"name": "recommended_clips_live_recs",
 		"v": 3322,
@@ -20304,6 +20293,17 @@
 			}
 		]
 	},
+	"8b249f22-3949-40b6-ac3e-603d116f7c03": {
+		"name": "watch_streak_progress_bar_1",
+		"v": 29995,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"8b29e9c9-e5d7-4b45-a995-f8d633db4dd0": {
 		"name": "dart_ibai_la_velada_vwr_744_dav_cmc_wch_gmg_email_2206_holdout",
 		"v": 21759,
@@ -24982,17 +24982,6 @@
 			}
 		]
 	},
-	"ab040de4-3c63-4c6b-ac1e-36554eafcbc7": {
-		"name": "watch_streak_progress_2_3",
-		"v": 29727,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
 	"ab1af901-9a20-4274-aeca-0d1adc8c4bd7": {
 		"name": "ios_non_fatal_sampling",
 		"v": 24518,
@@ -26896,21 +26885,6 @@
 			{
 				"weight": 50,
 				"value": "allowed"
-			}
-		]
-	},
-	"b66905d4-0e3e-4718-8a1d-3f97fec66310": {
-		"name": "ios_ads_ccba_updates_2023_1",
-		"v": 29932,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_v16.5"
 			}
 		]
 	},
@@ -29044,15 +29018,15 @@
 	},
 	"c7327c1e-323b-43f3-9eef-23f44c46b0b0": {
 		"name": "ios_community_highlights_refactor",
-		"v": 28769,
+		"v": 29996,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_15.3"
 			}
 		]
