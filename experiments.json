@@ -17521,15 +17521,15 @@
 	},
 	"777820e9-b5ac-4ff0-8430-232a64d78743": {
 		"name": "android_mdf_feature_flag",
-		"v": 29478,
+		"v": 30010,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 2,
+				"weight": 10,
 				"value": "active_15.9"
 			}
 		]
@@ -19471,15 +19471,15 @@
 	},
 	"84883eae-f43c-4fa4-80e5-f987e64d8571": {
 		"name": "ios_mdf_feature_flag_user",
-		"v": 30004,
+		"v": 30009,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 2,
+				"weight": 10,
 				"value": "active_v15_9"
 			}
 		]
@@ -29209,7 +29209,7 @@
 	},
 	"c8813b54-002e-4866-a8d6-296d04aa67cb": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_holdout",
-		"v": 29818,
+		"v": 30012,
 		"t": 2,
 		"groups": [
 			{
@@ -35038,7 +35038,7 @@
 	},
 	"f18c55b9-6290-40a1-999d-b29b55d2f6df": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_email",
-		"v": 29819,
+		"v": 30013,
 		"t": 2,
 		"groups": [
 			{
