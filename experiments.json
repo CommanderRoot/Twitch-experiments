@@ -9084,6 +9084,21 @@
 			}
 		]
 	},
+	"40e60b6c-8b4d-4b07-b2e0-c5ad91808ee9": {
+		"name": "ios_ads_privacy_consent_updates_2023_1",
+		"v": 30050,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v16.5"
+			}
+		]
+	},
 	"40f90081-bc8f-464a-b186-92e4ca6078a9": {
 		"name": "ios_stitched_ad_trigger",
 		"v": 8369,
