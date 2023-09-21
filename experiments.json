@@ -31349,15 +31349,15 @@
 	},
 	"d76d40ab-1eec-471f-b48a-fdaba9ffb0fb": {
 		"name": "ios_ivs_player_low_latency",
-		"v": 29748,
+		"v": 30039,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
