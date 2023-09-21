@@ -31460,6 +31460,21 @@
 			}
 		]
 	},
+	"d82fd210-f984-4e1c-b5e4-fbcff7e2387d": {
+		"name": "ios_mod_view",
+		"v": 30065,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"d85c6a30-d1b4-4832-a92b-0fac8ddb9c22": {
 		"name": "android_billing_unavailable_dialog",
 		"v": 16412,
