@@ -33623,15 +33623,15 @@
 	},
 	"e76d398b-fa24-4fba-9f16-997b09d04cda": {
 		"name": "android_vod_playback_speed_controls",
-		"v": 29828,
+		"v": 30103,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_15.5"
 			}
 		]
