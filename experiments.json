@@ -6381,6 +6381,21 @@
 			}
 		]
 	},
+	"2c4f7f89-b149-4b26-9c7e-05ff7fbd5cf1": {
+		"name": "dart_patchnotes_subtember_091823_holdout",
+		"v": 30101,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"2c639dc0-d380-4f55-892a-37333793a49b": {
 		"name": "android_staff_alpha_prompt",
 		"v": 25974,
@@ -17712,6 +17727,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"78a2054a-9243-4b93-bd1d-4b86846fba5a": {
+		"name": "dart_patchnotes_subtember_091823_email",
+		"v": 30102,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
