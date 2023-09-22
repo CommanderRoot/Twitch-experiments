@@ -25208,6 +25208,21 @@
 			}
 		]
 	},
+	"ac2ee6bb-e5fa-4b68-9c60-50a095dd4594": {
+		"name": "android_watch_streaks_ignore_tcp",
+		"v": 30097,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"ac31d909-1197-4109-8c2c-49be06579052": {
 		"name": "dart_apac_twn_woohooredenvelopeday2_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
 		"v": 18808,
@@ -28410,21 +28425,6 @@
 			{
 				"weight": 5,
 				"value": "injects"
-			}
-		]
-	},
-	"c32c3fc1-9b0c-4729-b104-7185e9420391": {
-		"name": "android_watch_streaks_ab",
-		"v": 29300,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
