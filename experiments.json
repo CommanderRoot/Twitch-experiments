@@ -26397,6 +26397,21 @@
 			}
 		]
 	},
+	"b29de8ce-bffa-40a3-bc91-90928ea9d456": {
+		"name": "dart_tnf_week2_092123_holdout",
+		"v": 30083,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 30,
+				"value": "holdout"
+			},
+			{
+				"weight": 70,
+				"value": "allowed"
+			}
+		]
+	},
 	"b2a4c2b6-0885-4a5d-a85d-6f703d28f153": {
 		"name": "dart_adobefinalemailaffiliates_ctr_916_cmm_cmc_sup_mis_eo_231_holdout",
 		"v": 26088,
