@@ -12425,6 +12425,21 @@
 			}
 		]
 	},
+	"5703bcda-e659-45cf-9cb2-389d8ba4e52f": {
+		"name": "ios_mdf_explicit_signals_dislike",
+		"v": 30093,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"57184ad1-5cde-493d-a316-5d6575bcabe0": {
 		"name": "dart_apac_sgp_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22100,
