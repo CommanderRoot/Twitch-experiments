@@ -9101,15 +9101,15 @@
 	},
 	"40e60b6c-8b4d-4b07-b2e0-c5ad91808ee9": {
 		"name": "ios_ads_privacy_consent_updates_2023_1",
-		"v": 30050,
+		"v": 30105,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v16.5"
 			}
 		]
