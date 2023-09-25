@@ -9944,15 +9944,15 @@
 	},
 	"4521b9c2-1e07-452e-9f54-13b9c471ecc9": {
 		"name": "ios_ivs_player_msr",
-		"v": 30120,
+		"v": 30124,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active"
 			}
 		]
