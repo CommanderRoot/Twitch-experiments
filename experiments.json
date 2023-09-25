@@ -24056,6 +24056,21 @@
 			}
 		]
 	},
+	"a41c9560-ed1c-4553-a473-56ad0216a7fe": {
+		"name": "ios_gs_heartbeat",
+		"v": 30114,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"a424f101-342c-42f0-a12f-a71e5baf0cad": {
 		"name": "android_leaderboards_webview",
 		"v": 26004,
