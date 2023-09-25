@@ -1802,11 +1802,11 @@
 	},
 	"0c20e783-9b21-43ef-9ba9-199b4dad4364": {
 		"name": "android_gs_rtj_pausing",
-		"v": 29885,
+		"v": 30131,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -1814,7 +1814,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_16.3"
 			}
 		]
@@ -9865,11 +9865,11 @@
 	},
 	"44dca5f5-ed99-44dc-857c-f2e183bd48af": {
 		"name": "android_gs_rtj_clearing",
-		"v": 29887,
+		"v": 30130,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -9877,7 +9877,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_16.3"
 			}
 		]
@@ -12818,15 +12818,15 @@
 	},
 	"59657eb8-1f03-40a0-b7e1-15dd382ac863": {
 		"name": "ios_gs_rtj_sub_length",
-		"v": 29403,
+		"v": 30129,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -19294,11 +19294,11 @@
 	},
 	"828a8b49-30b1-4aed-a5e2-fa8b4bde3abc": {
 		"name": "android_gs_rtj_follow_length",
-		"v": 29888,
+		"v": 30125,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -19306,7 +19306,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_16.3"
 			}
 		]
@@ -24307,15 +24307,15 @@
 	},
 	"a57eecf3-f493-4d5f-8179-b081938f028b": {
 		"name": "ios_gs_rtj_pausing",
-		"v": 29119,
+		"v": 30127,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -27524,11 +27524,11 @@
 	},
 	"ba7e116a-445f-4132-b82a-92a9b61f86b0": {
 		"name": "android_gs_rtj_sub_length",
-		"v": 29886,
+		"v": 30126,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -27536,7 +27536,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_16.3"
 			}
 		]
@@ -27937,15 +27937,15 @@
 	},
 	"be8a14e3-b671-43eb-9da3-2d8f046a74bf": {
 		"name": "ios_gs_rtj_clearing",
-		"v": 29118,
+		"v": 30128,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
