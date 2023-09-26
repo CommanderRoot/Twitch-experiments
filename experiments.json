@@ -20106,8 +20106,8 @@
 		]
 	},
 	"892c5b50-3168-463a-8705-47253fa2ccb5": {
-		"name": "stories_viewers_darklaunch_android",
-		"v": 29307,
+		"name": "android_stories_viewers_darklaunch",
+		"v": 30161,
 		"t": 2,
 		"groups": [
 			{
@@ -20116,7 +20116,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "rollout"
+				"value": "active_development"
 			}
 		]
 	},
