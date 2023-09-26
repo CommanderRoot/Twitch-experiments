@@ -5148,6 +5148,21 @@
 			}
 		]
 	},
+	"23588fd8-e1bd-4fb0-b4f5-6a2b9983fe53": {
+		"name": "dart_tclvmeetandgreet_prospecting_holdout",
+		"v": 30159,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"23763b93-4da3-4680-960c-2ba7a8006070": {
 		"name": "ios_vaes_enabled",
 		"v": 6844,
@@ -33750,6 +33765,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"e813a0a9-ee98-497e-9479-500e08f1298c": {
+		"name": "ios_mdf_button_ordering",
+		"v": 30157,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "clips_first"
+			},
+			{
+				"weight": 50,
+				"value": "live_first"
 			}
 		]
 	},
