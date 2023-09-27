@@ -32682,6 +32682,21 @@
 			}
 		]
 	},
+	"e036ff2a-ed1a-47e7-813d-3c804768fb07": {
+		"name": "dart_easportsfc24_vwr_1102_dav_cmc_wch_gmg_email_2309_holdout",
+		"v": 30182,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"e0473826-5fd9-40cc-8310-41e485f33bfd": {
 		"name": "ios_allow_mini_experiment_overrides_from_savant",
 		"v": 10421,
