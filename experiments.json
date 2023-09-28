@@ -10960,21 +10960,6 @@
 			}
 		]
 	},
-	"4b906de7-f701-4587-841e-96c5bf019904": {
-		"name": "android_onechat",
-		"v": 27893,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
-			}
-		]
-	},
 	"4b9d6df6-b6ec-4ee6-b4ed-5382d88dd8d2": {
 		"name": "dart_hypechatlaunch4creators1_crt_1016_awa_cmc_lrn_mis_eo_236_email",
 		"v": 28510,
@@ -30627,11 +30612,11 @@
 	},
 	"d1366fd5-0aa5-4e4b-95ef-d86d855a14e7": {
 		"name": "android_onechat_launch",
-		"v": 29919,
+		"v": 30212,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -30639,7 +30624,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_16.4"
 			}
 		]
