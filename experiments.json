@@ -2490,6 +2490,21 @@
 			}
 		]
 	},
+	"11423c92-1026-4721-b72e-2c0296f94975": {
+		"name": "dart_bhmlaunch_vwr_1107_dav_cmc_wch_mis_oe_2310_holdout",
+		"v": 30230,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"114e0fec-2bb0-479c-bc92-8b73980ea80e": {
 		"name": "ios_raids_v2",
 		"v": 26903,
