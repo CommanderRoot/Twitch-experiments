@@ -30075,6 +30075,21 @@
 			}
 		]
 	},
+	"cd028559-50df-4356-bde7-c0a5ca067c74": {
+		"name": "dart_tnf_week3_092823_holdout",
+		"v": 30219,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 30,
+				"value": "holdout"
+			},
+			{
+				"weight": 70,
+				"value": "allowed"
+			}
+		]
+	},
 	"cd16d643-6607-43f3-b56e-926794b03edb": {
 		"name": "dart_adsincentivereminderoffer_ctr_606_awa_trn_lrn_mis_email_2201_holdout",
 		"v": 18800,
