@@ -5611,6 +5611,21 @@
 			}
 		]
 	},
+	"26e31349-1084-4568-8a96-6770bed5e30d": {
+		"name": "dart_partyanimalonsite_emote_holdout",
+		"v": 30274,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"26ef2d4e-44aa-4547-a4f5-9cd1e70f7adb": {
 		"name": "dart_apac_twn_woohooredenvelopeday1_vwr_0_dav_trn_wch_gmg_push_2201_holdout",
 		"v": 18791,
