@@ -25430,8 +25430,8 @@
 		]
 	},
 	"ad16f760-ed38-43ec-ac3e-4d9b23e7e540": {
-		"name": "ios_creator_posts",
-		"v": 26204,
+		"name": "ios_creator_stories",
+		"v": 30255,
 		"t": 2,
 		"groups": [
 			{
@@ -25441,6 +25441,10 @@
 			{
 				"weight": 100,
 				"value": "inactive"
+			},
+			{
+				"weight": 0,
+				"value": "active_16.6"
 			}
 		]
 	},
