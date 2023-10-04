@@ -23448,6 +23448,21 @@
 			}
 		]
 	},
+	"9d97e0b9-f3f3-404e-9aaa-aeceb4706ab0": {
+		"name": "android_dropins",
+		"v": 30309,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"9daf3cbf-bd22-4101-95b9-b2c1b0461094": {
 		"name": "android_premieres_reruns",
 		"v": 2852,
