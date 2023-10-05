@@ -35721,11 +35721,11 @@
 	},
 	"f504a5a5-1e6b-40bd-b8ef-1862a4ba6e88": {
 		"name": "android_ads_headliner",
-		"v": 30349,
+		"v": 30354,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -35737,7 +35737,7 @@
 				"value": "below_stories_16.5"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_global_16.4"
 			}
 		]
