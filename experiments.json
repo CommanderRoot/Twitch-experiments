@@ -33929,6 +33929,17 @@
 			}
 		]
 	},
+	"e8038b75-bc40-4541-80c1-8b1c711f5e8f": {
+		"name": "ios_dropins",
+		"v": 30344,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"e80419c1-99e3-486f-a8c6-1c617e7b6626": {
 		"name": "android_surface_crash_fix",
 		"v": 10138,
