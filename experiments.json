@@ -33961,12 +33961,16 @@
 	},
 	"e8038b75-bc40-4541-80c1-8b1c711f5e8f": {
 		"name": "ios_dropins",
-		"v": 30344,
+		"v": 30373,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
