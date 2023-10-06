@@ -35721,7 +35721,7 @@
 	},
 	"f504a5a5-1e6b-40bd-b8ef-1862a4ba6e88": {
 		"name": "android_ads_headliner",
-		"v": 30354,
+		"v": 30356,
 		"t": 1,
 		"groups": [
 			{
@@ -35729,7 +35729,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "active_16.1"
 			},
 			{
@@ -35737,7 +35737,7 @@
 				"value": "below_stories_16.5"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "active_global_16.4"
 			}
 		]
