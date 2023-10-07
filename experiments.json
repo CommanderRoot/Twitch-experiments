@@ -16911,6 +16911,21 @@
 			}
 		]
 	},
+	"73490653-b52e-4850-937a-ad46fb032f0b": {
+		"name": "dart_tclv_cartabandoned2_email",
+		"v": 30377,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"7352a83d-b8ce-4f41-9a29-c66b9b647741": {
 		"name": "ios_ads_omsdk_js_version_15_6",
 		"v": 28663,
@@ -19958,6 +19973,21 @@
 			{
 				"weight": 100,
 				"value": "active_10.7"
+			}
+		]
+	},
+	"86766622-e6c7-4fb8-b256-bef9d2fc8957": {
+		"name": "dart_tclv_cartabandoned2_onsite",
+		"v": 30378,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
