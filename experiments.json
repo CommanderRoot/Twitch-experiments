@@ -14134,15 +14134,15 @@
 	},
 	"60c62cbe-d304-474a-924d-84acd4268b3f": {
 		"name": "android_sprig_survey",
-		"v": 29975,
+		"v": 30399,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_16.5"
 			}
 		]
@@ -22862,15 +22862,15 @@
 	},
 	"994768bb-4723-4213-bdb6-2e16b190f5ae": {
 		"name": "ios_intercept_survey",
-		"v": 29976,
+		"v": 30398,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_16.5"
 			}
 		]
