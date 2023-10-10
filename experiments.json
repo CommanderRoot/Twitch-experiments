@@ -17667,15 +17667,15 @@
 	},
 	"77720d80-e2c9-431b-b857-f971a9b644e6": {
 		"name": "android_network_callbacks",
-		"v": 30350,
+		"v": 30401,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_16.5"
 			}
 		]
