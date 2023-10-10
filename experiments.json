@@ -8498,7 +8498,7 @@
 	},
 	"3af3ebd0-3cab-405f-af2e-f3d904f073a5": {
 		"name": "android_mobile_shield_logging",
-		"v": 30369,
+		"v": 30404,
 		"t": 1,
 		"groups": [
 			{
@@ -8507,7 +8507,19 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_16.7"
+				"value": "VERBOSE"
+			},
+			{
+				"weight": 0,
+				"value": "WARNING"
+			},
+			{
+				"weight": 0,
+				"value": "INFO"
+			},
+			{
+				"weight": 0,
+				"value": "ERROR"
 			}
 		]
 	},
@@ -36029,6 +36041,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"f68897e0-596f-4883-988e-d97adb0090a4": {
+		"name": "ios_ads_hide_tab_title",
+		"v": 30403,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v16.8"
 			}
 		]
 	},
