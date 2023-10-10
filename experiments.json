@@ -20961,7 +20961,7 @@
 	},
 	"8d874211-cb45-4169-b0ee-ee66146cebcc": {
 		"name": "android_mdf_explicit_signals",
-		"v": 29729,
+		"v": 30407,
 		"t": 2,
 		"groups": [
 			{
@@ -20970,7 +20970,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_like"
+			},
+			{
+				"weight": 0,
+				"value": "active_like_dislike"
 			}
 		]
 	},
@@ -30216,7 +30220,7 @@
 	},
 	"cccfa25c-77c3-4d9b-a534-2760fd340085": {
 		"name": "ios_send_cheer_gql_migration",
-		"v": 22498,
+		"v": 30406,
 		"t": 1,
 		"groups": [
 			{
