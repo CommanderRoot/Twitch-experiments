@@ -21215,15 +21215,15 @@
 	},
 	"8e3d46fd-3c9c-4ea1-8b97-94b33414dfdb": {
 		"name": "android_gs_discovery_card",
-		"v": 30257,
+		"v": 30464,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_16.6"
 			},
 			{
@@ -26190,15 +26190,15 @@
 	},
 	"aff80edb-7ec6-4224-b23a-4d7330d2c2de": {
 		"name": "ios_gs_discovery_card",
-		"v": 27640,
+		"v": 30461,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
