@@ -20801,6 +20801,21 @@
 			}
 		]
 	},
+	"8ca1e018-0ef5-47b1-80c6-14e57ce6c36e": {
+		"name": "dart_tnf_1012_holdout",
+		"v": 30458,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 30,
+				"value": "holdout"
+			},
+			{
+				"weight": 70,
+				"value": "allowed"
+			}
+		]
+	},
 	"8cbd71cc-c4b5-4b2c-a572-08cf51a31b43": {
 		"name": "dart_pridelaunchit_ctr_1009_awa_cmc_lrn_mis_oe_2306_holdout",
 		"v": 28099,
