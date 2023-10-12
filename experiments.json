@@ -22127,6 +22127,21 @@
 			}
 		]
 	},
+	"94e8de68-1628-4621-b5a0-910d0e5b06ce": {
+		"name": "android_gs_heartbeat",
+		"v": 30449,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"9508ffc9-1f43-493e-8575-31c157f70af0": {
 		"name": "dart_tnflaunch_vwr_799_dav_cmc_lrn_wch_e_229_onsite",
 		"v": 24256,
