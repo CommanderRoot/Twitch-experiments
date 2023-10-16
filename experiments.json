@@ -28695,6 +28695,21 @@
 			}
 		]
 	},
+	"c27b8528-eb00-4acd-b0ff-e4a7bc4d607e": {
+		"name": "dart_partyanimalsbzdrop_holdout",
+		"v": 30547,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"c2a121ef-cd70-423f-8e65-de028477a140": {
 		"name": "ios_profile_redesign_tab_reorder",
 		"v": 3763,
