@@ -7367,6 +7367,21 @@
 			}
 		]
 	},
+	"3219163d-b978-49cb-bb41-061d55f87af6": {
+		"name": "dart_dachhalloweenspotlightannounce_vwr_1115_dav_cmc_wch_mis_email_2310_holdout",
+		"v": 30522,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"322f4386-5da8-4b91-a88f-0cb67fa5f2a5": {
 		"name": "ios_channel_points_predictions",
 		"v": 12598,
