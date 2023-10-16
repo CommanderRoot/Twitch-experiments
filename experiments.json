@@ -25619,15 +25619,15 @@
 	},
 	"ad020e31-bb63-4dc3-99da-9e40a3eb8123": {
 		"name": "ios_ads_use_idfa_in_ad_request",
-		"v": 30545,
+		"v": 30563,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_v13.0"
 			}
 		]
