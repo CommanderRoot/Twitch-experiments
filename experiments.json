@@ -8192,6 +8192,21 @@
 			}
 		]
 	},
+	"37a05a8b-f41c-4988-9561-8e46abc5de2b": {
+		"name": "ios_ads_banner_ads",
+		"v": 30530,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"37ad5d63-0fff-42e7-8c74-6ee30b3d6900": {
 		"name": "dart_celine_catapush_msg_3_holdout",
 		"v": 8816,
