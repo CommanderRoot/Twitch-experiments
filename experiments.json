@@ -25999,6 +25999,21 @@
 			}
 		]
 	},
+	"aec1a187-00e9-45b4-97af-b85ddd93ec99": {
+		"name": "ios_hang_tracking",
+		"v": 30599,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_16.9"
+			}
+		]
+	},
 	"aed66c3f-fa7f-41a4-aad8-06c063b94920": {
 		"name": "iOS_subtokens_apple_prototype",
 		"v": 7966,
