@@ -5806,15 +5806,15 @@
 	},
 	"2769302e-7828-4039-9de1-a9b2be8b474d": {
 		"name": "ios_sleep_timer",
-		"v": 29388,
+		"v": 30593,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "enabled"
 			}
 		]
