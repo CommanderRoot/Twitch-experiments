@@ -34705,6 +34705,21 @@
 			}
 		]
 	},
+	"eba1994d-deb2-4613-9437-5a9c237a6248": {
+		"name": "android_ads_dma_consent",
+		"v": 30580,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"ebb50df3-a856-43fe-bb7c-9b1c3b1ed0ea": {
 		"name": "roster_test",
 		"v": 21197,
