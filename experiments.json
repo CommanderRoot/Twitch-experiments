@@ -6852,6 +6852,21 @@
 			}
 		]
 	},
+	"2f3c58e6-65c4-45d7-847a-ff40e2688ffb": {
+		"name": "dart_drops_enabled_holdout",
+		"v": 30629,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2f4f0187-b573-4db6-aa66-67cb6c4e0893": {
 		"name": "dart_fpso_prime_reminderv2_emea_vwr_47941_cmm_cmc_buy_mis_email_2104_holdout",
 		"v": 15570,
@@ -22379,6 +22394,21 @@
 			{
 				"weight": 0,
 				"value": "show"
+			}
+		]
+	},
+	"95ce1bf2-e1ff-4320-bf11-e9bede7254b7": {
+		"name": "dart_drops_disabled_holdout",
+		"v": 30628,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
