@@ -18544,6 +18544,21 @@
 			}
 		]
 	},
+	"7c205308-225f-4e5a-bd23-27123b43ffa2": {
+		"name": "dart_stories_launch_101023_holdout",
+		"v": 30618,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"7c60840f-cf28-4b3f-adb3-1f3d958628ed": {
 		"name": "android_billing_unavailable_error_logging_disabled",
 		"v": 22263,
