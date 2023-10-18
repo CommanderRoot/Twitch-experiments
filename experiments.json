@@ -16802,6 +16802,21 @@
 			}
 		]
 	},
+	"72166884-7c72-42c3-8227-29372d089073": {
+		"name": "ios_ivs_player_edge_prewarm",
+		"v": 30639,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"72243b7d-3774-4bf3-b87b-4bc5e4a23e46": {
 		"name": "ios_login_required",
 		"v": 22682,
@@ -20425,6 +20440,21 @@
 			{
 				"weight": 93,
 				"value": "allowed"
+			}
+		]
+	},
+	"896d31fc-aa35-4a71-9729-f5e484559264": {
+		"name": "android_ivs_player_edge_prewarm",
+		"v": 30640,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
