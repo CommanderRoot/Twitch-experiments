@@ -227,6 +227,21 @@
 			}
 		]
 	},
+	"01791561-feed-429d-b444-28261113a2c9": {
+		"name": "ios_swift_manifest_requester",
+		"v": 30665,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"0187ca6c-2ef6-429c-be3b-5b5fb9e1b005": {
 		"name": "ios_activity_performance",
 		"v": 19067,
