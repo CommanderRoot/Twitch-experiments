@@ -229,15 +229,15 @@
 	},
 	"01791561-feed-429d-b444-28261113a2c9": {
 		"name": "ios_swift_manifest_requester",
-		"v": 30665,
+		"v": 30720,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active"
 			}
 		]
