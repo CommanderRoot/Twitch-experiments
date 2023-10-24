@@ -10555,6 +10555,21 @@
 			}
 		]
 	},
+	"473b7d9f-b998-407f-bf9d-aaf1207812fc": {
+		"name": "android_mdf_button_ordering",
+		"v": 30768,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "clips_first"
+			},
+			{
+				"weight": 1,
+				"value": "live_first"
+			}
+		]
+	},
 	"474db509-7fb8-403e-97da-66dae8954e6d": {
 		"name": "android_home_games_carousel",
 		"v": 643,
