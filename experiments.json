@@ -1419,6 +1419,21 @@
 			}
 		]
 	},
+	"09754d8b-46f0-46fc-92fd-3a56d07462c6": {
+		"name": "dart_dachhalloweenspotlightlaunch_vwr_1120_dav_cmc_wch_mis_email_2310_holdout",
+		"v": 30755,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"099b22e6-a720-43bc-9341-a2b6f7f99df3": {
 		"name": "android_edit_profile_change_names",
 		"v": 14205,
