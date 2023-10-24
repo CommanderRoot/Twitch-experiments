@@ -1530,15 +1530,15 @@
 	},
 	"0a00129f-d983-47e2-8991-cf52203560e8": {
 		"name": "android_anr_tracking",
-		"v": 30694,
+		"v": 30771,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active_16.9"
 			}
 		]
@@ -26163,15 +26163,15 @@
 	},
 	"aec1a187-00e9-45b4-97af-b85ddd93ec99": {
 		"name": "ios_hang_tracking",
-		"v": 30693,
+		"v": 30772,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active_16.9"
 			}
 		]
