@@ -1686,6 +1686,21 @@
 			}
 		]
 	},
+	"0af52375-f9d0-437e-8fc5-da1ce159ea6a": {
+		"name": "ios_swift_analytics_controller",
+		"v": 30812,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"0afd7516-d46e-475b-ad41-ee36de88090d": {
 		"name": "android_mgst_ivs_game_broadcast_global",
 		"v": 16536,
@@ -17098,15 +17113,15 @@
 	},
 	"72cbae70-b2c0-4c99-a1e6-da6a10a39b73": {
 		"name": "player_core_send_recoverable_network_error",
-		"v": 30803,
+		"v": 30813,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -32266,6 +32281,25 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"d8be23c0-e075-4b74-ab58-f0b5288025c8": {
+		"name": "ios_ads_dma_consent",
+		"v": 30810,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_debug"
+			},
+			{
+				"weight": 0,
+				"value": ""
 			}
 		]
 	},
