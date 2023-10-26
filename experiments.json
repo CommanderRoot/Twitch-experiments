@@ -31622,6 +31622,21 @@
 			}
 		]
 	},
+	"d3f7d811-c3d5-4d61-b8d4-2a477be21469": {
+		"name": "android_reactivate_with_2fa",
+		"v": 30851,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"d41b345c-67a6-49d4-b396-c56f62c2d38c": {
 		"name": "android_poll_vote_with_bits_and_copo",
 		"v": 11242,
