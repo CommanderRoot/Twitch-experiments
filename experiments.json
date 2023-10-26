@@ -9281,15 +9281,15 @@
 	},
 	"401bc6bb-b8f5-449a-8724-1709e93c9df7": {
 		"name": "watch_streak_progress_bar_exp_2_3",
-		"v": 30807,
+		"v": 30838,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
