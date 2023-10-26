@@ -1270,6 +1270,21 @@
 			}
 		]
 	},
+	"08d35c69-118a-4032-8902-eaecfb904d56": {
+		"name": "dart_new_apac_latam_halloween_animal_royale_viewer_drops_email_2310_holdout",
+		"v": 30825,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"08e8bb90-936f-46b3-9f6d-77faa1712d7d": {
 		"name": "dart_apac_twn_veiledexperts_vwr_0_dav_trn_wch_gmg_onsite_2206_holdout",
 		"v": 21485,
@@ -3837,6 +3852,21 @@
 			{
 				"weight": 100,
 				"value": "active_v16_3"
+			}
+		]
+	},
+	"1950c37b-7a69-4b1c-b343-175c5cc59a19": {
+		"name": "dart_new_apac_latam_halloween_dead_by_daylight_viewer_drops_email_2310_holdout",
+		"v": 30824,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -10948,6 +10978,21 @@
 			{
 				"weight": 25,
 				"value": "Variant D"
+			}
+		]
+	},
+	"49fa789d-2fc8-4bd5-a3cd-de1f8a54eb86": {
+		"name": "dart_new_apac_latam_halloween_party_animals_viewer_drops_email_2310_holdout",
+		"v": 30823,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
