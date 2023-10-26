@@ -2127,15 +2127,15 @@
 	},
 	"0d8cb7c4-6fe9-4cf6-8e7e-99c1a9e7b676": {
 		"name": "watch_streak_progress_bar_exp_1",
-		"v": 30837,
+		"v": 30841,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -9281,15 +9281,15 @@
 	},
 	"401bc6bb-b8f5-449a-8724-1709e93c9df7": {
 		"name": "watch_streak_progress_bar_exp_2_3",
-		"v": 30838,
+		"v": 30842,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -18729,12 +18729,12 @@
 	},
 	"7c040b73-2bd6-4197-a09e-6b9ecb0bf407": {
 		"name": "ios_third_party_events",
-		"v": 30839,
+		"v": 30840,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "Control"
+				"value": "control"
 			}
 		]
 	},
@@ -34413,15 +34413,15 @@
 	},
 	"e76d398b-fa24-4fba-9f16-997b09d04cda": {
 		"name": "android_vod_playback_speed_controls",
-		"v": 30103,
+		"v": 30843,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_15.5"
 			}
 		]
