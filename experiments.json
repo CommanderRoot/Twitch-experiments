@@ -12865,6 +12865,21 @@
 			}
 		]
 	},
+	"5760bdd4-18f8-4acc-b767-8120fd36a2e8": {
+		"name": "android_recap_23_deeplinks",
+		"v": 30847,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"5766eac9-19a0-471b-8716-708987a0f62d": {
 		"name": "ios_om_vaes_enabled",
 		"v": 8302,
