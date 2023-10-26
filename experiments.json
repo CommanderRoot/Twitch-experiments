@@ -18729,12 +18729,16 @@
 	},
 	"7c040b73-2bd6-4197-a09e-6b9ecb0bf407": {
 		"name": "ios_third_party_events",
-		"v": 30840,
+		"v": 30845,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
