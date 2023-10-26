@@ -36207,11 +36207,11 @@
 	},
 	"f4a65727-7d70-45a5-9bbc-f7fa7149dc5d": {
 		"name": "android_watch_streaks_viewer",
-		"v": 30836,
+		"v": 30844,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -36219,7 +36219,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_16.8"
 			}
 		]
