@@ -14441,6 +14441,21 @@
 			}
 		]
 	},
+	"60e542b2-92d6-4ef0-b6c8-1abb640af314": {
+		"name": "ios_recap_23_deeplinks",
+		"v": 30846,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"60f52570-d953-45d4-8f22-8ddd8b863552": {
 		"name": "android_pip_improvements",
 		"v": 21471,
