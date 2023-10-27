@@ -34953,6 +34953,21 @@
 			}
 		]
 	},
+	"ea2c05f3-faad-44e2-bad5-6ad3726a2398": {
+		"name": "ios_ads_dsa_video",
+		"v": 30892,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"ea2c9418-1a27-4ec7-b289-9021ee25776d": {
 		"name": "pogchat_10",
 		"v": 24091,
