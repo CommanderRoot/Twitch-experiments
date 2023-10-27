@@ -4830,6 +4830,21 @@
 			}
 		]
 	},
+	"20165127-bf25-4f34-81df-caf0d3241301": {
+		"name": "ios_ads_dsa_audio",
+		"v": 30897,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"20253846-f6eb-4268-b228-2178e33e1c2e": {
 		"name": "ios_native_login",
 		"v": 9173,
@@ -12895,6 +12910,21 @@
 			}
 		]
 	},
+	"575c370c-5077-4d70-a570-362fa0e16933": {
+		"name": "ios_ads_dsa_display_sda",
+		"v": 30895,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"575d4334-d54a-4790-9fd7-c7cee06a642f": {
 		"name": "dart_copa_no_caze_jogo1_holdout",
 		"v": 25309,
@@ -17318,6 +17348,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"734c1a50-c1de-4f7e-add7-60ef3b30f307": {
+		"name": "ios_ads_dsa_display_browse",
+		"v": 30896,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
@@ -34955,8 +35000,9 @@
 	},
 	"ea2c05f3-faad-44e2-bad5-6ad3726a2398": {
 		"name": "ios_ads_dsa_video",
-		"v": 30892,
+		"v": 30894,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 100,
