@@ -3067,6 +3067,21 @@
 			}
 		]
 	},
+	"141cdef8-d854-45f3-a1f1-3dc75b288eae": {
+		"name": "android_double_phone_verification",
+		"v": 30890,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"14246eff-9b2f-4cfc-a147-fb4ca029d1d5": {
 		"name": "dart_fpgo_existing_sub_localized_emea_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 14857,
@@ -6425,6 +6440,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"2b09abfb-5f89-4d10-8da2-cd00f5eb1f72": {
+		"name": "ios_mdf_max_watchtime",
+		"v": 30891,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v17_0"
 			}
 		]
 	},
