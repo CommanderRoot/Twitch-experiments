@@ -18980,6 +18980,17 @@
 			}
 		]
 	},
+	"7d10a0ec-01d2-4624-9e56-49445abde552": {
+		"name": "android_ads_dsa_audio",
+		"v": 30881,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"7d46d35a-02ce-4f3f-ad1c-6d7e7d59a610": {
 		"name": "ios_multiplayer_ad_polls",
 		"v": 12631,
@@ -26262,6 +26273,21 @@
 			}
 		]
 	},
+	"ae9c05d7-163f-455d-92e0-2e51bcc32a37": {
+		"name": "android_ads_dsa_video",
+		"v": 30879,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_development"
+			}
+		]
+	},
 	"aeb24e23-67f8-4937-b0fb-57ba9ae2dcf2": {
 		"name": "leftnav_lo_similarity_isolated",
 		"v": 13090,
@@ -28124,6 +28150,17 @@
 			}
 		]
 	},
+	"ba08ece9-91a7-4894-a1cd-0722dcb9054b": {
+		"name": "android_ads_dsa_bda",
+		"v": 30883,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"ba1ca822-6fb8-4d93-a9da-73c236328e21": {
 		"name": "dart_apac_jpn_streetfighter6_vwr_0_dav_trn_wch_gmg_push_2210_holdout",
 		"v": 24668,
@@ -29870,6 +29907,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"c745cd00-7786-4abf-b049-691c18e28c6e": {
+		"name": "android_ads_dsa_sda_left_third",
+		"v": 30880,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_development"
 			}
 		]
 	},
@@ -35701,6 +35753,17 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"eee7e98c-b59a-405a-9d9f-5a3d6ec8c91a": {
+		"name": "android_ads_dsa_sda_banner",
+		"v": 30882,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
