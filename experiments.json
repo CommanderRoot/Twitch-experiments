@@ -27880,6 +27880,21 @@
 			}
 		]
 	},
+	"b72099ee-afad-40c1-98ed-74d7f8734037": {
+		"name": "android_ads_lower_thirds",
+		"v": 30899,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"b72c6e09-ad24-4880-9447-5c7ca8508332": {
 		"name": "android_conscrypt_as_first_security_provider_non_latam",
 		"v": 19295,
