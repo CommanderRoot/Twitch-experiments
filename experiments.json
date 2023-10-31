@@ -36807,15 +36807,15 @@
 	},
 	"f68897e0-596f-4883-988e-d97adb0090a4": {
 		"name": "ios_ads_hide_tab_title",
-		"v": 30948,
+		"v": 30950,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "active_v16.8"
 			}
 		]
