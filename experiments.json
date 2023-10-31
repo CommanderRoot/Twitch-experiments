@@ -26411,7 +26411,7 @@
 	},
 	"aec1a187-00e9-45b4-97af-b85ddd93ec99": {
 		"name": "ios_hang_tracking",
-		"v": 30772,
+		"v": 30937,
 		"t": 1,
 		"groups": [
 			{
@@ -26420,7 +26420,7 @@
 			},
 			{
 				"weight": 50,
-				"value": "active_16.9"
+				"value": "active_17.0"
 			}
 		]
 	},
@@ -36788,15 +36788,15 @@
 	},
 	"f68897e0-596f-4883-988e-d97adb0090a4": {
 		"name": "ios_ads_hide_tab_title",
-		"v": 30403,
+		"v": 30936,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_v16.8"
 			}
 		]
