@@ -10480,6 +10480,21 @@
 			}
 		]
 	},
+	"45c1b818-278a-42ba-841a-768f3adac386": {
+		"name": "ios_closed_captions",
+		"v": 30938,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"45cceb9d-53c0-47ac-bb58-d7efd70d98b2": {
 		"name": "dart_ocactivitysumtest_vwr_849_dav_cmc_wch_mis_email_2211_holdout",
 		"v": 25312,
