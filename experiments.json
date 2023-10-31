@@ -23577,16 +23577,16 @@
 	},
 	"9a2e948a-c409-4036-be30-b8b362ac5526": {
 		"name": "android_viewer_card",
-		"v": 30941,
+		"v": 30949,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "disabled"
+				"value": "control"
 			},
 			{
 				"weight": 0,
-				"value": "enabled"
+				"value": "active_development"
 			}
 		]
 	},
