@@ -34493,6 +34493,21 @@
 			}
 		]
 	},
+	"e5fdcc70-c9c6-431f-aaff-29f86a41e67c": {
+		"name": "android_third_party_events",
+		"v": 30924,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"e5fe2b37-59aa-4f2e-a2ff-57363630de02": {
 		"name": "ios_artificial_latency_vod_first_frame",
 		"v": 16879,
