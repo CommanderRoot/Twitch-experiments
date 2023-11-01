@@ -24367,6 +24367,21 @@
 			}
 		]
 	},
+	"a00048bb-46e0-42e7-86ed-14d99ee84082": {
+		"name": "android_ivs_player_scip_probe",
+		"v": 30961,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"a0182907-4ddc-48a3-877c-ffdd8f27b963": {
 		"name": "dart_ecommedfpsoprimesublifecycle2_vwr_412_sbs_cmc_sub_mis_email_2105_de_holdout",
 		"v": 15273,
@@ -37111,6 +37126,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"f88b269f-6fad-4600-961c-254e7964fcda": {
+		"name": "ios_ivs_player_scip_probe",
+		"v": 30962,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
