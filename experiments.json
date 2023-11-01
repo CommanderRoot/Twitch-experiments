@@ -30293,11 +30293,11 @@
 	},
 	"c8d62a01-223a-4dba-a10b-495edf136b7a": {
 		"name": "android_delete_account",
-		"v": 30820,
+		"v": 30975,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -30305,7 +30305,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_16.8"
 			}
 		]
