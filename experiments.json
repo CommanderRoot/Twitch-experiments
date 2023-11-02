@@ -37565,15 +37565,15 @@
 	},
 	"fb02f4eb-0ffa-4326-b737-ec3a4dd62eba": {
 		"name": "ios_mdf_explicit_signals",
-		"v": 30980,
+		"v": 30983,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
