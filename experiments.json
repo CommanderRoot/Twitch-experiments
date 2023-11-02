@@ -12536,15 +12536,15 @@
 	},
 	"535da222-3266-4a34-bd9f-8f30813fcc3b": {
 		"name": "ios_mdf_dislike",
-		"v": 30095,
+		"v": 30979,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -37565,15 +37565,15 @@
 	},
 	"fb02f4eb-0ffa-4326-b737-ec3a4dd62eba": {
 		"name": "ios_mdf_explicit_signals",
-		"v": 29646,
+		"v": 30980,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
