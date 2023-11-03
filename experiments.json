@@ -26170,6 +26170,21 @@
 			}
 		]
 	},
+	"ad505384-e920-4fbc-b497-662840867998": {
+		"name": "web_ivs_player_scip_probe",
+		"v": 31004,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"ad583673-daa5-4fde-bccc-147f814aae2a": {
 		"name": "dart_frozen_2014_forward_us_en_012622_holdout",
 		"v": 18875,
