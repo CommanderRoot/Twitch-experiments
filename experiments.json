@@ -30338,11 +30338,11 @@
 	},
 	"c8d62a01-223a-4dba-a10b-495edf136b7a": {
 		"name": "android_delete_account",
-		"v": 30975,
+		"v": 31022,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -30350,7 +30350,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_16.8"
 			}
 		]
@@ -31868,11 +31868,11 @@
 	},
 	"d3f7d811-c3d5-4d61-b8d4-2a477be21469": {
 		"name": "android_reactivate_with_2fa",
-		"v": 30981,
+		"v": 31023,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -31880,7 +31880,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_17.0"
 			}
 		]
