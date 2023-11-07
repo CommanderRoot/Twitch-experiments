@@ -7828,15 +7828,15 @@
 	},
 	"3473c82e-1e1f-41ef-9ab7-126585ba5526": {
 		"name": "ios_double_phone_verification",
-		"v": 30452,
+		"v": 31059,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active"
 			}
 		]
