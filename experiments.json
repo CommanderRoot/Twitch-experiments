@@ -32292,7 +32292,7 @@
 	},
 	"d661c8f7-2662-4174-993e-fb72e1c30338": {
 		"name": "android_pc",
-		"v": 30232,
+		"v": 31068,
 		"t": 1,
 		"groups": [
 			{
@@ -32302,6 +32302,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_17.2"
 			}
 		]
 	},
