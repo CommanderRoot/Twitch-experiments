@@ -16464,12 +16464,16 @@
 	},
 	"6de96080-eff2-414f-a151-e067c11381ce": {
 		"name": "android_mirror_c_ads",
-		"v": 31092,
+		"v": 31095,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
@@ -29193,12 +29197,16 @@
 	},
 	"c15c5415-5d8e-4dee-9d88-fbac81870ab1": {
 		"name": "android_skyscraper_ads",
-		"v": 31091,
+		"v": 31094,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
