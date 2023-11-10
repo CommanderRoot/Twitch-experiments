@@ -12414,6 +12414,21 @@
 			}
 		]
 	},
+	"5202721c-353a-4230-b072-f05d0e9d1142": {
+		"name": "dart_merch_cybermondaysaleeng_holdout",
+		"v": 31104,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5215fdf9-f0b5-4d87-be64-f5466658b723": {
 		"name": "android_disable_native_pip_xiaomi",
 		"v": 11407,
