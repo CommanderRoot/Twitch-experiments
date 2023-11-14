@@ -21569,7 +21569,7 @@
 	},
 	"8d874211-cb45-4169-b0ee-ee66146cebcc": {
 		"name": "android_mdf_explicit_signals",
-		"v": 31074,
+		"v": 31154,
 		"t": 2,
 		"groups": [
 			{
@@ -21578,11 +21578,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_like_17.1"
+				"value": "active_like_17_1"
 			},
 			{
 				"weight": 100,
-				"value": "active_like_dislike_17.1"
+				"value": "active_like_dislike_17_1"
 			}
 		]
 	},
