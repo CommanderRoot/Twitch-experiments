@@ -21797,15 +21797,15 @@
 	},
 	"8e3d46fd-3c9c-4ea1-8b97-94b33414dfdb": {
 		"name": "android_gs_discovery_card",
-		"v": 30921,
+		"v": 31152,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_17.0"
 			},
 			{
