@@ -20736,21 +20736,6 @@
 			}
 		]
 	},
-	"885c3272-aa99-4bc2-9103-b38f7924afa1": {
-		"name": "ios_ivs_player_whole_probe",
-		"v": 31141,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"886ec848-a843-4006-836f-0e83384838d5": {
 		"name": "android_polls_final",
 		"v": 9590,
