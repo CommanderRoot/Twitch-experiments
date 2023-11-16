@@ -15968,6 +15968,21 @@
 			}
 		]
 	},
+	"6a4c75ac-9f12-4beb-9849-b3ee90b78019": {
+		"name": "android_kmp_chat_models",
+		"v": 31198,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"6a55a881-2e43-4e1b-9ff2-de8916d6f80e": {
 		"name": "VP09 Web",
 		"v": 17217,
