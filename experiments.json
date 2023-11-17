@@ -12940,6 +12940,21 @@
 			}
 		]
 	},
+	"569fced8-b2fa-41b9-9c4e-6349f3ea6be0": {
+		"name": "android_meow_subs_use_animations",
+		"v": 31203,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"56c1ef2a-26ee-44dc-9fbf-368c4e6e7063": {
 		"name": "dart_apac_anz_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22102,
