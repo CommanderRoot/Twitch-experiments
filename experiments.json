@@ -20707,11 +20707,11 @@
 	},
 	"87b3cc98-0404-4c0f-b64f-1a72d0d9b7ff": {
 		"name": "ios_meow_ms1",
-		"v": 29717,
+		"v": 31218,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -20719,12 +20719,8 @@
 				"value": "full_screen"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "half_screen"
-			},
-			{
-				"weight": 0,
-				"value": "full_and_half_screen"
 			}
 		]
 	},
