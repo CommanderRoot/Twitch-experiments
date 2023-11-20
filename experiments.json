@@ -20250,6 +20250,21 @@
 			}
 		]
 	},
+	"84174dab-af56-4cc4-8fa7-c29ee2600d18": {
+		"name": "ios_mdf_default_tab",
+		"v": 31239,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8423f821-2727-4886-8291-fd286f6ce3b6": {
 		"name": "ios_promotion_stream",
 		"v": 10579,
