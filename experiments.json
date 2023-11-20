@@ -28875,6 +28875,21 @@
 			}
 		]
 	},
+	"bd43e0c0-3605-4053-872d-224b95182a36": {
+		"name": "dart_adsupplyacceleration_nov_holdout",
+		"v": 31246,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"bd44134d-1a3c-4be8-b9f1-edc3d22471d1": {
 		"name": "dart_apac_twn_twhalloween_vwr_0_dav_trn_wch_gmg_email_2210_holdout",
 		"v": 24894,
