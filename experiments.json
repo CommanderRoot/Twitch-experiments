@@ -9200,6 +9200,25 @@
 			}
 		]
 	},
+	"3ebc11ab-1baa-4c30-8a82-1f1c50e1c80d": {
+		"name": "android_mdf_feed_tab",
+		"v": 31247,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "feed_tab_eligible_v17.4"
+			},
+			{
+				"weight": 0,
+				"value": "feed_tab_default_landing_v17.4"
+			}
+		]
+	},
 	"3ec204f5-3307-4296-be1e-519a14a7b3bf": {
 		"name": "android_video_ads_first_party_api",
 		"v": 13061,
