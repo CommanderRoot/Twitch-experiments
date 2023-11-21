@@ -16258,6 +16258,21 @@
 			}
 		]
 	},
+	"6c1054f0-be40-42ad-92c6-04b00841bd2b": {
+		"name": "dart_twitchtogetherforgoodnov21_localized_holdout",
+		"v": 31264,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"6c2e748c-e5a2-42de-bd63-29c6db0555c8": {
 		"name": "android_ads_loudness_normalization",
 		"v": 18127,
@@ -27679,6 +27694,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"b34d60b0-2c91-42b5-b6db-a2d894e7d807": {
+		"name": "dart_twitchtogetherforgoodnov21_eng_holdout",
+		"v": 31266,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
