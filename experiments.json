@@ -24809,15 +24809,15 @@
 	},
 	"a14e71de-3b2a-4bc0-9ec6-5eff437ce186": {
 		"name": "percolite_darklaunch_sidenav",
-		"v": 31254,
+		"v": 31263,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
