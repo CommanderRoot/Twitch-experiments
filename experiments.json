@@ -9157,7 +9157,7 @@
 	},
 	"3e41aa1b-b88e-40db-b567-5e3ac0d13234": {
 		"name": "ios_mdf_feature_flag_tab",
-		"v": 31166,
+		"v": 31298,
 		"t": 2,
 		"groups": [
 			{
@@ -9166,7 +9166,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "feed_tab_eligible_v17.4"
+			},
+			{
+				"weight": 0,
+				"value": "feed_tab_default_landing_v17.4"
 			}
 		]
 	},
@@ -20281,21 +20285,6 @@
 			{
 				"weight": 100,
 				"value": "Variant A"
-			}
-		]
-	},
-	"84174dab-af56-4cc4-8fa7-c29ee2600d18": {
-		"name": "ios_mdf_default_tab",
-		"v": 31239,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
