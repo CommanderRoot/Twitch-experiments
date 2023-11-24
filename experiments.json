@@ -28624,6 +28624,21 @@
 			}
 		]
 	},
+	"ba2affad-8be4-4678-9331-a74811a4b82e": {
+		"name": "dart_tnf_nov24_holdout",
+		"v": 31304,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ba438689-4e40-47fa-99e7-4bbee13c2f84": {
 		"name": "vaes_rollout_FR",
 		"v": 7684,
