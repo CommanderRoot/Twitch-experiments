@@ -32675,6 +32675,21 @@
 			}
 		]
 	},
+	"d6ee6374-ab06-4735-a8f3-4b7beec34b92": {
+		"name": "dart_merch_blackfridaysale_holdout",
+		"v": 31303,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d6fc811f-05b0-4506-8a7d-f8787a0bf62b": {
 		"name": "android_pip_surface_fix",
 		"v": 11803,
