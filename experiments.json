@@ -11197,6 +11197,21 @@
 			}
 		]
 	},
+	"4a11daac-59e1-4d81-be8a-d1d20baf2871": {
+		"name": "dart_thirdpartyalerts_112723_holdout",
+		"v": 31327,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"4a7bb40c-9114-443c-aae8-70910fa1106f": {
 		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_push_2212_3rdday_holdout",
 		"v": 25726,
