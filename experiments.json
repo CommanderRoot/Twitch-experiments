@@ -19063,15 +19063,15 @@
 	},
 	"7c040b73-2bd6-4197-a09e-6b9ecb0bf407": {
 		"name": "ios_third_party_events",
-		"v": 30845,
+		"v": 31324,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -34950,15 +34950,15 @@
 	},
 	"e5fdcc70-c9c6-431f-aaff-29f86a41e67c": {
 		"name": "android_third_party_events",
-		"v": 30972,
+		"v": 31325,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_17.1"
 			}
 		]
