@@ -20815,25 +20815,6 @@
 			}
 		]
 	},
-	"87b3cc98-0404-4c0f-b64f-1a72d0d9b7ff": {
-		"name": "ios_meow_ms1",
-		"v": 31332,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "full_screen"
-			},
-			{
-				"weight": 0,
-				"value": "half_screen"
-			}
-		]
-	},
 	"87bc791d-ae59-4494-85b5-0e6552fb905b": {
 		"name": "android_max_playback_rate",
 		"v": 25991,
