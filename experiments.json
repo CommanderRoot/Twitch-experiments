@@ -10894,6 +10894,21 @@
 			}
 		]
 	},
+	"4786b6d8-178f-45af-bd4e-03124ca92323": {
+		"name": "dart_twitchtogetherforgoodnovbadge2_holdout",
+		"v": 31355,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"47d9aef7-2408-4e65-a60c-95da722d8369": {
 		"name": "Remove Pops From Mapping Considerations ",
 		"v": 21942,
@@ -32657,11 +32672,11 @@
 	},
 	"d661c8f7-2662-4174-993e-fb72e1c30338": {
 		"name": "android_pc",
-		"v": 31345,
+		"v": 31354,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 55,
 				"value": "control"
 			},
 			{
@@ -32669,7 +32684,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 45,
 				"value": "active_17.2"
 			}
 		]
@@ -38244,6 +38259,21 @@
 			{
 				"weight": 90,
 				"value": "allowed"
+			}
+		]
+	},
+	"fc41b6c9-32c9-4485-89cc-2b7596d78ae4": {
+		"name": "dart_twitchtogetherforgoodnovbadge2_onsite",
+		"v": 31356,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
