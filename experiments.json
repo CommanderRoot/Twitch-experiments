@@ -21737,6 +21737,25 @@
 			}
 		]
 	},
+	"8d9ee654-85b2-4b5f-9317-ece65785fd03": {
+		"name": "ios_meow",
+		"v": 31347,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "half_screen"
+			},
+			{
+				"weight": 0,
+				"value": "full_screen"
+			}
+		]
+	},
 	"8dad3a94-23fe-40e2-8dd1-efe3a3cf4852": {
 		"name": "ios_channel_content_ad_metadata_enabled",
 		"v": 15283,
