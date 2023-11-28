@@ -2680,15 +2680,15 @@
 	},
 	"118392af-f07d-4510-b8e8-72848c1969dd": {
 		"name": "ios_pc",
-		"v": 31348,
+		"v": 31359,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 55,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 45,
+				"weight": 75,
 				"value": "active_17.3"
 			}
 		]
@@ -32691,11 +32691,11 @@
 	},
 	"d661c8f7-2662-4174-993e-fb72e1c30338": {
 		"name": "android_pc",
-		"v": 31354,
+		"v": 31360,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 55,
+				"weight": 25,
 				"value": "control"
 			},
 			{
@@ -32703,7 +32703,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 45,
+				"weight": 75,
 				"value": "active_17.2"
 			}
 		]
