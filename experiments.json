@@ -2680,15 +2680,15 @@
 	},
 	"118392af-f07d-4510-b8e8-72848c1969dd": {
 		"name": "ios_pc",
-		"v": 31344,
+		"v": 31348,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 55,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 45,
 				"value": "active_17.3"
 			}
 		]
@@ -10827,6 +10827,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"4762d4b5-9bd1-44c5-ba8a-4bf5c5e983a6": {
+		"name": "dart_optimizedadsnewest_holdout",
+		"v": 31349,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
