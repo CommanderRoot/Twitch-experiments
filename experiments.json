@@ -36957,12 +36957,16 @@
 	},
 	"f3c14a0d-dfbe-4758-bea8-8ea50f2b22df": {
 		"name": "ios_stories_avatar_entry",
-		"v": 31379,
+		"v": 31380,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
