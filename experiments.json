@@ -35740,7 +35740,7 @@
 	},
 	"eacaea91-c2eb-430d-a4da-6d18a11c9e76": {
 		"name": "android_creator_stories_mentions",
-		"v": 30392,
+		"v": 31391,
 		"t": 1,
 		"groups": [
 			{
@@ -35750,6 +35750,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_17.5"
 			}
 		]
 	},
