@@ -5748,6 +5748,21 @@
 			}
 		]
 	},
+	"25a1e813-d4e8-4987-82b5-c8f7b710acf1": {
+		"name": "dart_apacsupport_dec1_holdout",
+		"v": 31400,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"25b8b06e-fbe7-4a2d-9d79-3cb343ae73fa": {
 		"name": "ad_loudness_phase_1",
 		"v": 6924,
