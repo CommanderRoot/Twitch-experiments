@@ -751,6 +751,21 @@
 			}
 		]
 	},
+	"0502eb86-d643-4568-86e1-25af084ee24d": {
+		"name": "dart_tnf_nov30_holdout",
+		"v": 31404,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"05129a06-85ea-484f-ad10-38907fbbb781": {
 		"name": "ios_artificial_latency_browse",
 		"v": 16874,
