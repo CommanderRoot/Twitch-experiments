@@ -3088,7 +3088,7 @@
 	},
 	"141cdef8-d854-45f3-a1f1-3dc75b288eae": {
 		"name": "android_double_phone_verification",
-		"v": 30890,
+		"v": 31419,
 		"t": 1,
 		"groups": [
 			{
@@ -3098,6 +3098,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_17.5"
 			}
 		]
 	},
