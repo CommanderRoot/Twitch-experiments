@@ -7333,6 +7333,21 @@
 			}
 		]
 	},
+	"30ee5779-391a-460b-ab39-a64c2c869d29": {
+		"name": "dart_twitchtogetherforgood_streamersov30_holdout",
+		"v": 31427,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"30f4a536-ed5e-48c6-81ea-386ad4b3afa5": {
 		"name": "dart_apac_anz_localcrm_vwr_0_dav_trn_wch_gmg_email_2303_send1_holdout",
 		"v": 26793,
