@@ -14,6 +14,21 @@
 			}
 		]
 	},
+	"0014753f-0308-4211-9116-adc191414dec": {
+		"name": "dart_twitchtogetherforgood_nov30_holdout",
+		"v": 31423,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"0016759f-1344-45de-99e2-f9bfa46a8a6a": {
 		"name": "android_videoplayer_r7",
 		"v": 4918,
@@ -28392,15 +28407,15 @@
 	},
 	"b71efbeb-f431-4bb3-9457-a722990dc61a": {
 		"name": "ios_ads_debug_viewability_script",
-		"v": 31317,
+		"v": 31422,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active_v17.1"
 			}
 		]
