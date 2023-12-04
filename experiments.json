@@ -21735,6 +21735,21 @@
 			}
 		]
 	},
+	"8cdf003d-0722-449a-a817-eb110076de7c": {
+		"name": "dart_xbox_support_streamer_holdout",
+		"v": 31452,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"8ce5b50b-429b-4c20-a0f3-1b22eb577673": {
 		"name": "ios_rollout_vod_uploads",
 		"v": 804,
