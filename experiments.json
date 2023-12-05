@@ -33150,6 +33150,21 @@
 			}
 		]
 	},
+	"d79c5468-15aa-41f6-a017-5376202c4fb3": {
+		"name": "dart_twitchtogetherforgoodnovbadgedec4_holdout",
+		"v": 31493,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"d7b752d0-fc92-4321-8c57-d563478ce160": {
 		"name": "android_http3_with_cronet",
 		"v": 20128,
