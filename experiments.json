@@ -14940,19 +14940,19 @@
 	},
 	"61ab1ae6-b780-47f9-9166-cb869e1a040b": {
 		"name": "android_meow_gift_subs",
-		"v": 31346,
+		"v": 31489,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 33,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "full_screen_active_17.4"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "half_screen_active_17.4"
 			},
 			{
@@ -21936,19 +21936,19 @@
 	},
 	"8d9ee654-85b2-4b5f-9317-ece65785fd03": {
 		"name": "ios_meow",
-		"v": 31347,
+		"v": 31488,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 33,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "half_screen"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "full_screen"
 			}
 		]
@@ -38814,6 +38814,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"fdcc934c-e76a-4ea5-93d3-9d506a5ef1af": {
+		"name": "dart_xbox_creatoronsite_test_120523_holdout",
+		"v": 31490,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
 			}
 		]
 	},
