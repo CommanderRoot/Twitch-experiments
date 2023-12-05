@@ -18432,15 +18432,15 @@
 	},
 	"76b8ca58-83a0-4d37-b8de-9f3ece19ed11": {
 		"name": "ios_smarter_mobile_follow_sorting_experiment",
-		"v": 29237,
+		"v": 31480,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -33982,6 +33982,21 @@
 			}
 		]
 	},
+	"ddc6266f-08fd-47c3-b1e3-5d50d220e5ed": {
+		"name": "dart_turboemailtest112223_us_holdout",
+		"v": 31481,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"ddd7423a-0cc1-4ad5-8b81-67a5cc57cf85": {
 		"name": "web_vbr",
 		"v": 26883,
@@ -37474,6 +37489,21 @@
 			{
 				"weight": 100,
 				"value": "dont_pause"
+			}
+		]
+	},
+	"f5aac1c4-fe6a-42fc-9d7d-489e2b74e84d": {
+		"name": "dart_turboemailtest112223_us_email",
+		"v": 31482,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
