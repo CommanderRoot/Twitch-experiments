@@ -16609,33 +16609,6 @@
 			}
 		]
 	},
-	"6d03ba40-0240-4a7e-aaf9-73209278c3dd": {
-		"name": "android_meow_ms2",
-		"v": 31384,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "full_screen_active_development"
-			},
-			{
-				"weight": 0,
-				"value": "half_screen_active_development"
-			},
-			{
-				"weight": 0,
-				"value": "full_screen_active_17.4"
-			},
-			{
-				"weight": 0,
-				"value": "half_screen_active_17.4"
-			}
-		]
-	},
 	"6d07fedb-c0e6-4eae-9082-d4c100eade25": {
 		"name": "android_aax",
 		"v": 2096,
@@ -33107,15 +33080,15 @@
 	},
 	"d76d40ab-1eec-471f-b48a-fdaba9ffb0fb": {
 		"name": "ios_ivs_player_low_latency",
-		"v": 31178,
+		"v": 31502,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active"
 			}
 		]
