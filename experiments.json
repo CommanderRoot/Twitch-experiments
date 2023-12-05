@@ -18432,15 +18432,15 @@
 	},
 	"76b8ca58-83a0-4d37-b8de-9f3ece19ed11": {
 		"name": "ios_smarter_mobile_follow_sorting_experiment",
-		"v": 31480,
+		"v": 31485,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active"
 			}
 		]
