@@ -23849,15 +23849,15 @@
 	},
 	"99281a0e-fa26-4bdb-953d-e58fe5911a3a": {
 		"name": "mobile_native_clip_assets",
-		"v": 31214,
+		"v": 31483,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "disabled_17.1"
 			}
 		]
@@ -28497,15 +28497,15 @@
 	},
 	"b71efbeb-f431-4bb3-9457-a722990dc61a": {
 		"name": "ios_ads_debug_viewability_script",
-		"v": 31422,
+		"v": 31484,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active_v17.1"
 			}
 		]
