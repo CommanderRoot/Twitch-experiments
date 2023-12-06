@@ -24538,15 +24538,15 @@
 	},
 	"9d97e0b9-f3f3-404e-9aaa-aeceb4706ab0": {
 		"name": "android_dropins",
-		"v": 30309,
+		"v": 31514,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_development"
 			}
 		]
@@ -35490,15 +35490,15 @@
 	},
 	"e8038b75-bc40-4541-80c1-8b1c711f5e8f": {
 		"name": "ios_dropins",
-		"v": 30373,
+		"v": 31513,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
