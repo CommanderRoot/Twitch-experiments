@@ -25169,6 +25169,21 @@
 			}
 		]
 	},
+	"a1825d25-f561-488c-9c7c-38f6564bb8bc": {
+		"name": "dart_jp_turboemailtest112223_email",
+		"v": 31545,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"a1a15752-8387-4bd1-bf3e-d4fa4eebda42": {
 		"name": "ios_playercore_enable_set_low_latency_increased_rebuffering_fix",
 		"v": 21532,
@@ -34951,6 +34966,21 @@
 			{
 				"weight": 0,
 				"value": "off"
+			}
+		]
+	},
+	"e39bfd29-3e6e-44ea-bc90-6eda82b6f6ee": {
+		"name": "dart_jp_turboemailtest112223_holdout",
+		"v": 31544,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
 			}
 		]
 	},
