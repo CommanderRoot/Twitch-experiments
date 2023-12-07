@@ -8895,6 +8895,21 @@
 			}
 		]
 	},
+	"3b76f429-c231-4276-8ec2-83fdee9bbb38": {
+		"name": "dart_apacsupport_dec8affiliates_holdout",
+		"v": 31555,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"3bae717f-e34a-4464-8ad3-b40afb06a2db": {
 		"name": "android_player_ivs_analytics_module",
 		"v": 31357,
@@ -14138,6 +14153,21 @@
 			{
 				"weight": 100,
 				"value": "active_13.9"
+			}
+		]
+	},
+	"5d7761c9-c888-4aab-8100-c78fa4671feb": {
+		"name": "dart_apacsupport_dec8partenrs_holdout",
+		"v": 31554,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
