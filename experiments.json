@@ -24628,11 +24628,11 @@
 	},
 	"9d97e0b9-f3f3-404e-9aaa-aeceb4706ab0": {
 		"name": "android_dropins",
-		"v": 31557,
+		"v": 31558,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -24640,7 +24640,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_17.5"
 			}
 		]
