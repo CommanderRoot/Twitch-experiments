@@ -23184,6 +23184,21 @@
 			}
 		]
 	},
+	"9523b371-c992-464a-bb50-6bad5774632c": {
+		"name": "ios_ads_transparency_info_vast_parse",
+		"v": 31546,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v17.6"
+			}
+		]
+	},
 	"95311612-45dd-4537-b924-7a0c341de9e6": {
 		"name": "android_clip_refactor",
 		"v": 25735,
