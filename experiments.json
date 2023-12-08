@@ -20040,6 +20040,21 @@
 			}
 		]
 	},
+	"7fec06b1-930d-40dc-9a63-f8a4d03fa99b": {
+		"name": "dart_moreemotesonsiteeng_holdout",
+		"v": 31575,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 8,
+				"value": "holdout"
+			},
+			{
+				"weight": 92,
+				"value": "allowed"
+			}
+		]
+	},
 	"8036e036-569d-459b-82df-c049f466f410": {
 		"name": "ios_browse_updates",
 		"v": 9179,
