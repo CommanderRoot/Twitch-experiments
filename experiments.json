@@ -28436,6 +28436,21 @@
 			}
 		]
 	},
+	"b554e00d-9834-4c15-a5d7-4e2cb022cea4": {
+		"name": "dart_apacsupport_papanugcorewotore_holdout",
+		"v": 31576,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"b5557f22-d79e-4d6e-8f16-1d83d6a08262": {
 		"name": "android_integrity_gql_v2",
 		"v": 27274,
