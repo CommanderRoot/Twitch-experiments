@@ -28706,15 +28706,15 @@
 	},
 	"b71efbeb-f431-4bb3-9457-a722990dc61a": {
 		"name": "ios_ads_debug_viewability_script",
-		"v": 31553,
+		"v": 31597,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "active_v17.1"
 			}
 		]
