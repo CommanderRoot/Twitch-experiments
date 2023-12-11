@@ -6481,6 +6481,21 @@
 			}
 		]
 	},
+	"2a7092a2-104b-42c8-8fe5-3fbc605f731b": {
+		"name": "dart_annual_recap_2023_awareness_notification_d_holdout",
+		"v": 31588,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
+				"value": "allowed"
+			}
+		]
+	},
 	"2a90d5d9-47ba-47d5-9f92-4b12a7d62ae2": {
 		"name": "leftnav_recommended_promoted_streams",
 		"v": 17170,
