@@ -2753,6 +2753,21 @@
 			}
 		]
 	},
+	"1195ddc5-861d-4d86-b5b2-5e1562f62eb3": {
+		"name": "dart_annual_recap_2023_awareness_notification_a_holdout",
+		"v": 31590,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
+				"value": "allowed"
+			}
+		]
+	},
 	"11968a26-0088-47b9-bee3-b9f156926a94": {
 		"name": "dart_twitchconexciteit_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
 		"v": 21793,
@@ -25425,6 +25440,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"a2adca93-7bf2-4013-893d-6d334b324f92": {
+		"name": "dart_annual_recap_2023_awareness_notification_b_holdout",
+		"v": 31589,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
 				"value": "allowed"
 			}
 		]
