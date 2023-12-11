@@ -24680,7 +24680,7 @@
 	},
 	"9d97e0b9-f3f3-404e-9aaa-aeceb4706ab0": {
 		"name": "android_dropins",
-		"v": 31603,
+		"v": 31610,
 		"t": 2,
 		"groups": [
 			{
@@ -24694,10 +24694,6 @@
 			{
 				"weight": 100,
 				"value": "active_17.5"
-			},
-			{
-				"weight": 0,
-				"value": "active_17.5_delay_ftue"
 			}
 		]
 	},
@@ -32368,7 +32364,7 @@
 	},
 	"d1366fd5-0aa5-4e4b-95ef-d86d855a14e7": {
 		"name": "android_onechat_launch",
-		"v": 30212,
+		"v": 31611,
 		"t": 2,
 		"groups": [
 			{
@@ -32382,6 +32378,10 @@
 			{
 				"weight": 20,
 				"value": "active_16.4"
+			},
+			{
+				"weight": 0,
+				"value": "active_16.4_delay_ftue"
 			}
 		]
 	},
