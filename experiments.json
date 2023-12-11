@@ -25648,6 +25648,21 @@
 			}
 		]
 	},
+	"a4ef1d47-a0ac-4311-b799-ebf170364455": {
+		"name": "dart_annual_recap_2023_awareness_notification_c_holdout",
+		"v": 31591,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
+				"value": "allowed"
+			}
+		]
+	},
 	"a4fd6ed3-6483-43e0-b1c7-44709f96ca23": {
 		"name": "dart_apac_twn_hongbao_vwr_0_dav_trn_wch_gmg_email_2312_holdout",
 		"v": 25830,
