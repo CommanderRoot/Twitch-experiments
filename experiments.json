@@ -15670,15 +15670,15 @@
 	},
 	"65eba0a6-7173-4b84-b4b0-b537853535a3": {
 		"name": "ios_creator_stories_mentions",
-		"v": 30715,
+		"v": 31636,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "inactive"
 			}
 		]
@@ -20126,15 +20126,15 @@
 	},
 	"8070451d-e7a7-419e-832a-7108355a20d1": {
 		"name": "android_creator_stories_avatar",
-		"v": 31593,
+		"v": 31633,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_17.5"
 			}
 		]
@@ -34538,11 +34538,11 @@
 	},
 	"df68058b-f965-4373-b12b-0aae290ec22f": {
 		"name": "android_stories_reaction_names",
-		"v": 31435,
+		"v": 31635,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -34550,7 +34550,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_17.5"
 			}
 		]
@@ -36235,11 +36235,11 @@
 	},
 	"eacaea91-c2eb-430d-a4da-6d18a11c9e76": {
 		"name": "android_creator_stories_mentions",
-		"v": 31391,
+		"v": 31634,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -36247,7 +36247,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_17.5"
 			}
 		]
@@ -37495,15 +37495,15 @@
 	},
 	"f3c14a0d-dfbe-4758-bea8-8ea50f2b22df": {
 		"name": "ios_stories_avatar_entry",
-		"v": 31380,
+		"v": 31637,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
