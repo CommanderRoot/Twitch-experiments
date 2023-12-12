@@ -1154,6 +1154,21 @@
 			}
 		]
 	},
+	"06e038c2-65ea-4087-997b-37c6c3e2ca38": {
+		"name": "dart_adsupplyacceleratio_partners_holdout",
+		"v": 31616,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"06ec7fca-f08d-4363-83a1-22af509aba74": {
 		"name": "dart_welcomeheroimagetest2_vwr_464_dav_cmc_wch_mis_email_2108_email",
 		"v": 16517,
@@ -21777,6 +21792,21 @@
 	"8c643580-3484-41fc-9649-94f0ed16dc75": {
 		"name": "dart_apac_jpn_fightinggame_vwr_0_dav_trn_wch_gmg_email_2303_holdout",
 		"v": 26967,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"8c7874f9-fb85-4636-8307-5d07ee7bd27f": {
+		"name": "dart_adsupplyacceleratio_affiliates_holdout",
+		"v": 31615,
 		"t": 2,
 		"groups": [
 			{
