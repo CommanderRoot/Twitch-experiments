@@ -21910,6 +21910,25 @@
 			}
 		]
 	},
+	"8d06857b-b84f-4611-8cdf-3591776b209a": {
+		"name": "ios_user_control",
+		"v": 31613,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 33,
+				"value": "control"
+			},
+			{
+				"weight": 33,
+				"value": "group_A"
+			},
+			{
+				"weight": 33,
+				"value": "group_B"
+			}
+		]
+	},
 	"8d176471-2c0e-43d4-9d59-592bafab61c3": {
 		"name": "ios_use_twitch_ad_edge",
 		"v": 14758,
