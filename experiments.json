@@ -18645,16 +18645,16 @@
 	},
 	"777820e9-b5ac-4ff0-8430-232a64d78743": {
 		"name": "android_mdf_feature_flag",
-		"v": 31638,
+		"v": 31641,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 2,
+				"weight": 3,
 				"value": "active_15.9"
 			}
 		]
@@ -20720,16 +20720,16 @@
 	},
 	"84883eae-f43c-4fa4-80e5-f987e64d8571": {
 		"name": "ios_mdf_feature_flag_user",
-		"v": 31639,
+		"v": 31640,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 97,
+				"weight": 96,
 				"value": "control"
 			},
 			{
-				"weight": 3,
+				"weight": 4,
 				"value": "active_v15_9"
 			}
 		]
