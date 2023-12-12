@@ -18645,16 +18645,16 @@
 	},
 	"777820e9-b5ac-4ff0-8430-232a64d78743": {
 		"name": "android_mdf_feature_flag",
-		"v": 31641,
+		"v": 31646,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 97,
+				"weight": 96,
 				"value": "control"
 			},
 			{
-				"weight": 3,
+				"weight": 4,
 				"value": "active_15.9"
 			}
 		]
@@ -25278,15 +25278,15 @@
 	},
 	"a14e71de-3b2a-4bc0-9ec6-5eff437ce186": {
 		"name": "percolite_darklaunch_sidenav",
-		"v": 31643,
+		"v": 31645,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 999,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "variant"
 			}
 		]
