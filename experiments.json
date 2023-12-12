@@ -9300,15 +9300,15 @@
 	},
 	"3e41aa1b-b88e-40db-b567-5e3ac0d13234": {
 		"name": "ios_mdf_feature_flag_tab",
-		"v": 31518,
+		"v": 31628,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "feed_tab_eligible_v17.4"
 			},
 			{
@@ -9349,15 +9349,15 @@
 	},
 	"3ebc11ab-1baa-4c30-8a82-1f1c50e1c80d": {
 		"name": "android_mdf_feed_tab",
-		"v": 31522,
+		"v": 31627,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "feed_tab_eligible_v17.5"
 			},
 			{
