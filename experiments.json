@@ -21944,7 +21944,7 @@
 	},
 	"8d06857b-b84f-4611-8cdf-3591776b209a": {
 		"name": "ios_user_control",
-		"v": 31649,
+		"v": 31657,
 		"t": 2,
 		"groups": [
 			{
@@ -21953,11 +21953,11 @@
 			},
 			{
 				"weight": 33,
-				"value": "group_A"
+				"value": "treatment"
 			},
 			{
-				"weight": 33,
-				"value": "group_B"
+				"weight": 0,
+				"value": ""
 			}
 		]
 	},
