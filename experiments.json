@@ -32402,6 +32402,21 @@
 			}
 		]
 	},
+	"d10b5495-e503-4d37-bca4-b8402c9f1821": {
+		"name": "dart_sexualcontentpolicyonsite_holdout",
+		"v": 31673,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"d1323a53-8a0d-40dc-a1ab-df7bf7a11fe3": {
 		"name": "dart_streamtogethertest_sans_jpzhtw_onsite",
 		"v": 30472,
