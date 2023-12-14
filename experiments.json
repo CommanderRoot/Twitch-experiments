@@ -26737,6 +26737,21 @@
 			}
 		]
 	},
+	"aba7af85-8fa5-4df9-9855-0d8619880758": {
+		"name": "android_clear_cookies_on_logout",
+		"v": 31689,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_17.7"
+			}
+		]
+	},
 	"abb40f77-0f3e-4840-b089-71be83adad02": {
 		"name": "android_games_broadcast_stream_settings",
 		"v": 25140,
