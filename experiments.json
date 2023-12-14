@@ -29307,21 +29307,6 @@
 			}
 		]
 	},
-	"bae761c8-29d7-4c14-afee-936d04afe40b": {
-		"name": "android_mgst_logged_out_v2",
-		"v": 23825,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"bb0a266a-39a7-4b40-82c3-24ff8801b7eb": {
 		"name": "tvapps_androidtv_httpservice",
 		"v": 10174,
@@ -30097,21 +30082,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"c1d758e5-b4cb-46b0-84d3-7b8688c039cc": {
-		"name": "android_logged_out",
-		"v": 8721,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
