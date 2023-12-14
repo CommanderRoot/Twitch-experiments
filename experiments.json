@@ -7521,6 +7521,25 @@
 			}
 		]
 	},
+	"3192c7ac-afb9-4cf6-83a6-6abd4d4943dc": {
+		"name": "android_mdf_feed_tab_2",
+		"v": 31685,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "feed_tab_eligible_v17.6"
+			},
+			{
+				"weight": 0,
+				"value": "feed_tab_default_landing_v17.6"
+			}
+		]
+	},
 	"31953014-3979-47f0-b9bb-514dd139a377": {
 		"name": "android_mobile_shield_login_signup",
 		"v": 24922,
