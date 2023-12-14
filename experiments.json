@@ -37998,6 +37998,21 @@
 			}
 		]
 	},
+	"f718fd5c-60d9-490e-b8f9-9909ba745eeb": {
+		"name": "dart_moreemotesonsiteeng_duplicate_holdout",
+		"v": 31687,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 8,
+				"value": "holdout"
+			},
+			{
+				"weight": 92,
+				"value": "allowed"
+			}
+		]
+	},
 	"f71e2a10-4625-44fa-ab75-dddf8c7c0d41": {
 		"name": "ios_fix_pip_during_ads",
 		"v": 22687,
