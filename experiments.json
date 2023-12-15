@@ -35475,6 +35475,21 @@
 			}
 		]
 	},
+	"e552318e-ddf3-4925-a287-69dd0c458c48": {
+		"name": "dart_tw110reactivationemail1apaclatam_vwr_786_dav_cmc_wch_mis_email_2312_holdout",
+		"v": 31698,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"e559d41c-a6cf-498d-9a82-66cdae6ae81e": {
 		"name": "dart_merchaugptcams_vwr_784_cmm_cmc_buy_mis_onsite_229_holdout",
 		"v": 24429,
