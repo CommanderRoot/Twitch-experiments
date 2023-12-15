@@ -22630,6 +22630,21 @@
 			}
 		]
 	},
+	"900610a8-f245-45d6-935b-64344914366b": {
+		"name": "ios_clear_cookies_on_logout",
+		"v": 31707,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "disable_17.7"
+			}
+		]
+	},
 	"906bbb42-aa11-4003-95b2-127f3a0c4060": {
 		"name": "dart_augustpatchnotes_ctr_1079_awa_cmc_lrn_mis_email_2308_email",
 		"v": 29431,
@@ -26829,16 +26844,16 @@
 	},
 	"aba7af85-8fa5-4df9-9855-0d8619880758": {
 		"name": "android_clear_cookies_on_logout",
-		"v": 31689,
+		"v": 31708,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
-				"value": "active_17.7"
+				"weight": 0,
+				"value": "disable_17.7"
 			}
 		]
 	},
