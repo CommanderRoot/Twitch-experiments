@@ -21445,6 +21445,21 @@
 			}
 		]
 	},
+	"8a62e283-b16a-4345-9228-44835ff581cc": {
+		"name": "dart_jp110reactivationemail1apaclatam_vwr_786_dav_cmc_wch_mis_email_2312_holdout",
+		"v": 31697,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"8a71c6de-04bc-46f4-9318-c81326130ff4": {
 		"name": "dart_adlastchancenov_ctr_937_awa_cmc_non_mis_2301_holdout",
 		"v": 26546,
