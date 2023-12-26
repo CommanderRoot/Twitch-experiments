@@ -13230,6 +13230,21 @@
 			}
 		]
 	},
+	"55dcea48-9bc6-4e6d-84b4-28367d0692f3": {
+		"name": "dart_merchholidaycampaigndec27_holdout",
+		"v": 31730,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"55e24c37-5368-44ef-acb0-2a7e1b93097c": {
 		"name": "dart_tc_ticketsaleslm_onsite_community_ctr_na_awa_cmc_buy_mis_onsite_2207_holdout",
 		"v": 21881,
