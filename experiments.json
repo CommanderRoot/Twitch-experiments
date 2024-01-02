@@ -8150,25 +8150,6 @@
 			}
 		]
 	},
-	"3580ae45-6c7a-4e9f-b1ee-eacb685e176a": {
-		"name": "android_annual_recaps_2022",
-		"v": 26320,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_14.3.1"
-			},
-			{
-				"weight": 0,
-				"value": "active_14.2"
-			}
-		]
-	},
 	"3582317b-37f1-4b8d-be77-cdce3710504c": {
 		"name": "ios_ivs_analytics_override",
 		"v": 26933,
@@ -9650,21 +9631,6 @@
 			{
 				"weight": 0,
 				"value": "active_17.4"
-			}
-		]
-	},
-	"40745c6f-bec1-4c90-bb26-79cc10730ab4": {
-		"name": "ios_rec_22",
-		"v": 25932,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
@@ -11262,21 +11228,6 @@
 			},
 			{
 				"weight": 50,
-				"value": "active"
-			}
-		]
-	},
-	"49981bdf-24e1-4400-8619-2283a03f2322": {
-		"name": "ios_rec_22_2",
-		"v": 25931,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
 				"value": "active"
 			}
 		]
