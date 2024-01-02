@@ -21237,12 +21237,16 @@
 	},
 	"885221bd-1e5d-46b5-b99a-4441cf3f6d52": {
 		"name": "android_stories_interactive_photo",
-		"v": 31758,
+		"v": 31759,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
