@@ -29808,15 +29808,15 @@
 	},
 	"bddf1778-49ca-4785-aa62-8f8e1fb545e4": {
 		"name": "ios_stories_reaction_names",
-		"v": 31184,
+		"v": 31752,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
