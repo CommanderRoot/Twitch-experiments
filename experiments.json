@@ -7523,7 +7523,7 @@
 	},
 	"3192c7ac-afb9-4cf6-83a6-6abd4d4943dc": {
 		"name": "android_mdf_feed_tab_2",
-		"v": 31685,
+		"v": 31750,
 		"t": 2,
 		"groups": [
 			{
@@ -7532,11 +7532,11 @@
 			},
 			{
 				"weight": 100,
-				"value": "feed_tab_eligible_v17.6"
+				"value": "feed_tab_eligible_v17.7"
 			},
 			{
 				"weight": 0,
-				"value": "feed_tab_default_landing_v17.6"
+				"value": "feed_tab_default_landing_v17.7"
 			}
 		]
 	},
@@ -13164,7 +13164,7 @@
 	},
 	"54f21d6c-0c26-4c53-9b0e-fd9b20283258": {
 		"name": "android_npa_gridmanager",
-		"v": 31704,
+		"v": 31751,
 		"t": 1,
 		"groups": [
 			{
@@ -13173,7 +13173,7 @@
 			},
 			{
 				"weight": 1,
-				"value": "active_17.6"
+				"value": "active_17.7"
 			}
 		]
 	},
