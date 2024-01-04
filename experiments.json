@@ -14077,12 +14077,12 @@
 	},
 	"5c509ab4-d431-4e6b-b30c-8a03c03a0d52": {
 		"name": "android_kmp_chat",
-		"v": 31767,
+		"v": 31781,
 		"t": 1,
 		"s": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -14094,7 +14094,7 @@
 				"value": "active_17.6"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_17.7"
 			}
 		]
@@ -32970,11 +32970,11 @@
 	},
 	"d4490bb6-382c-4a80-9bd5-0a18e5267543": {
 		"name": "android_kmp_chat_events",
-		"v": 31571,
+		"v": 31782,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 999,
 				"value": "control"
 			},
 			{
@@ -32982,7 +32982,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_17.6"
 			}
 		]
