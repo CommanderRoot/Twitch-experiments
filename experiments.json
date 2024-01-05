@@ -14077,12 +14077,12 @@
 	},
 	"5c509ab4-d431-4e6b-b30c-8a03c03a0d52": {
 		"name": "android_kmp_chat",
-		"v": 31781,
+		"v": 31838,
 		"t": 1,
 		"s": 3,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -14094,7 +14094,7 @@
 				"value": "active_17.6"
 			},
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "active_17.7"
 			}
 		]
@@ -16392,7 +16392,7 @@
 	},
 	"6a4c75ac-9f12-4beb-9849-b3ee90b78019": {
 		"name": "android_kmp_chat_models",
-		"v": 31198,
+		"v": 31837,
 		"t": 1,
 		"groups": [
 			{
@@ -16402,6 +16402,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_17.8"
 			}
 		]
 	},
