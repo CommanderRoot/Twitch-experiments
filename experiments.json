@@ -35060,6 +35060,21 @@
 			}
 		]
 	},
+	"e1d0874f-ec59-47e4-bffa-5abb697d162d": {
+		"name": "android_player_setsurface_fix",
+		"v": 31842,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"e1d7346e-4c78-485f-abdf-24add8a943b2": {
 		"name": "dart_cold_d14_top_games_vwr_0_dav_cmc_wch_mis_email_2011_holdout",
 		"v": 12675,
@@ -36267,6 +36282,21 @@
 			{
 				"weight": 0,
 				"value": "post-15.3"
+			}
+		]
+	},
+	"ea293391-5cbb-4710-9b6d-1f0893bd6ea5": {
+		"name": "ios_player_setsurface_fix",
+		"v": 31843,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
