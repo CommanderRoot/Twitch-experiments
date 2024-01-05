@@ -7743,6 +7743,25 @@
 			}
 		]
 	},
+	"32881f61-c79e-480a-89a9-853b85c5c1fc": {
+		"name": "android_meow_subs",
+		"v": 31840,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "full_screen_active_dev"
+			},
+			{
+				"weight": 0,
+				"value": "half_screen_active_dev"
+			}
+		]
+	},
 	"32bd3b7d-d9e4-4175-af97-5932ac84215d": {
 		"name": "ios_riddle_staff_beta",
 		"v": 17414,
