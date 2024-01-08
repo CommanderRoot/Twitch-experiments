@@ -10994,15 +10994,15 @@
 	},
 	"47543f55-6524-4f3a-a241-017bcd97fa16": {
 		"name": "ivs_player_whole_probe",
-		"v": 31794,
+		"v": 31854,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
