@@ -24563,6 +24563,25 @@
 			}
 		]
 	},
+	"9b2da518-fcf7-4ca6-9bcd-6a55addb7c30": {
+		"name": "ios_meow_subs",
+		"v": 31862,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "full_screen"
+			},
+			{
+				"weight": 0,
+				"value": "half_screen"
+			}
+		]
+	},
 	"9b32daaf-2b84-4ebb-8a51-515670c26198": {
 		"name": "android_creator_stories_old",
 		"v": 29801,
