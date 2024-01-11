@@ -15273,6 +15273,21 @@
 			}
 		]
 	},
+	"62b74d2e-2e42-411d-ae39-964913780e0f": {
+		"name": "android_stories_portrait_clips",
+		"v": 31889,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"630906bf-84b3-46ef-a0c4-c79807ecce37": {
 		"name": "android_update_prompt_rollout",
 		"v": 22432,
