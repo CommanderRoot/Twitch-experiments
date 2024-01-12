@@ -17741,15 +17741,15 @@
 	},
 	"72166884-7c72-42c3-8227-29372d089073": {
 		"name": "ios_ivs_player_edge_prewarm",
-		"v": 31020,
+		"v": 31905,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -21459,15 +21459,15 @@
 	},
 	"896d31fc-aa35-4a71-9729-f5e484559264": {
 		"name": "android_ivs_player_edge_prewarm",
-		"v": 31021,
+		"v": 31904,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -32649,7 +32649,7 @@
 	},
 	"d16629fa-a0bf-4a2a-b490-c1f92af05009": {
 		"name": "mobile_native_web_player_av1",
-		"v": 31606,
+		"v": 31903,
 		"t": 1,
 		"groups": [
 			{
@@ -32662,7 +32662,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "force"
+				"value": "forceOn"
 			}
 		]
 	},
@@ -37924,15 +37924,15 @@
 	},
 	"f4e543a6-91fc-4c93-81a2-ae27e616a641": {
 		"name": "player_core_edge_prewarm",
-		"v": 30231,
+		"v": 31902,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
