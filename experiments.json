@@ -14607,11 +14607,11 @@
 	},
 	"5ed8c9a1-1662-450c-9e0c-de29993f41a8": {
 		"name": "android_turbo",
-		"v": 31757,
+		"v": 31924,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -14619,7 +14619,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_17.8"
 			}
 		]
