@@ -1201,15 +1201,15 @@
 	},
 	"076af520-5b70-4249-8f25-3d500fdb9c85": {
 		"name": "android_squad_streaming",
-		"v": 19859,
+		"v": 31931,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -11367,15 +11367,15 @@
 	},
 	"49fc6817-ba19-4a19-b7a6-c87ab7234eb3": {
 		"name": "ios_squad_streaming",
-		"v": 6204,
+		"v": 31932,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v7.6"
 			}
 		]
