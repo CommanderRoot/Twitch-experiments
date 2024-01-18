@@ -33832,7 +33832,7 @@
 	},
 	"d8be23c0-e075-4b74-ab58-f0b5288025c8": {
 		"name": "ios_ads_dma_consent",
-		"v": 31948,
+		"v": 31956,
 		"t": 1,
 		"groups": [
 			{
@@ -33844,7 +33844,7 @@
 				"value": "active_debug"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v18.0"
 			}
 		]
