@@ -5535,21 +5535,6 @@
 			}
 		]
 	},
-	"23b0ddf1-92ca-4cc3-9fa7-800e2aec956d": {
-		"name": "dart_commercenonspender_vwr_960_sbs_cmc_sub_mis_email_2303_holdout",
-		"v": 26899,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "holdout"
-			},
-			{
-				"weight": 50,
-				"value": "allowed"
-			}
-		]
-	},
 	"23d2a682-3e96-4bfe-ac47-0b66f7ca7b27": {
 		"name": "android_predictions_spectator_mode",
 		"v": 14047,
