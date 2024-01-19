@@ -8714,21 +8714,6 @@
 			}
 		]
 	},
-	"39546218-575b-4ab9-93ee-65727cd1b794": {
-		"name": "dart_dropsglobal_vwr_dav_031023_holdout",
-		"v": 26905,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "holdout"
-			},
-			{
-				"weight": 50,
-				"value": "allowed"
-			}
-		]
-	},
 	"39a78eae-7b21-4ff8-8c27-d8353e7531d4": {
 		"name": "dads_use_twitch_raids",
 		"v": 29672,
@@ -12516,21 +12501,6 @@
 			{
 				"weight": 100,
 				"value": "active_13.4"
-			}
-		]
-	},
-	"50e8013e-9bff-4e81-941f-676786417754": {
-		"name": "dart_community_meetups_la_2023_holdout",
-		"v": 29750,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -31543,21 +31513,6 @@
 	"c9a40b91-4b79-4f34-ba4c-13ee994e4d54": {
 		"name": "dart_apac_aus_ausgiftcardprimeday_ctr_0_dav_trn_wch_gmg_onsite_2206_holdout",
 		"v": 21675,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"c9c9d418-bd69-42af-b9a6-635e372cf589": {
-		"name": "dart_community_meetups_seattle_rsvp_holdout",
-		"v": 29601,
 		"t": 2,
 		"groups": [
 			{
