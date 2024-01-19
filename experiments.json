@@ -18936,25 +18936,6 @@
 			}
 		]
 	},
-	"7956b768-c812-4de2-afca-ca9571719c62": {
-		"name": "dart_d60frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_email",
-		"v": 22354,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "Variant A"
-			},
-			{
-				"weight": 0,
-				"value": "Variant B"
-			},
-			{
-				"weight": 100,
-				"value": "Variant C"
-			}
-		]
-	},
 	"795a7d0d-8602-4491-ae13-269d07a09417": {
 		"name": "ios_recap_23",
 		"v": 31775,
@@ -39085,21 +39066,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"fce07bdc-522f-43ca-a870-dd3c7b9430c7": {
-		"name": "dart_d60frozenjourney_vwr_662_dav_cmc_wch_mis_email_2202_holdout",
-		"v": 22353,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
