@@ -1528,21 +1528,6 @@
 			}
 		]
 	},
-	"09cb7414-9522-4715-b18c-0b06bf0f0e4c": {
-		"name": "dart_pilot_jp_policy_harassment_research_final_excluded_email",
-		"v": 29245,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"09cea69f-96f8-48ad-90fe-547dc3fe97a0": {
 		"name": "android_extensions_entry_point",
 		"v": 6382,
@@ -2141,21 +2126,6 @@
 			{
 				"weight": 100,
 				"value": "track"
-			}
-		]
-	},
-	"0d65b016-7337-4d8a-8658-8056398eb775": {
-		"name": "dart_supermarioviewersemail_ctr_943_awa_cmc_irn_gmg_email_233_holdout",
-		"v": 26740,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
@@ -4900,7 +4870,7 @@
 	},
 	"20165127-bf25-4f34-81df-caf0d3241301": {
 		"name": "ios_ads_dsa_audio",
-		"v": 30945,
+		"v": 31995,
 		"t": 1,
 		"groups": [
 			{
@@ -7856,21 +7826,6 @@
 			}
 		]
 	},
-	"33b188e4-c088-4f3c-8a87-f9cc5a7957d8": {
-		"name": "dart_pilot_en_policy_harassment_research_duplicate_email",
-		"v": 28857,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"33ee86c0-afec-4953-86ed-e75d70354d7d": {
 		"name": "following_service_fulton",
 		"v": 12415,
@@ -10714,21 +10669,6 @@
 			}
 		]
 	},
-	"45cceb9d-53c0-47ac-bb58-d7efd70d98b2": {
-		"name": "dart_ocactivitysumtest_vwr_849_dav_cmc_wch_mis_email_2211_holdout",
-		"v": 25312,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "holdout"
-			},
-			{
-				"weight": 50,
-				"value": "allowed"
-			}
-		]
-	},
 	"45d5d88a-5b6f-4053-a769-520d567d6b5d": {
 		"name": "dart_ban_user_email",
 		"v": 31632,
@@ -13326,7 +13266,7 @@
 	},
 	"575c370c-5077-4d70-a570-362fa0e16933": {
 		"name": "ios_ads_dsa_display_sda",
-		"v": 30944,
+		"v": 31994,
 		"t": 1,
 		"groups": [
 			{
@@ -17948,7 +17888,7 @@
 	},
 	"734c1a50-c1de-4f7e-add7-60ef3b30f307": {
 		"name": "ios_ads_dsa_display_browse",
-		"v": 30946,
+		"v": 31993,
 		"t": 1,
 		"groups": [
 			{
@@ -28767,21 +28707,6 @@
 			}
 		]
 	},
-	"b639c97b-eab7-48c1-b65d-3c5d20ddd97e": {
-		"name": "dart_preaffiliate_ctr_904_awa_cmc_str_mis_email_2212_duplicate_holdout",
-		"v": 25972,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "holdout"
-			},
-			{
-				"weight": 50,
-				"value": "allowed"
-			}
-		]
-	},
 	"b691208a-1e25-4c51-8be6-76d9ed0f0e43": {
 		"name": "android_raid_now",
 		"v": 9145,
@@ -36261,7 +36186,7 @@
 	},
 	"ea2c05f3-faad-44e2-bad5-6ad3726a2398": {
 		"name": "ios_ads_dsa_video",
-		"v": 30947,
+		"v": 31992,
 		"t": 1,
 		"s": 1,
 		"groups": [
@@ -39532,21 +39457,6 @@
 			{
 				"weight": 94,
 				"value": "allowed"
-			}
-		]
-	},
-	"fe91b676-11df-44e0-aab9-d23989276275": {
-		"name": "dart_pilot_jp_policy_harassment_research_final_email",
-		"v": 28855,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
