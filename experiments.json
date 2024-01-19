@@ -19732,7 +19732,7 @@
 	},
 	"7d10a0ec-01d2-4624-9e56-49445abde552": {
 		"name": "android_ads_dsa_audio",
-		"v": 30888,
+		"v": 31968,
 		"t": 1,
 		"groups": [
 			{
@@ -19741,7 +19741,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_18.0"
 			}
 		]
 	},
@@ -27429,7 +27429,7 @@
 	},
 	"ae9c05d7-163f-455d-92e0-2e51bcc32a37": {
 		"name": "android_ads_dsa_video",
-		"v": 30885,
+		"v": 31964,
 		"t": 1,
 		"groups": [
 			{
@@ -27438,7 +27438,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_18.0"
 			}
 		]
 	},
@@ -29351,7 +29351,7 @@
 	},
 	"ba08ece9-91a7-4894-a1cd-0722dcb9054b": {
 		"name": "android_ads_dsa_bda",
-		"v": 30886,
+		"v": 31965,
 		"t": 1,
 		"groups": [
 			{
@@ -29360,7 +29360,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_18.0"
 			}
 		]
 	},
@@ -31160,7 +31160,7 @@
 	},
 	"c745cd00-7786-4abf-b049-691c18e28c6e": {
 		"name": "android_ads_dsa_sda_left_third",
-		"v": 30884,
+		"v": 31963,
 		"t": 1,
 		"groups": [
 			{
@@ -31169,7 +31169,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_18.0"
 			}
 		]
 	},
@@ -36639,7 +36639,7 @@
 	},
 	"eba1994d-deb2-4613-9437-5a9c237a6248": {
 		"name": "android_ads_dma_consent",
-		"v": 30580,
+		"v": 31967,
 		"t": 1,
 		"groups": [
 			{
@@ -36649,6 +36649,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_18.0"
 			}
 		]
 	},
@@ -37231,7 +37235,7 @@
 	},
 	"eee7e98c-b59a-405a-9d9f-5a3d6ec8c91a": {
 		"name": "android_ads_dsa_sda_banner",
-		"v": 30887,
+		"v": 31966,
 		"t": 1,
 		"groups": [
 			{
@@ -37240,7 +37244,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_18.0"
 			}
 		]
 	},
