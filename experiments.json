@@ -26873,21 +26873,6 @@
 			}
 		]
 	},
-	"ab9a0d46-90b9-4e31-b033-fa1e0a2a9db9": {
-		"name": "dart_pilot_fr_policy_harassment_research_final_excluded_email",
-		"v": 29246,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
-			}
-		]
-	},
 	"aba2b33e-351b-486e-b94f-97457f34d76f": {
 		"name": "dart_frenchbrandwelcome2_vwr_615_awa_cmc_lrn_mis_email_2112_holdout",
 		"v": 18692,
@@ -37852,21 +37837,6 @@
 			{
 				"weight": 1,
 				"value": "active_16.9"
-			}
-		]
-	},
-	"f4aeee2f-211c-4788-91da-c887fade0f5b": {
-		"name": "dart_pilot_fr_policy_harassment_research_final_email",
-		"v": 28856,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
