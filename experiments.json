@@ -14707,25 +14707,6 @@
 			}
 		]
 	},
-	"5fab04c8-ba88-4156-abc9-4c42910d03f7": {
-		"name": "dart_fivempactionfollowup_vwr_905_flw_cmc_flw_mis_email_2303_email",
-		"v": 26843,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 34,
-				"value": "Variant A"
-			},
-			{
-				"weight": 33,
-				"value": "Variant B"
-			},
-			{
-				"weight": 33,
-				"value": "Variant C"
-			}
-		]
-	},
 	"5fb205d5-f58f-4c04-bf66-38e825aa15ef": {
 		"name": "dart_aiplastchanceupdate_912_cmm_cmc_sup_mis_eo_234_duplicate_holdout",
 		"v": 27329,
@@ -23569,21 +23550,6 @@
 			},
 			{
 				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"963997c4-d739-45d0-9781-5380315240b3": {
-		"name": "dart_infreqactivitysumtest_vwr_849_dav_cmc_wch_mis_email_2211_holdout",
-		"v": 25311,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "holdout"
-			},
-			{
-				"weight": 50,
 				"value": "allowed"
 			}
 		]
@@ -39399,21 +39365,6 @@
 			},
 			{
 				"weight": 80,
-				"value": "allowed"
-			}
-		]
-	},
-	"fdd5a764-61f0-498b-a0cb-ac47d9d0669f": {
-		"name": "dart_fivempactionfollowup_vwr_905_flw_cmc_flw_mis_email_2303_holdout",
-		"v": 26842,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
 				"value": "allowed"
 			}
 		]
