@@ -33396,16 +33396,16 @@
 	},
 	"d76d40ab-1eec-471f-b48a-fdaba9ffb0fb": {
 		"name": "ios_ivs_player_low_latency",
-		"v": 31525,
+		"v": 32033,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active"
 			}
 		]
