@@ -6948,15 +6948,15 @@
 	},
 	"2e2e5d0e-0e56-4cd0-bf98-5380fbfc1ddd": {
 		"name": "android_stories_background_picker",
-		"v": 31777,
+		"v": 32067,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_17.8"
 			}
 		]
@@ -39558,15 +39558,15 @@
 	},
 	"ff560c4b-350a-4c48-81d4-b84299a94679": {
 		"name": "ios_stories_canvas_background_selector",
-		"v": 31761,
+		"v": 32066,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
