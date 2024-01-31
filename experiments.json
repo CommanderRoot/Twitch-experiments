@@ -32689,7 +32689,7 @@
 	},
 	"d307a435-85ef-447a-8b56-ea3e4a43fbe0": {
 		"name": "ios_mdf_ivs_initial_buffer_duration",
-		"v": 32170,
+		"v": 32178,
 		"t": 2,
 		"groups": [
 			{
@@ -32697,8 +32697,32 @@
 				"value": "control"
 			},
 			{
+				"weight": 0,
+				"value": "0.1"
+			},
+			{
 				"weight": 100,
 				"value": "0.3"
+			},
+			{
+				"weight": 0,
+				"value": "1.0"
+			},
+			{
+				"weight": 0,
+				"value": "2.0"
+			},
+			{
+				"weight": 0,
+				"value": "3.0"
+			},
+			{
+				"weight": 0,
+				"value": "4.0"
+			},
+			{
+				"weight": 0,
+				"value": "5.0"
 			}
 		]
 	},
