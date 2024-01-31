@@ -32672,6 +32672,21 @@
 			}
 		]
 	},
+	"d307a435-85ef-447a-8b56-ea3e4a43fbe0": {
+		"name": "ios_mdf_ivs_initial_buffer_duration",
+		"v": 32170,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "0.3"
+			}
+		]
+	},
 	"d34ca028-9767-4259-a35b-ca81d7d480ca": {
 		"name": "dart_pubgxmasrivalsevent_vwr_891_dav_cmc_wch_gmg_push_2212_holdout",
 		"v": 25639,
