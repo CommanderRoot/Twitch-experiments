@@ -3118,11 +3118,11 @@
 	},
 	"141cdef8-d854-45f3-a1f1-3dc75b288eae": {
 		"name": "android_double_phone_verification",
-		"v": 31912,
+		"v": 32179,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -3130,7 +3130,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_17.7"
 			}
 		]
