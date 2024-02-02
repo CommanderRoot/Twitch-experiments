@@ -10399,6 +10399,21 @@
 			}
 		]
 	},
+	"440834bd-b90f-479a-ae2d-ea8753db641a": {
+		"name": "dart_d60frozenjourney_vwr_662_dav_cmc_wch_mis_email_2402_email",
+		"v": 32205,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"443eae08-3a9b-4e7e-a540-aa39a4c5c714": {
 		"name": "ios_playercore_15.9.2",
 		"v": 29541,
@@ -37562,6 +37577,21 @@
 			{
 				"weight": 0,
 				"value": "active_10.7_mic_volume_only"
+			}
+		]
+	},
+	"f1e8a242-c93d-4cbb-9124-1f87b253cc36": {
+		"name": "dart_d60frozenjourney_vwr_662_dav_cmc_wch_mis_email_2402_holdout",
+		"v": 32204,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
