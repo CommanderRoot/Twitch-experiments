@@ -32186,6 +32186,21 @@
 			}
 		]
 	},
+	"ceac5ff8-3cfa-4a7f-bb1c-17f5953b4559": {
+		"name": "ios_firefly",
+		"v": 32206,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"cef8768a-6e62-491b-9a81-1892e0633861": {
 		"name": "android_truffle_hunt",
 		"v": 9151,
