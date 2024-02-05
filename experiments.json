@@ -4896,19 +4896,15 @@
 	},
 	"20165127-bf25-4f34-81df-caf0d3241301": {
 		"name": "ios_ads_dsa_audio",
-		"v": 32006,
+		"v": 32229,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v18.0"
 			}
 		]
@@ -17998,19 +17994,15 @@
 	},
 	"734c1a50-c1de-4f7e-add7-60ef3b30f307": {
 		"name": "ios_ads_dsa_display_browse",
-		"v": 32007,
+		"v": 32231,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v18.0"
 			}
 		]
@@ -36324,20 +36316,16 @@
 	},
 	"ea2c05f3-faad-44e2-bad5-6ad3726a2398": {
 		"name": "ios_ads_dsa_video",
-		"v": 32005,
+		"v": 32230,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v18.0"
 			}
 		]
