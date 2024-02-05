@@ -6723,6 +6723,21 @@
 			}
 		]
 	},
+	"2bd841e0-b1ab-4ce2-bea9-ea757db140e3": {
+		"name": "android_native_pubsub_beta_users",
+		"v": 32213,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_18.2"
+			}
+		]
+	},
 	"2c03c1b9-3562-4381-913f-6c282cb646f3": {
 		"name": "ios_fmp_tracking",
 		"v": 19980,
@@ -19966,7 +19981,7 @@
 	},
 	"7e935b89-056a-40ab-a3f5-0bed4370517b": {
 		"name": "android_pubsub_client_rollout",
-		"v": 31054,
+		"v": 32214,
 		"t": 1,
 		"groups": [
 			{
@@ -19975,7 +19990,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_18.2"
 			}
 		]
 	},
