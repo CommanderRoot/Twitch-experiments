@@ -26450,6 +26450,21 @@
 			}
 		]
 	},
+	"a8b1aec9-32db-4630-8013-73531be4bbfc": {
+		"name": "ios_mdf_filter_live_by_follows",
+		"v": 32212,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"a90acb7d-90d8-4fbe-a6b0-b7da31465e2d": {
 		"name": "android_non_fatal_sampling",
 		"v": 12372,
