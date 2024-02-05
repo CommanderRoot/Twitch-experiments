@@ -37250,7 +37250,7 @@
 	},
 	"efa628c0-7ae8-479c-83ec-7691362570ee": {
 		"name": "android_stories_in_app_camera",
-		"v": 32135,
+		"v": 32210,
 		"t": 2,
 		"groups": [
 			{
@@ -37264,6 +37264,10 @@
 			{
 				"weight": 0,
 				"value": "active_18.1_low_latency_mode"
+			},
+			{
+				"weight": 0,
+				"value": "active_18.2"
 			}
 		]
 	},
