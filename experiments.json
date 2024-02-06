@@ -39084,15 +39084,15 @@
 	},
 	"fbf3f83c-26fb-4b29-a29e-0be8549d757b": {
 		"name": "android_remote_logout",
-		"v": 32103,
+		"v": 32265,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_18.1"
 			}
 		]
