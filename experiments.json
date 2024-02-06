@@ -23471,15 +23471,15 @@
 	},
 	"9523b371-c992-464a-bb50-6bad5774632c": {
 		"name": "ios_ads_transparency_info_vast_parse",
-		"v": 31546,
+		"v": 32262,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v17.6"
 			}
 		]
