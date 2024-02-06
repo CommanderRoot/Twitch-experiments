@@ -8457,16 +8457,16 @@
 	},
 	"37306ad9-9cc0-48dc-aeda-d22d1586a074": {
 		"name": "android_hilt_settings",
-		"v": 32173,
+		"v": 32271,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_development"
+				"weight": 50,
+				"value": "active_18.3"
 			}
 		]
 	},
