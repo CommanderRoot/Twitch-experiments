@@ -11753,12 +11753,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 32209,
+		"v": 32246,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-323527.pdx01.abs.hls.ttvnw.net/v1/segment/Cpj_2gv5wlRahk-AjoSYmBj5_q-l8jffXnbXwBIZHEWrw5PkqQwyTVWUt0sAXkJ5TQ7CDaEI25ixrSk5u3ZIbB_hXpKkBqzGyYd9vgH24WKOW0u3rE429vUe_v1AsCNnp7To0UIaMGLc8zrnFL8x3vqyVzb81Z475Q7nTmBZvN8s4J8jxJbvkg-_9OQ0XRFVZWHTyvMF2pKlufKKVryAwOA0cZmV3gyhvP09Y77RwR-Aat4RUTBrDgus98LOUTJZswPhyHPE1OOXXPKdWW5p-7tWVHRoVKC0_1qrn_Upc3bM784DGnknNcdAYNzIMPGklk7N2XDD1FJ1GFmqpziTscoyAT26xluUAU2mWJgebQQBHmAH4xL_HKRjf7El87vu4akuPbiQpa94k-F6S3S_tNHKRtSCu4lqQQGaVprjZlfhyoVE80pLKazZ6yf1BSuhAOsx2KZzcNbMrNfGK_W-IVoKnX-trWYdeV-LiXqubetzDPlUG_5iTMBu1YkTSdJMQkmWpwDI7rDDr_NhXjY7ZmoPw8e_ww4XulJN2Vobh4pde016URpg9z1JDQnSh9lEK-6JeCU-SrTFGEEK8zN5lRIYPj7mIUIQjTZFHHMFKOO6nFl84mdg_bS2EXIimqftLWF7QjEbROZTKb_rRyVPZU5E6k3-nvWcd1W4eheQ_8KAfygMVQFGsEnWMTb8DyAnPA8FuGMzsV4Dkh477EjZbBNxXoa96f_wAUdu-wLhxvGhWZk-agcEJlsLAHDuGhKpeu-46SzQ5-phIN.ts"
+				"value": "//video-edge-9fc42b.pdx01.abs.hls.ttvnw.net/v1/segment/Cr8uy8X0-7I0T7m_FqWvJpfzxjq81IyrO8Oe0_r4MfgRc_OGsb1mBjAF2E0o_zBJkwrr2rXGp8lyFcRmCmPLEPf6dM64LH4euEnViB_NbYe0F11x4_hBBmkDR3JrcYgm2ezYVDUXX1qKYOYV6eHjxNHlZUwzdQIHQDCinqhndLMaUoR30Bc5Tcjb5FOHa4SpGdPIlAIi6iC2UwahfUKHk24L_AkhjnJezZiPG62cr7jol2bcQ-Jj-FMpXrPYUlUKTyCEKfSjWii3YOERnbKNDaZuEPe479cJ3tc1V0uVhyGsFnsFhC2JVIZiexMq3kFyjk6yEye-MClMw0uzeFrEVROIHCE4_ebIFPrujIfWutT1TZ7dfdtzmU2eNroC4ZREE1FDOmPppfI48BJ2Sy7k18Clnrhq2FZyOX6CSAFSX_PMLGfd36AGGGxigRZMfhg-UiOEE-f04Bh2sD7o4Yk_iWjfOz-tqWCaitPBo68ECbi4jEJdsDavXJeosXUcYUM3QJzcQj0RAfyDJVYB6p0Y-GLZ1z7gfUfpE_am4Ek7JkLhsj_1h6MDH1GK6N4X4Z86ISd5dtrrYk1PWQ8GNDMxAsA0di7jp_kLEDif8yg9OqpsMQBByvQlkTDQ6tA6COlZhTSsTyRi0vkewQ9TDoJ6vuoZ-TC3ry-76_IIFU6e1V43MD8_ZGG_-syhidVppJFM210KCeBmwKdybBf8Wv-dIbUs-5f6HzhydfOhPUpMJ4y3e19Jq1Cq1.ts"
 			}
 		]
 	},
@@ -13334,11 +13334,11 @@
 	},
 	"56c63746-3413-449e-86ad-6d8f8317fd59": {
 		"name": "android_pogcheer_viewer",
-		"v": 28718,
+		"v": 32244,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -13346,7 +13346,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_15.6"
 			}
 		]
@@ -26797,15 +26797,15 @@
 	},
 	"ab79d3b7-2881-4c97-be08-b98f1cc4a074": {
 		"name": "ios_paid_pinnedchat",
-		"v": 28719,
+		"v": 32245,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_15.6"
 			}
 		]
