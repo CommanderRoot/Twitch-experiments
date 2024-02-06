@@ -13727,6 +13727,21 @@
 			}
 		]
 	},
+	"59032eb0-33fe-42ef-9177-884b645ec794": {
+		"name": "android_sdk_pubsub_wrapper",
+		"v": 32248,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_18.3"
+			}
+		]
+	},
 	"5920812d-eeea-4f60-86be-0e8409cd2fa2": {
 		"name": "ios_context_menus",
 		"v": 20469,
