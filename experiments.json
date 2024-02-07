@@ -4900,15 +4900,15 @@
 	},
 	"20165127-bf25-4f34-81df-caf0d3241301": {
 		"name": "ios_ads_dsa_audio",
-		"v": 32292,
+		"v": 32311,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_v18.0"
 			}
 		]
@@ -18040,15 +18040,15 @@
 	},
 	"734c1a50-c1de-4f7e-add7-60ef3b30f307": {
 		"name": "ios_ads_dsa_display_browse",
-		"v": 32293,
+		"v": 32312,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_v18.0"
 			}
 		]
@@ -36377,16 +36377,16 @@
 	},
 	"ea2c05f3-faad-44e2-bad5-6ad3726a2398": {
 		"name": "ios_ads_dsa_video",
-		"v": 32294,
+		"v": 32313,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_v18.0"
 			}
 		]
