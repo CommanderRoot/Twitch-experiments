@@ -7335,15 +7335,15 @@
 	},
 	"3067a796-9ce9-4fb6-8d01-418b7a39bd15": {
 		"name": "dart_firststream1_experiment_ctr_1002_awa_cmc_lrn_mis_email_2305_holdout",
-		"v": 29234,
+		"v": 32302,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 5,
 				"value": "holdout"
 			},
 			{
-				"weight": 80,
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -10728,15 +10728,15 @@
 	},
 	"45aa90be-962e-41d1-be5c-9037299d7dc0": {
 		"name": "dart_firststream1_experiment_ctr_1002_awa_cmc_lrn_mis_email_2305_email",
-		"v": 29235,
+		"v": 32303,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "Variant A"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "Variant B"
 			}
 		]
