@@ -531,15 +531,15 @@
 	},
 	"038a8520-6a9a-44eb-a745-1c3e960c4211": {
 		"name": "pepper_3ds_global",
-		"v": 32241,
+		"v": 32336,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -13778,15 +13778,15 @@
 	},
 	"595dd8f8-3dec-4f12-a193-eb0bceeb1d86": {
 		"name": "pepper_3ds_us",
-		"v": 32242,
+		"v": 32335,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -17689,16 +17689,16 @@
 	},
 	"71e5793b-feaf-4954-907d-8fabe52e02d5": {
 		"name": "pepper_3ds",
-		"v": 32197,
+		"v": 32334,
 		"t": 2,
 		"s": 3,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
