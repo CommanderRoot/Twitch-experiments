@@ -11723,11 +11723,11 @@
 	},
 	"4b80662f-c498-4bf7-9aff-87b1f61534f9": {
 		"name": "android_kmp_chat_models_p2",
-		"v": 32052,
+		"v": 32354,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -11735,7 +11735,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "active_18.0"
 			}
 		]
