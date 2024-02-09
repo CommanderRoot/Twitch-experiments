@@ -5752,6 +5752,29 @@
 			}
 		]
 	},
+	"25434362-cca7-4766-a509-1784009c91d9": {
+		"name": "android_pub_sub_ping_interval",
+		"v": 32378,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "4m"
+			},
+			{
+				"weight": 0,
+				"value": "3m"
+			},
+			{
+				"weight": 0,
+				"value": "2m"
+			},
+			{
+				"weight": 0,
+				"value": "default"
+			}
+		]
+	},
 	"25590b1a-ef0c-40e5-8e3f-9ded2926d4b8": {
 		"name": "android_following_hosted_channels",
 		"v": 8386,
