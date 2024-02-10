@@ -7223,7 +7223,7 @@
 	},
 	"2f713d7c-4b84-435c-8713-a8b9a00099b8": {
 		"name": "dart_welcomeemail1all_vwr_571_dav_cmc_wch_mis_email_223_holdout",
-		"v": 29816,
+		"v": 32388,
 		"t": 2,
 		"groups": [
 			{
@@ -17513,12 +17513,16 @@
 	},
 	"71088472-00bc-4ec4-a6ee-c4b81944cfd9": {
 		"name": "dart_welcomeemail1all_vwr_571_dav_cmc_wch_mis_email_223_email",
-		"v": 29817,
+		"v": 32389,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -24345,12 +24349,16 @@
 	},
 	"99bebb8d-5edd-4b66-a9a3-7b4c45afb2bb": {
 		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_email",
-		"v": 29822,
+		"v": 32393,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -31323,7 +31331,7 @@
 	},
 	"c8813b54-002e-4866-a8d6-296d04aa67cb": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_holdout",
-		"v": 30012,
+		"v": 32390,
 		"t": 2,
 		"groups": [
 			{
@@ -36903,7 +36911,7 @@
 	},
 	"ed053da0-4adf-4ab7-80c2-8b321425a96b": {
 		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 29821,
+		"v": 32392,
 		"t": 2,
 		"groups": [
 			{
@@ -37718,12 +37726,16 @@
 	},
 	"f18c55b9-6290-40a1-999d-b29b55d2f6df": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_email",
-		"v": 30013,
+		"v": 32391,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
