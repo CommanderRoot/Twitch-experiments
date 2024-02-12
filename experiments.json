@@ -9686,7 +9686,7 @@
 	},
 	"40653741-c6b1-4269-89c8-e315a113c426": {
 		"name": "ios_turbo_m2",
-		"v": 32394,
+		"v": 32407,
 		"t": 1,
 		"groups": [
 			{
@@ -9700,6 +9700,10 @@
 			{
 				"weight": 0,
 				"value": "active_18.2"
+			},
+			{
+				"weight": 0,
+				"value": "active_18.3"
 			}
 		]
 	},
@@ -33831,6 +33835,21 @@
 			{
 				"weight": 10,
 				"value": "active_11.2"
+			}
+		]
+	},
+	"d85e5c6d-4411-493c-9e9f-da7f13bf50fe": {
+		"name": "ios_chat_input_view_resign_text_entry",
+		"v": 32406,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
 			}
 		]
 	},
