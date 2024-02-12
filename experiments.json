@@ -11245,6 +11245,21 @@
 			}
 		]
 	},
+	"48fdd8c3-3fda-4118-88f8-3c95646df1a8": {
+		"name": "ios_chat_input_view_dispatch_add",
+		"v": 32409,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active"
+			}
+		]
+	},
 	"48ff8134-fa4f-4f75-9d7e-77ce7d01ed30": {
 		"name": "android_ivs_player_whole_probe",
 		"v": 31938,
