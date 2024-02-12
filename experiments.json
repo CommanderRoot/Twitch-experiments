@@ -20294,11 +20294,11 @@
 	},
 	"8070451d-e7a7-419e-832a-7108355a20d1": {
 		"name": "android_creator_stories_avatar",
-		"v": 32385,
+		"v": 32412,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -20306,7 +20306,7 @@
 				"value": "active_17.5"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_18.3"
 			}
 		]
@@ -30072,21 +30072,6 @@
 			},
 			{
 				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"bfc96300-5acb-487f-8f6a-9e729ecf858e": {
-		"name": "dart_links_actionabase_follow_io_92923_holdout",
-		"v": 32112,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "holdout"
-			},
-			{
-				"weight": 80,
 				"value": "allowed"
 			}
 		]
