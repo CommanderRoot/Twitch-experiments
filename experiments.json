@@ -2411,6 +2411,21 @@
 			}
 		]
 	},
+	"0f40d620-3096-498e-af68-4bf7853b4594": {
+		"name": "dart_links_actionabase_follow_io_92923_v2_holdout",
+		"v": 32424,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"0f865169-3db5-4b47-8ae3-a304ddc57f49": {
 		"name": "dart_apac_twn_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22098,
