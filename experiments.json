@@ -8181,6 +8181,21 @@
 			}
 		]
 	},
+	"355190ff-2039-4933-8723-aa56c9d1df2e": {
+		"name": "android_stories_remove_card",
+		"v": 32429,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"3556c468-850c-4d00-bb42-2d5883822859": {
 		"name": "ios_localized_streams",
 		"v": 22681,
