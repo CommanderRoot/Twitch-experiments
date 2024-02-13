@@ -36323,6 +36323,21 @@
 			}
 		]
 	},
+	"e8f806df-84e8-4e0d-a362-bd9baf5bace3": {
+		"name": "ios_stories_create_video",
+		"v": 32447,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"e91fa1f6-ee4d-42e0-84ca-9949ed1676c5": {
 		"name": "dart_celine_catapush_msg_2_holdout",
 		"v": 8815,
