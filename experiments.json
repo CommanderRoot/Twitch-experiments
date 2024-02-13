@@ -33956,11 +33956,11 @@
 	},
 	"d8be23c0-e075-4b74-ab58-f0b5288025c8": {
 		"name": "ios_ads_dma_consent",
-		"v": 32448,
+		"v": 32455,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -33972,7 +33972,7 @@
 				"value": "active_v18.0"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_v18.1"
 			}
 		]
@@ -36165,6 +36165,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"e7ec6bc1-3ad4-4fd6-af08-51ae06d82d8a": {
+		"name": "android_filter_live_feed_by_follows",
+		"v": 32454,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
