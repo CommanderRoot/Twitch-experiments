@@ -36812,11 +36812,11 @@
 	},
 	"eba1994d-deb2-4613-9437-5a9c237a6248": {
 		"name": "android_ads_dma_consent",
-		"v": 32061,
+		"v": 32488,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -36824,7 +36824,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_18.1"
 			}
 		]
