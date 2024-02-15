@@ -11074,15 +11074,15 @@
 	},
 	"47543f55-6524-4f3a-a241-017bcd97fa16": {
 		"name": "ivs_player_whole_probe",
-		"v": 31870,
+		"v": 32518,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -11303,15 +11303,15 @@
 	},
 	"48ff8134-fa4f-4f75-9d7e-77ce7d01ed30": {
 		"name": "android_ivs_player_whole_probe",
-		"v": 31938,
+		"v": 32517,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
