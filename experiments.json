@@ -29385,6 +29385,21 @@
 			}
 		]
 	},
+	"b98860b0-4035-4213-beca-9aeac7adb0f8": {
+		"name": "purchase_offer_email_verification",
+		"v": 32492,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"b9e9bff1-c30a-4acc-b201-2443e3c560ba": {
 		"name": "dart_rivalsrustbattle2es_vwr_781_dav_cmc_wch_gmg_email_2208_holdout",
 		"v": 22547,
@@ -36812,11 +36827,11 @@
 	},
 	"eba1994d-deb2-4613-9437-5a9c237a6248": {
 		"name": "android_ads_dma_consent",
-		"v": 32489,
+		"v": 32491,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -36824,7 +36839,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_18.1"
 			}
 		]
