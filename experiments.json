@@ -16015,6 +16015,21 @@
 			}
 		]
 	},
+	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
+		"name": "leftnav_following_promoted_sponsorships",
+		"v": 32542,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 95,
+				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "variant"
+			}
+		]
+	},
 	"67073a66-8131-41e0-acf1-73a9ec14f3f1": {
 		"name": "ios_airplay_reset_fix",
 		"v": 9172,
