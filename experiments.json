@@ -11840,12 +11840,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 32460,
+		"v": 32505,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-b6fa2a.pdx01.abs.hls.ttvnw.net/v1/segment/Cip8JGfiFE9sdMSF_5TWLw0huD2lS9Vf6Sx1KWtSYHhWGfhy8vK6OPZz_2vxZX2QgUTonbF7earT9vih4vRvUm22UdEnACPpO8oOKfuuCp0CbU2pVwc1AoEalDYLAck9JN7ifIhf2O3Uyi4Nl9eGTEatOxVfYHtc-0yFszmQoJIczOq91AADS3c6ofFbTeSAgDtseVxw81pZQbv_VgLW8x4-aW6QkoXkJqhMBdpzMot7_pyeFkJHTeg3m47hGGwoQ7rEJkOdnwLOU6DIWd5XPqZpR_6flNzugKOTbD_wywyisRSVtNz-892Q-p3qmU3o7cqixM-vFt0CqZGfOIRl1rKKNWhmmHqEJPYwI9c2Ne2Z6-RW3sc2ecxaODpdYcBvXckSje_YuN3weqbysYZi0Rvaik41r64gC4f3wND_3hDMzX10V9OkTAF-J-voEHBV9vYwXNrSga0xxsuXKWWRFxXvPVOI2A4UP9j8HOw4kKtKtt_TE3HZeVP0GtyHzCTzz7fY-GhD9qtT4QngIHq_6EdgVHDQwk3uaniGcVEXVaTq-XC5DyR5gT7uE2dhDPTJU9skqf7lGrxZWclzQmzL0zGormOg3cgrlqSNwvHiUa-ivHob0P1NOrBm3P6Mq83v8TAi2jlbMuu9y0_xwwJoWoqwOkkcbp9KT2s7a1HhlhO5dY-lhFAOnLs8xN7zNS-7nVt6dok8u7t9Uw1AqAiGNRsh1j4gOyeYnE18ouZMwwdqJ_E_A4BWYWIsKk.ts"
+				"value": "//video-edge-079747.pdx01.abs.hls.ttvnw.net/v1/segment/CluGFBUdgTuzLxFed4ahgJ8f-n7IgSK9hDea98KTAMNzX9ON-h6sn7nZWxqgSU-Chw2s9UzN2yLSV_zf2qc5xyDnGW6D6Zo95o7IZL8SilWS8WAr8h8cPMj8WJ8QtReKPtymaZnAxkVin9JQaIU3LpInNRCE0b83n1Mndf5i83A1oeSwxOsrA4GlTnWUBdqHAEHBcym8k4KRDOE9dvJmJ0ZqRtb8DfmVpKBELCh2a4RaSn7dX5fXfal4Fcol_5813H1qy_w81GecYuycmEp5NE7cktYSd6pQnrGSwXUMpk20G8hC8DWUjG8NTpLfOeAQsAs3aCs5YLDEE2AzmR2fb-XacJOWYghecYrngUnJ2yZbPlsNfNrFBaga5EcseOUlJbkrOfqhWUuz2us0iasDBJW0fqub3XW2SOo8ZEd35FphpJmbIdZiSKGlNPubqlfSn-w0Kxfma6mXn1GlbHgmJyGZYx9fKVxYk5etXwsJW1NRSHfSU4NEKIW5xyPqlYMAcy_kp4p9j7KcqMz8Bbf3Uii082eDTLjJ72OCtXI6Y3xGqOkJZCPudZ698Vv-WG5NBLDe_N4EQpKRl2p0nfgeAWauKtT3i2I3zIF3ouGnPxRoSW89F84M7ylaFTjUKVKDzz-n80vOpAn6-Qax1jxLTahhu3m822XnCeOUO9K8HPD7cvEjOBkLEgssivUjfUGSs8gU49zCHXIg_O16je61cBy_7e_UkF8az-WawLfqntiRUjurVlZOfnD3t18M6YU_lfy1F1khQkpFGkpFLR3f.ts"
 			}
 		]
 	},
@@ -29382,6 +29382,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"b98860b0-4035-4213-beca-9aeac7adb0f8": {
+		"name": "purchase_offer_email_verification",
+		"v": 32503,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
