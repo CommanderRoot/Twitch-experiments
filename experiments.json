@@ -11181,6 +11181,21 @@
 			}
 		]
 	},
+	"47738139-1dcc-4ad3-b428-602594967f5f": {
+		"name": "android_tag_row_oom_mitigation",
+		"v": 32565,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_18.4"
+			}
+		]
+	},
 	"4786b6d8-178f-45af-bd4e-03124ca92323": {
 		"name": "dart_twitchtogetherforgoodnovbadge2_holdout",
 		"v": 31355,
