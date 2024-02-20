@@ -20754,6 +20754,21 @@
 			}
 		]
 	},
+	"8240c676-9cf6-4113-b422-8061b6386aaa": {
+		"name": "ios-hypetrain-pubsub-v2",
+		"v": 32641,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"8284a348-0ed4-4789-82a3-db87223eaadf": {
 		"name": "dart_merchnovcyberweekpromolaunch_vwr_836_cmm_cmc_buy_mis_onsite_2211_holdout",
 		"v": 25332,
