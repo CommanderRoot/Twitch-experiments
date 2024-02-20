@@ -5780,19 +5780,19 @@
 	},
 	"25434362-cca7-4766-a509-1784009c91d9": {
 		"name": "android_pub_sub_ping_interval",
-		"v": 32379,
+		"v": 32624,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 1,
 				"value": "5m"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "2.5m"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "1m"
 			},
 			{
@@ -16032,15 +16032,15 @@
 	},
 	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
 		"name": "leftnav_following_promoted_sponsorships",
-		"v": 32623,
+		"v": 32625,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 80,
 				"value": "variant"
 			}
 		]
