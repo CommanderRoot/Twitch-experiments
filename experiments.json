@@ -11183,7 +11183,7 @@
 	},
 	"47738139-1dcc-4ad3-b428-602594967f5f": {
 		"name": "android_tag_row_oom_mitigation",
-		"v": 32565,
+		"v": 32613,
 		"t": 1,
 		"groups": [
 			{
@@ -11192,7 +11192,7 @@
 			},
 			{
 				"weight": 50,
-				"value": "active_18.4"
+				"value": "active_18.5"
 			}
 		]
 	},
@@ -16032,15 +16032,15 @@
 	},
 	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
 		"name": "leftnav_following_promoted_sponsorships",
-		"v": 32611,
+		"v": 32612,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 53,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 47,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
