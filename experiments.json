@@ -16032,15 +16032,15 @@
 	},
 	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
 		"name": "leftnav_following_promoted_sponsorships",
-		"v": 32629,
+		"v": 32631,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 5,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 95,
 				"value": "variant"
 			}
 		]
@@ -27902,15 +27902,15 @@
 	},
 	"aff1f400-eaa5-49ee-95be-5c470491d2aa": {
 		"name": "android_ads_client_video_ads_refactor",
-		"v": 32493,
+		"v": 32630,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_17.5"
 			},
 			{
