@@ -16032,15 +16032,15 @@
 	},
 	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
 		"name": "leftnav_following_promoted_sponsorships",
-		"v": 32609,
+		"v": 32611,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 55,
+				"weight": 53,
 				"value": "control"
 			},
 			{
-				"weight": 45,
+				"weight": 47,
 				"value": "variant"
 			}
 		]
@@ -18839,12 +18839,16 @@
 	},
 	"7747db67-2944-4306-8e62-3ed70e675e89": {
 		"name": "ios_stories_remove_card",
-		"v": 32607,
+		"v": 32610,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
