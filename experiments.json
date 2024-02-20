@@ -674,15 +674,15 @@
 	},
 	"043aab8c-4c37-4780-b4fb-729bd04ad6bb": {
 		"name": "android_ads_headliner_native_test",
-		"v": 32418,
+		"v": 32614,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_18.2"
 			}
 		]
@@ -16032,15 +16032,15 @@
 	},
 	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
 		"name": "leftnav_following_promoted_sponsorships",
-		"v": 32612,
+		"v": 32617,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 46,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 54,
 				"value": "variant"
 			}
 		]
