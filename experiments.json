@@ -40003,15 +40003,15 @@
 	},
 	"ff560c4b-350a-4c48-81d4-b84299a94679": {
 		"name": "ios_stories_canvas_background_selector",
-		"v": 32066,
+		"v": 32662,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
