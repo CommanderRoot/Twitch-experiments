@@ -27384,15 +27384,15 @@
 	},
 	"ad5fea02-829c-4446-8318-77aa0238aaf5": {
 		"name": "ios_ivs_player_analytics",
-		"v": 31512,
+		"v": 32655,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
