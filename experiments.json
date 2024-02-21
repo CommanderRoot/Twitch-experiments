@@ -11318,7 +11318,7 @@
 	},
 	"48fdd8c3-3fda-4118-88f8-3c95646df1a8": {
 		"name": "ios_chat_input_view_dispatch_add",
-		"v": 32409,
+		"v": 32659,
 		"t": 1,
 		"groups": [
 			{
@@ -26455,15 +26455,15 @@
 	},
 	"a7522adc-6c3b-4de4-a456-6abb04f14946": {
 		"name": "android_cg_webview",
-		"v": 31389,
+		"v": 32660,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -34001,7 +34001,7 @@
 	},
 	"d85e5c6d-4411-493c-9e9f-da7f13bf50fe": {
 		"name": "ios_chat_input_view_resign_text_entry",
-		"v": 32406,
+		"v": 32661,
 		"t": 1,
 		"groups": [
 			{
