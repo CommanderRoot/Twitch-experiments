@@ -8079,6 +8079,21 @@
 			}
 		]
 	},
+	"347c7af7-d62b-40d8-bbb4-24faeb12c9e0": {
+		"name": "dart_streamer_awards_badge_022624_onsite",
+		"v": 32681,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"34d3e969-c88b-449b-857f-c259d76a3b7f": {
 		"name": "dart_primedaygiftcarddo_vwr_747_cmm_cmc_buy_mis_email_227_holdout",
 		"v": 21993,
@@ -26827,6 +26842,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"a956d0c4-9c06-4ed0-9dae-7ecf6620381d": {
+		"name": "dart_streamer_awards_badge_022624_holdout",
+		"v": 32680,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
