@@ -37730,6 +37730,25 @@
 			}
 		]
 	},
+	"f012e716-6ee1-4181-8427-b90578479405": {
+		"name": "android_report_wizard_portal_impl",
+		"v": 32699,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "RxMVPPortalView"
+			},
+			{
+				"weight": 0,
+				"value": "PortalFragment"
+			}
+		]
+	},
 	"f026dfcc-17d4-4f32-823a-925b730fd89f": {
 		"name": "android_viewer_level_midrolls",
 		"v": 12094,
