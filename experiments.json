@@ -5929,15 +5929,15 @@
 	},
 	"25b8c907-d9ac-461c-8a2a-051719ce739c": {
 		"name": "palword_new",
-		"v": 32184,
+		"v": 32726,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "Control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "treatment"
 			},
 			{
