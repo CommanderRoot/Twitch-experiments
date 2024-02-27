@@ -13126,6 +13126,21 @@
 			}
 		]
 	},
+	"534308c6-1ae7-4f97-b03a-e02463c745cf": {
+		"name": "dart_pokemonday_0215_viewer_holdout",
+		"v": 32774,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 40,
+				"value": "holdout"
+			},
+			{
+				"weight": 60,
+				"value": "allowed"
+			}
+		]
+	},
 	"535da222-3266-4a34-bd9f-8f30813fcc3b": {
 		"name": "ios_mdf_dislike",
 		"v": 30979,
