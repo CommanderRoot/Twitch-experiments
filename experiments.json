@@ -9765,11 +9765,11 @@
 	},
 	"40653741-c6b1-4269-89c8-e315a113c426": {
 		"name": "ios_turbo_m2",
-		"v": 32730,
+		"v": 32749,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -9781,7 +9781,7 @@
 				"value": "active_18.2"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "active_18.3"
 			}
 		]
@@ -13899,15 +13899,15 @@
 	},
 	"59032eb0-33fe-42ef-9177-884b645ec794": {
 		"name": "android_sdk_pubsub_wrapper",
-		"v": 32248,
+		"v": 32748,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_18.3"
 			}
 		]
