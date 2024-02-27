@@ -35990,6 +35990,21 @@
 			}
 		]
 	},
+	"e483be91-df69-494d-9caf-9ee5815ce815": {
+		"name": "dart_au110reactivationemail1apaclatam_vwr_786_dav_cmc_wch_mis_email_2312_0224_holdout",
+		"v": 32775,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"e4b3799f-8818-43b8-96bf-bab2979b84ab": {
 		"name": "android_policy_update_prompt",
 		"v": 29424,
