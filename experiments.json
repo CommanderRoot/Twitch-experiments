@@ -34151,15 +34151,15 @@
 	},
 	"d85e5c6d-4411-493c-9e9f-da7f13bf50fe": {
 		"name": "ios_chat_input_view_resign_text_entry",
-		"v": 32661,
+		"v": 32789,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 99,
 				"value": "active"
 			}
 		]
