@@ -9765,11 +9765,11 @@
 	},
 	"40653741-c6b1-4269-89c8-e315a113c426": {
 		"name": "ios_turbo_m2",
-		"v": 32749,
+		"v": 32750,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -9781,7 +9781,7 @@
 				"value": "active_18.2"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_18.3"
 			}
 		]
