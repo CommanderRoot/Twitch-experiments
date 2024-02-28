@@ -27856,6 +27856,21 @@
 			}
 		]
 	},
+	"af0199bb-8ddc-40c0-a8b7-1e64e900496f": {
+		"name": "ios_turbo_ads_upsell",
+		"v": 32813,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_18.9"
+			}
+		]
+	},
 	"af044b3f-0a06-401a-9a1e-0be0f6be6496": {
 		"name": "dart_gpexplorer2_vwr_1083_dav_cmc_wch_gmg_email_2309_holdout",
 		"v": 29771,
