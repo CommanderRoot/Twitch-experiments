@@ -11355,21 +11355,6 @@
 			}
 		]
 	},
-	"48cb2758-702e-4f4f-8578-831e757b597f": {
-		"name": "ios_mdf_mid_feed",
-		"v": 32814,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_debug"
-			}
-		]
-	},
 	"48fdd8c3-3fda-4118-88f8-3c95646df1a8": {
 		"name": "ios_chat_input_view_dispatch_add",
 		"v": 32659,
