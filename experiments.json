@@ -6724,6 +6724,21 @@
 			}
 		]
 	},
+	"2b693675-fc05-4288-a3ea-72a63df3dc14": {
+		"name": "dart_authydesktopdeprecation_onsite_holdout",
+		"v": 32820,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2b6b86ea-9574-4da9-9808-c4498a8d25e6": {
 		"name": "ios_community_highlights",
 		"v": 11893,
