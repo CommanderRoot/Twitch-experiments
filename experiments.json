@@ -8263,7 +8263,7 @@
 	},
 	"355190ff-2039-4933-8723-aa56c9d1df2e": {
 		"name": "android_stories_remove_card",
-		"v": 32430,
+		"v": 32837,
 		"t": 2,
 		"groups": [
 			{
@@ -8273,6 +8273,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_18.5"
 			}
 		]
 	},
