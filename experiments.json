@@ -22054,21 +22054,6 @@
 			}
 		]
 	},
-	"8b012d5c-e4f9-46cf-8c8d-fb025b09565d": {
-		"name": "android_mdf_first_feed",
-		"v": 32738,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
-			}
-		]
-	},
 	"8b08053d-aa45-440a-88d9-199b9334dfc4": {
 		"name": "dart_twitchconlv_affiliates_ctr_1039_cmm_cmc_buy_mis_eo_237_holdout",
 		"v": 28874,
@@ -25366,21 +25351,6 @@
 			{
 				"weight": 0,
 				"value": "disable"
-			}
-		]
-	},
-	"9de9c0f9-f093-4aba-b8ab-6e31470c2f05": {
-		"name": "android_mdf_mid_feed",
-		"v": 32737,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
