@@ -16059,6 +16059,21 @@
 			}
 		]
 	},
+	"65f5e7d4-8e94-4a07-9934-9c8b1eb1df2f": {
+		"name": "ios_turbo_ads_upsell",
+		"v": 32879,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_18.9"
+			}
+		]
+	},
 	"66018bed-5b79-4d2c-9773-29295e4f89f6": {
 		"name": "ios_wateb",
 		"v": 6286,
@@ -27906,21 +27921,6 @@
 			{
 				"weight": 100,
 				"value": "active_8_1_1"
-			}
-		]
-	},
-	"af0199bb-8ddc-40c0-a8b7-1e64e900496f": {
-		"name": "ios_turbo_ads_upsell",
-		"v": 32813,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_18.9"
 			}
 		]
 	},
