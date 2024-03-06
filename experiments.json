@@ -19034,15 +19034,15 @@
 	},
 	"7747db67-2944-4306-8e62-3ed70e675e89": {
 		"name": "ios_stories_remove_card",
-		"v": 32610,
+		"v": 32923,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			}
 		]
