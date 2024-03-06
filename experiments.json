@@ -33067,11 +33067,11 @@
 	},
 	"d1366fd5-0aa5-4e4b-95ef-d86d855a14e7": {
 		"name": "android_onechat_launch",
-		"v": 31611,
+		"v": 32916,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 5,
 				"value": "control"
 			},
 			{
@@ -33079,7 +33079,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 95,
 				"value": "active_16.4"
 			},
 			{
