@@ -33522,11 +33522,11 @@
 	},
 	"d4490bb6-382c-4a80-9bd5-0a18e5267543": {
 		"name": "android_kmp_chat_events",
-		"v": 32058,
+		"v": 32908,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 999,
+				"weight": 1,
 				"value": "control"
 			},
 			{
@@ -33538,7 +33538,7 @@
 				"value": "active_17.6"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_18.0"
 			}
 		]
