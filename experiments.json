@@ -17104,7 +17104,7 @@
 	},
 	"6d07e74b-9c18-49d1-8732-1088568300c1": {
 		"name": "android_credential_manager",
-		"v": 32817,
+		"v": 32938,
 		"t": 1,
 		"groups": [
 			{
@@ -17114,6 +17114,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_18.7"
 			}
 		]
 	},
