@@ -31552,11 +31552,11 @@
 	},
 	"c7327c1e-323b-43f3-9eef-23f44c46b0b0": {
 		"name": "ios_community_highlights_refactor",
-		"v": 31774,
+		"v": 32961,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 60,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -31564,7 +31564,7 @@
 				"value": "active_15.3"
 			},
 			{
-				"weight": 40,
+				"weight": 0,
 				"value": "active_16.6"
 			}
 		]
