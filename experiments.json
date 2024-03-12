@@ -40188,6 +40188,21 @@
 			}
 		]
 	},
+	"fe544aab-e543-4280-861e-6c9945b659f7": {
+		"name": "ios_stories_latency_tracking",
+		"v": 32990,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"fe5bad1f-521b-4ab9-9cd4-8161ef779550": {
 		"name": "crunchyroll_button",
 		"v": 1723,
