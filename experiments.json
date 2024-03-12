@@ -29131,6 +29131,21 @@
 			}
 		]
 	},
+	"b506cc89-82e4-4112-8fed-fe7c8e6d5ce3": {
+		"name": "android_disable_amazon_adsystem_cookies",
+		"v": 32996,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_18.7"
+			}
+		]
+	},
 	"b525d2cb-6aea-4d7c-ac32-92a46541d7f2": {
 		"name": "ios_gql_batching",
 		"v": 22658,
