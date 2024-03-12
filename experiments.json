@@ -27344,6 +27344,21 @@
 			}
 		]
 	},
+	"abb3590b-6d5c-4715-99a5-32d36727de6a": {
+		"name": "dart_livereactionsdepreciations_holdout",
+		"v": 32986,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"abb40f77-0f3e-4840-b089-71be83adad02": {
 		"name": "android_games_broadcast_stream_settings",
 		"v": 25140,
