@@ -536,16 +536,16 @@
 	},
 	"038a8520-6a9a-44eb-a745-1c3e960c4211": {
 		"name": "pepper_3ds_global",
-		"v": 32797,
+		"v": 33005,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "variant"
 			}
 		]
