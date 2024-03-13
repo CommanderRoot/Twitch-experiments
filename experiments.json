@@ -18666,16 +18666,12 @@
 	},
 	"74a36b02-abeb-490b-a09e-d7d27d0c95a6": {
 		"name": "Passport_Login_Inhouse_Code_Generation",
-		"v": 33023,
+		"v": 33027,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
-			},
-			{
-				"weight": 10,
-				"value": "vonage"
 			}
 		]
 	},
