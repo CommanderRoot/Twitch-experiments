@@ -15103,6 +15103,21 @@
 			}
 		]
 	},
+	"5fe11113-c5b6-41a3-8018-aa6644bca694": {
+		"name": "ios_stories_reaction_counts_for_viewers",
+		"v": 33068,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"5ff0bce9-7bde-4b9b-a931-4da3579935eb": {
 		"name": "dart_wutgamesviewer_ctr_879_awa_cmc_lrn_gmg_email_2212_holdout",
 		"v": 25543,
@@ -19057,7 +19072,7 @@
 	},
 	"7747db67-2944-4306-8e62-3ed70e675e89": {
 		"name": "ios_stories_remove_card",
-		"v": 32923,
+		"v": 33070,
 		"t": 2,
 		"groups": [
 			{
@@ -19067,6 +19082,10 @@
 			{
 				"weight": 10,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_enlarged"
 			}
 		]
 	},
