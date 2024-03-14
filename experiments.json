@@ -37766,6 +37766,25 @@
 			}
 		]
 	},
+	"ee7a548c-74d8-4877-a1e5-9f1aaee2551c": {
+		"name": "android_viewer_reaction_count",
+		"v": 33054,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_18.8"
+			}
+		]
+	},
 	"ee80111d-e5e8-4d99-a211-6059f5e763da": {
 		"name": "ios_hypetrain_approaching_bucketing",
 		"v": 23949,
