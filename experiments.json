@@ -13758,12 +13758,16 @@
 	},
 	"57bb4c24-813d-4509-b1e0-a3965f7ae5a1": {
 		"name": "android_stories_follow_button",
-		"v": 33099,
+		"v": 33100,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
