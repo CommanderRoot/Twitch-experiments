@@ -20993,15 +20993,15 @@
 	},
 	"8240c676-9cf6-4113-b422-8061b6386aaa": {
 		"name": "ios_hypetrain_pubsub_v2",
-		"v": 33077,
+		"v": 33085,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 70,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
