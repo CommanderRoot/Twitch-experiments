@@ -15593,6 +15593,21 @@
 			}
 		]
 	},
+	"62f1bcee-d7c7-4ba6-9dcd-79a15a68eb67": {
+		"name": "ios_stories_follow_button",
+		"v": 33105,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"630906bf-84b3-46ef-a0c4-c79807ecce37": {
 		"name": "android_update_prompt_rollout",
 		"v": 22432,
