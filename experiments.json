@@ -25069,6 +25069,21 @@
 			}
 		]
 	},
+	"9b813bdc-7fc0-4cdf-ba98-5edb72992025": {
+		"name": "android_client_time",
+		"v": 33093,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_18.8"
+			}
+		]
+	},
 	"9b89a2be-0128-4900-80db-91a4d9e40bfe": {
 		"name": "dart_twitchcon_rivals_jul_vwr_762_dav_cmc_lrn_gmg_push_2207_holdout",
 		"v": 22052,
@@ -35609,6 +35624,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"e16c3848-38ad-4dbb-af3c-f19d80f7f8ff": {
+		"name": "ios_client_time",
+		"v": 33094,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_18.8"
 			}
 		]
 	},
