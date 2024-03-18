@@ -1698,12 +1698,16 @@
 	},
 	"0a451b83-97a2-43ed-b774-e951fdf64178": {
 		"name": "ios_onechat_opacity",
-		"v": 32442,
+		"v": 33127,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
