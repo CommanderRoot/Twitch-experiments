@@ -28940,6 +28940,25 @@
 			}
 		]
 	},
+	"b326b96d-fc04-47d1-99a8-53e954e7295e": {
+		"name": "android_pubsub_topics_per_connection_limit",
+		"v": 33117,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "max_50"
+			},
+			{
+				"weight": 1,
+				"value": "max_100"
+			},
+			{
+				"weight": 1,
+				"value": "max_savant"
+			}
+		]
+	},
 	"b3286c69-45d1-4d6d-9e84-30a5cfbb5089": {
 		"name": "dart_welcomeemail2_vwr_550_dav_cmc_wch_mis_email_2111_holdout",
 		"v": 17797,
@@ -35467,19 +35486,19 @@
 	},
 	"dff3906e-f138-489a-b397-18c71ad72fdd": {
 		"name": "android_pubsub_connection_limit",
-		"v": 33102,
+		"v": 33120,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "max_connection_1"
 			},
 			{
-				"weight": 1,
-				"value": "max_connection_5"
+				"weight": 0,
+				"value": "max_connection_savant"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "max_connection_10"
 			}
 		]
