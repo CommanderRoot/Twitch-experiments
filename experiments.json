@@ -28942,19 +28942,19 @@
 	},
 	"b326b96d-fc04-47d1-99a8-53e954e7295e": {
 		"name": "android_pubsub_topics_per_connection_limit",
-		"v": 33117,
+		"v": 33121,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "max_50"
 			},
 			{
-				"weight": 1,
+				"weight": 50,
 				"value": "max_100"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "max_savant"
 			}
 		]
