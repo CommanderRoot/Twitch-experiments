@@ -678,21 +678,6 @@
 			}
 		]
 	},
-	"043aab8c-4c37-4780-b4fb-729bd04ad6bb": {
-		"name": "android_ads_headliner_native_test",
-		"v": 32614,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_18.2"
-			}
-		]
-	},
 	"045f434c-11e1-4351-bb17-74c33e6099f7": {
 		"name": "ios_gs_request_to_join",
 		"v": 25205,
