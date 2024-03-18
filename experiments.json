@@ -5831,19 +5831,19 @@
 	},
 	"25434362-cca7-4766-a509-1784009c91d9": {
 		"name": "android_pub_sub_ping_interval",
-		"v": 32624,
+		"v": 33125,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "5m"
 			},
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "2.5m"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "1m"
 			},
 			{
