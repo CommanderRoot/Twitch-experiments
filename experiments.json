@@ -37059,15 +37059,15 @@
 	},
 	"e9d9312d-a61a-4c8c-aedc-41e03d0d0e2b": {
 		"name": "android_onechat_disable_theater_animations",
-		"v": 33198,
+		"v": 33212,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_18.7.2"
 			}
 		]
