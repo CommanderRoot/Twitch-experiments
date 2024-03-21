@@ -30055,6 +30055,21 @@
 			}
 		]
 	},
+	"bb41dcd2-8008-45f0-897a-cd7c4bf8877a": {
+		"name": "memberships_upsell_holdout",
+		"v": 33211,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "control"
+			},
+			{
+				"weight": 95,
+				"value": "treatment"
+			}
+		]
+	},
 	"bb749f29-e3a6-4013-b2cc-5020b68160ee": {
 		"name": "android_firefly",
 		"v": 32567,
