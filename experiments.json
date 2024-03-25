@@ -37216,6 +37216,21 @@
 			}
 		]
 	},
+	"ea8bac33-9a7a-4d14-9878-8ec8a93af719": {
+		"name": "dart_alerts_randomization_launch1_holdout",
+		"v": 33237,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"ea95816a-846e-428e-b2fd-9ed1c32631b3": {
 		"name": "ios_push_notification_signup_prompt",
 		"v": 11843,
