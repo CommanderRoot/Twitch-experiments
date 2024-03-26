@@ -8706,11 +8706,11 @@
 	},
 	"37a05a8b-f41c-4988-9561-8e46abc5de2b": {
 		"name": "ios_ads_lower_thirds",
-		"v": 33224,
+		"v": 33258,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -8718,7 +8718,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v18.3"
 			},
 			{
@@ -15118,15 +15118,15 @@
 	},
 	"5fe11113-c5b6-41a3-8018-aa6644bca694": {
 		"name": "ios_stories_reaction_counts_for_viewers",
-		"v": 33068,
+		"v": 33260,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -37939,11 +37939,11 @@
 	},
 	"ee7a548c-74d8-4877-a1e5-9f1aaee2551c": {
 		"name": "android_viewer_reaction_count",
-		"v": 33056,
+		"v": 33259,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -37951,7 +37951,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_18.8"
 			}
 		]
