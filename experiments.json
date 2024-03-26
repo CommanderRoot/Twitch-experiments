@@ -5499,15 +5499,15 @@
 	},
 	"234a622c-3ac8-4ed5-9b67-1c24381915a5": {
 		"name": "ios_tacos",
-		"v": 32162,
+		"v": 33272,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_18.0"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
@@ -8706,11 +8706,11 @@
 	},
 	"37a05a8b-f41c-4988-9561-8e46abc5de2b": {
 		"name": "ios_ads_lower_thirds",
-		"v": 33271,
+		"v": 33273,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -8718,7 +8718,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_v18.3"
 			},
 			{
