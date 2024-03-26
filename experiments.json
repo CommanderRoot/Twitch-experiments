@@ -8706,11 +8706,11 @@
 	},
 	"37a05a8b-f41c-4988-9561-8e46abc5de2b": {
 		"name": "ios_ads_lower_thirds",
-		"v": 33258,
+		"v": 33261,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -8718,7 +8718,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "active_v18.3"
 			},
 			{
