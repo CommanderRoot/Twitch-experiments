@@ -28332,15 +28332,15 @@
 	},
 	"aff1f400-eaa5-49ee-95be-5c470491d2aa": {
 		"name": "android_ads_client_video_ads_refactor",
-		"v": 33280,
+		"v": 33295,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_18.7"
 			},
 			{
