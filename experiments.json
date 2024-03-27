@@ -24116,12 +24116,16 @@
 	},
 	"95e9dc4f-a69c-4493-8803-f3d386a4c665": {
 		"name": "ios_onechat_dismiss_expanded_chat",
-		"v": 33194,
+		"v": 33288,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v19.0"
 			}
 		]
 	},
