@@ -15111,6 +15111,29 @@
 			}
 		]
 	},
+	"5fc9eb8b-c15d-407b-bfeb-d22e7f7854b3": {
+		"name": "android_app_animations",
+		"v": 33284,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_no_root_19.0"
+			},
+			{
+				"weight": 0,
+				"value": "active_no_theatre_children_19.0"
+			},
+			{
+				"weight": 0,
+				"value": "active_no_animations_19.0"
+			}
+		]
+	},
 	"5fd568be-2073-4f99-84d5-565e8b2a3343": {
 		"name": "TWILIGHT_AAX_DISPLAY",
 		"v": 3615,
