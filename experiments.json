@@ -24618,6 +24618,21 @@
 			}
 		]
 	},
+	"988bfb21-5fdc-4c11-88dd-ebae7e1dab12": {
+		"name": "chmod-vf",
+		"v": 33344,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 55,
+				"value": "control"
+			},
+			{
+				"weight": 45,
+				"value": "treatment"
+			}
+		]
+	},
 	"988fb642-0d7b-4b11-a346-91fc96bfd7a3": {
 		"name": "dart_uk_turboemailtest112223_holdout",
 		"v": 31476,
