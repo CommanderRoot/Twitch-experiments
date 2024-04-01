@@ -8284,11 +8284,11 @@
 	},
 	"355190ff-2039-4933-8723-aa56c9d1df2e": {
 		"name": "android_stories_remove_card",
-		"v": 33095,
+		"v": 33382,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -8296,7 +8296,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_18.5"
 			},
 			{
@@ -19194,15 +19194,15 @@
 	},
 	"7747db67-2944-4306-8e62-3ed70e675e89": {
 		"name": "ios_stories_remove_card",
-		"v": 33070,
+		"v": 33380,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active"
 			},
 			{
