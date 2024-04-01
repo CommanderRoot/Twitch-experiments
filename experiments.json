@@ -6922,6 +6922,21 @@
 			}
 		]
 	},
+	"2c65c333-01be-4fcf-9ad4-e1bdeb549cb9": {
+		"name": "dart_aprilfoolonsite_holdout",
+		"v": 33370,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"2c7f2e31-7594-48ab-8545-69652f1f24cc": {
 		"name": "dart_summerofchess_streamersonsite_ctr_1053_cmm_cmc_ulk_spt_onsite_237_holdout",
 		"v": 28952,
