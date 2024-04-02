@@ -2245,6 +2245,25 @@
 			}
 		]
 	},
+	"0de2aa47-831f-462a-aa09-ba2500ad350b": {
+		"name": "android_gql_http3_v2",
+		"v": 33436,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_19.1_http3_twitch"
+			},
+			{
+				"weight": 0,
+				"value": "active_19.1_http3_google"
+			}
+		]
+	},
 	"0df70f4f-eaf1-4055-be54-bd19a29f11b0": {
 		"name": "android_reusable_player",
 		"v": 18121,
