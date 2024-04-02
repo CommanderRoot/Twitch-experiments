@@ -16955,15 +16955,15 @@
 	},
 	"6ac5539d-a622-4c75-a09a-7798591a78c5": {
 		"name": "ios_watch_party_2019",
-		"v": 9690,
+		"v": 33411,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -18754,7 +18754,7 @@
 	},
 	"748d708b-7edf-4134-a91f-830423e37cd0": {
 		"name": "android_watch_party_viewer",
-		"v": 14204,
+		"v": 33410,
 		"t": 1,
 		"groups": [
 			{
@@ -18762,7 +18762,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
@@ -18770,7 +18770,7 @@
 				"value": "active_10.5"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active_10.6"
 			}
 		]
@@ -40663,11 +40663,11 @@
 	},
 	"feead3b1-dd13-4a2d-acb5-98d58dd84754": {
 		"name": "ios_watch_party_viewing",
-		"v": 15682,
+		"v": 33412,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -40675,7 +40675,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_11.0"
 			}
 		]
