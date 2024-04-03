@@ -449,11 +449,11 @@
 	},
 	"0270e600-18b4-4ae8-9b06-9313add27581": {
 		"name": "android_banner_ads",
-		"v": 33408,
+		"v": 33441,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -461,7 +461,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_18.9"
 			}
 		]
@@ -8307,11 +8307,11 @@
 	},
 	"355190ff-2039-4933-8723-aa56c9d1df2e": {
 		"name": "android_stories_remove_card",
-		"v": 33382,
+		"v": 33442,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -8319,11 +8319,11 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_18.5"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_enlarged_18.8"
 			}
 		]
@@ -19217,19 +19217,19 @@
 	},
 	"7747db67-2944-4306-8e62-3ed70e675e89": {
 		"name": "ios_stories_remove_card",
-		"v": 33380,
+		"v": 33443,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_enlarged"
 			}
 		]
