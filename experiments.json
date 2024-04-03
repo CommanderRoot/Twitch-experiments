@@ -18456,12 +18456,16 @@
 	},
 	"72ca1706-64c4-4488-b333-725d95312494": {
 		"name": "ios_ivs_player_gpu_transform",
-		"v": 32704,
+		"v": 33454,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "treatment"
 			}
 		]
 	},
@@ -25514,12 +25518,16 @@
 	},
 	"9d950d59-1936-4fbc-8eaa-a0d4fe6fcb9f": {
 		"name": "android_ivs_player_gpu_transform",
-		"v": 33000,
+		"v": 33452,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "treatment"
 			}
 		]
 	},
