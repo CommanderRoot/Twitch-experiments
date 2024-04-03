@@ -449,11 +449,11 @@
 	},
 	"0270e600-18b4-4ae8-9b06-9313add27581": {
 		"name": "android_banner_ads",
-		"v": 33448,
+		"v": 33450,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -461,7 +461,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_18.9"
 			}
 		]
