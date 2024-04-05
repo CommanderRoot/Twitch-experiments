@@ -8171,12 +8171,16 @@
 	},
 	"34bf690c-3b58-4e10-9e04-c9174e0ec42b": {
 		"name": "rpr_cache_beta",
-		"v": 33479,
+		"v": 33486,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
@@ -21010,12 +21014,16 @@
 	},
 	"815933a4-8366-4d5d-9351-8c3425e24de6": {
 		"name": "rpr_cache_prod",
-		"v": 33480,
+		"v": 33487,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
