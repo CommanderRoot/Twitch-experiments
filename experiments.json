@@ -17690,7 +17690,7 @@
 	},
 	"6eea3fe3-dc5a-4c83-b0f0-e74b5a6a6cf4": {
 		"name": "android_creator_stories_eligibility_override",
-		"v": 29277,
+		"v": 33500,
 		"t": 1,
 		"groups": [
 			{
@@ -17712,6 +17712,10 @@
 			{
 				"weight": 0,
 				"value": "can_create_with_subs"
+			},
+			{
+				"weight": 0,
+				"value": "can_create_video"
 			}
 		]
 	},
