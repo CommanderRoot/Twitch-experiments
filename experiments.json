@@ -8171,15 +8171,15 @@
 	},
 	"34bf690c-3b58-4e10-9e04-c9174e0ec42b": {
 		"name": "rpr_cache_beta",
-		"v": 33486,
+		"v": 33506,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
