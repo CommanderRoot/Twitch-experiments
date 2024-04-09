@@ -11135,15 +11135,15 @@
 	},
 	"46b817cc-0980-4246-9a44-67b298bdfb4b": {
 		"name": "ios_mdf_blueberry_dark",
-		"v": 33528,
+		"v": 33533,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_v19.0"
 			}
 		]
@@ -18004,15 +18004,15 @@
 	},
 	"712b8961-a265-4817-a10a-160d8348eee1": {
 		"name": "android_mdf_blueberry_dark",
-		"v": 33531,
+		"v": 33532,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_19.0"
 			}
 		]
