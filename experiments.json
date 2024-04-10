@@ -3381,15 +3381,15 @@
 	},
 	"14f35366-3608-498a-b210-bea554ceda46": {
 		"name": "ios_meow_ms2_bits_purchase_fullscreen",
-		"v": 32639,
+		"v": 33564,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -31010,15 +31010,15 @@
 	},
 	"c1b7e4f2-e22a-4420-b037-e25ec0fab280": {
 		"name": "ios_meow_ms2_bits_purchase",
-		"v": 32301,
+		"v": 33563,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_development"
 			}
 		]
