@@ -3381,15 +3381,15 @@
 	},
 	"14f35366-3608-498a-b210-bea554ceda46": {
 		"name": "ios_meow_ms2_bits_purchase_fullscreen",
-		"v": 33564,
+		"v": 33589,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -31025,15 +31025,15 @@
 	},
 	"c1b7e4f2-e22a-4420-b037-e25ec0fab280": {
 		"name": "ios_meow_ms2_bits_purchase",
-		"v": 33563,
+		"v": 33588,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_development"
 			}
 		]
@@ -34553,15 +34553,15 @@
 	},
 	"d82fd210-f984-4e1c-b5e4-fbcff7e2387d": {
 		"name": "ios_mod_view",
-		"v": 33587,
+		"v": 33590,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 70,
+				"weight": 75,
 				"value": "treatment"
 			}
 		]
