@@ -34553,15 +34553,15 @@
 	},
 	"d82fd210-f984-4e1c-b5e4-fbcff7e2387d": {
 		"name": "ios_mod_view",
-		"v": 33583,
+		"v": 33584,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 40,
 				"value": "treatment"
 			}
 		]
