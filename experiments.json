@@ -30018,15 +30018,15 @@
 	},
 	"b98860b0-4035-4213-beca-9aeac7adb0f8": {
 		"name": "purchase_offer_email_verification",
-		"v": 32503,
+		"v": 33600,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
