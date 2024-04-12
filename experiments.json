@@ -3894,7 +3894,7 @@
 	},
 	"17e281d4-72e3-473f-9b13-b09002340317": {
 		"name": "ios_private_callouts",
-		"v": 19020,
+		"v": 33620,
 		"t": 1,
 		"groups": [
 			{
@@ -3902,11 +3902,11 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_12.3"
 			}
 		]
@@ -12203,6 +12203,21 @@
 			}
 		]
 	},
+	"4c7d473f-d9b0-4298-913c-8fa5e1eb292e": {
+		"name": "ios_mod_view_callout",
+		"v": 33619,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"4ceb7c83-aee1-4576-a5ea-607c187bd052": {
 		"name": "dart_juneviewernewsletterit_vwr_1035_dav_cmc_wch_mis_email_2306_email",
 		"v": 28610,
@@ -14192,6 +14207,21 @@
 			{
 				"weight": 50,
 				"value": "active"
+			}
+		]
+	},
+	"59962d3e-ace9-4ad5-b978-58ffd611af1d": {
+		"name": "dart_plus_points_goals_wiidget_holdout",
+		"v": 33621,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
