@@ -2725,12 +2725,16 @@
 	},
 	"1148ac35-d51a-4821-9ba8-9a26ee3d289f": {
 		"name": "android_feed_use_fragment_lifecycle",
-		"v": 33639,
+		"v": 33640,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_19.2"
 			}
 		]
 	},
