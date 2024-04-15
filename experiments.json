@@ -22210,6 +22210,21 @@
 			}
 		]
 	},
+	"8a4731dd-d4eb-48ac-9af0-b5e3738d7646": {
+		"name": "android_ads_ifa_om_sdk",
+		"v": 33643,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_19.2"
+			}
+		]
+	},
 	"8a515e92-152d-4b05-9cdb-da0c38565992": {
 		"name": "dart_merchq1flashsaleus_ctr_902_cmm_cmc_buy_mis_onsite_231_holdout",
 		"v": 25921,
