@@ -13082,6 +13082,21 @@
 			}
 		]
 	},
+	"519368b3-8102-43cc-bd10-b2c5a72a9ec7": {
+		"name": "ios_mdf_omsdk_display_ad_enabled",
+		"v": 33657,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v19.2"
+			}
+		]
+	},
 	"51a06667-b450-43af-87a0-26632f957c82": {
 		"name": "dart_rivalsgtaeventenauronplay_vwr_859_dav_cmc_wch_gmg_email_2211_holdout",
 		"v": 25068,
