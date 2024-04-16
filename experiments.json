@@ -15283,19 +15283,19 @@
 	},
 	"5fc9eb8b-c15d-407b-bfeb-d22e7f7854b3": {
 		"name": "android_app_animations",
-		"v": 33432,
+		"v": 33689,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_no_fade_19.0"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_no_theatre_children_19.0"
 			},
 			{
