@@ -12228,15 +12228,15 @@
 	},
 	"4c7d473f-d9b0-4298-913c-8fa5e1eb292e": {
 		"name": "ios_mod_view_callout",
-		"v": 33667,
+		"v": 33691,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
