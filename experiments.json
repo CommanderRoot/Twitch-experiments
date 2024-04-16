@@ -8793,7 +8793,7 @@
 	},
 	"37a05a8b-f41c-4988-9561-8e46abc5de2b": {
 		"name": "ios_ads_lower_thirds",
-		"v": 33676,
+		"v": 33684,
 		"t": 1,
 		"groups": [
 			{
@@ -8814,7 +8814,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_v19.1"
+				"value": "active_v19.1.2"
 			}
 		]
 	},
@@ -21152,6 +21152,21 @@
 			}
 		]
 	},
+	"819aa1dd-700a-4e1d-8114-9a97f6246e3b": {
+		"name": "ios_meow_single_gifting",
+		"v": 33679,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_development"
+			}
+		]
+	},
 	"81bb4059-ff06-446e-86f4-d6e59ae0fe21": {
 		"name": "android_live_tab",
 		"v": 2268,
@@ -25356,19 +25371,19 @@
 	},
 	"9b2da518-fcf7-4ca6-9bcd-6a55addb7c30": {
 		"name": "ios_meow_subs",
-		"v": 33401,
+		"v": 33683,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 1,
 				"value": "full_screen"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "half_screen"
 			}
 		]
