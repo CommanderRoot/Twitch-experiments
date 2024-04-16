@@ -15318,15 +15318,15 @@
 	},
 	"5fe11113-c5b6-41a3-8018-aa6644bca694": {
 		"name": "ios_stories_reaction_counts_for_viewers",
-		"v": 33260,
+		"v": 33664,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -38253,11 +38253,11 @@
 	},
 	"ee7a548c-74d8-4877-a1e5-9f1aaee2551c": {
 		"name": "android_viewer_reaction_count",
-		"v": 33259,
+		"v": 33663,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -38265,7 +38265,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_18.8"
 			}
 		]
