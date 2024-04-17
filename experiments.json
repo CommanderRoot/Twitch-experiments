@@ -37973,6 +37973,21 @@
 			}
 		]
 	},
+	"ecc17049-9764-4da2-a956-8a2570a0366b": {
+		"name": "dart_decider_stories_two_day_rate_limit",
+		"v": 33724,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treat"
+			}
+		]
+	},
 	"ed053da0-4adf-4ab7-80c2-8b321425a96b": {
 		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_holdout",
 		"v": 32392,
