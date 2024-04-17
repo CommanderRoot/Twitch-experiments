@@ -13903,15 +13903,15 @@
 	},
 	"57bb4c24-813d-4509-b1e0-a3965f7ae5a1": {
 		"name": "android_stories_follow_button",
-		"v": 33136,
+		"v": 33723,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_18.9"
 			}
 		]
@@ -15808,15 +15808,15 @@
 	},
 	"62f1bcee-d7c7-4ba6-9dcd-79a15a68eb67": {
 		"name": "ios_stories_follow_button",
-		"v": 33105,
+		"v": 33722,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -31153,15 +31153,15 @@
 	},
 	"c1b7e4f2-e22a-4420-b037-e25ec0fab280": {
 		"name": "ios_meow_ms2_bits_purchase",
-		"v": 33588,
+		"v": 33721,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_development"
 			}
 		]
