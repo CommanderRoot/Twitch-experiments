@@ -25371,11 +25371,11 @@
 	},
 	"9b2da518-fcf7-4ca6-9bcd-6a55addb7c30": {
 		"name": "ios_meow_subs",
-		"v": 33683,
+		"v": 33715,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -25383,7 +25383,7 @@
 				"value": "full_screen"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "half_screen"
 			}
 		]
