@@ -30574,15 +30574,15 @@
 	},
 	"bcde6941-318f-4907-b5d6-d1cd418a75c5": {
 		"name": "ios_hypetrain_all_time_high",
-		"v": 33719,
+		"v": 33728,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			}
 		]
