@@ -39677,6 +39677,21 @@
 			}
 		]
 	},
+	"f828e734-e412-457b-9af4-2d7772acc628": {
+		"name": "ios_stories_full_flattening",
+		"v": 33750,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"f8740e82-1221-46ea-84cb-0a8192660cd7": {
 		"name": "android_conscrypt_as_first_security_provider_latam",
 		"v": 18838,
