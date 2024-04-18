@@ -31153,15 +31153,15 @@
 	},
 	"c1b7e4f2-e22a-4420-b037-e25ec0fab280": {
 		"name": "ios_meow_ms2_bits_purchase",
-		"v": 33732,
+		"v": 33736,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active_development"
 			}
 		]
