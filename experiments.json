@@ -19444,20 +19444,20 @@
 	},
 	"777820e9-b5ac-4ff0-8430-232a64d78743": {
 		"name": "android_mdf_feature_flag",
-		"v": 33751,
+		"v": 33766,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "active_15.9"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_19.1"
 			}
 		]
