@@ -19444,12 +19444,12 @@
 	},
 	"777820e9-b5ac-4ff0-8430-232a64d78743": {
 		"name": "android_mdf_feature_flag",
-		"v": 33748,
+		"v": 33751,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 70,
 				"value": "control"
 			},
 			{
@@ -19457,7 +19457,7 @@
 				"value": "active_15.9"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "active_19.1"
 			}
 		]
@@ -30146,16 +30146,16 @@
 	},
 	"b98860b0-4035-4213-beca-9aeac7adb0f8": {
 		"name": "purchase_offer_email_verification",
-		"v": 33688,
+		"v": 33753,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
-				"value": "treatment"
+				"weight": 50,
+				"value": "variant"
 			}
 		]
 	},
