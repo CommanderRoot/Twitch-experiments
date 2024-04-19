@@ -11537,15 +11537,15 @@
 	},
 	"48ff8134-fa4f-4f75-9d7e-77ce7d01ed30": {
 		"name": "android_ivs_player_whole_probe",
-		"v": 33744,
+		"v": 33781,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
