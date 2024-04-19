@@ -20733,7 +20733,7 @@
 	},
 	"7ec65455-937a-4f34-9301-a97a6ceb4652": {
 		"name": "android_mdf_max_watchtime",
-		"v": 33355,
+		"v": 33790,
 		"t": 2,
 		"groups": [
 			{
@@ -20742,7 +20742,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_19.0"
+				"value": "active_development"
 			}
 		]
 	},
@@ -25100,7 +25100,7 @@
 	},
 	"99bebb8d-5edd-4b66-a9a3-7b4c45afb2bb": {
 		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_email",
-		"v": 32393,
+		"v": 33794,
 		"t": 2,
 		"groups": [
 			{
@@ -32221,15 +32221,15 @@
 	},
 	"c8813b54-002e-4866-a8d6-296d04aa67cb": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_holdout",
-		"v": 32851,
+		"v": 33791,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "holdout"
 			},
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -37986,15 +37986,15 @@
 	},
 	"ed053da0-4adf-4ab7-80c2-8b321425a96b": {
 		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 32392,
+		"v": 33793,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "holdout"
 			},
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "allowed"
 			}
 		]
@@ -38831,7 +38831,7 @@
 	},
 	"f18c55b9-6290-40a1-999d-b29b55d2f6df": {
 		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_email",
-		"v": 32852,
+		"v": 33792,
 		"t": 2,
 		"groups": [
 			{
