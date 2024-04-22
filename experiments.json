@@ -28593,11 +28593,11 @@
 	},
 	"aff1f400-eaa5-49ee-95be-5c470491d2aa": {
 		"name": "android_ads_client_video_ads_refactor",
-		"v": 33602,
+		"v": 33844,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -28605,7 +28605,7 @@
 				"value": "active_19.2"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_beta_19.2"
 			}
 		]
