@@ -14628,6 +14628,21 @@
 			}
 		]
 	},
+	"5c58b8c6-d81c-4365-b5d3-b53ebebe5ebe": {
+		"name": "dart_marbella_vice_free_token_holdout",
+		"v": 33843,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"5c8e4a59-8c63-4000-9c4e-6224f34b7c21": {
 		"name": "twilight_web_onboarding_channel_surfing",
 		"v": 4245,
