@@ -38016,15 +38016,15 @@
 	},
 	"ecc17049-9764-4da2-a956-8a2570a0366b": {
 		"name": "dart_decider_stories_two_day_rate_limit",
-		"v": 33724,
+		"v": 33860,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "treat"
 			}
 		]
