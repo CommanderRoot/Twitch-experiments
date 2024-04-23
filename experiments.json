@@ -2456,21 +2456,6 @@
 			}
 		]
 	},
-	"0f40d620-3096-498e-af68-4bf7853b4594": {
-		"name": "dart_links_actionabase_follow_io_92923_v2_holdout",
-		"v": 32424,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "holdout"
-			},
-			{
-				"weight": 80,
-				"value": "allowed"
-			}
-		]
-	},
 	"0f865169-3db5-4b47-8ae3-a304ddc57f49": {
 		"name": "dart_apac_twn_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22098,
@@ -11595,6 +11580,21 @@
 			}
 		]
 	},
+	"49bc4cd9-d207-447a-8a73-0f5a2c767860": {
+		"name": "dart_links_actionabase_follow_io_92923_v3_holdout",
+		"v": 33879,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"49cc2917-d8a3-42bc-96b5-2c58b680c92b": {
 		"name": "ios_artificial_latency_discover",
 		"v": 16875,
@@ -20463,15 +20463,15 @@
 	},
 	"7d73078d-ea86-4656-9358-3ea9011a8a12": {
 		"name": "android_mdf_blueberry",
-		"v": 33863,
+		"v": 33874,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_19.2"
 			}
 		]
