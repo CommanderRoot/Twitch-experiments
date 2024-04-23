@@ -25703,7 +25703,7 @@
 	},
 	"9d950d59-1936-4fbc-8eaa-a0d4fe6fcb9f": {
 		"name": "android_ivs_player_gpu_transform",
-		"v": 33452,
+		"v": 33868,
 		"t": 1,
 		"groups": [
 			{
@@ -25711,7 +25711,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
