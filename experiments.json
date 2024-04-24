@@ -40836,6 +40836,21 @@
 			}
 		]
 	},
+	"fe43507f-ed26-42c6-b719-9aa4ce90ab2d": {
+		"name": "dart_twitchcon2024schedulenonticketholders_vwr_1222_dav_cmc_lrn_mis_email_2404_holdout",
+		"v": 33904,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"fe544aab-e543-4280-861e-6c9945b659f7": {
 		"name": "ios_stories_latency_tracking",
 		"v": 32990,
