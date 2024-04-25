@@ -9086,16 +9086,24 @@
 	},
 	"3a48533c-49d7-4518-a0e4-dba5a23ab8de": {
 		"name": "3ds_spm_createdAt",
-		"v": 33927,
+		"v": 33929,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "15"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "30"
+			},
+			{
+				"weight": 25,
+				"value": "0"
+			},
+			{
+				"weight": 25,
+				"value": "5"
 			}
 		]
 	},
@@ -18618,15 +18626,15 @@
 	},
 	"72ca1706-64c4-4488-b333-725d95312494": {
 		"name": "ios_ivs_player_gpu_transform",
-		"v": 33598,
+		"v": 33930,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
