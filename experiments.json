@@ -28051,6 +28051,25 @@
 			}
 		]
 	},
+	"ad4be18d-2ff3-4ba0-b1fc-b53e9baa943f": {
+		"name": "android_integrity_gql_v3",
+		"v": 33939,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_without_enforcement_19.4"
+			},
+			{
+				"weight": 10,
+				"value": "active_with_enforcement_19.4"
+			}
+		]
+	},
 	"ad505384-e920-4fbc-b497-662840867998": {
 		"name": "web_ivs_player_scip_probe",
 		"v": 31004,
