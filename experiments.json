@@ -26041,6 +26041,21 @@
 			}
 		]
 	},
+	"9fe1e8ce-03ec-4992-9102-ddbaf0567965": {
+		"name": "ios_firefly_user",
+		"v": 33919,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"9feb522b-7022-440f-b51e-400989c06723": {
 		"name": "ios_unify_fatal_player_errors",
 		"v": 22673,
