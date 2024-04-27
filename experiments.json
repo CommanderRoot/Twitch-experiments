@@ -12115,12 +12115,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 33947,
+		"v": 33965,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-2c5ce2.pdx01.abs.hls.ttvnw.net/v1/segment/ClZ0tnbyFm7kHF6_P7-0cE-ev4WIXtOhoDNbXaFvwjU-Lm7BEYPFHQsjf5OlYirsSN8jIreu5vSb3Kx_udmGFQ2IFI4R0jVID72c-1wnIF-AFNOnyGfz24wX6_oL4-mhQHhj5dhkNr2puPUvd1itGjgOfm5VXQ5KMOqN2FpPAc0fa_6VhhMKzgLt-SP6aQwY20eXgq0LyNi9Yr-iLHBLNxR7WQwKgdPZjuDtahLUyvKX-Ga27JNHzkIUFD_wmutMlNKEC1mrNNu5FhgVjbMX3vo2aokX_7hogSr7Afy46c0dbmnH-ngDOlRS2ZoeR9fzVzLLSicDM8i_PCTvGoHwIXQcrlawxkly7fe2y6FAyrrP3s3DHKMfQLHnijO8GaS0sHyH3m_LURIKxJFZ-fbRXRCkTGamgmcNuuBwg3XCzocU15IwME_2ycBTJiZrOWy5Cflk5AbJgqET3EWqe2Hn6qxdiWBwTiRnQzZYC7IW0KTnrQx_UXbWD4OMYEF-vfeg11uji3CeAJ30AmqrZBxkKrDbgFx34K2urK_fEJ38bRuEdudvq99GlHSpZjBWA3avsKxBR9RDs-d6zOEv9DbqVpdLAwXgQaZvi9z69DhmAy8UZ0j10jDUFqWRxzuJRDBUdQjGJPmHZSzJjJGjT2mtLTGlxeMeWyk2_5YRU8NLIdEOv5-gAmADZkbLmdZM5HRCifDVBGPPBLwJoI6RzoO93Q-BIgj5Hp74rStqg-EVYbZHpqUQb7ZCyAnMiIHLxiDsS.ts"
+				"value": "//video-edge-522eac.pdx01.abs.hls.ttvnw.net/v1/segment/ClOLrYM6Z6XikxAR8F4q_oZoHmRGqROjPFGHv2-Kqq76JtX8acnPRE8M9Sh2byQibqa1p0rPlGxCmJdnosSHUWomabWY261LMokewrMWGdyYNYUXJugo6oBvKQtCYeIW1s6EfW_Tp5o3xyTVoaGihkAp48I8hjhlQoEtwihuWL8_lcRirL07lJzen0z3Jcr9u6FSTQpW6N_Pf28mQdOqLvz3YVCRoZdO7iA-F4Rl9qMV5JoeqzHqnnKSnQMmiVLpDBd60CuXxRhh-TbuUKAjqZq8RYRCh-SWvYerv3GbB-jKJu9ez1PShDwnU7OqWvhsZjKJutPU9oYkmo5RS54WSRUV18fkBTUx-sDMXo8-fGTfYVB5sNMLHH0XYv4DKcUwxRiRfozxFEEuLRr17pfqnORqKd3XhgaANxIXWOgZHbAgXzWWsKLG_VF9ADqucVjtbd1DrqWXEg1dEygYSpKFptqY1QnttMy8xIJD6XMjFgdNYo6HvC1zMukEiICXlHWMRP3h5PkMq8pLPF2fXfmZHiTXzqPc2_CpbRo19nDA17f1LaZI_YW9-WY2OjJ_nuEuWewQzFhjxMGi_t_Yi-jNFrFH_aaTivYgpP5dE7Nq-tBJZcrcRWN2p4ry7bZxUFr9OVE5wDuXLyXhL4TlHwXz_df6jT89m2zgp2BjQHB5Q4l4l1Y2TufM00EgIPnETaLqwSdxweSSj_FbNYACNp1oFGkHq4nikPHvRZ3wbYv9QyO2zedbbaXdG3C3iq-L7H.ts"
 			}
 		]
 	},
@@ -13110,7 +13110,7 @@
 	},
 	"519368b3-8102-43cc-bd10-b2c5a72a9ec7": {
 		"name": "ios_mdf_omsdk_display_ad_enabled",
-		"v": 33657,
+		"v": 33964,
 		"t": 1,
 		"groups": [
 			{
@@ -13120,6 +13120,10 @@
 			{
 				"weight": 0,
 				"value": "active_v19.2"
+			},
+			{
+				"weight": 0,
+				"value": "active_v19.3"
 			}
 		]
 	},
