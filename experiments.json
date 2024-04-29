@@ -6694,15 +6694,15 @@
 	},
 	"2b09abfb-5f89-4d10-8da2-cd00f5eb1f72": {
 		"name": "ios_mdf_max_watchtime",
-		"v": 33498,
+		"v": 33985,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_v17_0"
 			}
 		]
