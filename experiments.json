@@ -35619,12 +35619,20 @@
 	},
 	"ddc863f1-7cad-44c9-997a-41255cf24b99": {
 		"name": "android_gql_http3_v2_alpha",
-		"v": 33917,
+		"v": 33988,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
+			},
+			{
+				"weight": 25,
+				"value": "active_19.4_http3_google"
+			},
+			{
+				"weight": 25,
+				"value": "4_http3_twitch"
 			}
 		]
 	},
