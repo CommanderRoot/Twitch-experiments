@@ -16517,6 +16517,21 @@
 			}
 		]
 	},
+	"67051949-6651-4516-85ff-cd909ea7bb96": {
+		"name": "ios_ivs_manifest_requester",
+		"v": 33987,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"67073a66-8131-41e0-acf1-73a9ec14f3f1": {
 		"name": "ios_airplay_reset_fix",
 		"v": 9172,
