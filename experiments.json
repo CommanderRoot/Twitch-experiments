@@ -11886,12 +11886,20 @@
 	},
 	"4ada9dab-ee42-4b6b-ac1b-81ed99af8b5e": {
 		"name": "android_gql_http3_v2_beta",
-		"v": 33916,
+		"v": 33990,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 98,
 				"value": "control"
+			},
+			{
+				"weight": 1,
+				"value": "active_19.4_http3_google"
+			},
+			{
+				"weight": 1,
+				"value": "active_19.4_http3_twitch"
 			}
 		]
 	},
@@ -35619,7 +35627,7 @@
 	},
 	"ddc863f1-7cad-44c9-997a-41255cf24b99": {
 		"name": "android_gql_http3_v2_alpha",
-		"v": 33988,
+		"v": 33989,
 		"t": 1,
 		"groups": [
 			{
@@ -35632,7 +35640,7 @@
 			},
 			{
 				"weight": 25,
-				"value": "4_http3_twitch"
+				"value": "active_19.4_http3_twitch"
 			}
 		]
 	},
