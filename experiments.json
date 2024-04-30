@@ -5411,6 +5411,21 @@
 			}
 		]
 	},
+	"22d5f20d-74d0-4492-81ce-743e709ad85a": {
+		"name": "ios_mdf_hide_control_pill",
+		"v": 34017,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"22d79ca1-99b8-42fe-bc37-7d57a3537258": {
 		"name": "android_brand_safety_phase_1",
 		"v": 15284,
