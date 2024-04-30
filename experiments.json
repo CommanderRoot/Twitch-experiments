@@ -21640,16 +21640,16 @@
 	},
 	"84883eae-f43c-4fa4-80e5-f987e64d8571": {
 		"name": "ios_mdf_feature_flag_user",
-		"v": 34007,
+		"v": 34012,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 40,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 60,
+				"weight": 80,
 				"value": "active_v15_9"
 			}
 		]
