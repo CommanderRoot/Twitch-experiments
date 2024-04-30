@@ -9595,7 +9595,7 @@
 	},
 	"3e41aa1b-b88e-40db-b567-5e3ac0d13234": {
 		"name": "ios_mdf_feature_flag_tab",
-		"v": 33978,
+		"v": 34001,
 		"t": 2,
 		"groups": [
 			{
@@ -9603,7 +9603,7 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "feed_tab_eligible_v17.4"
 			},
 			{
@@ -9611,7 +9611,7 @@
 				"value": "feed_tab_default_landing_v17.4"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "feed_tab_default_landing_v19.4"
 			}
 		]
