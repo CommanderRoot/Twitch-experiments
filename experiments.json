@@ -32123,6 +32123,21 @@
 			}
 		]
 	},
+	"c6e2f928-44ea-416e-aedb-9f651132f9f6": {
+		"name": "android_billing_library_upgrade_v6",
+		"v": 34031,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"c6f4855c-654a-4eb1-9c00-ade6559e7251": {
 		"name": "dart_commercemerchjune_vwr_715_cmm_cmc_buy_mis_onsite_226_holdout",
 		"v": 21612,
