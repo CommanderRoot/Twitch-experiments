@@ -30309,15 +30309,15 @@
 	},
 	"b98860b0-4035-4213-beca-9aeac7adb0f8": {
 		"name": "purchase_offer_email_verification",
-		"v": 33788,
+		"v": 34068,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
