@@ -18321,11 +18321,11 @@
 	},
 	"71a60cde-e14a-4efe-80a8-c365108ae720": {
 		"name": "android_meow_ms2_bits_purchase",
-		"v": 33963,
+		"v": 34067,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -18333,7 +18333,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_19.2"
 			}
 		]
