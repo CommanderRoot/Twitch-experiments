@@ -20879,6 +20879,21 @@
 			}
 		]
 	},
+	"7ed3415d-6745-4b11-805c-3e1e01b40c60": {
+		"name": "dart_discoveryfeedtest_ios_050224_push",
+		"v": 34057,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"7ed8cc98-8681-41bc-be78-76479d360083": {
 		"name": "dart_apac_kor_creativeweek_vwr_0_dav_trn_wch_gmg_email_2208_holdout",
 		"v": 22643,
@@ -34869,6 +34884,21 @@
 			{
 				"weight": 100,
 				"value": "active_17.0"
+			}
+		]
+	},
+	"d7c6f048-6241-4858-97be-40dcb2dce3f6": {
+		"name": "dart_discoveryfeedtest_ios_050224_holdout",
+		"v": 34056,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
 			}
 		]
 	},
