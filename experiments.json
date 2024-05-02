@@ -9437,15 +9437,15 @@
 	},
 	"3c9335b2-eddc-4f10-bac1-75e71b4e971b": {
 		"name": "android_hypetrain_v2_rollout",
-		"v": 34055,
+		"v": 34059,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 30,
+				"weight": 80,
 				"value": "active_19.2"
 			},
 			{
-				"weight": 70,
+				"weight": 20,
 				"value": "control"
 			}
 		]
@@ -21283,15 +21283,15 @@
 	},
 	"819aa1dd-700a-4e1d-8114-9a97f6246e3b": {
 		"name": "ios_meow_single_gifting",
-		"v": 33692,
+		"v": 34058,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_development"
 			}
 		]
