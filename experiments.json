@@ -25947,6 +25947,21 @@
 			}
 		]
 	},
+	"9e384480-a571-4567-b839-5dda207b9628": {
+		"name": "android_mdf_hide_control_pill",
+		"v": 34109,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_19.6"
+			}
+		]
+	},
 	"9e9f70b0-06d7-4a33-8faa-f72ad097e089": {
 		"name": "android_ads_om_sdk_api",
 		"v": 22144,
