@@ -7734,7 +7734,7 @@
 	},
 	"3192c7ac-afb9-4cf6-83a6-6abd4d4943dc": {
 		"name": "android_mdf_feed_tab_2",
-		"v": 34127,
+		"v": 34128,
 		"t": 2,
 		"groups": [
 			{
@@ -7742,15 +7742,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "feed_tab_eligible_v17.7"
 			},
 			{
-				"weight": 0,
-				"value": "feed_tab_default_landing_v17.7"
-			},
-			{
-				"weight": 0,
+				"weight": 5,
 				"value": "feed_tab_default_landing_v19.4"
 			}
 		]
@@ -9662,25 +9658,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"3ebc11ab-1baa-4c30-8a82-1f1c50e1c80d": {
-		"name": "android_mdf_feed_tab",
-		"v": 34002,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 95,
-				"value": "feed_tab_eligible_v17.5"
-			},
-			{
-				"weight": 5,
-				"value": "feed_tab_default_landing_v19.4"
 			}
 		]
 	},
