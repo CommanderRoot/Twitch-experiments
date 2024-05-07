@@ -32134,6 +32134,21 @@
 			}
 		]
 	},
+	"c6c59d06-71ab-4b2c-ab47-e61151188467": {
+		"name": "dart_twitchstories_shared_follower_holdout",
+		"v": 34141,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "holdout"
+			},
+			{
+				"weight": 99,
+				"value": "allowed"
+			}
+		]
+	},
 	"c6e2f928-44ea-416e-aedb-9f651132f9f6": {
 		"name": "android_billing_library_upgrade_v6",
 		"v": 34031,
