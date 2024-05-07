@@ -30249,6 +30249,21 @@
 			}
 		]
 	},
+	"b907e6d7-aca3-4b7e-8d31-67877055e264": {
+		"name": "android_ivs_manifest_requester",
+		"v": 34146,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"b918848c-a7ed-4810-86f6-404405d25eba": {
 		"name": "ios_experiment_cluster_test",
 		"v": 28551,
