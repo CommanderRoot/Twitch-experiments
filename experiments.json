@@ -2247,19 +2247,19 @@
 	},
 	"0de2aa47-831f-462a-aa09-ba2500ad350b": {
 		"name": "android_gql_http3_v2",
-		"v": 33915,
+		"v": 34137,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_19.4_http3_twitch"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_19.4_http3_google"
 			}
 		]
