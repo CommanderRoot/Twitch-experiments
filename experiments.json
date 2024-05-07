@@ -7734,7 +7734,7 @@
 	},
 	"3192c7ac-afb9-4cf6-83a6-6abd4d4943dc": {
 		"name": "android_mdf_feed_tab_2",
-		"v": 31750,
+		"v": 34127,
 		"t": 2,
 		"groups": [
 			{
@@ -7748,6 +7748,10 @@
 			{
 				"weight": 0,
 				"value": "feed_tab_default_landing_v17.7"
+			},
+			{
+				"weight": 0,
+				"value": "feed_tab_default_landing_v19.4"
 			}
 		]
 	},
