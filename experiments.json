@@ -18968,6 +18968,21 @@
 			}
 		]
 	},
+	"7449623c-d0cf-4256-b16d-f1c64fcc0ff2": {
+		"name": "dart_abandonedcart_500824_send2_holdout",
+		"v": 34163,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7477c42c-fb98-4681-b918-8b3e8fb045b2": {
 		"name": "dart_rivalsrustbattle2es_vwr_781_dav_cmc_wch_gmg_push_2208_holdout",
 		"v": 22545,
@@ -19074,6 +19089,21 @@
 			{
 				"weight": 1,
 				"value": "2019-01-17"
+			}
+		]
+	},
+	"74ee9e53-dade-4628-8442-4ee1d9b6ab51": {
+		"name": "dart_abandonedcart_500824_send2_email",
+		"v": 34164,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
