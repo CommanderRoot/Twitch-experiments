@@ -16683,6 +16683,21 @@
 			}
 		]
 	},
+	"6800ec0e-7cd2-48e8-8c53-6d19bb9fba22": {
+		"name": "ios_firefly_onboarding",
+		"v": 34151,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v19.6"
+			}
+		]
+	},
 	"680b5624-5ada-4e0f-9f33-0264eb318777": {
 		"name": "pushy_ios_streamup_stream_title_unused",
 		"v": 3598,
