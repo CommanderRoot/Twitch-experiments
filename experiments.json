@@ -30609,7 +30609,7 @@
 	},
 	"bb749f29-e3a6-4013-b2cc-5020b68160ee": {
 		"name": "android_firefly",
-		"v": 32567,
+		"v": 34191,
 		"t": 2,
 		"groups": [
 			{
@@ -30619,6 +30619,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_19.6"
 			}
 		]
 	},
