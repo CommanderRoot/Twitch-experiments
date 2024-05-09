@@ -11537,15 +11537,15 @@
 	},
 	"48ff8134-fa4f-4f75-9d7e-77ce7d01ed30": {
 		"name": "android_ivs_player_whole_probe",
-		"v": 33781,
+		"v": 34211,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -18061,7 +18061,7 @@
 	},
 	"70512ccd-baa7-4377-94dd-9aa86b9e11a7": {
 		"name": "android_disco_mizukage_genjutsu",
-		"v": 32257,
+		"v": 34212,
 		"t": 1,
 		"groups": [
 			{
@@ -18070,7 +18070,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_19.6"
 			}
 		]
 	},
@@ -37731,6 +37731,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"e96a6133-4cdc-431a-ab37-a1d20226c116": {
+		"name": "ios_stories_one_tap_reaction",
+		"v": 34213,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
