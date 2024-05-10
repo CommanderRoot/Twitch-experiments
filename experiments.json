@@ -5417,7 +5417,7 @@
 	},
 	"22d5f20d-74d0-4492-81ce-743e709ad85a": {
 		"name": "ios_mdf_hide_control_pill",
-		"v": 34017,
+		"v": 34225,
 		"t": 1,
 		"groups": [
 			{
@@ -5427,6 +5427,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_19.6"
 			}
 		]
 	},
