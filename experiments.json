@@ -17315,6 +17315,21 @@
 			}
 		]
 	},
+	"6bf7eace-8a9d-4cdf-96e6-e37e007d39bb": {
+		"name": "android_firefly_tablets",
+		"v": 34220,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"6bf95cb2-dbc7-452a-9cd5-7e52b4a3d4ae": {
 		"name": "android_creator_edited_clips",
 		"v": 29546,
@@ -27811,6 +27826,17 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			}
+		]
+	},
+	"aa9a7b2d-92c8-4d2d-8623-c03766ec95aa": {
+		"name": "ios_portrait_clips_playback",
+		"v": 34221,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
