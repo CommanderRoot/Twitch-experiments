@@ -11886,11 +11886,11 @@
 	},
 	"4ada9dab-ee42-4b6b-ac1b-81ed99af8b5e": {
 		"name": "android_gql_http3_v2_beta",
-		"v": 34217,
+		"v": 34219,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -11898,7 +11898,7 @@
 				"value": "active_19.4_http3_google"
 			},
 			{
-				"weight": 20,
+				"weight": 0,
 				"value": "active_19.4_http3_twitch"
 			}
 		]
