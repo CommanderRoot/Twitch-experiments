@@ -16214,6 +16214,21 @@
 			}
 		]
 	},
+	"64bbff3e-a903-4086-8a2b-9e6356ee6e2c": {
+		"name": "android_firefly_onboarding",
+		"v": 34254,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_19.6"
+			}
+		]
+	},
 	"64bfcb47-6285-4036-ab8f-0a8634d4f352": {
 		"name": "following_service_cache_removal",
 		"v": 11277,
