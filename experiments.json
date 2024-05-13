@@ -38831,7 +38831,7 @@
 	},
 	"eea2e078-6c9d-47cb-a161-395f382a4cac": {
 		"name": "android_meow_ms2_bits_purchase_snackbar",
-		"v": 34226,
+		"v": 34281,
 		"t": 2,
 		"groups": [
 			{
@@ -38841,6 +38841,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_19.6"
 			}
 		]
 	},
