@@ -31246,6 +31246,21 @@
 			}
 		]
 	},
+	"bfca8c19-7304-46c1-a7e7-3920c3a554d7": {
+		"name": "android_stories_one_tap_reaction",
+		"v": 34285,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"c0345115-070a-4a30-8e12-aef761647c54": {
 		"name": "user_tokens_db_migration",
 		"v": 24594,
