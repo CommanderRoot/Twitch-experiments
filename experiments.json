@@ -16434,15 +16434,15 @@
 	},
 	"65f5e7d4-8e94-4a07-9934-9c8b1eb1df2f": {
 		"name": "ios_turbo_ads_upsell",
-		"v": 34136,
+		"v": 34289,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_19.4"
 			}
 		]
@@ -24744,15 +24744,15 @@
 	},
 	"972d3986-543b-4e75-b690-ddcc73073510": {
 		"name": "ios_ad_pbyp",
-		"v": 8791,
+		"v": 34287,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
@@ -29492,15 +29492,15 @@
 	},
 	"b2ee85f2-1d1e-4ad6-a1b4-86e8793587d1": {
 		"name": "ios_surestream_ad_pbyp",
-		"v": 8871,
+		"v": 34288,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			}
 		]
