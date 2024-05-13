@@ -1687,16 +1687,16 @@
 	},
 	"0a451b83-97a2-43ed-b774-e951fdf64178": {
 		"name": "ios_onechat_opacity",
-		"v": 34277,
+		"v": 34283,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_v18.9"
 			}
 		]
@@ -24570,15 +24570,15 @@
 	},
 	"95e9dc4f-a69c-4493-8803-f3d386a4c665": {
 		"name": "ios_onechat_dismiss_expanded_chat",
-		"v": 34278,
+		"v": 34284,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_v19.0"
 			}
 		]
