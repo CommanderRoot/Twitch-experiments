@@ -21347,15 +21347,15 @@
 	},
 	"819aa1dd-700a-4e1d-8114-9a97f6246e3b": {
 		"name": "ios_meow_single_gifting",
-		"v": 34058,
+		"v": 34261,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_development"
 			}
 		]
@@ -30689,15 +30689,15 @@
 	},
 	"bb75b692-61c7-494c-9760-0bd33ca2750e": {
 		"name": "android_meow_single_gifting",
-		"v": 33565,
+		"v": 34260,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_development"
 			}
 		]
