@@ -16434,15 +16434,15 @@
 	},
 	"65f5e7d4-8e94-4a07-9934-9c8b1eb1df2f": {
 		"name": "ios_turbo_ads_upsell",
-		"v": 34289,
+		"v": 34290,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 70,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 30,
 				"value": "active_19.4"
 			}
 		]
