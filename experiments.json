@@ -2969,7 +2969,7 @@
 	},
 	"1216ef17-0557-44a0-bc18-baf55d3ac761": {
 		"name": "dart_coldhtetest_051024_lifecycle_email",
-		"v": 34264,
+		"v": 34295,
 		"t": 2,
 		"groups": [
 			{
@@ -33188,15 +33188,15 @@
 	},
 	"cc7ab24d-dcdd-4cf6-910e-e90a2283a563": {
 		"name": "dart_coldhtetest_051024_lifecycle_holdout",
-		"v": 34263,
+		"v": 34294,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "holdout"
 			},
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
