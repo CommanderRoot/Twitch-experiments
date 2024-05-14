@@ -2569,6 +2569,21 @@
 			}
 		]
 	},
+	"100d91a1-08f7-4c24-8c9b-1c70fa6ff64b": {
+		"name": "ios_firefly_onboarding_user",
+		"v": 34318,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v19.6"
+			}
+		]
+	},
 	"101cf80a-d8e3-43d9-8940-eaf856c23ce1": {
 		"name": "dart_q3safetyupdate_mods_vwr_1082_awa_cmc_lrn_mis_onsite_239_holdout",
 		"v": 29897,
