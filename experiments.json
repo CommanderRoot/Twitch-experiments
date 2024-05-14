@@ -22380,15 +22380,15 @@
 	},
 	"890915df-f14e-440d-9f4f-51e155c56e24": {
 		"name": "android_ivs_stage_simulcast",
-		"v": 31460,
+		"v": 34336,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "treatment"
 			}
 		]
@@ -37944,15 +37944,15 @@
 	},
 	"ea102775-3dcc-4e88-99b8-20321f92edde": {
 		"name": "ios_ivs_stage_simulcast",
-		"v": 31461,
+		"v": 34337,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "treatment"
 			}
 		]
@@ -40012,15 +40012,15 @@
 	},
 	"f72636eb-40c3-4bc8-859f-7ed919d788ed": {
 		"name": "ios_signup_webview",
-		"v": 34334,
+		"v": 34338,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 25,
 				"value": "active"
 			}
 		]
