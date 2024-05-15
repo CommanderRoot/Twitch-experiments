@@ -2311,11 +2311,11 @@
 	},
 	"0e572786-6bc7-415b-af2f-330316eac18a": {
 		"name": "android_mdf_strawberry",
-		"v": 34214,
+		"v": 34363,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -2323,7 +2323,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_19.6"
 			}
 		]
