@@ -32721,15 +32721,15 @@
 	},
 	"c8d4e744-dc3b-4fa7-93cc-558cbd6ab860": {
 		"name": "ios_mdf_branded_content",
-		"v": 34024,
+		"v": 34362,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v19_5"
 			}
 		]
