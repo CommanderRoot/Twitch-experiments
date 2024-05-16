@@ -21141,15 +21141,15 @@
 	},
 	"803190f8-9a0a-42c9-bdba-484850a73d08": {
 		"name": "ios_ads_idfa_first",
-		"v": 34392,
+		"v": 34394,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v19.6"
 			}
 		]
