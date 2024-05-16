@@ -21139,6 +21139,21 @@
 			}
 		]
 	},
+	"803190f8-9a0a-42c9-bdba-484850a73d08": {
+		"name": "ios_ads_idfa_first",
+		"v": 34392,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v19.6"
+			}
+		]
+	},
 	"8036e036-569d-459b-82df-c049f466f410": {
 		"name": "ios_browse_updates",
 		"v": 9179,
