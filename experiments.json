@@ -31881,12 +31881,24 @@
 	},
 	"c41f30c6-a459-4ca5-9218-855e7a08bf0e": {
 		"name": "android_kasada_timeout",
-		"v": 34351,
+		"v": 34395,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_30s_19.7"
+			},
+			{
+				"weight": 0,
+				"value": "active_90s_19.7"
+			},
+			{
+				"weight": 0,
+				"value": "active_savant_19.7"
 			}
 		]
 	},
