@@ -22395,15 +22395,15 @@
 	},
 	"890915df-f14e-440d-9f4f-51e155c56e24": {
 		"name": "android_ivs_stage_simulcast",
-		"v": 34336,
+		"v": 34382,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "treatment"
 			}
 		]
@@ -37959,15 +37959,15 @@
 	},
 	"ea102775-3dcc-4e88-99b8-20321f92edde": {
 		"name": "ios_ivs_stage_simulcast",
-		"v": 34337,
+		"v": 34383,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "treatment"
 			}
 		]
