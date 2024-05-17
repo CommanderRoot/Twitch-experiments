@@ -20884,6 +20884,21 @@
 			}
 		]
 	},
+	"7e3b93b0-d217-4459-9bc6-ae6818e482a4": {
+		"name": "dart_twitchconabandonedbasket_vwr_051724_holdout",
+		"v": 34408,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"7e5b08af-50cf-41c1-ab6c-2d2920b662d5": {
 		"name": "android_mgst_playercore_okhttp",
 		"v": 9238,
@@ -32483,6 +32498,21 @@
 			{
 				"weight": 0,
 				"value": "active_16.6"
+			}
+		]
+	},
+	"c7430362-292c-40f4-8205-0f8a71e8932a": {
+		"name": "dart_twitchconabandonedbasket_vwr_051724_email",
+		"v": 34409,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
