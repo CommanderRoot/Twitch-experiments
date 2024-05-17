@@ -20664,15 +20664,15 @@
 	},
 	"7d3087be-2ebd-419c-a875-e1d3d316b0f8": {
 		"name": "ios_ads_disable_gdpr_settings_for_idfa",
-		"v": 34419,
+		"v": 34422,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v19.6"
 			}
 		]
