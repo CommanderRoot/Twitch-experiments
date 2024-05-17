@@ -20662,6 +20662,21 @@
 			}
 		]
 	},
+	"7d3087be-2ebd-419c-a875-e1d3d316b0f8": {
+		"name": "ios_ads_disable_gdpr_settings_for_idfa",
+		"v": 34419,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v19.6"
+			}
+		]
+	},
 	"7d46d35a-02ce-4f3f-ad1c-6d7e7d59a610": {
 		"name": "ios_multiplayer_ad_polls",
 		"v": 12631,
