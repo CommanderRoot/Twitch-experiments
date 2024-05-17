@@ -13471,6 +13471,21 @@
 			}
 		]
 	},
+	"5345a3fb-0c78-4c28-b0af-ad568fa8cda6": {
+		"name": "ios_chat_warnings",
+		"v": 34417,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "release"
+			}
+		]
+	},
 	"535da222-3266-4a34-bd9f-8f30813fcc3b": {
 		"name": "ios_mdf_dislike",
 		"v": 30979,
