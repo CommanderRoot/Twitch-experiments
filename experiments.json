@@ -5448,11 +5448,11 @@
 	},
 	"22d5f20d-74d0-4492-81ce-743e709ad85a": {
 		"name": "ios_mdf_hide_control_pill",
-		"v": 34225,
+		"v": 34494,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -5460,7 +5460,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_19.6"
 			}
 		]
@@ -26210,15 +26210,15 @@
 	},
 	"9e384480-a571-4567-b839-5dda207b9628": {
 		"name": "android_mdf_hide_control_pill",
-		"v": 34115,
+		"v": 34496,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
