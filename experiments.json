@@ -37049,12 +37049,16 @@
 	},
 	"e307cea9-3f17-4194-b0cd-9d3c9b82bd31": {
 		"name": "ios_disco_hamster_switch",
-		"v": 34484,
+		"v": 34507,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
