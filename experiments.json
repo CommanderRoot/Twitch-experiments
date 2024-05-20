@@ -40147,15 +40147,15 @@
 	},
 	"f72636eb-40c3-4bc8-859f-7ed919d788ed": {
 		"name": "ios_signup_webview",
-		"v": 34469,
+		"v": 34471,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			}
 		]
