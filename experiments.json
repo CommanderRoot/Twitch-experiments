@@ -244,12 +244,12 @@
 	},
 	"01791561-feed-429d-b444-28261113a2c9": {
 		"name": "ios_swift_manifest_requester",
-		"v": 32901,
+		"v": 34501,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -261,7 +261,7 @@
 				"value": "active_v2"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v3"
 			}
 		]
@@ -11133,7 +11133,7 @@
 	},
 	"45d5d88a-5b6f-4053-a769-520d567d6b5d": {
 		"name": "dart_ban_user_email",
-		"v": 33994,
+		"v": 34503,
 		"t": 2,
 		"groups": [
 			{
@@ -16660,15 +16660,15 @@
 	},
 	"67051949-6651-4516-85ff-cd909ea7bb96": {
 		"name": "ios_ivs_manifest_requester",
-		"v": 33987,
+		"v": 34500,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			}
 		]
@@ -23697,7 +23697,7 @@
 	},
 	"8f05b9b2-a3f0-44a1-97f0-373f1f4e2206": {
 		"name": "dart_warn_user_email",
-		"v": 34051,
+		"v": 34502,
 		"t": 2,
 		"groups": [
 			{
