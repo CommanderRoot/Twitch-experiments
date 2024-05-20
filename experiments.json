@@ -16459,6 +16459,21 @@
 			}
 		]
 	},
+	"65ad9e15-b137-45ef-8b2f-1d04a900844f": {
+		"name": "dart_helppage_experiment_jp_051724_holdout",
+		"v": 34488,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"65d5406a-9a8b-454b-9324-f34481472904": {
 		"name": "carrie_test",
 		"v": 20232,
@@ -17509,6 +17524,21 @@
 			{
 				"weight": 100,
 				"value": "active_preload_13.1"
+			}
+		]
+	},
+	"6c6c1074-7c8b-45d8-aea5-eba5d6f8328c": {
+		"name": "dart_helppage_experiment_us_051724_holdout",
+		"v": 34490,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 80,
+				"value": "holdout"
+			},
+			{
+				"weight": 20,
+				"value": "allowed"
 			}
 		]
 	},
@@ -19411,6 +19441,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"75a4c82c-34ea-4993-b2e6-3c26c1309693": {
+		"name": "dart_helppage_experiment_us_051724_onsite",
+		"v": 34491,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
@@ -30848,6 +30893,21 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			}
+		]
+	},
+	"bb9399b6-1290-49d8-a3de-ff11985b9e53": {
+		"name": "dart_helppage_experiment_jp_051724_onsite",
+		"v": 34489,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
