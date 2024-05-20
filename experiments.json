@@ -24180,12 +24180,16 @@
 	},
 	"92309d8d-ce32-45b1-8655-571e2dd43d0e": {
 		"name": "android_disco_hamster_switch",
-		"v": 34492,
+		"v": 34497,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
