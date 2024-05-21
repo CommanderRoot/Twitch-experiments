@@ -18224,15 +18224,15 @@
 	},
 	"70512ccd-baa7-4377-94dd-9aa86b9e11a7": {
 		"name": "android_disco_mizukage_genjutsu",
-		"v": 34557,
+		"v": 34564,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_19.6"
 			}
 		]
@@ -37174,15 +37174,15 @@
 	},
 	"e3e7d7ce-a865-4c7f-a81a-68ca9873d500": {
 		"name": "ios_disco_mizukage_genjutsu",
-		"v": 34559,
+		"v": 34565,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active"
 			}
 		]
