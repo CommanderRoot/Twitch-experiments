@@ -18224,15 +18224,15 @@
 	},
 	"70512ccd-baa7-4377-94dd-9aa86b9e11a7": {
 		"name": "android_disco_mizukage_genjutsu",
-		"v": 34212,
+		"v": 34557,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_19.6"
 			}
 		]
@@ -21532,15 +21532,15 @@
 	},
 	"819aa1dd-700a-4e1d-8114-9a97f6246e3b": {
 		"name": "ios_meow_single_gifting",
-		"v": 34310,
+		"v": 34556,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active_development"
 			}
 		]
@@ -37049,7 +37049,7 @@
 	},
 	"e307cea9-3f17-4194-b0cd-9d3c9b82bd31": {
 		"name": "ios_disco_hamster_switch",
-		"v": 34507,
+		"v": 34560,
 		"t": 1,
 		"groups": [
 			{
@@ -37174,15 +37174,15 @@
 	},
 	"e3e7d7ce-a865-4c7f-a81a-68ca9873d500": {
 		"name": "ios_disco_mizukage_genjutsu",
-		"v": 34485,
+		"v": 34559,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
