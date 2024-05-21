@@ -9506,12 +9506,12 @@
 	},
 	"3c9335b2-eddc-4f10-bac1-75e71b4e971b": {
 		"name": "android_hypetrain_v2_rollout",
-		"v": 34143,
+		"v": 34550,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "active_19.2"
+				"value": "active_19.6"
 			},
 			{
 				"weight": 100,
@@ -13597,7 +13597,7 @@
 	},
 	"53e15612-5a1e-4f9f-9d36-4f76977d85b9": {
 		"name": "android_hypetrain_all_time_high_rollout",
-		"v": 33749,
+		"v": 34551,
 		"t": 1,
 		"groups": [
 			{
@@ -13606,7 +13606,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_19.6"
 			}
 		]
 	},
