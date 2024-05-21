@@ -37901,15 +37901,16 @@
 	},
 	"e83e07cc-c09b-4546-bda3-2f688869bd10": {
 		"name": "is_channel_in_direct_hype_train_triggers_v2",
-		"v": 34415,
+		"v": 34536,
 		"t": 3,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "experiment"
 			}
 		]
