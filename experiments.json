@@ -29348,6 +29348,21 @@
 			}
 		]
 	},
+	"b19b207b-46ec-4d5b-8225-3e7bcf2f623d": {
+		"name": "ios_ads_display_skan_integration",
+		"v": 34576,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v19.7"
+			}
+		]
+	},
 	"b1a0ae22-4001-4e5c-8cdb-56b41c65bd1f": {
 		"name": "dart_supermaristreameronsite_ctr_942_dav_cmc_lrn_gmg_onsite_2303_holdout",
 		"v": 26764,
