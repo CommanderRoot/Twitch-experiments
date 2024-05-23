@@ -16675,15 +16675,15 @@
 	},
 	"67051949-6651-4516-85ff-cd909ea7bb96": {
 		"name": "ios_ivs_manifest_requester",
-		"v": 34500,
+		"v": 34611,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			}
 		]
