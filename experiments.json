@@ -21548,15 +21548,15 @@
 	},
 	"819aa1dd-700a-4e1d-8114-9a97f6246e3b": {
 		"name": "ios_meow_single_gifting",
-		"v": 34556,
+		"v": 34619,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_development"
 			}
 		]
