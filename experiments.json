@@ -6064,6 +6064,21 @@
 			}
 		]
 	},
+	"2606ad97-53ee-4511-8c8f-6bf6e7944405": {
+		"name": "dart_twitchconabandonedbasket_vwr_0512424_holdout",
+		"v": 34638,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"264f75af-a787-4a40-8654-40d78b4d8b41": {
 		"name": "extensions",
 		"v": 1360,
@@ -9946,6 +9961,21 @@
 			{
 				"weight": 100,
 				"value": "player_core"
+			}
+		]
+	},
+	"403acaaa-0db0-45f8-aa85-be4e04e0b1b3": {
+		"name": "dart_twitchconabandonedbasket_vwr_0512424_email",
+		"v": 34639,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
