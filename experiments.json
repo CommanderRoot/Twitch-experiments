@@ -19975,12 +19975,16 @@
 	},
 	"78ade6c7-d04f-4458-87a2-6e37b32e32e5": {
 		"name": "ios_stories_video_pinch_zoom_move",
-		"v": 34640,
+		"v": 34641,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
