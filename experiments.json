@@ -11285,6 +11285,21 @@
 			}
 		]
 	},
+	"465f9535-5d82-4cc3-b26b-51312007310a": {
+		"name": "dart_en_viewer_awareness_minecraft_emote_052424_onsite",
+		"v": 34655,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"4694991c-f753-486d-932a-02e80f9775e2": {
 		"name": "dart_twitchcon2023callforcontent1_ctr_940_sgn_cmc_sup_mis_oe_2302_holdout",
 		"v": 26521,
@@ -16128,6 +16143,21 @@
 			}
 		]
 	},
+	"63604551-7e02-4905-adb0-c28648f75caa": {
+		"name": "dart_non_en_viewer_awareness_minecraft_emote_052424_onsite",
+		"v": 34653,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"6363eba4-9052-4a32-893a-69b5aed3c3a6": {
 		"name": "ios_game_broadcasting_setup_callout",
 		"v": 28105,
@@ -18951,6 +18981,21 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			}
+		]
+	},
+	"73422c28-5e3e-46bb-824b-e14146ff5129": {
+		"name": "dart_en_viewer_awareness_minecraft_emote_052424_holdout",
+		"v": 34654,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
@@ -22382,6 +22427,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"86f1f931-f724-41d1-8877-6ff677cc2bd3": {
+		"name": "dart_non_en_viewer_awareness_minecraft_emote_052424_holdout",
+		"v": 34652,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
