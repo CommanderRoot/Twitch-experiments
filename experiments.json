@@ -26549,11 +26549,11 @@
 	},
 	"9fe1e8ce-03ec-4992-9102-ddbaf0567965": {
 		"name": "ios_firefly_user",
-		"v": 34685,
+		"v": 34706,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 85,
 				"value": "control"
 			},
 			{
@@ -26565,7 +26565,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 15,
 				"value": "active_19.7"
 			}
 		]
