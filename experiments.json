@@ -7803,19 +7803,20 @@
 	},
 	"3192c7ac-afb9-4cf6-83a6-6abd4d4943dc": {
 		"name": "android_mdf_feed_tab_2",
-		"v": 34128,
+		"v": 34705,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 94,
 				"value": "feed_tab_eligible_v17.7"
 			},
 			{
-				"weight": 5,
+				"weight": 6,
 				"value": "feed_tab_default_landing_v19.4"
 			}
 		]
@@ -9709,19 +9710,20 @@
 	},
 	"3e41aa1b-b88e-40db-b567-5e3ac0d13234": {
 		"name": "ios_mdf_feature_flag_tab",
-		"v": 34693,
+		"v": 34702,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 94,
 				"value": "feed_tab_eligible_v17.4"
 			},
 			{
-				"weight": 5,
+				"weight": 6,
 				"value": "feed_tab_default_landing_v19.4"
 			}
 		]
@@ -16889,15 +16891,15 @@
 	},
 	"6800ec0e-7cd2-48e8-8c53-6d19bb9fba22": {
 		"name": "ios_firefly_onboarding",
-		"v": 34686,
+		"v": 34703,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v19.6"
 			}
 		]
@@ -31011,11 +31013,11 @@
 	},
 	"bb749f29-e3a6-4013-b2cc-5020b68160ee": {
 		"name": "android_firefly",
-		"v": 34391,
+		"v": 34700,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 85,
 				"value": "control"
 			},
 			{
@@ -31027,7 +31029,7 @@
 				"value": "active_19.6"
 			},
 			{
-				"weight": 0,
+				"weight": 15,
 				"value": "active_19.7"
 			}
 		]
