@@ -2586,15 +2586,15 @@
 	},
 	"100d91a1-08f7-4c24-8c9b-1c70fa6ff64b": {
 		"name": "ios_firefly_onboarding_user",
-		"v": 34318,
+		"v": 34753,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v19.6"
 			}
 		]
