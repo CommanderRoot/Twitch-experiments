@@ -13580,15 +13580,15 @@
 	},
 	"5345a3fb-0c78-4c28-b0af-ad568fa8cda6": {
 		"name": "ios_chat_warnings",
-		"v": 34758,
+		"v": 34761,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "release"
 			}
 		]
@@ -37625,15 +37625,15 @@
 	},
 	"e5421e6a-bc27-48a9-8825-b309b6141c1b": {
 		"name": "mobile_native_chat_warnings",
-		"v": 34757,
+		"v": 34762,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "v1.0"
 			}
 		]
