@@ -13580,15 +13580,15 @@
 	},
 	"5345a3fb-0c78-4c28-b0af-ad568fa8cda6": {
 		"name": "ios_chat_warnings",
-		"v": 34761,
+		"v": 34764,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "release"
 			}
 		]
@@ -31671,7 +31671,7 @@
 	},
 	"bfca8c19-7304-46c1-a7e7-3920c3a554d7": {
 		"name": "android_stories_one_tap_reaction",
-		"v": 34285,
+		"v": 34767,
 		"t": 2,
 		"groups": [
 			{
@@ -31681,6 +31681,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_19.8"
 			}
 		]
 	},
@@ -37625,15 +37629,15 @@
 	},
 	"e5421e6a-bc27-48a9-8825-b309b6141c1b": {
 		"name": "mobile_native_chat_warnings",
-		"v": 34762,
+		"v": 34763,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "v1.0"
 			}
 		]
