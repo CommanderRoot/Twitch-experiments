@@ -11052,7 +11052,7 @@
 	},
 	"451a0db5-24f5-4b5b-a469-f868ef4d16bd": {
 		"name": "dart_minecraft_emote_awarded_052824_onsite",
-		"v": 34733,
+		"v": 34775,
 		"t": 2,
 		"groups": [
 			{
@@ -30368,7 +30368,7 @@
 	},
 	"b5ddee83-a16d-4f20-856f-a5df4df7809c": {
 		"name": "dart_minecraft_emote_awarded_052824_holdout",
-		"v": 34732,
+		"v": 34774,
 		"t": 2,
 		"groups": [
 			{
@@ -37629,15 +37629,15 @@
 	},
 	"e5421e6a-bc27-48a9-8825-b309b6141c1b": {
 		"name": "mobile_native_chat_warnings",
-		"v": 34770,
+		"v": 34773,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 3,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 97,
+				"weight": 100,
 				"value": "v1.0"
 			}
 		]
