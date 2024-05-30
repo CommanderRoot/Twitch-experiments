@@ -37644,16 +37644,16 @@
 	},
 	"e5421e6a-bc27-48a9-8825-b309b6141c1b": {
 		"name": "mobile_native_chat_warnings",
-		"v": 34776,
+		"v": 34798,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "v1.0"
 			}
 		]
