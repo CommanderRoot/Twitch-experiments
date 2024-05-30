@@ -9165,6 +9165,21 @@
 			}
 		]
 	},
+	"39d2db4a-dcbc-4153-a4bb-3f48737f7df7": {
+		"name": "ios_latency_portal",
+		"v": 34797,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"39fa83a5-60a5-46cc-a1b0-2864d0da3437": {
 		"name": "ios_stream_roulette",
 		"v": 12021,
