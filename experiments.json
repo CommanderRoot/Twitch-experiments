@@ -22403,6 +22403,21 @@
 			}
 		]
 	},
+	"85eb1769-0e5c-424a-bea8-53af27498a25": {
+		"name": "android_stories_custom_expiration",
+		"v": 34818,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"85ef02f8-911c-45f4-9042-8e0c9d9face3": {
 		"name": "android_onboarding_surf",
 		"v": 4770,
