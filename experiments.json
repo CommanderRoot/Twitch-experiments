@@ -1329,6 +1329,21 @@
 			}
 		]
 	},
+	"08a579e5-4965-4409-9a95-d0f9e11c824f": {
+		"name": "dart_first_half_clips_frozen_test_053124_holdout",
+		"v": 34828,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"08af54a6-e3c0-44de-ac8a-07736c1d018c": {
 		"name": "dart_q3safetyupdate_streamers_crt_1082_awa_cmc_lrn_mis_onsite_239_holdout",
 		"v": 29896,
@@ -9576,6 +9591,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"3c866f3e-9f3f-4696-975e-6fea61906d08": {
+		"name": "dart_second_half_clips_frozen_test_053124_holdout",
+		"v": 34827,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
 				"value": "allowed"
 			}
 		]
