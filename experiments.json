@@ -30836,11 +30836,11 @@
 	},
 	"b907e6d7-aca3-4b7e-8d31-67877055e264": {
 		"name": "android_ivs_manifest_requester",
-		"v": 34859,
+		"v": 34875,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -30848,11 +30848,11 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_19.9_immediate"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_19.9_async"
 			}
 		]
