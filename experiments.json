@@ -38381,15 +38381,15 @@
 	},
 	"e96a6133-4cdc-431a-ab37-a1d20226c116": {
 		"name": "ios_stories_one_tap_reaction",
-		"v": 34647,
+		"v": 34874,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_19.8"
 			}
 		]
