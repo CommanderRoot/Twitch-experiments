@@ -31739,11 +31739,11 @@
 	},
 	"bfca8c19-7304-46c1-a7e7-3920c3a554d7": {
 		"name": "android_stories_one_tap_reaction",
-		"v": 34767,
+		"v": 34871,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -31751,7 +31751,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_19.8"
 			}
 		]
@@ -39537,15 +39537,15 @@
 	},
 	"efa628c0-7ae8-479c-83ec-7691362570ee": {
 		"name": "android_stories_in_app_camera",
-		"v": 32657,
+		"v": 34872,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_18.3"
 			}
 		]
