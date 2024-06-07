@@ -41570,6 +41570,21 @@
 			}
 		]
 	},
+	"fc950c2c-b835-499d-9924-baeeba329889": {
+		"name": "dart_twitchcon2024eumeetandgreet_vwr_1250_dav_cmc_buy_mis_email_2406_holdout",
+		"v": 34920,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"fcc79c1e-112a-4a51-9d72-b6b19bd9d48a": {
 		"name": "android_age_gating3",
 		"v": 7965,
