@@ -10738,6 +10738,21 @@
 			}
 		]
 	},
+	"436710f5-acc0-40a8-9069-12c63b336220": {
+		"name": "android_ivs_player_abr_recovery_v1",
+		"v": 34918,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"437fe86e-f266-4902-8bb1-a6a1b5cda299": {
 		"name": "dads_experiment_user_test",
 		"v": 6126,
