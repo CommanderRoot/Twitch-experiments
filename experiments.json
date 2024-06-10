@@ -9612,15 +9612,15 @@
 	},
 	"3c9335b2-eddc-4f10-bac1-75e71b4e971b": {
 		"name": "android_hypetrain_v2_rollout",
-		"v": 34550,
+		"v": 34944,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_19.6"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
