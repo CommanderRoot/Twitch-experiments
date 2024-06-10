@@ -31782,11 +31782,11 @@
 	},
 	"bfca8c19-7304-46c1-a7e7-3920c3a554d7": {
 		"name": "android_stories_one_tap_reaction",
-		"v": 34871,
+		"v": 34941,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -31794,7 +31794,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_19.8"
 			}
 		]
@@ -38439,15 +38439,15 @@
 	},
 	"e96a6133-4cdc-431a-ab37-a1d20226c116": {
 		"name": "ios_stories_one_tap_reaction",
-		"v": 34874,
+		"v": 34942,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_19.8"
 			}
 		]
