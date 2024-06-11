@@ -6980,6 +6980,21 @@
 			}
 		]
 	},
+	"2bbfada4-526b-4996-8a86-b588cc3d1d6a": {
+		"name": "dart_es_mx_twitchcon2024sdticketlaunchcommunity_vwr_1243_awa_cmc_lrn_mis_oe_2405_holdout",
+		"v": 34959,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"2bd527cd-9a03-42b6-b388-1d2202802aa2": {
 		"name": "ios_purpose_based_consent_enabled",
 		"v": 26411,
