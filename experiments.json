@@ -15604,6 +15604,21 @@
 			}
 		]
 	},
+	"5fc992a6-67a8-4e12-8f53-e2da2881cc22": {
+		"name": "ios_stories_custom_expiration",
+		"v": 34957,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"5fc9eb8b-c15d-407b-bfeb-d22e7f7854b3": {
 		"name": "android_app_animations",
 		"v": 34791,
