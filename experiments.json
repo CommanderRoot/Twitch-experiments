@@ -9353,6 +9353,21 @@
 			}
 		]
 	},
+	"3aeb9079-1ff7-4ab3-befb-f9bd85011343": {
+		"name": "ios_mv_polls_qa",
+		"v": 34976,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"3af3ebd0-3cab-405f-af2e-f3d904f073a5": {
 		"name": "android_mobile_shield_logging",
 		"v": 30991,
