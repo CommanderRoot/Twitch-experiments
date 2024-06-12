@@ -31615,6 +31615,21 @@
 			}
 		]
 	},
+	"bd9ea1bb-ec4c-4e96-b628-58452667c986": {
+		"name": "android_pip_in_feed",
+		"v": 34984,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.1"
+			}
+		]
+	},
 	"bda2ecdf-99a8-4f06-a74b-b5f849649643": {
 		"name": "dart_offers_categoryholdout",
 		"v": 19060,
