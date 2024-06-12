@@ -22526,7 +22526,7 @@
 	},
 	"85eb1769-0e5c-424a-bea8-53af27498a25": {
 		"name": "android_stories_custom_expiration",
-		"v": 34818,
+		"v": 34982,
 		"t": 2,
 		"groups": [
 			{
@@ -22536,6 +22536,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.1"
 			}
 		]
 	},
