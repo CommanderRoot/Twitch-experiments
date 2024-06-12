@@ -26695,6 +26695,21 @@
 			}
 		]
 	},
+	"9f872985-df84-4fc9-a9da-f5a6a2dd3d61": {
+		"name": "ios_feed_latency_start_time",
+		"v": 34972,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"9fa764ee-7293-4c1f-a0b6-b23c2f28c2cc": {
 		"name": "android_recommendations_in_following",
 		"v": 9160,
