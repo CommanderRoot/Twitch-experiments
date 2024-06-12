@@ -2135,6 +2135,21 @@
 			}
 		]
 	},
+	"0d1c9bf1-afe6-4e0b-bf52-0cbbbaf902fe": {
+		"name": "pepper_hard_block",
+		"v": 34964,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"0d2af185-1195-4816-a13a-8b2fa9fc8cd9": {
 		"name": "social_proof_left_nav",
 		"v": 16023,
