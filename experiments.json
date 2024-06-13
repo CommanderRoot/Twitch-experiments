@@ -11880,6 +11880,17 @@
 			}
 		]
 	},
+	"496b7d19-818c-4d75-8cfd-675b93beaf7f": {
+		"name": "ios_ivs_player_no_cellular_probes",
+		"v": 34995,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"4994d68b-77d3-41f3-bebb-64b96c753b43": {
 		"name": "BROADCAST_SOFTWARE",
 		"v": 2231,
