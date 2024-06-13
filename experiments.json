@@ -20122,21 +20122,6 @@
 			}
 		]
 	},
-	"782465bb-49fd-4fe4-a678-9652f9ff5324": {
-		"name": "android_commerce_test_archive_experimen",
-		"v": 35003,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"783ef8e7-71ab-4fac-aff8-5627686e0edd": {
 		"name": "dart_welcomeemail41_vwr_552_dav_cmc_wch_mis_email_2111_email",
 		"v": 17976,
@@ -26222,6 +26207,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"9ba09f71-f25f-4844-a924-31851fa918a6": {
+		"name": "dart_powerup_launch_viewer_061324_holdout",
+		"v": 35005,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
