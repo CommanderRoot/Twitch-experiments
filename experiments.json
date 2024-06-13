@@ -26272,6 +26272,21 @@
 			}
 		]
 	},
+	"9c540110-cec3-4d68-817a-cb1a0f197d03": {
+		"name": "ios_mv_predictions_widget",
+		"v": 34985,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"9c5b2a82-917b-48b4-91fd-e42126e83eb3": {
 		"name": "tvapps_global_player_bitrate_experiment",
 		"v": 9395,
