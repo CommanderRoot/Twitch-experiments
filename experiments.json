@@ -13820,15 +13820,15 @@
 	},
 	"53e15612-5a1e-4f9f-9d36-4f76977d85b9": {
 		"name": "android_hypetrain_all_time_high_rollout",
-		"v": 34551,
+		"v": 35030,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_19.6"
 			}
 		]
