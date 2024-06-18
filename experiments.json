@@ -31684,15 +31684,15 @@
 	},
 	"bd9ea1bb-ec4c-4e96-b628-58452667c986": {
 		"name": "android_pip_in_feed",
-		"v": 34984,
+		"v": 35058,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_20.1"
 			}
 		]
