@@ -11354,6 +11354,21 @@
 			}
 		]
 	},
+	"46085dfb-29fa-4ade-8d3c-ed19661cb39f": {
+		"name": "android_ivs_manifest_requester_v2",
+		"v": 35059,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.2"
+			}
+		]
+	},
 	"46280c19-10b7-40cc-a0c5-c64904778c97": {
 		"name": "dart_apac_twn_twitchrivalsftdeadbydaylight_vwr_0_dav_trn_wch_gmg_push_2208_holdout",
 		"v": 23765,
@@ -17743,6 +17758,21 @@
 			{
 				"weight": 90,
 				"value": "allowed"
+			}
+		]
+	},
+	"6c1bbd01-8c8a-40da-8879-3962f672b378": {
+		"name": "ios_mdf_mute_v2",
+		"v": 35060,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
