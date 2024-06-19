@@ -28880,11 +28880,11 @@
 	},
 	"ad4be18d-2ff3-4ba0-b1fc-b53e9baa943f": {
 		"name": "android_integrity_gql_v3",
-		"v": 34387,
+		"v": 35081,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -28892,7 +28892,7 @@
 				"value": "active_without_enforcement_19.4"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_with_enforcement_19.4"
 			}
 		]
@@ -30570,12 +30570,12 @@
 	},
 	"b5557f22-d79e-4d6e-8f16-1d83d6a08262": {
 		"name": "android_integrity_gql_v2",
-		"v": 33560,
+		"v": 35082,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -30587,7 +30587,7 @@
 				"value": "active_without_enforcement_14.5"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_with_enforcement_14.5"
 			},
 			{
