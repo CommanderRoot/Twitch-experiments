@@ -13722,15 +13722,15 @@
 	},
 	"5345a3fb-0c78-4c28-b0af-ad568fa8cda6": {
 		"name": "ios_chat_warnings",
-		"v": 34771,
+		"v": 35088,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 3,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 97,
+				"weight": 100,
 				"value": "release"
 			}
 		]
@@ -27020,15 +27020,15 @@
 	},
 	"a0499549-234d-4690-8233-cda2f11915ee": {
 		"name": "android_hype_train_start_gql_optimization",
-		"v": 25268,
+		"v": 35087,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_14.3"
 			}
 		]
