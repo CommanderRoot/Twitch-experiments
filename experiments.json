@@ -26179,19 +26179,19 @@
 	},
 	"9b2da518-fcf7-4ca6-9bcd-6a55addb7c30": {
 		"name": "ios_meow_subs",
-		"v": 33729,
+		"v": 35115,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "full_screen"
 			},
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "half_screen"
 			}
 		]
