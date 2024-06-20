@@ -32241,15 +32241,15 @@
 	},
 	"c1b7e4f2-e22a-4420-b037-e25ec0fab280": {
 		"name": "ios_meow_ms2_bits_purchase",
-		"v": 33736,
+		"v": 35116,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_development"
 			}
 		]
