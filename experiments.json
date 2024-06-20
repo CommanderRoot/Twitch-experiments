@@ -1808,16 +1808,20 @@
 	},
 	"0af52375-f9d0-437e-8fc5-da1ce159ea6a": {
 		"name": "ios_swift_analytics_controller",
-		"v": 34887,
+		"v": 35111,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 5,
+				"value": "active_v2"
 			}
 		]
 	},
