@@ -40891,15 +40891,15 @@
 	},
 	"f72636eb-40c3-4bc8-859f-7ed919d788ed": {
 		"name": "ios_signup_webview",
-		"v": 35119,
+		"v": 35120,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
