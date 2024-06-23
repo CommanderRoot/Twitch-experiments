@@ -34967,6 +34967,21 @@
 			}
 		]
 	},
+	"d25727e3-c913-4e65-84d4-428eec0235b4": {
+		"name": "android_gigantified_emotes_rendering_enabled",
+		"v": 35125,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"d26d142d-25de-4bfb-bd47-2a59f0eb7ffe": {
 		"name": "ios_ads_left_thirds",
 		"v": 34812,
