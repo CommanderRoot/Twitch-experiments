@@ -11390,15 +11390,15 @@
 	},
 	"46085dfb-29fa-4ade-8d3c-ed19661cb39f": {
 		"name": "android_ivs_manifest_requester_v2",
-		"v": 35059,
+		"v": 35151,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_20.2"
 			}
 		]
