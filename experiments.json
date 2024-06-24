@@ -5377,6 +5377,21 @@
 			}
 		]
 	},
+	"217488cf-71c0-4bc4-b8c3-eb790ff74800": {
+		"name": "ios_animated_message_chat_rendering",
+		"v": 35154,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"2189714b-fc88-4907-bbe8-aff56eb9476e": {
 		"name": "dart_apac_sgp_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22107,
