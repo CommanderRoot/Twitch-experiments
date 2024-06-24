@@ -15696,15 +15696,15 @@
 	},
 	"5fc992a6-67a8-4e12-8f53-e2da2881cc22": {
 		"name": "ios_stories_custom_expiration",
-		"v": 34957,
+		"v": 35143,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -22586,11 +22586,11 @@
 	},
 	"85eb1769-0e5c-424a-bea8-53af27498a25": {
 		"name": "android_stories_custom_expiration",
-		"v": 34982,
+		"v": 35142,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -22598,7 +22598,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_20.1"
 			}
 		]
