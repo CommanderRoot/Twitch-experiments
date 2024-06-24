@@ -17592,21 +17592,6 @@
 			}
 		]
 	},
-	"6ac5539d-a622-4c75-a09a-7798591a78c5": {
-		"name": "ios_watch_party_2019",
-		"v": 33411,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
 	"6ace5134-aaad-46e2-9612-cb3b988a2813": {
 		"name": "android_mgst_games_broadcasting_global",
 		"v": 12753,
@@ -42365,25 +42350,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"feead3b1-dd13-4a2d-acb5-98d58dd84754": {
-		"name": "ios_watch_party_viewing",
-		"v": 33412,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "active_11.0"
 			}
 		]
 	},
