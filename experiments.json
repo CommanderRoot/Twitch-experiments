@@ -1284,6 +1284,21 @@
 			}
 		]
 	},
+	"07fc858a-44b6-4638-9013-1c45e395d003": {
+		"name": "ios_firefly_following_button",
+		"v": 35145,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_20.1"
+			}
+		]
+	},
 	"08478764-2334-4cbb-b8b4-1eeaa10c3b46": {
 		"name": "notifications_settings_dax_write_rollout",
 		"v": 26325,
