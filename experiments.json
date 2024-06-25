@@ -27072,6 +27072,17 @@
 			}
 		]
 	},
+	"a02adec3-c461-4a9c-9be2-d2f3838ef600": {
+		"name": "ios_power_ups_chat_celebration",
+		"v": 35181,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"a02c45d3-d02f-4922-bb21-586e7642b77f": {
 		"name": "dart_logged_out_decorator_holdout",
 		"v": 16076,
@@ -32689,19 +32700,19 @@
 	},
 	"c41f30c6-a459-4ca5-9218-855e7a08bf0e": {
 		"name": "android_kasada_timeout",
-		"v": 34395,
+		"v": 35182,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_30s_19.7"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_90s_19.7"
 			},
 			{
@@ -39117,6 +39128,29 @@
 			{
 				"weight": 100,
 				"value": "arkosev2"
+			}
+		]
+	},
+	"eb2db566-183e-4a28-b592-9f2a4411ca7f": {
+		"name": "android_mdf_nudge_to_enter",
+		"v": 35184,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "watch"
+			},
+			{
+				"weight": 0,
+				"value": "chat"
+			},
+			{
+				"weight": 0,
+				"value": "watch_chat"
 			}
 		]
 	},
