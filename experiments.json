@@ -5860,6 +5860,21 @@
 			}
 		]
 	},
+	"241d07c1-abdc-4ca7-a2f7-352b12b9e37d": {
+		"name": "ios_ivs_super_resolution",
+		"v": 35178,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control_v0.0"
+			},
+			{
+				"weight": 50,
+				"value": "active_v0.0"
+			}
+		]
+	},
 	"2423be45-79f7-4ab0-9f4b-3e2a8453b658": {
 		"name": "dart_pietsmietminigolf_vwr_975_dav_cmc_wch_gmg_oe_2304_holdout",
 		"v": 27344,
