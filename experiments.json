@@ -6902,7 +6902,7 @@
 	},
 	"2b09abfb-5f89-4d10-8da2-cd00f5eb1f72": {
 		"name": "ios_mdf_max_watchtime",
-		"v": 33985,
+		"v": 35190,
 		"t": 2,
 		"groups": [
 			{
@@ -6912,6 +6912,10 @@
 			{
 				"weight": 0,
 				"value": "active_v17_0"
+			},
+			{
+				"weight": 0,
+				"value": "active_v20_1_4"
 			}
 		]
 	},
@@ -35075,7 +35079,7 @@
 	},
 	"d26d142d-25de-4bfb-bd47-2a59f0eb7ffe": {
 		"name": "ios_ads_left_thirds",
-		"v": 35186,
+		"v": 35189,
 		"t": 1,
 		"groups": [
 			{
@@ -35085,6 +35089,10 @@
 			{
 				"weight": 0,
 				"value": "active_v20.3"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
@@ -42272,6 +42280,21 @@
 			{
 				"weight": 90,
 				"value": "allowed"
+			}
+		]
+	},
+	"fdecd369-dfc9-4e8a-83bb-0e1adb3cc171": {
+		"name": "ios_video_ads_show_play_pause_button",
+		"v": 35192,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active "
 			}
 		]
 	},
