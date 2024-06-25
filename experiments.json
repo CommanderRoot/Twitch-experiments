@@ -23963,6 +23963,21 @@
 			}
 		]
 	},
+	"8e024ce5-8ac9-49d2-98c0-defcfa7935cf": {
+		"name": "powerups.gigantified-emote",
+		"v": 35199,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8e09e8c6-cea7-4afb-be62-9c9fdc8eedf7": {
 		"name": "Test-v1",
 		"v": 3548,
