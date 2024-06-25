@@ -27074,12 +27074,16 @@
 	},
 	"a02adec3-c461-4a9c-9be2-d2f3838ef600": {
 		"name": "ios_power_ups_chat_celebration",
-		"v": 35181,
+		"v": 35198,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
