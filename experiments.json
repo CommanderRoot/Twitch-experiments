@@ -13974,7 +13974,7 @@
 	},
 	"54c22f31-10b1-4325-ab5c-ca8c2ee29f2a": {
 		"name": "android_firefly_following_button",
-		"v": 35160,
+		"v": 35169,
 		"t": 1,
 		"groups": [
 			{
@@ -13983,7 +13983,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_20.1"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.3"
 			}
 		]
 	},
