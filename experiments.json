@@ -13972,6 +13972,21 @@
 			}
 		]
 	},
+	"54c22f31-10b1-4325-ab5c-ca8c2ee29f2a": {
+		"name": "android_firefly_following_button",
+		"v": 35160,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"54d890cd-d302-45fe-84f0-bbd87fd4c213": {
 		"name": "dart_twitchconlasvegasreminder_crt_985_awa_cmc_lrn_mis_eo_235_holdout",
 		"v": 27660,
