@@ -2989,15 +2989,15 @@
 	},
 	"11cc15ca-425c-4ab9-a6a6-3a15f6930633": {
 		"name": "android_turbo_us2",
-		"v": 34135,
+		"v": 35224,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_19.3"
 			}
 		]
@@ -16906,15 +16906,15 @@
 	},
 	"65f5e7d4-8e94-4a07-9934-9c8b1eb1df2f": {
 		"name": "ios_turbo_ads_upsell",
-		"v": 34291,
+		"v": 35223,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_19.4"
 			}
 		]
