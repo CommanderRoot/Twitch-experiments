@@ -42334,7 +42334,7 @@
 	},
 	"fdecd369-dfc9-4e8a-83bb-0e1adb3cc171": {
 		"name": "ios_ads_show_play_pause_button",
-		"v": 35208,
+		"v": 35211,
 		"t": 1,
 		"groups": [
 			{
@@ -42344,6 +42344,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_v20.3"
 			}
 		]
 	},
