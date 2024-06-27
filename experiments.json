@@ -6932,11 +6932,11 @@
 	},
 	"2b09abfb-5f89-4d10-8da2-cd00f5eb1f72": {
 		"name": "ios_mdf_max_watchtime",
-		"v": 35218,
+		"v": 35244,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -6944,7 +6944,7 @@
 				"value": "active_v17_0"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v20_1_4"
 			}
 		]
@@ -17877,15 +17877,15 @@
 	},
 	"6c1bbd01-8c8a-40da-8879-3962f672b378": {
 		"name": "ios_mdf_mute_v2",
-		"v": 35060,
+		"v": 35243,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -21529,19 +21529,15 @@
 	},
 	"7ec65455-937a-4f34-9301-a97a6ceb4652": {
 		"name": "android_mdf_max_watchtime",
-		"v": 35146,
+		"v": 35245,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_development"
-			},
-			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_20.2"
 			}
 		]
