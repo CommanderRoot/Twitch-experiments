@@ -3978,12 +3978,16 @@
 	},
 	"17b68e14-6200-4e8e-b306-39b423226a4a": {
 		"name": "android_copo_message_effects_rendering_enabled",
-		"v": 35229,
+		"v": 35230,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
