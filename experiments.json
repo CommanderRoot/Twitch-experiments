@@ -11995,12 +11995,16 @@
 	},
 	"496b7d19-818c-4d75-8cfd-675b93beaf7f": {
 		"name": "ios_ivs_player_abr_firefly_v1",
-		"v": 35254,
+		"v": 35287,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
@@ -31355,12 +31359,16 @@
 	},
 	"b9f6b494-e35d-4bc8-bc1b-fffc056321e4": {
 		"name": "android_ivs_player_abr_firefly_v1",
-		"v": 35255,
+		"v": 35288,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
