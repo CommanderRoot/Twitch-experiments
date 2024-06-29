@@ -27436,7 +27436,7 @@
 	},
 	"a1cdf2ac-6a9d-4738-94c4-bcbe9e286014": {
 		"name": "android_mdf_wizard_override",
-		"v": 34947,
+		"v": 35292,
 		"t": 1,
 		"groups": [
 			{
@@ -27452,7 +27452,7 @@
 				"value": "active_16.7"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_20.0"
 			}
 		]
