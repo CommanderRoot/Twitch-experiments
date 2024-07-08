@@ -3923,6 +3923,21 @@
 			}
 		]
 	},
+	"177e8b19-912a-4183-8948-50e63efae001": {
+		"name": "ios_stories_resharing",
+		"v": 35327,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"178a1589-be5e-4989-b286-a582ca77feff": {
 		"name": "dart_survey_tcsd_partner_holdout",
 		"v": 24749,
