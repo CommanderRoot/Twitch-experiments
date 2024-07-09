@@ -2156,15 +2156,15 @@
 	},
 	"0d1c9bf1-afe6-4e0b-bf52-0cbbbaf902fe": {
 		"name": "pepper_hard_block",
-		"v": 35219,
+		"v": 35349,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
