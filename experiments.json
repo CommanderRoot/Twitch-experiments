@@ -4229,6 +4229,21 @@
 			}
 		]
 	},
+	"1991f444-dfa6-4923-8726-093fb13aa768": {
+		"name": "ios_power_ups",
+		"v": 35352,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"199b9b8e-6055-4d18-a55d-12a4b5e560bc": {
 		"name": "dart_netzdg_reporter_report_enforcement_email",
 		"v": 27835,
