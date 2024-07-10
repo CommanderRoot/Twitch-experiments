@@ -15100,6 +15100,21 @@
 			}
 		]
 	},
+	"5bc36a74-93a2-42e4-8c54-a4955f04b84b": {
+		"name": "ios_power_ups_chat_celebration_1",
+		"v": 35376,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"5bdcd7ae-c35c-4c5a-80b4-72716c3f5612": {
 		"name": "android_disable_core_player_mp4_playback",
 		"v": 3738,
@@ -27216,21 +27231,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"a02adec3-c461-4a9c-9be2-d2f3838ef600": {
-		"name": "ios_power_ups_chat_celebration",
-		"v": 35198,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
