@@ -34972,6 +34972,25 @@
 			}
 		]
 	},
+	"d0a02922-502b-4af3-96bd-1add78a4ce4d": {
+		"name": "android_mdf_dpr",
+		"v": 35454,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_3sd"
+			},
+			{
+				"weight": 0,
+				"value": "active_6sd"
+			}
+		]
+	},
 	"d0b590b0-12df-4f8d-ad66-39754ca1644e": {
 		"name": "dart_ecommedfpsogiftsublifecycle1_vwr_412_sbs_cmc_sub_mis_email_2105_it_holdout",
 		"v": 15263,
