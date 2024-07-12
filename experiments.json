@@ -23138,6 +23138,25 @@
 			}
 		]
 	},
+	"8875f4f1-3e9a-46ac-89aa-c66765be3a9f": {
+		"name": "android_mdf_delay_pr",
+		"v": 35463,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_3sd"
+			},
+			{
+				"weight": 0,
+				"value": "active_6sd"
+			}
+		]
+	},
 	"8896fcd5-cdee-422d-91a9-0b9ce1672eb8": {
 		"name": "ios_pause_video_play_timer_for_autoplay",
 		"v": 8915,
@@ -34969,25 +34988,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"d0a02922-502b-4af3-96bd-1add78a4ce4d": {
-		"name": "android_mdf_dpr",
-		"v": 35454,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_3sd"
-			},
-			{
-				"weight": 0,
-				"value": "active_6sd"
 			}
 		]
 	},
