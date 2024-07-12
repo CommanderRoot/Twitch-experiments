@@ -20492,6 +20492,21 @@
 			}
 		]
 	},
+	"78508269-ace0-4f3b-95fb-1bf66b5ffd77": {
+		"name": "ios_firefly_tablets",
+		"v": 35478,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"786fee02-59cd-4fff-afa0-4d936fa48578": {
 		"name": "ios_mb_low_latency_video_encoder",
 		"v": 24069,
