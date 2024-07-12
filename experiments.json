@@ -22087,6 +22087,21 @@
 			}
 		]
 	},
+	"8110c7e7-4746-49c9-8d46-dd7835314904": {
+		"name": "android_super_resolution",
+		"v": 35469,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "control_v0.0"
+			},
+			{
+				"weight": 10,
+				"value": "treatment_v0.0"
+			}
+		]
+	},
 	"81134434-865b-4c9b-8349-239eae6596a1": {
 		"name": "android_player_refactor_release",
 		"v": 3464,
