@@ -11127,11 +11127,11 @@
 	},
 	"443088e7-5542-48f8-bc00-fa0d5ae8dd27": {
 		"name": "ios_mdf_strawberry",
-		"v": 34882,
+		"v": 35467,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -11143,7 +11143,7 @@
 				"value": "active_v19.5"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v19.6"
 			}
 		]
