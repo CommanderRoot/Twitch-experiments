@@ -1634,15 +1634,15 @@
 	},
 	"0a00129f-d983-47e2-8991-cf52203560e8": {
 		"name": "android_anr_tracking",
-		"v": 31193,
+		"v": 35499,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_16.9"
 			}
 		]
