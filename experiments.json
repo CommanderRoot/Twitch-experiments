@@ -35458,15 +35458,15 @@
 	},
 	"d26d142d-25de-4bfb-bd47-2a59f0eb7ffe": {
 		"name": "ios_ads_left_thirds",
-		"v": 35189,
+		"v": 35532,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v20.3"
 			},
 			{
@@ -40498,11 +40498,11 @@
 	},
 	"f012e716-6ee1-4181-8427-b90578479405": {
 		"name": "android_report_wizard_portal_impl",
-		"v": 35041,
+		"v": 35533,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -40518,7 +40518,7 @@
 				"value": "PortalFragmentProduction_20.1"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "PortalFragmentProduction_20.2"
 			}
 		]
