@@ -8875,33 +8875,6 @@
 			}
 		]
 	},
-	"368131ab-f9a6-482e-8187-6b801ca6ed9b": {
-		"name": "ios_mdf_grape_timeout",
-		"v": 35473,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "1000"
-			},
-			{
-				"weight": 0,
-				"value": "2000"
-			},
-			{
-				"weight": 0,
-				"value": "3000"
-			},
-			{
-				"weight": 100,
-				"value": "4000"
-			},
-			{
-				"weight": 0,
-				"value": "5000"
-			}
-		]
-	},
 	"368c6fd3-5fe9-4af1-aced-404d8569be23": {
 		"name": "android_help_pages",
 		"v": 27113,
@@ -21981,21 +21954,6 @@
 			{
 				"weight": 0,
 				"value": "grid_banner_image"
-			}
-		]
-	},
-	"803802fb-0571-48a9-85d6-d171052e4338": {
-		"name": "ios_mdf_grape",
-		"v": 35447,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_v20.4"
 			}
 		]
 	},
@@ -40425,21 +40383,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"ef34afef-6a04-40f4-a290-4bec2eaadf90": {
-		"name": "ios_mdf_grape_latency_user",
-		"v": 35492,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_v20.4"
 			}
 		]
 	},
