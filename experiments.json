@@ -17264,15 +17264,15 @@
 	},
 	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
 		"name": "leftnav_following_promoted_sponsorships",
-		"v": 35568,
+		"v": 35570,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 45,
+				"weight": 40,
 				"value": "control"
 			},
 			{
-				"weight": 55,
+				"weight": 60,
 				"value": "variant"
 			}
 		]
@@ -33558,6 +33558,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"c64996b8-02b1-4cff-a744-5126c2098e81": {
+		"name": "and_firefly_buffering_changes",
+		"v": 35569,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.5"
 			}
 		]
 	},
