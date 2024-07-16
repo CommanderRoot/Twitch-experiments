@@ -6374,7 +6374,7 @@
 	},
 	"27036b5f-8b74-4da1-9bad-a6eaa25a4c33": {
 		"name": "navi_li_similarity",
-		"v": 32906,
+		"v": 35567,
 		"t": 2,
 		"s": 2,
 		"groups": [
@@ -16080,6 +16080,21 @@
 			}
 		]
 	},
+	"600ffd37-11f5-442b-969f-c4924907203e": {
+		"name": "ios_creator_goals_leaderboard",
+		"v": 35562,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"60105635-efcd-41d7-98eb-705455ba48ad": {
 		"name": "dart_apac_anz_pathofexile_vwr_0_dav_trn_wch_gmg_email_2208_holdout",
 		"v": 23792,
@@ -17249,15 +17264,15 @@
 	},
 	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
 		"name": "leftnav_following_promoted_sponsorships",
-		"v": 32898,
+		"v": 35568,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 45,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 55,
 				"value": "variant"
 			}
 		]
