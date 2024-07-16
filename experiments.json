@@ -19136,7 +19136,7 @@
 	},
 	"71dbedf2-fee4-48ed-9476-fe22790c5338": {
 		"name": "ios_mdf_nudge_to_enter",
-		"v": 35213,
+		"v": 35559,
 		"t": 1,
 		"groups": [
 			{
@@ -19145,7 +19145,15 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "watch"
+			},
+			{
+				"weight": 0,
+				"value": "chat"
+			},
+			{
+				"weight": 0,
+				"value": "watch_chat"
 			}
 		]
 	},
