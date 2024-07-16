@@ -17264,15 +17264,15 @@
 	},
 	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
 		"name": "leftnav_following_promoted_sponsorships",
-		"v": 35571,
+		"v": 35572,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 35,
+				"weight": 30,
 				"value": "control"
 			},
 			{
-				"weight": 65,
+				"weight": 70,
 				"value": "variant"
 			}
 		]
