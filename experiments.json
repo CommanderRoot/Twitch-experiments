@@ -18036,7 +18036,7 @@
 	},
 	"6bf7eace-8a9d-4cdf-96e6-e37e007d39bb": {
 		"name": "android_firefly_tablets",
-		"v": 34228,
+		"v": 35553,
 		"t": 1,
 		"groups": [
 			{
@@ -18046,6 +18046,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.5"
 			}
 		]
 	},
