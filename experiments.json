@@ -9415,15 +9415,15 @@
 	},
 	"39d2db4a-dcbc-4153-a4bb-3f48737f7df7": {
 		"name": "ios_latency_portal",
-		"v": 35384,
+		"v": 35554,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
