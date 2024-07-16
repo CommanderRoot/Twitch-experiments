@@ -5452,6 +5452,21 @@
 			}
 		]
 	},
+	"2183ade0-d7a8-4c13-9c3c-a59431fdcea1": {
+		"name": "dart_lavelada_vwr_1271_dav_cmc_wch_spt_email_2407_email",
+		"v": 35551,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"2189714b-fc88-4907-bbe8-aff56eb9476e": {
 		"name": "dart_apac_sgp_fpgov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22107,
@@ -38468,6 +38483,21 @@
 			{
 				"weight": 100,
 				"value": "mvi_swiftui"
+			}
+		]
+	},
+	"e4e6cb95-95e5-47d3-b87a-7f6e5b77445b": {
+		"name": "dart_lavelada_vwr_1271_dav_cmc_wch_spt_email_2407_holdout",
+		"v": 35550,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 33,
+				"value": "holdout"
+			},
+			{
+				"weight": 67,
+				"value": "allowed"
 			}
 		]
 	},
