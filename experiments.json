@@ -17264,15 +17264,15 @@
 	},
 	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
 		"name": "leftnav_following_promoted_sponsorships",
-		"v": 35574,
+		"v": 35576,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 80,
 				"value": "variant"
 			}
 		]
@@ -19318,23 +19318,23 @@
 	},
 	"72332443-cfaa-4eaa-90f9-239755051a45": {
 		"name": "android_deterministic_theatre_loading",
-		"v": 35419,
+		"v": 35575,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "active_19.7"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_preload_chat_19.7"
 			},
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "active_w_placeholder_19.7"
 			}
 		]
