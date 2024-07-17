@@ -30954,15 +30954,15 @@
 	},
 	"b4673df8-a2ea-44fe-baf3-a190443e5b65": {
 		"name": "android_autofill",
-		"v": 35593,
+		"v": 35594,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_20.4"
 			}
 		]
