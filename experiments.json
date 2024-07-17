@@ -33561,21 +33561,6 @@
 			}
 		]
 	},
-	"c64996b8-02b1-4cff-a744-5126c2098e81": {
-		"name": "and_firefly_buffering_changes",
-		"v": 35569,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_20.5"
-			}
-		]
-	},
 	"c68060b4-af24-4542-9eca-589628c3a6b3": {
 		"name": "dart_apac_anz_dreamhackrivals_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
 		"v": 23928,
@@ -34696,6 +34681,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"cd170bc0-f694-4fcf-b169-85779309eecc": {
+		"name": "android_mdf_buffering_changes",
+		"v": 35596,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.5"
 			}
 		]
 	},
