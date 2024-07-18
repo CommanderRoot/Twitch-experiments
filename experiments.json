@@ -40326,6 +40326,21 @@
 			}
 		]
 	},
+	"ee87f9a9-7842-4ecb-a4ea-cca9378fa7c2": {
+		"name": "ios_firefly_user_launch",
+		"v": 35625,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.5"
+			}
+		]
+	},
 	"ee8de73a-7358-4f49-9980-ceb32be2f73f": {
 		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_push_2212_2ndday_holdout",
 		"v": 25722,
