@@ -26121,12 +26121,16 @@
 	},
 	"989f35b2-6fda-4f71-9e43-7d776ba6f9a3": {
 		"name": "ios_power_ups_gigantify",
-		"v": 35624,
+		"v": 35626,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
