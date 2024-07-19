@@ -32375,6 +32375,21 @@
 			}
 		]
 	},
+	"be5e45d7-4f44-4a89-b766-b7bc6df49be6": {
+		"name": "dart_evo071824_holdout",
+		"v": 35642,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"be7d3de2-efe2-439d-8613-efe9f1cb1ef2": {
 		"name": "ios_ivs_player_abr_recovery_v1",
 		"v": 35009,
