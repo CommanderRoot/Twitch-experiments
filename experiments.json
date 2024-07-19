@@ -41531,15 +41531,15 @@
 	},
 	"f6c4da8c-0e1a-4597-9778-7b89d801710a": {
 		"name": "android_ads_video_ad_pod_refactor",
-		"v": 35622,
+		"v": 35643,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "active_20.3"
 			}
 		]
