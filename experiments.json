@@ -24808,6 +24808,21 @@
 			}
 		]
 	},
+	"90ef68e0-b00a-4d0d-a7bc-17fe6349a366": {
+		"name": "android_firefly_user_launch",
+		"v": 35628,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.5"
+			}
+		]
+	},
 	"91198f7d-490a-42ce-a3b1-474f58673998": {
 		"name": "ios_staff_xarth_beta_prompt",
 		"v": 35525,
