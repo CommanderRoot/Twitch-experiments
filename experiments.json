@@ -5083,6 +5083,21 @@
 			}
 		]
 	},
+	"1fa7a21c-6caf-4b01-a9fd-47342010f87e": {
+		"name": "ios_mv_reward_queue_widget",
+		"v": 35650,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"1fb78b8f-6043-497a-81a0-f7f84b32da8a": {
 		"name": "dart_eoycreatoronsite_vwr_898_awa_cmc_mis_onsite_2212_holdout",
 		"v": 25695,
