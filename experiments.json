@@ -39302,6 +39302,21 @@
 			}
 		]
 	},
+	"e93ddc07-8ac7-4bf0-a51a-ea689d3d32af": {
+		"name": "mobile_ivs_player_core_bwe_seeding",
+		"v": 35656,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"e949fd56-42a9-4485-a3cf-385d1c7b0749": {
 		"name": "android_mgst_mobile_games_broadcasting",
 		"v": 9571,
