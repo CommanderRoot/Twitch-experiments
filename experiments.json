@@ -9383,21 +9383,6 @@
 			}
 		]
 	},
-	"39a78eae-7b21-4ff8-8c27-d8353e7531d4": {
-		"name": "dads_use_twitch_raids",
-		"v": 29672,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "use_twitch_raids"
-			}
-		]
-	},
 	"39b52a82-f780-4a14-9ea1-f7270eaf1eb6": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13548,
@@ -40668,11 +40653,11 @@
 	},
 	"f012e716-6ee1-4181-8427-b90578479405": {
 		"name": "android_report_wizard_portal_impl",
-		"v": 35535,
+		"v": 35678,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -40680,7 +40665,7 @@
 				"value": "RxMVPPortalView"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "PortalFragmentProduction_20.4"
 			}
 		]
