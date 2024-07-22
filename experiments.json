@@ -9419,7 +9419,7 @@
 	},
 	"39d2db4a-dcbc-4153-a4bb-3f48737f7df7": {
 		"name": "ios_latency_portal",
-		"v": 35619,
+		"v": 35687,
 		"t": 1,
 		"groups": [
 			{
@@ -9429,6 +9429,10 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			},
+			{
+				"weight": 0,
+				"value": "treatment_v2"
 			}
 		]
 	},
@@ -41569,15 +41573,15 @@
 	},
 	"f6c4da8c-0e1a-4597-9778-7b89d801710a": {
 		"name": "android_ads_video_ad_pod_refactor",
-		"v": 35643,
+		"v": 35688,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "active_20.3"
 			}
 		]
