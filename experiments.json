@@ -17410,6 +17410,21 @@
 			}
 		]
 	},
+	"67a84da3-5ab5-4ece-a55f-04861d26d1fa": {
+		"name": "ios_ads_show_second_metadata_view",
+		"v": 35698,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"67ae023b-0b2d-42c5-b453-b4bfc7f9e4b8": {
 		"name": "android_attach_queue",
 		"v": 28932,
