@@ -30348,11 +30348,11 @@
 	},
 	"b19b207b-46ec-4d5b-8225-3e7bcf2f623d": {
 		"name": "ios_ads_display_skan_integration",
-		"v": 35640,
+		"v": 35721,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -30360,7 +30360,7 @@
 				"value": "active_v20.5"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v20.4"
 			}
 		]
