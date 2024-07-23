@@ -17412,7 +17412,7 @@
 	},
 	"67a84da3-5ab5-4ece-a55f-04861d26d1fa": {
 		"name": "ios_ads_show_video_metadata_view",
-		"v": 35735,
+		"v": 35743,
 		"t": 1,
 		"groups": [
 			{
@@ -17422,6 +17422,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_v20.6"
 			}
 		]
 	},
