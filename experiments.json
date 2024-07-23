@@ -25259,16 +25259,16 @@
 	},
 	"93ac5d1e-ca02-4ed6-81fc-9770e5bb088e": {
 		"name": "ios_hype_train_availability_tracking",
-		"v": 35252,
+		"v": 35738,
 		"t": 1,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_19.9"
 			}
 		]
