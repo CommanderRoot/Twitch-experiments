@@ -43054,6 +43054,21 @@
 			}
 		]
 	},
+	"fe405013-5ae3-4884-a466-c663c4c84d61": {
+		"name": "android_install_referrer",
+		"v": 35772,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.6"
+			}
+		]
+	},
 	"fe43507f-ed26-42c6-b719-9aa4ce90ab2d": {
 		"name": "dart_twitchcon2024schedulenonticketholders_vwr_1222_dav_cmc_lrn_mis_email_2404_holdout",
 		"v": 33904,
