@@ -38287,6 +38287,21 @@
 			}
 		]
 	},
+	"e252af74-0283-46cc-8057-f075e6c5cb32": {
+		"name": "ios_stories_video_faststart",
+		"v": 35773,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"e29f47a5-10c8-47b3-9046-8237a31c9f25": {
 		"name": "dart_bhm_vwr_834_dav_cmc_lrn_mis_email_2210_holdout",
 		"v": 24538,
