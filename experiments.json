@@ -38300,15 +38300,15 @@
 	},
 	"e252af74-0283-46cc-8057-f075e6c5cb32": {
 		"name": "ios_stories_video_faststart",
-		"v": 35773,
+		"v": 35796,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
