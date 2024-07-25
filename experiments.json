@@ -2160,15 +2160,15 @@
 	},
 	"0d1c9bf1-afe6-4e0b-bf52-0cbbbaf902fe": {
 		"name": "pepper_hard_block",
-		"v": 35425,
+		"v": 35808,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -34039,6 +34039,21 @@
 			{
 				"weight": 100,
 				"value": "endpoint"
+			}
+		]
+	},
+	"c84b7a8e-49ed-45cd-a1fb-820e1614fd86": {
+		"name": "ios_firefly_pip_changes",
+		"v": 35807,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_20.5"
 			}
 		]
 	},
