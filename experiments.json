@@ -8346,15 +8346,15 @@
 	},
 	"3366dc99-b0ad-40b3-ade1-5c2f388a8c01": {
 		"name": "android_mdf_grape",
-		"v": 35707,
+		"v": 35813,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_20.4"
 			}
 		]
@@ -21575,11 +21575,11 @@
 	},
 	"7d73078d-ea86-4656-9358-3ea9011a8a12": {
 		"name": "android_mdf_blueberry",
-		"v": 33918,
+		"v": 35812,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -21587,7 +21587,7 @@
 				"value": "active_19.2"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_19.3"
 			}
 		]
@@ -33414,15 +33414,15 @@
 	},
 	"c4d1da7c-f601-4511-8ace-29047b5c5f8c": {
 		"name": "ios_mdf_grape_user",
-		"v": 35543,
+		"v": 35814,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v20.4"
 			}
 		]
@@ -43317,11 +43317,11 @@
 	},
 	"ff2ab3b6-5871-4ff9-909a-1a2265b1b522": {
 		"name": "ios_mdf_blueberry",
-		"v": 34613,
+		"v": 35815,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -43333,7 +43333,7 @@
 				"value": "active_v19.2"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v19.3"
 			}
 		]
