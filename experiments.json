@@ -12166,6 +12166,25 @@
 			}
 		]
 	},
+	"48cbedb9-3020-4f6a-ae2d-bc1ca3eb2c2e": {
+		"name": "ios_discovery_feed_delayed_prerolls",
+		"v": 35830,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant_a"
+			},
+			{
+				"weight": 0,
+				"value": "variant_b"
+			}
+		]
+	},
 	"48fdd8c3-3fda-4118-88f8-3c95646df1a8": {
 		"name": "ios_chat_input_view_dispatch_add",
 		"v": 32829,
