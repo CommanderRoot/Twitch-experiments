@@ -32766,6 +32766,21 @@
 			}
 		]
 	},
+	"c007df6c-9523-4a03-b457-a8a5148f945b": {
+		"name": "android_ivs_player_abr_resolution_filter_aspect_ratio_mode",
+		"v": 35823,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"c0345115-070a-4a30-8e12-aef761647c54": {
 		"name": "user_tokens_db_migration",
 		"v": 24594,
