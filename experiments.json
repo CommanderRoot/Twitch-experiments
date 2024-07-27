@@ -13778,11 +13778,11 @@
 	},
 	"519368b3-8102-43cc-bd10-b2c5a72a9ec7": {
 		"name": "ios_mdf_omsdk_display_ad_enabled",
-		"v": 34683,
+		"v": 35848,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -13794,7 +13794,7 @@
 				"value": "active_v19.3"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v19.5"
 			}
 		]
