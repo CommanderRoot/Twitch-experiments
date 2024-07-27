@@ -182,52 +182,32 @@
 	},
 	"0149a6a1-3058-4d09-b7cd-e00a3e7d5f5b": {
 		"name": "ios_mdf_grape_full_timeout_user",
-		"v": 35816,
+		"v": 35847,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "2000"
-			},
-			{
-				"weight": 0,
-				"value": "2500"
-			},
-			{
-				"weight": 0,
+				"weight": 20,
 				"value": "3000"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "3500"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "4000"
 			},
 			{
-				"weight": 0,
-				"value": "4500"
-			},
-			{
-				"weight": 0,
-				"value": "5000"
-			},
-			{
-				"weight": 0,
-				"value": "5500"
-			},
-			{
-				"weight": 0,
+				"weight": 20,
 				"value": "6000"
 			},
 			{
-				"weight": 0,
-				"value": "6500"
+				"weight": 20,
+				"value": "8000"
 			}
 		]
 	},
