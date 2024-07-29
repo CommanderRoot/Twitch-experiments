@@ -8392,15 +8392,15 @@
 	},
 	"33706a14-3008-4034-a8c2-61cb82f70dc6": {
 		"name": "ios_mdf_maf",
-		"v": 35870,
+		"v": 35873,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -12147,21 +12147,21 @@
 		]
 	},
 	"48cbedb9-3020-4f6a-ae2d-bc1ca3eb2c2e": {
-		"name": "ios_discovery_feed_delayed_prerolls",
-		"v": 35830,
+		"name": "ios_mdf_preroll_delay",
+		"v": 35872,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control"
+				"value": "0"
 			},
 			{
 				"weight": 0,
-				"value": "variant_a"
+				"value": "30"
 			},
 			{
 				"weight": 0,
-				"value": "variant_b"
+				"value": "60"
 			}
 		]
 	},
@@ -19273,23 +19273,23 @@
 	},
 	"71dbedf2-fee4-48ed-9476-fe22790c5338": {
 		"name": "ios_mdf_nudge_to_enter",
-		"v": 35559,
+		"v": 35875,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "watch"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "chat"
 			},
 			{
-				"weight": 0,
+				"weight": 34,
 				"value": "watch_chat"
 			}
 		]
