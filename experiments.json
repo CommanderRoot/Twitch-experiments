@@ -23520,6 +23520,21 @@
 			}
 		]
 	},
+	"89494046-e8e0-4537-a7cb-461b75cf8c77": {
+		"name": "ios_firefly_defer_transition",
+		"v": 35898,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_20.5.3"
+			}
+		]
+	},
 	"8957381a-c395-4f55-8399-8b850d59d919": {
 		"name": "dart_twitchconrivals_vwr_821_dav_cmc_lrn_gmg_email_2210_holdout",
 		"v": 24681,
