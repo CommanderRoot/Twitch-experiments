@@ -905,6 +905,21 @@
 			}
 		]
 	},
+	"0559c91e-2845-4899-9204-7139927b59ca": {
+		"name": "dart_apple_offer_viewer_io_083024_holdout",
+		"v": 35907,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"057ddfcc-9480-4046-ba9e-c53485ecdddf": {
 		"name": "ios_poggers",
 		"v": 10543,
@@ -6913,6 +6928,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"2a186414-c2a7-48e5-93ed-756ea0be9574": {
+		"name": "dart_apple_offer_viewer_core_plus_083024_holdout",
+		"v": 35906,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
