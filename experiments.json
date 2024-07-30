@@ -19340,6 +19340,21 @@
 			}
 		]
 	},
+	"7207f317-f72c-4956-8a96-0af6567f52e6": {
+		"name": "automod_smart_detection_multilanguage",
+		"v": 35905,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 95,
+				"value": "control"
+			},
+			{
+				"weight": 5,
+				"value": "treatment"
+			}
+		]
+	},
 	"7209f494-cb0a-4464-a7c3-36bafec9a3e3": {
 		"name": "dart_primedaymerchdo_vwr_745_cmm_cmc_buy_mis_emailonsite_227_holdout",
 		"v": 21934,
