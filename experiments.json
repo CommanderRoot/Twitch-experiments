@@ -39200,15 +39200,15 @@
 	},
 	"e6dcd9df-4a04-43a1-a454-9e5cd5456ae4": {
 		"name": "android_stories_avatar_pile_implementation",
-		"v": 35829,
+		"v": 35902,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_20.5"
 			}
 		]
