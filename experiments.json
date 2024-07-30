@@ -21914,12 +21914,16 @@
 	},
 	"7eaf11d5-7f20-425a-846c-a42375363d96": {
 		"name": "android_message_effects_rendering",
-		"v": 35782,
+		"v": 35889,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
