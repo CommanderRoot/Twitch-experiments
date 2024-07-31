@@ -25046,15 +25046,15 @@
 	},
 	"90ef68e0-b00a-4d0d-a7bc-17fe6349a366": {
 		"name": "android_firefly_user_launch",
-		"v": 35863,
+		"v": 35922,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_20.5"
 			}
 		]
@@ -40707,15 +40707,15 @@
 	},
 	"ee87f9a9-7842-4ecb-a4ea-cca9378fa7c2": {
 		"name": "ios_firefly_user_launch",
-		"v": 35862,
+		"v": 35923,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_20.5"
 			}
 		]
