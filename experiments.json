@@ -23157,6 +23157,21 @@
 			}
 		]
 	},
+	"85a4ecc3-01e9-49b8-b47c-754f4e801693": {
+		"name": "dart_tcsd_schedulelaunch_083124_holdout",
+		"v": 35928,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"85aec203-6d59-483b-8a8c-80c13f942809": {
 		"name": "dart_eoycreatoremail_vwr_898_awa_cmc_mis_email_2212_holdout",
 		"v": 25678,
