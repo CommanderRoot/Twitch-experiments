@@ -28829,6 +28829,21 @@
 			}
 		]
 	},
+	"a80c8e63-d46e-43d5-95f7-e3d04e793d5e": {
+		"name": "ios_mdf_multi_ad_formats",
+		"v": 35958,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"a8310045-8cb9-4d9f-8e9c-e0b51b4aaddc": {
 		"name": "android_new_emote_autofill",
 		"v": 13772,
