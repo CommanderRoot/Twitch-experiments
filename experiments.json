@@ -25257,11 +25257,11 @@
 	},
 	"92309d8d-ce32-45b1-8655-571e2dd43d0e": {
 		"name": "android_disco_hamster_switch",
-		"v": 35943,
+		"v": 35944,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
@@ -25269,7 +25269,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "active_20.3"
 			}
 		]
@@ -38588,15 +38588,15 @@
 	},
 	"e307cea9-3f17-4194-b0cd-9d3c9b82bd31": {
 		"name": "ios_disco_hamster_switch",
-		"v": 35941,
+		"v": 35945,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "active"
 			}
 		]
