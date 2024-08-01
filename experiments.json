@@ -25061,15 +25061,15 @@
 	},
 	"90ef68e0-b00a-4d0d-a7bc-17fe6349a366": {
 		"name": "android_firefly_user_launch",
-		"v": 35922,
+		"v": 35952,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "active_20.5"
 			}
 		]
@@ -25257,11 +25257,11 @@
 	},
 	"92309d8d-ce32-45b1-8655-571e2dd43d0e": {
 		"name": "android_disco_hamster_switch",
-		"v": 35944,
+		"v": 35947,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -25269,7 +25269,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active_20.3"
 			}
 		]
@@ -38588,15 +38588,15 @@
 	},
 	"e307cea9-3f17-4194-b0cd-9d3c9b82bd31": {
 		"name": "ios_disco_hamster_switch",
-		"v": 35945,
+		"v": 35948,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -40722,15 +40722,15 @@
 	},
 	"ee87f9a9-7842-4ecb-a4ea-cca9378fa7c2": {
 		"name": "ios_firefly_user_launch",
-		"v": 35923,
+		"v": 35951,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_20.5"
 			}
 		]
