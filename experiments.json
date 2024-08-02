@@ -43295,16 +43295,16 @@
 	},
 	"fe405013-5ae3-4884-a466-c663c4c84d61": {
 		"name": "android_install_referrer",
-		"v": 35867,
+		"v": 35966,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
-				"value": "active_20.6"
+				"weight": 0,
+				"value": "active_20.7"
 			}
 		]
 	},
