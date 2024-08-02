@@ -25061,7 +25061,7 @@
 	},
 	"90ef68e0-b00a-4d0d-a7bc-17fe6349a366": {
 		"name": "android_firefly_user_launch",
-		"v": 35952,
+		"v": 35969,
 		"t": 2,
 		"groups": [
 			{
@@ -34529,6 +34529,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"c9f6d777-d38d-4ce4-9ea4-a1a71d265901": {
+		"name": "android_mdf_prioritize_pip",
+		"v": 35970,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.7"
 			}
 		]
 	},
