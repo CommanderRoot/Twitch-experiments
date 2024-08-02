@@ -13206,6 +13206,21 @@
 			}
 		]
 	},
+	"4e489bf0-aa86-4c9c-9a8c-1a613322f819": {
+		"name": "android_powerups_celebrations",
+		"v": 35973,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"4e809572-a1c8-40fc-bd01-f018356c070a": {
 		"name": "android_new_games_pill",
 		"v": 25860,
@@ -39704,21 +39719,6 @@
 			{
 				"weight": 100,
 				"value": "active_19.8"
-			}
-		]
-	},
-	"e97860fe-e37c-47b5-9bdb-9ec0ead75d3b": {
-		"name": "android_powerups_celebrations",
-		"v": 35967,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
