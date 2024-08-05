@@ -21666,11 +21666,11 @@
 	},
 	"7d73078d-ea86-4656-9358-3ea9011a8a12": {
 		"name": "android_mdf_blueberry",
-		"v": 35964,
+		"v": 35995,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -21678,7 +21678,7 @@
 				"value": "active_19.2"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_19.3"
 			}
 		]
