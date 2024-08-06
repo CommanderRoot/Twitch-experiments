@@ -713,6 +713,21 @@
 			}
 		]
 	},
+	"045a67ad-961a-4e48-88ae-142587364900": {
+		"name": "android_sub_feeds",
+		"v": 36087,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"045f434c-11e1-4351-bb17-74c33e6099f7": {
 		"name": "ios_gs_request_to_join",
 		"v": 25205,
@@ -5081,15 +5096,15 @@
 	},
 	"1fa7a21c-6caf-4b01-a9fd-47342010f87e": {
 		"name": "ios_mv_reward_queue_widget",
-		"v": 36086,
+		"v": 36093,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
@@ -9572,15 +9587,15 @@
 	},
 	"3aeb9079-1ff7-4ab3-befb-f9bd85011343": {
 		"name": "ios_mv_polls_qa",
-		"v": 36079,
+		"v": 36095,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
@@ -22103,15 +22118,15 @@
 	},
 	"80663b10-8944-4b69-95d0-f49a411f588d": {
 		"name": "android_stories_flatten_everything",
-		"v": 36081,
+		"v": 36088,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_20.5"
 			}
 		]
@@ -26893,15 +26908,15 @@
 	},
 	"9c540110-cec3-4d68-817a-cb1a0f197d03": {
 		"name": "ios_mv_predictions_widget",
-		"v": 36080,
+		"v": 36094,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
@@ -31301,15 +31316,15 @@
 	},
 	"b638023d-8e25-4076-9d2a-65be4c59ba19": {
 		"name": "ios_stories_clips_pinch_zoom_move",
-		"v": 36082,
+		"v": 36092,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -36931,15 +36946,15 @@
 	},
 	"d97e4847-483d-409a-8e3f-0e057136feae": {
 		"name": "ios_stories_full_flat_controls",
-		"v": 36083,
+		"v": 36090,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -41985,15 +42000,15 @@
 	},
 	"f828e734-e412-457b-9af4-2d7772acc628": {
 		"name": "ios_stories_full_flattening",
-		"v": 36084,
+		"v": 36089,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
