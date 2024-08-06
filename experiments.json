@@ -5081,15 +5081,15 @@
 	},
 	"1fa7a21c-6caf-4b01-a9fd-47342010f87e": {
 		"name": "ios_mv_reward_queue_widget",
-		"v": 36072,
+		"v": 36078,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
@@ -9572,15 +9572,15 @@
 	},
 	"3aeb9079-1ff7-4ab3-befb-f9bd85011343": {
 		"name": "ios_mv_polls_qa",
-		"v": 36073,
+		"v": 36077,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
@@ -26893,15 +26893,15 @@
 	},
 	"9c540110-cec3-4d68-817a-cb1a0f197d03": {
 		"name": "ios_mv_predictions_widget",
-		"v": 36071,
+		"v": 36076,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
