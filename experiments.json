@@ -6942,7 +6942,7 @@
 	},
 	"2a90d5d9-47ba-47d5-9f92-4b12a7d62ae2": {
 		"name": "leftnav_recommended_promoted_streams",
-		"v": 36045,
+		"v": 36048,
 		"t": 2,
 		"groups": [
 			{
@@ -17261,21 +17261,6 @@
 			}
 		]
 	},
-	"6699df7d-9f23-494c-87a1-06fdf80f1e68": {
-		"name": "twilight_video_card_updates",
-		"v": 36025,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variation"
-			}
-		]
-	},
 	"66e3abc3-40b3-419f-8ab1-94056d3c7460": {
 		"name": "android_sub_modal_landscape",
 		"v": 25387,
@@ -19829,21 +19814,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"74156eb2-ed95-482c-b006-60c1428e8846": {
-		"name": "twilight_web_onboarding_channel_ranking",
-		"v": 36022,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "yes"
 			}
 		]
 	},
@@ -24558,21 +24528,6 @@
 			}
 		]
 	},
-	"8e25c5be-b20f-44c3-834f-62c447c627aa": {
-		"name": "leftnav_affinity_sorted_follows",
-		"v": 36020,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant"
-			}
-		]
-	},
 	"8e34c429-de76-439b-9e7c-afc077eeb8e5": {
 		"name": "dart_gueststartest060523_email",
 		"v": 28156,
@@ -26167,26 +26122,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"98268c27-df2b-42e9-bf41-01cc64564f6d": {
-		"name": "leftnav_li_similarity",
-		"v": 36011,
-		"t": 2,
-		"s": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			},
-			{
-				"weight": 0,
-				"value": "variant2"
 			}
 		]
 	},
@@ -29902,7 +29837,7 @@
 	},
 	"aecf3e00-aece-4231-bf1d-f8575c5e3112": {
 		"name": "dart_tcsd_abandonedcart_2024_onsite",
-		"v": 35877,
+		"v": 36057,
 		"t": 2,
 		"groups": [
 			{
@@ -34767,25 +34702,6 @@
 			{
 				"weight": 100,
 				"value": "active_14.0"
-			}
-		]
-	},
-	"cc5fd3e8-7afb-41e4-ab62-29546e226dc8": {
-		"name": "leftnav_lo_similarity",
-		"v": 36016,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "variant1"
-			},
-			{
-				"weight": 0,
-				"value": "variant2"
 			}
 		]
 	},
