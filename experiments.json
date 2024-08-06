@@ -39754,6 +39754,21 @@
 			}
 		]
 	},
+	"ea8bcfd5-2580-4d14-a991-b747c241bcfe": {
+		"name": "android_following_drawer_sort",
+		"v": 36102,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"ea95816a-846e-428e-b2fd-9ed1c32631b3": {
 		"name": "ios_push_notification_signup_prompt",
 		"v": 11843,
