@@ -13079,6 +13079,21 @@
 			}
 		]
 	},
+	"4e105743-74c7-4258-abde-9dc02ac7a0dc": {
+		"name": "ios_power_ups_ftue",
+		"v": 36134,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"4e10cdad-1f9d-4556-8617-122179c39d9b": {
 		"name": "ios_age_gating",
 		"v": 11564,
