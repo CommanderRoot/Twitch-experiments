@@ -19268,15 +19268,15 @@
 	},
 	"7207f317-f72c-4956-8a96-0af6567f52e6": {
 		"name": "automod_smart_detection_multilanguage",
-		"v": 35905,
+		"v": 36124,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
