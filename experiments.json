@@ -12108,20 +12108,16 @@
 	},
 	"48cbedb9-3020-4f6a-ae2d-bc1ca3eb2c2e": {
 		"name": "ios_mdf_pds",
-		"v": 36099,
+		"v": 36119,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 0,
-				"value": "0"
+				"value": "active_3sd_20.8"
 			},
 			{
 				"weight": 0,
-				"value": "30"
-			},
-			{
-				"weight": 0,
-				"value": "60"
+				"value": "active_6sd_20.8"
 			},
 			{
 				"weight": 100,
@@ -22107,15 +22103,15 @@
 	},
 	"80663b10-8944-4b69-95d0-f49a411f588d": {
 		"name": "android_stories_flatten_everything",
-		"v": 36088,
+		"v": 36115,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_20.5"
 			}
 		]
@@ -31305,15 +31301,15 @@
 	},
 	"b638023d-8e25-4076-9d2a-65be4c59ba19": {
 		"name": "ios_stories_clips_pinch_zoom_move",
-		"v": 36092,
+		"v": 36116,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -36950,15 +36946,15 @@
 	},
 	"d97e4847-483d-409a-8e3f-0e057136feae": {
 		"name": "ios_stories_full_flat_controls",
-		"v": 36090,
+		"v": 36117,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -42023,15 +42019,15 @@
 	},
 	"f828e734-e412-457b-9af4-2d7772acc628": {
 		"name": "ios_stories_full_flattening",
-		"v": 36089,
+		"v": 36118,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
