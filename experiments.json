@@ -19214,7 +19214,7 @@
 	},
 	"71dbedf2-fee4-48ed-9476-fe22790c5338": {
 		"name": "ios_mdf_nudge_to_enter",
-		"v": 35875,
+		"v": 36146,
 		"t": 1,
 		"groups": [
 			{
@@ -19222,15 +19222,15 @@
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "watch"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "chat"
 			},
 			{
-				"weight": 34,
+				"weight": 0,
 				"value": "watch_chat"
 			}
 		]
@@ -39963,7 +39963,7 @@
 	},
 	"eb2db566-183e-4a28-b592-9f2a4411ca7f": {
 		"name": "android_mdf_nudge_to_enter",
-		"v": 35866,
+		"v": 36147,
 		"t": 1,
 		"groups": [
 			{
@@ -39971,15 +39971,15 @@
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "watch"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "chat"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "watch_chat"
 			}
 		]
