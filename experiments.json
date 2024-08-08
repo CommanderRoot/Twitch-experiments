@@ -10590,6 +10590,21 @@
 			}
 		]
 	},
+	"41b6f697-0bec-45a8-8378-e10a4fde97ef": {
+		"name": "dart_dj_program_808_launch_080824_holdout",
+		"v": 36142,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"41c522b9-5867-429f-950a-2a10790c2380": {
 		"name": "ios_creator_preferences",
 		"v": 24052,
@@ -31574,6 +31589,21 @@
 			}
 		]
 	},
+	"b855b5b0-30b5-4563-b1f5-745e754fd79c": {
+		"name": "dart_dj_program_808_launch_080824_email",
+		"v": 36143,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"b861f08c-2148-4375-9e1b-6753d7895572": {
 		"name": "dart_hitthelabseven_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13559,
@@ -38414,6 +38444,21 @@
 			{
 				"weight": 100,
 				"value": "cloudfront"
+			}
+		]
+	},
+	"e2f66da9-d880-4dea-9102-37a8c9f00b11": {
+		"name": "dart_dj_program_808_launch_080824_onsite",
+		"v": 36144,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
