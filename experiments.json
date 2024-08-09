@@ -8337,15 +8337,15 @@
 	},
 	"3366dc99-b0ad-40b3-ade1-5c2f388a8c01": {
 		"name": "android_mdf_grape",
-		"v": 35916,
+		"v": 36161,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_20.4"
 			}
 		]
@@ -21562,11 +21562,11 @@
 	},
 	"7d73078d-ea86-4656-9358-3ea9011a8a12": {
 		"name": "android_mdf_blueberry",
-		"v": 35995,
+		"v": 36160,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -21574,7 +21574,7 @@
 				"value": "active_19.2"
 			},
 			{
-				"weight": 5,
+				"weight": 100,
 				"value": "active_19.3"
 			}
 		]
@@ -39831,7 +39831,7 @@
 	},
 	"ea8bcfd5-2580-4d14-a991-b747c241bcfe": {
 		"name": "android_following_drawer_sort",
-		"v": 36102,
+		"v": 36159,
 		"t": 1,
 		"groups": [
 			{
@@ -39840,7 +39840,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_20.8"
 			}
 		]
 	},
