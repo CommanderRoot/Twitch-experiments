@@ -26263,15 +26263,15 @@
 	},
 	"989f35b2-6fda-4f71-9e43-7d776ba6f9a3": {
 		"name": "ios_power_ups_gigantify",
-		"v": 35626,
+		"v": 36192,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -35797,15 +35797,15 @@
 	},
 	"d25727e3-c913-4e65-84d4-428eec0235b4": {
 		"name": "android_gigantified_emotes_rendering_enabled",
-		"v": 35960,
+		"v": 36193,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_20.7"
 			}
 		]
