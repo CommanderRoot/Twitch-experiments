@@ -5465,15 +5465,15 @@
 	},
 	"217488cf-71c0-4bc4-b8c3-eb790ff74800": {
 		"name": "ios_animated_message_chat_rendering",
-		"v": 35355,
+		"v": 36190,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -15294,15 +15294,15 @@
 	},
 	"5bc36a74-93a2-42e4-8c54-a4955f04b84b": {
 		"name": "ios_power_ups_chat_celebration_1",
-		"v": 35376,
+		"v": 36191,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
@@ -30877,6 +30877,41 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"b33b066b-9ccc-457c-af19-4e086ebc287a": {
+		"name": "android_ads_svbr",
+		"v": 36189,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.9_20000"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.9_10000"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.9_5000"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.9_1500"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.9_1000"
+			},
+			{
+				"weight": 0,
+				"value": "active_20.9_400"
 			}
 		]
 	},
