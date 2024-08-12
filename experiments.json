@@ -39881,15 +39881,15 @@
 	},
 	"ea8bcfd5-2580-4d14-a991-b747c241bcfe": {
 		"name": "android_following_drawer_sort",
-		"v": 36159,
+		"v": 36195,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_20.8"
 			}
 		]
