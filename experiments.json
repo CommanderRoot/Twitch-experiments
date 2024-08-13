@@ -7644,11 +7644,11 @@
 	},
 	"2f0d35ee-a9f7-4565-b876-f816d938e723": {
 		"name": "ios_ads_svbr",
-		"v": 36241,
+		"v": 36245,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -7668,7 +7668,7 @@
 				"value": "5000"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "10000"
 			},
 			{
@@ -18349,12 +18349,12 @@
 	},
 	"6d07e74b-9c18-49d1-8732-1088568300c1": {
 		"name": "android_credential_manager",
-		"v": 34940,
+		"v": 36242,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -18362,7 +18362,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_19.8"
 			}
 		]
@@ -30932,11 +30932,11 @@
 	},
 	"b33b066b-9ccc-457c-af19-4e086ebc287a": {
 		"name": "android_ads_svbr",
-		"v": 36189,
+		"v": 36244,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -30944,7 +30944,7 @@
 				"value": "active_20.9_20000"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_20.9_10000"
 			},
 			{
