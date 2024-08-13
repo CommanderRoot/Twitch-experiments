@@ -19174,6 +19174,21 @@
 			}
 		]
 	},
+	"7173420d-3270-486a-8aaf-2a1a0ac3c934": {
+		"name": "android_cheer_icon_update",
+		"v": 36227,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"71a346f1-b307-46b5-afa0-167eef38e8d5": {
 		"name": "android_custom_vs_native_pip",
 		"v": 10860,
@@ -41172,21 +41187,6 @@
 			{
 				"weight": 1,
 				"value": "active_11.3"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
-			}
-		]
-	},
-	"f0e443e3-7e1f-4a5c-8a40-c5be328d6700": {
-		"name": "android_cheer_icon_and_power_ups_callout",
-		"v": 36224,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
 			},
 			{
 				"weight": 0,
