@@ -41179,6 +41179,21 @@
 			}
 		]
 	},
+	"f0e443e3-7e1f-4a5c-8a40-c5be328d6700": {
+		"name": "android_cheer_icon_and_power_ups_callout",
+		"v": 36224,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"f0ecbed1-48e3-478d-bc04-77f2cca4dd58": {
 		"name": "is-user-in-friendly-fraud-group",
 		"v": 29644,
