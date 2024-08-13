@@ -7642,6 +7642,41 @@
 			}
 		]
 	},
+	"2f0d35ee-a9f7-4565-b876-f816d938e723": {
+		"name": "ios_ads_svbr",
+		"v": 36210,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "400"
+			},
+			{
+				"weight": 0,
+				"value": "1000"
+			},
+			{
+				"weight": 0,
+				"value": "1500"
+			},
+			{
+				"weight": 0,
+				"value": "5000"
+			},
+			{
+				"weight": 0,
+				"value": "10000"
+			},
+			{
+				"weight": 0,
+				"value": "20000"
+			}
+		]
+	},
 	"2f327b30-0e3f-4d30-95a1-160d0e3cf1ff": {
 		"name": "dart_santaeffect3_vwr_344_awa_cmc_wch_gmg_email_2101_holdout",
 		"v": 13137,
