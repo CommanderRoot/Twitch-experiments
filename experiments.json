@@ -14502,15 +14502,15 @@
 	},
 	"5697c3b8-77e9-4dd1-af5f-660795c7a7e0": {
 		"name": "dart_clipsvsmitest_080224_holdout",
-		"v": 36303,
+		"v": 36312,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 5,
+				"weight": 20,
 				"value": "holdout"
 			},
 			{
-				"weight": 95,
+				"weight": 80,
 				"value": "allowed"
 			}
 		]
@@ -18865,6 +18865,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"6f84ce24-1e6a-4554-81be-72388045d779": {
+		"name": "dart_lcs_enabling_subs_promo_holdout",
+		"v": 36314,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 30,
+				"value": "holdout"
+			},
+			{
+				"weight": 70,
 				"value": "allowed"
 			}
 		]
@@ -37414,7 +37429,7 @@
 	},
 	"db6c9235-39e9-4229-a47c-1239d61a479e": {
 		"name": "dart_clipsvsmitest_080224_email",
-		"v": 36304,
+		"v": 36313,
 		"t": 2,
 		"groups": [
 			{
