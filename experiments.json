@@ -34640,15 +34640,15 @@
 	},
 	"ca0e81a6-93f8-4b90-9cb3-747b1769d4fd": {
 		"name": "dropins_add_favorites_home_card",
-		"v": 35703,
+		"v": 36365,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
