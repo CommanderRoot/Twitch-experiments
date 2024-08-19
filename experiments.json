@@ -6716,15 +6716,15 @@
 	},
 	"29524371-c90d-4353-9b84-459ede83b93c": {
 		"name": "ios_ads_sda_seq_bid",
-		"v": 36268,
+		"v": 36367,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v20.8"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			}
 		]
