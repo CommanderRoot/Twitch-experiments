@@ -182,7 +182,7 @@
 	},
 	"0149a6a1-3058-4d09-b7cd-e00a3e7d5f5b": {
 		"name": "ios_mdf_grape_full_timeout_user",
-		"v": 36335,
+		"v": 36374,
 		"t": 2,
 		"groups": [
 			{
@@ -202,11 +202,11 @@
 				"value": "4000"
 			},
 			{
-				"weight": 80,
-				"value": "6000"
+				"weight": 0,
+				"value": "8000"
 			},
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "8000"
 			}
 		]
