@@ -182,7 +182,7 @@
 	},
 	"0149a6a1-3058-4d09-b7cd-e00a3e7d5f5b": {
 		"name": "ios_mdf_grape_full_timeout_user",
-		"v": 36374,
+		"v": 36377,
 		"t": 2,
 		"groups": [
 			{
@@ -200,10 +200,6 @@
 			{
 				"weight": 0,
 				"value": "4000"
-			},
-			{
-				"weight": 0,
-				"value": "8000"
 			},
 			{
 				"weight": 100,
@@ -19597,11 +19593,11 @@
 	},
 	"7270dfdf-a5c5-4574-a957-509ba45abb22": {
 		"name": "android_mdf_grape_timeout_20.6",
-		"v": 36343,
+		"v": 36376,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -19633,7 +19629,7 @@
 				"value": "active_20.6_5000"
 			},
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "active_20.6_6000"
 			}
 		]
