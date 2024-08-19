@@ -4731,15 +4731,15 @@
 	},
 	"1c1953b5-15a0-4a63-83f4-44261f25bcca": {
 		"name": "ios_kmp_chat",
-		"v": 19282,
+		"v": 36371,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active"
 			}
 		]
