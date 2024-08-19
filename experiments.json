@@ -30986,11 +30986,11 @@
 	},
 	"b33b066b-9ccc-457c-af19-4e086ebc287a": {
 		"name": "android_ads_svbr",
-		"v": 36244,
+		"v": 36368,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -30998,7 +30998,7 @@
 				"value": "active_20.9_20000"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active_20.9_10000"
 			},
 			{
