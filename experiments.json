@@ -363,7 +363,7 @@
 	},
 	"01d60836-9e79-4010-9a7b-c5dd92fea5e4": {
 		"name": "ios_shiny_enigma",
-		"v": 36369,
+		"v": 36402,
 		"t": 1,
 		"groups": [
 			{
@@ -24927,12 +24927,16 @@
 	},
 	"9035a8b4-d94b-4d4a-9aff-10e53b01c80d": {
 		"name": "android_shiny_enigma",
-		"v": 36400,
+		"v": 36403,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
