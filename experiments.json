@@ -39839,6 +39839,21 @@
 			}
 		]
 	},
+	"e9d76e7d-0ab5-4d53-9432-c952034da54a": {
+		"name": "android_sprig_on_app_launch",
+		"v": 36388,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"e9d9312d-a61a-4c8c-aedc-41e03d0d0e2b": {
 		"name": "android_onechat_disable_theater_animations",
 		"v": 33269,
