@@ -38611,11 +38611,11 @@
 	},
 	"e252af74-0283-46cc-8057-f075e6c5cb32": {
 		"name": "ios_stories_video_faststart",
-		"v": 36103,
+		"v": 36406,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -38623,7 +38623,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_20.8"
 			}
 		]
