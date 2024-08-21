@@ -22089,15 +22089,15 @@
 	},
 	"7ee7f463-51dd-4b6c-8449-d9a413c10f41": {
 		"name": "ios_creator_goals_leaderboard_channel",
-		"v": 36331,
+		"v": 36439,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -42783,6 +42783,21 @@
 			{
 				"weight": 0,
 				"value": "rollout"
+			}
+		]
+	},
+	"faf8e88b-b4cc-4bbe-aa1f-9d4c2547b45f": {
+		"name": "android_firefly_killswitch",
+		"v": 36438,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "disabled_21.0"
 			}
 		]
 	},
