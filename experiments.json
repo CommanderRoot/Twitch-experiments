@@ -3088,6 +3088,21 @@
 			}
 		]
 	},
+	"123f2497-a55e-42bb-a8c2-c6e265ca093c": {
+		"name": "android_ads_disallow_skip_dma",
+		"v": 36444,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_disable"
+			}
+		]
+	},
 	"1275752f-6cbb-4ff3-8dd8-fa190e469faf": {
 		"name": "tvapps_global_qr_login",
 		"v": 13164,
