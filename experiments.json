@@ -11307,6 +11307,21 @@
 			}
 		]
 	},
+	"4452cea2-80fa-4c8d-92bf-a3522f54aeb6": {
+		"name": "android_drag_mini_player",
+		"v": 36440,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"4457b398-aec4-4289-9c22-64e73705d1d9": {
 		"name": "android_n_1_phone_account_recovery",
 		"v": 18069,
@@ -22089,15 +22104,15 @@
 	},
 	"7ee7f463-51dd-4b6c-8449-d9a413c10f41": {
 		"name": "ios_creator_goals_leaderboard_channel",
-		"v": 36439,
+		"v": 36441,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active"
 			}
 		]
