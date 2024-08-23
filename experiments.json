@@ -27575,21 +27575,6 @@
 			}
 		]
 	},
-	"9faaa14f-a4bb-4130-8a93-486370b8d3fc": {
-		"name": "ios_gift_bundle",
-		"v": 36495,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment_21.1"
-			}
-		]
-	},
 	"9fab44d9-4e9b-4257-ba78-dfae09e711c2": {
 		"name": "dart_giftcard2022_ctr_900_cmm_cmc_buy_mis_email_2212_holdout",
 		"v": 25764,
@@ -36075,6 +36060,21 @@
 			{
 				"weight": 0,
 				"value": "5.0"
+			}
+		]
+	},
+	"d33944b3-c02a-4255-afec-d7b52a33d6a7": {
+		"name": "ios_gift_bundle",
+		"v": 36498,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment_21.1"
 			}
 		]
 	},
