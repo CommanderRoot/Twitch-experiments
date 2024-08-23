@@ -36065,15 +36065,15 @@
 	},
 	"d33944b3-c02a-4255-afec-d7b52a33d6a7": {
 		"name": "ios_gift_bundle",
-		"v": 36504,
+		"v": 36506,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "treatment_21.1"
 			}
 		]
