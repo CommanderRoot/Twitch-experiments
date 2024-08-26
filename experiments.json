@@ -36862,6 +36862,21 @@
 			}
 		]
 	},
+	"d7721956-8590-48c0-9276-9ad5428d228e": {
+		"name": "LiveupPushNotificationAvatarIcon",
+		"v": 36558,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"d78eb407-6aa0-4130-a343-92346594eff9": {
 		"name": "ios_disco_no_this_is_patrick",
 		"v": 28721,
@@ -42470,6 +42485,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"f8a0b820-a1de-4c15-a577-0a069930905b": {
+		"name": "LiveupNonUGCSubjectLineEmail",
+		"v": 36559,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
