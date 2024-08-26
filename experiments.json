@@ -7670,11 +7670,11 @@
 	},
 	"2f0d35ee-a9f7-4565-b876-f816d938e723": {
 		"name": "ios_ads_svbr",
-		"v": 36549,
+		"v": 36551,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "control"
 			},
 			{
@@ -7694,7 +7694,7 @@
 				"value": "5000"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "10000"
 			},
 			{
