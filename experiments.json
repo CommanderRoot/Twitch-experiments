@@ -9101,6 +9101,21 @@
 			}
 		]
 	},
+	"36e63e74-529d-435d-b51b-b7953c30de0c": {
+		"name": "dart_summer_of_rewards_wow_082524_holdout",
+		"v": 36555,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"370bff35-06d9-490f-87e9-2f6d11f9c4cc": {
 		"name": "android_rev_share_copy",
 		"v": 8326,
@@ -16325,6 +16340,21 @@
 			},
 			{
 				"weight": 1,
+				"value": "active"
+			}
+		]
+	},
+	"605e1a05-dc12-4f0e-a996-ea618562ff7a": {
+		"name": "ios_stories_resharing_viewer",
+		"v": 36554,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
 				"value": "active"
 			}
 		]
