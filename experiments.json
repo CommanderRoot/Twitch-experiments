@@ -32105,6 +32105,21 @@
 			}
 		]
 	},
+	"b96bca38-df24-4838-94a2-b13130cfc2c1": {
+		"name": "mobile_native_st_display_collaborations",
+		"v": 36603,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"b98860b0-4035-4213-beca-9aeac7adb0f8": {
 		"name": "purchase_offer_email_verification",
 		"v": 34068,
@@ -36196,21 +36211,6 @@
 			{
 				"weight": 100,
 				"value": "default_on"
-			}
-		]
-	},
-	"d36e2a1d-53d8-4ab7-8292-5e7c8b30373a": {
-		"name": "mobile_native_st_display_collabs",
-		"v": 36600,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
