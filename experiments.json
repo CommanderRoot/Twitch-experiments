@@ -9543,11 +9543,11 @@
 	},
 	"39d2db4a-dcbc-4153-a4bb-3f48737f7df7": {
 		"name": "ios_latency_portal",
-		"v": 36132,
+		"v": 36597,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			},
 			{
@@ -9555,7 +9555,7 @@
 				"value": "treatment"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "treatment_v2"
 			}
 		]
@@ -18504,12 +18504,12 @@
 	},
 	"6d07e74b-9c18-49d1-8732-1088568300c1": {
 		"name": "android_credential_manager",
-		"v": 36242,
+		"v": 36598,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -18517,7 +18517,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_19.8"
 			}
 		]
