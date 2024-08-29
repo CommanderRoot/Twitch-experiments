@@ -28979,6 +28979,21 @@
 			}
 		]
 	},
+	"a84eb1e0-3946-4f71-8fbd-09c7e81b0600": {
+		"name": "dart_subtember_email_082024_holdout",
+		"v": 36634,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a859732c-5cc8-4e0b-8b05-12a97a8e45e4": {
 		"name": "android_mgst_ivs_game_broadcast",
 		"v": 15943,
