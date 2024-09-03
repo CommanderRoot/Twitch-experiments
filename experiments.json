@@ -38513,12 +38513,16 @@
 	},
 	"e12846d9-cf55-4e36-ab3b-d5a762144521": {
 		"name": "ios_signup_webview_v2",
-		"v": 36584,
+		"v": 36671,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
