@@ -42013,6 +42013,21 @@
 			}
 		]
 	},
+	"f4fedd36-6a4d-460d-828c-b64d3cd09dd5": {
+		"name": "dart_summer_of_rewards_tanks_090324_holdout",
+		"v": 36705,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"f504a5a5-1e6b-40bd-b8ef-1862a4ba6e88": {
 		"name": "android_ads_headliner",
 		"v": 30357,
