@@ -25052,7 +25052,7 @@
 	},
 	"9035a8b4-d94b-4d4a-9aff-10e53b01c80d": {
 		"name": "android_shiny_enigma",
-		"v": 36403,
+		"v": 36689,
 		"t": 1,
 		"groups": [
 			{
@@ -25062,6 +25062,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.1"
 			}
 		]
 	},
