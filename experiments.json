@@ -11370,15 +11370,15 @@
 	},
 	"4452cea2-80fa-4c8d-92bf-a3522f54aeb6": {
 		"name": "android_drag_mini_player",
-		"v": 36640,
+		"v": 36686,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_21.1"
 			}
 		]
@@ -18508,12 +18508,12 @@
 	},
 	"6d07e74b-9c18-49d1-8732-1088568300c1": {
 		"name": "android_credential_manager",
-		"v": 36598,
+		"v": 36687,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -18521,7 +18521,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_19.8"
 			}
 		]
