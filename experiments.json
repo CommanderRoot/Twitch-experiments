@@ -22109,15 +22109,15 @@
 	},
 	"7eaf11d5-7f20-425a-846c-a42375363d96": {
 		"name": "android_message_effects_rendering",
-		"v": 36515,
+		"v": 36707,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_21.0"
 			}
 		]
@@ -31686,15 +31686,15 @@
 	},
 	"b679cf17-7441-4a56-858f-5817b41347f1": {
 		"name": "android_powerups_celebrations",
-		"v": 36179,
+		"v": 36708,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_20.8"
 			}
 		]
