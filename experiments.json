@@ -31720,15 +31720,15 @@
 	},
 	"b679cf17-7441-4a56-858f-5817b41347f1": {
 		"name": "android_powerups_celebrations",
-		"v": 36708,
+		"v": 36718,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_20.8"
 			}
 		]
