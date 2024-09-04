@@ -7425,15 +7425,15 @@
 	},
 	"2cdb124a-d4d7-4e49-b952-7ca37c992e0b": {
 		"name": "ios_stories_profile_modal",
-		"v": 36581,
+		"v": 36712,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -22113,15 +22113,15 @@
 	},
 	"7eaf11d5-7f20-425a-846c-a42375363d96": {
 		"name": "android_message_effects_rendering",
-		"v": 36707,
+		"v": 36713,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_21.0"
 			}
 		]
