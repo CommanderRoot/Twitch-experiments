@@ -1401,6 +1401,21 @@
 			}
 		]
 	},
+	"085be1f4-06c4-46d5-aed6-c8bd9f47835c": {
+		"name": "android_mdf_max_watchtime_autonav",
+		"v": 36714,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.1"
+			}
+		]
+	},
 	"088f409b-3e9d-4ebe-aeb7-4df12f825f6f": {
 		"name": "surestream_rollout_uwp",
 		"v": 7141,
@@ -6748,6 +6763,21 @@
 			{
 				"weight": 100,
 				"value": "MADS_ON"
+			}
+		]
+	},
+	"2915ddb5-cdfe-4242-aa9e-e058fe06a835": {
+		"name": "ios_mdf_max_watchtime_autonav",
+		"v": 36715,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.1"
 			}
 		]
 	},
