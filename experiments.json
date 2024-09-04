@@ -19635,19 +19635,19 @@
 	},
 	"72332443-cfaa-4eaa-90f9-239755051a45": {
 		"name": "android_deterministic_theatre_loading",
-		"v": 36382,
+		"v": 36710,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "active_20.5"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_preload_chat_20.5"
 			}
 		]
