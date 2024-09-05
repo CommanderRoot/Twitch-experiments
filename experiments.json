@@ -7455,15 +7455,15 @@
 	},
 	"2cdb124a-d4d7-4e49-b952-7ca37c992e0b": {
 		"name": "ios_stories_profile_modal",
-		"v": 36712,
+		"v": 36738,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
