@@ -8700,15 +8700,15 @@
 	},
 	"34770146-1277-4b2a-8b79-8caab88c52e8": {
 		"name": "android_portrait_clips_playback",
-		"v": 36627,
+		"v": 36757,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_21.1"
 			},
 			{
