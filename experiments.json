@@ -8120,6 +8120,21 @@
 			}
 		]
 	},
+	"310c647c-dcb6-4897-9920-2a6eaf522623": {
+		"name": "ios_sprig_on_app_launch",
+		"v": 36796,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"3120d9ec-0bae-4a15-8778-9040940298ad": {
 		"name": "dart_mk_emotetest_091523_holdout",
 		"v": 29917,
@@ -25301,6 +25316,17 @@
 				"weight": 0,
 				"value": "enabled"
 			},
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
+	"9127cd62-a6a5-4c19-8730-1a07a09a7171": {
+		"name": "andriod_ads_sda_seq_bid",
+		"v": 36797,
+		"t": 1,
+		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
