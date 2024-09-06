@@ -14666,6 +14666,21 @@
 			}
 		]
 	},
+	"562d20ad-f6b6-4b16-8aaa-5412cf21e371": {
+		"name": "android_ads_sda_seq_bid",
+		"v": 36799,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"5684b8eb-5d61-4685-84e2-43090b32179d": {
 		"name": "extensions_turn_off_for_viewers",
 		"v": 5298,
@@ -25316,17 +25331,6 @@
 				"weight": 0,
 				"value": "enabled"
 			},
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
-	"9127cd62-a6a5-4c19-8730-1a07a09a7171": {
-		"name": "andriod_ads_sda_seq_bid",
-		"v": 36797,
-		"t": 1,
-		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
