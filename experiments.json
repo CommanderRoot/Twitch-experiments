@@ -37544,6 +37544,21 @@
 			}
 		]
 	},
+	"d9dc7d64-5956-43e6-9620-3fe5db9fad61": {
+		"name": "dart_zevent_onsite_090624_holdout",
+		"v": 36764,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"da025c87-c712-4689-8b7f-72222c26e443": {
 		"name": "dart_xboxnocode_ctr_850_sgn_cmc_sup_mis_email_2210_holdout",
 		"v": 25024,
