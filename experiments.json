@@ -30894,6 +30894,21 @@
 			}
 		]
 	},
+	"b1ee78d0-120a-4cb6-8b80-12fead83e208": {
+		"name": "ios_enable_player_core_analytic",
+		"v": 36779,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"b1f37ddc-ffb8-456b-817c-a580e199a035": {
 		"name": "android_vip_roles",
 		"v": 5143,
