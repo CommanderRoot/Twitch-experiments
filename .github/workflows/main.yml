@@ -24,6 +24,6 @@ jobs:
 
       - name: Run update
         run: |
-          git config user.name "CommanderRoot"
+          git config user.name "CommanderRoot (Cronjob)"
           git config user.email "4395417+CommanderRoot@users.noreply.github.com"
           ./run.sh
