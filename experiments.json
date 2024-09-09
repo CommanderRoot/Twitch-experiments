@@ -1326,6 +1326,21 @@
 			}
 		]
 	},
+	"07e0fdf4-d832-4165-8a84-13a27fbf79ef": {
+		"name": "ios_shiny_enigma_filter_cheers",
+		"v": 36834,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"07f5c9b1-4703-4934-94a4-dc0f15b99f55": {
 		"name": "dart_live_up_email",
 		"v": 26294,
