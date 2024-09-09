@@ -550,6 +550,21 @@
 			}
 		]
 	},
+	"030c4853-9b2d-4ea2-a178-aa95b30d6be7": {
+		"name": "android_happiness_in_bundles",
+		"v": 36839,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"0314f042-5579-493f-ae83-2bb40f3c018b": {
 		"name": "dart_apac_php_globestreamers5_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
 		"v": 24000,
