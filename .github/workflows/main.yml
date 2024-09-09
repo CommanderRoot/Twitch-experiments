@@ -1,0 +1,22 @@
+name: Cronjob update
+
+on:
+  schedule:
+    # run every 10 minutes
+    - cron: '*/10 * * * *'
+  workflow_dispatch: {}
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  cronjob_update:
+    name: Cronjob update
+
+    runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+
+    steps:
+      - run: ./run.sh
