@@ -23,4 +23,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run update
-        run: ./run.sh
+        run: |
+          git config user.name "CommanderRoot"
+          git config user.email "4395417+CommanderRoot@users.noreply.github.com"
+          ./run.sh
