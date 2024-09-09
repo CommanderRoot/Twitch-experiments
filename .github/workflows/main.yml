@@ -19,4 +19,8 @@ jobs:
       contents: write
 
     steps:
-      - run: ./run.sh
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run update
+        run: ./run.sh
