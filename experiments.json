@@ -22953,6 +22953,21 @@
 			}
 		]
 	},
+	"82b7cb57-c706-444d-82fb-c9ef19cae6b5": {
+		"name": "android_portrait_clip_category",
+		"v": 36873,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"82bc0a35-eaad-4436-ae69-fe2a2b3adfb9": {
 		"name": "dart_uscharityannouncement_ctr_882_awa_cmc_lrn_mis_eo_2211_holdout",
 		"v": 25602,
@@ -23447,6 +23462,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"85bb40b0-03e1-4dc7-9ea5-8e2a8f836210": {
+		"name": "android_mdf_a11y_navigation",
+		"v": 36874,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.3"
 			}
 		]
 	},
