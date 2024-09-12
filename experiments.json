@@ -11483,15 +11483,15 @@
 	},
 	"4452cea2-80fa-4c8d-92bf-a3522f54aeb6": {
 		"name": "android_drag_mini_player",
-		"v": 36848,
+		"v": 36885,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_21.1"
 			}
 		]
