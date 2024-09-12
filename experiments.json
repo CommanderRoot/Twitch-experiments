@@ -42912,15 +42912,15 @@
 	},
 	"f8a0b820-a1de-4c15-a577-0a069930905b": {
 		"name": "LiveupNonUGCSubjectLineEmail",
-		"v": 36559,
+		"v": 36918,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "variant"
 			}
 		]
