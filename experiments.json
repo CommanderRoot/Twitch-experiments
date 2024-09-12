@@ -32133,6 +32133,21 @@
 			}
 		]
 	},
+	"b83ca4c0-7007-4bdf-9463-6adb8467e03a": {
+		"name": "dart_debatelords_091224_holdout",
+		"v": 36912,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"b8428da6-72f2-4932-b47d-e19163cf2cfd": {
 		"name": "new_hermes_high_urgency_rollout",
 		"v": 15643,
