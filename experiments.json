@@ -1358,16 +1358,20 @@
 	},
 	"07f5c9b1-4703-4934-94a4-dc0f15b99f55": {
 		"name": "dart_live_up_email",
-		"v": 26294,
+		"v": 36893,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 34,
 				"value": "Variant A"
 			},
 			{
-				"weight": 50,
+				"weight": 33,
 				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
@@ -7669,7 +7673,7 @@
 	},
 	"2e6271e2-8acf-495c-899f-6a686431c48e": {
 		"name": "dart_live_up_onsite",
-		"v": 26296,
+		"v": 36895,
 		"t": 2,
 		"groups": [
 			{
@@ -13467,20 +13471,32 @@
 	},
 	"4e9932f0-43f8-4d84-a123-a34ed4f81dd7": {
 		"name": "dart_live_up_push",
-		"v": 26295,
+		"v": 36894,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 15,
 				"value": "Variant A"
 			},
 			{
-				"weight": 33,
+				"weight": 17,
 				"value": "Variant B"
 			},
 			{
-				"weight": 33,
+				"weight": 17,
 				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 17,
+				"value": "Variant E"
+			},
+			{
+				"weight": 17,
+				"value": "Variant F"
 			}
 		]
 	},
@@ -30344,7 +30360,7 @@
 	},
 	"aecf3e00-aece-4231-bf1d-f8575c5e3112": {
 		"name": "dart_tcsd_abandonedcart_2024_onsite",
-		"v": 36741,
+		"v": 36892,
 		"t": 2,
 		"groups": [
 			{
