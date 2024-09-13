@@ -8749,7 +8749,7 @@
 	},
 	"34770146-1277-4b2a-8b79-8caab88c52e8": {
 		"name": "android_portrait_clips_playback",
-		"v": 36900,
+		"v": 36942,
 		"t": 1,
 		"groups": [
 			{
@@ -8758,7 +8758,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_21.1"
+				"value": "active_21.3"
 			},
 			{
 				"weight": 0,
@@ -33817,6 +33817,21 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"c334bb43-4d25-41e2-a6fa-2384fff5878f": {
+		"name": "ios_uikit_theater_guest_star_banner_view",
+		"v": 36943,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
 			}
 		]
 	},
