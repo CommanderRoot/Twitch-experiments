@@ -13375,6 +13375,17 @@
 			}
 		]
 	},
+	"4e1d038b-7d20-45e2-8e68-335bb4759c48": {
+		"name": "android_ads_45s_preroll",
+		"v": 36924,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"4e26466c-7908-49a0-adad-2b37f50b2794": {
 		"name": "mads_broadcaster_dashboard",
 		"v": 12024,
@@ -41935,6 +41946,17 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"f177a021-ab28-4109-9cd1-f89cec286a6e": {
+		"name": "ios_ads_45s_preroll",
+		"v": 36923,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
