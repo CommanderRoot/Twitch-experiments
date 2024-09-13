@@ -19539,7 +19539,7 @@
 	},
 	"7173420d-3270-486a-8aaf-2a1a0ac3c934": {
 		"name": "android_cheer_icon_update",
-		"v": 36227,
+		"v": 36945,
 		"t": 2,
 		"groups": [
 			{
@@ -19548,7 +19548,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_21.3"
 			}
 		]
 	},
@@ -37914,6 +37914,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"daec894a-12a0-4ff1-99da-309855906cd5": {
+		"name": "android_stories_fast_start_flattening",
+		"v": 36946,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "release_21.3"
 			}
 		]
 	},
