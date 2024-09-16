@@ -1405,6 +1405,21 @@
 			}
 		]
 	},
+	"0825f71a-75b4-4e5a-84ea-af54edccce92": {
+		"name": "android_100_gift_bundle",
+		"v": 36985,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_21.4"
+			}
+		]
+	},
 	"08478764-2334-4cbb-b8b4-1eeaa10c3b46": {
 		"name": "notifications_settings_dax_write_rollout",
 		"v": 26325,
@@ -30412,7 +30427,7 @@
 	},
 	"aecf3e00-aece-4231-bf1d-f8575c5e3112": {
 		"name": "dart_tcsd_abandonedcart_2024_onsite",
-		"v": 36892,
+		"v": 36983,
 		"t": 2,
 		"groups": [
 			{
