@@ -1407,15 +1407,15 @@
 	},
 	"0825f71a-75b4-4e5a-84ea-af54edccce92": {
 		"name": "android_100_gift_bundle",
-		"v": 36985,
+		"v": 36987,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_21.4"
 			}
 		]
