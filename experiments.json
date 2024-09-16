@@ -18907,6 +18907,21 @@
 			}
 		]
 	},
+	"6de46a3b-0a7d-48df-adb7-04dc740467e4": {
+		"name": "android_mini_to_pip",
+		"v": 36978,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"6de96080-eff2-414f-a151-e067c11381ce": {
 		"name": "android_mirror_c_ads",
 		"v": 31095,
