@@ -363,15 +363,15 @@
 	},
 	"01d60836-9e79-4010-9a7b-c5dd92fea5e4": {
 		"name": "ios_shiny_enigma",
-		"v": 36402,
+		"v": 37000,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -25297,11 +25297,12 @@
 	},
 	"9035a8b4-d94b-4d4a-9aff-10e53b01c80d": {
 		"name": "android_shiny_enigma",
-		"v": 36689,
+		"v": 37002,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -25309,7 +25310,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_21.1"
 			}
 		]
