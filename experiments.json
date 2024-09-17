@@ -9351,15 +9351,15 @@
 	},
 	"3769786d-bfe4-44e4-886f-a6acbe0b3326": {
 		"name": "android_ads_ifv",
-		"v": 36862,
+		"v": 37013,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "new_in_feed_ad_manager_21.3"
 			},
 			{
