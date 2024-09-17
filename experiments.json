@@ -4026,15 +4026,15 @@
 	},
 	"177e8b19-912a-4183-8948-50e63efae001": {
 		"name": "ios_stories_resharing",
-		"v": 35327,
+		"v": 37010,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -16595,15 +16595,15 @@
 	},
 	"605e1a05-dc12-4f0e-a996-ea618562ff7a": {
 		"name": "ios_stories_resharing_viewer",
-		"v": 36554,
+		"v": 37012,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -42294,19 +42294,15 @@
 	},
 	"f4262388-de47-4ba9-98d6-97a5b2e7e205": {
 		"name": "android_stories_resharing",
-		"v": 36830,
+		"v": 37011,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_development"
-			},
-			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_21.2"
 			}
 		]
