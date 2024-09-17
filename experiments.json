@@ -12281,21 +12281,6 @@
 			}
 		]
 	},
-	"47b70522-03e0-4677-88b5-8870ee2b07b3": {
-		"name": "android_bits_one_tap_sending",
-		"v": 37005,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
-			}
-		]
-	},
 	"47d9aef7-2408-4e65-a60c-95da722d8369": {
 		"name": "Remove Pops From Mapping Considerations ",
 		"v": 21942,
@@ -39930,21 +39915,6 @@
 			{
 				"weight": 100,
 				"value": "treatment"
-			}
-		]
-	},
-	"e6398a72-226f-414f-baec-51d0768e9e85": {
-		"name": "android_bits_one_tap_viewing",
-		"v": 37004,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
