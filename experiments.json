@@ -22010,6 +22010,21 @@
 			}
 		]
 	},
+	"7d6a9855-4808-4ac0-a3e1-fea190645c2c": {
+		"name": "android_mdf_stream_ended",
+		"v": 37039,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"7d73078d-ea86-4656-9358-3ea9011a8a12": {
 		"name": "android_mdf_blueberry",
 		"v": 36160,
