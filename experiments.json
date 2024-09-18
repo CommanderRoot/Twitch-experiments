@@ -15933,7 +15933,7 @@
 	},
 	"5d85c450-694f-4f9e-a783-00e12470e737": {
 		"name": "android_ivs_vod_manifest_requester",
-		"v": 35769,
+		"v": 37049,
 		"t": 1,
 		"groups": [
 			{
@@ -15943,6 +15943,10 @@
 			{
 				"weight": 0,
 				"value": "active_20.6"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.4"
 			}
 		]
 	},
