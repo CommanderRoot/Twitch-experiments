@@ -26842,12 +26842,16 @@
 	},
 	"98cc77ee-80f6-40a6-8367-e7b6b56b1fb2": {
 		"name": "ios_submarine_feelings",
-		"v": 36953,
+		"v": 37056,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
@@ -32833,6 +32837,21 @@
 			{
 				"weight": 100,
 				"value": "active_20.4"
+			}
+		]
+	},
+	"bb89493d-cd66-4feb-b5cd-0db4a72fe79a": {
+		"name": "ios_firefly_following_top",
+		"v": 37058,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
