@@ -3752,6 +3752,21 @@
 			}
 		]
 	},
+	"15ea701f-06f0-41c8-b12e-4fa224d30408": {
+		"name": "dart_subtember_onsite_exp_test_091224_onsite",
+		"v": 37096,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"15f45479-526d-4455-95f0-64e4150933d7": {
 		"name": "dart_wwfestvalorant_vwrnrp348_5mp_cmc_watchnow_event_gaming_email_2010_holdout",
 		"v": 13126,
@@ -40331,6 +40346,21 @@
 			{
 				"weight": 0,
 				"value": "experiment"
+			}
+		]
+	},
+	"e88fe6a9-8bf3-4233-93aa-97b3373a2f99": {
+		"name": "dart_subtember_onsite_exp_test_091224_holdout",
+		"v": 37095,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
