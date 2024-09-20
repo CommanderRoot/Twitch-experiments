@@ -18257,6 +18257,17 @@
 			}
 		]
 	},
+	"69da17f0-24ae-41ec-ac6f-e6d45def3159": {
+		"name": "android_minixperiment_kotlinx",
+		"v": 37081,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"6a1cba54-d5d3-4117-ab42-06bd5514a134": {
 		"name": "mobile_native_user_id_experiment",
 		"v": 9191,
