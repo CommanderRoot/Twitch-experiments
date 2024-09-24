@@ -19644,15 +19644,15 @@
 	},
 	"7173420d-3270-486a-8aaf-2a1a0ac3c934": {
 		"name": "android_cheer_icon_update",
-		"v": 36945,
+		"v": 37136,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_21.3"
 			}
 		]
