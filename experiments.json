@@ -8598,11 +8598,11 @@
 	},
 	"33706a14-3008-4034-a8c2-61cb82f70dc6": {
 		"name": "ios_mdf_maf",
-		"v": 37125,
+		"v": 37172,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -8614,7 +8614,7 @@
 				"value": "active_v21.0"
 			},
 			{
-				"weight": 30,
+				"weight": 50,
 				"value": "active_v21.2"
 			}
 		]
