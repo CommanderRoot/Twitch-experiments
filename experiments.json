@@ -7268,6 +7268,21 @@
 			}
 		]
 	},
+	"2b6abc92-8e04-47f3-99e4-82260d169dc9": {
+		"name": "dart_gifting_bonus_round_onsite_2_holdout",
+		"v": 37178,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "allowed"
+			}
+		]
+	},
 	"2b6b86ea-9574-4da9-9808-c4498a8d25e6": {
 		"name": "ios_community_highlights",
 		"v": 11893,
@@ -8385,6 +8400,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"31ccdb08-e371-497c-99b2-b79183e93d3b": {
+		"name": "dart_subtember_badge_091724_holdout",
+		"v": 37179,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
@@ -15656,6 +15686,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"5b343e7e-02c7-4f16-b494-969ab449062f": {
+		"name": "dart_subtember_badge_091724_onsite",
+		"v": 37180,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
