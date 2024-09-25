@@ -21332,6 +21332,21 @@
 			}
 		]
 	},
+	"7932f64a-2a06-43f7-a98c-dbce52698b74": {
+		"name": "android_play_integrity_poc",
+		"v": 37159,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_X"
+			}
+		]
+	},
 	"79456617-8967-4b0d-8e14-021b0ebbc418": {
 		"name": "dart_twitchconexcitees_vwr_738_awa_cmc_lrn_mis_email_2206_holdout",
 		"v": 21792,
