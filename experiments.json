@@ -8836,15 +8836,15 @@
 	},
 	"34770146-1277-4b2a-8b79-8caab88c52e8": {
 		"name": "android_portrait_clips_playback",
-		"v": 36974,
+		"v": 37200,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_21.3"
 			}
 		]
@@ -19708,15 +19708,15 @@
 	},
 	"7173420d-3270-486a-8aaf-2a1a0ac3c934": {
 		"name": "android_cheer_icon_update",
-		"v": 37136,
+		"v": 37199,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_21.3"
 			}
 		]
@@ -29884,11 +29884,11 @@
 	},
 	"aa9a7b2d-92c8-4d2d-8623-c03766ec95aa": {
 		"name": "ios_portrait_clips_playback",
-		"v": 37027,
+		"v": 37198,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -29896,7 +29896,7 @@
 				"value": "active_v21.0"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_v21.3"
 			}
 		]
@@ -42647,6 +42647,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"f4ddd76b-5ed6-4d2a-8d1e-35494d17db43": {
+		"name": "ios_signup_webview_v3",
+		"v": 37197,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
