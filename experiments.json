@@ -1044,6 +1044,21 @@
 			}
 		]
 	},
+	"05e728e6-5007-457e-ab67-8414e817f3e2": {
+		"name": "android_ivs_player_device_config",
+		"v": 37216,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"05ea49a8-7f49-4124-bcce-ab145401a1ba": {
 		"name": "ios_seek_to_live_on_stream_play",
 		"v": 13731,
@@ -3486,6 +3501,21 @@
 			{
 				"weight": 100,
 				"value": "rollout"
+			}
+		]
+	},
+	"148bdc04-47bc-41cc-b786-ba3fe4c12e41": {
+		"name": "ios_ivs_player_device_config",
+		"v": 37215,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
