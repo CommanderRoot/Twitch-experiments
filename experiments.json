@@ -3491,15 +3491,15 @@
 	},
 	"148bdc04-47bc-41cc-b786-ba3fe4c12e41": {
 		"name": "ios_ivs_player_device_config",
-		"v": 37219,
+		"v": 37253,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
