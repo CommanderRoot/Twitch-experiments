@@ -20922,15 +20922,15 @@
 	},
 	"7661f47a-3518-4fa0-9554-0ccc3f1a7830": {
 		"name": "mobile_native_badges_in_quests",
-		"v": 37267,
+		"v": 37274,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_development"
 			},
 			{
