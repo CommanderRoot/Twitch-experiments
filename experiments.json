@@ -9111,15 +9111,15 @@
 	},
 	"359ad3ca-91ee-4e42-9d0e-fcaa45547f68": {
 		"name": "notifications_settings_android_token_filter",
-		"v": 37164,
+		"v": 37256,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "variant"
 			}
 		]
