@@ -23765,15 +23765,15 @@
 	},
 	"85bb40b0-03e1-4dc7-9ea5-8e2a8f836210": {
 		"name": "android_mdf_a11y_navigation",
-		"v": 37262,
+		"v": 37275,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_21.3"
 			}
 		]
