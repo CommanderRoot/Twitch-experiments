@@ -9111,15 +9111,15 @@
 	},
 	"359ad3ca-91ee-4e42-9d0e-fcaa45547f68": {
 		"name": "notifications_settings_android_token_filter",
-		"v": 37256,
+		"v": 37258,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "variant"
 			}
 		]
@@ -14545,15 +14545,15 @@
 	},
 	"53950a4a-7d45-4fc7-823e-23b6270b8844": {
 		"name": "ios_disco_dj_audio_only",
-		"v": 37240,
+		"v": 37260,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -26231,15 +26231,15 @@
 	},
 	"949d1f83-2142-4228-94af-963053ea5400": {
 		"name": "android_dj_audio_only",
-		"v": 36846,
+		"v": 37259,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_21.3"
 			}
 		]
