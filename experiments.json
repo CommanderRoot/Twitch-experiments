@@ -20920,6 +20920,25 @@
 			}
 		]
 	},
+	"7661f47a-3518-4fa0-9554-0ccc3f1a7830": {
+		"name": "mobile_native_badges_in_quests",
+		"v": 37267,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.6"
+			}
+		]
+	},
 	"7678a52b-b88b-491b-b2af-63863fbc0fb0": {
 		"name": "dart_liveup",
 		"v": 12405,
