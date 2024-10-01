@@ -34574,11 +34574,11 @@
 	},
 	"c5a10e04-53e7-4449-b181-5bd5b77ddca8": {
 		"name": "android_sub_pri_notice",
-		"v": 36952,
+		"v": 37297,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -34586,7 +34586,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_21.3"
 			}
 		]
