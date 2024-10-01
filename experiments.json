@@ -18353,16 +18353,20 @@
 	},
 	"699fde53-b88b-4bcf-81cb-cd95264005be": {
 		"name": "android_stories_avatar_pile_compose",
-		"v": 37239,
+		"v": 37293,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 50,
+				"value": "active_21.5"
 			}
 		]
 	},
