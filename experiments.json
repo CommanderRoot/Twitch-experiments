@@ -4855,11 +4855,11 @@
 	},
 	"1c1953b5-15a0-4a63-83f4-44261f25bcca": {
 		"name": "ios_kmp_chat",
-		"v": 37075,
+		"v": 37277,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -4867,7 +4867,7 @@
 				"value": "active_v21_0"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_v21_4"
 			}
 		]
@@ -13136,12 +13136,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 37254,
+		"v": 37278,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-d49322.pdx01.abs.hls.ttvnw.net/v1/segment/CpmvwkvqiiVWFo296_nefDw1IGv7eRsYwXbFXaXxHjzMCqGYHfhX6CBCN1dEjtB1hoqe0HZRZNiZzMLCZRT-PwmDn4M9Vn1Wu8Xq2l-lqwKm_RigDnqJfiEFQTvD8tiUwAC2I_iif_a5vV-1Yj4x2Q4wV332shVouElrWdtehEZNHM6t9NnvRLGnAf8Gk79M0rwdZ_aSAluZjC8RGq2cRYQXSWt8YJtrlp6UR4UeSVetQzQzCz1Nf4eFFnlYp1vEzc4beJJzVmlC6aTYzMnbTDjdHaQipt1CTZS379fVWuUzquBMaFADg6sIjO5BURrTJTUWUAPfSUTh4cYGA20CtUnMzbTqL0_NdPRQqiRqAYAHYXosclRLgE6ndFCXfFTovXNKIiyS-cDfnYGD2NO356xQGGsstgWZHvVsu8EmCgZtIpt5IreFskanrS5YGaeZKTjf2Nknlr-02W2wikBOIYta28yUEgGBhWI1louQVsvgxyTVmMHxmItFRpuKshjE7zDYYII_Rn10nLq6MgZGaTs4QcX0vdF1fSWSQDJ4zJ4Y4dN9nLOc3x58P5DYldGtgIXwOht2wmV4E1t9qg98LYStntFE-PwzN6EuDSSewL4qggqzl1Wrqozy2AwlmWzV-lEiZ8z_BaWXhtWmxzj37Q7h_1SsUiJtPfc7-s-cGqTUIfwJ3fmxHKr5QSNNQyY1NiioAduSg7C1Kf-Eo0u6v43xS-ZmQ-voUTxi0eCsdI5uBKCQC4G-o9NvVd_rFhx5S4o_mtlHO8ypdNf--Jp.ts"
+				"value": "//video-edge-a4b10c.pdx01.abs.hls.ttvnw.net/v1/segment/CgBhXBhsd6h975jmzZ27CVKa8UZSkTc6u7ikh-iAtl-qXse2SnPNV_HqvmliimuhRjf9suTVyF_tut5SE2bjKHCm2aWaGIm78lKzHQQxX1achpx_GfknQDEorzSxlbeKPSloa5rsMzYAk2m55_g9cdCS7r6aX0kJ8TIG6wNW3qrhs0sNhOoyovJ6w1b2-RsSBHRDEpLd8gm6wF4GtO-jK7RpxzH3FhI5lvLfo-xShCjLXhMxHZ9qOdBpWHKA-vJqI0D6QrbY5rvzf4LcAqBZSlFwD7fwQWhLVQLdauXJpPQGbY_F1-9GoVseIfDavPjGJOl7Hr-QGk3eL7Eb6HS6CoOe-weA7PsY1Ewwb_xQdBpzcNo6-FADKAKJ_br4B2EyHO330jcjMf6arcBObygcihci6pGAD7o9dIGgAYLJC2LYVH1DmhNL3GdgbH_tEfwcnf3r9Opf-ZftJ0Vu_mnD5TcJU7W_cZ5uLS6ItcZGseyHVI9cdciQwx-At_rAGG4pRtiPRbTHHxbJgKWT0G7gLqhI-uhzz0yO8gCV2Fk1Wz6lZLvTGNgrND8_YkzV4vvK8dzjI7CCIMbY4dsJIpCIivixax2Iwt3xgS8hbacx86UNjl2XvKNl1sJ3bk6vkm3S88JkFC6YfizNHF41-Jaya153e99Y0qtchfNbm0vcXM-LpYkBGURDu1biNEsEZOYlgD3sVZ_HbCsfSPbh994DTP1pZpdmUVUxB8dQYDTFNtoD80S6G6FcEN28bBdqJujqERckEcxyX.ts"
 			}
 		]
 	},
@@ -23765,7 +23765,7 @@
 	},
 	"85bb40b0-03e1-4dc7-9ea5-8e2a8f836210": {
 		"name": "android_mdf_a11y_navigation",
-		"v": 37275,
+		"v": 37276,
 		"t": 1,
 		"groups": [
 			{
@@ -23775,6 +23775,10 @@
 			{
 				"weight": 0,
 				"value": "active_21.3"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.6"
 			}
 		]
 	},
