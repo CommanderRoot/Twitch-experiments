@@ -7845,6 +7845,21 @@
 			}
 		]
 	},
+	"2eeaa074-0f1e-41a7-a8b1-a2a018b9517b": {
+		"name": "ios_ivs_player_qsbr",
+		"v": 37336,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"2f0d35ee-a9f7-4565-b876-f816d938e723": {
 		"name": "ios_ads_svbr",
 		"v": 36589,
