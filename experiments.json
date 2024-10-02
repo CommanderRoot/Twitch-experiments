@@ -13918,6 +13918,21 @@
 			}
 		]
 	},
+	"502b9923-61a5-4fa2-88a7-4f471a6a7522": {
+		"name": "android_sponsorships_pubtech_migration",
+		"v": 37339,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.7"
+			}
+		]
+	},
 	"502fe8f0-6858-465e-83b4-8f58f538528a": {
 		"name": "hype_train_all_time_high",
 		"v": 24445,
