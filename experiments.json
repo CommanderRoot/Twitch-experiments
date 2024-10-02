@@ -7554,6 +7554,25 @@
 			}
 		]
 	},
+	"2cb573fa-6de1-4901-9d5b-b93f972e78f1": {
+		"name": "android_hermes_rollout_channel_v1",
+		"v": 37343,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "blue_21.9"
+			},
+			{
+				"weight": 0,
+				"value": "green_21.9"
+			}
+		]
+	},
 	"2cc56231-050e-4e3b-96d2-ff85d602aab7": {
 		"name": "gifting_bundle_animations_experiment",
 		"v": 12674,
