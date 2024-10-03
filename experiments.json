@@ -1426,15 +1426,15 @@
 	},
 	"0825f71a-75b4-4e5a-84ea-af54edccce92": {
 		"name": "android_100_gift_bundle",
-		"v": 36987,
+		"v": 37359,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_21.4"
 			}
 		]
@@ -36877,15 +36877,15 @@
 	},
 	"d33944b3-c02a-4255-afec-d7b52a33d6a7": {
 		"name": "ios_gift_bundle",
-		"v": 36904,
+		"v": 37360,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "treatment_21.1"
 			}
 		]
