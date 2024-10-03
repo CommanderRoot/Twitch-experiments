@@ -1426,15 +1426,16 @@
 	},
 	"0825f71a-75b4-4e5a-84ea-af54edccce92": {
 		"name": "android_100_gift_bundle",
-		"v": 37361,
+		"v": 37364,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_21.4"
 			}
 		]
@@ -2464,6 +2465,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"0e2c2163-b059-419c-afb3-7c462ee65037": {
+		"name": "ios_sponsorships_pubtech_migration",
+		"v": 37367,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v21.7"
 			}
 		]
 	},
@@ -36877,15 +36893,16 @@
 	},
 	"d33944b3-c02a-4255-afec-d7b52a33d6a7": {
 		"name": "ios_gift_bundle",
-		"v": 37362,
+		"v": 37366,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "treatment_21.1"
 			}
 		]
