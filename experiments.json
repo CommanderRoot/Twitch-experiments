@@ -13186,12 +13186,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 37347,
+		"v": 37371,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-489222.pdx01.abs.hls.ttvnw.net/v1/segment/ChzRtTF9v5teWkLSjYR8aEqvMW1z-FA5zj99k-Cg-KZnA3EqQQk-NDB7JkYlRLj_mpvuX_Mz8ZZEGKhT_fZh2giHT-IARkhV9OAO03WHAzCKBQ8iNzWzvk5t9wj0ky4dnV1Z1jpb5CLEqV8GD48q10mFHDStKrl8ZISvfVdHNGRL74lfSJQFmRURnoXuOTk6mCHFQhTa6B01YQ5BP3w3mEppaVYyt3W0k3TeA6q14f_Ac2ZnuBaEDoCQw_TfIDIt1C4VNqcRYxDXy-LMBK-s6keRIi9-_lbjm8hbvpbZMNZUx2ar1RbuKVmcrCyc5Hkqi0t14HnrVB-YdlAV-T6sBKQmy1bie06aicdH1FHtavO7h_pcD5q0_SAjtKJXHcROpRBVRdmGbSffMREn26XBZXkJ0vYB20_yuuy_hl6Qg_lX0taoNKBa2aNQGw-Gt-JzZfQ2m5IHk98ldkJO5DVhSmJt0XhhYJuTOW8VTg8ELWdb6_tqwaXp0KcbYR-g2O-CEdB9sbKcL4jcDI6uqsmWFJGndVcievha_uqwmzEQO06O8XWrWqwRl5rNyynSjYOaf20Iirkcn8qhXESrMR1iankmQc79svoGUqyLWgBvBp3Q6KSfysHwBXPBMVHdkyQr0uuCHmmwCF0SnsT1rG_kddj9UVqPLEM9dLIlVV85IGX5ws7Z4eJ9Y8rwBuyR5oaYofibA7GrhMqV_SiER0Zgd0d-UqKnXDlWytD63XeMeYRSGCULGJmPfQ21LtrgYzEZ79-8DL0Ygq.ts"
+				"value": "//video-edge-d7a0ac.pdx01.abs.hls.ttvnw.net/v1/segment/Cv3Z_2OUOCakdnI02C8X-gIVliXaSDm7vPAq-Y1ru0qh3biXeqzCmT-MxdaMHWIjjZHmSagLC8tBcegNSMm_q4gdYqR-KrbsR1sxk1wOHVVC2STrHkz1x9FIp2mvsxQFohpZjSvY0SrCiaqRMvO4y51tkvPZeiy9uIL69PTC3CeWPwWXX68EquUJd14MPciZNfcrUE6JelmdOyEe-JV7FgeeDBaDRVWR-c691hFA_VfdKmjrPos7PuAwqDjVa1TqWrHZ4BlA_qvFMwDL1jTihmNeEZ1iKVguCObaktwhdCIvYVmc7XCV6j0METSPe9Rt7S3x4egsM5KJ--mxJ6LIXvkTZk8gA1MknCqMgiI3iyoWI4TVX9QWWaXlHB9IOa4Y-cAVn6kRJmvfBH17vu5TiQt8FVbfJSI4Gv9BIQWe_1OPrQte2HONUECoD9gGoZMds2Q6OcN6l0iCpqqzQJgPYFHPYISKTnClgxceEEKxpk199fMqcJLnFnOA3e_zCv-wSxZF4sD0xEyvCx9fdf25FrzeKq4s8DmfFN_973edhdKutFiPRqg1aGdb7-j4BbhOdXbnQ8OCy6XfVLOvA7hW6wPVHG-urqp_9CogBPs6CrsndMEjmA-MWw992l9h6q4-MilStpJ2HElKZftCeOTTS4KgzfVbRLIfm40SpP4lmqyfJ5v_JVISxgHeuAhJV1MdrZcXd4oOS4bu5jRI_cHj7gMWivWzTdqr1_QO_A5T2XUaaoY2a-tLaGm44.ts"
 			}
 		]
 	},
@@ -20991,11 +20991,11 @@
 	},
 	"7661f47a-3518-4fa0-9554-0ccc3f1a7830": {
 		"name": "mobile_native_badges_in_quests",
-		"v": 37274,
+		"v": 37372,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -21003,7 +21003,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_21.6"
 			}
 		]
