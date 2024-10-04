@@ -29991,11 +29991,11 @@
 	},
 	"aa9a7b2d-92c8-4d2d-8623-c03766ec95aa": {
 		"name": "ios_portrait_clips_playback",
-		"v": 37238,
+		"v": 37383,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -30003,7 +30003,7 @@
 				"value": "active_v21.0"
 			},
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "active_v21.3"
 			}
 		]
