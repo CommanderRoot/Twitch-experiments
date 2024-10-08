@@ -552,11 +552,11 @@
 	},
 	"030c4853-9b2d-4ea2-a178-aa95b30d6be7": {
 		"name": "android_happiness_in_bundles",
-		"v": 37186,
+		"v": 37446,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -564,7 +564,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_21.5"
 			}
 		]
@@ -2470,15 +2470,15 @@
 	},
 	"0e2c2163-b059-419c-afb3-7c462ee65037": {
 		"name": "ios_sponsorships_pubtech_migration",
-		"v": 37370,
+		"v": 37447,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v21.6"
 			}
 		]
