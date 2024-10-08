@@ -13985,15 +13985,15 @@
 	},
 	"502b9923-61a5-4fa2-88a7-4f471a6a7522": {
 		"name": "android_sponsorships_pubtech_migration",
-		"v": 37339,
+		"v": 37450,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_21.7"
 			}
 		]
