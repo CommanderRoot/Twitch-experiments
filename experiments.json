@@ -3659,6 +3659,25 @@
 			}
 		]
 	},
+	"15306ab4-c45e-401e-ac92-33689a200e54": {
+		"name": "dart_hype_train_push_notification_push",
+		"v": 37485,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
+			}
+		]
+	},
 	"1574b000-7a17-4807-bb00-04afebf3926f": {
 		"name": "iOS_verification_at_sign_up",
 		"v": 16707,
