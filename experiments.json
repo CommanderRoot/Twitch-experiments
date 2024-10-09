@@ -15514,6 +15514,21 @@
 			}
 		]
 	},
+	"58f17ec0-e903-4a10-8515-f6b5ce9d920e": {
+		"name": "android_notifications_prompt_on_login",
+		"v": 37487,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"59032eb0-33fe-42ef-9177-884b645ec794": {
 		"name": "android_sdk_pubsub_wrapper",
 		"v": 33123,
