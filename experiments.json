@@ -7587,7 +7587,7 @@
 	},
 	"2cb573fa-6de1-4901-9d5b-b93f972e78f1": {
 		"name": "android_hermes_rollout_channel_v1",
-		"v": 37343,
+		"v": 37472,
 		"t": 3,
 		"groups": [
 			{
@@ -7596,11 +7596,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "blue_21.9"
+				"value": "blue_development"
 			},
 			{
 				"weight": 0,
-				"value": "green_21.9"
+				"value": "green_development"
 			}
 		]
 	},
