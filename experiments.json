@@ -13596,15 +13596,15 @@
 	},
 	"4e1d038b-7d20-45e2-8e68-335bb4759c48": {
 		"name": "android_ads_pr_45s",
-		"v": 36933,
+		"v": 37478,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 2,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 98,
 				"value": "active_21.3"
 			}
 		]
@@ -42508,15 +42508,15 @@
 	},
 	"f177a021-ab28-4109-9cd1-f89cec286a6e": {
 		"name": "ios_ads_pr_45s",
-		"v": 36927,
+		"v": 37479,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 2,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 98,
 				"value": "active_21.3"
 			}
 		]
