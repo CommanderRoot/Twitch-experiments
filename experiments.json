@@ -14941,15 +14941,15 @@
 	},
 	"556879fd-eafe-49a1-9d6f-01f62da2edad": {
 		"name": "ios_clips_viewer_exports",
-		"v": 36941,
+		"v": 37499,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -39692,11 +39692,11 @@
 	},
 	"e27d0b82-7086-4d28-98d4-09dee9f8c7a1": {
 		"name": "android_viewer_clip_exports",
-		"v": 37261,
+		"v": 37498,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -39704,7 +39704,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_21.5"
 			}
 		]
