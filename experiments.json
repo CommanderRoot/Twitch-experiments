@@ -15048,21 +15048,6 @@
 			}
 		]
 	},
-	"5697c3b8-77e9-4dd1-af5f-660795c7a7e0": {
-		"name": "dart_clipsvsmitest_080224_holdout",
-		"v": 37093,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "holdout"
-			},
-			{
-				"weight": 80,
-				"value": "allowed"
-			}
-		]
-	},
 	"569fced8-b2fa-41b9-9c4e-6349f3ea6be0": {
 		"name": "android_meow_subs_use_animations",
 		"v": 31203,
@@ -28973,6 +28958,21 @@
 			}
 		]
 	},
+	"a424d053-9155-4dfa-ac43-543f4c8109be": {
+		"name": "dart_clipsvsmitest_080224_v2_holdout",
+		"v": 37520,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"a424f101-342c-42f0-a12f-a71e5baf0cad": {
 		"name": "android_leaderboards_webview",
 		"v": 26004,
@@ -35703,6 +35703,21 @@
 			}
 		]
 	},
+	"cba924de-ab3e-4ff6-9341-9ca39508e575": {
+		"name": "dart_clipsvsmitest_080224_v2_email",
+		"v": 37521,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"cbd5d091-d272-4c0b-af9a-cc5bb198bc74": {
 		"name": "new_hermes_onsite_team_rollout",
 		"v": 23917,
@@ -38475,21 +38490,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"db6c9235-39e9-4229-a47c-1239d61a479e": {
-		"name": "dart_clipsvsmitest_080224_email",
-		"v": 37094,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
