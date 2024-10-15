@@ -2485,7 +2485,7 @@
 	},
 	"0e2c2163-b059-419c-afb3-7c462ee65037": {
 		"name": "ios_sponsorships_pubtech_migration",
-		"v": 37447,
+		"v": 37566,
 		"t": 1,
 		"groups": [
 			{
@@ -2493,8 +2493,12 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v21.6"
+			},
+			{
+				"weight": 100,
+				"value": "active_v21.8"
 			}
 		]
 	},
