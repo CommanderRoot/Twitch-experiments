@@ -4984,11 +4984,11 @@
 	},
 	"1c862166-d064-4ce2-8d3f-92b39e5a380d": {
 		"name": "ios_mdf_maf_logic",
-		"v": 37518,
+		"v": 37554,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -5000,7 +5000,7 @@
 				"value": "active_v21.3"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v21.7"
 			}
 		]
@@ -32871,11 +32871,11 @@
 	},
 	"b96bca38-df24-4838-94a2-b13130cfc2c1": {
 		"name": "mobile_native_st_display_collaborations",
-		"v": 37369,
+		"v": 37555,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -32883,7 +32883,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_21.5"
 			}
 		]
