@@ -9541,7 +9541,7 @@
 	},
 	"3769786d-bfe4-44e4-886f-a6acbe0b3326": {
 		"name": "android_ads_ifv",
-		"v": 37550,
+		"v": 37552,
 		"t": 2,
 		"groups": [
 			{
@@ -9549,11 +9549,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 98,
+				"weight": 50,
 				"value": "new_in_feed_ad_manager_21.6"
 			},
 			{
-				"weight": 2,
+				"weight": 50,
 				"value": "in_feed_video_ads_21.6"
 			},
 			{
@@ -31105,7 +31105,7 @@
 	},
 	"aff9c6d9-15da-439c-bcc3-e96777d512d3": {
 		"name": "hypetrain-thth-experiment",
-		"v": 37551,
+		"v": 37553,
 		"t": 2,
 		"groups": [
 			{
