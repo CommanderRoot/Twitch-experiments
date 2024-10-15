@@ -9541,7 +9541,7 @@
 	},
 	"3769786d-bfe4-44e4-886f-a6acbe0b3326": {
 		"name": "android_ads_ifv",
-		"v": 37326,
+		"v": 37549,
 		"t": 2,
 		"groups": [
 			{
@@ -9555,6 +9555,10 @@
 			{
 				"weight": 0,
 				"value": "in_feed_video_ads_21.6"
+			},
+			{
+				"weight": 0,
+				"value": "in_feed_video_ads_21.8"
 			}
 		]
 	},
