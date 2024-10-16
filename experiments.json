@@ -308,6 +308,29 @@
 			}
 		]
 	},
+	"0194f9ef-dfd5-4b78-b203-a95ed1db871f": {
+		"name": "spent_bits_clawback",
+		"v": 37595,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "disabled"
+			},
+			{
+				"weight": 0,
+				"value": "dark_launch"
+			},
+			{
+				"weight": 0,
+				"value": "affiliates_only_launch"
+			},
+			{
+				"weight": 0,
+				"value": "full_launch"
+			}
+		]
+	},
 	"01b17f66-09a6-4ea4-a419-53ba267b954f": {
 		"name": "dart_pridelaunchde_ctr_1009_awa_cmc_lrn_mis_oe_2306_holdout",
 		"v": 28097,
@@ -2635,6 +2658,21 @@
 			{
 				"weight": 20,
 				"value": "0"
+			}
+		]
+	},
+	"0f2bef3d-b383-4f77-9c55-b8681a2c4c4b": {
+		"name": "collab_tot_spotlight_card",
+		"v": 37593,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
