@@ -29923,7 +29923,7 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 37579,
+		"v": 37581,
 		"t": 2,
 		"s": 16,
 		"groups": [
@@ -29932,11 +29932,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 95,
+				"weight": 94,
 				"value": "realtime_abt"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "realtime_v2_2024"
 			}
 		]
