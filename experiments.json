@@ -17520,11 +17520,11 @@
 	},
 	"63e5f621-ce40-4cbb-a604-b9d362b31cdb": {
 		"name": "ios_kasada_timeout",
-		"v": 37613,
+		"v": 37614,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "20s"
 			},
 			{
@@ -17536,7 +17536,7 @@
 				"value": "90s"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "savant"
 			}
 		]
