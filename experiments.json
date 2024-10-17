@@ -8981,15 +8981,15 @@
 	},
 	"34770146-1277-4b2a-8b79-8caab88c52e8": {
 		"name": "android_portrait_clips_playback",
-		"v": 37386,
+		"v": 37604,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "active_21.3"
 			}
 		]
@@ -23425,15 +23425,15 @@
 	},
 	"82b7cb57-c706-444d-82fb-c9ef19cae6b5": {
 		"name": "android_portrait_clip_category",
-		"v": 37388,
+		"v": 37603,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "active_21.4"
 			}
 		]
