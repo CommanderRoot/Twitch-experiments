@@ -33926,6 +33926,21 @@
 			}
 		]
 	},
+	"c013f4f8-d297-4a65-955b-e2c18b9f2249": {
+		"name": "android_hermes_rollout_beta",
+		"v": 37636,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.8"
+			}
+		]
+	},
 	"c0b02695-c605-44fb-a84d-fe87f999e81b": {
 		"name": "dart_wwfestvalorant_vwrnrp348_5mp_cmc_watchnow_event_gaming_email_2010_holdout",
 		"v": 13125,
