@@ -28568,11 +28568,11 @@
 	},
 	"a0526783-83dd-4d2f-8512-427f5ce376f3": {
 		"name": "ios_collaborators_in_clips",
-		"v": 31261,
+		"v": 37601,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -28580,7 +28580,7 @@
 				"value": "beta"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
