@@ -2103,6 +2103,21 @@
 			}
 		]
 	},
+	"0b92675b-55c0-45c1-9d66-ffd7b933e87a": {
+		"name": "dart_halloween_week2024_teaser_notification_holdout",
+		"v": 37619,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"0bb7fc0a-c4ae-4972-8d5d-cc09dcfbb458": {
 		"name": "AUTOMOD_SMALLER",
 		"v": 1658,
