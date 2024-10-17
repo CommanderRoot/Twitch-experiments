@@ -2988,6 +2988,21 @@
 			}
 		]
 	},
+	"114520d0-ef05-49cb-a2c6-cb308807b079": {
+		"name": "android_recap_ingress",
+		"v": 37625,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"1148ac35-d51a-4821-9ba8-9a26ee3d289f": {
 		"name": "android_feed_use_fragment_lifecycle",
 		"v": 35066,
@@ -8723,6 +8738,21 @@
 			{
 				"weight": 100,
 				"value": "half_screen_active_19.0"
+			}
+		]
+	},
+	"32b65bf9-3aeb-4a8c-966a-64e48cabb11b": {
+		"name": "android_recap_deeplinks",
+		"v": 37624,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
@@ -38759,6 +38789,21 @@
 			{
 				"weight": 94,
 				"value": "allowed"
+			}
+		]
+	},
+	"dcc73ce0-17f1-4400-bbee-efd7554e60a8": {
+		"name": "android_recap_ad_deeplinks",
+		"v": 37623,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
