@@ -9275,15 +9275,15 @@
 	},
 	"359ad3ca-91ee-4e42-9d0e-fcaa45547f68": {
 		"name": "notifications_settings_android_token_filter",
-		"v": 37258,
+		"v": 37661,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 10,
 				"value": "variant"
 			}
 		]
