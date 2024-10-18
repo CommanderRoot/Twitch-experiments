@@ -22833,6 +22833,21 @@
 			}
 		]
 	},
+	"7edfb6bd-8585-4192-92a3-d14d83038fec": {
+		"name": "dart_discord_quest_consistent_viewers_101724_holdout",
+		"v": 37662,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"7ee7f463-51dd-4b6c-8449-d9a413c10f41": {
 		"name": "ios_creator_goals_leaderboard_channel",
 		"v": 36910,
@@ -43507,6 +43522,25 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"f78466d2-1732-4c63-9a31-bc9298270cab": {
+		"name": "dart_discord_quest_consistent_viewers_101724_email",
+		"v": 37663,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
