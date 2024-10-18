@@ -6230,6 +6230,21 @@
 			}
 		]
 	},
+	"241293da-b1d0-43a9-9a5b-cb9e2bf9c96a": {
+		"name": "dart_discord_quest_infrequent_viewers_101724_holdout",
+		"v": 37664,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"241987b1-a9d7-40e7-aa78-d58bbc00b9b5": {
 		"name": "dart_welcomeemail1nonen_vwr_574_dav_cmc_wch_mis_email_2111_email",
 		"v": 17933,
@@ -32973,6 +32988,25 @@
 			{
 				"weight": 100,
 				"value": "control"
+			}
+		]
+	},
+	"b9623d8d-e841-4ef2-a9fd-aa072243454f": {
+		"name": "dart_discord_quest_infrequent_viewers_101724_email",
+		"v": 37665,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
