@@ -33981,15 +33981,15 @@
 	},
 	"c013f4f8-d297-4a65-955b-e2c18b9f2249": {
 		"name": "android_hermes_rollout_beta",
-		"v": 37699,
+		"v": 37704,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 5,
 				"value": "active_21.8"
 			}
 		]
