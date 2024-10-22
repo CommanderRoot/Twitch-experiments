@@ -6583,6 +6583,21 @@
 			}
 		]
 	},
+	"265be836-947d-44e3-b0ae-a73107b92bf9": {
+		"name": "android_ads_random_test",
+		"v": 37710,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "treatment"
+			}
+		]
+	},
 	"26c9f018-f78b-4f35-8cd1-67d44b9e5b88": {
 		"name": "android_user_appeals",
 		"v": 19855,
@@ -43429,15 +43444,15 @@
 	},
 	"f6c4da8c-0e1a-4597-9778-7b89d801710a": {
 		"name": "android_ads_video_ad_pod_refactor",
-		"v": 35688,
+		"v": 37711,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_20.3"
 			}
 		]
