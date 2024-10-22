@@ -6583,21 +6583,6 @@
 			}
 		]
 	},
-	"265be836-947d-44e3-b0ae-a73107b92bf9": {
-		"name": "android_ads_random_test",
-		"v": 37710,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "treatment"
-			}
-		]
-	},
 	"26c9f018-f78b-4f35-8cd1-67d44b9e5b88": {
 		"name": "android_user_appeals",
 		"v": 19855,
