@@ -9960,11 +9960,11 @@
 	},
 	"39d2db4a-dcbc-4153-a4bb-3f48737f7df7": {
 		"name": "ios_latency_portal",
-		"v": 36597,
+		"v": 37758,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -9972,7 +9972,7 @@
 				"value": "treatment"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "treatment_v2"
 			}
 		]
@@ -34026,15 +34026,15 @@
 	},
 	"c013f4f8-d297-4a65-955b-e2c18b9f2249": {
 		"name": "android_hermes_rollout_beta",
-		"v": 37738,
+		"v": 37759,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_21.8"
 			}
 		]
