@@ -33367,6 +33367,21 @@
 			}
 		]
 	},
+	"bb782632-ce86-4563-951b-d7b1205746ab": {
+		"name": "ios_create_tab_treatment",
+		"v": 37747,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"bb89493d-cd66-4feb-b5cd-0db4a72fe79a": {
 		"name": "ios_firefly_following_top",
 		"v": 37058,
@@ -38393,21 +38408,6 @@
 			{
 				"weight": 100,
 				"value": "active_v9.1"
-			}
-		]
-	},
-	"d97e4847-483d-409a-8e3f-0e057136feae": {
-		"name": "ios_stories_full_flat_controls",
-		"v": 36117,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
 			}
 		]
 	},
@@ -43729,21 +43729,6 @@
 			{
 				"weight": 99,
 				"value": "allowed"
-			}
-		]
-	},
-	"f828e734-e412-457b-9af4-2d7772acc628": {
-		"name": "ios_stories_full_flattening",
-		"v": 36118,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
 			}
 		]
 	},
