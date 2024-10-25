@@ -18928,7 +18928,7 @@
 	},
 	"6bf7eace-8a9d-4cdf-96e6-e37e007d39bb": {
 		"name": "android_firefly_tablets",
-		"v": 36451,
+		"v": 37763,
 		"t": 1,
 		"groups": [
 			{
@@ -18946,6 +18946,10 @@
 			{
 				"weight": 0,
 				"value": "active_21.0"
+			},
+			{
+				"weight": 0,
+				"value": "active_21.9"
 			}
 		]
 	},
@@ -27297,7 +27301,7 @@
 	},
 	"98c15fb6-aa5b-4ec5-bd5b-9ba9323b4229": {
 		"name": "android_following_top_tab",
-		"v": 37142,
+		"v": 37762,
 		"t": 2,
 		"groups": [
 			{
@@ -27307,6 +27311,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "21.9"
 			}
 		]
 	},
