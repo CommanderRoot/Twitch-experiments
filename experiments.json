@@ -15630,16 +15630,20 @@
 	},
 	"58f17ec0-e903-4a10-8515-f6b5ce9d920e": {
 		"name": "android_notifications_prompt_on_login",
-		"v": 37487,
+		"v": 37773,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 10,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 90,
+				"value": "active_21.7"
 			}
 		]
 	},
