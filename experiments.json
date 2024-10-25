@@ -12684,15 +12684,15 @@
 	},
 	"489e531a-e023-47a0-8013-3735b48abe7c": {
 		"name": "ios_st_display_collaborations",
-		"v": 37732,
+		"v": 37770,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_21.8"
 			}
 		]
@@ -14882,15 +14882,15 @@
 	},
 	"547fbe61-09e8-4dc5-906e-1c6668a49288": {
 		"name": "android_st_display_collaborations",
-		"v": 37730,
+		"v": 37771,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_21.8"
 			}
 		]
