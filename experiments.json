@@ -34232,6 +34232,21 @@
 			}
 		]
 	},
+	"c1aac67b-b348-4b3f-bcc0-d70df3dfd4cf": {
+		"name": "ios_st_shared_viewership",
+		"v": 37784,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"c1ad6b89-7ba5-4a16-aacb-fa6aee557409": {
 		"name": "android_predictions_mod_mode",
 		"v": 14644,
