@@ -975,15 +975,15 @@
 	},
 	"05579e24-ef3b-4412-9222-b6b2837f17b6": {
 		"name": "android_new_clips_share_sheet",
-		"v": 37726,
+		"v": 37835,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_21.9"
 			}
 		]
