@@ -19743,6 +19743,21 @@
 			}
 		]
 	},
+	"6fe057c6-0219-4e51-8e7f-e3fb5788f67e": {
+		"name": "ios_login_required_sequel",
+		"v": 37831,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"6fe3a5bc-fb45-49ab-a535-c47d5853b69b": {
 		"name": "Promotions_SideNav_Recommended_Web",
 		"v": 23972,
@@ -32358,6 +32373,21 @@
 			{
 				"weight": 100,
 				"value": "active_21.7"
+			}
+		]
+	},
+	"b4a9cb2e-6b02-4553-88b9-2fb44a8ab240": {
+		"name": "dart_recommended_live_category_holdout",
+		"v": 37830,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 2,
+				"value": "holdout"
+			},
+			{
+				"weight": 98,
+				"value": "allowed"
 			}
 		]
 	},
