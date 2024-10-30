@@ -45204,6 +45204,21 @@
 			}
 		]
 	},
+	"ff286229-83f1-4456-92d7-942f377f1723": {
+		"name": "android_logout_experience",
+		"v": 37850,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"ff2ab3b6-5871-4ff9-909a-1a2265b1b522": {
 		"name": "ios_mdf_blueberry",
 		"v": 36164,
