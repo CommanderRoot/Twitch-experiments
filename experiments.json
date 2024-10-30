@@ -13375,12 +13375,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 37815,
+		"v": 37839,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-911c46.pdx01.abs.hls.ttvnw.net/v1/segment/CiqksHPG3LVofcC5wTJi7CRhHuGpsp9lJ1YGZ5fJ-NUdy2neFovZ5R6W-q111IWpJEqrHEr1Rn3EqQqxmunst7k1bNx3EJyfpHOPHUUwRJCHTL8x9sw9nxlX2AJQdyuBdzQA6NDSp0k-gbRU-qf32JSwlJvl8NtswI9mYbZ4j7MqtWj8u6I29xNFQtDVu74MggE4d00bwdn2tWW6hy3bUSrSHaJ5r5frbrDHOVsJ5jsn_sesYX1pmgnLGdDXoO8W0_RObkK4L5XlLvE7iC7Ijlr5yOYVRf_OC1AhikgUWwQovNQMSkH2jigP6YcOz4nBhCXEXbClgKGiYjEnYKwAX647uuicAQ34msqScUyLe14T0f4OiTI-KZYqboTsD5m5rBm6ikSAiI1ufD-us6HAwH1H61drInt3O9K7YHoKkMhJuEWb2UvinL_Bzcqsvoh1_XVosfGg3O3L4HPkXZJhSmgcLfftjHgn1bGmGEuAUjpgNN0F8SAwxi4C46TGWXyMxw_Rv3wWvuUOrrAE8eDK6PrJeu3Pnc9prZKtE_NWb3A-kUJ_Ww2liuyjJInbYcKA5dhqGrYWVYAHs7iF_6LZYUD7MfepNIf21KAOHvu-svkDVTJ-nW4p0DsV6PdmxJZSJijDZOk2Vu_nhNn2sBQFyBZKd5gw8N5aPxtS9p66cGbPlX_ynKkGVpejlfH9a5ScRHSomOhG4Y1PbLNuQj0fEz1n620vc2qzcFfGLOHL_O60f1wUN_w8B7y7tkkkpYcrzTh2JTK-CeH.ts"
+				"value": "//video-edge-d4610e.pdx01.abs.hls.ttvnw.net/v1/segment/CnLVpFe9k39m78gPZLbi10SFqIjirl1Drgi3xeas-3sAZproiQDnjg6yntlKFmrOzEx8NXV5ZRuXzncMLYpfRxT2FC1cIIuPL9B3OVIAEMdzBuLcSObIUt1hZ4vfEVpFF-_uMM_A4xOh0_KrW84usyBYdpPltFdH7YeBHNEYo5Php7HTtbcZQj0vxTsHp-y17qY_wUpaOcszZw2pAqLccCmes97MCUPeyMMBNuVueRHIOkPL5zU3D0UImPBmxE5ZqqYrOYZq6y0b4fX44L_DHllnZPWaRN6nLqAPogM3ChqtMrUq4uqMqNKtU5cKxtU38SY09_RJpowrRg1yq4EG-uThy31_0LkAkBERLeqXM7qCezMHJCBW7vY8qCXXgq-qZRbtkjaGvTOBR1oCNm93UnebhXXOXligN5RTqtZNYiE6RoX2nfcqECxMDeu1sxyPED4zqz5EHVo1ZDOyLFcIVcnL6EBH5BzcBlOQ2iik8Tx8bAfBfnV0BVGO8-H1IX3k2lAiXeXCR9vdmjDQyijN8R8PZZN1AQK8nJQvDPXZedYzge_jGuEGD8beGHYW6mrH1HyM7-Onic6NeOWhMPtYrKINNCYu6-UFjF2-2Pgpn2jVy7b4XYOG5PJNKhA1Kj_FtW9PmIMrrnhseNvhStu6sqcmew8omhEjYlKBuBfx3HQlA9L2QddGvNE01zm5iNDZExk8eenbexMeSuw10Qs-B4vgpznG3Vt1DG_RcCJyfe9hGeRAeVEb0NpdgbHoGF4EJm.ts"
 			}
 		]
 	},
@@ -43602,15 +43602,15 @@
 	},
 	"f6c4da8c-0e1a-4597-9778-7b89d801710a": {
 		"name": "android_ads_video_ad_pod_refactor",
-		"v": 37711,
+		"v": 37841,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_20.3"
 			}
 		]
