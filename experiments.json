@@ -45202,15 +45202,15 @@
 	},
 	"ff286229-83f1-4456-92d7-942f377f1723": {
 		"name": "android_logout_experience",
-		"v": 37850,
+		"v": 37888,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_development"
 			}
 		]
