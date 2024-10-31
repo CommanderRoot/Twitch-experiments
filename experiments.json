@@ -9907,11 +9907,11 @@
 	},
 	"39886c25-6818-4726-9fcd-c7629c09d77e": {
 		"name": "ios_mdf_ifv",
-		"v": 37869,
+		"v": 37883,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -9919,7 +9919,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_v21.7"
 			}
 		]
