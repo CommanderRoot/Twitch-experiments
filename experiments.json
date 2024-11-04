@@ -21603,7 +21603,7 @@
 	},
 	"78508269-ace0-4f3b-95fb-1bf66b5ffd77": {
 		"name": "ios_firefly_tablets",
-		"v": 35478,
+		"v": 37951,
 		"t": 2,
 		"groups": [
 			{
@@ -21613,6 +21613,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.0"
 			}
 		]
 	},
