@@ -22136,6 +22136,21 @@
 			}
 		]
 	},
+	"7bd37a94-c0ac-4da9-aff0-8324ef36c809": {
+		"name": "android_viewer_card_mod_logs",
+		"v": 37967,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "release"
+			}
+		]
+	},
 	"7bf05eeb-95d1-40f8-919b-67ec5185ab5b": {
 		"name": "android_error_catching_proxy_selector",
 		"v": 26418,
