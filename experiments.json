@@ -13934,21 +13934,6 @@
 			}
 		]
 	},
-	"4f254ea9-923e-4c7f-972f-51607a70248c": {
-		"name": "ios_stories_interactive_photo",
-		"v": 33048,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"4f2ebce8-68ed-40a4-afb2-9db8fb09711d": {
 		"name": "vod_qos_model",
 		"v": 3976,
@@ -16849,21 +16834,6 @@
 			}
 		]
 	},
-	"5fc992a6-67a8-4e12-8f53-e2da2881cc22": {
-		"name": "ios_stories_custom_expiration",
-		"v": 35143,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"5fc9eb8b-c15d-407b-bfeb-d22e7f7854b3": {
 		"name": "android_app_animations",
 		"v": 36840,
@@ -17401,21 +17371,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"62f1bcee-d7c7-4ba6-9dcd-79a15a68eb67": {
-		"name": "ios_stories_follow_button",
-		"v": 33722,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
 			}
 		]
 	},
@@ -17981,21 +17936,6 @@
 			{
 				"weight": 0,
 				"value": "variant"
-			}
-		]
-	},
-	"65eba0a6-7173-4b84-b4b0-b537853535a3": {
-		"name": "ios_creator_stories_mentions",
-		"v": 31636,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "inactive"
 			}
 		]
 	},
@@ -21359,25 +21299,6 @@
 			{
 				"weight": 0,
 				"value": "treatment"
-			}
-		]
-	},
-	"7747db67-2944-4306-8e62-3ed70e675e89": {
-		"name": "ios_stories_remove_card",
-		"v": 33653,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 100,
-				"value": "active_enlarged"
 			}
 		]
 	},
@@ -33881,21 +33802,6 @@
 			}
 		]
 	},
-	"bddf1778-49ca-4785-aa62-8f8e1fb545e4": {
-		"name": "ios_stories_reaction_names",
-		"v": 31752,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"be548f71-a055-45fb-a9ba-75d8a93eb208": {
 		"name": "android_stories_create_video",
 		"v": 35136,
@@ -45280,21 +45186,6 @@
 			{
 				"weight": 100,
 				"value": "active_v19.3"
-			}
-		]
-	},
-	"ff560c4b-350a-4c48-81d4-b84299a94679": {
-		"name": "ios_stories_canvas_background_selector",
-		"v": 32662,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
 			}
 		]
 	},
