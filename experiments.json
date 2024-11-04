@@ -21332,6 +21332,21 @@
 			}
 		]
 	},
+	"771e4c99-6e3a-4eeb-828f-65ae36266cd7": {
+		"name": "ios_ivs_player_abr_resolution_filter_aspect_ratio_mode",
+		"v": 37944,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"7747db67-2944-4306-8e62-3ed70e675e89": {
 		"name": "ios_stories_remove_card",
 		"v": 33653,
