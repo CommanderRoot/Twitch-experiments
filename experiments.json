@@ -7678,7 +7678,7 @@
 	},
 	"2cb573fa-6de1-4901-9d5b-b93f972e78f1": {
 		"name": "android_hermes_rollout_channel_v1",
-		"v": 37742,
+		"v": 37977,
 		"t": 3,
 		"groups": [
 			{
@@ -7687,11 +7687,15 @@
 			},
 			{
 				"weight": 0,
-				"value": "blue_21.9"
+				"value": "blue_22.0"
 			},
 			{
 				"weight": 0,
-				"value": "green_21.9"
+				"value": "green_22.0"
+			},
+			{
+				"weight": 0,
+				"value": "all_22.0"
 			}
 		]
 	},
@@ -43699,6 +43703,29 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"f73236c1-cb2a-4494-baac-020a2b45e6cf": {
+		"name": "android_hermes_rollout_user_v1",
+		"v": 37978,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "blue_22.0"
+			},
+			{
+				"weight": 0,
+				"value": "green_22.0"
+			},
+			{
+				"weight": 0,
+				"value": "all_22.0"
 			}
 		]
 	},
