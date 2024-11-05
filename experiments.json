@@ -29914,6 +29914,21 @@
 			}
 		]
 	},
+	"a846c498-4274-4053-b4b5-e4e6af8ed216": {
+		"name": "android_async_analytics",
+		"v": 37981,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.1"
+			}
+		]
+	},
 	"a84eb1e0-3946-4f71-8fbd-09c7e81b0600": {
 		"name": "dart_subtember_email_082024_holdout",
 		"v": 36634,
