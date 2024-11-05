@@ -26411,6 +26411,21 @@
 			}
 		]
 	},
+	"93663122-f98c-4c83-b61d-2b8a58a084ad": {
+		"name": "android_ads_2nd_feed_ad_endpoint",
+		"v": 37976,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_22.1"
+			}
+		]
+	},
 	"939f4935-0311-453b-b089-c35f89e6cccf": {
 		"name": "ios_tags_in_dashboard",
 		"v": 9167,
