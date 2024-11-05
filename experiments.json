@@ -26302,6 +26302,29 @@
 			}
 		]
 	},
+	"92e77524-463d-42a2-a332-10a175ea0aaf": {
+		"name": "android_hermes_rollout_device_v1",
+		"v": 37980,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "blue_22.0"
+			},
+			{
+				"weight": 0,
+				"value": "green_22.0"
+			},
+			{
+				"weight": 0,
+				"value": "all_22.0"
+			}
+		]
+	},
 	"92f2e58c-dc61-49ee-aae3-874fe51872bc": {
 		"name": "android_chevron_bits",
 		"v": 21379,
@@ -38857,22 +38880,6 @@
 			{
 				"weight": 1,
 				"value": "SURESTREAM_OFF"
-			}
-		]
-	},
-	"dbda5947-448a-4227-baa5-befa646833fb": {
-		"name": "android_hermes_synthetic_clock_test",
-		"v": 34080,
-		"t": 1,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			}
 		]
 	},
