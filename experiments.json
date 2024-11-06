@@ -9643,7 +9643,7 @@
 	},
 	"3769786d-bfe4-44e4-886f-a6acbe0b3326": {
 		"name": "android_ads_ifv",
-		"v": 37894,
+		"v": 38364,
 		"t": 2,
 		"groups": [
 			{
@@ -9926,11 +9926,11 @@
 	},
 	"39886c25-6818-4726-9fcd-c7629c09d77e": {
 		"name": "ios_mdf_ifv",
-		"v": 37895,
+		"v": 38361,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -9938,7 +9938,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v21.7"
 			}
 		]
@@ -21751,15 +21751,15 @@
 	},
 	"7932f64a-2a06-43f7-a98c-dbce52698b74": {
 		"name": "android_play_integrity_poc",
-		"v": 38359,
+		"v": 38366,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_22.0"
 			}
 		]
@@ -23297,16 +23297,16 @@
 	},
 	"8110c7e7-4746-49c9-8d46-dd7835314904": {
 		"name": "android_ivs_player_super_resolution",
-		"v": 35660,
+		"v": 38365,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
-				"value": "control_v0.0"
+				"value": "control"
 			},
 			{
 				"weight": 0,
-				"value": "treatment_v0.0"
+				"value": "treatment"
 			}
 		]
 	},
