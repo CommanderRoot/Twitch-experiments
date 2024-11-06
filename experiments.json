@@ -25761,6 +25761,21 @@
 			}
 		]
 	},
+	"8f710085-dfb4-4698-bec3-44ff4a617059": {
+		"name": "android_ivs_rtx_multi_codec_answer",
+		"v": 38386,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"8f73cc11-ccd3-4fce-a2b6-cad8326f6b15": {
 		"name": "promotions_eVPR_relevancy",
 		"v": 22452,
@@ -29776,12 +29791,16 @@
 	},
 	"a730346f-a2b4-407d-8f8c-2ad898eb6e3a": {
 		"name": "hypetrain-thth-experiment-channel-id",
-		"v": 38369,
+		"v": 38388,
 		"t": 3,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "experiment"
 			}
 		]
 	},
@@ -37314,6 +37333,21 @@
 			{
 				"weight": 10,
 				"value": "new"
+			}
+		]
+	},
+	"d2520147-176a-4b47-8dea-c4c809781ed7": {
+		"name": "android_ivs_rtx_prefer_main_profile",
+		"v": 38387,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
