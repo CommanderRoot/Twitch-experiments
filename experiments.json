@@ -31408,15 +31408,15 @@
 	},
 	"aff9c6d9-15da-439c-bcc3-e96777d512d3": {
 		"name": "hypetrain-thth-experiment",
-		"v": 37991,
+		"v": 38354,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 10,
 				"value": "experiment"
 			}
 		]
