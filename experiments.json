@@ -29791,15 +29791,15 @@
 	},
 	"a730346f-a2b4-407d-8f8c-2ad898eb6e3a": {
 		"name": "hypetrain-thth-experiment-channel-id",
-		"v": 38389,
+		"v": 38391,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "experiment"
 			}
 		]
