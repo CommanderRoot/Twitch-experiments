@@ -13557,6 +13557,21 @@
 			}
 		]
 	},
+	"4cc5df91-4b28-4580-8536-00383bb1b469": {
+		"name": "ivs_ios_rtx_prefer_main_profile",
+		"v": 38372,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"4ceb7c83-aee1-4576-a5ea-607c187bd052": {
 		"name": "dart_juneviewernewsletterit_vwr_1035_dav_cmc_wch_mis_email_2306_email",
 		"v": 28610,
@@ -25683,6 +25698,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"8ed0980d-d728-485f-8c67-2d4cee5b3850": {
+		"name": "ivs_ios_rtx_multi_codec_answer",
+		"v": 38373,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
