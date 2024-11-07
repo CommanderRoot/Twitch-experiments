@@ -40554,6 +40554,21 @@
 			}
 		]
 	},
+	"e4987a7e-ce50-4a26-ba1f-b6c54e412505": {
+		"name": "unhappy_recovery_rate",
+		"v": 38424,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"e4b3799f-8818-43b8-96bf-bab2979b84ab": {
 		"name": "android_policy_update_prompt",
 		"v": 29424,
