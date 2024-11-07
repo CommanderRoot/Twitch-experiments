@@ -38442,6 +38442,21 @@
 			}
 		]
 	},
+	"d86171d9-f645-4b1a-aac9-7463f7f81a8d": {
+		"name": "ios_ads_2nd_feed_ad_endpoint",
+		"v": 38425,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v22.1"
+			}
+		]
+	},
 	"d87a0cc9-48e6-4a4b-8f2e-2f3082b11cc6": {
 		"name": "android_tnf_drm",
 		"v": 4640,
