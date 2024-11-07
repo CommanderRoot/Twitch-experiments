@@ -310,7 +310,7 @@
 	},
 	"0194f9ef-dfd5-4b78-b203-a95ed1db871f": {
 		"name": "spent_bits_clawback",
-		"v": 37595,
+		"v": 38418,
 		"t": 2,
 		"groups": [
 			{
@@ -320,10 +320,6 @@
 			{
 				"weight": 0,
 				"value": "dark_launch"
-			},
-			{
-				"weight": 0,
-				"value": "affiliates_only_launch"
 			},
 			{
 				"weight": 0,
@@ -7693,7 +7689,7 @@
 	},
 	"2cb573fa-6de1-4901-9d5b-b93f972e78f1": {
 		"name": "android_hermes_rollout_channel_v1",
-		"v": 37983,
+		"v": 38419,
 		"t": 3,
 		"groups": [
 			{
@@ -7706,7 +7702,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "green_21.9"
+				"value": "green_22.0"
 			},
 			{
 				"weight": 0,
