@@ -13091,21 +13091,6 @@
 			}
 		]
 	},
-	"4aa82153-f6e0-405c-a7b8-ad83c3b876d7": {
-		"name": "ios_gifting_callout_refresh",
-		"v": 37672,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_21.9"
-			}
-		]
-	},
 	"4aa9ee11-136c-4521-a139-e2abb718ec07": {
 		"name": "Gabriel",
 		"v": 841,
@@ -45571,6 +45556,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"ff23d5bc-a074-4f0e-8620-ece030395a04": {
+		"name": "ios_gifting_callout_refresh",
+		"v": 38480,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_ 22.2"
 			}
 		]
 	},
