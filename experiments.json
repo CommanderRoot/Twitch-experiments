@@ -38814,6 +38814,29 @@
 			}
 		]
 	},
+	"d9d0383e-a482-4c11-b369-946feea3ab54": {
+		"name": "ios_hermes_rollout_device_v1",
+		"v": 38463,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
+			}
+		]
+	},
 	"d9d2b394-5e99-4d8e-9c61-c60621c7f4e4": {
 		"name": "ios_swift_player_stack",
 		"v": 6705,
@@ -41146,6 +41169,29 @@
 			{
 				"weight": 100,
 				"value": "active_15.5"
+			}
+		]
+	},
+	"e778519e-15af-418e-8270-50c36bb31e63": {
+		"name": "ios_hermes_rollout_user_v1",
+		"v": 38461,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
 			}
 		]
 	},
