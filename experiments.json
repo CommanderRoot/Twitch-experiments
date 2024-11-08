@@ -5239,6 +5239,21 @@
 			}
 		]
 	},
+	"1e6043f5-0b74-42af-a7cc-1883b0aba654": {
+		"name": "dart_arcane_premiere_110924_holdout",
+		"v": 38477,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"1e826e43-17aa-41f4-8b4a-afd16217c97e": {
 		"name": "surestream_rollout_ios_jp",
 		"v": 8333,
@@ -29316,21 +29331,6 @@
 			}
 		]
 	},
-	"a424d053-9155-4dfa-ac43-543f4c8109be": {
-		"name": "dart_clipsvsmitest_080224_v2_holdout",
-		"v": 37556,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "holdout"
-			},
-			{
-				"weight": 80,
-				"value": "allowed"
-			}
-		]
-	},
 	"a424f101-342c-42f0-a12f-a71e5baf0cad": {
 		"name": "android_leaderboards_webview",
 		"v": 26004,
@@ -32558,15 +32558,15 @@
 	},
 	"b49420ab-8e72-4fc2-a4a9-93ad1608d55d": {
 		"name": "android_portals_signup",
-		"v": 38426,
+		"v": 38474,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_22.1"
 			}
 		]
@@ -36262,21 +36262,6 @@
 			{
 				"weight": 100,
 				"value": "active_12.1_scenes_and_preview"
-			}
-		]
-	},
-	"cba924de-ab3e-4ff6-9341-9ca39508e575": {
-		"name": "dart_clipsvsmitest_080224_v2_email",
-		"v": 37557,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
