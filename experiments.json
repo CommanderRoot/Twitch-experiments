@@ -9913,6 +9913,29 @@
 			}
 		]
 	},
+	"398f94d4-32f9-494f-891a-a39f03b6b97f": {
+		"name": "android_hermes_rollout_channel",
+		"v": 38449,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
+			}
+		]
+	},
 	"39b52a82-f780-4a14-9ea1-f7270eaf1eb6": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13548,
@@ -23842,6 +23865,29 @@
 			}
 		]
 	},
+	"848d0766-a0a0-4285-a3b3-798571db8649": {
+		"name": "iOS_hermes_rollout_user",
+		"v": 38450,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
+			}
+		]
+	},
 	"8493481e-b5e3-4385-be53-ec35f14184e1": {
 		"name": "dart_streamerawardsrevedtv_vwr_922_dav_cmc_wch_mis_email_2301_holdout",
 		"v": 26133,
@@ -35216,6 +35262,29 @@
 			}
 		]
 	},
+	"c5db663b-2fdb-4039-90fa-ee8bb3253cf9": {
+		"name": "iOS_hermes_rollout_channel",
+		"v": 38451,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
+			}
+		]
+	},
 	"c5e2ec34-e1e8-4552-94fe-ede296cf3514": {
 		"name": "android_chat_settings",
 		"v": 19797,
@@ -44908,6 +44977,29 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"fcd5044f-649d-4b5d-9a13-abdd31bb67ab": {
+		"name": "android_hermes_rollout_user",
+		"v": 38448,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
 			}
 		]
 	},
