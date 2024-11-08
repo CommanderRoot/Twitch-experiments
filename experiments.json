@@ -1184,17 +1184,6 @@
 			}
 		]
 	},
-	"066cfd11-da90-40d3-9088-46acc804c228": {
-		"name": "Passport_Signup_Inhouse_Code_Generation",
-		"v": 38007,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
 	"067d84e4-36bb-4cd1-a912-cfbb0527ee73": {
 		"name": "android_socket_tls_12",
 		"v": 14281,
@@ -9140,21 +9129,6 @@
 			}
 		]
 	},
-	"351107f8-6768-4ced-b939-85be970b51fc": {
-		"name": "Passport_Vonage_Two_Factor_Auth",
-		"v": 32764,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "vonage"
-			}
-		]
-	},
 	"3520b529-e266-454f-98b7-9460bf80c77c": {
 		"name": "dart_stream_summary_cta_all_email",
 		"v": 33774,
@@ -9922,11 +9896,11 @@
 	},
 	"39886c25-6818-4726-9fcd-c7629c09d77e": {
 		"name": "ios_mdf_ifv",
-		"v": 38361,
+		"v": 38432,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -9934,7 +9908,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v21.7"
 			}
 		]
@@ -19468,15 +19442,15 @@
 	},
 	"6e5f87cd-cdcf-4afc-bd7c-acde6987ad39": {
 		"name": "ios_xarth_debug_menu_special_access_users",
-		"v": 19626,
+		"v": 38435,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "32415093"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": ""
 			}
 		]
@@ -20912,21 +20886,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"74a36b02-abeb-490b-a09e-d7d27d0c95a6": {
-		"name": "Passport_Login_Inhouse_Code_Generation",
-		"v": 33035,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "vonage"
 			}
 		]
 	},
@@ -22989,15 +22948,15 @@
 	},
 	"7ee7f463-51dd-4b6c-8449-d9a413c10f41": {
 		"name": "ios_creator_goals_leaderboard_channel",
-		"v": 36910,
+		"v": 38434,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
