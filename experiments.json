@@ -21621,6 +21621,33 @@
 			}
 		]
 	},
+	"78a79a47-2a86-4923-8ceb-7c8edcb7db48": {
+		"name": "android_hermes_rollout_device",
+		"v": 38456,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"78ade6c7-d04f-4458-87a2-6e37b32e32e5": {
 		"name": "ios_stories_video_pinch_zoom_move",
 		"v": 35691,
@@ -38799,6 +38826,33 @@
 			{
 				"weight": 50,
 				"value": "control"
+			}
+		]
+	},
+	"d9d2d65f-bddb-474f-a2a1-6ada2666a5e3": {
+		"name": "iOS_hermes_rollout_device",
+		"v": 38457,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
+			},
+			{
+				"weight": 0,
+				"value": ""
 			}
 		]
 	},
