@@ -21783,15 +21783,15 @@
 	},
 	"7932f64a-2a06-43f7-a98c-dbce52698b74": {
 		"name": "android_play_integrity_poc",
-		"v": 38366,
+		"v": 38481,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 1,
 				"value": "active_22.0"
 			}
 		]
@@ -23002,7 +23002,7 @@
 	},
 	"7ee7f463-51dd-4b6c-8449-d9a413c10f41": {
 		"name": "ios_creator_goals_leaderboard_channel",
-		"v": 38434,
+		"v": 38482,
 		"t": 3,
 		"groups": [
 			{
@@ -23011,7 +23011,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_v22_1"
 			}
 		]
 	},
