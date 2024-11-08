@@ -29520,6 +29520,21 @@
 			}
 		]
 	},
+	"a525b659-cf49-4ff4-9df6-8bc503fee9fc": {
+		"name": "dart_arcane_premiere_110824_holdout",
+		"v": 38473,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"a5273f61-a730-4711-9679-10d67168dd6e": {
 		"name": "android_gql_cloudflare_bot_score_tracking",
 		"v": 14569,
