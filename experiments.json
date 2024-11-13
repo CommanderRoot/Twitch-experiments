@@ -8238,7 +8238,7 @@
 	},
 	"30435d0b-73f4-4210-9da9-5d883449f91b": {
 		"name": "ios_mdf_brand_survey",
-		"v": 36688,
+		"v": 38547,
 		"t": 2,
 		"groups": [
 			{
@@ -8248,6 +8248,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_v22.2"
 			}
 		]
 	},
@@ -11678,7 +11682,7 @@
 	},
 	"436cdf89-9954-4ab1-9d7a-99e7acaf7aec": {
 		"name": "android_st_shared_viewership",
-		"v": 37806,
+		"v": 38546,
 		"t": 1,
 		"groups": [
 			{
@@ -11688,6 +11692,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.2"
 			}
 		]
 	},
