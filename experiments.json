@@ -42347,7 +42347,7 @@
 	},
 	"ed25d724-8865-4ae7-9cce-c608185f9c52": {
 		"name": "android_mdf_brand_survey",
-		"v": 36492,
+		"v": 38552,
 		"t": 2,
 		"groups": [
 			{
@@ -42357,6 +42357,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_v22.2"
 			}
 		]
 	},
