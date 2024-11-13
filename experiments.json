@@ -1338,6 +1338,21 @@
 			}
 		]
 	},
+	"0709b96c-49f9-4f7e-a59b-5bbffd427482": {
+		"name": "ios_profile_settings_reorg",
+		"v": 38557,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"070d88d9-02da-42cf-a83d-4f884878f93a": {
 		"name": "MOBILE_CHECKOUT",
 		"v": 2097,
@@ -4083,6 +4098,21 @@
 			{
 				"weight": 100,
 				"value": "active_12.6"
+			}
+		]
+	},
+	"16e4e857-a8b3-460d-b8ab-8f506e9d395b": {
+		"name": "ios_subbed_feet",
+		"v": 38556,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
