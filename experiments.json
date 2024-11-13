@@ -33658,15 +33658,15 @@
 	},
 	"bb89493d-cd66-4feb-b5cd-0db4a72fe79a": {
 		"name": "ios_firefly_following_top",
-		"v": 37946,
+		"v": 38543,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_21.9"
 			}
 		]
