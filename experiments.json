@@ -2896,11 +2896,11 @@
 	},
 	"10a1a2eb-7a77-4091-99d2-20f17e4359ec": {
 		"name": "android_ads_sda_seq_bid",
-		"v": 38465,
+		"v": 38559,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -2908,7 +2908,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_22.1"
 			}
 		]
@@ -4098,21 +4098,6 @@
 			{
 				"weight": 100,
 				"value": "active_12.6"
-			}
-		]
-	},
-	"16e4e857-a8b3-460d-b8ab-8f506e9d395b": {
-		"name": "ios_subbed_feet",
-		"v": 38556,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
@@ -25748,6 +25733,21 @@
 			}
 		]
 	},
+	"8e4e5775-e094-4959-b7f4-056e9d69d030": {
+		"name": "ios_subbed_freed",
+		"v": 38562,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"8e60fcf8-7696-4d1a-8b7f-645b82359f69": {
 		"name": "Cloudfront Live Test",
 		"v": 5710,
@@ -26838,6 +26838,21 @@
 			{
 				"weight": 0,
 				"value": "active_17.1"
+			}
+		]
+	},
+	"94f3d1f6-4528-4df4-9dd3-8626acd72bb2": {
+		"name": "ios_profile_clips_v2",
+		"v": 38564,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
