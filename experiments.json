@@ -11066,6 +11066,21 @@
 			}
 		]
 	},
+	"40a44dc1-6280-435d-b2cb-a0b6e46fa80e": {
+		"name": "android_slow_ninja_common_bear",
+		"v": 38592,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "enabled"
+			}
+		]
+	},
 	"40a800a8-16fc-44de-8cd8-402217aea675": {
 		"name": "dart_au_turboemailtest112223_holdout",
 		"v": 31535,
@@ -11523,6 +11538,17 @@
 			{
 				"weight": 0,
 				"value": "bonus_amount"
+			}
+		]
+	},
+	"42a78e99-4887-4137-9a3c-120c99b69875": {
+		"name": "mini_aussie_shep_user_id",
+		"v": 38591,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
@@ -40004,17 +40030,6 @@
 			{
 				"weight": 50,
 				"value": "active"
-			}
-		]
-	},
-	"e092b640-09ef-40a6-b764-1d36dfb65ddd": {
-		"name": "mini_aussie_shepherd",
-		"v": 38519,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
