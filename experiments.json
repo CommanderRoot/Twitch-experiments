@@ -7727,7 +7727,7 @@
 	},
 	"2cb573fa-6de1-4901-9d5b-b93f972e78f1": {
 		"name": "android_hermes_rollout_channel_v1",
-		"v": 38419,
+		"v": 38585,
 		"t": 3,
 		"groups": [
 			{
@@ -21601,11 +21601,11 @@
 	},
 	"78508269-ace0-4f3b-95fb-1bf66b5ffd77": {
 		"name": "ios_firefly_tablets",
-		"v": 37951,
+		"v": 38587,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -21613,7 +21613,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_22.0"
 			}
 		]
@@ -26442,7 +26442,7 @@
 	},
 	"92e77524-463d-42a2-a332-10a175ea0aaf": {
 		"name": "android_hermes_rollout_device_v1",
-		"v": 37980,
+		"v": 38586,
 		"t": 1,
 		"groups": [
 			{
@@ -44051,7 +44051,7 @@
 	},
 	"f73236c1-cb2a-4494-baac-020a2b45e6cf": {
 		"name": "android_hermes_rollout_user_v1",
-		"v": 37978,
+		"v": 38584,
 		"t": 2,
 		"groups": [
 			{
