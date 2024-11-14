@@ -21798,7 +21798,7 @@
 	},
 	"7921e616-ab05-4821-b559-a2433e8f1a1b": {
 		"name": "ios_hermes_rollout_channel_v1",
-		"v": 38428,
+		"v": 38581,
 		"t": 3,
 		"groups": [
 			{
@@ -37104,12 +37104,16 @@
 	},
 	"d099bb02-2cf6-478e-9995-d9392be2752b": {
 		"name": "ios_multi_language_selector_2024",
-		"v": 38575,
+		"v": 38578,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "development"
 			}
 		]
 	},
@@ -38869,7 +38873,7 @@
 	},
 	"d9d0383e-a482-4c11-b369-946feea3ab54": {
 		"name": "ios_hermes_rollout_device_v1",
-		"v": 38463,
+		"v": 38580,
 		"t": 1,
 		"groups": [
 			{
@@ -41227,7 +41231,7 @@
 	},
 	"e778519e-15af-418e-8270-50c36bb31e63": {
 		"name": "ios_hermes_rollout_user_v1",
-		"v": 38461,
+		"v": 38579,
 		"t": 2,
 		"groups": [
 			{
