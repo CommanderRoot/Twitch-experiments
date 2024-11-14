@@ -44051,11 +44051,11 @@
 	},
 	"f73236c1-cb2a-4494-baac-020a2b45e6cf": {
 		"name": "android_hermes_rollout_user_v1",
-		"v": 38584,
+		"v": 38589,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -44063,7 +44063,7 @@
 				"value": "blue_22.0"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green_22.0"
 			},
 			{
