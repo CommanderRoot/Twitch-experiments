@@ -33098,12 +33098,28 @@
 	},
 	"b7fc3072-7594-42d5-8ffe-8c7dcb27247b": {
 		"name": "gifter-badge-exp",
-		"v": 38593,
+		"v": 38595,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 20,
 				"value": "control"
+			},
+			{
+				"weight": 20,
+				"value": "treatment1"
+			},
+			{
+				"weight": 20,
+				"value": "treatment2"
+			},
+			{
+				"weight": 20,
+				"value": "treatment3"
+			},
+			{
+				"weight": 20,
+				"value": "treatment4"
 			}
 		]
 	},
@@ -37039,16 +37055,16 @@
 	},
 	"cf88d09d-53c6-4054-992c-f77e7035685a": {
 		"name": "android_lower_bits_sku_50",
-		"v": 16016,
+		"v": 38599,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 3,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 97,
+				"weight": 0,
 				"value": "active_10.9"
 			}
 		]
