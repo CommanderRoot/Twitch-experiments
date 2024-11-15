@@ -9589,6 +9589,21 @@
 			}
 		]
 	},
+	"3712c2b4-41d2-437c-8e37-83e236543cef": {
+		"name": "ivs_player_probe_endpoint",
+		"v": 38618,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"37151c3b-b92c-4c8a-815f-b5c41cdfa074": {
 		"name": "dart_coldhtetest_051424_lifecycle_v2_email",
 		"v": 34349,
