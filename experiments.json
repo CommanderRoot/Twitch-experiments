@@ -19027,11 +19027,11 @@
 	},
 	"6bf7eace-8a9d-4cdf-96e6-e37e007d39bb": {
 		"name": "android_firefly_tablets",
-		"v": 38582,
+		"v": 38621,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -19043,7 +19043,7 @@
 				"value": "active_21.9"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_22.0"
 			}
 		]
@@ -21646,11 +21646,11 @@
 	},
 	"78508269-ace0-4f3b-95fb-1bf66b5ffd77": {
 		"name": "ios_firefly_tablets",
-		"v": 38587,
+		"v": 38620,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -21658,7 +21658,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_22.0"
 			}
 		]
