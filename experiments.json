@@ -11543,12 +11543,16 @@
 	},
 	"42a78e99-4887-4137-9a3c-120c99b69875": {
 		"name": "mini_aussie_shep_user_id",
-		"v": 38591,
+		"v": 38616,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
