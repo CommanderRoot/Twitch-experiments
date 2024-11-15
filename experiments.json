@@ -20901,6 +20901,21 @@
 			}
 		]
 	},
+	"742b9990-2c8b-427f-b5fc-fe4ccccec50b": {
+		"name": "mobile_native_ivs_probe_endpoint",
+		"v": 38622,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"743e8cae-3846-427c-9b7c-1726961eeb69": {
 		"name": "dart_gaymingawardstuneinusuk_vwr_973_dav_cmc_flw_irl_email_2304_holdout",
 		"v": 27359,
