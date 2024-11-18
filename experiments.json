@@ -2896,11 +2896,11 @@
 	},
 	"10a1a2eb-7a77-4091-99d2-20f17e4359ec": {
 		"name": "android_ads_sda_seq_bid",
-		"v": 38648,
+		"v": 38667,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -2908,7 +2908,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_22.1"
 			}
 		]
@@ -5209,6 +5209,21 @@
 		"name": "ios_submerge_fiend",
 		"v": 38664,
 		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
+	"1df01040-252a-4e02-8868-545979879eb7": {
+		"name": "android_kmp_chat_delay",
+		"v": 38668,
+		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
@@ -9511,6 +9526,21 @@
 			{
 				"weight": 100,
 				"value": "variant"
+			}
+		]
+	},
+	"36a9d663-c67e-4922-a447-d893eebaf1d8": {
+		"name": "ios_kmp_chat_delay",
+		"v": 38669,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
