@@ -2896,11 +2896,11 @@
 	},
 	"10a1a2eb-7a77-4091-99d2-20f17e4359ec": {
 		"name": "android_ads_sda_seq_bid",
-		"v": 38679,
+		"v": 38683,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -2908,7 +2908,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_22.1"
 			}
 		]
