@@ -19072,11 +19072,11 @@
 	},
 	"6bf7eace-8a9d-4cdf-96e6-e37e007d39bb": {
 		"name": "android_firefly_tablets",
-		"v": 38621,
+		"v": 38675,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -19088,7 +19088,7 @@
 				"value": "active_21.9"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_22.0"
 			}
 		]
@@ -21706,11 +21706,11 @@
 	},
 	"78508269-ace0-4f3b-95fb-1bf66b5ffd77": {
 		"name": "ios_firefly_tablets",
-		"v": 38620,
+		"v": 38674,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -21718,7 +21718,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_22.0"
 			}
 		]
@@ -41345,11 +41345,11 @@
 	},
 	"e778519e-15af-418e-8270-50c36bb31e63": {
 		"name": "ios_hermes_rollout_user_v1",
-		"v": 38579,
+		"v": 38676,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -41361,7 +41361,7 @@
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
