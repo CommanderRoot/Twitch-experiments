@@ -41394,7 +41394,7 @@
 	},
 	"e7ec6bc1-3ad4-4fd6-af08-51ae06d82d8a": {
 		"name": "android_filter_live_feed_by_follows",
-		"v": 38522,
+		"v": 38661,
 		"t": 2,
 		"groups": [
 			{
@@ -41402,11 +41402,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_22.1"
 			}
 		]
