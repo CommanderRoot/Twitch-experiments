@@ -5207,7 +5207,7 @@
 	},
 	"1ddd76b1-708a-4f65-80e5-97c187ce73cf": {
 		"name": "ios_submerge_fiend",
-		"v": 38570,
+		"v": 38664,
 		"t": 2,
 		"groups": [
 			{
@@ -27648,21 +27648,6 @@
 			}
 		]
 	},
-	"98cc77ee-80f6-40a6-8367-e7b6b56b1fb2": {
-		"name": "ios_submarine_feelings",
-		"v": 38440,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_22.1"
-			}
-		]
-	},
 	"98dd41ee-241c-4051-8544-7316b5c12e6b": {
 		"name": "dart_welcomeemail2_vwr_550_dav_cmc_wch_mis_email_2111_email",
 		"v": 17798,
@@ -41394,15 +41379,15 @@
 	},
 	"e7ec6bc1-3ad4-4fd6-af08-51ae06d82d8a": {
 		"name": "android_filter_live_feed_by_follows",
-		"v": 38661,
+		"v": 38665,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_development"
 			},
 			{
