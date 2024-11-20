@@ -42312,6 +42312,21 @@
 			}
 		]
 	},
+	"ebd1ad5e-e78d-4ae5-b52d-8960e7ebacf8": {
+		"name": "dart_merch_cybersale_112024_holdout",
+		"v": 38739,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ebd99120-bda6-45d8-b148-28bbe0b0c070": {
 		"name": "dart_fanout_nes_dual_read_rollout",
 		"v": 26022,
