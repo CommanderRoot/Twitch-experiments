@@ -3602,15 +3602,15 @@
 	},
 	"148bdc04-47bc-41cc-b786-ba3fe4c12e41": {
 		"name": "ios_ivs_player_device_config",
-		"v": 38458,
+		"v": 38777,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -34697,7 +34697,7 @@
 	},
 	"c1aac67b-b348-4b3f-bcc0-d70df3dfd4cf": {
 		"name": "ios_st_shared_viewership",
-		"v": 37784,
+		"v": 38778,
 		"t": 1,
 		"groups": [
 			{
@@ -34707,6 +34707,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.3"
 			}
 		]
 	},
