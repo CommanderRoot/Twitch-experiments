@@ -28024,11 +28024,11 @@
 	},
 	"9a2e948a-c409-4036-be30-b8b362ac5526": {
 		"name": "android_viewer_card",
-		"v": 38772,
+		"v": 38776,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -28036,7 +28036,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_22.2"
 			}
 		]
