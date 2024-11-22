@@ -24275,7 +24275,7 @@
 	},
 	"8585fe5b-d9bd-4db8-bff0-98d5f9323662": {
 		"name": "ios_ads_update_dt_param",
-		"v": 38746,
+		"v": 38806,
 		"t": 1,
 		"groups": [
 			{
@@ -24285,6 +24285,10 @@
 			{
 				"weight": 0,
 				"value": "active_v22.2"
+			},
+			{
+				"weight": 0,
+				"value": "active_v22.3"
 			}
 		]
 	},
