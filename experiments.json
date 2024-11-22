@@ -24824,6 +24824,21 @@
 			}
 		]
 	},
+	"897ad950-8d84-4f05-a1a7-82eb98b27d93": {
+		"name": "android_ads_device_type_update",
+		"v": 38822,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.3"
+			}
+		]
+	},
 	"897eb1ee-0748-4af9-8bf6-3bc519c05cdc": {
 		"name": "bevdet_system_detection",
 		"v": 38183,
@@ -29591,7 +29606,7 @@
 	},
 	"a4a3a33e-c1b6-4a69-9059-10668e18f6bf": {
 		"name": "dart_first_time_creator_day_7_092724_holdout",
-		"v": 38818,
+		"v": 38823,
 		"t": 2,
 		"groups": [
 			{
