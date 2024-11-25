@@ -30265,15 +30265,15 @@
 	},
 	"a846c498-4274-4053-b4b5-e4e6af8ed216": {
 		"name": "android_async_analytics",
-		"v": 38754,
+		"v": 38886,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "active_22.2"
 			}
 		]
@@ -32777,11 +32777,11 @@
 	},
 	"b49420ab-8e72-4fc2-a4a9-93ad1608d55d": {
 		"name": "android_portals_signup",
-		"v": 38673,
+		"v": 38887,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -32789,7 +32789,7 @@
 				"value": "active_22.1"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_22.2"
 			}
 		]
