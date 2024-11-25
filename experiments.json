@@ -10774,26 +10774,6 @@
 			}
 		]
 	},
-	"3e41aa1b-b88e-40db-b567-5e3ac0d13234": {
-		"name": "ios_mdf_feature_flag_tab",
-		"v": 34702,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 94,
-				"value": "feed_tab_eligible_v17.4"
-			},
-			{
-				"weight": 6,
-				"value": "feed_tab_default_landing_v19.4"
-			}
-		]
-	},
 	"3e6edc54-69dd-4793-b056-22a77a477aa1": {
 		"name": "android_graphql_apq",
 		"v": 14525,
@@ -14113,21 +14093,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"4ed6b227-ff1a-434e-964e-c8ab8fc7aa9a": {
-		"name": "ios_upcoming_streams_rollout",
-		"v": 26744,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "control"
-			},
-			{
-				"weight": 95,
-				"value": "active_xarth"
 			}
 		]
 	},
@@ -19708,21 +19673,6 @@
 			}
 		]
 	},
-	"6e9f57cd-b8e0-4876-bffd-f87e51a44826": {
-		"name": "ios_mdf_wizard_override",
-		"v": 30661,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_v16_3"
-			}
-		]
-	},
 	"6ec0cc4b-771d-4e43-8cf8-8dba9562f78a": {
 		"name": "android_amazon_identity_integration",
 		"v": 12948,
@@ -21474,21 +21424,6 @@
 			{
 				"weight": 1,
 				"value": "control"
-			}
-		]
-	},
-	"76b8ca58-83a0-4d37-b8de-9f3ece19ed11": {
-		"name": "ios_smarter_mobile_follow_sorting_experiment",
-		"v": 31716,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
@@ -24073,22 +24008,6 @@
 			{
 				"weight": 0,
 				"value": "treatment"
-			}
-		]
-	},
-	"84883eae-f43c-4fa4-80e5-f987e64d8571": {
-		"name": "ios_mdf_feature_flag_user",
-		"v": 34694,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_v15_9"
 			}
 		]
 	},
@@ -28947,29 +28866,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"9fe1e8ce-03ec-4992-9102-ddbaf0567965": {
-		"name": "ios_firefly_user",
-		"v": 34706,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 85,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_19.6"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 15,
-				"value": "active_19.7"
 			}
 		]
 	},
@@ -43027,21 +42923,6 @@
 			{
 				"weight": 100,
 				"value": "active_v8.5"
-			}
-		]
-	},
-	"ee87f9a9-7842-4ecb-a4ea-cca9378fa7c2": {
-		"name": "ios_firefly_user_launch",
-		"v": 35951,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_20.5"
 			}
 		]
 	},
