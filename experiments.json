@@ -8302,11 +8302,11 @@
 	},
 	"30435d0b-73f4-4210-9da9-5d883449f91b": {
 		"name": "ios_mdf_brand_survey",
-		"v": 38547,
+		"v": 38892,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -8314,7 +8314,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v22.2"
 			}
 		]
@@ -36468,7 +36468,7 @@
 	},
 	"cb3af804-8004-4c7e-bcd5-b367abd25149": {
 		"name": "ios_clip_editing_portal",
-		"v": 37120,
+		"v": 38891,
 		"t": 2,
 		"groups": [
 			{
@@ -36478,6 +36478,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.3"
 			}
 		]
 	},
@@ -41168,7 +41172,7 @@
 	},
 	"e59012f1-c6c1-4dac-b4c1-d29b09f2943a": {
 		"name": "android_clip_editing_portal",
-		"v": 37334,
+		"v": 38890,
 		"t": 2,
 		"groups": [
 			{
@@ -41177,7 +41181,15 @@
 			},
 			{
 				"weight": 0,
+				"value": "active_22.3"
+			},
+			{
+				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": ""
 			}
 		]
 	},
@@ -42394,7 +42406,7 @@
 	},
 	"ebcdfc04-97c2-4d08-9742-53386ce000c5": {
 		"name": "android_clip_editing_portal_tablets",
-		"v": 38802,
+		"v": 38889,
 		"t": 1,
 		"groups": [
 			{
@@ -42403,7 +42415,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_22.3"
 			}
 		]
 	},
@@ -42654,11 +42666,11 @@
 	},
 	"ed25d724-8865-4ae7-9cce-c608185f9c52": {
 		"name": "android_mdf_brand_survey",
-		"v": 38552,
+		"v": 38893,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -42666,7 +42678,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v22.2"
 			}
 		]
