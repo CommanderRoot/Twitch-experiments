@@ -8535,15 +8535,15 @@
 	},
 	"31441b7e-5b0e-4f28-8502-9b38e72d83d7": {
 		"name": "mini_aussie_shep_dark",
-		"v": 38630,
+		"v": 38898,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "variant"
 			}
 		]
@@ -11112,6 +11112,21 @@
 			{
 				"weight": 100,
 				"value": "active_18.3"
+			}
+		]
+	},
+	"4072436e-dabd-4045-8eac-185204bae300": {
+		"name": "android_ads_castaway",
+		"v": 38897,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_22.4"
 			}
 		]
 	},
