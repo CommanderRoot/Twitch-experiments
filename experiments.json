@@ -16113,6 +16113,21 @@
 			}
 		]
 	},
+	"5aedfc16-bee4-46cc-a03f-d813f49f3bf4": {
+		"name": "android_notifications_prompt_follow",
+		"v": 38875,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"5b2415ba-02c6-4de4-9afa-2e18a1d4f904": {
 		"name": "android_mgst_live_theatre_refactor",
 		"v": 24876,
