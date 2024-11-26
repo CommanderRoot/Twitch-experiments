@@ -7761,11 +7761,12 @@
 	},
 	"2cb573fa-6de1-4901-9d5b-b93f972e78f1": {
 		"name": "android_hermes_rollout_channel_v1",
-		"v": 38585,
+		"v": 38944,
 		"t": 3,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -7773,7 +7774,7 @@
 				"value": "blue_22.0"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "green_22.0"
 			},
 			{
@@ -8535,15 +8536,15 @@
 	},
 	"31441b7e-5b0e-4f28-8502-9b38e72d83d7": {
 		"name": "mini_aussie_shep_dark",
-		"v": 38909,
+		"v": 38938,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "variant"
 			}
 		]
@@ -44191,12 +44192,12 @@
 	},
 	"f73236c1-cb2a-4494-baac-020a2b45e6cf": {
 		"name": "android_hermes_rollout_user_v1",
-		"v": 38790,
+		"v": 38942,
 		"t": 2,
 		"s": 3,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -44204,7 +44205,7 @@
 				"value": "blue_22.0"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "green_22.0"
 			},
 			{
