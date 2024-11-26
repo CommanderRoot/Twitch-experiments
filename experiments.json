@@ -45789,15 +45789,15 @@
 	},
 	"ff23d5bc-a074-4f0e-8620-ece030395a04": {
 		"name": "ios_gifting_callout_refresh",
-		"v": 38512,
+		"v": 38926,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_22.2"
 			}
 		]
