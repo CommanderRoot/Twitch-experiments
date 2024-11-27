@@ -9006,6 +9006,21 @@
 			}
 		]
 	},
+	"33ab8bb0-4148-4892-92b2-61abd6d6598f": {
+		"name": "dart_vods_dynamic_test_112025_segment_holdout",
+		"v": 38956,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"33ee86c0-afec-4953-86ed-e75d70354d7d": {
 		"name": "following_service_fulton",
 		"v": 12415,
@@ -40215,6 +40230,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"e12ef450-c05d-4069-857b-5cadb75e4a4a": {
+		"name": "ios_mdf_skan",
+		"v": 38953,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v22.6"
 			}
 		]
 	},
