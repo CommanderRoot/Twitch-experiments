@@ -8303,11 +8303,11 @@
 	},
 	"30435d0b-73f4-4210-9da9-5d883449f91b": {
 		"name": "ios_mdf_brand_survey",
-		"v": 38892,
+		"v": 39015,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
@@ -8315,7 +8315,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "active_v22.2"
 			}
 		]
@@ -33846,15 +33846,15 @@
 	},
 	"bb782632-ce86-4563-951b-d7b1205746ab": {
 		"name": "ios_create_tab_treatment",
-		"v": 38634,
+		"v": 39017,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "active"
 			}
 		]
@@ -42612,11 +42612,11 @@
 	},
 	"ed25d724-8865-4ae7-9cce-c608185f9c52": {
 		"name": "android_mdf_brand_survey",
-		"v": 38893,
+		"v": 39016,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
@@ -42624,7 +42624,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "active_v22.2"
 			}
 		]
