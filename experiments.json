@@ -21475,15 +21475,15 @@
 	},
 	"771e4c99-6e3a-4eeb-828f-65ae36266cd7": {
 		"name": "ios_ivs_player_abr_resolution_filter_aspect_ratio_mode",
-		"v": 37944,
+		"v": 39024,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
@@ -36395,11 +36395,11 @@
 	},
 	"cb3af804-8004-4c7e-bcd5-b367abd25149": {
 		"name": "ios_clip_editing_portal",
-		"v": 39019,
+		"v": 39025,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -36407,7 +36407,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_22.3"
 			}
 		]
@@ -41133,15 +41133,15 @@
 	},
 	"e59012f1-c6c1-4dac-b4c1-d29b09f2943a": {
 		"name": "android_clip_editing_portal",
-		"v": 39020,
+		"v": 39026,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_22.3"
 			},
 			{
