@@ -13219,6 +13219,21 @@
 			}
 		]
 	},
+	"4a2aa6de-d59e-44b4-882a-0ffa68a5e0ce": {
+		"name": "ios_mdf_headliner",
+		"v": 39064,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"4a7bb40c-9114-443c-aae8-70910fa1106f": {
 		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_push_2212_3rdday_holdout",
 		"v": 25726,
@@ -26705,15 +26720,15 @@
 	},
 	"93663122-f98c-4c83-b61d-2b8a58a084ad": {
 		"name": "android_ads_2nd_feed_ad_endpoint",
-		"v": 38820,
+		"v": 39065,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_22.2"
 			}
 		]
