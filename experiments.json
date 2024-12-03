@@ -33298,16 +33298,16 @@
 	},
 	"b88ed021-7914-4b5a-a275-26f1844beea3": {
 		"name": "android_experiment_database",
-		"v": 38740,
+		"v": 39037,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_22.3"
+				"weight": 50,
+				"value": "active_22.4"
 			}
 		]
 	},
