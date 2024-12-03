@@ -8303,11 +8303,11 @@
 	},
 	"30435d0b-73f4-4210-9da9-5d883449f91b": {
 		"name": "ios_mdf_brand_survey",
-		"v": 39015,
+		"v": 39047,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -8315,7 +8315,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active_v22.2"
 			}
 		]
@@ -8536,15 +8536,15 @@
 	},
 	"31441b7e-5b0e-4f28-8502-9b38e72d83d7": {
 		"name": "mini_aussie_shep_dark",
-		"v": 39029,
+		"v": 39049,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 35,
+				"weight": 20,
 				"value": "control"
 			},
 			{
-				"weight": 65,
+				"weight": 80,
 				"value": "variant"
 			}
 		]
@@ -32704,11 +32704,11 @@
 	},
 	"b49420ab-8e72-4fc2-a4a9-93ad1608d55d": {
 		"name": "android_portals_signup",
-		"v": 38922,
+		"v": 39046,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -32716,7 +32716,7 @@
 				"value": "active_22.1"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_22.2"
 			}
 		]
@@ -42627,11 +42627,11 @@
 	},
 	"ed25d724-8865-4ae7-9cce-c608185f9c52": {
 		"name": "android_mdf_brand_survey",
-		"v": 39016,
+		"v": 39048,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -42639,7 +42639,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active_v22.2"
 			}
 		]
