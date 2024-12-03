@@ -39286,6 +39286,21 @@
 			}
 		]
 	},
+	"db077ef1-5d0b-41ec-89ac-c2d5b4681620": {
+		"name": "android_ads_headliner_v2",
+		"v": 39035,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.5"
+			}
+		]
+	},
 	"db24e8dd-4458-4bd2-a709-0119f60b0252": {
 		"name": "ios_gs_rerouting",
 		"v": 25086,
