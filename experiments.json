@@ -39622,15 +39622,15 @@
 	},
 	"ddb2bd65-9541-4f53-9c61-6f506824fea1": {
 		"name": "android_portrait_clip_feed",
-		"v": 38882,
+		"v": 39044,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_22.3"
 			}
 		]
