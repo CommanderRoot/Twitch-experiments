@@ -23506,15 +23506,15 @@
 	},
 	"8110c7e7-4746-49c9-8d46-dd7835314904": {
 		"name": "android_ivs_player_super_resolution",
-		"v": 39076,
+		"v": 39084,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
