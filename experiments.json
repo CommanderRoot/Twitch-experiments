@@ -30207,16 +30207,16 @@
 	},
 	"a846c498-4274-4053-b4b5-e4e6af8ed216": {
 		"name": "android_async_analytics",
-		"v": 39078,
+		"v": 39079,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_22.2"
+				"weight": 50,
+				"value": "active_22.4"
 			}
 		]
 	},
@@ -41167,7 +41167,7 @@
 	},
 	"e59012f1-c6c1-4dac-b4c1-d29b09f2943a": {
 		"name": "android_clip_editing_portal",
-		"v": 39026,
+		"v": 39080,
 		"t": 2,
 		"groups": [
 			{
@@ -41177,10 +41177,6 @@
 			{
 				"weight": 5,
 				"value": "active_22.3"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			},
 			{
 				"weight": 0,
