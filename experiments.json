@@ -7776,12 +7776,12 @@
 	},
 	"2cb573fa-6de1-4901-9d5b-b93f972e78f1": {
 		"name": "android_hermes_rollout_channel_v1",
-		"v": 38944,
+		"v": 39092,
 		"t": 3,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -7789,7 +7789,7 @@
 				"value": "blue_22.0"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "green_22.0"
 			},
 			{
@@ -35651,6 +35651,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"c66a471e-2214-456b-95aa-e18e5e871aaa": {
+		"name": "dart_twitchmass_clip_badge_120324_holdout",
+		"v": 39094,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
 				"value": "allowed"
 			}
 		]
