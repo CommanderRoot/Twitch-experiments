@@ -269,6 +269,21 @@
 			}
 		]
 	},
+	"016ae5a5-5b7b-4415-9e3c-22676898ccdb": {
+		"name": "android_profile_settings_reorg",
+		"v": 39081,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"01791561-feed-429d-b444-28261113a2c9": {
 		"name": "ios_swift_manifest_requester",
 		"v": 34501,
@@ -30774,6 +30789,21 @@
 			{
 				"weight": 0,
 				"value": "disable_17.7"
+			}
+		]
+	},
+	"aba9a56e-2eed-4d9f-82ff-e2f8cea91d0a": {
+		"name": "android_profile_clips_v2",
+		"v": 39082,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
