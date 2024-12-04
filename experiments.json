@@ -41454,12 +41454,12 @@
 	},
 	"e778519e-15af-418e-8270-50c36bb31e63": {
 		"name": "ios_hermes_rollout_user_v1",
-		"v": 38795,
+		"v": 39075,
 		"t": 2,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -41471,7 +41471,7 @@
 				"value": "blue"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "green"
 			}
 		]
