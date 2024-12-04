@@ -5241,7 +5241,7 @@
 	},
 	"1ddd76b1-708a-4f65-80e5-97c187ce73cf": {
 		"name": "ios_submerge_fiend",
-		"v": 38733,
+		"v": 39099,
 		"t": 2,
 		"groups": [
 			{
@@ -41499,12 +41499,12 @@
 	},
 	"e778519e-15af-418e-8270-50c36bb31e63": {
 		"name": "ios_hermes_rollout_user_v1",
-		"v": 39075,
+		"v": 39097,
 		"t": 2,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -41516,7 +41516,7 @@
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
