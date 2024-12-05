@@ -18825,6 +18825,29 @@
 			}
 		]
 	},
+	"69a70165-a4ba-4fdb-92ad-665289ebb583": {
+		"name": "ios_hermes_rollout_user_v2",
+		"v": 39113,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 99,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
+			}
+		]
+	},
 	"69abcd1e-e795-4901-8496-bd7d75b81cdd": {
 		"name": "android_creator_content",
 		"v": 27437,
