@@ -11851,11 +11851,11 @@
 	},
 	"436cdf89-9954-4ab1-9d7a-99e7acaf7aec": {
 		"name": "android_st_shared_viewership",
-		"v": 38546,
+		"v": 39116,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -11863,7 +11863,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_22.2"
 			}
 		]
@@ -34749,11 +34749,11 @@
 	},
 	"c1aac67b-b348-4b3f-bcc0-d70df3dfd4cf": {
 		"name": "ios_st_shared_viewership",
-		"v": 38778,
+		"v": 39115,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -34761,7 +34761,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_22.3"
 			}
 		]
