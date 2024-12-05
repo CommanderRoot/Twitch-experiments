@@ -36524,11 +36524,11 @@
 	},
 	"cb3af804-8004-4c7e-bcd5-b367abd25149": {
 		"name": "ios_clip_editing_portal",
-		"v": 39063,
+		"v": 39126,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -36536,7 +36536,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_22.3"
 			}
 		]
