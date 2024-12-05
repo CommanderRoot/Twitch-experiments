@@ -1199,6 +1199,21 @@
 			}
 		]
 	},
+	"06771233-3b71-4ade-b48b-d50ae1cd71f8": {
+		"name": "browse_st_shared_viewership",
+		"v": 39117,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "variant1"
+			}
+		]
+	},
 	"067d84e4-36bb-4cd1-a912-cfbb0527ee73": {
 		"name": "android_socket_tls_12",
 		"v": 14281,
@@ -8555,15 +8570,15 @@
 	},
 	"31441b7e-5b0e-4f28-8502-9b38e72d83d7": {
 		"name": "mini_aussie_shep_dark",
-		"v": 39061,
+		"v": 39118,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "variant"
 			}
 		]
@@ -11652,15 +11667,15 @@
 	},
 	"42a78e99-4887-4137-9a3c-120c99b69875": {
 		"name": "mini_aussie_shep_user_id",
-		"v": 38616,
+		"v": 39119,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
