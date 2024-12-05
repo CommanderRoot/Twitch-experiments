@@ -13795,6 +13795,21 @@
 			}
 		]
 	},
+	"4d0e9a99-b9c9-4fcf-bcc9-29dee1c20c3d": {
+		"name": "android_clip_discovery",
+		"v": 39123,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"4d1a7041-5e37-4471-9125-41b547355831": {
 		"name": "vx_follow_blocking",
 		"v": 17203,
