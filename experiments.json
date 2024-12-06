@@ -24344,11 +24344,11 @@
 	},
 	"8585fe5b-d9bd-4db8-bff0-98d5f9323662": {
 		"name": "ios_ads_update_dt_param",
-		"v": 39146,
+		"v": 39149,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -24356,7 +24356,7 @@
 				"value": "active_v22.2"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v22.3"
 			}
 		]
@@ -24895,15 +24895,15 @@
 	},
 	"897ad950-8d84-4f05-a1a7-82eb98b27d93": {
 		"name": "android_ads_device_type_update",
-		"v": 39144,
+		"v": 39148,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_22.3"
 			}
 		]
