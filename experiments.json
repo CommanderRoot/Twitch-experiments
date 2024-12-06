@@ -41082,15 +41082,15 @@
 	},
 	"e4987a7e-ce50-4a26-ba1f-b6c54e412505": {
 		"name": "unhappy_recovery_rate",
-		"v": 38424,
+		"v": 39133,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 97,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 3,
 				"value": "variant"
 			}
 		]
