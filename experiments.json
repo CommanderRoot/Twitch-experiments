@@ -10398,6 +10398,21 @@
 			}
 		]
 	},
+	"3b85ab61-b12b-440a-afd9-44b454150867": {
+		"name": "ios_clip_discovery",
+		"v": 39162,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"3bae717f-e34a-4464-8ad3-b40afb06a2db": {
 		"name": "android_player_ivs_analytics_module",
 		"v": 31357,
