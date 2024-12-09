@@ -26843,7 +26843,7 @@
 	},
 	"93663122-f98c-4c83-b61d-2b8a58a084ad": {
 		"name": "android_ads_2nd_feed_ad_endpoint",
-		"v": 39065,
+		"v": 39194,
 		"t": 1,
 		"groups": [
 			{
@@ -38913,15 +38913,15 @@
 	},
 	"d86171d9-f645-4b1a-aac9-7463f7f81a8d": {
 		"name": "ios_ads_2nd_feed_ad_endpoint",
-		"v": 38425,
+		"v": 39193,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v22.1"
 			}
 		]
@@ -41128,15 +41128,15 @@
 	},
 	"e4987a7e-ce50-4a26-ba1f-b6c54e412505": {
 		"name": "unhappy_recovery_rate",
-		"v": 39133,
+		"v": 39195,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 97,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 3,
+				"weight": 50,
 				"value": "variant"
 			}
 		]
