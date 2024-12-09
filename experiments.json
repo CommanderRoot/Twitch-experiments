@@ -13813,7 +13813,7 @@
 	},
 	"4d0e9a99-b9c9-4fcf-bcc9-29dee1c20c3d": {
 		"name": "android_clip_discovery",
-		"v": 39123,
+		"v": 39181,
 		"t": 2,
 		"groups": [
 			{
@@ -13823,6 +13823,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.5"
 			}
 		]
 	},
@@ -16195,15 +16199,15 @@
 	},
 	"5aedfc16-bee4-46cc-a03f-d813f49f3bf4": {
 		"name": "android_notifications_prompt_follow",
-		"v": 39087,
+		"v": 39182,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_22.4"
 			}
 		]
@@ -37332,16 +37336,16 @@
 	},
 	"cf88d09d-53c6-4054-992c-f77e7035685a": {
 		"name": "android_lower_bits_sku_50",
-		"v": 38973,
+		"v": 39180,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_22.4"
 			}
 		]
