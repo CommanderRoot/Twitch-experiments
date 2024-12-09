@@ -34830,11 +34830,11 @@
 	},
 	"c1aac67b-b348-4b3f-bcc0-d70df3dfd4cf": {
 		"name": "ios_st_shared_viewership",
-		"v": 39115,
+		"v": 39200,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -34842,7 +34842,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_22.3"
 			}
 		]
