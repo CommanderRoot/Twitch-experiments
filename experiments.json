@@ -38913,15 +38913,15 @@
 	},
 	"d86171d9-f645-4b1a-aac9-7463f7f81a8d": {
 		"name": "ios_ads_2nd_feed_ad_endpoint",
-		"v": 39193,
+		"v": 39202,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v22.1"
 			}
 		]
