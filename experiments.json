@@ -4405,7 +4405,7 @@
 	},
 	"18a5504f-5803-49b8-89c9-bb517fb7649c": {
 		"name": "ios_clip_editing_portal_landscape_ipads",
-		"v": 39022,
+		"v": 39236,
 		"t": 1,
 		"groups": [
 			{
@@ -30614,7 +30614,7 @@
 	},
 	"a97e4052-8eea-4852-8c0b-09a5be390982": {
 		"name": "pur_rep_realtime",
-		"v": 38521,
+		"v": 39233,
 		"t": 2,
 		"s": 16,
 		"groups": [
@@ -30628,7 +30628,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "realtime_v2_2024"
+				"value": "realtime_v2.1_2024"
 			}
 		]
 	},
@@ -34830,7 +34830,7 @@
 	},
 	"c1aac67b-b348-4b3f-bcc0-d70df3dfd4cf": {
 		"name": "ios_st_shared_viewership",
-		"v": 39200,
+		"v": 39234,
 		"t": 1,
 		"groups": [
 			{
@@ -34844,6 +34844,10 @@
 			{
 				"weight": 0,
 				"value": "active_22.3"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.4.2"
 			}
 		]
 	},
@@ -36571,7 +36575,7 @@
 	},
 	"cb3af804-8004-4c7e-bcd5-b367abd25149": {
 		"name": "ios_clip_editing_portal",
-		"v": 39232,
+		"v": 39235,
 		"t": 2,
 		"groups": [
 			{
@@ -41339,7 +41343,7 @@
 	},
 	"e59012f1-c6c1-4dac-b4c1-d29b09f2943a": {
 		"name": "android_clip_editing_portal",
-		"v": 39231,
+		"v": 39237,
 		"t": 2,
 		"groups": [
 			{
@@ -42554,7 +42558,7 @@
 	},
 	"ebcdfc04-97c2-4d08-9742-53386ce000c5": {
 		"name": "android_clip_editing_portal_tablets",
-		"v": 39021,
+		"v": 39238,
 		"t": 1,
 		"groups": [
 			{
