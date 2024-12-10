@@ -43801,6 +43801,21 @@
 			}
 		]
 	},
+	"f2f88cff-dbd3-47cf-a8f3-96ac34904e96": {
+		"name": "dart_annual_recap_2024_community_six_month_holdout",
+		"v": 39242,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"f303bbaa-db8a-4ed1-ad49-8d078de106d8": {
 		"name": "ads_squadstream_decliner_rollout",
 		"v": 15412,
