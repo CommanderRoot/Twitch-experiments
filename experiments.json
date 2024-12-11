@@ -18164,6 +18164,21 @@
 			}
 		]
 	},
+	"652f5eb2-4777-4aa1-8e0e-f5387b82c339": {
+		"name": "ios_ads_cspon_dsa",
+		"v": 39268,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v22.6"
+			}
+		]
+	},
 	"655ff73b-47a0-4b09-a06f-569e26081844": {
 		"name": "dart_thegameawardsviewer_ctr_880_awa_cmc_wch_gmg_email_2212_holdout",
 		"v": 25622,
