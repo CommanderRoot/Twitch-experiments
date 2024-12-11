@@ -34830,11 +34830,11 @@
 	},
 	"c1aac67b-b348-4b3f-bcc0-d70df3dfd4cf": {
 		"name": "ios_st_shared_viewership",
-		"v": 39234,
+		"v": 39259,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -34846,7 +34846,7 @@
 				"value": "active_22.3"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_22.4.2"
 			}
 		]
@@ -37860,15 +37860,15 @@
 	},
 	"d29924b3-5170-4600-bbc7-afeef7cc3a5d": {
 		"name": "ios_st_shared_viewership_browse_icon",
-		"v": 39223,
+		"v": 39260,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
