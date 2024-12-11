@@ -10383,6 +10383,21 @@
 			}
 		]
 	},
+	"3b5edcd1-e284-4396-8e92-2ca651bc2a6c": {
+		"name": "android_ads_sponsorships_dsa",
+		"v": 39262,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_22.6"
+			}
+		]
+	},
 	"3b76f429-c231-4276-8ec2-83fdee9bbb38": {
 		"name": "dart_apacsupport_dec8affiliates_holdout",
 		"v": 31555,
