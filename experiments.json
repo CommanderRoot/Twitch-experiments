@@ -28182,6 +28182,21 @@
 			}
 		]
 	},
+	"9a334222-29bd-40ce-a564-3eb475fba921": {
+		"name": "dart_merch_dec1_121224_holdout",
+		"v": 39291,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"9a3b387e-b6cd-4d2b-80a6-bb14d3ba4512": {
 		"name": "GAME_FOLLOW_ONBOARD",
 		"v": 1583,
@@ -41954,6 +41969,29 @@
 			}
 		]
 	},
+	"e9201fb4-7e33-4eb9-afe6-19dc1af517c6": {
+		"name": "ios_hermes_rollout_device_v2",
+		"v": 39292,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
+			}
+		]
+	},
 	"e925d700-14b7-44ff-89d7-66c5419fd9b3": {
 		"name": "dart_gueststartest060523_holdout",
 		"v": 28155,
@@ -42139,6 +42177,29 @@
 			{
 				"weight": 1,
 				"value": "active_12.2"
+			}
+		]
+	},
+	"ea090757-f05f-4eed-8d02-de80fc9e9b2f": {
+		"name": "ios_hermes_rollout_channel_v2",
+		"v": 39290,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
 			}
 		]
 	},
