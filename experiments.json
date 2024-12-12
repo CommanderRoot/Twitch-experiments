@@ -36605,11 +36605,11 @@
 	},
 	"cb3af804-8004-4c7e-bcd5-b367abd25149": {
 		"name": "ios_clip_editing_portal",
-		"v": 39235,
+		"v": 39298,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -36617,7 +36617,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_22.3"
 			}
 		]
@@ -40015,7 +40015,7 @@
 	},
 	"de3ebbc3-aee8-44b2-a656-aa9b439c13e0": {
 		"name": "android_stream_summary_top_clips",
-		"v": 39258,
+		"v": 39299,
 		"t": 2,
 		"groups": [
 			{
@@ -41369,15 +41369,15 @@
 	},
 	"e59012f1-c6c1-4dac-b4c1-d29b09f2943a": {
 		"name": "android_clip_editing_portal",
-		"v": 39237,
+		"v": 39297,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_22.3"
 			},
 			{
