@@ -39832,15 +39832,15 @@
 	},
 	"ddb2bd65-9541-4f53-9c61-6f506824fea1": {
 		"name": "android_portrait_clip_feed",
-		"v": 39086,
+		"v": 39281,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_22.3"
 			}
 		]
@@ -40357,6 +40357,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"e06972fe-2a0a-440f-9d5b-26e2f5cfb461": {
+		"name": "dart_stream_summary_top_clips_holdout",
+		"v": 39282,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "allowed"
 			}
 		]
 	},
