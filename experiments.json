@@ -20889,15 +20889,15 @@
 	},
 	"7346908f-96fa-4591-a403-78121b632b88": {
 		"name": "ios_top_clips_carousel",
-		"v": 37950,
+		"v": 39302,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -40015,15 +40015,15 @@
 	},
 	"de3ebbc3-aee8-44b2-a656-aa9b439c13e0": {
 		"name": "android_stream_summary_top_clips",
-		"v": 39299,
+		"v": 39303,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_22.4"
 			}
 		]
