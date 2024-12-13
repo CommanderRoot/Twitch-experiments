@@ -28146,11 +28146,11 @@
 	},
 	"9a2e948a-c409-4036-be30-b8b362ac5526": {
 		"name": "android_viewer_card",
-		"v": 39305,
+		"v": 39342,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -28162,7 +28162,7 @@
 				"value": "release_22.2"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "release_22.4"
 			}
 		]
@@ -39817,7 +39817,7 @@
 	},
 	"ddb2bd65-9541-4f53-9c61-6f506824fea1": {
 		"name": "android_portrait_clip_feed",
-		"v": 39336,
+		"v": 39341,
 		"t": 1,
 		"groups": [
 			{
@@ -39825,11 +39825,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_22.3"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_22.5"
 			}
 		]
