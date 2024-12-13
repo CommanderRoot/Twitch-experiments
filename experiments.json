@@ -29463,11 +29463,11 @@
 	},
 	"a1ec84c8-c9b2-4236-9488-6a627f014beb": {
 		"name": "android_forced_updates",
-		"v": 39183,
+		"v": 39329,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -29475,7 +29475,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_15.0"
 			}
 		]
