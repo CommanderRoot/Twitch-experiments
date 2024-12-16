@@ -1443,6 +1443,22 @@
 			}
 		]
 	},
+	"07effe38-a245-495f-8a32-bf28930098e1": {
+		"name": "android_kmp_chat_scheduler",
+		"v": 39370,
+		"t": 1,
+		"s": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"07f5c9b1-4703-4934-94a4-dc0f15b99f55": {
 		"name": "dart_live_up_email",
 		"v": 36893,
