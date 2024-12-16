@@ -22061,11 +22061,12 @@
 	},
 	"7921e616-ab05-4821-b559-a2433e8f1a1b": {
 		"name": "ios_hermes_rollout_channel_v1",
-		"v": 39340,
+		"v": 39372,
 		"t": 3,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -22077,7 +22078,7 @@
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "green"
 			}
 		]
