@@ -24870,16 +24870,16 @@
 	},
 	"890915df-f14e-440d-9f4f-51e155c56e24": {
 		"name": "android_ivs_stage_simulcast",
-		"v": 37357,
+		"v": 39377,
 		"t": 1,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
