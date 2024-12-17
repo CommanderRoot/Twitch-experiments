@@ -25019,21 +25019,6 @@
 			}
 		]
 	},
-	"89fb1647-f33f-4132-943b-21fbb6d57867": {
-		"name": "discovery_feed_inflate_exception",
-		"v": 39378,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"8a4731dd-d4eb-48ac-9af0-b5e3738d7646": {
 		"name": "android_ads_ifa_om_sdk",
 		"v": 34682,
@@ -43691,6 +43676,21 @@
 			{
 				"weight": 80,
 				"value": "allowed"
+			}
+		]
+	},
+	"f108e84d-8fc4-4220-b7f4-e9c7ebbbacde": {
+		"name": "android_mdf_inflate_exception_investigation",
+		"v": 39380,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
