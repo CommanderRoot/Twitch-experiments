@@ -22031,15 +22031,15 @@
 	},
 	"78fc88b3-5d5e-49e5-9b95-539cb65c31e7": {
 		"name": "android_mgst_dynamic_resolution",
-		"v": 20473,
+		"v": 39390,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_12.9"
 			}
 		]
