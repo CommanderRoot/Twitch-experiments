@@ -33377,23 +33377,23 @@
 	},
 	"b7fc3072-7594-42d5-8ffe-8c7dcb27247b": {
 		"name": "gifter-badge-exp",
-		"v": 38847,
+		"v": 39418,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "treatment1"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "treatment2"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "treatment3"
 			}
 		]
