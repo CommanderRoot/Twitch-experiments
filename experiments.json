@@ -5257,9 +5257,9 @@
 	},
 	"1ddd76b1-708a-4f65-80e5-97c187ce73cf": {
 		"name": "ios_submerge_fiend",
-		"v": 39128,
+		"v": 39419,
 		"t": 2,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
 				"weight": 90,
@@ -32897,11 +32897,11 @@
 	},
 	"b49420ab-8e72-4fc2-a4a9-93ad1608d55d": {
 		"name": "android_portals_signup",
-		"v": 39046,
+		"v": 39421,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -32909,7 +32909,7 @@
 				"value": "active_22.1"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "active_22.2"
 			}
 		]
@@ -41719,8 +41719,9 @@
 	},
 	"e7ec6bc1-3ad4-4fd6-af08-51ae06d82d8a": {
 		"name": "android_filter_live_feed_by_follows",
-		"v": 38734,
+		"v": 39420,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 90,
