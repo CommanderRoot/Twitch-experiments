@@ -14786,6 +14786,21 @@
 			}
 		]
 	},
+	"527d0c0d-cc29-47e0-a8fa-50b5c1a5172f": {
+		"name": "dart_holiday_hype_train_emotes_121024_holdout",
+		"v": 39437,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"52820760-635e-409f-baa6-bb7cba95d1e7": {
 		"name": "ios_player_seek_on_load",
 		"v": 22666,
@@ -43821,6 +43836,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"f23bc2a2-0b3f-484f-80ae-ac05ba22a50e": {
+		"name": "dart_holiday_hype_train_emotes_121024_onsite",
+		"v": 39438,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
