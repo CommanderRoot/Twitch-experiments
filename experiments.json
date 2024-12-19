@@ -28163,11 +28163,11 @@
 	},
 	"9a2e948a-c409-4036-be30-b8b362ac5526": {
 		"name": "android_viewer_card",
-		"v": 39342,
+		"v": 39434,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -28179,7 +28179,7 @@
 				"value": "release_22.2"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "release_22.4"
 			}
 		]
