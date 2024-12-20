@@ -33988,6 +33988,21 @@
 			}
 		]
 	},
+	"bb1fa24d-e0eb-472a-a863-d7bdc2b3b6e1": {
+		"name": "android_kmp_chat_message_batching",
+		"v": 39457,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"bb2d1459-65c5-49df-a5a0-b1c76ff23a85": {
 		"name": "ios_chromecast_control_center",
 		"v": 22693,
