@@ -20814,19 +20814,19 @@
 	},
 	"72ca1706-64c4-4488-b333-725d95312494": {
 		"name": "ios_ivs_player_gpu_transform",
-		"v": 39406,
+		"v": 39462,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 45,
 				"value": "control"
 			},
 			{
-				"weight": 80,
+				"weight": 10,
 				"value": "holdback"
 			},
 			{
-				"weight": 10,
+				"weight": 45,
 				"value": "aa"
 			},
 			{
