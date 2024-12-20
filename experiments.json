@@ -32931,11 +32931,11 @@
 	},
 	"b49420ab-8e72-4fc2-a4a9-93ad1608d55d": {
 		"name": "android_portals_signup",
-		"v": 39421,
+		"v": 39458,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -32943,7 +32943,7 @@
 				"value": "active_22.1"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_22.2"
 			}
 		]
