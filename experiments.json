@@ -33990,8 +33990,9 @@
 	},
 	"bb1fa24d-e0eb-472a-a863-d7bdc2b3b6e1": {
 		"name": "android_kmp_chat_message_batching",
-		"v": 39457,
+		"v": 39460,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 100,
@@ -36209,6 +36210,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"c82f4426-f070-4df3-9ba3-6d6311e50bec": {
+		"name": "android_hype_train_portal",
+		"v": 39459,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
