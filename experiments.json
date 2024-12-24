@@ -3223,6 +3223,21 @@
 			}
 		]
 	},
+	"11ac4ec3-1d42-40cb-8177-e41290abca27": {
+		"name": "dart_bonusround_eventstart_122324_holdout",
+		"v": 39483,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"11b478c1-c91e-4daf-ab0f-d9865829407c": {
 		"name": "dart_fallemotemore_ctr_awa_trn_non_mis_emailonsite_2111_holdout",
 		"v": 17898,
