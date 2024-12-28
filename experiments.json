@@ -8232,21 +8232,6 @@
 			}
 		]
 	},
-	"2f713d7c-4b84-435c-8713-a8b9a00099b8": {
-		"name": "dart_welcomeemail1all_vwr_571_dav_cmc_wch_mis_email_223_holdout",
-		"v": 32849,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"2faadc61-4ced-42ff-9ba6-b70a28bdc1fd": {
 		"name": "dart_juneviewernewsletterde_vwr_1035_dav_cmc_wch_mis_email_2306_holdout",
 		"v": 28607,
@@ -20213,25 +20198,6 @@
 			}
 		]
 	},
-	"71088472-00bc-4ec4-a6ee-c4b81944cfd9": {
-		"name": "dart_welcomeemail1all_vwr_571_dav_cmc_wch_mis_email_223_email",
-		"v": 32850,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 34,
-				"value": "Variant A"
-			},
-			{
-				"weight": 33,
-				"value": "Variant B"
-			},
-			{
-				"weight": 33,
-				"value": "Variant C"
-			}
-		]
-	},
 	"711aaaf6-61c0-4cc4-9469-0dfc9908785a": {
 		"name": "VP_QOS_TEST",
 		"v": 819,
@@ -28109,21 +28075,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"99bebb8d-5edd-4b66-a9a3-7b4c45afb2bb": {
-		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_email",
-		"v": 33794,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -36273,21 +36224,6 @@
 			}
 		]
 	},
-	"c8813b54-002e-4866-a8d6-296d04aa67cb": {
-		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_holdout",
-		"v": 33791,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"c885f1ea-631c-436a-94db-9f0fb8a2325a": {
 		"name": "dart_twitchcon2023callforcontent3_ctr_951_lrn_cmc_sup_mis_oe_2303_holdout",
 		"v": 26800,
@@ -42919,21 +42855,6 @@
 			}
 		]
 	},
-	"ed053da0-4adf-4ab7-80c2-8b321425a96b": {
-		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2111_holdout",
-		"v": 33793,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"ed07fb04-b763-479f-a6cb-a3f40bbec030": {
 		"name": "dart_fpso_prime_sub_localized_vwr_47941_cmm_cmc_sub_mis_email_2011_holdout",
 		"v": 15562,
@@ -43848,25 +43769,6 @@
 			{
 				"weight": 98,
 				"value": "active_21.3"
-			}
-		]
-	},
-	"f18c55b9-6290-40a1-999d-b29b55d2f6df": {
-		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_223_email",
-		"v": 33792,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 34,
-				"value": "Variant A"
-			},
-			{
-				"weight": 33,
-				"value": "Variant B"
-			},
-			{
-				"weight": 33,
-				"value": "Variant C"
 			}
 		]
 	},
