@@ -1891,21 +1891,6 @@
 			}
 		]
 	},
-	"0a1b8168-a9b9-4ab2-b1b0-0c65a61a05ca": {
-		"name": "dart_coldhtetest_051424_lifecycle_v2_holdout",
-		"v": 34348,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 10,
-				"value": "holdout"
-			},
-			{
-				"weight": 90,
-				"value": "allowed"
-			}
-		]
-	},
 	"0a324094-71b4-43aa-924b-2130183f7836": {
 		"name": "aperture_viewcount_staging",
 		"v": 6121,
@@ -9702,21 +9687,6 @@
 			{
 				"weight": 0,
 				"value": "treatment"
-			}
-		]
-	},
-	"37151c3b-b92c-4c8a-815f-b5c41cdfa074": {
-		"name": "dart_coldhtetest_051424_lifecycle_v2_email",
-		"v": 34349,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
