@@ -2084,6 +2084,21 @@
 			}
 		]
 	},
+	"0b3226bb-cbe3-4b68-ba6f-6cb835e1ce04": {
+		"name": "ios_clip_aspect_toggle",
+		"v": 39544,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"0b3a018e-b654-43c3-bcd5-809c0782a7d1": {
 		"name": "ios_custom_gift_quantity",
 		"v": 27013,
