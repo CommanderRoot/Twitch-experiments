@@ -1095,15 +1095,15 @@
 	},
 	"05e728e6-5007-457e-ab67-8414e817f3e2": {
 		"name": "android_ivs_player_device_config",
-		"v": 39400,
+		"v": 39545,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
