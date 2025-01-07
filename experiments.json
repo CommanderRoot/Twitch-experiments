@@ -20560,20 +20560,20 @@
 	},
 	"72332443-cfaa-4eaa-90f9-239755051a45": {
 		"name": "android_deterministic_theatre_loading",
-		"v": 39187,
+		"v": 39550,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
 				"weight": 0,
-				"value": "active_20.5"
+				"value": "active_22.6"
 			},
 			{
-				"weight": 100,
-				"value": "active_preload_chat_20.5"
+				"weight": 50,
+				"value": "active_preload_chat_22.6"
 			}
 		]
 	},
@@ -30340,15 +30340,15 @@
 	},
 	"a846c498-4274-4053-b4b5-e4e6af8ed216": {
 		"name": "android_async_analytics",
-		"v": 39198,
+		"v": 39549,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_22.4"
 			}
 		]
