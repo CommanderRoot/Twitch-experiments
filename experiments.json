@@ -7812,20 +7812,20 @@
 	},
 	"2cb573fa-6de1-4901-9d5b-b93f972e78f1": {
 		"name": "android_hermes_rollout_channel_v1",
-		"v": 39567,
+		"v": 39570,
 		"t": 3,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "blue_22.0"
 			},
 			{
-				"weight": 50,
+				"weight": 99,
 				"value": "green_22.0"
 			},
 			{
@@ -26739,15 +26739,15 @@
 	},
 	"92e77524-463d-42a2-a332-10a175ea0aaf": {
 		"name": "android_hermes_rollout_device_v1",
-		"v": 38586,
+		"v": 39571,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "blue_22.0"
 			},
 			{
@@ -41990,11 +41990,11 @@
 	},
 	"e9201fb4-7e33-4eb9-afe6-19dc1af517c6": {
 		"name": "ios_hermes_rollout_device_v2",
-		"v": 39422,
+		"v": 39572,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -42002,7 +42002,7 @@
 				"value": "all"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "blue"
 			},
 			{
@@ -44535,7 +44535,7 @@
 	},
 	"f73236c1-cb2a-4494-baac-020a2b45e6cf": {
 		"name": "android_hermes_rollout_user_v1",
-		"v": 38942,
+		"v": 39569,
 		"t": 2,
 		"s": 3,
 		"groups": [
