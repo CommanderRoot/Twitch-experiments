@@ -39698,6 +39698,25 @@
 			}
 		]
 	},
+	"dc83a207-5c45-4fc8-a1ad-0020b40ecade": {
+		"name": "android_ivs_player_analytics_send_twitch_events",
+		"v": 39575,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			},
+			{
+				"weight": 0,
+				"value": "holdback"
+			}
+		]
+	},
 	"dc885225-b912-4574-9fe7-fac09a306a59": {
 		"name": "dart_action5mpfollowtest_vwr_905_flw_cmc_flw_mis_email_2301_holdout",
 		"v": 25801,
