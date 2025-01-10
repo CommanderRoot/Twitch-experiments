@@ -7967,6 +7967,21 @@
 			}
 		]
 	},
+	"2d9fb472-76f7-4382-8e73-ff2ce08e4921": {
+		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2501_holdout",
+		"v": 39591,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"2def6419-eaa1-467f-bcc6-052498371c3f": {
 		"name": "ios_pinnedchat",
 		"v": 24290,
@@ -20100,6 +20115,21 @@
 	"6ff8b0e5-c213-432b-afbd-01ccfc755af5": {
 		"name": "dart_creatorcamplaunchusca_ctr_864_dav_cmc_lrn_mis_email_2211_holdout",
 		"v": 25202,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"6ff90e77-bd00-480a-b64a-80306c5e0f79": {
+		"name": "dart_welcomeemail2allvwr_572_dav_cmc_wch_mis_email_2501_holdout",
+		"v": 39590,
 		"t": 2,
 		"groups": [
 			{
