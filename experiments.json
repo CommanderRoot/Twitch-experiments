@@ -7279,6 +7279,21 @@
 			}
 		]
 	},
+	"29d9e5f5-33a4-42a2-bb50-2c463f067ca3": {
+		"name": "android_clips_player_asset_toggle",
+		"v": 39651,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.9"
+			}
+		]
+	},
 	"29ea7a8a-6f23-45a2-8cc2-76d58664a2a0": {
 		"name": "ios_vaes_sanitize_low_prioritiy_vast_urls",
 		"v": 16423,
@@ -10385,6 +10400,21 @@
 			{
 				"weight": 0,
 				"value": "ERROR"
+			}
+		]
+	},
+	"3af4a1d1-2dff-46e1-8158-8f55a25b8111": {
+		"name": "android_clips_player_landscape_support",
+		"v": 39650,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
