@@ -10776,6 +10776,29 @@
 			}
 		]
 	},
+	"3d50ebf6-489f-4faf-a71c-4707dbaa9c4b": {
+		"name": "ios_hermes_rollout_channel_v3",
+		"v": 39616,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 50,
+				"value": "green"
+			}
+		]
+	},
 	"3d8e616b-2904-4c5b-bcfd-1c3d3b2e66bd": {
 		"name": "ios_allow_playing_from_completed_state",
 		"v": 13742,
@@ -22881,6 +22904,29 @@
 			}
 		]
 	},
+	"7cf281a9-4706-456a-aa9b-c516546c6b0f": {
+		"name": "ios_hermes_rollout_user_v3",
+		"v": 39617,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 0,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
+			}
+		]
+	},
 	"7d10a0ec-01d2-4624-9e56-49445abde552": {
 		"name": "android_ads_dsa_audio",
 		"v": 32314,
@@ -28561,6 +28607,29 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"9be6688d-4183-4103-b78f-91e9c06a8c26": {
+		"name": "ios_hermes_rollout_device_v3",
+		"v": 39615,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 95,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 5,
+				"value": "blue"
+			},
+			{
+				"weight": 0,
+				"value": "green"
 			}
 		]
 	},
