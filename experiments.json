@@ -25142,15 +25142,15 @@
 	},
 	"897ad950-8d84-4f05-a1a7-82eb98b27d93": {
 		"name": "android_ads_device_type_update",
-		"v": 39673,
+		"v": 39677,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_22.3"
 			}
 		]
