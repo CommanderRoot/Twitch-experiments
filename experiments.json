@@ -30586,15 +30586,15 @@
 	},
 	"a846c498-4274-4053-b4b5-e4e6af8ed216": {
 		"name": "android_async_analytics",
-		"v": 39549,
+		"v": 39746,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_22.4"
 			}
 		]
@@ -44126,6 +44126,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"f2b217b2-971b-4db3-9adc-624964bb968a": {
+		"name": "ios_com_sksf_wait_2",
+		"v": 39744,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_v22.9"
 			}
 		]
 	},
