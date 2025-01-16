@@ -39916,7 +39916,7 @@
 	},
 	"dc83a207-5c45-4fc8-a1ad-0020b40ecade": {
 		"name": "android_ivs_player_analytics_send_twitch_events",
-		"v": 39575,
+		"v": 39731,
 		"t": 1,
 		"groups": [
 			{
@@ -39925,11 +39925,15 @@
 			},
 			{
 				"weight": 0,
-				"value": "treatment"
+				"value": "AA"
 			},
 			{
 				"weight": 0,
 				"value": "holdback"
+			},
+			{
+				"weight": 0,
+				"value": "AB"
 			}
 		]
 	},
