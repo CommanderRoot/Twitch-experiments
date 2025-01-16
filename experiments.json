@@ -24008,12 +24008,16 @@
 	},
 	"820f4ced-5af2-468a-aaa1-7181fa3c0cb6": {
 		"name": "ios_hype_train_portal",
-		"v": 39653,
+		"v": 39785,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
 			}
 		]
 	},
