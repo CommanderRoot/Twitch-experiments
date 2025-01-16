@@ -18530,21 +18530,6 @@
 			}
 		]
 	},
-	"66f6afb6-e637-48af-ad0b-9b8913bc58be": {
-		"name": "leftnav_following_promoted_sponsorships",
-		"v": 36024,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "control"
-			},
-			{
-				"weight": 95,
-				"value": "variant"
-			}
-		]
-	},
 	"67051949-6651-4516-85ff-cd909ea7bb96": {
 		"name": "ios_ivs_manifest_requester",
 		"v": 35242,
@@ -30830,25 +30815,6 @@
 			}
 		]
 	},
-	"a9667563-723a-4cf7-b253-674d9eef0a53": {
-		"name": "twilight_web_onboarding_user",
-		"v": 36013,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 99,
-				"value": "no_skip"
-			},
-			{
-				"weight": 0,
-				"value": "skip"
-			}
-		]
-	},
 	"a97d4cc1-e84b-44a1-9293-3ca06a4dc947": {
 		"name": "dart_apac_twn_taiwanmusicfestival_vwr_0_dav_trn_wch_gmg_push_2211_holdout",
 		"v": 25384,
@@ -31711,25 +31677,6 @@
 			{
 				"weight": 100,
 				"value": "active_18.1"
-			}
-		]
-	},
-	"aeb24e23-67f8-4937-b0fb-57ba9ae2dcf2": {
-		"name": "leftnav_lo_similarity_isolated",
-		"v": 36014,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 99,
-				"value": "variant1"
-			},
-			{
-				"weight": 0,
-				"value": "variant2"
 			}
 		]
 	},
