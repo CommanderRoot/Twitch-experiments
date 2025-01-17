@@ -37335,6 +37335,21 @@
 			}
 		]
 	},
+	"cdc1b190-756b-45be-b308-b37f682228a7": {
+		"name": "android-portrait-clip-ignore-on-pause",
+		"v": 39801,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_22.9"
+			}
+		]
+	},
 	"cdc6bb89-ea7c-4bb3-a68a-b2c4a819c5c2": {
 		"name": "ios_om_surestream_enabled",
 		"v": 12658,
