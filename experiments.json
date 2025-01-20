@@ -7448,6 +7448,21 @@
 			}
 		]
 	},
+	"2aa5566e-f713-4f49-8eaa-589cfde96683": {
+		"name": "dart_dropfest_marvelrivals_012425_holdout",
+		"v": 39818,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"2aec0f59-7e76-4a54-81d9-55ab7c07a8f7": {
 		"name": "dart_apac_php_globestreamers2_vwr_0_dav_trn_wch_gmg_onsite_2208_holdout",
 		"v": 23764,
