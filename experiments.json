@@ -20946,11 +20946,11 @@
 	},
 	"72ca1706-64c4-4488-b333-725d95312494": {
 		"name": "ios_ivs_player_gpu_transform",
-		"v": 39462,
+		"v": 39848,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 45,
+				"weight": 44,
 				"value": "control"
 			},
 			{
@@ -20958,11 +20958,11 @@
 				"value": "holdback"
 			},
 			{
-				"weight": 45,
+				"weight": 44,
 				"value": "aa"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "ab1"
 			},
 			{
@@ -20976,6 +20976,22 @@
 			{
 				"weight": 0,
 				"value": "ab4"
+			},
+			{
+				"weight": 1,
+				"value": "control1"
+			},
+			{
+				"weight": 0,
+				"value": "control2"
+			},
+			{
+				"weight": 0,
+				"value": "control3"
+			},
+			{
+				"weight": 0,
+				"value": "control4"
 			}
 		]
 	},
