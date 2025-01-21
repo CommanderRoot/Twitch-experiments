@@ -5324,21 +5324,6 @@
 			}
 		]
 	},
-	"1e3ac000-b5cc-4074-9a70-096cc4e0313d": {
-		"name": "dart_welcomeemail2all_vwr_572_dav_cmc_wch_mis_email_2412_holdout",
-		"v": 39553,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
 	"1e4f6a7b-b651-4f3e-95bb-aeaadeeeea68": {
 		"name": "ios_truffle_hunt",
 		"v": 9046,
@@ -35526,21 +35511,6 @@
 			{
 				"weight": 0,
 				"value": "active_savant_19.7"
-			}
-		]
-	},
-	"c4251f03-dfd3-46bd-b51e-675602b50e8a": {
-		"name": "dart_welcomeemail3all_vwr_551_dav_cmc_wch_mis_email_2412_holdout",
-		"v": 39554,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
