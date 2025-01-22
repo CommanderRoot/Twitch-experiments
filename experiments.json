@@ -13565,6 +13565,21 @@
 			}
 		]
 	},
+	"4b09ef13-eb62-4562-996c-4d1ab4b13d9c": {
+		"name": "ios_ads_headliner_v2",
+		"v": 39893,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v23.0"
+			}
+		]
+	},
 	"4b2c3f01-27ca-41e7-a5db-6a72960b31c8": {
 		"name": "android_mgst_max_auto_bitrate",
 		"v": 8690,
