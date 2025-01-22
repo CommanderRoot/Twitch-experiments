@@ -28704,11 +28704,11 @@
 	},
 	"9be6688d-4183-4103-b78f-91e9c06a8c26": {
 		"name": "ios_hermes_rollout_device_v3",
-		"v": 39867,
+		"v": 39891,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -28716,11 +28716,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
