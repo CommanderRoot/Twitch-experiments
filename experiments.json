@@ -3646,6 +3646,29 @@
 			}
 		]
 	},
+	"14412c45-7878-4899-ab1c-971a536219f9": {
+		"name": "ios_hermes_rollout_channel_v4",
+		"v": 39908,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
+			}
+		]
+	},
 	"1444e538-4ab4-4be3-8e90-87075c5a1e2c": {
 		"name": "dart_onsite_service_tokens_rollout",
 		"v": 22789,
@@ -28499,6 +28522,29 @@
 			}
 		]
 	},
+	"9a7dbd61-5e53-4e0a-aee2-0518843d9858": {
+		"name": "ios_hermes_rollout_user_v4",
+		"v": 39907,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
+			}
+		]
+	},
 	"9a808ab3-8f27-4258-867c-a8c7f2cf880b": {
 		"name": "dart_apac_php_globestreamers1_vwr_0_dav_trn_wch_gmg_onsite_2208_holdout",
 		"v": 22648,
@@ -33449,6 +33495,29 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"b6cb8ece-a6fd-424a-9d1e-4276b934d9a9": {
+		"name": "ios_hermes_rollout_device_v4",
+		"v": 39906,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
 			}
 		]
 	},
