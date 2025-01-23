@@ -20961,11 +20961,11 @@
 	},
 	"72ca1706-64c4-4488-b333-725d95312494": {
 		"name": "ios_ivs_player_gpu_transform",
-		"v": 39848,
+		"v": 39895,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 44,
+				"weight": 45,
 				"value": "control"
 			},
 			{
@@ -20973,11 +20973,11 @@
 				"value": "holdback"
 			},
 			{
-				"weight": 44,
+				"weight": 45,
 				"value": "aa"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "ab1"
 			},
 			{
@@ -20993,7 +20993,7 @@
 				"value": "ab4"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "control1"
 			},
 			{
@@ -41517,15 +41517,15 @@
 	},
 	"e4987a7e-ce50-4a26-ba1f-b6c54e412505": {
 		"name": "unhappy_recovery_rate",
-		"v": 39195,
+		"v": 39894,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "variant"
 			}
 		]
