@@ -26523,6 +26523,25 @@
 			}
 		]
 	},
+	"900f1ee2-8c18-4b59-82bb-8f109f09140d": {
+		"name": "android_portals_login",
+		"v": 39927,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 1,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.1"
+			},
+			{
+				"weight": 0,
+				"value": "active_22.2"
+			}
+		]
+	},
 	"9035a8b4-d94b-4d4a-9aff-10e53b01c80d": {
 		"name": "android_shiny_enigma",
 		"v": 37002,
