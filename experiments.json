@@ -16958,6 +16958,21 @@
 			}
 		]
 	},
+	"5df6e9f2-d942-40ed-ba8f-b167bcdd04e0": {
+		"name": "dart_dropfest_leagueoflegends_012525_holdout",
+		"v": 39943,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"5e0665e0-8358-450d-b536-e13ec7f69a26": {
 		"name": "dart_ca_turboemailtest112223_holdout",
 		"v": 31474,
