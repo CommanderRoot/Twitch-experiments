@@ -46722,5 +46722,20 @@
 				"value": "TreatmentLiveSeg4V2Scale"
 			}
 		]
+	},
+	"fff7e0b9-9dd3-4877-8db1-721396c98bcc": {
+		"name": "dart_dropfest_worldofwarcraft_012525_holdout",
+		"v": 39942,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
 	}
 }
