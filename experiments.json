@@ -30077,15 +30077,15 @@
 	},
 	"a4dc194c-c4af-4566-bccd-ab3c0b715286": {
 		"name": "vx_following_rate_limit",
-		"v": 16630,
+		"v": 39945,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -31603,6 +31603,21 @@
 			{
 				"weight": 100,
 				"value": "enabled"
+			}
+		]
+	},
+	"adb31931-0031-458e-8c89-a5bcfb83e190": {
+		"name": "ios_dashboard_casino_cat_ccl",
+		"v": 39944,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
