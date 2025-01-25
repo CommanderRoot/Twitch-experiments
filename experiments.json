@@ -30077,15 +30077,15 @@
 	},
 	"a4dc194c-c4af-4566-bccd-ab3c0b715286": {
 		"name": "vx_following_rate_limit",
-		"v": 39950,
+		"v": 39951,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 70,
+				"weight": 60,
 				"value": "control"
 			},
 			{
-				"weight": 30,
+				"weight": 40,
 				"value": "treatment"
 			}
 		]
