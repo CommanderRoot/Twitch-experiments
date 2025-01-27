@@ -45042,7 +45042,7 @@
 	},
 	"f7500aa2-428a-4f7d-b7de-a623acb748b4": {
 		"name": "android_ads_headliner_v2",
-		"v": 39940,
+		"v": 40012,
 		"t": 2,
 		"groups": [
 			{
@@ -45052,6 +45052,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.1"
 			}
 		]
 	},
