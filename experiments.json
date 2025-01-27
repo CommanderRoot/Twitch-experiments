@@ -35707,7 +35707,7 @@
 	},
 	"c42bdb7d-be95-4a05-bcfa-805e5c517295": {
 		"name": "android_st_treatment_browse_search_results",
-		"v": 39835,
+		"v": 39968,
 		"t": 1,
 		"groups": [
 			{
@@ -35717,6 +35717,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.0"
 			}
 		]
 	},
