@@ -30851,16 +30851,16 @@
 	},
 	"a899c059-ec18-406c-b558-c5eb02d85e0d": {
 		"name": "android_chat_messages_refactor",
-		"v": 39833,
+		"v": 40034,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_22.9"
+				"weight": 20,
+				"value": "active_23.0"
 			}
 		]
 	},
