@@ -27984,6 +27984,21 @@
 			}
 		]
 	},
+	"97ec9e9e-26a8-454b-8f1b-ca42fff78166": {
+		"name": "dart_dropfest_escapefromtarkov_012725_holdout",
+		"v": 40018,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"97f31dd4-d1c8-477d-8ec0-bc661c887857": {
 		"name": "dart_hitthelab7_vwr_344_dav_cmc_wch_gmg_pe_2102_holdout",
 		"v": 13563,
