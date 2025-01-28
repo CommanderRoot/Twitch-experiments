@@ -22766,7 +22766,7 @@
 	},
 	"7bd37a94-c0ac-4da9-aff0-8324ef36c809": {
 		"name": "android_viewer_card_mod_logs",
-		"v": 38466,
+		"v": 40019,
 		"t": 1,
 		"groups": [
 			{
@@ -22776,6 +22776,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "releases/23.1"
 			}
 		]
 	},
