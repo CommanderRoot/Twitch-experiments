@@ -24630,6 +24630,29 @@
 			}
 		]
 	},
+	"84f64c0e-e4df-4b67-ba82-689237c2e3ba": {
+		"name": "android_hermes_rollout_channel_v2",
+		"v": 40073,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "blue"
+			},
+			{
+				"weight": 50,
+				"value": "green"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			}
+		]
+	},
 	"84fe8953-9bfc-49d9-a14a-633dab4f8a6f": {
 		"name": "dart_lapsedemail1slabctest_vwr_467_dav_cmc_wch_mis_email_2107_email",
 		"v": 15854,
@@ -29122,6 +29145,21 @@
 			{
 				"weight": 100,
 				"value": "Variant A"
+			}
+		]
+	},
+	"9d84c6de-80e1-440b-aa16-13894ce31fe7": {
+		"name": "android_hermes_rollout_beta_v2",
+		"v": 40072,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_23.0"
 			}
 		]
 	},
