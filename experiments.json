@@ -12857,6 +12857,29 @@
 			}
 		]
 	},
+	"4716732b-0c51-4470-8152-5e9443df788c": {
+		"name": "android_hermes_rollout_user_v2",
+		"v": 40074,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "blue"
+			},
+			{
+				"weight": 50,
+				"value": "green"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			}
+		]
+	},
 	"473b7d9f-b998-407f-bf9d-aaf1207812fc": {
 		"name": "android_mdf_button_ordering",
 		"v": 30768,
@@ -37899,6 +37922,29 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"cf6b17b1-8bcf-43db-a1de-fd3e1bf7e05a": {
+		"name": "android_hermes_rollout_device_v2",
+		"v": 40075,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "blue"
+			},
+			{
+				"weight": 50,
+				"value": "green"
+			},
+			{
+				"weight": 0,
+				"value": "all"
 			}
 		]
 	},
