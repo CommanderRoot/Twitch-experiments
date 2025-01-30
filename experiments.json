@@ -3652,7 +3652,7 @@
 	},
 	"14412c45-7878-4899-ab1c-971a536219f9": {
 		"name": "ios_hermes_rollout_channel_v4",
-		"v": 39997,
+		"v": 40092,
 		"t": 3,
 		"s": 1,
 		"groups": [
@@ -3665,11 +3665,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -28677,7 +28677,7 @@
 	},
 	"9a7dbd61-5e53-4e0a-aee2-0518843d9858": {
 		"name": "ios_hermes_rollout_user_v4",
-		"v": 39999,
+		"v": 40093,
 		"t": 2,
 		"s": 1,
 		"groups": [
@@ -28690,11 +28690,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -28919,7 +28919,7 @@
 	},
 	"9be6688d-4183-4103-b78f-91e9c06a8c26": {
 		"name": "ios_hermes_rollout_device_v3",
-		"v": 39891,
+		"v": 40096,
 		"t": 1,
 		"groups": [
 			{
@@ -33688,7 +33688,7 @@
 	},
 	"b6cb8ece-a6fd-424a-9d1e-4276b934d9a9": {
 		"name": "ios_hermes_rollout_device_v4",
-		"v": 40001,
+		"v": 40094,
 		"t": 1,
 		"s": 1,
 		"groups": [
@@ -33701,11 +33701,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -42563,7 +42563,7 @@
 	},
 	"e9201fb4-7e33-4eb9-afe6-19dc1af517c6": {
 		"name": "ios_hermes_rollout_device_v2",
-		"v": 39995,
+		"v": 40091,
 		"t": 1,
 		"s": 5,
 		"groups": [
@@ -42576,11 +42576,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -42775,7 +42775,7 @@
 	},
 	"ea090757-f05f-4eed-8d02-de80fc9e9b2f": {
 		"name": "ios_hermes_rollout_channel_v2",
-		"v": 39991,
+		"v": 40090,
 		"t": 3,
 		"s": 5,
 		"groups": [
@@ -42788,11 +42788,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "green"
 			}
 		]
