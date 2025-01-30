@@ -5300,12 +5300,12 @@
 	},
 	"1ddd76b1-708a-4f65-80e5-97c187ce73cf": {
 		"name": "ios_submerge_fiend",
-		"v": 39657,
+		"v": 40068,
 		"t": 2,
 		"s": 3,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -5317,7 +5317,7 @@
 				"value": "active_22.3.3"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active_22.7"
 			}
 		]
@@ -31693,7 +31693,7 @@
 	},
 	"adb31931-0031-458e-8c89-a5bcfb83e190": {
 		"name": "ios_dashboard_casino_cat_ccl",
-		"v": 39944,
+		"v": 40070,
 		"t": 1,
 		"groups": [
 			{
@@ -31702,7 +31702,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_v23.1"
 			}
 		]
 	},
@@ -42251,12 +42251,12 @@
 	},
 	"e7ec6bc1-3ad4-4fd6-af08-51ae06d82d8a": {
 		"name": "android_filter_live_feed_by_follows",
-		"v": 39597,
+		"v": 40069,
 		"t": 2,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 80,
 				"value": "control"
 			},
 			{
@@ -42264,7 +42264,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 10,
+				"weight": 20,
 				"value": "active_22.1"
 			}
 		]
