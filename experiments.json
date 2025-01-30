@@ -26647,11 +26647,11 @@
 	},
 	"900f1ee2-8c18-4b59-82bb-8f109f09140d": {
 		"name": "android_portals_login",
-		"v": 40067,
+		"v": 40079,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -26661,10 +26661,6 @@
 			{
 				"weight": 0,
 				"value": "active_22.2"
-			},
-			{
-				"weight": 1,
-				"value": "random"
 			}
 		]
 	},
