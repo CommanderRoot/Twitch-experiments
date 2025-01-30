@@ -16351,6 +16351,21 @@
 			}
 		]
 	},
+	"5a6a2640-3030-4ccd-8f5c-36d312a55841": {
+		"name": "android_edgetoedge",
+		"v": 40063,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"5a7de183-7540-49ce-9082-d46e8f05b6d7": {
 		"name": "tvapps_firetv_legacy_recommendations",
 		"v": 10128,
@@ -21715,12 +21730,16 @@
 	},
 	"7640a2b1-31e7-4f29-bbc4-41d2c9550405": {
 		"name": "ios_clip_player_device_rotation",
-		"v": 40061,
+		"v": 40062,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
