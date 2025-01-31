@@ -13863,12 +13863,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 40064,
+		"v": 40097,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-fa88c0.pdx01.abs.hls.ttvnw.net/v1/segment/CoqDsrv-Ac0DiB0mFbTcOcx73-UAhOVDQ2gII2jWWFQzHAcGiPgAx4xqcobzq76U7CPQVsZBUM0jWOo-2OW7q4nWpVoz6FI-c1JVSxAvnkPD5JiYZHXwVtNIBBnZ5nU3-kc_43kw0h_xnP2IxxgiZV82Dp3qvsed0c-_ss3YCZCuzZhu9E8B1oYl078pyUFgSlnlTenYWPrY0aqnqGAqrvt5hYwBRMiil-tHWzwxsH-bAp84xMkCTD4DHg0zbSnm2q3descIT_3FUNAzndVBVDbay500OJ5DqLmUzyvq7hr2Na034fr0xHhZSxNl6KBWMW31GqvhX9-ddjrYp7KUz1Ep6WvHj2dtjZGb_KAats1640msg4CLSov3pcaugjeIMB_jufG47i9QJ_sKSmZrMoTD5oHAw3UHfvF5AQBsZ03-5ekmzoLtm-fLdxmQLTDW9QQ2O9zfcyIgyRqn-KIJ0lL3ADbQ7ujuLtoqhbVnS0Tzlcy4OI1BCXa28RFUHN-YyJJM0LpzzEACzjP8aIgpfukC_5Dfz8HBSmy5MLTB4MsEAWvTFHpyp716tYZwSXARGn0QiFKeW9cYEbhsxjVDCUOhOP3fT2qCrWKG8cOQ3ZYqpEImUP4-fOIhEQnjqDlPe759Pi92uG4wsOoEXlXEVlQS2xMS8jJDqaZOjzett1Gm7RvmsVbCQXkrEGG2O_BlMEaqQuEfzlJvJCa3TK-zEcboQOh_S9--hQfedW_eDjFLD643FCWOTVQF_BGBB90TGOCfqX7iMr8LDcxcASyA2u.ts"
+				"value": "//video-edge-42a279.pdx01.abs.hls.ttvnw.net/v1/segment/CiyyVpPBldoEPgaVR5BKpLsE8ZrMELiZ1ih2p1n2dliWNFk7cW-6PnblcMEpheQms5ka6cG_AE7jmO3h0CkX95iN5QyxmeZ9goTb2XvaIMRwbt2PDylbmAG8kQcetMa-ns4HjaMhW0BaQwEv82cyFBpA9JSdx5CCNX3BE3I6sp-d-zXKJFpd2TNUy6gu1xVJnv7asBCWLyQg_wyvOjBv5rRm3qawfrRsG5vVaqgnVV5KoMt7HXuFd6NwKc65TygG3qO_8gRll8NbRVvL--muOdKKlCtUvNC6J6SkHA3ZXVhJVH1pWyZd-QD1cwl0ySm6uT9jWi_9dARRGM7ltUOnPpTO-791WY2SJ4UHtaDeJ4cnMCmzDXdSWRDN6vwNaYfJvbA3nl1Nj40CSN7wWkdBRpfZwE9R7nqyi5UbwspwPzcHByiemEkmXaIErTOo0Ed8d43pGCqEPcHLenr3swlT8vKM24_WuKMeAMWnk-LXcItdK7zMt0itD_1aJvrwFdMIEIkqb514w9vGC6is9_PwNW-RZkttz4mW94j2YoRyLUIaNla4ZclNBegTsPFJZ4PzRJx1Ikg9ZfpTqIXfvMovf-CjhWDkBIyy4VYB5P8GHE3jy-a1IVqCg-HONXfki1E2rdP8bmoQASwTd10NZnmL0o_ZMcZKttpnQfv1PjHUwBv_XuJtGEoPVX0eX10xXCv0rcd8i-pDw5Oa8e3f1JgAhZsn6W7INFP7FYEGCJFtt1lJGQ0JGpvbLC7PKPgeABdJ2U0atO0.ts"
 			}
 		]
 	},
@@ -22726,6 +22726,21 @@
 			},
 			{
 				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
+	"7b087839-ee57-4aaf-9b40-cfcf1f0f8189": {
+		"name": "dart_fireaidonsite_013025_holdout",
+		"v": 40098,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
@@ -36342,6 +36357,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"c629d030-bfe2-4ddc-a21e-07acd7c80699": {
+		"name": "dart_fireaid_pushnotif_013025_holdout",
+		"v": 40099,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
