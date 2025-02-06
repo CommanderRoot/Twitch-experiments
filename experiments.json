@@ -8590,15 +8590,15 @@
 	},
 	"30d2906b-b826-4039-9d94-97f33bb49b45": {
 		"name": "android_mobile_network_request_tracking",
-		"v": 35501,
+		"v": 40227,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "active"
 			},
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			}
 		]
@@ -25839,15 +25839,15 @@
 	},
 	"8bcf3fc8-b18d-43e2-baf9-9a5a08cfd997": {
 		"name": "ios_mobile_network_request_tracking",
-		"v": 16157,
+		"v": 40228,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "active"
 			},
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "control"
 			}
 		]
