@@ -30145,6 +30145,21 @@
 			}
 		]
 	},
+	"a363a490-22f7-424e-bb55-333fb53d4f89": {
+		"name": "ios_ads_sda_blank_check",
+		"v": 40267,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v23.2"
+			}
+		]
+	},
 	"a39cd18b-c3fb-46ad-a6a8-0c2e8686d978": {
 		"name": "clips_teach_me",
 		"v": 1859,
