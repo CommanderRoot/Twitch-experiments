@@ -3526,6 +3526,21 @@
 			}
 		]
 	},
+	"136f6e9a-8990-43b1-91a2-080c89dac750": {
+		"name": "realtime_ht_triggers",
+		"v": 40299,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"13bab58e-d975-4d01-a255-d8925b440a77": {
 		"name": "ios_channel_points_predictions_spectator_mode",
 		"v": 14045,
