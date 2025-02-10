@@ -19631,6 +19631,25 @@
 			}
 		]
 	},
+	"6bfa5969-6b5d-4d0b-987a-717fd46ce4b2": {
+		"name": "ios_small_bits_sku_50",
+		"v": 40298,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "disabled"
+			},
+			{
+				"weight": 50,
+				"value": "enabled"
+			},
+			{
+				"weight": 0,
+				"value": ""
+			}
+		]
+	},
 	"6c1054f0-be40-42ad-92c6-04b00841bd2b": {
 		"name": "dart_twitchtogetherforgoodnov21_localized_holdout",
 		"v": 31264,
