@@ -36233,6 +36233,21 @@
 			}
 		]
 	},
+	"c52fdd64-0790-4a1e-94e1-36d8347d8950": {
+		"name": "dart_tceu2025ticketlaunchfirsttime_vwr_1195_awa_cmc_buy_irl_email_2502_holdout",
+		"v": 40303,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"c54b1467-4d1c-4dc6-859f-8d41c2a86ae9": {
 		"name": "affiliate_onboarding_fraud",
 		"v": 26219,
