@@ -13931,12 +13931,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 40282,
+		"v": 40301,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-b0bf11.pdx01.abs.hls.ttvnw.net/v1/segment/Cmqc2EYNM2uYpL4WJibFU0455op1RzNR4ZjbPRY7vxmpwgUMrr1gJHSGYMX_AtolY9unNWH8R7XFZSOlnclouCets0rzsA8ihAVIQ6trBfmmZtp8sRC1TsaT7UrYH6ZuZEHcmU8YgZJNM3P89ohOjFF60o3kep7RmfWFAJ6O4IyIJf-3Guh81h0JXofosndrGjKn6_UYZzc2q2HTb1vvSH1Q3dfplawn5Nsdy7GSurUWU-WUGAo1IgaVoiXk82Ct3w1S-eAQ0YJcqI47ThD8jk1vzi_8p1vNGrymhPNYdzITz1bKYDUw0D74NBM0k737F57b18cVxxZ8MEoZ5hKBjil08OhlKckk8x-1RFai1OrTzMbfsmJ5cwQmD8we1Zq25cSP7FAfk_9sAzzbx1rBWTM6oOv-y5oEVKJuUx-vQyk5mZH1weTaLlvuvu33AFQSqqlXqVMkxLt4qO147sciPgPEayDtP7dNibm9FE1Ko4DcKpQh8dQbIUGTmLdp9kkF2-oreRTw_s21FOE8P6OcHGDJkjhTc8vxXTTyE_00F0qzx4vhGGNRCaSRw8GGPgsD1gScU5Vebb1z3s9PDTTUFZ6iqsMiwAjXL8-7O0mtWLyoJu7yMNqm9yR-3oGrEcG21MMv7Ys3udFpHfRb6LEpiFF4mK0jGwAwFQ9E5qYyUTMhvMWe6ut8_wm8d1bN2D5SLUhkj5-EP_nXatnNMWUDDX8gaa0tnesRs9zGCoqONgVN6CdIEU4P0OCuAP70fCilBnuVxiilm52iUc.ts"
+				"value": "//video-edge-9d7dd9.pdx01.abs.hls.ttvnw.net/v1/segment/ClgeGv3ue-wFJF-072r7CmGZ054-O8XbuPUuLnwTFn3KYBcfzmMMrKMZ4tQvvnUpR2deSNW2s46Y_xYVyhcyADdqxEqoXbWsYU_3fqu65EyZdHYk-BqPLANk99hyCN2i2YxPrCtW-G8_TmHfpxw2joaNHiPxROA-ZPnDd7xQEcYZ5zLe6rY89NIpUf9i6yAS5H8lc-BHD3avbmM-OEnLNkLqFTow1Vt-CLHjcufc72ohyeNJb7MrQPDRQEUrJSM9olOhF61fgwEHM6JztnKcmF5sNUDh22PPd7Va2Pn9ewK8KTA0eTmi6lI9x3wIuYbz6e37vJaEICuGYYojDSzgrmXgr87MWLiEdJa_E11SrnyVKK-NISsnr123K-kQH4BFgSbI_Ht-IYq8DIGPeEY-RuOMS8S3iig2_kMgOgQClb6l9WIRXkvmnmV2EmXUW7tt21wTl9LCM_6nW0Dl7NQkNZ4uYe8vlGe87aFDlpCNwjX1JrbUXL7URUDArgXnqqeg_tODL4Q7Kdoxj15GD1RqBxy7I6otQDXHZSCdl5uiUlZjxLU2oktN5c4QJHy5PtHMFk_H6oQsqdxW6uzptiFuSSpKqRQtwxInlVrslz4AECKg8WzlZOjyywmyqYxW3MOM19BlGckgM9zs1FNIzP_6ZijOcx7Q_yuAUElR1WG-saSENZ6wpyOJZhbYY1z2alWPxXOZjAcJDxZCo6cqZmYOFv8Ooq18VVIH1qwhg_n2-49L0dpe5qtjXRwuQa9H4DQLmdw4abocgw6y841Ef.ts"
 			}
 		]
 	},
@@ -42646,6 +42646,25 @@
 			{
 				"weight": 0,
 				"value": "experiment"
+			}
+		]
+	},
+	"e88f0da2-2f2a-4380-b2a7-193e3e60b39c": {
+		"name": "ios_subscribe_always_visible",
+		"v": 40300,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatmentA_23.4"
+			},
+			{
+				"weight": 0,
+				"value": "treatmentB_23.4"
 			}
 		]
 	},
