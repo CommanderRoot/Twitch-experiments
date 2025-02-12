@@ -2404,7 +2404,7 @@
 	},
 	"0d161cac-cdf2-4737-ad82-b0fc49776978": {
 		"name": "ios_pay_d2m",
-		"v": 40315,
+		"v": 40320,
 		"t": 2,
 		"groups": [
 			{
@@ -4617,6 +4617,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"1967de37-21cc-4f6d-9317-40c40ff58bbe": {
+		"name": "android_ads_verifications_provider_refactor",
+		"v": 40322,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.3"
 			}
 		]
 	},
