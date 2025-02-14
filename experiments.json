@@ -10597,6 +10597,21 @@
 			}
 		]
 	},
+	"3b3da026-ea2d-4015-bf6a-2a9e57b08879": {
+		"name": "dart_valentinesday_clips_viewers_021425_holdout",
+		"v": 40369,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"3b4d43fd-2be9-45d0-8d6e-edb8698901f1": {
 		"name": "android_google_billing_library_v5_update",
 		"v": 21693,
