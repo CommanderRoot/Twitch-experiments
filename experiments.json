@@ -13976,12 +13976,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 40390,
+		"v": 40400,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-c3f3f7.pdx01.abs.hls.ttvnw.net/v1/segment/CuNVbExRQUsnFyZ27QiLhWyYs42NnEtRRY1iInR4rceT77toAX6AKOC1OsxtPdESzbOQz6lHZoRjVJQJHNGzhY6QYmWAD9wc4r_YAzwlYPR_Z_lCn1S1ywn03IIOwwD9f43AW4EpvkXyw6lASrbQmTV72PAUetVk0brTzg-Of_gxL_sAviQ0gCdf6HgZB3oJL2YoHQ5VUoHy1_k6vnftl3J5zsmNP2g649r0j5Nsdy5O4KVFDWTb1vLLqr2rP6zU7GArBU3S9MkTeGIcDMmRZsv1piSjZPQxACZQ8Qd4qbSGBQmNexfTg6s0WZN9XJ-EcZiZXQoDDvZSZoNdTUrH-fpfOXPz_fxwT23Qe4nU0d41pz2D0pLReg8cVAEDB3Sok9B-jZkk5QqujHId0jqoONub9qGLnbmY9yPkjWXIiz1r_kQOVDjl4rsieo7DRrYp93bJbCjqDaqqeR8wuRFfAmKzWSdw4DCK7mHzoehZTtLPzImXpjsT5-e372ZdO4rl2dUU83Ta7OoQgk-RazjN-DA5k_tLPRuJ1A6jXM6BpWWwPgz5Up5LbOAm96lTbeb5-goB5lHiZBpbAYLv8fDs9STwHWXf-6DCtCJRJzwr1_nAQ5m_XVEfA38TepdOlnRTBi9qrdGvkwYiFxGBVnrEOAegOO_Hq86KxGLXiv2N6pk6cloFMmyr6AGM0ogbuYscwNA8IztkURaPkuZ-y2X9PFyZUaDE9mA571hV_NUjF4gCrmyrtdSp-Xc0yHfv2vxcD-YsoxdoL1_zmUE6kPYN-PVcNoM5.ts"
+				"value": "//video-edge-d467f7.pdx01.abs.hls.ttvnw.net/v1/segment/Cq9G66K2pg37HWX30LOdcPjPrn1-33cr1sr_4bAT0UJAGn-UjMA7o_LhH4hfShinaKRPpN1rtC81hytCWkfC21qnRZvVviOgkpwqO5SwKtz9b3PQ0M0zN343OykuS3DrVfSPYg7nGs__1NhgCTAVgPxiL7zy6_Fc0ofpkytJ05nT6xSZVBrM9PPng8tfvHwJeNZ68UFgd7_W81ZNf_RU1vJ4x72oI4Grs3JHPEXpmCrhvINuRmFiuxPA0x1PVIyQzqRRPW5k4mUgEnlfZM6dOekjLBEEYQpfhz1iNaJtmODNT0vwjJ4M5jDMNjmRNKvBlD0Etj1HTrQuSuW-0OYJ_5USSAT7JcZVFxigSWmY_8IGICvyF2wzWRooVZgC7gGUxFYQdleMK1wMvzIEJyX6uU-IO09JdJXYtXZh1z6_0OExEKRt8XwUCgFGCs-pe5Guyhyjy-67dYb0TvSBh9bAM12_QOP77HzG8_KhmgIgJwjs_nhkPqXHghJQbFyAtH4Q2HtcQbGqXbsjdSMhy6ilSSulETAF2r_ISRdSBdfIBjOVUCWn5UYQL0ubg1p6JUCmOkd0RE7mU6aIT7Db323yDqRA0vNg8n1nfzcVp3MP6pPi4GRqwu65IeJlTJCy01QQ8KfNB5UAA4qIINu6zw9KRoGQjbRPZw1E6XA3byag0-DdA5tDSp6Es2KLGT2BLk1POTw6jaxIonjPrHiHNMEesRchARzVQ_Gi9O3_yQpJFNGy2uOBnUnIiG0j7caJ.ts"
 			}
 		]
 	},
@@ -30967,6 +30967,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"a7cad876-b021-4c63-9ff3-243681692c7a": {
+		"name": "android_rogue_panda_banner",
+		"v": 40401,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_23_4"
 			}
 		]
 	},
