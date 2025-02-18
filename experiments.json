@@ -5119,15 +5119,15 @@
 	},
 	"1c1953b5-15a0-4a63-83f4-44261f25bcca": {
 		"name": "ios_kmp_chat",
-		"v": 40224,
+		"v": 40407,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v22_2"
 			}
 		]
@@ -40511,15 +40511,15 @@
 	},
 	"dc5a6b3b-b3f9-4121-8d92-062442604368": {
 		"name": "ios_swiftui_auto_scale_fonts",
-		"v": 40358,
+		"v": 40408,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v19.7"
 			}
 		]
