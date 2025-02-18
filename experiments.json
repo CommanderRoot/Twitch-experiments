@@ -8181,11 +8181,11 @@
 	},
 	"2e449cae-0e68-407f-9da6-db209593fec4": {
 		"name": "android_theatre_mute_button",
-		"v": 40340,
+		"v": 40404,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
@@ -8193,7 +8193,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "active_23.1"
 			}
 		]
