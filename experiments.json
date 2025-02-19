@@ -30266,15 +30266,15 @@
 	},
 	"a363a490-22f7-424e-bb55-333fb53d4f89": {
 		"name": "ios_ads_sda_blank_check",
-		"v": 40267,
+		"v": 40447,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_v23.2"
 			}
 		]
