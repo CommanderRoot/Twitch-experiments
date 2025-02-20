@@ -23938,15 +23938,15 @@
 	},
 	"801e5b12-cc10-485a-b32c-ca218cfba6f1": {
 		"name": "realtime_ht_triggers",
-		"v": 40354,
+		"v": 40462,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "treatment"
 			}
 		]
