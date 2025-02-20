@@ -23938,7 +23938,7 @@
 	},
 	"801e5b12-cc10-485a-b32c-ca218cfba6f1": {
 		"name": "realtime_ht_triggers",
-		"v": 40462,
+		"v": 40463,
 		"t": 3,
 		"groups": [
 			{
@@ -23947,7 +23947,7 @@
 			},
 			{
 				"weight": 5,
-				"value": "treatment"
+				"value": "experiment"
 			}
 		]
 	},
