@@ -12592,15 +12592,15 @@
 	},
 	"4533c1d4-b405-4b92-8e17-deebee84a26a": {
 		"name": "android_coroutines_player_tracker",
-		"v": 40392,
+		"v": 40489,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_23.3"
 			}
 		]
