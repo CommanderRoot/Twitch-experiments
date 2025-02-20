@@ -10970,29 +10970,6 @@
 			}
 		]
 	},
-	"3d50ebf6-489f-4faf-a71c-4707dbaa9c4b": {
-		"name": "ios_hermes_rollout_channel_v3",
-		"v": 39866,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 99,
-				"value": "blue"
-			},
-			{
-				"weight": 1,
-				"value": "green"
-			}
-		]
-	},
 	"3d8e616b-2904-4c5b-bcfd-1c3d3b2e66bd": {
 		"name": "ios_allow_playing_from_completed_state",
 		"v": 13742,
@@ -12972,20 +12949,20 @@
 	},
 	"4716732b-0c51-4470-8152-5e9443df788c": {
 		"name": "android_hermes_rollout_user_v2",
-		"v": 40419,
+		"v": 40482,
 		"t": 2,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "blue"
 			},
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "green"
 			}
 		]
@@ -19309,30 +19286,6 @@
 			}
 		]
 	},
-	"69a70165-a4ba-4fdb-92ad-665289ebb583": {
-		"name": "ios_hermes_rollout_user_v2",
-		"v": 40089,
-		"t": 2,
-		"s": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 100,
-				"value": "green"
-			}
-		]
-	},
 	"69abcd1e-e795-4901-8496-bd7d75b81cdd": {
 		"name": "android_creator_content",
 		"v": 27437,
@@ -23254,29 +23207,6 @@
 			}
 		]
 	},
-	"7cf281a9-4706-456a-aa9b-c516546c6b0f": {
-		"name": "ios_hermes_rollout_user_v3",
-		"v": 39865,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 99,
-				"value": "blue"
-			},
-			{
-				"weight": 1,
-				"value": "green"
-			}
-		]
-	},
 	"7d10a0ec-01d2-4624-9e56-49445abde552": {
 		"name": "android_ads_dsa_audio",
 		"v": 32314,
@@ -23914,15 +23844,15 @@
 	},
 	"801e5b12-cc10-485a-b32c-ca218cfba6f1": {
 		"name": "realtime_ht_triggers",
-		"v": 40463,
+		"v": 40487,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 85,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 15,
 				"value": "experiment"
 			}
 		]
@@ -24702,29 +24632,6 @@
 			}
 		]
 	},
-	"848d0766-a0a0-4285-a3b3-798571db8649": {
-		"name": "iOS_hermes_rollout_user",
-		"v": 38450,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
-			}
-		]
-	},
 	"8493481e-b5e3-4385-be53-ec35f14184e1": {
 		"name": "dart_streamerawardsrevedtv_vwr_922_dav_cmc_wch_mis_email_2301_holdout",
 		"v": 26133,
@@ -24817,20 +24724,20 @@
 	},
 	"84f64c0e-e4df-4b67-ba82-689237c2e3ba": {
 		"name": "android_hermes_rollout_channel_v2",
-		"v": 40418,
+		"v": 40484,
 		"t": 3,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "blue"
 			},
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "green"
 			}
 		]
@@ -29077,29 +28984,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"9be6688d-4183-4103-b78f-91e9c06a8c26": {
-		"name": "ios_hermes_rollout_device_v3",
-		"v": 40096,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
 			}
 		]
 	},
@@ -36464,29 +36348,6 @@
 			}
 		]
 	},
-	"c5db663b-2fdb-4039-90fa-ee8bb3253cf9": {
-		"name": "iOS_hermes_rollout_channel",
-		"v": 38451,
-		"t": 3,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
-			}
-		]
-	},
 	"c5e2ec34-e1e8-4552-94fe-ede296cf3514": {
 		"name": "android_chat_settings",
 		"v": 19797,
@@ -38169,20 +38030,20 @@
 	},
 	"cf6b17b1-8bcf-43db-a1de-fd3e1bf7e05a": {
 		"name": "android_hermes_rollout_device_v2",
-		"v": 40421,
+		"v": 40486,
 		"t": 1,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "blue"
 			},
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "green"
 			}
 		]
@@ -40123,33 +39984,6 @@
 			{
 				"weight": 50,
 				"value": "control"
-			}
-		]
-	},
-	"d9d2d65f-bddb-474f-a2a1-6ada2666a5e3": {
-		"name": "iOS_hermes_rollout_device",
-		"v": 38457,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
-			},
-			{
-				"weight": 0,
-				"value": ""
 			}
 		]
 	},
@@ -42818,30 +42652,6 @@
 			}
 		]
 	},
-	"e9201fb4-7e33-4eb9-afe6-19dc1af517c6": {
-		"name": "ios_hermes_rollout_device_v2",
-		"v": 40091,
-		"t": 1,
-		"s": 5,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 100,
-				"value": "green"
-			}
-		]
-	},
 	"e925d700-14b7-44ff-89d7-66c5419fd9b3": {
 		"name": "dart_gueststartest060523_holdout",
 		"v": 28155,
@@ -43027,30 +42837,6 @@
 			{
 				"weight": 1,
 				"value": "active_12.2"
-			}
-		]
-	},
-	"ea090757-f05f-4eed-8d02-de80fc9e9b2f": {
-		"name": "ios_hermes_rollout_channel_v2",
-		"v": 40090,
-		"t": 3,
-		"s": 5,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 100,
-				"value": "green"
 			}
 		]
 	},
