@@ -23855,15 +23855,15 @@
 	},
 	"801e5b12-cc10-485a-b32c-ca218cfba6f1": {
 		"name": "realtime_ht_triggers",
-		"v": 40487,
+		"v": 40503,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 85,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 15,
+				"weight": 50,
 				"value": "experiment"
 			}
 		]
