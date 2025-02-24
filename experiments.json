@@ -10539,7 +10539,7 @@
 	},
 	"3af4a1d1-2dff-46e1-8158-8f55a25b8111": {
 		"name": "android_clips_player_landscape_support",
-		"v": 39650,
+		"v": 40541,
 		"t": 1,
 		"groups": [
 			{
@@ -10549,6 +10549,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.4"
 			}
 		]
 	},
