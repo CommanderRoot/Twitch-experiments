@@ -16690,12 +16690,16 @@
 	},
 	"5bdc977b-e357-4d77-b271-51b10a556789": {
 		"name": "ios_chat_replies",
-		"v": 40558,
+		"v": 40560,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
