@@ -7491,6 +7491,21 @@
 			}
 		]
 	},
+	"2a6c4e33-b5a9-4c59-8e12-820bb3442d1b": {
+		"name": "android_chat_replies_incoming",
+		"v": 40576,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"2a7092a2-104b-42c8-8fe5-3fbc605f731b": {
 		"name": "dart_annual_recap_2023_awareness_notification_d_holdout",
 		"v": 31588,
