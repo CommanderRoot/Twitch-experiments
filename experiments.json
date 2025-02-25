@@ -14221,15 +14221,15 @@
 	},
 	"4d2f1335-f156-4397-824d-df288b2ba0dd": {
 		"name": "ios_ads_lt_ff",
-		"v": 40596,
+		"v": 40597,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v23.4"
 			}
 		]
@@ -26634,15 +26634,15 @@
 	},
 	"8f710085-dfb4-4698-bec3-44ff4a617059": {
 		"name": "android_ivs_rtx_multi_codec_answer",
-		"v": 38386,
+		"v": 40598,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
@@ -46204,15 +46204,15 @@
 	},
 	"fc351dd5-52a4-475c-9a50-4a61be999d98": {
 		"name": "ios_ivs_rtx_multi_codec_answer",
-		"v": 38375,
+		"v": 40599,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
