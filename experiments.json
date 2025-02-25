@@ -13954,12 +13954,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 40528,
+		"v": 40565,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-33731c.pdx01.abs.hls.ttvnw.net/v1/segment/CkYmHFDfJBsU4N2uIv7WmLeRYTsE-26pPfCLs8b2SneRjCIQ9flHx3ikGbZ2Wl3bsVm620r74wKsOonA51SP8Hq0EMoRUZ8DiCHw-I2ogLN6X9FTzsI0ENa8ScpCaxGuo5e0AH-ImBobTKC60D3-itFzo_lY54ASAB2DlaZO6WCs-MfKHMsztpkU0jXfhtnXwKUHAPM3Y6phcRscHLqOxbVak1BGf8S2cj4ZaiS_V9WRGpuZECf1ww30X5LHq2-2MiystSJW3YqDiHUYg_B3-0DygRpUzcbpQlwr6qSq_wSjXfSMf22ra1Y-8_8MMHqkWBI5hYzbHlZfkMocfg-gnI2rK1YpvtVAO5tVKzWRAvll7aiUHGY4Ax9XRvUDIhHNqhhmetkWI8sho4_mdirp-pvVaPWZYOy2K8DkcQ_OsbCKfIxHn7U-Mv7dRePMriMGL6tOq5PzloNh3K2XQhJHhLP4MN3p-0Q-JzuVeebaQl0X-XGcdnDQasWZIxWcvkNJesH7vl1yUWBe9sWUwopOss_8iZFtwYpQQaeUtC_oGVSFbHLYpEjJoWauSFFx9mrGFq3ZAD9EMMCfABEmffqBfJIB8fschjAL5cHhv_nYxXn6RlJWDPQIqMtOGqBWzMSWRrz442A09VOIVe64IfeMR-zpDxWe0RjPiuwCphEPWwvdEp9Nt5vzo5lBq2dxArrhpEM1_K9R9Z57Iyx5auro8NPv3BzCJHRDf1fbzGRYXu12-0R0Rbtka91H2NMGw3.ts"
+				"value": "//video-edge-bfc210.pdx01.abs.hls.ttvnw.net/v1/segment/CjZ-zqLSxDX3wXIvaJaILb_LgRuDWWbmX82kGsIMSu8lpcpNh32rvEX2dxiuMTeES6uKqsusnqD6qVUtDk-8G5gM9HlJriIpn85k0EambeigJaRa0PYsJ0NaEHHsYwQO6BiamB7TwqYF43TwAfcb4d4Tfbe_CzGOU1dbFary0UejFmJlNPFr8XmpxKcIl1mTLPUhOHcYHfeW0L0-TxwSAE19u67ZBvS6kziTaab48jQmoQqVNTYM8akY3FffhEscoHVXNEYMyuJ1J9KPsQSYZRmD_bcQmSNBgNh4rhx_2oMM4SYm_nizDgGNyoW35dFT8-jU1cUf7Ww_LULG3OKrRPi3dHciE783jgn3zsvmkAKZnPHpgJhdkiDkbr6OGfjnvdiM5s96IutMe4cOYlCs66DdNh7JqJQbxkEvwZVzrVn4ZibBKIQKeuFm7silD-mK26Ukz-727cVV1nPhNcuHMYh8zaO-HNFnhcUpUHeQSGf3bxcyvFvcQdXOqNBkr-TGHR_uxIODYMR2UKrkkc5NWC4zCPde3VmvGyLDHbyhDfcwn5Ck9qEWkNuFP7qyvw_mVmv-uCKaFmYaIk6tW8eRcFIyeWvjxhkcyW3Q6Mc3JQ46f4L1CgUEUYbpFsnFPlDWutPlAwlshrlfzGplagQ_0asyAbznR3fyyrspM4poNFBV3GU1Xax4ea8hAWFOjeb38sI5f_K9-hgRsiYpXyGSV0TMmoUxDng9bborf7GAYDK5oT_18Q5HUs_RLv0aOmAbb.ts"
 			}
 		]
 	},
@@ -21209,19 +21209,19 @@
 	},
 	"72ca1706-64c4-4488-b333-725d95312494": {
 		"name": "ios_ivs_player_gpu_transform",
-		"v": 40266,
+		"v": 40567,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 45,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 0,
 				"value": "holdback"
 			},
 			{
-				"weight": 45,
+				"weight": 0,
 				"value": "aa"
 			},
 			{
