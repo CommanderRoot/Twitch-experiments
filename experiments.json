@@ -37625,6 +37625,21 @@
 			}
 		]
 	},
+	"ccfbd252-36ba-4096-8aa5-e3e81999877b": {
+		"name": "android_happy_feet_banner",
+		"v": 40573,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.5"
+			}
+		]
+	},
 	"ccffc0c6-cd89-4f9d-9c2e-7feb23cc22be": {
 		"name": "android_creator_analytics",
 		"v": 27463,
