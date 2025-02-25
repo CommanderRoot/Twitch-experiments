@@ -31069,15 +31069,15 @@
 	},
 	"a899c059-ec18-406c-b558-c5eb02d85e0d": {
 		"name": "android_chat_messages_refactor",
-		"v": 40231,
+		"v": 40595,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_23.1"
 			}
 		]
