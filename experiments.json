@@ -14219,6 +14219,21 @@
 			}
 		]
 	},
+	"4d2f1335-f156-4397-824d-df288b2ba0dd": {
+		"name": "ios_ads_lt_ff",
+		"v": 40596,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v23.4"
+			}
+		]
+	},
 	"4d2f4add-972e-4faa-8bbb-5fd4cf5e6be4": {
 		"name": "dart_rustsupportastreamerreminder_vwr_1156_dav_cmc_lrn_gmg_onsite_2312_holdout",
 		"v": 31699,
