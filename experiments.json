@@ -63,21 +63,6 @@
 			}
 		]
 	},
-	"00a7a76a-0bea-4455-a186-0dae44285f75": {
-		"name": "android_multiplayer_ads",
-		"v": 12705,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_9.10"
-			}
-		]
-	},
 	"00d3dec6-a84e-4940-9ebc-25b95b1d3b8c": {
 		"name": "ios_profile_upload",
 		"v": 22679,
@@ -5747,21 +5732,6 @@
 			}
 		]
 	},
-	"20a3c743-f570-442b-a0db-4dad344be426": {
-		"name": "android_ccpa_gdpr",
-		"v": 9241,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"20bd8987-c8f3-4849-81a7-18decb6a4cea": {
 		"name": "dart_lor_world_champion_sept2021_holdout",
 		"v": 16861,
@@ -9899,21 +9869,6 @@
 			}
 		]
 	},
-	"370bff35-06d9-490f-87e9-2f6d11f9c4cc": {
-		"name": "android_rev_share_copy",
-		"v": 8326,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
-			}
-		]
-	},
 	"3712c2b4-41d2-437c-8e37-83e236543cef": {
 		"name": "ivs_player_probe_endpoint",
 		"v": 40160,
@@ -10794,21 +10749,6 @@
 			{
 				"weight": 100,
 				"value": "rollout"
-			}
-		]
-	},
-	"3c11e182-c400-456f-bc4d-23fb1a9add47": {
-		"name": "android_ads_stream_presenter",
-		"v": 7487,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 1,
-				"value": "control"
 			}
 		]
 	},
@@ -14627,21 +14567,6 @@
 			}
 		]
 	},
-	"4f4575cf-fc92-47fc-9939-0bd5754c4895": {
-		"name": "android_throttle_vaes_pixel_errors",
-		"v": 12820,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active_9.11"
-			},
-			{
-				"weight": 0,
-				"value": "control"
-			}
-		]
-	},
 	"4f4cc91e-537b-4a83-8ba6-83d136551bf7": {
 		"name": "ios_esports_sub_sunset",
 		"v": 30642,
@@ -16529,21 +16454,6 @@
 			}
 		]
 	},
-	"5a84c7d1-d298-4bd0-9ef6-8304094481f7": {
-		"name": "android_gdpr_server_side_migration",
-		"v": 9574,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 1,
-				"value": "control"
-			}
-		]
-	},
 	"5a88d15b-bc13-444d-9902-cec2a5cdbb27": {
 		"name": "dart_domingoeuropaleague_vwr_934_dav_cmc_wch_spt_push_2302_holdout",
 		"v": 26431,
@@ -17331,21 +17241,6 @@
 			{
 				"weight": 100,
 				"value": "active"
-			}
-		]
-	},
-	"5ec8d02e-42a5-44d4-b715-8774874ebd81": {
-		"name": "android_ads_pip",
-		"v": 7343,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
@@ -19577,25 +19472,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"6bb608e0-5917-4b8e-ae98-dc936aab49be": {
-		"name": "android_gdpr_migration_9_1",
-		"v": 10614,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_9_2"
 			}
 		]
 	},
@@ -23839,21 +23715,6 @@
 			{
 				"weight": 100,
 				"value": "active_11.1"
-			}
-		]
-	},
-	"7fd1ea7d-82b5-4f9d-88f1-a34bc1c8d097": {
-		"name": "android_ccpa",
-		"v": 9577,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 1,
-				"value": "control"
 			}
 		]
 	},
@@ -29437,25 +29298,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"9ea291fe-63ac-4234-b56e-bcc49f6085ea": {
-		"name": "android_ads_stream_presenter_8_1",
-		"v": 8455,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control1"
-			},
-			{
-				"weight": 0,
-				"value": "control2"
 			}
 		]
 	},
@@ -38466,21 +38308,6 @@
 			}
 		]
 	},
-	"d19b14b5-67d5-4c5a-bb3e-13b470ce81fa": {
-		"name": "android_ads_stream_presenter_7_14",
-		"v": 8280,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 100,
-				"value": "control"
-			}
-		]
-	},
 	"d1a4782a-860b-4a80-a469-c77687456290": {
 		"name": "tvapps_tvos_usher_url",
 		"v": 13413,
@@ -42648,25 +42475,6 @@
 			}
 		]
 	},
-	"e8e1055d-5752-4fc4-8a3e-93a3af6841cf": {
-		"name": "android_server_side_consent_9_1",
-		"v": 10615,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_9_2"
-			}
-		]
-	},
 	"e8f806df-84e8-4e0d-a362-bd9baf5bace3": {
 		"name": "ios_stories_create_video",
 		"v": 35137,
@@ -44178,25 +43986,6 @@
 			}
 		]
 	},
-	"f026dfcc-17d4-4f32-823a-925b730fd89f": {
-		"name": "android_viewer_level_midrolls",
-		"v": 12094,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_9.6"
-			},
-			{
-				"weight": 100,
-				"value": "active_9.7"
-			}
-		]
-	},
 	"f03d8b21-c0dc-43c6-8ee6-aa59d7edd3ef": {
 		"name": "aws_roundtrip_latency_test_opt_in",
 		"v": 957,
@@ -44683,21 +44472,6 @@
 			{
 				"weight": 100,
 				"value": "active_21.2"
-			}
-		]
-	},
-	"f47e44f2-7a81-4005-bb04-5d6d69018d61": {
-		"name": "android_client_side_pbyp_use_secondary_player",
-		"v": 12593,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
 			}
 		]
 	},
