@@ -12587,15 +12587,15 @@
 	},
 	"45e4af7d-d254-4167-957e-4990fcfc8585": {
 		"name": "ios_clip_editing_portal_m2",
-		"v": 40651,
+		"v": 40656,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -28301,11 +28301,11 @@
 	},
 	"99c4a20c-82da-46ef-9748-b3fedeb32b1f": {
 		"name": "android_clip_editing_portal_m2",
-		"v": 40652,
+		"v": 40657,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -28313,7 +28313,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_23.3"
 			}
 		]
