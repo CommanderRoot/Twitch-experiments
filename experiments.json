@@ -5525,6 +5525,21 @@
 			}
 		]
 	},
+	"1f0faf82-e9f5-4099-92fa-4d1f1887c054": {
+		"name": "android_chat_settings_mvvm",
+		"v": 40606,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"1f208451-910a-4267-b6b7-d07d1e75d0de": {
 		"name": "ios_channel_experiment_bucketing_test",
 		"v": 19264,
