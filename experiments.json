@@ -10554,15 +10554,15 @@
 	},
 	"3b2f90a7-0afc-4dde-9e39-e8a2e7d078d6": {
 		"name": "ios_creator_content_portrait_clip_player",
-		"v": 40112,
+		"v": 40631,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -12682,15 +12682,15 @@
 	},
 	"45e4af7d-d254-4167-957e-4990fcfc8585": {
 		"name": "ios_clip_editing_portal_m2",
-		"v": 40378,
+		"v": 40630,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active"
 			}
 		]
@@ -28502,11 +28502,11 @@
 	},
 	"99c4a20c-82da-46ef-9748-b3fedeb32b1f": {
 		"name": "android_clip_editing_portal_m2",
-		"v": 40399,
+		"v": 40629,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
@@ -28514,7 +28514,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_23.3"
 			}
 		]
