@@ -2198,21 +2198,6 @@
 			}
 		]
 	},
-	"0bdb3658-2524-48d7-8165-36a11168c580": {
-		"name": "android_ads_rx_client_video_ad_presenter",
-		"v": 26329,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_14.5"
-			}
-		]
-	},
 	"0bf3975d-a3dd-4f36-800f-0089b2ce279a": {
 		"name": "android_chomments",
 		"v": 1729,
@@ -2293,29 +2278,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"0c8aec5f-c2ff-442d-802c-4c4de7a20e3e": {
-		"name": "android_multi_partner_ad_verification",
-		"v": 14135,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_9.11"
-			},
-			{
-				"weight": 0,
-				"value": "active_9.12"
-			},
-			{
-				"weight": 100,
-				"value": "active_10.1"
 			}
 		]
 	},
@@ -4477,25 +4439,6 @@
 			}
 		]
 	},
-	"18bc5741-5864-4aa8-93cd-be91a9f8b06c": {
-		"name": "android_ads_headliner_16_2",
-		"v": 29806,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_16.2"
-			},
-			{
-				"weight": 0,
-				"value": "below_stories_16.5"
-			}
-		]
-	},
 	"18c2ac83-24d5-40af-88c4-3cc039ae562f": {
 		"name": "dart_apac_php_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22101,
@@ -5627,29 +5570,6 @@
 			{
 				"weight": 0,
 				"value": "active_14.8"
-			}
-		]
-	},
-	"200155b1-6169-40ee-b726-a668b513249a": {
-		"name": "android_ads_identity_minimum_registration_hour_interval",
-		"v": 12961,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "1"
-			},
-			{
-				"weight": 0,
-				"value": "3"
-			},
-			{
-				"weight": 100,
-				"value": "24"
 			}
 		]
 	},
@@ -11084,21 +11004,6 @@
 			}
 		]
 	},
-	"3ec204f5-3307-4296-be1e-519a14a7b3bf": {
-		"name": "android_video_ads_first_party_api",
-		"v": 13061,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_9.10"
-			}
-		]
-	},
 	"3efc7970-fe1f-4816-b3fa-3690735d893a": {
 		"name": "dart_merchnovcyberweekpromoblackfriday_vwr_836_cmm_cmc_buy_mis_onsite_2211_holdout",
 		"v": 25400,
@@ -14688,25 +14593,6 @@
 			{
 				"weight": 100,
 				"value": "hype_train_all_time_high_on"
-			}
-		]
-	},
-	"50418f28-335b-4245-86f5-1392c0424bbc": {
-		"name": "android_left_third_display_ads_a_b_test",
-		"v": 19815,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "ab_test_ineligible"
-			},
-			{
-				"weight": 100,
-				"value": "ab_test_treatment"
-			},
-			{
-				"weight": 0,
-				"value": "ab_test_control"
 			}
 		]
 	},
@@ -20012,21 +19898,6 @@
 			}
 		]
 	},
-	"6de96080-eff2-414f-a151-e067c11381ce": {
-		"name": "android_mirror_c_ads",
-		"v": 31095,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
-			}
-		]
-	},
 	"6e255f6b-30f7-4de1-a8dd-2e9c33b4464f": {
 		"name": "dart_dino_global_emote_day_071723_holdout",
 		"v": 28834,
@@ -24090,25 +23961,6 @@
 			}
 		]
 	},
-	"81d05701-6593-4528-ad4a-1db87b1c5fae": {
-		"name": "android_ads_omsdk_js_version_15_6",
-		"v": 28668,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "1_4_6"
-			},
-			{
-				"weight": 0,
-				"value": "1_4_2"
-			},
-			{
-				"weight": 0,
-				"value": "1_3_2"
-			}
-		]
-	},
 	"81d6df9f-6870-4d90-85d4-69f96db1c432": {
 		"name": "vaes_rollout_DE",
 		"v": 7698,
@@ -27056,25 +26908,6 @@
 			}
 		]
 	},
-	"92dccece-b938-423e-97e8-56d0a88a4a6b": {
-		"name": "android_tcf_v2",
-		"v": 26410,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_13.5"
-			},
-			{
-				"weight": 100,
-				"value": "active_14.4"
-			}
-		]
-	},
 	"92e71f71-8c36-4c11-9496-42f4f4dc9bac": {
 		"name": "TWILIGHT_AAX_DISPLAY_APAC",
 		"v": 38198,
@@ -27425,25 +27258,6 @@
 			{
 				"weight": 100,
 				"value": "active_21.3"
-			}
-		]
-	},
-	"94aaa3d6-03fb-4ffe-9d75-5ab3c8df37a7": {
-		"name": "android_improved_background_audio",
-		"v": 26654,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active_14.7"
-			},
-			{
-				"weight": 0,
-				"value": "active_14.7_BETA"
 			}
 		]
 	},
@@ -28002,21 +27816,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"97e60beb-25c9-4141-b121-1515e0bbbc9c": {
-		"name": "android_om_vaes_enabled_8_1_1",
-		"v": 14358,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "active"
-			},
-			{
-				"weight": 0,
-				"value": "control"
 			}
 		]
 	},
@@ -32846,25 +32645,6 @@
 			{
 				"weight": 100,
 				"value": "active_13.9"
-			}
-		]
-	},
-	"b29512a7-f588-4218-b951-5042c871a818": {
-		"name": "android_vast_parser_use_kotlin",
-		"v": 15660,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active"
-			},
-			{
-				"weight": 50,
-				"value": "control"
-			},
-			{
-				"weight": 50,
-				"value": "active_11.2"
 			}
 		]
 	},
@@ -40171,21 +39951,6 @@
 			}
 		]
 	},
-	"dc514836-aa7d-4f39-84fd-17338157aa52": {
-		"name": "android_bounty_tracking",
-		"v": 14365,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 1,
-				"value": "active"
-			}
-		]
-	},
 	"dc5a6b3b-b3f9-4121-8d92-062442604368": {
 		"name": "ios_swiftui_auto_scale_fonts",
 		"v": 40408,
@@ -40345,21 +40110,6 @@
 			{
 				"weight": 0,
 				"value": "active_13.8"
-			}
-		]
-	},
-	"dd53a58f-b6e8-4e02-ba12-6da338f02991": {
-		"name": "android_vaes_single_ad_request_path",
-		"v": 12949,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active_9.11"
-			},
-			{
-				"weight": 0,
-				"value": "control"
 			}
 		]
 	},
@@ -42816,21 +42566,6 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
-			}
-		]
-	},
-	"ea6dc687-3f68-4791-b843-848bf687b6c5": {
-		"name": "android_ads_client_ad_allocator_v1",
-		"v": 25787,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "active_13.9"
-			},
-			{
-				"weight": 0,
-				"value": "control"
 			}
 		]
 	},
@@ -45661,29 +45396,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"facc04f2-2333-40d5-8257-d6ae21e350f2": {
-		"name": "android_pie_webview_fix",
-		"v": 14069,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "active_10.5"
-			},
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_10.5_2"
-			},
-			{
-				"weight": 100,
-				"value": "active_10.6"
 			}
 		]
 	},
