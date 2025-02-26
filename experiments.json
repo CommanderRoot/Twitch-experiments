@@ -4426,15 +4426,15 @@
 	},
 	"18a5504f-5803-49b8-89c9-bb517fb7649c": {
 		"name": "ios_clip_editing_portal_landscape_ipads",
-		"v": 39236,
+		"v": 40660,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "blocked"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "allowed"
 			}
 		]
