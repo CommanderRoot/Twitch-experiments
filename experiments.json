@@ -5246,12 +5246,12 @@
 	},
 	"1ddd76b1-708a-4f65-80e5-97c187ce73cf": {
 		"name": "ios_submerge_fiend",
-		"v": 40068,
+		"v": 40699,
 		"t": 2,
-		"s": 3,
+		"s": 4,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -5263,7 +5263,7 @@
 				"value": "active_22.3.3"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_22.7"
 			}
 		]
@@ -41967,12 +41967,12 @@
 	},
 	"e7ec6bc1-3ad4-4fd6-af08-51ae06d82d8a": {
 		"name": "android_filter_live_feed_by_follows",
-		"v": 40069,
+		"v": 40701,
 		"t": 2,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -41980,7 +41980,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "active_22.1"
 			}
 		]
