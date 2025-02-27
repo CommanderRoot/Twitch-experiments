@@ -2661,33 +2661,6 @@
 			}
 		]
 	},
-	"0eebac61-c0d2-4833-9199-d2b1ef223d55": {
-		"name": "android_ivs_broadcast_rtmp_write_scaling",
-		"v": 29652,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "1"
-			},
-			{
-				"weight": 20,
-				"value": "2"
-			},
-			{
-				"weight": 20,
-				"value": "4"
-			},
-			{
-				"weight": 20,
-				"value": "8"
-			},
-			{
-				"weight": 20,
-				"value": "0"
-			}
-		]
-	},
 	"0f1867f1-4e74-4394-828b-881d74561e18": {
 		"name": "android_clips_feed_ccl_obstruction",
 		"v": 40312,
@@ -11608,33 +11581,6 @@
 			{
 				"weight": 0,
 				"value": "final"
-			}
-		]
-	},
-	"422cafa6-dd35-46ae-a0da-26015164a274": {
-		"name": "ios_ivs_broadcast_rtmp_write_scaling",
-		"v": 29653,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 20,
-				"value": "1"
-			},
-			{
-				"weight": 20,
-				"value": "2"
-			},
-			{
-				"weight": 20,
-				"value": "4"
-			},
-			{
-				"weight": 20,
-				"value": "8"
-			},
-			{
-				"weight": 20,
-				"value": "0"
 			}
 		]
 	},
@@ -22080,21 +22026,6 @@
 			{
 				"weight": 100,
 				"value": "active_22.0"
-			}
-		]
-	},
-	"786fee02-59cd-4fff-afa0-4d936fa48578": {
-		"name": "ios_mb_low_latency_video_encoder",
-		"v": 24069,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 33,
-				"value": "active"
-			},
-			{
-				"weight": 67,
-				"value": "control"
 			}
 		]
 	},
