@@ -5943,21 +5943,6 @@
 			}
 		]
 	},
-	"21cff3a1-c757-4790-a3df-2d8634818af9": {
-		"name": "android_use_streamlined_pipeline_on_android_5_or_6",
-		"v": 40673,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "treatment"
-			}
-		]
-	},
 	"21eae6bf-b120-4cd0-a513-5612ea0fb51c": {
 		"name": "ps4_playercore",
 		"v": 1121,
