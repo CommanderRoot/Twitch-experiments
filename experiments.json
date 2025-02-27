@@ -38690,6 +38690,21 @@
 			}
 		]
 	},
+	"d5aced30-482d-44d3-9f83-8d3172b88246": {
+		"name": "ios_ads_sda_ia_bc",
+		"v": 40682,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v23.4"
+			}
+		]
+	},
 	"d5ceeac2-4734-46f3-a1a6-8edba1c6839c": {
 		"name": "android_raids_ads",
 		"v": 2774,
