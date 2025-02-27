@@ -26259,15 +26259,15 @@
 	},
 	"8f710085-dfb4-4698-bec3-44ff4a617059": {
 		"name": "android_ivs_rtx_multi_codec_answer",
-		"v": 40598,
+		"v": 40704,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
