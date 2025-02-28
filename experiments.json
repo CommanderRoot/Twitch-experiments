@@ -26259,15 +26259,15 @@
 	},
 	"8f710085-dfb4-4698-bec3-44ff4a617059": {
 		"name": "android_ivs_rtx_multi_codec_answer",
-		"v": 40704,
+		"v": 40722,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
@@ -45617,15 +45617,15 @@
 	},
 	"fc351dd5-52a4-475c-9a50-4a61be999d98": {
 		"name": "ios_ivs_rtx_multi_codec_answer",
-		"v": 40599,
+		"v": 40723,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
