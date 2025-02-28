@@ -41967,12 +41967,12 @@
 	},
 	"e7ec6bc1-3ad4-4fd6-af08-51ae06d82d8a": {
 		"name": "android_filter_live_feed_by_follows",
-		"v": 40701,
+		"v": 40705,
 		"t": 2,
 		"s": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
