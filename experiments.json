@@ -37446,6 +37446,21 @@
 			}
 		]
 	},
+	"ce2eacb9-3202-4237-bbe4-e01e86ceb47f": {
+		"name": "ios_mdf_clip_aspect_toggle",
+		"v": 40726,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"ce3431c7-ed9f-4479-a3fc-a8c63bcfddd2": {
 		"name": "android_unban_requests",
 		"v": 12211,
