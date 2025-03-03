@@ -45647,15 +45647,15 @@
 	},
 	"fc351dd5-52a4-475c-9a50-4a61be999d98": {
 		"name": "ios_ivs_rtx_multi_codec_answer",
-		"v": 40723,
+		"v": 40748,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
