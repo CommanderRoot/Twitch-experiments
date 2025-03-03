@@ -28217,7 +28217,7 @@
 	},
 	"99c4a20c-82da-46ef-9748-b3fedeb32b1f": {
 		"name": "android_clip_editing_portal_m2",
-		"v": 40657,
+		"v": 40750,
 		"t": 2,
 		"groups": [
 			{
@@ -28231,6 +28231,14 @@
 			{
 				"weight": 100,
 				"value": "active_23.3"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.5"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.5_no_inline_clip"
 			}
 		]
 	},
