@@ -12689,6 +12689,21 @@
 			}
 		]
 	},
+	"46c6a720-1023-4472-a05c-628b0b3d84d3": {
+		"name": "clips_leaderboard_rollout",
+		"v": 40759,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"46e725e9-90e2-4597-8ef9-441978ef1626": {
 		"name": "hose_control_governor",
 		"v": 4747,
