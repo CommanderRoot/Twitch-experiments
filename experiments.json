@@ -16456,6 +16456,21 @@
 			}
 		]
 	},
+	"5bb3c786-0adf-4fd4-b97f-babc411e9dde": {
+		"name": "ios_gql_send_message",
+		"v": 40825,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"5bbb7686-196f-40c3-b938-8b33cf6d4343": {
 		"name": "creator_anniversaries_left_nav",
 		"v": 18197,
