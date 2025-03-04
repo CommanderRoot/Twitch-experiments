@@ -32003,21 +32003,6 @@
 			}
 		]
 	},
-	"afef5cdf-92ed-4012-b9f6-a48e6b6485d8": {
-		"name": "ios_pay_d2mks",
-		"v": 40794,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_23.6"
-			}
-		]
-	},
 	"aff1f400-eaa5-49ee-95be-5c470491d2aa": {
 		"name": "android_ads_client_video_ads_refactor",
 		"v": 34901,
@@ -42189,7 +42174,7 @@
 	},
 	"e88f0da2-2f2a-4380-b2a7-193e3e60b39c": {
 		"name": "ios_subscribe_always_visible",
-		"v": 40601,
+		"v": 40805,
 		"t": 2,
 		"groups": [
 			{
@@ -43351,6 +43336,21 @@
 			{
 				"weight": 100,
 				"value": "MADS_ON"
+			}
+		]
+	},
+	"edf895af-c03a-4427-8d17-7f6d4198e596": {
+		"name": "ios_pay_d2mks",
+		"v": 40809,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_23.6"
 			}
 		]
 	},
