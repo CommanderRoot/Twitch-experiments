@@ -3376,6 +3376,21 @@
 			}
 		]
 	},
+	"12d66825-fa00-428e-8fd3-c73bb3d669a9": {
+		"name": "android_discovery_feed_video_orientation_toggle",
+		"v": 40822,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"12e7fead-63b0-47da-8086-cbe8d9e8dd56": {
 		"name": "dart_cold_d7emojisltest_vwr_533_dav_cmc_wch_mis_email_2110_email",
 		"v": 17353,
