@@ -4538,15 +4538,15 @@
 	},
 	"1967de37-21cc-4f6d-9317-40c40ff58bbe": {
 		"name": "android_ads_verifications_provider_refactor",
-		"v": 40832,
+		"v": 40838,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "active_23.4"
 			}
 		]
