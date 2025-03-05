@@ -34192,21 +34192,6 @@
 			}
 		]
 	},
-	"badcd397-9b84-490b-a979-e6476f4b1598": {
-		"name": "ios_pay_d2mro",
-		"v": 40744,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_23.6"
-			}
-		]
-	},
 	"bb0a266a-39a7-4b40-82c3-24ff8801b7eb": {
 		"name": "tvapps_androidtv_httpservice",
 		"v": 10174,
@@ -43371,15 +43356,15 @@
 	},
 	"edf895af-c03a-4427-8d17-7f6d4198e596": {
 		"name": "ios_pay_d2mks",
-		"v": 40809,
+		"v": 40841,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_23.6"
 			}
 		]
