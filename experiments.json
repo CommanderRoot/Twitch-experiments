@@ -11678,21 +11678,6 @@
 			}
 		]
 	},
-	"425a05d1-7384-4e6f-882e-42f105c46fce": {
-		"name": "android_abot_viewing",
-		"v": 37018,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
-			}
-		]
-	},
 	"4265bc60-17bd-4643-bfad-3b779a16bf25": {
 		"name": "dart_renderer_new_consumer_rollback",
 		"v": 16917,
