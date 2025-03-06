@@ -8516,8 +8516,9 @@
 	},
 	"30c5b478-0594-4346-a8d8-90a214a8d70a": {
 		"name": "ios_hermes_rollout_device_v5",
-		"v": 40789,
+		"v": 40910,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 0,
@@ -8528,11 +8529,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "blue"
 			},
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "green"
 			}
 		]
@@ -12770,7 +12771,7 @@
 	},
 	"4716732b-0c51-4470-8152-5e9443df788c": {
 		"name": "android_hermes_rollout_user_v2",
-		"v": 40777,
+		"v": 40901,
 		"t": 2,
 		"s": 5,
 		"groups": [
@@ -12779,11 +12780,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "green"
 			}
 		]
@@ -19687,9 +19688,9 @@
 	},
 	"6d12e515-7f92-4fc1-ab08-032b34bd76a3": {
 		"name": "ios_hermes_rollout_channel_v5",
-		"v": 40788,
+		"v": 40908,
 		"t": 3,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
 				"weight": 0,
@@ -19700,11 +19701,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "blue"
 			},
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "green"
 			}
 		]
@@ -24470,7 +24471,7 @@
 	},
 	"84f64c0e-e4df-4b67-ba82-689237c2e3ba": {
 		"name": "android_hermes_rollout_channel_v2",
-		"v": 40779,
+		"v": 40902,
 		"t": 3,
 		"s": 3,
 		"groups": [
@@ -24479,11 +24480,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "green"
 			}
 		]
@@ -37723,20 +37724,20 @@
 	},
 	"cf6b17b1-8bcf-43db-a1de-fd3e1bf7e05a": {
 		"name": "android_hermes_rollout_device_v2",
-		"v": 40781,
+		"v": 40904,
 		"t": 1,
-		"s": 5,
+		"s": 6,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "green"
 			}
 		]
@@ -37819,8 +37820,9 @@
 	},
 	"d0509e18-ab80-4753-b6cf-a159a313825b": {
 		"name": "ios_hermes_rollout_user_v5",
-		"v": 40786,
+		"v": 40906,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 0,
@@ -37831,11 +37833,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 1,
+				"weight": 25,
 				"value": "blue"
 			},
 			{
-				"weight": 99,
+				"weight": 75,
 				"value": "green"
 			}
 		]
