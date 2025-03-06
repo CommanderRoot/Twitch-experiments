@@ -14572,6 +14572,21 @@
 			}
 		]
 	},
+	"504f092f-19c0-476f-bcdc-58b89feba35e": {
+		"name": "android_joy_in_sharing",
+		"v": 40888,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"505329a0-55a7-46e5-bf82-c320029e1539": {
 		"name": "Video_Manager_V2",
 		"v": 1792,
