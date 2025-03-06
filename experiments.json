@@ -29668,6 +29668,21 @@
 			}
 		]
 	},
+	"a2215953-36dd-4e00-864d-2ea39b20e692": {
+		"name": "dart_hourly_welcomeemail1hourlyall_vwr_571_dav_cmc_wch_mis_email_212_holdout",
+		"v": 40912,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"a2303f76-3110-4ccf-93bd-74bd1dceed3b": {
 		"name": "tvapps_androidtv_legacy_recommendations",
 		"v": 10175,
