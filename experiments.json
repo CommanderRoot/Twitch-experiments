@@ -42480,6 +42480,21 @@
 			}
 		]
 	},
+	"e9929089-1dcf-4fc5-bcd8-8cca1b9dc584": {
+		"name": "android_feed_source",
+		"v": 40947,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.6"
+			}
+		]
+	},
 	"e992f057-f2c6-4ec0-9e02-60110dbed834": {
 		"name": "aperture_viewcount_jax",
 		"v": 6180,
