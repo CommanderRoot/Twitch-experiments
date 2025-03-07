@@ -13573,11 +13573,11 @@
 	},
 	"4b09ef13-eb62-4562-996c-4d1ab4b13d9c": {
 		"name": "ios_ads_headliner_v2",
-		"v": 40939,
+		"v": 40950,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -13585,7 +13585,7 @@
 				"value": "active_v23.0"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_v23.1"
 			}
 		]
@@ -40025,6 +40025,21 @@
 			}
 		]
 	},
+	"dc539436-2290-4a0f-b336-9f79b2c6efcc": {
+		"name": "ios_pay_d2m_acc",
+		"v": 40948,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "single_sub"
+			},
+			{
+				"weight": 0,
+				"value": "multi_sub"
+			}
+		]
+	},
 	"dc5a6b3b-b3f9-4121-8d92-062442604368": {
 		"name": "ios_swiftui_auto_scale_fonts",
 		"v": 40408,
@@ -44887,11 +44902,11 @@
 	},
 	"f7500aa2-428a-4f7d-b7de-a623acb748b4": {
 		"name": "android_ads_headliner_v2",
-		"v": 40938,
+		"v": 40951,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -44899,7 +44914,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "active_23.1"
 			}
 		]
