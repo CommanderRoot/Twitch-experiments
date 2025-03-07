@@ -13757,12 +13757,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 40862,
+		"v": 40923,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-2ba6f8.pdx01.abs.hls.ttvnw.net/v1/segment/CsMz-KWEoy7qZjcef3heUZhIFAVNUI1XzoQf4kNzQv78aG5zMgem_vKg2lScPDVXKLJgyECxbgQW3BQhoCMW1qDMzxSKrqvdWBHsdI9icHsejjauxt9L2MYdLJHUsEXNkGWt53pn35Bh_IvP6Dl_5vuJKjlZSs99l0xvnchQMOsuYOWE-1vNLM400FlbVWXbsJXRbGfV9z6oBJeKufJRB2slkkYfZirvX-TisA3vZdYvNLgIN7qROjUFIsV5wIWoPQmLgIb-alfkNm91KTd0PTXaLnBcesizwdFx9qm2om_kKSgrslxpXofpUbh_H1RMuB-uzbJVhhzWyH4p_PxjPO5kaMDpx46n85O4QfitYideUq2W-PPg0B-qp6JtfnhlNYk_ESEuz1akvluDNEwE9MrlQEWGnPlJ1d621uHOhp30hyj-G9THUAXvgEIWhl1xwDbgk3FcAMRLsSmj7mRpu68c44kLCLT7W4kh7g7W-FoN6RWRoAy1Xg1RdXlFC1n7mZ0sWWmQajgpUfktMvjJ4ntIsEes6ZKmZ8v9sZ2cIFiNQf__a9P-ml1vqXtxu6Rpyovh4aQu1qtObRZgP8ZjrcFEhLPAsnzz3fxoNJ2WdmBRXbnZWIWbNkkCO29PJBjECCfozGwhKefNB78svHCbms5w3X5J1O2MgtU4oDOrbifppD3pe7ggH3vla0brF_BYueM1vtjEkLtqpeZ_PT3o9Va8J99i51Ut9JSjk11uKH_rkEh1LWEbyoS31ufeaXbPiDo.ts"
+				"value": "//video-edge-090fb5.pdx01.abs.hls.ttvnw.net/v1/segment/CqQKX7I2UU_PuZTUoL2z_JajjJzyUqV65iymsVZdcOLOLn8ED83L_m3I-cQcnuy8gA9zOe9mgh0eo97nl22BA971cTJjePn9eK52hH5VwNnLkowkZ9BbQA3vSQg8ebi_sOwgFmyTCMEQSNZbsiQEUPgRwJMbwoFkwddZdeYs4LEGBaHE4h060qSM88SfOP_LK9lgqlIQxN1kUWPkCAl0V6Yyg4ouyX_LNMyhL7Q-kbkZ2KVO_dq8S_R5D9urMgDGNDfGWi6zhcwez3ogBjOct8MIdnNOS3ArplClcQkycne4AokiKN8Gc6U0A_EYT5DJaxcWT43KEJsfDIRQE9w0IsBGD7aQbApjW4AYzcMGKmAR-ii8v2YW6k80bDTZmqBvLs6IT-f7a94vSH6-y0ULI9o7bOPahXqI1PqhwtmxRPi5zGC3W2-2KjTyhwI3JxcAQveZsINNHA4imwYnnoHInP_tOSvR0y5LdIdDxdn4qIPMrQ6JYET9vmH-0cK-eVl4YDyC6qffkFiHEbX9Nu6-DKzTCIwcbiCto10CPnQFdJ6HP7_EYRTtcsoSbd9uLHHRHWEwjeIfAerfrHDxDbx9Eo686BMWTBmHvK1hthgveIEdZsWjaVV7_gql6EP3ILggP4CfpaVnkc4GClj6dBZh2l8X3-K8L_urCbApFUexIVkz466-39s28us17Xvv_AaXn4jE4atEpGdiQT0VhlXS2ygCmPmv_oh60fct6VpspV3eZAUjHk2OESRdDEPlJ4_.ts"
 			}
 		]
 	},
@@ -29665,21 +29665,6 @@
 			{
 				"weight": 0,
 				"value": "active_15.0"
-			}
-		]
-	},
-	"a2215953-36dd-4e00-864d-2ea39b20e692": {
-		"name": "dart_hourly_welcomeemail1hourlyall_vwr_571_dav_cmc_wch_mis_email_212_holdout",
-		"v": 40912,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 5,
-				"value": "holdout"
-			},
-			{
-				"weight": 95,
-				"value": "allowed"
 			}
 		]
 	},
