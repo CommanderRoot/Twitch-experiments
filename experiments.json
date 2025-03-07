@@ -14032,15 +14032,15 @@
 	},
 	"4d2f1335-f156-4397-824d-df288b2ba0dd": {
 		"name": "ios_ads_lt_ff",
-		"v": 40597,
+		"v": 40958,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "active_v23.4"
 			}
 		]
