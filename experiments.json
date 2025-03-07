@@ -13573,11 +13573,11 @@
 	},
 	"4b09ef13-eb62-4562-996c-4d1ab4b13d9c": {
 		"name": "ios_ads_headliner_v2",
-		"v": 40065,
+		"v": 40939,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -13585,7 +13585,7 @@
 				"value": "active_v23.0"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v23.1"
 			}
 		]
@@ -44857,11 +44857,11 @@
 	},
 	"f7500aa2-428a-4f7d-b7de-a623acb748b4": {
 		"name": "android_ads_headliner_v2",
-		"v": 40012,
+		"v": 40938,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -44869,7 +44869,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_23.1"
 			}
 		]
