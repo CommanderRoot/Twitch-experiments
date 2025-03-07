@@ -8538,6 +8538,29 @@
 			}
 		]
 	},
+	"30ee3fc0-0f4f-437c-8b3a-a79fc4873aa2": {
+		"name": "ios_hermes_rollout_user_v6",
+		"v": 40932,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 25,
+				"value": "blue"
+			},
+			{
+				"weight": 75,
+				"value": "green"
+			}
+		]
+	},
 	"30ee5779-391a-460b-ab39-a64c2c869d29": {
 		"name": "dart_twitchtogetherforgood_streamersov30_holdout",
 		"v": 31427,
@@ -16329,6 +16352,29 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"5ad38108-f0df-4a91-88bd-5bd63e81feab": {
+		"name": "ios_hermes_rollout_device_v6",
+		"v": 40933,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 25,
+				"value": "blue"
+			},
+			{
+				"weight": 75,
+				"value": "green"
 			}
 		]
 	},
@@ -42205,6 +42251,29 @@
 			{
 				"weight": 90,
 				"value": "allowed"
+			}
+		]
+	},
+	"e8a7851e-173b-44e0-8648-7e35a05c6da2": {
+		"name": "ios_hermes_rollout_channel_v6",
+		"v": 40934,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 25,
+				"value": "blue"
+			},
+			{
+				"weight": 75,
+				"value": "green"
 			}
 		]
 	},
