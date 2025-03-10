@@ -3312,6 +3312,17 @@
 			}
 		]
 	},
+	"124d4641-2a0c-4cd6-acb9-583911a63c71": {
+		"name": "rpr_cache",
+		"v": 41045,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"1275752f-6cbb-4ff3-8dd8-fa190e469faf": {
 		"name": "tvapps_global_qr_login",
 		"v": 13164,
@@ -8501,9 +8512,9 @@
 	},
 	"30c5b478-0594-4346-a8d8-90a214a8d70a": {
 		"name": "ios_hermes_rollout_device_v5",
-		"v": 40910,
+		"v": 41032,
 		"t": 1,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
 				"weight": 0,
@@ -8514,11 +8525,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "green"
 			}
 		]
@@ -9150,6 +9161,33 @@
 			{
 				"weight": 50,
 				"value": "allowed"
+			}
+		]
+	},
+	"33ce4ad7-0991-4e95-9536-7daa6d1f0052": {
+		"name": "dart_top_rec_from_most_clicked_category_push",
+		"v": 41037,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
 			}
 		]
 	},
@@ -12779,20 +12817,20 @@
 	},
 	"4716732b-0c51-4470-8152-5e9443df788c": {
 		"name": "android_hermes_rollout_user_v2",
-		"v": 40901,
+		"v": 41022,
 		"t": 2,
-		"s": 5,
+		"s": 6,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "blue"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "green"
 			}
 		]
@@ -13098,6 +13136,37 @@
 			{
 				"weight": 100,
 				"value": "active_21.8"
+			}
+		]
+	},
+	"48b7579e-69b4-483b-9799-e076dd7796c0": {
+		"name": "dart_top_trending_stream_push",
+		"v": 41035,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 17,
+				"value": "Variant A"
+			},
+			{
+				"weight": 17,
+				"value": "Variant B"
+			},
+			{
+				"weight": 17,
+				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 16,
+				"value": "Variant E"
+			},
+			{
+				"weight": 16,
+				"value": "Variant F"
 			}
 		]
 	},
@@ -13573,11 +13642,11 @@
 	},
 	"4b09ef13-eb62-4562-996c-4d1ab4b13d9c": {
 		"name": "ios_ads_headliner_v2",
-		"v": 40960,
+		"v": 41043,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -13585,7 +13654,7 @@
 				"value": "active_v23.0"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_v23.1"
 			}
 		]
@@ -19719,9 +19788,9 @@
 	},
 	"6d12e515-7f92-4fc1-ab08-032b34bd76a3": {
 		"name": "ios_hermes_rollout_channel_v5",
-		"v": 40908,
+		"v": 41030,
 		"t": 3,
-		"s": 2,
+		"s": 3,
 		"groups": [
 			{
 				"weight": 0,
@@ -19732,11 +19801,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "green"
 			}
 		]
@@ -24517,20 +24586,20 @@
 	},
 	"84f64c0e-e4df-4b67-ba82-689237c2e3ba": {
 		"name": "android_hermes_rollout_channel_v2",
-		"v": 40902,
+		"v": 41024,
 		"t": 3,
-		"s": 3,
+		"s": 4,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "blue"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "green"
 			}
 		]
@@ -25729,6 +25798,37 @@
 			}
 		]
 	},
+	"8c5c0385-fd84-422d-9e0c-5bfc8a39d015": {
+		"name": "dart_similar_to_most_clicked_channel_push",
+		"v": 41038,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "Variant A"
+			},
+			{
+				"weight": 17,
+				"value": "Variant B"
+			},
+			{
+				"weight": 17,
+				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 17,
+				"value": "Variant E"
+			},
+			{
+				"weight": 17,
+				"value": "Variant F"
+			}
+		]
+	},
 	"8c643580-3484-41fc-9649-94f0ed16dc75": {
 		"name": "dart_apac_jpn_fightinggame_vwr_0_dav_trn_wch_gmg_email_2303_holdout",
 		"v": 26967,
@@ -26895,6 +26995,33 @@
 			{
 				"weight": 100,
 				"value": "active_20.3"
+			}
+		]
+	},
+	"924cfbe8-68a2-40ce-bac5-209be7e6b1e1": {
+		"name": "dart_top_rec_new_category_30d_push",
+		"v": 41042,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
 			}
 		]
 	},
@@ -34518,6 +34645,37 @@
 			}
 		]
 	},
+	"bc72d2c5-a281-44e0-a63f-10847f766a35": {
+		"name": "dart_recs_top_recommended_channel_push",
+		"v": 41041,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "Variant A"
+			},
+			{
+				"weight": 17,
+				"value": "Variant B"
+			},
+			{
+				"weight": 17,
+				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 17,
+				"value": "Variant E"
+			},
+			{
+				"weight": 17,
+				"value": "Variant F"
+			}
+		]
+	},
 	"bc98580e-1007-4fed-85fe-b271d63a05f5": {
 		"name": "android_live_theatre_refactor_global",
 		"v": 25060,
@@ -37618,6 +37776,37 @@
 			}
 		]
 	},
+	"ce598409-d1dd-47f9-b13f-97e8f57e3d87": {
+		"name": "dart_recs_sorted_watched_items_push",
+		"v": 41040,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "Variant A"
+			},
+			{
+				"weight": 17,
+				"value": "Variant B"
+			},
+			{
+				"weight": 17,
+				"value": "Variant C"
+			},
+			{
+				"weight": 17,
+				"value": "Variant D"
+			},
+			{
+				"weight": 17,
+				"value": "Variant E"
+			},
+			{
+				"weight": 17,
+				"value": "Variant F"
+			}
+		]
+	},
 	"ce62423f-4298-4448-bd1c-5421d96f65d6": {
 		"name": "ios_dashboard",
 		"v": 2544,
@@ -37770,20 +37959,20 @@
 	},
 	"cf6b17b1-8bcf-43db-a1de-fd3e1bf7e05a": {
 		"name": "android_hermes_rollout_device_v2",
-		"v": 40904,
+		"v": 41026,
 		"t": 1,
-		"s": 6,
+		"s": 7,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "blue"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "green"
 			}
 		]
@@ -37866,9 +38055,9 @@
 	},
 	"d0509e18-ab80-4753-b6cf-a159a313825b": {
 		"name": "ios_hermes_rollout_user_v5",
-		"v": 40906,
+		"v": 41028,
 		"t": 2,
-		"s": 1,
+		"s": 2,
 		"groups": [
 			{
 				"weight": 0,
@@ -37879,11 +38068,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "green"
 			}
 		]
@@ -44465,6 +44654,33 @@
 			}
 		]
 	},
+	"f4e9ecab-2d30-457a-9724-05ca40c4fe8a": {
+		"name": "dart_recs_top_mw_category_top_rec_push",
+		"v": 41039,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
+			}
+		]
+	},
 	"f4fedd36-6a4d-460d-828c-b64d3cd09dd5": {
 		"name": "dart_summer_of_rewards_tanks_090324_holdout",
 		"v": 36705,
@@ -44651,6 +44867,33 @@
 			{
 				"weight": 0,
 				"value": "no"
+			}
+		]
+	},
+	"f61dd4ca-e4ae-4afd-9f58-287a984937cd": {
+		"name": "dart_top_rec_new_category_90d_push",
+		"v": 41036,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "Variant A"
+			},
+			{
+				"weight": 20,
+				"value": "Variant B"
+			},
+			{
+				"weight": 20,
+				"value": "Variant C"
+			},
+			{
+				"weight": 20,
+				"value": "Variant D"
+			},
+			{
+				"weight": 20,
+				"value": "Variant E"
 			}
 		]
 	},
@@ -44902,11 +45145,11 @@
 	},
 	"f7500aa2-428a-4f7d-b7de-a623acb748b4": {
 		"name": "android_ads_headliner_v2",
-		"v": 40959,
+		"v": 41044,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -44914,7 +45157,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_23.1"
 			}
 		]
