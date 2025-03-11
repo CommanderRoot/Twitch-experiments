@@ -40253,19 +40253,19 @@
 	},
 	"dc83a207-5c45-4fc8-a1ad-0020b40ecade": {
 		"name": "android_ivs_player_analytics_send_twitch_events",
-		"v": 39731,
+		"v": 41056,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "AA"
 			},
 			{
-				"weight": 0,
+				"weight": 98,
 				"value": "holdback"
 			},
 			{
