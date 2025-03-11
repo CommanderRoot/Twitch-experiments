@@ -4549,15 +4549,15 @@
 	},
 	"1967de37-21cc-4f6d-9317-40c40ff58bbe": {
 		"name": "android_ads_verifications_provider_refactor",
-		"v": 40922,
+		"v": 41066,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_23.4"
 			}
 		]
@@ -7258,15 +7258,15 @@
 	},
 	"29d9e5f5-33a4-42a2-bb50-2c463f067ca3": {
 		"name": "android_clips_player_asset_toggle",
-		"v": 39651,
+		"v": 41067,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_22.9"
 			}
 		]
@@ -10460,11 +10460,11 @@
 	},
 	"3af4a1d1-2dff-46e1-8158-8f55a25b8111": {
 		"name": "android_clips_player_landscape_support",
-		"v": 40543,
+		"v": 41068,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -10472,7 +10472,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_23.5"
 			}
 		]
@@ -38466,15 +38466,15 @@
 	},
 	"d2520147-176a-4b47-8dea-c4c809781ed7": {
 		"name": "android_ivs_rtx_prefer_main_profile",
-		"v": 38387,
+		"v": 41069,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
