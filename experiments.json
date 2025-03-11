@@ -28455,7 +28455,7 @@
 	},
 	"99c4a20c-82da-46ef-9748-b3fedeb32b1f": {
 		"name": "android_clip_editing_portal_m2",
-		"v": 40750,
+		"v": 41061,
 		"t": 2,
 		"groups": [
 			{
@@ -28467,11 +28467,11 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_23.3"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_23.5"
 			},
 			{
@@ -43193,15 +43193,15 @@
 	},
 	"ebcdfc04-97c2-4d08-9742-53386ce000c5": {
 		"name": "android_clip_editing_portal_tablets",
-		"v": 40756,
+		"v": 41062,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_23.5"
 			}
 		]
