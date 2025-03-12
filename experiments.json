@@ -21769,15 +21769,15 @@
 	},
 	"7640a2b1-31e7-4f29-bbc4-41d2c9550405": {
 		"name": "ios_clip_player_device_rotation",
-		"v": 40062,
+		"v": 41089,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
