@@ -2326,6 +2326,21 @@
 			}
 		]
 	},
+	"0cd054f9-e643-4bd1-9da0-843aac9b66f5": {
+		"name": "android_st_irl_shared_chat",
+		"v": 41091,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"0cd8095b-1c8b-40e0-a127-5461de86b631": {
 		"name": "ios_riddle_legacy",
 		"v": 18104,
