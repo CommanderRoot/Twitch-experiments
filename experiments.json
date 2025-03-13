@@ -13672,7 +13672,7 @@
 	},
 	"4b09ef13-eb62-4562-996c-4d1ab4b13d9c": {
 		"name": "ios_ads_headliner_v2",
-		"v": 41043,
+		"v": 41105,
 		"t": 2,
 		"groups": [
 			{
@@ -13686,6 +13686,10 @@
 			{
 				"weight": 50,
 				"value": "active_v23.1"
+			},
+			{
+				"weight": 0,
+				"value": "active_v23.6"
 			}
 		]
 	},
@@ -37755,7 +37759,7 @@
 	},
 	"ce2eacb9-3202-4237-bbe4-e01e86ceb47f": {
 		"name": "ios_mdf_clip_aspect_toggle",
-		"v": 40726,
+		"v": 41106,
 		"t": 2,
 		"groups": [
 			{
@@ -37765,6 +37769,10 @@
 			{
 				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.7"
 			}
 		]
 	},
