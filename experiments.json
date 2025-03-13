@@ -19576,15 +19576,15 @@
 	},
 	"6bfa5969-6b5d-4d0b-987a-717fd46ce4b2": {
 		"name": "ios_small_bits_sku_50",
-		"v": 40298,
+		"v": 41126,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "disabled"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "enabled"
 			},
 			{
