@@ -38496,15 +38496,15 @@
 	},
 	"d2520147-176a-4b47-8dea-c4c809781ed7": {
 		"name": "android_ivs_rtx_prefer_main_profile",
-		"v": 41069,
+		"v": 41104,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
