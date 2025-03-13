@@ -3404,7 +3404,7 @@
 	},
 	"12d66825-fa00-428e-8fd3-c73bb3d669a9": {
 		"name": "android_discovery_feed_video_orientation_toggle",
-		"v": 40822,
+		"v": 41139,
 		"t": 1,
 		"groups": [
 			{
@@ -3414,6 +3414,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.7"
 			}
 		]
 	},
