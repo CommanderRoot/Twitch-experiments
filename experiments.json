@@ -2198,6 +2198,21 @@
 			}
 		]
 	},
+	"0be15dac-7eae-445d-bf41-fe7b7effe95e": {
+		"name": "dart_winterdropsfollowuptest_holdout",
+		"v": 41167,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"0bf3975d-a3dd-4f36-800f-0089b2ce279a": {
 		"name": "android_chomments",
 		"v": 1729,
