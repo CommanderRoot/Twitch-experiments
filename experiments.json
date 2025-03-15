@@ -13906,12 +13906,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 41142,
+		"v": 41168,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-009c70.pdx01.abs.hls.ttvnw.net/v1/segment/Chc6NEKxa_cFll1Q-cs-sc56xX1_lpCigt-3kyvg9ueNT47kXU3jnhMrb_QvVt5QKC5e79sQiJ5cgcuiBjKS7ypw3Z1gh2KTwkj7Cnwfasv8fVLtm6Zz8-BJo3N0farEsRKvuuC43vDESSiCFNcWL53KDpAkQfmKxSXqpD-_s1fKxzHjDGlRTt6PCeAZH1F7QEYewvMCvfgao1CFLpuQAwIrdczIvpLzkYz8JwhVop-YAjAt3y1v6-Fe2Eck5C2PbtV0nx3RSiMwGXTXqbetO_w3D59c51SRAqDyeaQGJgQ6DwGE04YYx25Rzdtd9rWNqaT_ZEkAjYe5gf35uPOY2QdWQMY3s7fHRy8Y4aqpRM4p0ab98_kzUZTlqYr_Py_jn8_N2420robrvDXVgehxoRdo2B-jUgncFD6W6lcpdtkxluHU7ZPe094abQUrBB9QoMmwbaYLnaxPAAXlwCGHU5_dw3ld8LfO8TUByzCgspZtoZuicc72eGO9vt9wJXa0iNx3ipio0uxj6a2ORPlBejdWqNXGnXvStkXIP1X30iDd75C2x7i6zpq_D_lsDpBU44PmM7vBxO76rtVQSWdVPHBgwAKEZeHOyrtJAM5HdiR0POdSNA9YZHzFZOPuwyL0oIcPSOZpv-xQPtCHmUNO30pkL9SbswuVPn7BLMzH9W84aa9-gcivDqX2W7ni8z-WLqx_q1Wqx9fgG_4q6BM4mM2R7_sLiRCYpKAWKU0qJUoBHNuLBogcwLbSWtcGh8kxgX5MRLLZ.ts"
+				"value": "//video-edge-de3924.pdx01.abs.hls.ttvnw.net/v1/segment/Cm8hHdkDUhYdLekscPIjYHuaMSG2h_BcnVREt88Whp3nsmDrTrp7R5RpnZDKqjGdSRtaWsrXVa1r8Nws5CCbfkLFydOueQBurdWk5y8zTFWqd3AhQTJETiiX2Dngtz1Eummk3kDhcuhucCYqQUWCkRe9DlSVaRzbTjis0NL77cwm4C9ot2qm9nMUiJNcUGwPHsXBe6PBflkiPP4rLQPWK9e5jHfianK8FuDN3-qHxXn-s1pdlDwKQT_VhQ2RuCqu2InHb73ML35kA4zgA98yUrVtqarwJdCmDMbW-6C8hq3dLTknG5tfRWHQqRl58Gqmotki9IJEHHnIhdBPpfxROAUxRZc43bUUwEcEerocRFA29HoaERBXkc9obuCTVe4nwzFpdn_24-xfGeZ_tNnQAzB5Kmq7pBcTDeC9sdHn8iH2yVg2BhtIy-ff-pa_kSkJS3wlQ6WWXTWFP6UK9vdG3ScMmLuC_LSnfWPZ4zr9Z_PDsiHfim9nw2r1bHFjaLIFW-3AoCOndRYAJtQonDcdKLvveLV-fqQXwVirzS1Zi7Cbn_prMFtYFtEmgK9DN1YI_LubLeR8ByoO8XKv73U7CyKl4f1hG84gf6bIidbv645pk80J1e_ls7G1UbN98isva8lgfs2cyq9v4jvpC30u3uVWDet3Zsfbvad4D0S7l2QyjVU_jI4FUscDdipfhPnjZmm5nClKLXZ4qREXOlfXQb-Bvccz6ItAdpY7poCVLSTp8uNTt7kVxKtaF8wGihEIrUeV.ts"
 			}
 		]
 	},
@@ -35790,6 +35790,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"c3d2940a-6add-4df3-a6b4-3fe443489882": {
+		"name": "ios_ads_cspon_video_token_refresh",
+		"v": 41172,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v23.8"
 			}
 		]
 	},
