@@ -13710,11 +13710,11 @@
 	},
 	"4b09ef13-eb62-4562-996c-4d1ab4b13d9c": {
 		"name": "ios_ads_headliner_v2",
-		"v": 41197,
+		"v": 41199,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -13726,7 +13726,7 @@
 				"value": "active_v23.1"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_v23.6"
 			}
 		]
