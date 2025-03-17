@@ -46859,7 +46859,7 @@
 	},
 	"ff286229-83f1-4456-92d7-942f377f1723": {
 		"name": "android_logout_experience",
-		"v": 37945,
+		"v": 41209,
 		"t": 1,
 		"groups": [
 			{
@@ -46868,7 +46868,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "skip_in_login_screen_development"
+			},
+			{
+				"weight": 0,
+				"value": "direct_home_screen_development"
 			}
 		]
 	},
