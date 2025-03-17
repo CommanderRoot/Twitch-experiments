@@ -8529,6 +8529,21 @@
 			}
 		]
 	},
+	"30725fbe-0fd7-4ebe-ac83-05af2d583a69": {
+		"name": "android_chat_replies_sending",
+		"v": 41198,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"309e5547-b509-400d-bd26-30c8cbec317b": {
 		"name": "ios_automod_queue",
 		"v": 26700,
@@ -13695,11 +13710,11 @@
 	},
 	"4b09ef13-eb62-4562-996c-4d1ab4b13d9c": {
 		"name": "ios_ads_headliner_v2",
-		"v": 41105,
+		"v": 41197,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "control"
 			},
 			{
@@ -13707,11 +13722,11 @@
 				"value": "active_v23.0"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_v23.1"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_v23.6"
 			}
 		]
