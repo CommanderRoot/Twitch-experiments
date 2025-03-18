@@ -43793,15 +43793,15 @@
 	},
 	"edf895af-c03a-4427-8d17-7f6d4198e596": {
 		"name": "ios_pay_d2mks",
-		"v": 41228,
+		"v": 41233,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_23.6"
 			}
 		]
