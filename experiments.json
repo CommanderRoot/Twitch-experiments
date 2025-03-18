@@ -2381,15 +2381,15 @@
 	},
 	"0d161cac-cdf2-4737-ad82-b0fc49776978": {
 		"name": "ios_pay_d2m",
-		"v": 40745,
+		"v": 41224,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_23.6"
 			}
 		]
