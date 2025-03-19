@@ -27931,6 +27931,21 @@
 			}
 		]
 	},
+	"970562b4-af0b-49fb-aaf3-d16572a706d4": {
+		"name": "dart_first_time_creator_day_7_092724_email",
+		"v": 41247,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"972d3986-543b-4e75-b690-ddcc73073510": {
 		"name": "ios_ad_pbyp",
 		"v": 34287,
@@ -30235,15 +30250,15 @@
 	},
 	"a4a3a33e-c1b6-4a69-9059-10668e18f6bf": {
 		"name": "dart_first_time_creator_day_7_092724_holdout",
-		"v": 38842,
+		"v": 41246,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 1,
 				"value": "holdout"
 			},
 			{
-				"weight": 50,
+				"weight": 99,
 				"value": "allowed"
 			}
 		]
@@ -46894,7 +46909,7 @@
 	},
 	"ff286229-83f1-4456-92d7-942f377f1723": {
 		"name": "android_logged_out",
-		"v": 41244,
+		"v": 41248,
 		"t": 1,
 		"groups": [
 			{
@@ -46907,7 +46922,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "direct_home_screen_development"
+				"value": "no_login_wall_development"
 			}
 		]
 	},
