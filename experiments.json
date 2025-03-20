@@ -8561,7 +8561,7 @@
 	},
 	"30c5b478-0594-4346-a8d8-90a214a8d70a": {
 		"name": "ios_hermes_rollout_device_v5",
-		"v": 41300,
+		"v": 41311,
 		"t": 1,
 		"s": 4,
 		"groups": [
@@ -8574,11 +8574,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -8600,7 +8600,7 @@
 	},
 	"30ee3fc0-0f4f-437c-8b3a-a79fc4873aa2": {
 		"name": "ios_hermes_rollout_user_v6",
-		"v": 41304,
+		"v": 41308,
 		"t": 2,
 		"s": 1,
 		"groups": [
@@ -8613,11 +8613,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -16499,7 +16499,7 @@
 	},
 	"5ad38108-f0df-4a91-88bd-5bd63e81feab": {
 		"name": "ios_hermes_rollout_device_v6",
-		"v": 41302,
+		"v": 41312,
 		"t": 1,
 		"s": 1,
 		"groups": [
@@ -16512,11 +16512,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -19877,7 +19877,7 @@
 	},
 	"6d12e515-7f92-4fc1-ab08-032b34bd76a3": {
 		"name": "ios_hermes_rollout_channel_v5",
-		"v": 41298,
+		"v": 41309,
 		"t": 3,
 		"s": 5,
 		"groups": [
@@ -19890,11 +19890,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -38264,7 +38264,7 @@
 	},
 	"d0509e18-ab80-4753-b6cf-a159a313825b": {
 		"name": "ios_hermes_rollout_user_v5",
-		"v": 41296,
+		"v": 41307,
 		"t": 2,
 		"s": 4,
 		"groups": [
@@ -38277,11 +38277,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -42684,7 +42684,7 @@
 	},
 	"e8a7851e-173b-44e0-8648-7e35a05c6da2": {
 		"name": "ios_hermes_rollout_channel_v6",
-		"v": 41306,
+		"v": 41310,
 		"t": 3,
 		"s": 1,
 		"groups": [
@@ -42697,11 +42697,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "green"
 			}
 		]
