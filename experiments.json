@@ -42648,19 +42648,19 @@
 	},
 	"e88f0da2-2f2a-4380-b2a7-193e3e60b39c": {
 		"name": "ios_subscribe_always_visible",
-		"v": 40836,
+		"v": 41282,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 34,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "treatmentA_23.6"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "treatmentB_23.6"
 			}
 		]
