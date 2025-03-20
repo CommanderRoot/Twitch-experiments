@@ -8604,7 +8604,7 @@
 	},
 	"30ee3fc0-0f4f-437c-8b3a-a79fc4873aa2": {
 		"name": "ios_hermes_rollout_user_v6",
-		"v": 41314,
+		"v": 41322,
 		"t": 2,
 		"s": 2,
 		"groups": [
@@ -8617,11 +8617,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -16503,7 +16503,7 @@
 	},
 	"5ad38108-f0df-4a91-88bd-5bd63e81feab": {
 		"name": "ios_hermes_rollout_device_v6",
-		"v": 41318,
+		"v": 41321,
 		"t": 1,
 		"s": 2,
 		"groups": [
