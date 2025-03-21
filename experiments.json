@@ -3344,15 +3344,16 @@
 	},
 	"124d4641-2a0c-4cd6-acb9-583911a63c71": {
 		"name": "rpr_cache",
-		"v": 41334,
+		"v": 41341,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -8604,9 +8605,9 @@
 	},
 	"30ee3fc0-0f4f-437c-8b3a-a79fc4873aa2": {
 		"name": "ios_hermes_rollout_user_v6",
-		"v": 41325,
+		"v": 41339,
 		"t": 2,
-		"s": 3,
+		"s": 4,
 		"groups": [
 			{
 				"weight": 0,
@@ -8617,11 +8618,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 95,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 5,
 				"value": "green"
 			}
 		]
