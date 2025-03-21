@@ -3344,15 +3344,15 @@
 	},
 	"124d4641-2a0c-4cd6-acb9-583911a63c71": {
 		"name": "rpr_cache",
-		"v": 41319,
+		"v": 41334,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
@@ -42654,7 +42654,7 @@
 	},
 	"e88f0da2-2f2a-4380-b2a7-193e3e60b39c": {
 		"name": "ios_subscribe_always_visible",
-		"v": 41333,
+		"v": 41335,
 		"t": 2,
 		"groups": [
 			{
@@ -42663,11 +42663,11 @@
 			},
 			{
 				"weight": 33,
-				"value": "treatmentA_23.7"
+				"value": "treatmentA_23.6"
 			},
 			{
 				"weight": 33,
-				"value": "treatmentB_23.7"
+				"value": "treatmentB_23.6"
 			}
 		]
 	},
