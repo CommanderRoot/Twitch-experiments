@@ -29084,37 +29084,6 @@
 			}
 		]
 	},
-	"9d604fb8-ae3c-44cd-8867-6c9d3fb240a5": {
-		"name": "ios_ivs_initial_buffer_duration",
-		"v": 22455,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "1.0"
-			},
-			{
-				"weight": 0,
-				"value": "2.0"
-			},
-			{
-				"weight": 0,
-				"value": "3.0"
-			},
-			{
-				"weight": 0,
-				"value": "4.0"
-			},
-			{
-				"weight": 0,
-				"value": "5.0"
-			}
-		]
-	},
 	"9d7b5e6a-4463-40a8-9594-efb482fac441": {
 		"name": "dart_new_client_verification_email",
 		"v": 15722,
@@ -33987,25 +33956,6 @@
 			}
 		]
 	},
-	"b8b7cac6-956d-4819-8d35-9ae57aa5f0ce": {
-		"name": "mobile_native_web_player_hevc",
-		"v": 31901,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "treatment"
-			},
-			{
-				"weight": 0,
-				"value": "forceOn"
-			}
-		]
-	},
 	"b8bf8d76-fcff-4f14-93bd-0082503d669b": {
 		"name": "ios_squeeze_back_display_ads",
 		"v": 15954,
@@ -38326,25 +38276,6 @@
 			{
 				"weight": 0,
 				"value": "active_disable_animations"
-			}
-		]
-	},
-	"d16629fa-a0bf-4a2a-b490-c1f92af05009": {
-		"name": "mobile_native_web_player_av1",
-		"v": 31903,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "treatment"
-			},
-			{
-				"weight": 0,
-				"value": "forceOn"
 			}
 		]
 	},
