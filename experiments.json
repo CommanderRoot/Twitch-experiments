@@ -12032,21 +12032,6 @@
 			}
 		]
 	},
-	"436710f5-acc0-40a8-9069-12c63b336220": {
-		"name": "android_ivs_player_abr_recovery_v1",
-		"v": 34918,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"436cdf89-9954-4ab1-9d7a-99e7acaf7aec": {
 		"name": "android_st_shared_viewership",
 		"v": 39116,
@@ -35056,17 +35041,6 @@
 			{
 				"weight": 90,
 				"value": "allowed"
-			}
-		]
-	},
-	"be7d3de2-efe2-439d-8613-efe9f1cb1ef2": {
-		"name": "ios_ivs_player_abr_recovery_v1",
-		"v": 35009,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
 			}
 		]
 	},
