@@ -23261,6 +23261,21 @@
 			}
 		]
 	},
+	"7db64626-bd92-4a32-b13c-f221a5eacc29": {
+		"name": "android_disable_fragment_transition_animations",
+		"v": 41389,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"7de7ecda-d28c-44cc-bc13-6f5a0859b7f4": {
 		"name": "android_leaderboards_v3",
 		"v": 16855,
