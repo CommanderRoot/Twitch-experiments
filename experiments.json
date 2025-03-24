@@ -12453,21 +12453,6 @@
 			}
 		]
 	},
-	"4521b9c2-1e07-452e-9f54-13b9c471ecc9": {
-		"name": "ios_ivs_player_msr",
-		"v": 30132,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
-			}
-		]
-	},
 	"4524eda3-ae03-4a4d-a821-a65a83ef7687": {
 		"name": "TWILIGHT_AAX_DISPLAY_CATCH_ALL",
 		"v": 38092,
@@ -31805,21 +31790,6 @@
 			}
 		]
 	},
-	"ad5fea02-829c-4446-8318-77aa0238aaf5": {
-		"name": "ios_ivs_player_analytics",
-		"v": 32655,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"adab28aa-344c-4fef-8069-b092f924976d": {
 		"name": "follows_fulton_graphdb",
 		"v": 13382,
@@ -41007,21 +40977,6 @@
 			}
 		]
 	},
-	"df9d5a63-1e48-47b8-80ec-db48a6d818d1": {
-		"name": "ios_ivs_player_seek_mediatime_fix",
-		"v": 25867,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"dfb2ca58-0500-4b4f-9407-790fdb463fe0": {
 		"name": "dart_apac_anz_dreamhackrivals_vwr_0_dav_trn_wch_gmg_email_2209_holdout",
 		"v": 23927,
@@ -43271,21 +43226,6 @@
 			{
 				"weight": 0,
 				"value": "watch_chat"
-			}
-		]
-	},
-	"eb46ea81-41a9-40de-a271-49a0e1c71c66": {
-		"name": "ios_ivs_player_bypass_video_toolbox",
-		"v": 29863,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "active"
 			}
 		]
 	},
