@@ -13233,21 +13233,6 @@
 			}
 		]
 	},
-	"48ff8134-fa4f-4f75-9d7e-77ce7d01ed30": {
-		"name": "android_ivs_player_whole_probe",
-		"v": 34211,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"49083595-80d4-4c13-93a2-20a605b3318e": {
 		"name": "Player Core WASM experiment",
 		"v": 38094,
@@ -19517,21 +19502,6 @@
 			}
 		]
 	},
-	"6bbf9b1a-5511-4b4a-b679-14e269835d2b": {
-		"name": "ios_ivs_player_whole_probe",
-		"v": 31031,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"6bc96cfe-de03-4296-8100-24be9fd7511f": {
 		"name": "dart_apac_php_globestreamers4_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
 		"v": 23999,
@@ -20906,21 +20876,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"72166884-7c72-42c3-8227-29372d089073": {
-		"name": "ios_ivs_player_edge_prewarm",
-		"v": 31905,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
@@ -25309,21 +25264,6 @@
 			}
 		]
 	},
-	"896d31fc-aa35-4a71-9729-f5e484559264": {
-		"name": "android_ivs_player_edge_prewarm",
-		"v": 31904,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"897ad950-8d84-4f05-a1a7-82eb98b27d93": {
 		"name": "android_ads_device_type_update",
 		"v": 39677,
@@ -29591,21 +29531,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"a00048bb-46e0-42e7-86ed-14d99ee84082": {
-		"name": "android_ivs_player_scip_probe",
-		"v": 30961,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
@@ -45489,21 +45414,6 @@
 			{
 				"weight": 0,
 				"value": "active"
-			}
-		]
-	},
-	"f88b269f-6fad-4600-961c-254e7964fcda": {
-		"name": "ios_ivs_player_scip_probe",
-		"v": 30962,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
 			}
 		]
 	},
