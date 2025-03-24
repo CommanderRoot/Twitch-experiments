@@ -3424,19 +3424,15 @@
 	},
 	"12d66825-fa00-428e-8fd3-c73bb3d669a9": {
 		"name": "android_discovery_feed_video_orientation_toggle",
-		"v": 41139,
+		"v": 41383,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_development"
-			},
-			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_23.7"
 			}
 		]
@@ -37736,11 +37732,11 @@
 	},
 	"ce2eacb9-3202-4237-bbe4-e01e86ceb47f": {
 		"name": "ios_mdf_clip_aspect_toggle",
-		"v": 41106,
+		"v": 41384,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -37748,7 +37744,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_23.7"
 			}
 		]
