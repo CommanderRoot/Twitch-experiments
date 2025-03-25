@@ -29574,6 +29574,21 @@
 			}
 		]
 	},
+	"a045de93-69c5-450a-bb8e-71f89cf13f2a": {
+		"name": "android_disable_compose_view_transition_animations",
+		"v": 41419,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"a0499549-234d-4690-8233-cda2f11915ee": {
 		"name": "android_hype_train_start_gql_optimization",
 		"v": 35087,
