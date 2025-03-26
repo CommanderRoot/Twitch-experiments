@@ -12485,15 +12485,15 @@
 	},
 	"4533c1d4-b405-4b92-8e17-deebee84a26a": {
 		"name": "android_coroutines_player_tracker",
-		"v": 40746,
+		"v": 41461,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_23.4"
 			}
 		]
@@ -17866,15 +17866,15 @@
 	},
 	"62089f85-8c14-4756-a3cd-7665161e5681": {
 		"name": "ios_login_portal",
-		"v": 41144,
+		"v": 41460,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_v23.7"
 			}
 		]
