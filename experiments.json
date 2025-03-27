@@ -14685,7 +14685,7 @@
 	},
 	"504f092f-19c0-476f-bcdc-58b89feba35e": {
 		"name": "android_joy_in_sharing",
-		"v": 40888,
+		"v": 41492,
 		"t": 1,
 		"groups": [
 			{
@@ -14695,6 +14695,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_23.7"
 			}
 		]
 	},
@@ -25672,7 +25676,7 @@
 	},
 	"8ba20e96-9dd4-4eba-9f7e-1f9bad9fc599": {
 		"name": "dart_q1giftsubpromo_032725_holdout",
-		"v": 41489,
+		"v": 41491,
 		"t": 2,
 		"groups": [
 			{
