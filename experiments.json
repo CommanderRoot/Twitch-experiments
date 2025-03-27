@@ -25674,6 +25674,21 @@
 			}
 		]
 	},
+	"8ba20e96-9dd4-4eba-9f7e-1f9bad9fc599": {
+		"name": "dart_q1giftsubpromo_032725_holdout",
+		"v": 41495,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"8ba703e1-17a7-4566-b19b-44f4230e26fb": {
 		"name": "dart_twitchcon2024sdmeetandgreet_vwr_1328_dav_cmc_buy_mis_email_2409_holdout",
 		"v": 36690,
@@ -44039,6 +44054,21 @@
 			{
 				"weight": 100,
 				"value": "active_15.5"
+			}
+		]
+	},
+	"f00d52cf-99d6-4df8-8a72-8ffeb518fad3": {
+		"name": "android_clips_leaderboard",
+		"v": 41494,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
