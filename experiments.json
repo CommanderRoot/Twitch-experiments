@@ -23290,7 +23290,7 @@
 	},
 	"7db64626-bd92-4a32-b13c-f221a5eacc29": {
 		"name": "android_disable_fragment_transition_animations",
-		"v": 41389,
+		"v": 41535,
 		"t": 1,
 		"groups": [
 			{
@@ -23299,7 +23299,7 @@
 			},
 			{
 				"weight": 100,
-				"value": "active"
+				"value": "active_23.9"
 			}
 		]
 	},
@@ -29618,7 +29618,7 @@
 	},
 	"a045de93-69c5-450a-bb8e-71f89cf13f2a": {
 		"name": "android_disable_compose_view_transition_animations",
-		"v": 41419,
+		"v": 41537,
 		"t": 1,
 		"groups": [
 			{
@@ -29627,7 +29627,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_23.9"
 			}
 		]
 	},
@@ -39330,7 +39330,7 @@
 	},
 	"d6d94c29-e899-4c57-bfcc-ed1bfec15e7a": {
 		"name": "android_disable_theatre_miniplayer_transitions",
-		"v": 41529,
+		"v": 41536,
 		"t": 1,
 		"groups": [
 			{
@@ -39339,7 +39339,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active"
+				"value": "active_23.9"
 			}
 		]
 	},
