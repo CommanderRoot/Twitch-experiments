@@ -40765,6 +40765,21 @@
 			}
 		]
 	},
+	"deb21dae-3010-4f54-b556-b6f18caa1c7e": {
+		"name": "ios_clips_end_of_feed_card",
+		"v": 41538,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active"
+			}
+		]
+	},
 	"def2898a-9fec-4b3d-95f8-24b32916a6e9": {
 		"name": "android_whispers_gate",
 		"v": 8925,
