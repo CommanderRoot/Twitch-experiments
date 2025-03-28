@@ -20898,6 +20898,21 @@
 			}
 		]
 	},
+	"721e3a3d-6464-46ba-bcae-901925a9cba9": {
+		"name": "dart_q1hypetrain_abtest_032825_onsite",
+		"v": 41541,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"72243b7d-3774-4bf3-b87b-4bc5e4a23e46": {
 		"name": "ios_login_required",
 		"v": 22682,
@@ -36097,6 +36112,21 @@
 	"c52fdd64-0790-4a1e-94e1-36d8347d8950": {
 		"name": "dart_tceu2025ticketlaunchfirsttime_vwr_1195_awa_cmc_buy_irl_email_2502_holdout",
 		"v": 40303,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
+	"c538ebb0-04d8-48e0-8487-383278022d49": {
+		"name": "dart_q1hypetrain_abtest_032825_holdout",
+		"v": 41540,
 		"t": 2,
 		"groups": [
 			{
