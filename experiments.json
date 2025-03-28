@@ -39324,6 +39324,21 @@
 			}
 		]
 	},
+	"d6d94c29-e899-4c57-bfcc-ed1bfec15e7a": {
+		"name": "android_disable_theatre_miniplayer_transitions",
+		"v": 41529,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"d6ee6374-ab06-4735-a8f3-4b7beec34b92": {
 		"name": "dart_merch_blackfridaysale_holdout",
 		"v": 31303,
