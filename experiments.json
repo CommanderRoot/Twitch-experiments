@@ -24336,6 +24336,21 @@
 			}
 		]
 	},
+	"82cedddf-97f6-4de4-b935-6d1374d6ed35": {
+		"name": "android_clip_manager_filters",
+		"v": 41589,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"82d8bbeb-c144-484b-a092-d53d78885b9f": {
 		"name": "ios_ivs_rtx_prefer_main_profile",
 		"v": 38379,
