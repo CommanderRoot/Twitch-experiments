@@ -34706,31 +34706,31 @@
 	},
 	"bc72d2c5-a281-44e0-a63f-10847f766a35": {
 		"name": "dart_recs_top_recommended_channel_push",
-		"v": 41041,
+		"v": 41635,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 15,
+				"weight": 100,
 				"value": "Variant A"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant B"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant C"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant D"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant E"
 			},
 			{
-				"weight": 17,
+				"weight": 0,
 				"value": "Variant F"
 			}
 		]
