@@ -44785,11 +44785,11 @@
 	},
 	"f4e9ecab-2d30-457a-9724-05ca40c4fe8a": {
 		"name": "dart_recs_top_mw_category_top_rec_push",
-		"v": 41595,
+		"v": 41636,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 100,
 				"value": "Variant A"
 			},
 			{
@@ -44801,11 +44801,11 @@
 				"value": "Variant C"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "Variant D"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "Variant E"
 			}
 		]
