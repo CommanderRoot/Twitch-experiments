@@ -8605,7 +8605,7 @@
 	},
 	"30ee3fc0-0f4f-437c-8b3a-a79fc4873aa2": {
 		"name": "ios_hermes_rollout_user_v6",
-		"v": 41615,
+		"v": 41676,
 		"t": 2,
 		"s": 8,
 		"groups": [
@@ -8618,11 +8618,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "blue"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "green"
 			}
 		]
@@ -16478,9 +16478,9 @@
 	},
 	"5ad38108-f0df-4a91-88bd-5bd63e81feab": {
 		"name": "ios_hermes_rollout_device_v6",
-		"v": 41612,
+		"v": 41680,
 		"t": 1,
-		"s": 6,
+		"s": 7,
 		"groups": [
 			{
 				"weight": 0,
@@ -16491,11 +16491,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "blue"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "green"
 			}
 		]
@@ -39671,6 +39671,21 @@
 			}
 		]
 	},
+	"d7bf28a8-6c69-44c7-864c-b7d8f3f6709d": {
+		"name": "ios_clips_leaderboard",
+		"v": 41681,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"d7c6f048-6241-4858-97be-40dcb2dce3f6": {
 		"name": "dart_discoveryfeedtest_ios_050224_holdout",
 		"v": 34056,
@@ -42632,9 +42647,9 @@
 	},
 	"e8a7851e-173b-44e0-8648-7e35a05c6da2": {
 		"name": "ios_hermes_rollout_channel_v6",
-		"v": 41613,
+		"v": 41678,
 		"t": 3,
-		"s": 5,
+		"s": 6,
 		"groups": [
 			{
 				"weight": 0,
@@ -42645,11 +42660,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "blue"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "green"
 			}
 		]
