@@ -13786,6 +13786,21 @@
 			}
 		]
 	},
+	"4b6f18e8-474c-44b1-a140-987f8946abdc": {
+		"name": "android_chat_rules_mvvm",
+		"v": 41710,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"4b79ad96-2307-48fe-9bc5-f903a29dc55d": {
 		"name": "android_enable_rooms_release",
 		"v": 3336,
