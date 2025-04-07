@@ -9932,6 +9932,21 @@
 			}
 		]
 	},
+	"371c7ed8-3e7d-40a9-8849-323cbff26ded": {
+		"name": "ios_swiftui_hosting_backup",
+		"v": 41768,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.1"
+			}
+		]
+	},
 	"37306ad9-9cc0-48dc-aeda-d22d1586a074": {
 		"name": "android_hilt_settings",
 		"v": 32271,
