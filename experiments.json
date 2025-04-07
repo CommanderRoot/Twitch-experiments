@@ -63,6 +63,29 @@
 			}
 		]
 	},
+	"00cbe1f0-ba77-4e16-8798-c25c0ddf9e3e": {
+		"name": "ios_hermes_rollout_channel_v7",
+		"v": 41751,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 25,
+				"value": "blue"
+			},
+			{
+				"weight": 75,
+				"value": "green"
+			}
+		]
+	},
 	"00d3dec6-a84e-4940-9ebc-25b95b1d3b8c": {
 		"name": "ios_profile_upload",
 		"v": 22679,
@@ -23265,6 +23288,29 @@
 			}
 		]
 	},
+	"7d6b53fd-b2ea-4bbb-936b-b3088a80aab3": {
+		"name": "ios_hermes_rollout_user_v7",
+		"v": 41749,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 25,
+				"value": "blue"
+			},
+			{
+				"weight": 75,
+				"value": "green"
+			}
+		]
+	},
 	"7d73078d-ea86-4656-9358-3ea9011a8a12": {
 		"name": "android_mdf_blueberry",
 		"v": 36160,
@@ -39191,6 +39237,29 @@
 			{
 				"weight": 0,
 				"value": "active_v23.4"
+			}
+		]
+	},
+	"d5b73000-cada-4308-aece-e37d06c52fc1": {
+		"name": "ios_hermes_rollout_device_v7",
+		"v": 41750,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 25,
+				"value": "blue"
+			},
+			{
+				"weight": 75,
+				"value": "green"
 			}
 		]
 	},
