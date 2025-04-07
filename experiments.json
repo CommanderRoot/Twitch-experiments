@@ -25391,15 +25391,15 @@
 	},
 	"897ad950-8d84-4f05-a1a7-82eb98b27d93": {
 		"name": "android_ads_device_type_update",
-		"v": 41518,
+		"v": 41767,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_22.3"
 			}
 		]
@@ -39643,16 +39643,16 @@
 	},
 	"d76d40ab-1eec-471f-b48a-fdaba9ffb0fb": {
 		"name": "ios_ivs_player_low_latency",
-		"v": 32033,
+		"v": 41763,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
