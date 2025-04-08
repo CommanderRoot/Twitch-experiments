@@ -14083,6 +14083,21 @@
 			}
 		]
 	},
+	"4c1cf4b9-86f9-496d-896c-6c7710724ce2": {
+		"name": "android_arabic_font",
+		"v": 41792,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"4c2ef28a-0bf0-4e15-ba6a-035dc1411ed7": {
 		"name": "android_bottom_sheet_view_deprecation",
 		"v": 31494,
@@ -23420,6 +23435,25 @@
 			}
 		]
 	},
+	"7db1d0e8-92c4-4c6a-bbcd-180ce02f14c0": {
+		"name": "android_hermes_rollout_device_v3",
+		"v": 41791,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 75,
+				"value": "blue"
+			},
+			{
+				"weight": 25,
+				"value": "green"
+			}
+		]
+	},
 	"7db64626-bd92-4a32-b13c-f221a5eacc29": {
 		"name": "android_disable_fragment_transition_animations",
 		"v": 41535,
@@ -28514,6 +28548,25 @@
 			{
 				"weight": 100,
 				"value": "rules_v2"
+			}
+		]
+	},
+	"99053a31-d1f6-44f4-99d7-f7f4e3f071b5": {
+		"name": "android_hermes_rollout_channel_v3",
+		"v": 41789,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 75,
+				"value": "blue"
+			},
+			{
+				"weight": 25,
+				"value": "green"
 			}
 		]
 	},
