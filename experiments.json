@@ -9695,6 +9695,21 @@
 			}
 		]
 	},
+	"35cd8127-d0fb-4517-8d14-2331a21ffbc6": {
+		"name": "dart_cod_rivals_0409_holdout",
+		"v": 41786,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"35ce0677-ffcb-4395-b824-3e854af7b74e": {
 		"name": "android_auto_mod_cheering",
 		"v": 9137,
@@ -11287,6 +11302,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"3fec28ee-1175-4030-a3cb-1dff234b8c25": {
+		"name": "android_hermes_rollout_beta_v3",
+		"v": 41785,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_24.0"
 			}
 		]
 	},
@@ -26961,6 +26991,21 @@
 			{
 				"weight": 1,
 				"value": "active_20.5"
+			}
+		]
+	},
+	"90fed92b-1a50-42d2-880e-1ebbb7ff9095": {
+		"name": "dart_cod_rivals_0409_push",
+		"v": 41787,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
