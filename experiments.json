@@ -65,11 +65,11 @@
 	},
 	"00cbe1f0-ba77-4e16-8798-c25c0ddf9e3e": {
 		"name": "ios_hermes_rollout_channel_v7",
-		"v": 41751,
+		"v": 41815,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -77,11 +77,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -2291,7 +2291,7 @@
 	},
 	"0c35b66a-766a-4305-b670-d798a8412b74": {
 		"name": "brets_rollout",
-		"v": 41757,
+		"v": 41817,
 		"t": 1,
 		"groups": [
 			{
@@ -2299,11 +2299,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "shadow"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
@@ -23350,11 +23350,11 @@
 	},
 	"7d6b53fd-b2ea-4bbb-936b-b3088a80aab3": {
 		"name": "ios_hermes_rollout_user_v7",
-		"v": 41749,
+		"v": 41816,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -23362,11 +23362,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -23437,7 +23437,7 @@
 	},
 	"7db1d0e8-92c4-4c6a-bbcd-180ce02f14c0": {
 		"name": "android_hermes_rollout_device_v3",
-		"v": 41791,
+		"v": 41810,
 		"t": 1,
 		"groups": [
 			{
@@ -23445,11 +23445,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -28553,7 +28553,7 @@
 	},
 	"99053a31-d1f6-44f4-99d7-f7f4e3f071b5": {
 		"name": "android_hermes_rollout_channel_v3",
-		"v": 41789,
+		"v": 41808,
 		"t": 3,
 		"groups": [
 			{
@@ -28561,11 +28561,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -39374,11 +39374,11 @@
 	},
 	"d5b73000-cada-4308-aece-e37d06c52fc1": {
 		"name": "ios_hermes_rollout_device_v7",
-		"v": 41750,
+		"v": 41814,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -39386,11 +39386,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
