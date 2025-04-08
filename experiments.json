@@ -8628,7 +8628,7 @@
 	},
 	"30ee3fc0-0f4f-437c-8b3a-a79fc4873aa2": {
 		"name": "ios_hermes_rollout_user_v6",
-		"v": 41676,
+		"v": 41803,
 		"t": 2,
 		"s": 8,
 		"groups": [
@@ -8641,11 +8641,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -12929,7 +12929,7 @@
 	},
 	"4716732b-0c51-4470-8152-5e9443df788c": {
 		"name": "android_hermes_rollout_user_v2",
-		"v": 41672,
+		"v": 41800,
 		"t": 2,
 		"s": 13,
 		"groups": [
@@ -12938,11 +12938,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -16576,7 +16576,7 @@
 	},
 	"5ad38108-f0df-4a91-88bd-5bd63e81feab": {
 		"name": "ios_hermes_rollout_device_v6",
-		"v": 41680,
+		"v": 41805,
 		"t": 1,
 		"s": 7,
 		"groups": [
@@ -16589,11 +16589,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -24816,7 +24816,7 @@
 	},
 	"84f64c0e-e4df-4b67-ba82-689237c2e3ba": {
 		"name": "android_hermes_rollout_channel_v2",
-		"v": 41674,
+		"v": 41801,
 		"t": 3,
 		"s": 11,
 		"groups": [
@@ -24825,11 +24825,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -38313,7 +38313,7 @@
 	},
 	"cf6b17b1-8bcf-43db-a1de-fd3e1bf7e05a": {
 		"name": "android_hermes_rollout_device_v2",
-		"v": 41675,
+		"v": 41802,
 		"t": 1,
 		"s": 12,
 		"groups": [
@@ -38322,11 +38322,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "blue"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -42867,7 +42867,7 @@
 	},
 	"e8a7851e-173b-44e0-8648-7e35a05c6da2": {
 		"name": "ios_hermes_rollout_channel_v6",
-		"v": 41678,
+		"v": 41804,
 		"t": 3,
 		"s": 6,
 		"groups": [
@@ -42880,11 +42880,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
