@@ -27754,6 +27754,25 @@
 			}
 		]
 	},
+	"9529ccb0-f0bb-4a6b-aaa8-f597c236f190": {
+		"name": "android_hermes_rollout_user_v3",
+		"v": 41788,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 75,
+				"value": "blue"
+			},
+			{
+				"weight": 25,
+				"value": "green"
+			}
+		]
+	},
 	"95311612-45dd-4537-b924-7a0c341de9e6": {
 		"name": "android_clip_refactor",
 		"v": 25735,
