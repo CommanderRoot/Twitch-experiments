@@ -43079,15 +43079,15 @@
 	},
 	"e9929089-1dcf-4fc5-bcd8-8cca1b9dc584": {
 		"name": "android_feed_source",
-		"v": 41385,
+		"v": 41819,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 0,
 				"value": "active_23.6"
 			}
 		]
