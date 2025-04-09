@@ -35441,15 +35441,15 @@
 	},
 	"c007df6c-9523-4a03-b457-a8a5148f945b": {
 		"name": "android_ivs_player_abr_resolution_filter_aspect_ratio_mode",
-		"v": 39210,
+		"v": 41830,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
