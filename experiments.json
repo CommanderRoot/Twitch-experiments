@@ -17983,15 +17983,15 @@
 	},
 	"62089f85-8c14-4756-a3cd-7665161e5681": {
 		"name": "ios_login_portal",
-		"v": 41711,
+		"v": 41823,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v23.8"
 			}
 		]
@@ -24934,11 +24934,11 @@
 	},
 	"8585fe5b-d9bd-4db8-bff0-98d5f9323662": {
 		"name": "ios_ads_update_dt_param",
-		"v": 39154,
+		"v": 41825,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			},
 			{
@@ -24946,7 +24946,7 @@
 				"value": "active_v22.2"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_v22.3"
 			}
 		]
@@ -45065,7 +45065,7 @@
 	},
 	"f4e9ecab-2d30-457a-9724-05ca40c4fe8a": {
 		"name": "dart_recs_top_mw_category_top_rec_push",
-		"v": 41720,
+		"v": 41824,
 		"t": 2,
 		"groups": [
 			{
@@ -45083,10 +45083,6 @@
 			{
 				"weight": 0,
 				"value": "Variant D"
-			},
-			{
-				"weight": 0,
-				"value": "Variant E"
 			}
 		]
 	},
