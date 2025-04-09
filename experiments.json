@@ -24934,11 +24934,11 @@
 	},
 	"8585fe5b-d9bd-4db8-bff0-98d5f9323662": {
 		"name": "ios_ads_update_dt_param",
-		"v": 41825,
+		"v": 41847,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -24946,7 +24946,7 @@
 				"value": "active_v22.2"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "active_v22.3"
 			}
 		]
