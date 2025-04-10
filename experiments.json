@@ -23460,15 +23460,15 @@
 	},
 	"7db64626-bd92-4a32-b13c-f221a5eacc29": {
 		"name": "android_disable_fragment_transition_animations",
-		"v": 41535,
+		"v": 41873,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_23.9"
 			}
 		]
@@ -29841,15 +29841,15 @@
 	},
 	"a045de93-69c5-450a-bb8e-71f89cf13f2a": {
 		"name": "android_disable_compose_view_transition_animations",
-		"v": 41537,
+		"v": 41874,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_23.9"
 			}
 		]
@@ -36021,7 +36021,7 @@
 	},
 	"c3d2940a-6add-4df3-a6b4-3fe443489882": {
 		"name": "ios_ads_cspon_video_token_refresh",
-		"v": 41807,
+		"v": 41875,
 		"t": 1,
 		"groups": [
 			{
@@ -36031,6 +36031,10 @@
 			{
 				"weight": 0,
 				"value": "active_v23.8"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.1"
 			}
 		]
 	},
