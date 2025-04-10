@@ -24938,11 +24938,11 @@
 	},
 	"8585fe5b-d9bd-4db8-bff0-98d5f9323662": {
 		"name": "ios_ads_update_dt_param",
-		"v": 41856,
+		"v": 41871,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -24950,7 +24950,7 @@
 				"value": "active_v22.2"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active_v22.3"
 			}
 		]
@@ -26840,7 +26840,7 @@
 	},
 	"900f1ee2-8c18-4b59-82bb-8f109f09140d": {
 		"name": "android_portals_login",
-		"v": 41866,
+		"v": 41870,
 		"t": 1,
 		"groups": [
 			{
