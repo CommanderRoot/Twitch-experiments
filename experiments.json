@@ -40595,6 +40595,21 @@
 			}
 		]
 	},
+	"dc194269-3387-435d-a7bd-3f47a43d5812": {
+		"name": "android_recreate_player_on_error",
+		"v": 41872,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_24.1"
+			}
+		]
+	},
 	"dc251546-6da4-4db9-abae-2c1325e7dee6": {
 		"name": "android_pipboy_browse_ccus",
 		"v": 5448,
