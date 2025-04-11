@@ -45889,11 +45889,11 @@
 	},
 	"f8a5f540-a089-4479-a815-226150d6c754": {
 		"name": "ios_onetap",
-		"v": 41924,
+		"v": 41927,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -45901,7 +45901,7 @@
 				"value": "active_v21.6"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v24.1"
 			}
 		]
