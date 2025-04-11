@@ -38911,6 +38911,21 @@
 			}
 		]
 	},
+	"d2da6787-f0ca-4210-9e6d-2016e3f64721": {
+		"name": "clips_leaderboard_final_rollout",
+		"v": 41903,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "variant"
+			}
+		]
+	},
 	"d307a435-85ef-447a-8b56-ea3e4a43fbe0": {
 		"name": "ios_mdf_ivs_initial_buffer_duration",
 		"v": 32178,
