@@ -29390,19 +29390,19 @@
 	},
 	"9d950d59-1936-4fbc-8eaa-a0d4fe6fcb9f": {
 		"name": "android_ivs_player_gpu_transform",
-		"v": 40411,
+		"v": 41914,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 1,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "AA"
 			},
 			{
-				"weight": 0,
+				"weight": 98,
 				"value": "holdback"
 			},
 			{
