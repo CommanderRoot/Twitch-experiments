@@ -32269,6 +32269,21 @@
 			}
 		]
 	},
+	"aee02cea-b573-4120-9141-453acd1e7ee4": {
+		"name": "ios_shared_hls_requester",
+		"v": 41913,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 100,
+				"value": "active_24.2"
+			}
+		]
+	},
 	"af044b3f-0a06-401a-9a1e-0be0f6be6496": {
 		"name": "dart_gpexplorer2_vwr_1083_dav_cmc_wch_gmg_email_2309_holdout",
 		"v": 29771,
