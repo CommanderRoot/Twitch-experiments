@@ -20357,7 +20357,7 @@
 	},
 	"6f234cba-bb65-427f-a2f5-a25a4dd2aaee": {
 		"name": "android_abot_ftue",
-		"v": 41188,
+		"v": 41933,
 		"t": 2,
 		"groups": [
 			{
@@ -20367,6 +20367,10 @@
 			{
 				"weight": 100,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.1"
 			}
 		]
 	},
@@ -39851,7 +39855,7 @@
 	},
 	"d76eed6e-2541-4f5d-8ddb-b49eca079fcd": {
 		"name": "android_abot_sending",
-		"v": 41598,
+		"v": 41931,
 		"t": 2,
 		"groups": [
 			{
@@ -39861,6 +39865,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.1"
 			}
 		]
 	},
