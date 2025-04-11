@@ -43150,7 +43150,7 @@
 	},
 	"e9b9443b-a79d-40b3-a783-b0e6989d2b0f": {
 		"name": "android_community_points_mvvm",
-		"v": 41731,
+		"v": 41905,
 		"t": 1,
 		"groups": [
 			{
@@ -43160,6 +43160,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_prod"
 			}
 		]
 	},
