@@ -20357,7 +20357,7 @@
 	},
 	"6f234cba-bb65-427f-a2f5-a25a4dd2aaee": {
 		"name": "android_abot_ftue",
-		"v": 41933,
+		"v": 41935,
 		"t": 2,
 		"groups": [
 			{
@@ -20366,10 +20366,6 @@
 			},
 			{
 				"weight": 100,
-				"value": "active_development"
-			},
-			{
-				"weight": 0,
 				"value": "active_24.1"
 			}
 		]
@@ -27579,6 +27575,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"943c8a16-67d7-4e07-b0a3-e60040d98bce": {
+		"name": "dart_marathon_badge_campaign_040725_holdout",
+		"v": 41936,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
 				"value": "allowed"
 			}
 		]
@@ -39855,16 +39866,12 @@
 	},
 	"d76eed6e-2541-4f5d-8ddb-b49eca079fcd": {
 		"name": "android_abot_sending",
-		"v": 41931,
+		"v": 41934,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_development"
 			},
 			{
 				"weight": 0,
