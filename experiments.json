@@ -34434,15 +34434,15 @@
 	},
 	"b9343091-9dbb-4ea2-8227-918a80804794": {
 		"name": "android_player_view",
-		"v": 41775,
+		"v": 41956,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "active_24.0"
 			}
 		]
