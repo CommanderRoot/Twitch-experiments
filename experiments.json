@@ -21312,6 +21312,21 @@
 			}
 		]
 	},
+	"72db6d0e-7e6b-4827-81cb-0700fd874922": {
+		"name": "dart_twitchconeu_schedule_041025_holdout",
+		"v": 41968,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"72eabfe6-2550-451e-b612-d768ca0521e7": {
 		"name": "android_nonnegative_transitions",
 		"v": 9162,
@@ -41234,6 +41249,21 @@
 			{
 				"weight": 0,
 				"value": "active_11.1"
+			}
+		]
+	},
+	"df282764-5855-4341-bf28-b71ac53c4f4c": {
+		"name": "dart_twitchconeu_schedule_041025_holdout",
+		"v": 41967,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
