@@ -32058,15 +32058,15 @@
 	},
 	"adb31931-0031-458e-8c89-a5bcfb83e190": {
 		"name": "ios_dashboard_casino_cat_ccl",
-		"v": 40213,
+		"v": 42006,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v23.2"
 			}
 		]
@@ -39699,11 +39699,11 @@
 	},
 	"d68fee78-fc2d-4c21-a8a8-284ebc192def": {
 		"name": "android_dashboard_casino_cat_ccl",
-		"v": 41716,
+		"v": 42005,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -39711,7 +39711,7 @@
 				"value": "active_23.3"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_23.10"
 			}
 		]
