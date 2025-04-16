@@ -5577,15 +5577,15 @@
 	},
 	"1f0faf82-e9f5-4099-92fa-4d1f1887c054": {
 		"name": "android_chat_settings_mvvm",
-		"v": 41878,
+		"v": 42011,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_24.0"
 			}
 		]
@@ -32058,15 +32058,15 @@
 	},
 	"adb31931-0031-458e-8c89-a5bcfb83e190": {
 		"name": "ios_dashboard_casino_cat_ccl",
-		"v": 42006,
+		"v": 42008,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v23.2"
 			}
 		]
@@ -39699,11 +39699,11 @@
 	},
 	"d68fee78-fc2d-4c21-a8a8-284ebc192def": {
 		"name": "android_dashboard_casino_cat_ccl",
-		"v": 42005,
+		"v": 42007,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -39711,7 +39711,7 @@
 				"value": "active_23.3"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_23.10"
 			}
 		]
