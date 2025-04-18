@@ -44617,7 +44617,7 @@
 	},
 	"f00d52cf-99d6-4df8-8a72-8ffeb518fad3": {
 		"name": "android_clips_leaderboard",
-		"v": 42055,
+		"v": 42057,
 		"t": 2,
 		"groups": [
 			{
@@ -44631,6 +44631,10 @@
 			{
 				"weight": 0,
 				"value": "active_tcp"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
 			}
 		]
 	},
