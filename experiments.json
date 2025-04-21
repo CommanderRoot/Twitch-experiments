@@ -2132,6 +2132,21 @@
 			}
 		]
 	},
+	"0b60399e-16bd-432c-9654-c85096366d7b": {
+		"name": "android_ads_cspon_video_token_refresh",
+		"v": 42084,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.3"
+			}
+		]
+	},
 	"0b7eb038-a449-45c6-bdf8-26b456f399de": {
 		"name": "dart_apac_aus_ausgiftcardprimeday_ctr_0_dav_trn_wch_gmg_email_2206_holdout",
 		"v": 21674,
@@ -36147,7 +36162,7 @@
 	},
 	"c3d2940a-6add-4df3-a6b4-3fe443489882": {
 		"name": "ios_ads_cspon_video_token_refresh",
-		"v": 41875,
+		"v": 42085,
 		"t": 1,
 		"groups": [
 			{
