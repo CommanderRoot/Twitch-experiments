@@ -28493,19 +28493,15 @@
 	},
 	"9862d974-d1ae-41d6-b599-e46a363e8818": {
 		"name": "android_unified_share_sheet",
-		"v": 41919,
+		"v": 42101,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_development"
-			},
-			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_24.1"
 			}
 		]
@@ -35522,15 +35518,15 @@
 	},
 	"bf79f787-cb6c-453b-94ff-a06be36b9401": {
 		"name": "ios_unified_share_sheet",
-		"v": 41252,
+		"v": 42102,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
