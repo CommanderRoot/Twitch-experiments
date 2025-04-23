@@ -1441,6 +1441,21 @@
 			}
 		]
 	},
+	"07cfcfc4-43bd-47e1-b19c-4ebb5852e022": {
+		"name": "dart_growth_frozen_users_holdout",
+		"v": 42131,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 25,
+				"value": "holdout"
+			},
+			{
+				"weight": 75,
+				"value": "allowed"
+			}
+		]
+	},
 	"07e0fdf4-d832-4165-8a84-13a27fbf79ef": {
 		"name": "ios_shiny_enigma_filter_cheers",
 		"v": 36834,
@@ -3142,6 +3157,25 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"1150c23a-08ce-4cb5-afc0-310c17abe8b0": {
+		"name": "dart_growth_frozen_users_push",
+		"v": 42132,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
