@@ -38856,15 +38856,15 @@
 	},
 	"d1960c9d-5393-40f2-9b42-6e1af1104144": {
 		"name": "ios_private_callouts_pubsub",
-		"v": 42078,
+		"v": 42155,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active"
 			},
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			}
 		]
