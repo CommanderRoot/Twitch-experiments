@@ -65,9 +65,9 @@
 	},
 	"00cbe1f0-ba77-4e16-8798-c25c0ddf9e3e": {
 		"name": "ios_hermes_rollout_channel_v7",
-		"v": 42112,
+		"v": 42199,
 		"t": 3,
-		"s": 4,
+		"s": 5,
 		"groups": [
 			{
 				"weight": 0,
@@ -78,11 +78,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -8712,7 +8712,7 @@
 	},
 	"30ee3fc0-0f4f-437c-8b3a-a79fc4873aa2": {
 		"name": "ios_hermes_rollout_user_v6",
-		"v": 42106,
+		"v": 42193,
 		"t": 2,
 		"s": 12,
 		"groups": [
@@ -8725,11 +8725,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -13069,20 +13069,20 @@
 	},
 	"4716732b-0c51-4470-8152-5e9443df788c": {
 		"name": "android_hermes_rollout_user_v2",
-		"v": 41800,
+		"v": 42183,
 		"t": 2,
-		"s": 13,
+		"s": 14,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -16701,9 +16701,9 @@
 	},
 	"5ad38108-f0df-4a91-88bd-5bd63e81feab": {
 		"name": "ios_hermes_rollout_device_v6",
-		"v": 42114,
+		"v": 42201,
 		"t": 1,
-		"s": 11,
+		"s": 12,
 		"groups": [
 			{
 				"weight": 0,
@@ -16714,11 +16714,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -23502,9 +23502,9 @@
 	},
 	"7d6b53fd-b2ea-4bbb-936b-b3088a80aab3": {
 		"name": "ios_hermes_rollout_user_v7",
-		"v": 42108,
+		"v": 42195,
 		"t": 2,
-		"s": 4,
+		"s": 5,
 		"groups": [
 			{
 				"weight": 0,
@@ -23515,11 +23515,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -23590,19 +23590,20 @@
 	},
 	"7db1d0e8-92c4-4c6a-bbcd-180ce02f14c0": {
 		"name": "android_hermes_rollout_device_v3",
-		"v": 41810,
+		"v": 42190,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -24969,20 +24970,20 @@
 	},
 	"84f64c0e-e4df-4b67-ba82-689237c2e3ba": {
 		"name": "android_hermes_rollout_channel_v2",
-		"v": 41801,
+		"v": 42185,
 		"t": 3,
-		"s": 11,
+		"s": 12,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -27973,7 +27974,7 @@
 	},
 	"9529ccb0-f0bb-4a6b-aaa8-f597c236f190": {
 		"name": "android_hermes_rollout_user_v3",
-		"v": 41788,
+		"v": 42191,
 		"t": 2,
 		"groups": [
 			{
@@ -27981,11 +27982,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 25,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -28736,7 +28737,7 @@
 	},
 	"99053a31-d1f6-44f4-99d7-f7f4e3f071b5": {
 		"name": "android_hermes_rollout_channel_v3",
-		"v": 41808,
+		"v": 42186,
 		"t": 3,
 		"groups": [
 			{
@@ -28744,11 +28745,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -38530,20 +38531,20 @@
 	},
 	"cf6b17b1-8bcf-43db-a1de-fd3e1bf7e05a": {
 		"name": "android_hermes_rollout_device_v2",
-		"v": 41802,
+		"v": 42188,
 		"t": 1,
-		"s": 12,
+		"s": 13,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -39610,9 +39611,9 @@
 	},
 	"d5b73000-cada-4308-aece-e37d06c52fc1": {
 		"name": "ios_hermes_rollout_device_v7",
-		"v": 42116,
+		"v": 42203,
 		"t": 1,
-		"s": 4,
+		"s": 5,
 		"groups": [
 			{
 				"weight": 0,
@@ -39623,11 +39624,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
@@ -43138,9 +43139,9 @@
 	},
 	"e8a7851e-173b-44e0-8648-7e35a05c6da2": {
 		"name": "ios_hermes_rollout_channel_v6",
-		"v": 42110,
+		"v": 42197,
 		"t": 3,
-		"s": 10,
+		"s": 11,
 		"groups": [
 			{
 				"weight": 0,
@@ -43151,11 +43152,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "blue"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "green"
 			}
 		]
