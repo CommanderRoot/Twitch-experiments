@@ -11132,6 +11132,17 @@
 			}
 		]
 	},
+	"3df70374-2861-467f-8e80-089ad561c24a": {
+		"name": "android_source_factory",
+		"v": 42175,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"3dff7b11-cc44-412d-bb35-96b775025c53": {
 		"name": "android_mdf_grape_timeout",
 		"v": 35802,
@@ -13985,7 +13996,7 @@
 	},
 	"4b6f18e8-474c-44b1-a140-987f8946abdc": {
 		"name": "android_chat_rules_mvvm",
-		"v": 41710,
+		"v": 42174,
 		"t": 1,
 		"groups": [
 			{
@@ -13994,7 +14005,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
+				"value": "active_24.3"
 			}
 		]
 	},
