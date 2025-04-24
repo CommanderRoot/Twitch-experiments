@@ -11134,12 +11134,16 @@
 	},
 	"3df70374-2861-467f-8e80-089ad561c24a": {
 		"name": "android_source_factory",
-		"v": 42175,
+		"v": 42209,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.3"
 			}
 		]
 	},
