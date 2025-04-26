@@ -4934,6 +4934,21 @@
 			}
 		]
 	},
+	"1a9a8c96-d989-4823-bda7-1bf3764d6427": {
+		"name": "dart_fortnitepushdrop_042625_holdout",
+		"v": 42237,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"1aa09aea-ad3d-4a9b-a40e-f695a8fb6b66": {
 		"name": "android_creator_quick_actions",
 		"v": 25731,
@@ -47332,6 +47347,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"fe9e36df-211f-4c19-ba1f-55b4f973cf07": {
+		"name": "dart_fortnitepushdrop_042625_push",
+		"v": 42238,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
