@@ -1443,7 +1443,7 @@
 	},
 	"07cfcfc4-43bd-47e1-b19c-4ebb5852e022": {
 		"name": "dart_growth_frozen_users_holdout",
-		"v": 42131,
+		"v": 42270,
 		"t": 2,
 		"groups": [
 			{
@@ -3162,7 +3162,7 @@
 	},
 	"1150c23a-08ce-4cb5-afc0-310c17abe8b0": {
 		"name": "dart_growth_frozen_users_push",
-		"v": 42132,
+		"v": 42271,
 		"t": 2,
 		"groups": [
 			{
@@ -39140,11 +39140,11 @@
 	},
 	"d2da6787-f0ca-4210-9e6d-2016e3f64721": {
 		"name": "clips_leaderboard_final_rollout",
-		"v": 42152,
+		"v": 42273,
 		"t": 3,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 99,
 				"value": "control"
 			},
 			{
@@ -39152,7 +39152,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 0,
+				"weight": 1,
 				"value": "active_tcp"
 			}
 		]
