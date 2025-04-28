@@ -3099,6 +3099,29 @@
 			}
 		]
 	},
+	"1134b2a1-e81b-4635-8e7f-d88cdd2d89f6": {
+		"name": "ios_hermes_rollout_device_v8",
+		"v": 42277,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
+			}
+		]
+	},
 	"11423c92-1026-4721-b72e-2c0296f94975": {
 		"name": "dart_bhmlaunch_vwr_1107_dav_cmc_wch_mis_oe_2310_holdout",
 		"v": 30230,
@@ -29330,6 +29353,29 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"9b8f3667-de94-469e-8155-ca4dad5f303e": {
+		"name": "ios_hermes_rollout_user_v8",
+		"v": 42276,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
 			}
 		]
 	},
