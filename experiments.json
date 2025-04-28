@@ -38048,15 +38048,15 @@
 	},
 	"ccfbd252-36ba-4096-8aa5-e3e81999877b": {
 		"name": "android_happy_feet_banner",
-		"v": 40944,
+		"v": 42260,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_23.6"
 			}
 		]
