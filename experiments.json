@@ -40048,15 +40048,15 @@
 	},
 	"d76eed6e-2541-4f5d-8ddb-b49eca079fcd": {
 		"name": "android_abot_sending",
-		"v": 41934,
+		"v": 42250,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_24.1"
 			}
 		]
@@ -46113,11 +46113,11 @@
 	},
 	"f8a5f540-a089-4479-a815-226150d6c754": {
 		"name": "ios_onetap",
-		"v": 41927,
+		"v": 42251,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -46125,7 +46125,7 @@
 				"value": "active_v21.6"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v24.1"
 			}
 		]
