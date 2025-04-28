@@ -14457,6 +14457,29 @@
 			}
 		]
 	},
+	"4d6855d7-0826-4fbb-90ce-bd2a81a5dbc6": {
+		"name": "ios_hermes_rollout_channel_v8",
+		"v": 42278,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
+			}
+		]
+	},
 	"4dab626b-79b1-4b4d-b8bb-81d93e660b88": {
 		"name": "android_leaderboards",
 		"v": 14335,
