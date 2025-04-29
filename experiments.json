@@ -13062,15 +13062,15 @@
 	},
 	"46c6a720-1023-4472-a05c-628b0b3d84d3": {
 		"name": "clips_leaderboard_rollout",
-		"v": 42208,
+		"v": 42316,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "variant"
 			}
 		]
