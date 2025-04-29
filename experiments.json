@@ -24928,6 +24928,21 @@
 			}
 		]
 	},
+	"8468ec0e-b352-4167-873e-e2c6e9623b1a": {
+		"name": "android_mod_view_chat_entry",
+		"v": 42284,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "release_24.5"
+			}
+		]
+	},
 	"84768cc8-b1f7-4af2-a258-4e0910c0829c": {
 		"name": "stream_summary_notifications_analytics",
 		"v": 38172,
