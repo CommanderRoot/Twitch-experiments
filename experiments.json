@@ -6917,6 +6917,29 @@
 			}
 		]
 	},
+	"26d5da14-e8de-4fb6-a0a3-78b52a0eca9b": {
+		"name": "ios_hermes_rollout_user_v9",
+		"v": 42396,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
+			}
+		]
+	},
 	"26e31349-1084-4568-8a96-6770bed5e30d": {
 		"name": "dart_partyanimalonsite_emote_holdout",
 		"v": 30274,
@@ -14955,6 +14978,29 @@
 			{
 				"weight": 100,
 				"value": "active_v16.5"
+			}
+		]
+	},
+	"5014ffeb-a24e-42a8-b24e-d8d2a94d3a6e": {
+		"name": "ios_hermes_rollout_device_v9",
+		"v": 42395,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
 			}
 		]
 	},
@@ -25557,6 +25603,29 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"881ce603-9403-4093-a6a9-466c50c72eed": {
+		"name": "ios_hermes_rollout_channel_v9",
+		"v": 42398,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
 			}
 		]
 	},
