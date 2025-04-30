@@ -16750,15 +16750,15 @@
 	},
 	"5a6372cc-dc2a-49cb-a077-0744b2447ea0": {
 		"name": "ios_mdf_thumbnail_preview",
-		"v": 42400,
+		"v": 42401,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active"
 			}
 		]
