@@ -65,12 +65,12 @@
 	},
 	"00cbe1f0-ba77-4e16-8798-c25c0ddf9e3e": {
 		"name": "ios_hermes_rollout_channel_v7",
-		"v": 42324,
+		"v": 42370,
 		"t": 3,
-		"s": 7,
+		"s": 8,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -78,11 +78,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -3116,11 +3116,12 @@
 	},
 	"1134b2a1-e81b-4635-8e7f-d88cdd2d89f6": {
 		"name": "ios_hermes_rollout_device_v8",
-		"v": 42277,
+		"v": 42366,
 		"t": 1,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -3128,11 +3129,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -8765,12 +8766,12 @@
 	},
 	"30ee3fc0-0f4f-437c-8b3a-a79fc4873aa2": {
 		"name": "ios_hermes_rollout_user_v6",
-		"v": 42193,
+		"v": 42374,
 		"t": 2,
-		"s": 12,
+		"s": 13,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -8778,11 +8779,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -14474,11 +14475,12 @@
 	},
 	"4d6855d7-0826-4fbb-90ce-bd2a81a5dbc6": {
 		"name": "ios_hermes_rollout_channel_v8",
-		"v": 42278,
+		"v": 42369,
 		"t": 3,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -14486,11 +14488,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -16781,12 +16783,12 @@
 	},
 	"5ad38108-f0df-4a91-88bd-5bd63e81feab": {
 		"name": "ios_hermes_rollout_device_v6",
-		"v": 42201,
+		"v": 42368,
 		"t": 1,
-		"s": 12,
+		"s": 13,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -16794,11 +16796,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -23582,12 +23584,12 @@
 	},
 	"7d6b53fd-b2ea-4bbb-936b-b3088a80aab3": {
 		"name": "ios_hermes_rollout_user_v7",
-		"v": 42322,
+		"v": 42373,
 		"t": 2,
-		"s": 7,
+		"s": 8,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -23595,11 +23597,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -29413,11 +29415,12 @@
 	},
 	"9b8f3667-de94-469e-8155-ca4dad5f303e": {
 		"name": "ios_hermes_rollout_user_v8",
-		"v": 42276,
+		"v": 42372,
 		"t": 2,
+		"s": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -29425,11 +29428,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -39750,12 +39753,12 @@
 	},
 	"d5b73000-cada-4308-aece-e37d06c52fc1": {
 		"name": "ios_hermes_rollout_device_v7",
-		"v": 42326,
+		"v": 42367,
 		"t": 1,
-		"s": 7,
+		"s": 8,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -39763,11 +39766,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
@@ -43278,12 +43281,12 @@
 	},
 	"e8a7851e-173b-44e0-8648-7e35a05c6da2": {
 		"name": "ios_hermes_rollout_channel_v6",
-		"v": 42197,
+		"v": 42371,
 		"t": 3,
-		"s": 11,
+		"s": 12,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -43291,11 +43294,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 1,
+				"weight": 0,
 				"value": "green"
 			}
 		]
