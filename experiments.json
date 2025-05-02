@@ -36003,6 +36003,21 @@
 			}
 		]
 	},
+	"c1319cd1-3b96-4048-9b8a-a4e1b9383835": {
+		"name": "BalSpen",
+		"v": 42462,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"c13edd2a-a27a-4a0a-9815-8545b568fdf3": {
 		"name": "ios_idfa_consent_prompt",
 		"v": 21208,
