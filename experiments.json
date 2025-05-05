@@ -5975,6 +5975,29 @@
 			}
 		]
 	},
+	"2117674d-7c40-4de5-bdda-b95097161235": {
+		"name": "ios_hermes_rollout_channel_v10",
+		"v": 42481,
+		"t": 3,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
+			}
+		]
+	},
 	"211859dd-93ca-43c4-a11b-1eaf191fa0e0": {
 		"name": "dart_junepartnernewsletter_ctr_446_awa_cmc_lrn_mis_email_2106_en_holdout",
 		"v": 15407,
@@ -31327,6 +31350,29 @@
 			}
 		]
 	},
+	"a765bc00-5e32-4acb-a15e-59767a41dba0": {
+		"name": "ios_hermes_rollout_user_v10",
+		"v": 42480,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
+			}
+		]
+	},
 	"a7a6e4b0-49ea-419c-95f3-dbd967bdb1f9": {
 		"name": "ios_sub_gifting",
 		"v": 9353,
@@ -39916,6 +39962,29 @@
 			{
 				"weight": 1,
 				"value": "enabled_v6.10"
+			}
+		]
+	},
+	"d5d112de-ef12-49ba-ab55-a471fb8f7294": {
+		"name": "ios_hermes_rollout_device_v10",
+		"v": 42478,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "all"
+			},
+			{
+				"weight": 99,
+				"value": "blue"
+			},
+			{
+				"weight": 1,
+				"value": "green"
 			}
 		]
 	},
