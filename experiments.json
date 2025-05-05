@@ -63,30 +63,6 @@
 			}
 		]
 	},
-	"00cbe1f0-ba77-4e16-8798-c25c0ddf9e3e": {
-		"name": "ios_hermes_rollout_channel_v7",
-		"v": 42370,
-		"t": 3,
-		"s": 8,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
-			}
-		]
-	},
 	"00d3dec6-a84e-4940-9ebc-25b95b1d3b8c": {
 		"name": "ios_profile_upload",
 		"v": 22679,
@@ -3111,30 +3087,6 @@
 			{
 				"weight": 33,
 				"value": "Variant C"
-			}
-		]
-	},
-	"1134b2a1-e81b-4635-8e7f-d88cdd2d89f6": {
-		"name": "ios_hermes_rollout_device_v8",
-		"v": 42366,
-		"t": 1,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
 			}
 		]
 	},
@@ -8809,30 +8761,6 @@
 			{
 				"weight": 95,
 				"value": "control"
-			}
-		]
-	},
-	"30ee3fc0-0f4f-437c-8b3a-a79fc4873aa2": {
-		"name": "ios_hermes_rollout_user_v6",
-		"v": 42374,
-		"t": 2,
-		"s": 13,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
 			}
 		]
 	},
@@ -14536,30 +14464,6 @@
 			}
 		]
 	},
-	"4d6855d7-0826-4fbb-90ce-bd2a81a5dbc6": {
-		"name": "ios_hermes_rollout_channel_v8",
-		"v": 42369,
-		"t": 3,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
-			}
-		]
-	},
 	"4dab626b-79b1-4b4d-b8bb-81d93e660b88": {
 		"name": "android_leaderboards",
 		"v": 14335,
@@ -16865,30 +16769,6 @@
 			{
 				"weight": 0,
 				"value": "control"
-			}
-		]
-	},
-	"5ad38108-f0df-4a91-88bd-5bd63e81feab": {
-		"name": "ios_hermes_rollout_device_v6",
-		"v": 42368,
-		"t": 1,
-		"s": 13,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
 			}
 		]
 	},
@@ -23669,30 +23549,6 @@
 			}
 		]
 	},
-	"7d6b53fd-b2ea-4bbb-936b-b3088a80aab3": {
-		"name": "ios_hermes_rollout_user_v7",
-		"v": 42373,
-		"t": 2,
-		"s": 8,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
-			}
-		]
-	},
 	"7d73078d-ea86-4656-9358-3ea9011a8a12": {
 		"name": "android_mdf_blueberry",
 		"v": 36160,
@@ -29537,30 +29393,6 @@
 			{
 				"weight": 95,
 				"value": "allowed"
-			}
-		]
-	},
-	"9b8f3667-de94-469e-8155-ca4dad5f303e": {
-		"name": "ios_hermes_rollout_user_v8",
-		"v": 42372,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
 			}
 		]
 	},
@@ -39917,30 +39749,6 @@
 			}
 		]
 	},
-	"d5b73000-cada-4308-aece-e37d06c52fc1": {
-		"name": "ios_hermes_rollout_device_v7",
-		"v": 42367,
-		"t": 1,
-		"s": 8,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
-			}
-		]
-	},
 	"d5ceeac2-4734-46f3-a1a6-8edba1c6839c": {
 		"name": "android_raids_ads",
 		"v": 2774,
@@ -43466,30 +43274,6 @@
 			{
 				"weight": 90,
 				"value": "allowed"
-			}
-		]
-	},
-	"e8a7851e-173b-44e0-8648-7e35a05c6da2": {
-		"name": "ios_hermes_rollout_channel_v6",
-		"v": 42371,
-		"t": 3,
-		"s": 12,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "all"
-			},
-			{
-				"weight": 0,
-				"value": "blue"
-			},
-			{
-				"weight": 0,
-				"value": "green"
 			}
 		]
 	},
