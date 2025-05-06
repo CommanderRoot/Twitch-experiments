@@ -13118,20 +13118,20 @@
 	},
 	"4716732b-0c51-4470-8152-5e9443df788c": {
 		"name": "android_hermes_rollout_user_v2",
-		"v": 42444,
+		"v": 42545,
 		"t": 2,
-		"s": 16,
+		"s": 17,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "blue"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "green"
 			}
 		]
@@ -23615,20 +23615,20 @@
 	},
 	"7db1d0e8-92c4-4c6a-bbcd-180ce02f14c0": {
 		"name": "android_hermes_rollout_device_v3",
-		"v": 42454,
+		"v": 42554,
 		"t": 1,
-		"s": 3,
+		"s": 4,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "blue"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "green"
 			}
 		]
@@ -25026,7 +25026,7 @@
 	},
 	"84f64c0e-e4df-4b67-ba82-689237c2e3ba": {
 		"name": "android_hermes_rollout_channel_v2",
-		"v": 42448,
+		"v": 42548,
 		"t": 3,
 		"s": 14,
 		"groups": [
@@ -25035,11 +25035,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "blue"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "green"
 			}
 		]
@@ -28054,20 +28054,20 @@
 	},
 	"9529ccb0-f0bb-4a6b-aaa8-f597c236f190": {
 		"name": "android_hermes_rollout_user_v3",
-		"v": 42446,
+		"v": 42547,
 		"t": 2,
-		"s": 2,
+		"s": 3,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "blue"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "green"
 			}
 		]
@@ -28818,20 +28818,20 @@
 	},
 	"99053a31-d1f6-44f4-99d7-f7f4e3f071b5": {
 		"name": "android_hermes_rollout_channel_v3",
-		"v": 42450,
+		"v": 42550,
 		"t": 3,
-		"s": 2,
+		"s": 3,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "blue"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "green"
 			}
 		]
@@ -38686,20 +38686,20 @@
 	},
 	"cf6b17b1-8bcf-43db-a1de-fd3e1bf7e05a": {
 		"name": "android_hermes_rollout_device_v2",
-		"v": 42452,
+		"v": 42552,
 		"t": 1,
-		"s": 15,
+		"s": 16,
 		"groups": [
 			{
 				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "blue"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "green"
 			}
 		]
