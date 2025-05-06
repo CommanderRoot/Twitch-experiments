@@ -37794,6 +37794,21 @@
 			}
 		]
 	},
+	"caa72fb6-e25c-4fcb-95cf-863b8d9ed9aa": {
+		"name": "ios_clip_subfeeds",
+		"v": 42533,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"cab79eb8-3d4e-48c6-86e5-8c6ac8ae8afe": {
 		"name": "ios_shared_hype_train",
 		"v": 40341,
