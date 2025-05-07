@@ -24910,7 +24910,7 @@
 	},
 	"8468ec0e-b352-4167-873e-e2c6e9623b1a": {
 		"name": "android_mod_view_chat_entry",
-		"v": 42501,
+		"v": 42572,
 		"t": 1,
 		"groups": [
 			{
@@ -24920,6 +24920,10 @@
 			{
 				"weight": 50,
 				"value": "release_24.5"
+			},
+			{
+				"weight": 0,
+				"value": "release_24.6"
 			}
 		]
 	},
@@ -32453,7 +32457,7 @@
 	},
 	"ae8dbfe4-334b-4252-9c2d-d7ffe6ff9aa6": {
 		"name": "android_mod_view_profile_entry",
-		"v": 42503,
+		"v": 42571,
 		"t": 1,
 		"groups": [
 			{
@@ -32463,6 +32467,10 @@
 			{
 				"weight": 50,
 				"value": "release_24.5"
+			},
+			{
+				"weight": 0,
+				"value": "release_24.6"
 			}
 		]
 	},
