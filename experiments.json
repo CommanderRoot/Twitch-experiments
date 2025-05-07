@@ -32457,15 +32457,15 @@
 	},
 	"ae8dbfe4-334b-4252-9c2d-d7ffe6ff9aa6": {
 		"name": "android_mod_view_profile_entry",
-		"v": 42571,
+		"v": 42581,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "release_24.5"
 			},
 			{
