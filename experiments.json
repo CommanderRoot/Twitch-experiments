@@ -12731,15 +12731,15 @@
 	},
 	"452a8921-9958-4feb-9ceb-2cbd0d5bbdfe": {
 		"name": "android_core_player_adaptive_auto_quality",
-		"v": 29581,
+		"v": 42580,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
-				"value": "active_15.9"
+				"weight": 100,
+				"value": "active_24.5"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			}
 		]
