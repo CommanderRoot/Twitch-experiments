@@ -44710,6 +44710,21 @@
 			}
 		]
 	},
+	"eef1da6f-d30b-4c67-afae-ea9daf660714": {
+		"name": "ios_com_ex_check_sub",
+		"v": 42595,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.5"
+			}
+		]
+	},
 	"eef9c444-e095-4a80-9207-5981fb3d9c86": {
 		"name": "ios_auto_enable_beta_features_for_testers",
 		"v": 4335,
