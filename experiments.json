@@ -5822,6 +5822,21 @@
 			}
 		]
 	},
+	"2079a744-b056-492f-b86c-4f1319e157d4": {
+		"name": "ios_com_ex_check_b",
+		"v": 42597,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.5"
+			}
+		]
+	},
 	"208067ce-2bce-4c51-9764-536fe68e1e0c": {
 		"name": "dart_esland_awards_vwr_919_dav_cmc_wch_mis_oe_2301_holdout",
 		"v": 26134,
@@ -17959,6 +17974,21 @@
 			}
 		]
 	},
+	"6097bb56-9be6-46ad-9c81-07dc5ee6a032": {
+		"name": "ios_com_ex_check_s",
+		"v": 42601,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.5"
+			}
+		]
+	},
 	"60a8ed8f-34a0-4802-81a6-ac213cd50cc9": {
 		"name": "android_mgst_160p_low_latency",
 		"v": 17570,
@@ -23863,6 +23893,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"7e7f6d5d-8673-49b4-b186-f4d3b11b7802": {
+		"name": "ios_com_ex_check_g",
+		"v": 42602,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.5"
 			}
 		]
 	},
@@ -44514,6 +44559,21 @@
 			}
 		]
 	},
+	"ee0c0ca5-1188-4453-b279-ea5804caeb30": {
+		"name": "ios_com_ex_check_t",
+		"v": 42598,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.5"
+			}
+		]
+	},
 	"ee43d855-96f9-47eb-a129-2e652b13ec20": {
 		"name": "dart_cb_benefits_swag_redemption_test_holdout",
 		"v": 17632,
@@ -44707,21 +44767,6 @@
 			{
 				"weight": 100,
 				"value": "active_18.1"
-			}
-		]
-	},
-	"eef1da6f-d30b-4c67-afae-ea9daf660714": {
-		"name": "ios_com_ex_check_sub",
-		"v": 42595,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_v24.5"
 			}
 		]
 	},
