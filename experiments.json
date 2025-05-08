@@ -5029,15 +5029,15 @@
 	},
 	"1b1ae4ef-e53e-41fb-b6ad-1db1758db16a": {
 		"name": "android_mdf_thumbnail_placeholder_2",
-		"v": 42090,
+		"v": 42604,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_24.1"
 			}
 		]
