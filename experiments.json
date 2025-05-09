@@ -32532,15 +32532,15 @@
 	},
 	"ae8dbfe4-334b-4252-9c2d-d7ffe6ff9aa6": {
 		"name": "android_mod_view_profile_entry",
-		"v": 42581,
+		"v": 42658,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.5"
 			},
 			{
@@ -34884,11 +34884,11 @@
 	},
 	"b9f045a5-7123-4234-ab21-66305d265d28": {
 		"name": "android_mod_view",
-		"v": 42569,
+		"v": 42659,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -34896,7 +34896,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.5"
 			},
 			{
