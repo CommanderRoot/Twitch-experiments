@@ -14188,12 +14188,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 42583,
+		"v": 42642,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-8bf5ef.pdx01.abs.hls.ttvnw.net/v1/segment/Cu3n7suBgCeeopLSTaBKzvSsyRi8KCMjOuX5YshIuYtxSpTpwLWvG-FwiQSQ1O9ktoJlBQ7dhIgjfK2Jnx-SdOIpjbGaJpYWMwj_dkKZiWCgp-UI3jOUwmaEhOUb3DJE-xuFSKSFVsegY-C2-nQZ41v8294s8D5Lhom5TVyIcAzBA3TjCu0zzxgAYPTyX0pFt_GLlXBoZgOrdmBWNbvV9RpjLgLueE9ghIOZTNiAqPix9HEYXq2IND2GnLi22exWFQI0mA1RmoSuWZlvTfkGE5YEfsV7W9FgxXYEvG27M67IYX3o59z_RqujwfGugoRqlQlbX9EFGM-f2D5iVtMBsJ3wbv9fWVxootDb3f79lvZ0Oa0PCXG6tbYlkdFJjcsIjr848oTMPsVX646DKWhPjbB2-JqhVrguAplvGRjjVPuv3yGGi_hk1g9r9VkCWrgHtlNG6tTp62uezriALRx640z-HPnY1ZYjFtzZnvem6AEnBSdY1ymnZ9J4G--9GpvdxzMk0Ghr1obuQPNM4Hp-a_7qHlNqAbvzA6E8uluWJvBbPA0ggr3YndpN5mXrm-RCBCc59GZdDxC02w6TaJ1JhS-fMoUbz_VMSfU9XwOeAegeMPmLgy82ioi6_YoEGz1hZhljzQvnFJW9UaoGYo9nUkaXDk022deuYaWcqQddXqx5otJk3RmTOyKloL8LXjTdwTGPQAX1SbkDetT7EjQE76ihIF3ba4Z-b_TWUS1z7QUmBVRA4PCH19_qE7YRp9ePcuTaedla.ts"
+				"value": "//video-edge-b9105e.pdx01.abs.hls.ttvnw.net/v1/segment/CocL94T9OuUDIcPPIobnvJo4JBiHkMowXuv5r-EUHBMl6mwKA_zVx7t7oJiUcEPgZlmBZCjMGkcYGy7mH8f7K_fXYybJvSVNel9n82uxDePP4pjwHep6Bu5GXsOLTeE6LorsfKMDY4C8V338dI9heQJViuP_8c8aYzKgbcVw9NtMfFTsyJcpoqOvWDs2Nz9Wi9E_6BDm_a_NNkoLJn67uiBRGGJthxhrkelPLX_Ww78jjv0RUdzMbdL0bQkCOB4mtZk7vMph6Z5JR3p38Y-c7OtfFV5372cFmL54s9hXtRn5B4rqKrOFRz8JurLnfJK_Djoq_uI_vFmIU6uL8x1hSi2C3h5BeB6qm5sDQeutshPXmnI5mQBqum12vz8ynx7KymJgQoVo2V7d-235zgzn4-6fpK1z3BRDkMold7QsHgiHga00wfffLWKgcDnpfwQRaZqEp01cpKxVd35jLJYkumHMsSEmFMtFFIAAu3KLckL6IeYMts-rKMV1-ZlfYe9t6BpGJCFE6IpsO3CiwM5zjbCpES-ZLVkAnfVMClOc-Z1Ylz99m55m3fvR9_CZn2QhCf0bEN62P7um4GlWDjp4zpOSgLGUwh6pHzEZbd4DNRHTe8LPXZA1JYQ7_7-0Vh8sQQEm9vnKKz7Q8pkKvRyNE9XdK370Pz-e65NRNWgixHtHMrt93FyzKyD6U5DbQFj5mQLPUFPnt-W-i3X97gRsig2okSFWhextX20EuDlm3jRkArWFVJ5TOvgSFwi7Ot9ygPkj.ts"
 			}
 		]
 	},
@@ -29578,6 +29578,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"9c79676b-eed7-4254-ba53-53e43960a202": {
+		"name": "ios_com_ex_check_ks",
+		"v": 42640,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.5"
 			}
 		]
 	},
