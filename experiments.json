@@ -3479,6 +3479,21 @@
 			}
 		]
 	},
+	"129f8f9c-5345-4656-9286-5f9865b59c38": {
+		"name": "ios_signup_onboarding",
+		"v": 42662,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"12a2340d-84c9-42d7-a108-dd24a0c2d2df": {
 		"name": "twilight_ad_request_builder_rollout",
 		"v": 38030,
