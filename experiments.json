@@ -18221,19 +18221,15 @@
 	},
 	"62089f85-8c14-4756-a3cd-7665161e5681": {
 		"name": "ios_login_portal",
-		"v": 42488,
+		"v": 42708,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_v24.1"
-			},
-			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v24.4"
 			}
 		]
