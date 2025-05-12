@@ -1054,11 +1054,11 @@
 	},
 	"05d96d2c-397b-4654-a77b-dec32e0964e4": {
 		"name": "android_mod_view_irl_entry",
-		"v": 42697,
+		"v": 42712,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -1066,7 +1066,7 @@
 				"value": "release_24.5"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.6"
 			}
 		]
@@ -24996,11 +24996,11 @@
 	},
 	"8468ec0e-b352-4167-873e-e2c6e9623b1a": {
 		"name": "android_mod_view_chat_entry",
-		"v": 42696,
+		"v": 42711,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -25008,7 +25008,7 @@
 				"value": "release_24.5"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.6"
 			}
 		]
@@ -32573,11 +32573,11 @@
 	},
 	"ae8dbfe4-334b-4252-9c2d-d7ffe6ff9aa6": {
 		"name": "android_mod_view_profile_entry",
-		"v": 42694,
+		"v": 42710,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -32585,7 +32585,7 @@
 				"value": "release_24.5"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.6"
 			}
 		]
