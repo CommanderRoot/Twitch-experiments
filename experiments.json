@@ -37490,7 +37490,7 @@
 	},
 	"c82f4426-f070-4df3-9ba3-6d6311e50bec": {
 		"name": "android_shared_hype_train",
-		"v": 40211,
+		"v": 42693,
 		"t": 1,
 		"groups": [
 			{
@@ -37500,6 +37500,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.5"
 			}
 		]
 	},
@@ -37932,7 +37936,7 @@
 	},
 	"cab79eb8-3d4e-48c6-86e5-8c6ac8ae8afe": {
 		"name": "ios_shared_hype_train",
-		"v": 40341,
+		"v": 42692,
 		"t": 1,
 		"groups": [
 			{
@@ -37942,6 +37946,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.5"
 			}
 		]
 	},
