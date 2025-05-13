@@ -38329,7 +38329,7 @@
 	},
 	"ccfbd252-36ba-4096-8aa5-e3e81999877b": {
 		"name": "android_happy_feet_banner",
-		"v": 42260,
+		"v": 42735,
 		"t": 1,
 		"groups": [
 			{
@@ -38337,8 +38337,12 @@
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_23.6"
+			},
+			{
+				"weight": 100,
+				"value": "active_24.2"
 			}
 		]
 	},
@@ -39421,7 +39425,7 @@
 	},
 	"d2da6787-f0ca-4210-9e6d-2016e3f64721": {
 		"name": "clips_leaderboard_final_rollout",
-		"v": 42310,
+		"v": 42736,
 		"t": 3,
 		"groups": [
 			{
@@ -39429,11 +39433,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active"
 			},
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "active_tcp"
 			}
 		]
