@@ -8868,15 +8868,15 @@
 	},
 	"310c647c-dcb6-4897-9920-2a6eaf522623": {
 		"name": "ios_sprig_on_app_launch",
-		"v": 42485,
+		"v": 42732,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
