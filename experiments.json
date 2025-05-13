@@ -39425,7 +39425,7 @@
 	},
 	"d2da6787-f0ca-4210-9e6d-2016e3f64721": {
 		"name": "clips_leaderboard_final_rollout",
-		"v": 42748,
+		"v": 42751,
 		"t": 3,
 		"groups": [
 			{
@@ -39433,11 +39433,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_tcp"
 			}
 		]
@@ -40435,7 +40435,7 @@
 	},
 	"d7bf28a8-6c69-44c7-864c-b7d8f3f6709d": {
 		"name": "ios_clips_leaderboard",
-		"v": 42746,
+		"v": 42749,
 		"t": 2,
 		"groups": [
 			{
@@ -40443,11 +40443,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_tcp"
 			}
 		]
@@ -45004,7 +45004,7 @@
 	},
 	"f00d52cf-99d6-4df8-8a72-8ffeb518fad3": {
 		"name": "android_clips_leaderboard",
-		"v": 42747,
+		"v": 42750,
 		"t": 2,
 		"groups": [
 			{
@@ -45012,11 +45012,11 @@
 				"value": "control"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "active_24.2"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_tcp"
 			},
 			{
