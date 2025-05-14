@@ -41139,15 +41139,15 @@
 	},
 	"dc194269-3387-435d-a7bd-3f47a43d5812": {
 		"name": "android_recreate_player_on_error",
-		"v": 42050,
+		"v": 42797,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active_24.1"
 			}
 		]
