@@ -3464,21 +3464,6 @@
 			}
 		]
 	},
-	"129f8f9c-5345-4656-9286-5f9865b59c38": {
-		"name": "ios_signup_onboarding",
-		"v": 42662,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"12a2340d-84c9-42d7-a108-dd24a0c2d2df": {
 		"name": "twilight_ad_request_builder_rollout",
 		"v": 38030,
@@ -24345,6 +24330,21 @@
 			}
 		]
 	},
+	"80a039bf-bc24-40d5-aad6-2ca67697a191": {
+		"name": "dart_born_users_segment_test_051425_holdout",
+		"v": 42825,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 33,
+				"value": "holdout"
+			},
+			{
+				"weight": 67,
+				"value": "allowed"
+			}
+		]
+	},
 	"80a4bf5b-0897-4ae6-bf0b-70357524c39b": {
 		"name": "ios_feed_display_content_type_indicator",
 		"v": 2357,
@@ -39152,6 +39152,21 @@
 			}
 		]
 	},
+	"d16cacb6-072e-4877-a3cf-8d9ac3a1ab5f": {
+		"name": "ios_signup_onboarding2",
+		"v": 42819,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"d187cb3d-48b1-4d84-89a4-933557803ceb": {
 		"name": "dart_freeformtagslochero_vwr_760_awa_cmc_lrn_mis_email_228_email",
 		"v": 22578,
@@ -43739,6 +43754,21 @@
 			{
 				"weight": 1,
 				"value": "active_12.2"
+			}
+		]
+	},
+	"ea093772-7b86-49b1-9493-ac618482fe79": {
+		"name": "dart_born_users_segment_test_051425_email",
+		"v": 42826,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
