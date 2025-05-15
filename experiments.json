@@ -8246,6 +8246,21 @@
 			}
 		]
 	},
+	"2e0b7604-4830-4b5f-a9e0-3cf817c386e4": {
+		"name": "project_drinks_sea",
+		"v": 42832,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
+			}
+		]
+	},
 	"2e122324-83ca-43a8-89b4-b583c415cc7a": {
 		"name": "test-otto-experiment",
 		"v": 26536,
@@ -45874,6 +45889,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"f5cb3cf1-373b-46db-8f9d-6b7aaca9f8f7": {
+		"name": "project_snacks_sea",
+		"v": 42833,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
