@@ -1054,7 +1054,7 @@
 	},
 	"05d96d2c-397b-4654-a77b-dec32e0964e4": {
 		"name": "android_mod_view_irl_entry",
-		"v": 42806,
+		"v": 42886,
 		"t": 1,
 		"groups": [
 			{
@@ -1068,6 +1068,10 @@
 			{
 				"weight": 50,
 				"value": "release_24.6"
+			},
+			{
+				"weight": 0,
+				"value": "release_24.7"
 			}
 		]
 	},
@@ -21970,6 +21974,17 @@
 			}
 		]
 	},
+	"74bfba61-bf5d-43b1-bb99-96d277bff119": {
+		"name": "android_mod_view_callouts",
+		"v": 42889,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			}
+		]
+	},
 	"74ee9e53-dade-4628-8442-4ee1d9b6ab51": {
 		"name": "dart_abandonedcart_500824_send2_email",
 		"v": 34164,
@@ -25017,7 +25032,7 @@
 	},
 	"8468ec0e-b352-4167-873e-e2c6e9623b1a": {
 		"name": "android_mod_view_chat_entry",
-		"v": 42805,
+		"v": 42885,
 		"t": 1,
 		"groups": [
 			{
@@ -25031,6 +25046,10 @@
 			{
 				"weight": 50,
 				"value": "release_24.6"
+			},
+			{
+				"weight": 0,
+				"value": "release_24.7"
 			}
 		]
 	},
@@ -32598,7 +32617,7 @@
 	},
 	"ae8dbfe4-334b-4252-9c2d-d7ffe6ff9aa6": {
 		"name": "android_mod_view_profile_entry",
-		"v": 42804,
+		"v": 42888,
 		"t": 1,
 		"groups": [
 			{
@@ -32612,6 +32631,10 @@
 			{
 				"weight": 50,
 				"value": "release_24.6"
+			},
+			{
+				"weight": 0,
+				"value": "release_24.7"
 			}
 		]
 	},
@@ -34950,7 +34973,7 @@
 	},
 	"b9f045a5-7123-4234-ab21-66305d265d28": {
 		"name": "android_mod_view",
-		"v": 42807,
+		"v": 42887,
 		"t": 1,
 		"groups": [
 			{
@@ -34959,15 +34982,15 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_development"
-			},
-			{
-				"weight": 0,
 				"value": "release_24.5"
 			},
 			{
 				"weight": 50,
 				"value": "release_24.6"
+			},
+			{
+				"weight": 0,
+				"value": "release_24.7"
 			}
 		]
 	},
