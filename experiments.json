@@ -45910,16 +45910,16 @@
 	},
 	"f5cb3cf1-373b-46db-8f9d-6b7aaca9f8f7": {
 		"name": "project_snacks_sea",
-		"v": 42891,
+		"v": 42907,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
