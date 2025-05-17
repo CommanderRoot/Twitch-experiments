@@ -8248,16 +8248,16 @@
 	},
 	"2e0b7604-4830-4b5f-a9e0-3cf817c386e4": {
 		"name": "project_drinks_sea",
-		"v": 42874,
+		"v": 42909,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
@@ -45910,16 +45910,16 @@
 	},
 	"f5cb3cf1-373b-46db-8f9d-6b7aaca9f8f7": {
 		"name": "project_snacks_sea",
-		"v": 42907,
+		"v": 42908,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
