@@ -1054,7 +1054,7 @@
 	},
 	"05d96d2c-397b-4654-a77b-dec32e0964e4": {
 		"name": "android_mod_view_irl_entry",
-		"v": 42925,
+		"v": 42935,
 		"t": 1,
 		"groups": [
 			{
@@ -1066,7 +1066,7 @@
 				"value": "release_24.6"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.7"
 			}
 		]
@@ -16553,6 +16553,25 @@
 			}
 		]
 	},
+	"59480905-f91e-48d9-a660-4f02776c38ad": {
+		"name": "android_subscribe_always_visible",
+		"v": 42931,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment_b"
+			},
+			{
+				"weight": 0,
+				"value": "treatment_c"
+			}
+		]
+	},
 	"595dd8f8-3dec-4f12-a193-eb0bceeb1d86": {
 		"name": "pepper_3ds_us",
 		"v": 34116,
@@ -21976,15 +21995,15 @@
 	},
 	"74bfba61-bf5d-43b1-bb99-96d277bff119": {
 		"name": "android_mod_view_callouts",
-		"v": 42895,
+		"v": 42933,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.7"
 			}
 		]
@@ -25036,11 +25055,11 @@
 	},
 	"8468ec0e-b352-4167-873e-e2c6e9623b1a": {
 		"name": "android_mod_view_chat_entry",
-		"v": 42927,
+		"v": 42934,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -25048,7 +25067,7 @@
 				"value": "release_24.6"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.7"
 			}
 		]
@@ -32617,11 +32636,11 @@
 	},
 	"ae8dbfe4-334b-4252-9c2d-d7ffe6ff9aa6": {
 		"name": "android_mod_view_profile_entry",
-		"v": 42928,
+		"v": 42932,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -32629,7 +32648,7 @@
 				"value": "release_24.6"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.7"
 			}
 		]
@@ -34969,11 +34988,11 @@
 	},
 	"b9f045a5-7123-4234-ab21-66305d265d28": {
 		"name": "android_mod_view",
-		"v": 42900,
+		"v": 42936,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -34981,7 +35000,7 @@
 				"value": "release_24.6"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "release_24.7"
 			}
 		]
