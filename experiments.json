@@ -41176,6 +41176,21 @@
 			}
 		]
 	},
+	"dbf6728a-f7b9-4d00-a102-2003b45cd7a2": {
+		"name": "ios_vertical_broadcasting",
+		"v": 42937,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"dc07df8e-b3e0-423d-8b60-741ad8d3bff1": {
 		"name": "ios_accurate_device_volume",
 		"v": 18700,
