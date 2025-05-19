@@ -7729,15 +7729,15 @@
 	},
 	"2b3b1d3e-5254-44f8-ab1c-2d6e7b00026f": {
 		"name": "ios_com_ex_check_main",
-		"v": 42827,
+		"v": 42939,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v24.5"
 			},
 			{
@@ -36084,15 +36084,15 @@
 	},
 	"c1319cd1-3b96-4048-9b8a-a4e1b9383835": {
 		"name": "BalSpen",
-		"v": 42530,
+		"v": 42940,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 80,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 20,
+				"weight": 10,
 				"value": "treatment"
 			}
 		]
