@@ -8263,16 +8263,16 @@
 	},
 	"2e0b7604-4830-4b5f-a9e0-3cf817c386e4": {
 		"name": "project_drinks_sea",
-		"v": 42909,
+		"v": 42954,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
