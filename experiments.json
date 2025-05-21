@@ -37348,6 +37348,21 @@
 			}
 		]
 	},
+	"c6e6bd59-dde7-4202-b387-e9a0e644d5ee": {
+		"name": "automod_baseline",
+		"v": 43000,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "release"
+			}
+		]
+	},
 	"c6f4855c-654a-4eb1-9c00-ade6559e7251": {
 		"name": "dart_commercemerchjune_vwr_715_cmm_cmc_buy_mis_onsite_226_holdout",
 		"v": 21612,
