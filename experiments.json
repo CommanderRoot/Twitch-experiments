@@ -39103,15 +39103,15 @@
 	},
 	"d099bb02-2cf6-478e-9995-d9392be2752b": {
 		"name": "ios_multi_language_selector_2024",
-		"v": 42995,
+		"v": 42996,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 100,
 				"value": "development"
 			}
 		]
