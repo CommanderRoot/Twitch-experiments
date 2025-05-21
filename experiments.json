@@ -6882,6 +6882,21 @@
 			}
 		]
 	},
+	"26727bde-bc0e-4e69-8add-10cdf12f66c3": {
+		"name": "android_clip_feed_unification",
+		"v": 42998,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"26c9f018-f78b-4f35-8cd1-67d44b9e5b88": {
 		"name": "android_user_appeals",
 		"v": 19855,
@@ -15039,7 +15054,7 @@
 	},
 	"504f092f-19c0-476f-bcdc-58b89feba35e": {
 		"name": "android_joy_in_sharing",
-		"v": 41492,
+		"v": 42999,
 		"t": 1,
 		"groups": [
 			{
@@ -15052,7 +15067,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_23.7"
+				"value": "active_24.7"
 			}
 		]
 	},
