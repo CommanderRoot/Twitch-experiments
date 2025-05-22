@@ -14227,12 +14227,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 42984,
+		"v": 43013,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-b422af.pdx01.abs.hls.ttvnw.net/v1/segment/CkoMhnPciMY4tFJn-Q5BdFMulGn5fKHbfoFbUqCt9rci5FbtrXwSHcJ8VFiCa_vR4AygN4TKwJsKFMpjWhHbSnVchAP6LE0-hfBm0P6sjsg7DE2T1ABvVS5wYlsCgl_NNhXMsUPZ6zRjrNAytizZAm2q9BoyIcVTPrPJxV3Nk2fJlWcrZMaFA87N-TGBcI-EVbQJgns0oLd9HHjL8IpEt0BKVJaWFtSczIO7FDdaAbstJ966-6T1FDIUC0HGvV3GRCS-VhdcCBLxJq1N3EUCnLFS6qKfAZc9fXK20kPxn57OvyhSB4p5sm451xddV3tSFApF-K5uufSoG3tOlCRex8tYuGhkYwVxHdX8wdlFIDuKp81WLiHUa2LA_8Id2FpXykaL24FMqHbZkBjzkR_1DxIlrEwZ0rjssABrkSD21P07CzC25TJy8LYnLmnnk6HOtCgV8W83NPo0RO-u2Jsa-OiVjQdePdetT-ifAu1umJ4uWSDUgdbc26jCxT3-60RPHAKJLsGD3Wn-FXpTGz5Db-Tn8Vr1T3rxUiuXp7us16gjrYZQb4YrL8PvygXFt3F9pvt7nmGnu1462hIj_pHA6kOZPFOflBPihJuEfprH4WxtqcLsgFQNPS15w_Y4TeuGWEJCfXTrfXPwXf0q4NtmhVZKwi3sW4ZJBujD16JRIyXzOLPcNA7JMIRzIuHq1a_3c9t9RbFfhpKGIF1jDXvVc83RY3awQifgoSzwYSbQVE1-tZmb8qVFaej6hBh6vqva1SsKgLwIWSJ0leyvPu.ts"
+				"value": "//video-edge-1786f4.pdx01.abs.hls.ttvnw.net/v1/segment/CvbwF4bpNZd1quMR5hrj5E9Iu5SJlP5fIIQBrgU5FWbxOnsZHDsldY8VSOJ4p5xA2wsCcoRsdjfVwJBYW1_gAy-vge_VIex8IeIwq6MLOCsbmDEplhlFuh5oz5oF_7RSxE-ge-mFt5ak6IQVnFOoH-RWADjCGhNHE3qDcAK2uBd-7WgcxvqQlQAyJOLUvgn5qUySyleOWDL4kKOVbtJGPAcyi-qqun-au1j8Cg05XJUoO9suzTtP87xNIDfmaQND-gF2NiiBf9shoTuO8oAvqSkG6BflxtD_zstBz0ShC3NuPqKBMkm22nOZYFbjd1CmICDy9R_PWt_f22S_h7zH013FRQEr2DP4ptKGEkc-LJIfbwNpYBgUM9vFatSybjzIvBKD75C8_z9k85CczUeAprD7NwK2xm6-PcLAmfINjooL8PvgwELqnlfyN8bL2ofmOt3ur3FgHNQtCjZPbaMBMeetUYz3jVD22nggbS_8kmp6H5bD0rgOdPP5LKDZPO6OP6NqnsIx_3R-GhzYYiorUnZwrwHrTLdSciOg2-gZ-Zz2bQSWZsbsCYHvvFGgB1bHG2pZHrYkJgCn14rNs6e73ZRRGwmDquwyZiN1M-1Foq4ydLkMszBZNNg4z6WtxnEeGcmECVs_9xmBGZMtDBErigCHWIq30zUZCcwxBq5tYAiwMwUylSw59WiT7IIG3RxWUl25LQhcAAWJKd6k273qTkTqkSr_YUG31OuXZrtxdWK0Iib5GJ_Dw6EO1g0Pi.ts"
 			}
 		]
 	},
@@ -22624,6 +22624,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"78234a58-a4e8-4ba4-a6c3-c3dc85af8295": {
+		"name": "android_profile_qr_code",
+		"v": 43012,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.7"
 			}
 		]
 	},
