@@ -8959,7 +8959,7 @@
 	},
 	"31513431-a09f-4d4b-a05e-51c7adc3b76b": {
 		"name": "android_clips_manager",
-		"v": 43015,
+		"v": 43053,
 		"t": 2,
 		"groups": [
 			{
@@ -8972,7 +8972,7 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_24.6"
+				"value": "active_24.7"
 			}
 		]
 	},
@@ -24939,7 +24939,7 @@
 	},
 	"82cedddf-97f6-4de4-b935-6d1374d6ed35": {
 		"name": "android_clip_manager_filters",
-		"v": 41589,
+		"v": 43054,
 		"t": 2,
 		"groups": [
 			{
@@ -24949,6 +24949,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.7"
 			}
 		]
 	},
