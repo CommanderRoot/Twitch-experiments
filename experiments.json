@@ -32464,21 +32464,6 @@
 			}
 		]
 	},
-	"ad505384-e920-4fbc-b497-662840867998": {
-		"name": "web_ivs_player_scip_probe",
-		"v": 31004,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "treatment"
-			}
-		]
-	},
 	"ad5229cc-34bc-42c7-8fa3-c15af1a15406": {
 		"name": "android_cdml_onboarding_portal",
 		"v": 43011,
@@ -41940,6 +41925,21 @@
 			{
 				"weight": 0,
 				"value": "active_11.1"
+			}
+		]
+	},
+	"df24c2db-dc5a-40c9-8508-1c65fbc4ca7c": {
+		"name": "ivs_web_edge_prewarm_v2",
+		"v": 43084,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "treatment"
 			}
 		]
 	},
