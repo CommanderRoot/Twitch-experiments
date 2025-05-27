@@ -4186,21 +4186,6 @@
 			}
 		]
 	},
-	"16345687-f2cc-4cbe-87a3-65bc57c4bc45": {
-		"name": "hype_plane_ios_client_banner",
-		"v": 43093,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active_24.8"
-			}
-		]
-	},
 	"16641928-b480-4891-a7ee-8881c80cea85": {
 		"name": "ios_onsite_notifcation_gestures",
 		"v": 20437,
@@ -22453,6 +22438,21 @@
 			{
 				"weight": 50,
 				"value": "treatment"
+			}
+		]
+	},
+	"77414ff2-451e-4079-b767-a9a4b1ddcea5": {
+		"name": "ios_hype_plane_banner",
+		"v": 43109,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.8"
 			}
 		]
 	},
