@@ -607,6 +607,21 @@
 			}
 		]
 	},
+	"033d9c1c-0f87-4f0a-9e69-9ea28dff1ad7": {
+		"name": "ios_com_ex_check_al",
+		"v": 43142,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v24.8"
+			}
+		]
+	},
 	"034c69e4-45d6-4e68-9c1e-7709459a9301": {
 		"name": "dart_welcomeheroimagetest_vwr_463_dav_cmc_wch_mis_email_2107_holdout",
 		"v": 17180,
@@ -5024,6 +5039,17 @@
 			{
 				"weight": 0,
 				"value": "active_24.1"
+			}
+		]
+	},
+	"1b340bcf-7eef-4d9f-bed4-945acfc1696f": {
+		"name": "ios_cspon_cs_v2",
+		"v": 43144,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
 			}
 		]
 	},
