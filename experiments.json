@@ -39334,6 +39334,25 @@
 			}
 		]
 	},
+	"d0ddf3a2-90d5-4429-a68a-5775a6aba3fb": {
+		"name": "ios_com_ex_check_main_v2",
+		"v": 43166,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_with_auto_login"
+			},
+			{
+				"weight": 0,
+				"value": "active_no_auto_login"
+			}
+		]
+	},
 	"d0ecd325-f23b-4dd7-803f-37f5885daabc": {
 		"name": "android_low_latency",
 		"v": 6254,
