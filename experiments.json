@@ -7635,7 +7635,7 @@
 	},
 	"2a6c4e33-b5a9-4c59-8e12-820bb3442d1b": {
 		"name": "android_chat_replies_incoming",
-		"v": 40576,
+		"v": 43124,
 		"t": 1,
 		"groups": [
 			{
@@ -7645,6 +7645,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.7"
 			}
 		]
 	},
@@ -8770,7 +8774,7 @@
 	},
 	"30725fbe-0fd7-4ebe-ac83-05af2d583a69": {
 		"name": "android_chat_replies_sending",
-		"v": 41198,
+		"v": 43123,
 		"t": 1,
 		"groups": [
 			{
@@ -8780,6 +8784,10 @@
 			{
 				"weight": 0,
 				"value": "active_development"
+			},
+			{
+				"weight": 0,
+				"value": "active_24.7"
 			}
 		]
 	},
