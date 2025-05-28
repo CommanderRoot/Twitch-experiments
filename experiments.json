@@ -14130,15 +14130,15 @@
 	},
 	"4b6f18e8-474c-44b1-a140-987f8946abdc": {
 		"name": "android_chat_rules_mvvm",
-		"v": 42174,
+		"v": 43133,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_24.3"
 			}
 		]
