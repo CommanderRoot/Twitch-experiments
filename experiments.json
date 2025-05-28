@@ -17076,6 +17076,21 @@
 			}
 		]
 	},
+	"5bd610f6-25f5-42bf-a257-80f9b24895ce": {
+		"name": "android_eppo_aa",
+		"v": 43153,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_24.8"
+			}
+		]
+	},
 	"5bdc977b-e357-4d77-b271-51b10a556789": {
 		"name": "ios_chat_replies",
 		"v": 40560,
