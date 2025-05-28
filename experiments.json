@@ -5044,12 +5044,16 @@
 	},
 	"1b340bcf-7eef-4d9f-bed4-945acfc1696f": {
 		"name": "ios_cspon_cs_v2",
-		"v": 43144,
+		"v": 43145,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_debug"
 			}
 		]
 	},
@@ -13631,6 +13635,21 @@
 			}
 		]
 	},
+	"492aa26d-6228-4e91-8fc4-af692790631c": {
+		"name": "dart_newly_frozen_drops_052225_email",
+		"v": 43147,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"4955b762-229d-46ff-b56b-5426df6c82fe": {
 		"name": "ios_mgst_log_memory",
 		"v": 14070,
@@ -21437,6 +21456,21 @@
 			{
 				"weight": 0,
 				"value": "active_15.9"
+			}
+		]
+	},
+	"7262de35-ae80-4146-8fd7-6bc1cec01bc6": {
+		"name": "dart_newly_frozen_drops_052225_holdout",
+		"v": 43146,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
 			}
 		]
 	},
