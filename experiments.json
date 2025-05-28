@@ -14419,11 +14419,11 @@
 	},
 	"4d0e9a99-b9c9-4fcf-bcc9-29dee1c20c3d": {
 		"name": "android_clip_discovery",
-		"v": 39181,
+		"v": 43129,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -14431,7 +14431,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_22.5"
 			}
 		]
