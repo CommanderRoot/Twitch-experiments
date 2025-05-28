@@ -20081,15 +20081,15 @@
 	},
 	"6c40a5e3-843f-4c06-8039-6bd3b74ce141": {
 		"name": "android_spooky_sprint",
-		"v": 42734,
+		"v": 43140,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 95,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 5,
 				"value": "active_24.6"
 			}
 		]
@@ -23368,7 +23368,7 @@
 	},
 	"7be6e176-3c3e-46a3-ab50-abd8dc73da1e": {
 		"name": "Twilight Player Core NPM Distribution (Staff)",
-		"v": 42958,
+		"v": 43136,
 		"t": 1,
 		"groups": [
 			{
@@ -43904,15 +43904,15 @@
 	},
 	"e9929089-1dcf-4fc5-bcd8-8cca1b9dc584": {
 		"name": "android_feed_source",
-		"v": 41819,
+		"v": 43137,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_23.6"
 			}
 		]
