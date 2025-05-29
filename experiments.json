@@ -5967,9 +5967,9 @@
 	},
 	"2117674d-7c40-4de5-bdda-b95097161235": {
 		"name": "ios_hermes_rollout_channel_v10",
-		"v": 43186,
+		"v": 43187,
 		"t": 3,
-		"s": 6,
+		"s": 7,
 		"groups": [
 			{
 				"weight": 0,
@@ -15042,9 +15042,9 @@
 	},
 	"5014ffeb-a24e-42a8-b24e-d8d2a94d3a6e": {
 		"name": "ios_hermes_rollout_device_v9",
-		"v": 43099,
+		"v": 43189,
 		"t": 1,
-		"s": 6,
+		"s": 7,
 		"groups": [
 			{
 				"weight": 0,
@@ -15055,11 +15055,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -40267,9 +40267,9 @@
 	},
 	"d5d112de-ef12-49ba-ab55-a471fb8f7294": {
 		"name": "ios_hermes_rollout_device_v10",
-		"v": 43100,
+		"v": 43191,
 		"t": 1,
-		"s": 6,
+		"s": 7,
 		"groups": [
 			{
 				"weight": 0,
@@ -40280,11 +40280,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
