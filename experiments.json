@@ -5967,7 +5967,7 @@
 	},
 	"2117674d-7c40-4de5-bdda-b95097161235": {
 		"name": "ios_hermes_rollout_channel_v10",
-		"v": 43098,
+		"v": 43186,
 		"t": 3,
 		"s": 6,
 		"groups": [
@@ -5980,11 +5980,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -6948,9 +6948,9 @@
 	},
 	"26d5da14-e8de-4fb6-a0a3-78b52a0eca9b": {
 		"name": "ios_hermes_rollout_user_v9",
-		"v": 43094,
+		"v": 43181,
 		"t": 2,
-		"s": 6,
+		"s": 7,
 		"groups": [
 			{
 				"weight": 0,
@@ -6961,11 +6961,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -25848,9 +25848,9 @@
 	},
 	"881ce603-9403-4093-a6a9-466c50c72eed": {
 		"name": "ios_hermes_rollout_channel_v9",
-		"v": 43096,
+		"v": 43185,
 		"t": 3,
-		"s": 6,
+		"s": 7,
 		"groups": [
 			{
 				"weight": 0,
@@ -25861,11 +25861,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
@@ -31565,9 +31565,9 @@
 	},
 	"a765bc00-5e32-4acb-a15e-59767a41dba0": {
 		"name": "ios_hermes_rollout_user_v10",
-		"v": 43095,
+		"v": 43183,
 		"t": 2,
-		"s": 6,
+		"s": 7,
 		"groups": [
 			{
 				"weight": 0,
@@ -31578,11 +31578,11 @@
 				"value": "all"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "blue"
 			},
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "green"
 			}
 		]
