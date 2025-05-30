@@ -3464,6 +3464,21 @@
 			}
 		]
 	},
+	"1279c127-1a48-4bb6-90d3-4164b359598a": {
+		"name": "dart_eldenring_gtm_launch_campaign_053025_holdout",
+		"v": 43219,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"129a48af-8e45-4c21-ac02-6d2b9fa3bfe5": {
 		"name": "dart_apac_modappreciationday_vwr_0_dav_trn_wch_gmg_email_2303_nonen_holdout",
 		"v": 27017,
@@ -23615,6 +23630,21 @@
 			}
 		]
 	},
+	"7c641bc4-34af-4c59-9727-62f1754b53fb": {
+		"name": "dart_eldenring_frozen_053025_holdout",
+		"v": 43214,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"7c6a091e-8c21-45f4-a979-184a94c8f56d": {
 		"name": "dart_crunchyrollquest_localizedheaderimg_fresh_nojpcn_051925_holdout",
 		"v": 42947,
@@ -42773,6 +42803,25 @@
 			{
 				"weight": 100,
 				"value": "active_21.5"
+			}
+		]
+	},
+	"e293d16d-fe29-4543-ac1d-977370164b12": {
+		"name": "ios_sky_port",
+		"v": 43213,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_theater"
+			},
+			{
+				"weight": 0,
+				"value": "active_overlay"
 			}
 		]
 	},
