@@ -4581,7 +4581,7 @@
 	},
 	"18966528-96d3-45be-9274-0dede91e9add": {
 		"name": "dart_rivals_generic_holdout",
-		"v": 43210,
+		"v": 43223,
 		"t": 2,
 		"groups": [
 			{
@@ -11468,7 +11468,7 @@
 	},
 	"3ec67ba4-8423-48dc-8f1a-babe6c92346e": {
 		"name": "dart_rivals_generic_push",
-		"v": 43211,
+		"v": 43224,
 		"t": 2,
 		"groups": [
 			{
@@ -23069,6 +23069,21 @@
 			{
 				"weight": 95,
 				"value": "allowed"
+			}
+		]
+	},
+	"796ba45a-3433-4359-a022-ea543446fda8": {
+		"name": "dart_twokstreaming_abtest_053125_email",
+		"v": 43220,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
 			}
 		]
 	},
