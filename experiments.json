@@ -28665,6 +28665,21 @@
 			}
 		]
 	},
+	"966d5406-c7dd-4073-8c40-45071f8f861b": {
+		"name": "dart_zdf_clf_053125_holdout",
+		"v": 43252,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "holdout"
+			},
+			{
+				"weight": 85,
+				"value": "allowed"
+			}
+		]
+	},
 	"96771625-1381-489b-ac51-1cc43c50d67d": {
 		"name": "hype_train_approaching_2",
 		"v": 38203,
