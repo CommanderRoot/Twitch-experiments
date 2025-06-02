@@ -41603,15 +41603,15 @@
 	},
 	"dc274465-a07a-4d1f-8808-2b10e71be539": {
 		"name": "darklaunch_proxy_request_to_processor_rollout",
-		"v": 43273,
+		"v": 43276,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 1,
+				"weight": 10,
 				"value": "rollout"
 			}
 		]
