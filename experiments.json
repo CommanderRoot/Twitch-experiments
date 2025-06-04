@@ -22119,15 +22119,15 @@
 	},
 	"74bfba61-bf5d-43b1-bb99-96d277bff119": {
 		"name": "android_mod_view_callouts",
-		"v": 43235,
+		"v": 43307,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "release_24.7"
 			}
 		]
