@@ -9005,11 +9005,11 @@
 	},
 	"31513431-a09f-4d4b-a05e-51c7adc3b76b": {
 		"name": "android_clips_manager",
-		"v": 43289,
+		"v": 43348,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -9017,7 +9017,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_24.7"
 			}
 		]
