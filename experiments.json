@@ -44137,15 +44137,15 @@
 	},
 	"e9929089-1dcf-4fc5-bcd8-8cca1b9dc584": {
 		"name": "android_feed_source",
-		"v": 43137,
+		"v": 43347,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 0,
 				"value": "active_23.6"
 			}
 		]
