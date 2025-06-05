@@ -29794,6 +29794,21 @@
 			}
 		]
 	},
+	"9b33d240-bb5d-41f3-8131-4b6ceca3a05b": {
+		"name": "dart_igdb_user_verification_holdout",
+		"v": 43329,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "holdout"
+			},
+			{
+				"weight": 0,
+				"value": "allowed"
+			}
+		]
+	},
 	"9b438522-a2c8-465c-aa03-c3d4bacf5509": {
 		"name": "community-gifting-recommendation-v2.8",
 		"v": 38211,
