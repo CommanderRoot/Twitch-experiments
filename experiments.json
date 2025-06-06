@@ -637,22 +637,6 @@
 			}
 		]
 	},
-	"038a8520-6a9a-44eb-a745-1c3e960c4211": {
-		"name": "pepper_3ds_global",
-		"v": 34010,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant"
-			}
-		]
-	},
 	"03bea943-d1c0-4088-8164-516f7c0fa557": {
 		"name": "ios_player_pooling_strategy",
 		"v": 29169,
@@ -16697,22 +16681,6 @@
 			}
 		]
 	},
-	"595dd8f8-3dec-4f12-a193-eb0bceeb1d86": {
-		"name": "pepper_3ds_us",
-		"v": 34116,
-		"t": 2,
-		"s": 1,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant"
-			}
-		]
-	},
 	"59657eb8-1f03-40a0-b7e1-15dd382ac863": {
 		"name": "ios_gs_rtj_sub_length",
 		"v": 30129,
@@ -21308,22 +21276,6 @@
 			{
 				"weight": 100,
 				"value": "fatal_only"
-			}
-		]
-	},
-	"71e5793b-feaf-4954-907d-8fabe52e02d5": {
-		"name": "pepper_3ds",
-		"v": 34009,
-		"t": 2,
-		"s": 4,
-		"groups": [
-			{
-				"weight": 0,
-				"value": "control"
-			},
-			{
-				"weight": 100,
-				"value": "variant"
 			}
 		]
 	},
