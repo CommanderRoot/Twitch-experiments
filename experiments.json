@@ -5821,6 +5821,21 @@
 			}
 		]
 	},
+	"2075eba3-65d6-4178-9566-a0a6ad0a795f": {
+		"name": "dart_giftsubpromo_q2_060725_holdout",
+		"v": 43407,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"2079a744-b056-492f-b86c-4f1319e157d4": {
 		"name": "ios_com_ex_check_b",
 		"v": 42716,
