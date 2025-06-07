@@ -15148,11 +15148,11 @@
 	},
 	"504f092f-19c0-476f-bcdc-58b89feba35e": {
 		"name": "android_joy_in_sharing",
-		"v": 43414,
+		"v": 43416,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -15160,7 +15160,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_24.7"
 			}
 		]
