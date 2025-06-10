@@ -14321,12 +14321,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 43426,
+		"v": 43454,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-011531.pdx01.abs.hls.ttvnw.net/v1/segment/CrWLAXG4-4NMoIe1sp5a6RAGh5UjbqtdIXYMCJv3XQfWDXRcH2ZivjGghzG2cDomqbTjz483Jh2WPvcS3odAs8njH5WSX7SxpvKeXH5sps4JCvHJmEMHG8mQKNSLCOop72YugT-pPzidhye5FiU45a9nrVVXWNWHYgk497uPzVMNXio5NEn2p0AHOrFXCU5YCWCDJqPdwlpoaZjJmD1hkTjdV_EUisoG8q6FavfWnnzZsbXSPNhQ_Vfm_UwVGAQdTxG643Oft3XCXLJ0J297lRbOmnpzxBDbQvxXxVhDr58C5UU8BSUWguAMjPS9B5irQEbiFqPN2lZIoW17C6J_H2nTbN-KUSq9GPg-rqQkjloiY7Vmj-vsp7sgKfjytUGQ-vld2U23dQNElBlyDeXLu9ZjK-fw1gc9kxudiHWSblPGhKCeqyqJZhRV_z_tn_y7OFqhcjrmez6ykxPvUGXOZlKZlhH8uXlAGltK-pnv2ANbVoqEaw0wL_ovYgJkmp7N6enqrx3qwFhzPt12t8FiY0kMwp0K0771q-XAzorEPVN0MbD8G_hIrbd1BkgQkHjg_7OMFdO590eoURQs4GFiZeRyHwHS5V_6BSiH1kiXpKvW5LtrN78LTSZjEjNJ2WFxNSvgo58Ievv9K17y_mApuYSb3C0V6_LyGGxLMa3N8b-2AeysQ69Krpl4fzM9RK3nbiawTDn7qN28xzZEDOAOBV69Fr9T3fkyvZ9CeOgL36ZOfXj6_qeqt987lpruXw0yj.ts"
+				"value": "//video-edge-19e716.pdx01.abs.hls.ttvnw.net/v1/segment/CggQknYH-ZOliEIxt7KgiKqLILygI5QaK5ELecKshW87e3qrpmYq5ZihlmvrYFPwoog1BQ65gBRBfDOLt51lm0p9WITFIMf456o1hA2ojmPlR0ffJXEEK3Qo78J4rc8a7eFnO3Ot_B8RnXumrHZYG8sGhrTusR0T3P8Yeh25mWojefYcZh0x6ATCGvqnUICjIcNUnK9KpBpM4iZ7-S4ZApjhbJCi3CCGyzkB1C3yC3bnrhgpAEgfMdotlMV8uujdfvyw9oXzNAwDMdkgvRO5857HPnDEW01PhKUWikPjrL3XuurhJLHjZ8NbhkFjt27do3b6AcaTXXYVo2dvWNacXQG-WbjY1CXKjvGuCu6rumLcfuDAozFbbk8RgHHdQQpb5uyKU5O_qoaVZ8GWh5s_eSXFjyQ7cFgDtuCJT2sUqpFSRkvjRg0a0w_Ydh-MTBEQ4Gxc09B45vHwJfdYGCmRFJfMag9tKccTvXXO5uXfnaqosbHYh2dhxmB3dbvIwtE0Vqsg5yNxFLLP_M4fPdt3fg31acuxNQJjlu2XYnQENUFE4Ihox4i1D3LRnLiBpbWZlxxIxLP_nnxl9q3bHEUSpGMxt_A8AsIbEA97D3K8_0BR-Q5L6kWYZcrNP5lrhB12FCp3bngtDFMWyX3qLnCaSzi7WB9ysAXg0K3ewPpV-zmDQhUy_Jt4QwNEra4uWF8ieVuo84nDe1aD-hDl0PYlOXwyNOgdR2wPGJCAXckxIA7ZTt3n1-HMD6wGA.ts"
 			}
 		]
 	},
@@ -48272,19 +48272,19 @@
 	},
 	"ff286229-83f1-4456-92d7-942f377f1723": {
 		"name": "android_logged_out",
-		"v": 43447,
+		"v": 43453,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 76,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 12,
 				"value": "skip_in_login_screen_24.8"
 			},
 			{
-				"weight": 5,
+				"weight": 12,
 				"value": "no_login_wall_24.8"
 			}
 		]
