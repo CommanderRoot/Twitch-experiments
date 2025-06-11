@@ -7653,11 +7653,11 @@
 	},
 	"2a6c4e33-b5a9-4c59-8e12-820bb3442d1b": {
 		"name": "android_chat_replies_incoming",
-		"v": 43343,
+		"v": 43479,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -7665,7 +7665,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_24.7"
 			}
 		]
@@ -8800,11 +8800,11 @@
 	},
 	"30725fbe-0fd7-4ebe-ac83-05af2d583a69": {
 		"name": "android_chat_replies_sending",
-		"v": 43344,
+		"v": 43478,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -8812,7 +8812,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_24.7"
 			}
 		]
@@ -17103,15 +17103,15 @@
 	},
 	"5bdc977b-e357-4d77-b271-51b10a556789": {
 		"name": "ios_chat_replies",
-		"v": 43345,
+		"v": 43477,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
