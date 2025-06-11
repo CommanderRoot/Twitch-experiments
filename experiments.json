@@ -25072,11 +25072,11 @@
 	},
 	"82cedddf-97f6-4de4-b935-6d1374d6ed35": {
 		"name": "android_clip_manager_filters",
-		"v": 43054,
+		"v": 43484,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			},
 			{
@@ -25084,7 +25084,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active_24.7"
 			}
 		]
