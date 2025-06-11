@@ -20163,15 +20163,15 @@
 	},
 	"6c40a5e3-843f-4c06-8039-6bd3b74ce141": {
 		"name": "android_spooky_sprint",
-		"v": 43320,
+		"v": 43489,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 25,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 75,
 				"value": "active_24.6"
 			}
 		]
@@ -43744,6 +43744,21 @@
 			{
 				"weight": 0,
 				"value": "recaptcha_deprecated"
+			}
+		]
+	},
+	"e7950307-9933-4dbe-91dc-98bb92764a15": {
+		"name": "dart_mobilechatreplies_030625_holdout",
+		"v": 43488,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
 			}
 		]
 	},
