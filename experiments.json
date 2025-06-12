@@ -12510,6 +12510,21 @@
 			}
 		]
 	},
+	"4398e772-82ca-41df-aac3-9d7c5f9e06b2": {
+		"name": "ios_eppo_aa",
+		"v": 43501,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "active_v25.0"
+			}
+		]
+	},
 	"43a6a23c-b9df-43ed-b71c-448075440f03": {
 		"name": "roster_team_reads",
 		"v": 23721,
