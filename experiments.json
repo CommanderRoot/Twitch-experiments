@@ -42151,6 +42151,21 @@
 			}
 		]
 	},
+	"defb8a8b-8dd2-437a-a189-a8c756e19340": {
+		"name": "ios_logged_out",
+		"v": 43512,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "control"
+			},
+			{
+				"weight": 50,
+				"value": "no_login_screen"
+			}
+		]
+	},
 	"df092dd0-b03a-488f-a54d-3170002fb914": {
 		"name": "dart_mariodaycreator_ctr_952_dav_cmc_lrn_gmg_onsite_2303_holdout",
 		"v": 26761,
