@@ -38434,15 +38434,15 @@
 	},
 	"cb722809-ec8c-4871-9cb7-008cfff86165": {
 		"name": "android_feed_source_device",
-		"v": 43442,
+		"v": 43543,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 98,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 2,
+				"weight": 0,
 				"value": "active_24.7"
 			}
 		]
