@@ -314,7 +314,7 @@
 	},
 	"0194f9ef-dfd5-4b78-b203-a95ed1db871f": {
 		"name": "spent_bits_clawback",
-		"v": 38549,
+		"v": 43574,
 		"t": 2,
 		"groups": [
 			{
@@ -322,11 +322,11 @@
 				"value": "disabled"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "dark_launch"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "full_launch"
 			}
 		]
