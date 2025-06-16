@@ -13023,7 +13023,7 @@
 	},
 	"45d5d88a-5b6f-4053-a769-520d567d6b5d": {
 		"name": "dart_ban_user_email",
-		"v": 41987,
+		"v": 43582,
 		"t": 2,
 		"groups": [
 			{
@@ -18411,15 +18411,15 @@
 	},
 	"62089f85-8c14-4756-a3cd-7665161e5681": {
 		"name": "ios_login_portal",
-		"v": 43494,
+		"v": 43581,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_v24.9"
 			}
 		]
@@ -22573,15 +22573,15 @@
 	},
 	"77414ff2-451e-4079-b767-a9a4b1ddcea5": {
 		"name": "ios_hype_plane_banner",
-		"v": 43109,
+		"v": 43579,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_24.8"
 			}
 		]
@@ -27350,7 +27350,7 @@
 	},
 	"8f05b9b2-a3f0-44a1-97f0-373f1f4e2206": {
 		"name": "dart_warn_user_email",
-		"v": 41988,
+		"v": 43583,
 		"t": 2,
 		"groups": [
 			{
