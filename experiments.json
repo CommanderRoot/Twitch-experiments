@@ -23520,7 +23520,7 @@
 	},
 	"7be6e176-3c3e-46a3-ab50-abd8dc73da1e": {
 		"name": "Twilight Player Core NPM Distribution (Staff)",
-		"v": 43136,
+		"v": 43627,
 		"t": 1,
 		"groups": [
 			{
@@ -23532,11 +23532,11 @@
 				"value": "variant-a"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant-b"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "variant-m"
 			}
 		]
