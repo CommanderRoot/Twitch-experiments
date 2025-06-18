@@ -20763,6 +20763,21 @@
 			}
 		]
 	},
+	"6f0d38bd-2aa0-413a-9341-8aa8d8db8c52": {
+		"name": "ios_ivs_load_clip_manifest",
+		"v": 43625,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"6f234cba-bb65-427f-a2f5-a25a4dd2aaee": {
 		"name": "android_abot_ftue",
 		"v": 41935,
