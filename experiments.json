@@ -26514,11 +26514,11 @@
 	},
 	"8b729d15-fc7b-487a-8412-0a892262a79c": {
 		"name": "android_clip_paging_update",
-		"v": 43481,
+		"v": 43613,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -26526,7 +26526,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_24.9"
 			}
 		]
