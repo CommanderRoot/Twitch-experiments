@@ -24646,21 +24646,6 @@
 			}
 		]
 	},
-	"80a039bf-bc24-40d5-aad6-2ca67697a191": {
-		"name": "dart_born_users_segment_test_051425_holdout",
-		"v": 42883,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 33,
-				"value": "holdout"
-			},
-			{
-				"weight": 67,
-				"value": "allowed"
-			}
-		]
-	},
 	"80a4bf5b-0897-4ae6-bf0b-70357524c39b": {
 		"name": "ios_feed_display_content_type_indicator",
 		"v": 2357,
@@ -44307,21 +44292,6 @@
 			{
 				"weight": 1,
 				"value": "active_12.2"
-			}
-		]
-	},
-	"ea093772-7b86-49b1-9493-ac618482fe79": {
-		"name": "dart_born_users_segment_test_051425_email",
-		"v": 42884,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
