@@ -16714,19 +16714,19 @@
 	},
 	"59480905-f91e-48d9-a660-4f02776c38ad": {
 		"name": "android_subscribe_always_visible",
-		"v": 43451,
+		"v": 43616,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 34,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "treatment_b_24.9"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "treatment_c_24.9"
 			}
 		]
@@ -18324,15 +18324,15 @@
 	},
 	"61932a06-0881-4853-bf5d-726f6c1d7c28": {
 		"name": "android_mdf_media_player",
-		"v": 43465,
+		"v": 43615,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 90,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 10,
 				"value": "active_24.9"
 			}
 		]
