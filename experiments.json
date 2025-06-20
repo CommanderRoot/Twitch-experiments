@@ -22477,6 +22477,21 @@
 			}
 		]
 	},
+	"7658631f-bd50-4085-b074-4414316e4458": {
+		"name": "dart_clips_test_062025_holdout",
+		"v": 43657,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"7659376b-8b80-40ee-bfdc-e0cc6a586f36": {
 		"name": "dart_adlastchancenov_ctr_848_awa_cmc_non_mis_eo_1122_holdout",
 		"v": 25393,
