@@ -38338,6 +38338,21 @@
 			}
 		]
 	},
+	"ca02f370-d6e5-495d-9b47-635d9c4016fc": {
+		"name": "android_search_offline_profile",
+		"v": 43675,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_development"
+			}
+		]
+	},
 	"ca0925b3-1c6b-4351-8309-a2110855bd3f": {
 		"name": "dart_frozenbatchen1011_vwr_560_dav_cmc_wch_mis_email_2111_holdout",
 		"v": 17728,
