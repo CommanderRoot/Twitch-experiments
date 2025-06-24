@@ -36440,11 +36440,11 @@
 	},
 	"c0fc8ab6-1c5b-4b5a-832b-25823b5a2870": {
 		"name": "android_cdml_onboarding",
-		"v": 43573,
+		"v": 43692,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -36452,7 +36452,7 @@
 				"value": "active_24.9"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_25.0"
 			}
 		]
@@ -39677,15 +39677,15 @@
 	},
 	"d16cacb6-072e-4877-a3cf-8d9ac3a1ab5f": {
 		"name": "ios_signup_onboarding2",
-		"v": 43010,
+		"v": 43693,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
