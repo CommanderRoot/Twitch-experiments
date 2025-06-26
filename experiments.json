@@ -48308,6 +48308,21 @@
 			}
 		]
 	},
+	"fe843191-4989-4d9f-971c-9087e57beddc": {
+		"name": "ios_kmp_gql_chat_send",
+		"v": 43741,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"fe885008-f529-42ca-89dd-4ea147c41df2": {
 		"name": "dart_subtemberviewerlaunch_vwr_795_awa_cmc_lrn_mis_e_228_holdout",
 		"v": 24009,
