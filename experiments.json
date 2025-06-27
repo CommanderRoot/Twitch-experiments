@@ -22601,6 +22601,21 @@
 			}
 		]
 	},
+	"77005122-90ac-49e5-bb86-fdf7afd02dd1": {
+		"name": "dart_drops_lifecycle_062625_onsite",
+		"v": 43762,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"771e4c99-6e3a-4eeb-828f-65ae36266cd7": {
 		"name": "ios_ivs_player_abr_resolution_filter_aspect_ratio_mode",
 		"v": 39024,
@@ -28032,6 +28047,21 @@
 			}
 		]
 	},
+	"928694c6-5c6e-4a6a-a9eb-d36afaf8074e": {
+		"name": "dart_lastminuterequest062725_holdout",
+		"v": 43763,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"92a232ad-aea5-4554-a0da-106ebf19d7f8": {
 		"name": "dart_leagueoftwittos_vwr_897_dav_cmc_wch_gmg_email_2212_holdout",
 		"v": 25745,
@@ -29732,6 +29762,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"9aa81f6f-19fe-49da-b635-a1909f4d1529": {
+		"name": "dart_drops_lifecycle_062625_holdout",
+		"v": 43761,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
 				"value": "allowed"
 			}
 		]
