@@ -34213,6 +34213,21 @@
 			}
 		]
 	},
+	"b34e4f7a-a7f8-4891-88c5-71fb27d0c418": {
+		"name": "dart_lol_drop_062725_holdout",
+		"v": 43758,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"b36beb32-3463-4aec-9d64-678d8d91ac5a": {
 		"name": "android_omnibus ",
 		"v": 25440,
