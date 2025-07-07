@@ -42374,15 +42374,15 @@
 	},
 	"defb8a8b-8dd2-437a-a189-a8c756e19340": {
 		"name": "ios_logged_out",
-		"v": 43537,
+		"v": 43844,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "no_login_screen"
 			}
 		]
