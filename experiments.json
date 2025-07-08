@@ -5968,6 +5968,21 @@
 			}
 		]
 	},
+	"210c1641-ec3e-4c23-a37f-75f6eb574d40": {
+		"name": "android_hype_train_start_from_level_up_event",
+		"v": 43885,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_25.3"
+			}
+		]
+	},
 	"2110f771-f4ec-40c1-830e-1c435c2e60c3": {
 		"name": "ios_mdf_clips_user",
 		"v": 34691,
