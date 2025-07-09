@@ -28327,6 +28327,21 @@
 			}
 		]
 	},
+	"93f153b7-1620-416a-859e-6e2106d57690": {
+		"name": "dart_leagueoflegendsmsi2025_vwr_1590_dav_cmc_wch_gmg_email_2506_duplicate_holdout",
+		"v": 43900,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"941723e1-bb28-4b8f-9c88-4709de1684ce": {
 		"name": "android_profile_header_v2",
 		"v": 10669,
