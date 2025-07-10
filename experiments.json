@@ -44409,7 +44409,7 @@
 	},
 	"e9929089-1dcf-4fc5-bcd8-8cca1b9dc584": {
 		"name": "android_feed_source",
-		"v": 43734,
+		"v": 43911,
 		"t": 2,
 		"groups": [
 			{
@@ -44419,6 +44419,10 @@
 			{
 				"weight": 0,
 				"value": "active_25.0"
+			},
+			{
+				"weight": 0,
+				"value": "active_25.2"
 			}
 		]
 	},
