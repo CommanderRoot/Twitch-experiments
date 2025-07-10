@@ -38636,7 +38636,7 @@
 	},
 	"cb722809-ec8c-4871-9cb7-008cfff86165": {
 		"name": "android_feed_source_device",
-		"v": 43845,
+		"v": 43902,
 		"t": 1,
 		"groups": [
 			{
@@ -38650,6 +38650,10 @@
 			{
 				"weight": 0,
 				"value": "active_25.2"
+			},
+			{
+				"weight": 0,
+				"value": "active_25.3"
 			}
 		]
 	},
