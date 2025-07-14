@@ -38569,15 +38569,15 @@
 	},
 	"caa72fb6-e25c-4fcb-95cf-863b8d9ed9aa": {
 		"name": "ios_clip_subfeeds",
-		"v": 42533,
+		"v": 43956,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 25,
 				"value": "active"
 			}
 		]
