@@ -10827,15 +10827,15 @@
 	},
 	"3a47c51a-1271-41fc-b571-c2c6ec407834": {
 		"name": "android_offline_profile_user_search",
-		"v": 43841,
+		"v": 43984,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 80,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 20,
 				"value": "active_25.2"
 			}
 		]
