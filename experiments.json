@@ -14439,12 +14439,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 43948,
+		"v": 43970,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-92d5c0.pdx01.abs.hls.ttvnw.net/v1/segment/Cn0DKq62s6VLwfHpC8RfoZAamp1Pz30MVc_-_V1pIl_V3MR8S-yA_KcTQTAoNIZlunJ8SJT1IvwihmoyRXmKxHoottRN0TjfHxbEaDoMHSdF9KGtjqbDEWTzP_TkKK2mG0e7ck8HcJwk1XeACN76f0rUFGfjjhdMyrX7KuriFpzZh1BRL1VtDCsInbX_3W2bdU3LbCkb5iE5KFQKHhsH50Cj5IXBHY3yMwnjePsSMd7oS81RYSXkC_MVUDmduF_Kw8QMD9ilCS2M2MVVHgIbdmjtQQWuqIO0IFeaeXhdhlj5-N2JRnfA--_naPMeHHALMRn4TPzXitKsyAB139jqqaBV00ps_EblRLUhmlVYUNawE-7nFGastNSXoO0yqlMcCu2vfBTVM1qL93IuzwePMgh2innxCs41CNtCN7cH_Bw9Z1KmgBiF9DzuZWtC-2p4dF8JnjRX33S2FCAwNiBZAXKNxJWavuBJ-UIj3rl981cmmo-4ut_ax9KIH_Zwa8geEm3H7dtqX-GRlNY4SNokq62O3JClr_z3tdC-2zjk_8h0VKpg6MReBr3HcxpqgdrpLciTKDwfs917AeP5Alc3YUiw6zucDj-JzykIfsQgcMmPG-QYsQCNemk2mKQP84RavE_C1ywUMlTkPyvkE2DhSkFnY4LM322sMFFaR9Kzs3mhwDBZqiZ9AL3U5mwTA58Pc_4E-V-IpfcjG4sWxL-FvAEgpVuxs0AZOWgn-nZFVHY9xJ2VOxzq-7WZ.ts"
+				"value": "//video-edge-3904c7.pdx01.abs.hls.ttvnw.net/v1/segment/Cj7Uo5rpfGHlb6b1luMj-wI47lz7IlS87b32xAih3UjqOpQ9jlogvtHfn3bJsdX-OhhlbsvHvGMR9SUt3sb4qHMkHaqJVdBS-Oiftm44kdoyA-k5aihrJZNLGKxvn9MQajbVEONhidygfxyfBtwnxvR-aqvuXGJFuzgiWWd4Xp2k86W1-3EuCJ6O-8sFCnFww-3gu3nHCCNBeqisRq7RYb8CgB6phFre9elx1ixm7UGeGWxJTwDxYzdAupI98z9vIKnscT3BPqOxQ2J_vkFXn7Hi6uzgaKq1Vvb3gUUff0oXSCy6VAsmxnoKDlTP2fYXIOIJURCaKMY7fbaq_-GSyWLrzCEfSNMG9ZZYoCRuPy_JITSJoJCkEa6VawFC7rfwdOieTr_dq7TuHVWDdcoBzyPNDT0EqdWAKVhWwaQpgW1pB4LQODQcQwLe7xvjC1oz-0o2jyJLLIJSlxDabjXqRnhSA4iCewwD2f5TNpZOc6vzVf8N7fFC8nRpvM2P8yimeI-bzE2inqaOk_DO0gJWUCgNbR9uy1mA2T8XrCm235ijfrwG5OHJLSNTvfHXg7UGO7GDSEE77UZa_dfGLiEHQEw4JaeQrWqQAr0z0W1PIEzDKAQDHuXkZBy9woHbSawzxlGz_Umv6RgqqzRyvOKDbbLnHvD7geEgs1GzK4ozi8jOsxKhmfWC5jclIS8bJCEhyFQ1zCbvPnqLc_hccAmBBcuONicDJc5bYiN7sDcbrurcL3ihkJVLFAQrKCQnWBXKE3.ts"
 			}
 		]
 	},
@@ -48427,15 +48427,15 @@
 	},
 	"fe843191-4989-4d9f-971c-9087e57beddc": {
 		"name": "ios_kmp_gql_chat_send",
-		"v": 43741,
+		"v": 43969,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
