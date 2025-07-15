@@ -10269,15 +10269,15 @@
 	},
 	"3712c2b4-41d2-437c-8e37-83e236543cef": {
 		"name": "ivs_player_probe_endpoint",
-		"v": 43575,
+		"v": 43972,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
@@ -42451,15 +42451,15 @@
 	},
 	"df24c2db-dc5a-40c9-8508-1c65fbc4ca7c": {
 		"name": "ivs_web_edge_prewarm_v2",
-		"v": 43590,
+		"v": 43971,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 95,
+				"weight": 75,
 				"value": "control"
 			},
 			{
-				"weight": 5,
+				"weight": 25,
 				"value": "treatment"
 			}
 		]
