@@ -23655,7 +23655,7 @@
 	},
 	"7be6e176-3c3e-46a3-ab50-abd8dc73da1e": {
 		"name": "Twilight Player Core NPM Distribution (Staff)",
-		"v": 43847,
+		"v": 44010,
 		"t": 1,
 		"groups": [
 			{
@@ -23663,11 +23663,11 @@
 				"value": "base"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "variant-a"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "variant-b"
 			},
 			{
@@ -29390,7 +29390,7 @@
 	},
 	"98e4206e-7d72-4a7d-a4e2-a5b376c6f2c8": {
 		"name": "ios_com_hypetrain_cta_scale",
-		"v": 44007,
+		"v": 44012,
 		"t": 1,
 		"groups": [
 			{
