@@ -29388,6 +29388,21 @@
 			}
 		]
 	},
+	"98e4206e-7d72-4a7d-a4e2-a5b376c6f2c8": {
+		"name": "ios_com_hypetrain_cta_scale",
+		"v": 44007,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v25.3"
+			}
+		]
+	},
 	"98f25d54-0422-45cf-95d6-60e4d458d546": {
 		"name": "android_international_pricing_education_phase_2",
 		"v": 13870,
