@@ -10269,15 +10269,15 @@
 	},
 	"3712c2b4-41d2-437c-8e37-83e236543cef": {
 		"name": "ivs_player_probe_endpoint",
-		"v": 43972,
+		"v": 43996,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
