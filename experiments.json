@@ -31253,15 +31253,15 @@
 	},
 	"a44fe4c9-7001-47f1-843c-ca5eecdc6eac": {
 		"name": "android_clip_subfeeds",
-		"v": 43955,
+		"v": 44000,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "active_25.1"
 			}
 		]
@@ -38580,15 +38580,15 @@
 	},
 	"caa72fb6-e25c-4fcb-95cf-863b8d9ed9aa": {
 		"name": "ios_clip_subfeeds",
-		"v": 43956,
+		"v": 44001,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 100,
 				"value": "active"
 			}
 		]
