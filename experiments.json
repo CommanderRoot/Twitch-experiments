@@ -1963,6 +1963,21 @@
 			}
 		]
 	},
+	"0a47c04f-a1ae-49d7-9a5d-7cf5be1d1ea2": {
+		"name": "ios_collab_disco",
+		"v": 44006,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
+			}
+		]
+	},
 	"0a7b7f7b-66bb-437a-9e34-2971c4daa394": {
 		"name": "following_remove_ios_cursor",
 		"v": 16748,
