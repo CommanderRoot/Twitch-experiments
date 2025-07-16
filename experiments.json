@@ -6711,16 +6711,12 @@
 	},
 	"24787744-bf25-4cca-9368-5178d727d742": {
 		"name": "dart_drops_lifecycle_062625_p1_onsite",
-		"v": 43796,
+		"v": 43999,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "Variant A"
-			},
-			{
-				"weight": 50,
-				"value": "Variant B"
 			}
 		]
 	},
@@ -23580,15 +23576,15 @@
 	},
 	"7bbbc40e-483e-4936-bb94-e0cb2894bcec": {
 		"name": "dart_drops_lifecycle_062625_p1_holdout",
-		"v": 43795,
+		"v": 43998,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "holdout"
 			},
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
@@ -42470,15 +42466,15 @@
 	},
 	"df24c2db-dc5a-40c9-8508-1c65fbc4ca7c": {
 		"name": "ivs_web_edge_prewarm_v2",
-		"v": 43971,
+		"v": 43997,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 75,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 25,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
