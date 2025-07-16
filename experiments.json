@@ -31741,6 +31741,25 @@
 			}
 		]
 	},
+	"a6dcd61f-8b26-46e0-8c4a-35d50b5aa25d": {
+		"name": "android_feed_source_multi",
+		"v": 43989,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_manifest_string_25.4"
+			},
+			{
+				"weight": 0,
+				"value": "active_source_25.4"
+			}
+		]
+	},
 	"a6e26797-91fb-4d10-ac84-2c542e7bb3aa": {
 		"name": "ios_dsp_brand_safety",
 		"v": 15043,
