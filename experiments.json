@@ -31773,19 +31773,19 @@
 	},
 	"a6dcd61f-8b26-46e0-8c4a-35d50b5aa25d": {
 		"name": "android_feed_source_multi",
-		"v": 44030,
+		"v": 44040,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 34,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "active_manifest_string_25.3.0"
 			},
 			{
-				"weight": 0,
+				"weight": 33,
 				"value": "active_source_25.3.0"
 			}
 		]
