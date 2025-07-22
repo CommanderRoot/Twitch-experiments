@@ -3655,11 +3655,11 @@
 	},
 	"136af607-f398-4240-84cb-10eccf9ed9d4": {
 		"name": "ios_com_pa",
-		"v": 44103,
+		"v": 44113,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -3671,7 +3671,7 @@
 				"value": "active_v24.8"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_v25.3"
 			}
 		]
@@ -13430,11 +13430,11 @@
 	},
 	"473d3449-d3ac-49d1-bcfe-01c1b226c303": {
 		"name": "android_pre_affiliate",
-		"v": 44102,
+		"v": 44112,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -13442,7 +13442,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 10,
+				"weight": 50,
 				"value": "active_25.3"
 			}
 		]
