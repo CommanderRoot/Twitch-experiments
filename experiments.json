@@ -7651,21 +7651,6 @@
 			}
 		]
 	},
-	"2a063a18-3790-4307-a0d1-0ae873679f49": {
-		"name": "ios_vaes_moat_tracking",
-		"v": 7619,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"2a186414-c2a7-48e5-93ed-756ea0be9574": {
 		"name": "dart_apple_offer_viewer_core_plus_083024_holdout",
 		"v": 35906,
@@ -22990,21 +22975,6 @@
 			}
 		]
 	},
-	"784edc9a-06c1-4b4a-98cd-b55458dea164": {
-		"name": "ios_gdpr_user_consent_kill_switch",
-		"v": 4125,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"78508269-ace0-4f3b-95fb-1bf66b5ffd77": {
 		"name": "ios_firefly_tablets",
 		"v": 38674,
@@ -23515,21 +23485,6 @@
 			{
 				"weight": 100,
 				"value": "active_15.1"
-			}
-		]
-	},
-	"7ad0012f-a7c7-41e0-875d-02d057b9dfef": {
-		"name": "ios_feed_autoplay_video_content",
-		"v": 2092,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
@@ -26571,21 +26526,6 @@
 			}
 		]
 	},
-	"8b1d580b-ce4e-4b99-92a3-56a63a7568b7": {
-		"name": "ios_use_legacy_playback_state_change",
-		"v": 10487,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "legacy"
-			}
-		]
-	},
 	"8b29e9c9-e5d7-4b45-a995-f8d633db4dd0": {
 		"name": "dart_ibai_la_velada_vwr_744_dav_cmc_wch_gmg_email_2206_holdout",
 		"v": 21759,
@@ -29026,21 +28966,6 @@
 			{
 				"weight": 100,
 				"value": "control"
-			}
-		]
-	},
-	"972e1ccb-1a06-4d0b-ad83-519df7b44891": {
-		"name": "ios_enable_rooms_v2",
-		"v": 2682,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
@@ -31771,21 +31696,6 @@
 			}
 		]
 	},
-	"a6896ac8-2d90-4342-840b-b48573b00d62": {
-		"name": "ios_autoplay_videos_setting",
-		"v": 2197,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"a6c4cd0f-4df1-4d45-b409-a77f10a4b2a1": {
 		"name": "android_creator_settings_menu",
 		"v": 11014,
@@ -33668,21 +33578,6 @@
 			}
 		]
 	},
-	"b05f4f84-ca59-40cd-ad05-c4913b1fcc6f": {
-		"name": "ios_feed_theater_cached_vods",
-		"v": 1819,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"b069b91c-2307-4e03-8e8c-e8a0cf071207": {
 		"name": "ios_firefly_buffering_changes",
 		"v": 35176,
@@ -33983,21 +33878,6 @@
 			{
 				"weight": 100,
 				"value": "enabled_v7.8"
-			}
-		]
-	},
-	"b1ee78d0-120a-4cb6-8b80-12fead83e208": {
-		"name": "ios_enable_player_core_analytic",
-		"v": 36779,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
@@ -47137,21 +47017,6 @@
 			}
 		]
 	},
-	"f7c12503-ef4b-4d60-b669-6e3a8a075e9b": {
-		"name": "ios_ima_moat_tracking",
-		"v": 7200,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 1,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
-			}
-		]
-	},
 	"f7d79abf-ba0e-4438-9039-e091cb798e90": {
 		"name": "community_insights",
 		"v": 12130,
@@ -47545,21 +47410,6 @@
 			{
 				"weight": 50,
 				"value": "control"
-			}
-		]
-	},
-	"fa2fa316-88b9-49b2-a96c-6ad4ecef2904": {
-		"name": "ios_enable_rooms",
-		"v": 2188,
-		"t": 1,
-		"groups": [
-			{
-				"weight": 100,
-				"value": "control"
-			},
-			{
-				"weight": 0,
-				"value": "active"
 			}
 		]
 	},
