@@ -9970,6 +9970,21 @@
 			}
 		]
 	},
+	"358a3768-19d0-4cb7-82e9-ac3f83bb52a0": {
+		"name": "ios_in_stream_app_ads",
+		"v": 44159,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 100,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active_v25.5"
+			}
+		]
+	},
 	"359ad3ca-91ee-4e42-9d0e-fcaa45547f68": {
 		"name": "notifications_settings_android_token_filter",
 		"v": 37661,
