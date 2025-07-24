@@ -37723,6 +37723,21 @@
 			}
 		]
 	},
+	"c677fae7-9c67-4ebc-8056-a174e25f4de7": {
+		"name": "dart_creatorcamp_update_0725_holdout",
+		"v": 44169,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 25,
+				"value": "holdout"
+			},
+			{
+				"weight": 75,
+				"value": "allowed"
+			}
+		]
+	},
 	"c68060b4-af24-4542-9eca-589628c3a6b3": {
 		"name": "dart_apac_anz_dreamhackrivals_vwr_0_dav_trn_wch_gmg_onsite_2209_holdout",
 		"v": 23928,
