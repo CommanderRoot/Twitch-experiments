@@ -5844,6 +5844,21 @@
 			}
 		]
 	},
+	"201c37c2-ed77-4a67-a59d-fc62f8a4912d": {
+		"name": "dart_preevent_lavelada072225_holdout",
+		"v": 44164,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"20253846-f6eb-4268-b228-2178e33e1c2e": {
 		"name": "ios_native_login",
 		"v": 9173,
@@ -45801,6 +45816,21 @@
 			{
 				"weight": 100,
 				"value": "active_15.5"
+			}
+		]
+	},
+	"effddac3-aa10-417c-894f-68d685244c3f": {
+		"name": "dart_preevent_lavelada072225_frozen_holdout",
+		"v": 44165,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
