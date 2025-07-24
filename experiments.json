@@ -44433,11 +44433,11 @@
 	},
 	"e9b9443b-a79d-40b3-a783-b0e6989d2b0f": {
 		"name": "android_community_points_mvvm",
-		"v": 41905,
+		"v": 44161,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
@@ -44445,7 +44445,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_prod"
 			}
 		]
