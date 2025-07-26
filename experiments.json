@@ -28319,6 +28319,21 @@
 			}
 		]
 	},
+	"938433e3-61cf-4bca-80dd-7efc27dfc3b7": {
+		"name": "dart_lavelada_push_072525_holdout",
+		"v": 44188,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"939f4935-0311-453b-b089-c35f89e6cccf": {
 		"name": "ios_tags_in_dashboard",
 		"v": 9167,
@@ -46050,6 +46065,21 @@
 			{
 				"weight": 90,
 				"value": "friendly_fraud_model"
+			}
+		]
+	},
+	"f0f134b5-fb33-456d-8427-43ce4e445905": {
+		"name": "dart_lavelada071825_onsite_holdout",
+		"v": 44189,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "holdout"
+			},
+			{
+				"weight": 85,
+				"value": "allowed"
 			}
 		]
 	},
