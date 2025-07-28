@@ -5081,11 +5081,11 @@
 	},
 	"1b340bcf-7eef-4d9f-bed4-945acfc1696f": {
 		"name": "ios_cspon_cs_v2",
-		"v": 44228,
+		"v": 44229,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 90,
+				"weight": 75,
 				"value": "control"
 			},
 			{
@@ -5093,7 +5093,7 @@
 				"value": "active_debug"
 			},
 			{
-				"weight": 10,
+				"weight": 25,
 				"value": "active_v25.4"
 			}
 		]
