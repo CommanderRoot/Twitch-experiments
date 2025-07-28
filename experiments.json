@@ -48480,15 +48480,15 @@
 	},
 	"fe843191-4989-4d9f-971c-9087e57beddc": {
 		"name": "ios_kmp_gql_chat_send",
-		"v": 44097,
+		"v": 44219,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
 			}
 		]
