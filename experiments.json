@@ -36564,7 +36564,7 @@
 	},
 	"c0fc8ab6-1c5b-4b5a-832b-25823b5a2870": {
 		"name": "android_cdml_onboarding",
-		"v": 43882,
+		"v": 44244,
 		"t": 1,
 		"groups": [
 			{
@@ -36573,11 +36573,11 @@
 			},
 			{
 				"weight": 0,
-				"value": "active_24.9"
+				"value": "variant1"
 			},
 			{
 				"weight": 0,
-				"value": "active_25.0"
+				"value": "variant2"
 			}
 		]
 	},
@@ -48484,15 +48484,15 @@
 	},
 	"fe843191-4989-4d9f-971c-9087e57beddc": {
 		"name": "ios_kmp_gql_chat_send",
-		"v": 44219,
+		"v": 44243,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active"
 			}
 		]
