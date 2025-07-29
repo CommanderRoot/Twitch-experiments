@@ -36617,15 +36617,15 @@
 	},
 	"c1319cd1-3b96-4048-9b8a-a4e1b9383835": {
 		"name": "BalSpen",
-		"v": 44003,
+		"v": 44238,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 60,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 40,
+				"weight": 100,
 				"value": "treatment"
 			}
 		]
