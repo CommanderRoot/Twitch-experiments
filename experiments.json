@@ -41474,12 +41474,16 @@
 	},
 	"d94693e4-92a5-4c16-9d7c-305eeb615073": {
 		"name": "ios_watch_streaks",
-		"v": 44246,
+		"v": 44284,
 		"t": 2,
 		"groups": [
 			{
 				"weight": 100,
 				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "active"
 			}
 		]
 	},
