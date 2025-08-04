@@ -30803,6 +30803,21 @@
 			}
 		]
 	},
+	"a026739b-0d4b-487c-bb81-9a12e5932456": {
+		"name": "dart_eightoheightupdate_holdout",
+		"v": 44335,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"a02c45d3-d02f-4922-bb21-586e7642b77f": {
 		"name": "dart_logged_out_decorator_holdout",
 		"v": 16076,
