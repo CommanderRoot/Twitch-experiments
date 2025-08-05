@@ -7028,6 +7028,21 @@
 			}
 		]
 	},
+	"268c6184-582e-42a1-b0ba-81e042a1a387": {
+		"name": "dart_recap_lavelada_vwr_1604_dav_cmc_wch_spt_email_2508_holdout",
+		"v": 44358,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"26c9f018-f78b-4f35-8cd1-67d44b9e5b88": {
 		"name": "android_user_appeals",
 		"v": 19855,
@@ -28567,6 +28582,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"9475d22b-9ed2-4d15-b144-bbf087e20e85": {
+		"name": "dart_born_lavelada_vwr_1604_dav_cmc_wch_spt_email_2508_holdout",
+		"v": 44357,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
