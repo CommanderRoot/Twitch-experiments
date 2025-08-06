@@ -43040,11 +43040,11 @@
 	},
 	"e12ef450-c05d-4069-857b-5cadb75e4a4a": {
 		"name": "ios_mdf_skan",
-		"v": 44059,
+		"v": 44394,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -43052,7 +43052,7 @@
 				"value": "active_internal"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v25.4"
 			}
 		]
@@ -48636,16 +48636,20 @@
 	},
 	"fe843191-4989-4d9f-971c-9087e57beddc": {
 		"name": "ios_kmp_gql_chat_send",
-		"v": 44243,
+		"v": 44395,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "active"
+			},
+			{
+				"weight": 0,
+				"value": "active_v25.6"
 			}
 		]
 	},
