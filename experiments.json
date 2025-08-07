@@ -11839,6 +11839,25 @@
 			}
 		]
 	},
+	"3ffb2f66-1065-4dec-9e43-457580793237": {
+		"name": "homepage_carousel_recs_fallback",
+		"v": 44401,
+		"t": 1,
+		"groups": [
+			{
+				"weight": 0,
+				"value": "control"
+			},
+			{
+				"weight": 0,
+				"value": "promotions_recs_fallback"
+			},
+			{
+				"weight": 100,
+				"value": "treatment"
+			}
+		]
+	},
 	"401bc6bb-b8f5-449a-8724-1709e93c9df7": {
 		"name": "watch_streak_progress_bar_exp_2_3",
 		"v": 36682,
