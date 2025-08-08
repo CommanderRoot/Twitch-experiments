@@ -18203,15 +18203,15 @@
 	},
 	"5fd9e769-65af-4882-b2f9-7035b9b44b36": {
 		"name": "android_release_feed_player_on_pause",
-		"v": 44045,
+		"v": 44431,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "active_25.4"
 			}
 		]
