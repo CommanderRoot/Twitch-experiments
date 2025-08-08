@@ -11841,19 +11841,15 @@
 	},
 	"3ffb2f66-1065-4dec-9e43-457580793237": {
 		"name": "homepage_carousel_recs_fallback",
-		"v": 44406,
+		"v": 44426,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "promotions_recs_fallback"
-			},
-			{
-				"weight": 100,
+				"weight": 50,
 				"value": "treatment"
 			}
 		]
