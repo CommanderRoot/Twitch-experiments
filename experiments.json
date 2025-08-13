@@ -45600,6 +45600,21 @@
 			}
 		]
 	},
+	"edca8a0f-d9f3-488d-800b-76222594d2e7": {
+		"name": "dart_arabic_test_send_081325_holdout",
+		"v": 44511,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"edcf30a5-e876-488e-9ff1-64873810acb8": {
 		"name": "ios_in_app_purchase",
 		"v": 24679,
