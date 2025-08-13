@@ -37884,11 +37884,11 @@
 	},
 	"c6489795-c44b-47ab-9f49-644ea009a908": {
 		"name": "android_skyline_alpha",
-		"v": 44488,
+		"v": 44505,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -37896,11 +37896,7 @@
 				"value": "active_development"
 			},
 			{
-				"weight": 0,
-				"value": "active_25.6"
-			},
-			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_25.6.1"
 			}
 		]
@@ -41879,11 +41875,11 @@
 	},
 	"da870554-ec75-43ea-970b-6d26d0431e9a": {
 		"name": "ios_skyline_alpha",
-		"v": 44315,
+		"v": 44506,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -41891,7 +41887,7 @@
 				"value": "active_25.5"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_25.6"
 			}
 		]
