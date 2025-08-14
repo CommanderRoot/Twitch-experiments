@@ -5013,15 +5013,15 @@
 	},
 	"1ab8854c-163d-4640-ac49-8bd6291135bf": {
 		"name": "ios_battery_tracking",
-		"v": 22670,
+		"v": 44520,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 99,
+				"weight": 0,
 				"value": "disabled"
 			},
 			{
-				"weight": 1,
+				"weight": 100,
 				"value": "enabled"
 			}
 		]
