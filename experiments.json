@@ -2410,15 +2410,15 @@
 	},
 	"0cd054f9-e643-4bd1-9da0-843aac9b66f5": {
 		"name": "android_st_irl_shared_chat",
-		"v": 44542,
+		"v": 44543,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_25.6"
 			},
 			{
