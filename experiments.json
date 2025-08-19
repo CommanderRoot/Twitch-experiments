@@ -18546,16 +18546,16 @@
 	},
 	"61932a06-0881-4853-bf5d-726f6c1d7c28": {
 		"name": "android_mdf_media_player",
-		"v": 44371,
+		"v": 44575,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
-				"weight": 0,
-				"value": "active_25.4"
+				"weight": 50,
+				"value": "active_25.8"
 			}
 		]
 	},
