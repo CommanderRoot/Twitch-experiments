@@ -36719,19 +36719,19 @@
 	},
 	"c0fc8ab6-1c5b-4b5a-832b-25823b5a2870": {
 		"name": "android_cdml_onboarding",
-		"v": 44493,
+		"v": 44591,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "variant1"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "variant2"
 			}
 		]
