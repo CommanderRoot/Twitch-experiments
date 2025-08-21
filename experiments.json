@@ -19311,15 +19311,15 @@
 	},
 	"6563cfdf-0e97-4918-a3c8-3f1c27e12048": {
 		"name": "dart_grassbadge_awarness_81925_holdout",
-		"v": 44601,
+		"v": 44602,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 20,
+				"weight": 50,
 				"value": "holdout"
 			},
 			{
-				"weight": 80,
+				"weight": 50,
 				"value": "allowed"
 			}
 		]
