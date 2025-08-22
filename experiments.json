@@ -7905,7 +7905,7 @@
 	},
 	"2b3b1d3e-5254-44f8-ab1c-2d6e7b00026f": {
 		"name": "ios_com_ex_check_main",
-		"v": 44597,
+		"v": 44611,
 		"t": 2,
 		"s": 1,
 		"groups": [
@@ -7922,7 +7922,7 @@
 				"value": "active_v24.4"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_with_auto_login"
 			},
 			{
@@ -7934,7 +7934,7 @@
 				"value": "active_v25.7"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v25.8"
 			}
 		]
