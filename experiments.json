@@ -16921,19 +16921,19 @@
 	},
 	"59480905-f91e-48d9-a660-4f02776c38ad": {
 		"name": "android_subscribe_always_visible",
-		"v": 43616,
+		"v": 44641,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "treatment_b_24.9"
 			},
 			{
-				"weight": 33,
+				"weight": 100,
 				"value": "treatment_c_24.9"
 			}
 		]
