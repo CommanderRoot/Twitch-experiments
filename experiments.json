@@ -31218,6 +31218,21 @@
 			}
 		]
 	},
+	"a1be6224-6f0c-4167-bd1a-c68b7497f40e": {
+		"name": "dart_showspeed_followers_merica_push082825_holdout",
+		"v": 44667,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"a1cdf2ac-6a9d-4738-94c4-bcbe9e286014": {
 		"name": "android_mdf_wizard_override",
 		"v": 35298,
@@ -44008,6 +44023,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"e57392d2-bfe2-4c62-bf59-017c24e46897": {
+		"name": "dart_ishowspeed_followers_merica_tour_onsite_holdout",
+		"v": 44666,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
