@@ -30173,6 +30173,21 @@
 			}
 		]
 	},
+	"9b4e45d7-99d2-4d95-afca-991ae8041ca0": {
+		"name": "dart_subtember2025_viewer082925_holdout",
+		"v": 44679,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"9b813bdc-7fc0-4cdf-ba98-5edb72992025": {
 		"name": "android_client_time",
 		"v": 33093,
