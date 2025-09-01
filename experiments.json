@@ -46179,6 +46179,21 @@
 			}
 		]
 	},
+	"efd90946-3ba4-4d99-b098-4a03f04f8222": {
+		"name": "dart_mafiathon_3_targeted_push_090125_holdout",
+		"v": 44703,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"effd1aa3-5377-40df-9aea-9a5a0d671bda": {
 		"name": "android_viewer_alert_customization",
 		"v": 28565,
