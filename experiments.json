@@ -25120,6 +25120,21 @@
 			}
 		]
 	},
+	"818b2c01-530c-497d-a75b-7e0c410db18f": {
+		"name": "dart_mafiathon_3_non_targeted_vwr_1667_dav_cmc_wch_spt_email_0925_holdout",
+		"v": 44702,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"819aa1dd-700a-4e1d-8114-9a97f6246e3b": {
 		"name": "ios_meow_single_gifting",
 		"v": 34619,
@@ -27669,6 +27684,21 @@
 			{
 				"weight": 0,
 				"value": "active"
+			}
+		]
+	},
+	"8f6ebd4b-d625-4036-8a4b-0466fe4f8f39": {
+		"name": "dart_mafiathon_3_frozen_vwr_1667_dav_cmc_wch_spt_email_0925_holdout",
+		"v": 44701,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
