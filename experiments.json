@@ -32612,6 +32612,21 @@
 			}
 		]
 	},
+	"a9442aef-7eae-42ae-8f47-d68d81bb2266": {
+		"name": "dart_zevent_badge_090525_holdout",
+		"v": 44733,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "holdout"
+			},
+			{
+				"weight": 85,
+				"value": "allowed"
+			}
+		]
+	},
 	"a956d0c4-9c06-4ed0-9dae-7ecf6620381d": {
 		"name": "dart_streamer_awards_badge_022624_holdout",
 		"v": 32680,
