@@ -19569,6 +19569,21 @@
 			}
 		]
 	},
+	"6670b4f2-3086-41e3-bfb6-e55983dd3c45": {
+		"name": "dart_drops_push_notif_en_us_090325_holdout",
+		"v": 44757,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"668c5320-59e8-401e-8037-21942303d49c": {
 		"name": "dart_apac_anz_xmasgiftcard_vwr_0_dav_trn_wch_gmg_push_2212_holdout",
 		"v": 25587,
