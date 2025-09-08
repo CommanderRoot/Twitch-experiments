@@ -2348,6 +2348,21 @@
 			}
 		]
 	},
+	"0c3bedb5-36fd-4c17-a33b-985dbd962b99": {
+		"name": "dart_poe2_active_game_launch_holdout",
+		"v": 44758,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"0c4a9726-7fca-4ea4-a76e-a301e45b47c2": {
 		"name": "ios_report_wizard",
 		"v": 21191,
@@ -16454,6 +16469,21 @@
 			{
 				"weight": 0,
 				"value": "test"
+			}
+		]
+	},
+	"568a9843-9150-49c2-b563-5d9ac4bcb18d": {
+		"name": "dart_poe_2_onsite_launch_holdout",
+		"v": 44759,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
