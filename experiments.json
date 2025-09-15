@@ -40353,20 +40353,20 @@
 	},
 	"d16cacb6-072e-4877-a3cf-8d9ac3a1ab5f": {
 		"name": "ios_signup_onboarding2",
-		"v": 44677,
+		"v": 44833,
 		"t": 1,
 		"s": 1,
 		"groups": [
 			{
-				"weight": 34,
+				"weight": 100,
 				"value": "control"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "variant1"
 			},
 			{
-				"weight": 33,
+				"weight": 0,
 				"value": "variant2"
 			}
 		]
