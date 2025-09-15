@@ -31405,16 +31405,20 @@
 	},
 	"a15d7789-d167-44d0-8eea-f2e2c0250393": {
 		"name": "android_kmp_gql_chat_send",
-		"v": 44716,
+		"v": 44828,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 50,
 				"value": "control"
 			},
 			{
 				"weight": 0,
 				"value": "active_25.3"
+			},
+			{
+				"weight": 50,
+				"value": "active_26.1"
 			}
 		]
 	},
