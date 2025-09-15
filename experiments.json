@@ -9696,15 +9696,15 @@
 	},
 	"33ab8bb0-4148-4892-92b2-61abd6d6598f": {
 		"name": "dart_vods_dynamic_test_112025_segment_holdout",
-		"v": 38956,
+		"v": 44832,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 90,
 				"value": "holdout"
 			},
 			{
-				"weight": 50,
+				"weight": 10,
 				"value": "allowed"
 			}
 		]
