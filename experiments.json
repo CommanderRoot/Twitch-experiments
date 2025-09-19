@@ -41480,7 +41480,7 @@
 	},
 	"d710ec5f-122d-4a23-9f13-57d648f36f67": {
 		"name": "ios_ads_instream_app_ad_params",
-		"v": 44539,
+		"v": 44865,
 		"t": 1,
 		"groups": [
 			{
@@ -41490,6 +41490,10 @@
 			{
 				"weight": 0,
 				"value": "active_v25.8-2"
+			},
+			{
+				"weight": 0,
+				"value": "active_v26.0"
 			}
 		]
 	},
