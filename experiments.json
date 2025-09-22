@@ -10138,15 +10138,15 @@
 	},
 	"35a3dad3-b2ff-4af8-b7a1-1c32be58d28a": {
 		"name": "android_ivs_load_clip_manifest",
-		"v": 43636,
+		"v": 44887,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_25.1"
 			}
 		]
@@ -21275,15 +21275,15 @@
 	},
 	"6f0d38bd-2aa0-413a-9341-8aa8d8db8c52": {
 		"name": "ios_ivs_load_clip_manifest",
-		"v": 43625,
+		"v": 44886,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
