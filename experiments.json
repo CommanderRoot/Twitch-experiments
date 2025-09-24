@@ -11369,6 +11369,21 @@
 			}
 		]
 	},
+	"3be1388e-0b27-44be-a7b9-173861e35d99": {
+		"name": "dart_ar_test_shireen_092425_holdout",
+		"v": 44914,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"3be63007-93ed-4482-868c-4e6153a00e95": {
 		"name": "tvapps_xboxone_usher_url",
 		"v": 13490,
