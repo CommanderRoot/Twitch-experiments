@@ -12955,6 +12955,21 @@
 			}
 		]
 	},
+	"44367731-b7bb-4d94-8f47-51efdcc03738": {
+		"name": "dart_patchnotes_onsite_android_holdout",
+		"v": 44913,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"443eae08-3a9b-4e7e-a540-aa39a4c5c714": {
 		"name": "ios_playercore_15.9.2",
 		"v": 29541,
@@ -36775,6 +36790,21 @@
 			},
 			{
 				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
+	"be617df8-dda4-4765-b29c-e1f2552d1818": {
+		"name": "dart_patchnotes_onsite_ios_holdout",
+		"v": 44912,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
 				"value": "allowed"
 			}
 		]
