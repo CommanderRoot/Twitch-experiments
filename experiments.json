@@ -22757,6 +22757,21 @@
 			}
 		]
 	},
+	"74c51407-99c7-46ed-80f4-3be484b37627": {
+		"name": "dart_marbella_vice_092625_holdout",
+		"v": 44925,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"74ee9e53-dade-4628-8442-4ee1d9b6ab51": {
 		"name": "dart_abandonedcart_500824_send2_email",
 		"v": 34164,
