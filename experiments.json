@@ -7073,6 +7073,21 @@
 			}
 		]
 	},
+	"25bc90c6-4e5e-468a-ab44-bc2b961b0d23": {
+		"name": "dart_hamilton_push_092525_holdout",
+		"v": 44924,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"2606ad97-53ee-4511-8c8f-6bf6e7944405": {
 		"name": "dart_twitchconabandonedbasket_vwr_0512424_holdout",
 		"v": 34638,
