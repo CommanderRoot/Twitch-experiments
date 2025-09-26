@@ -10874,6 +10874,21 @@
 			}
 		]
 	},
+	"394e7090-7cef-46e9-8e93-a580a6154424": {
+		"name": "dart_hypetrain_update_0925_onsite_coreplus_holdout",
+		"v": 44937,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"39886c25-6818-4726-9fcd-c7629c09d77e": {
 		"name": "ios_mdf_ifv",
 		"v": 39294,
@@ -32146,6 +32161,21 @@
 			{
 				"weight": 100,
 				"value": "active"
+			}
+		]
+	},
+	"a583a6ff-12ba-4a63-b3e0-c2e651ea2758": {
+		"name": "dart_hypetrain_update_0925_onsite_occasionals_holdout",
+		"v": 44936,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
 			}
 		]
 	},
