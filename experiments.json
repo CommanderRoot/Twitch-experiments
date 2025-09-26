@@ -16679,6 +16679,21 @@
 			}
 		]
 	},
+	"56e46a81-17d4-45ab-ae67-dfc42105d6da": {
+		"name": "dart_hypetrain_emotes_092626_push_holdout",
+		"v": 44938,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"57184ad1-5cde-493d-a316-5d6575bcabe0": {
 		"name": "dart_apac_sgp_fpsov2_vwr_0_dav_trn_wch_gmg_push_2207_holdout",
 		"v": 22100,
