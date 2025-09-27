@@ -26251,6 +26251,21 @@
 			}
 		]
 	},
+	"858cc69c-aef9-4c12-a5f9-5302d046e22c": {
+		"name": "dart_daft_punk_fork_knife_092725_holdout",
+		"v": 44944,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "holdout"
+			},
+			{
+				"weight": 85,
+				"value": "allowed"
+			}
+		]
+	},
 	"85906141-71d5-4da9-ab7a-24282c766086": {
 		"name": "ios_macro_replacement_on_parser",
 		"v": 16420,
