@@ -1450,6 +1450,21 @@
 			}
 		]
 	},
+	"07760aa4-a52e-4b1b-a770-da6717add144": {
+		"name": "dart_kai_push_4_nontargeted_holdout",
+		"v": 44968,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "holdout"
+			},
+			{
+				"weight": 85,
+				"value": "allowed"
+			}
+		]
+	},
 	"07cfcfc4-43bd-47e1-b19c-4ebb5852e022": {
 		"name": "dart_growth_frozen_users_holdout",
 		"v": 42270,
@@ -46613,6 +46628,21 @@
 			{
 				"weight": 100,
 				"value": "active_18.1"
+			}
+		]
+	},
+	"eef49795-8c9b-47bc-8155-0a908c865d52": {
+		"name": "dart_kai_push_4_target_holdout",
+		"v": 44969,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "holdout"
+			},
+			{
+				"weight": 85,
+				"value": "allowed"
 			}
 		]
 	},
