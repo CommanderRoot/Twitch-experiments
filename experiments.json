@@ -8454,6 +8454,21 @@
 			}
 		]
 	},
+	"2d161b49-a762-42bc-82c5-88a5aa3c26d1": {
+		"name": "dart_hypetrain_emote_91725_core_holdout",
+		"v": 44966,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"2d4ba176-3f24-49b6-bf92-dba1287cfeaa": {
 		"name": "android_vaes",
 		"v": 5105,
