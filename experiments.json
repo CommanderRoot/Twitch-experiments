@@ -4465,6 +4465,21 @@
 			}
 		]
 	},
+	"1706d405-91c4-4d4e-aa57-822d0053e35c": {
+		"name": "dart_hypetrain_emote_91725_frozen_holdout",
+		"v": 44965,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"17113314-06e6-40e3-9786-71b1c18e65a2": {
 		"name": "android_prime_gaming_activation_us",
 		"v": 15935,
