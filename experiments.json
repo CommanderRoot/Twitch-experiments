@@ -23058,6 +23058,21 @@
 			}
 		]
 	},
+	"75de5216-9442-4422-a33f-4ac9be41f8af": {
+		"name": "dart_duolingo_092525_holdout",
+		"v": 44997,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"75f4e279-5fec-43c8-b0d3-abc6dc8b0251": {
 		"name": "dart_juneviewernewsletterfr_vwr_1035_dav_cmc_wch_mis_email_2306_email",
 		"v": 28614,
