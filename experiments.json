@@ -2820,15 +2820,15 @@
 	},
 	"0ee86fb3-c4d9-4cdd-b0c4-3dfb6c6c9c49": {
 		"name": "ios_search_offline_profile",
-		"v": 44738,
+		"v": 44988,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active"
 			}
 		]
@@ -11106,15 +11106,15 @@
 	},
 	"3a47c51a-1271-41fc-b571-c2c6ec407834": {
 		"name": "android_offline_profile_user_search",
-		"v": 44737,
+		"v": 44989,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_25.2"
 			}
 		]
