@@ -2361,11 +2361,11 @@
 	},
 	"0c35b66a-766a-4305-b670-d798a8412b74": {
 		"name": "brets_rollout",
-		"v": 41817,
+		"v": 44996,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "control"
 			},
 			{
@@ -2373,7 +2373,7 @@
 				"value": "shadow"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "treatment"
 			}
 		]
