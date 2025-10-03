@@ -6509,6 +6509,21 @@
 			}
 		]
 	},
+	"22da43df-dc2c-497c-98eb-3ccbfa76b61f": {
+		"name": "dart_duolingo_092525_frozen_holdout",
+		"v": 45009,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"22e65465-6c12-4026-af59-57941238ed35": {
 		"name": "ios_t2_t3_modified_emotes",
 		"v": 11066,
