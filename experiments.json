@@ -9769,21 +9769,6 @@
 			}
 		]
 	},
-	"33ab8bb0-4148-4892-92b2-61abd6d6598f": {
-		"name": "dart_vods_dynamic_test_112025_segment_holdout",
-		"v": 44832,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 90,
-				"value": "holdout"
-			},
-			{
-				"weight": 10,
-				"value": "allowed"
-			}
-		]
-	},
 	"33ce4ad7-0991-4e95-9536-7daa6d1f0052": {
 		"name": "dart_top_rec_from_most_clicked_category_push",
 		"v": 41718,
@@ -35800,6 +35785,21 @@
 			{
 				"weight": 50,
 				"value": "Variant B"
+			}
+		]
+	},
+	"b77d4102-16b8-459a-a30b-5346e21f94c9": {
+		"name": "dart_vods_dynamic_test_reroll_100325_holdout",
+		"v": 45012,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
