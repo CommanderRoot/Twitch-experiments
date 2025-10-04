@@ -14793,12 +14793,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 45002,
+		"v": 45014,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-acb704.pdx01.abs.hls.ttvnw.net/v1/segment/CtubZ7k4-egk9_s1Nlc8eecAUbDpfNm4rMpzUPui-dzyG5Tocbme3L64ch5m4Jbq-Zi8ZJBDRuKixXUBEyh1_8bVXo0VPZ6C2QOSyHJwJwgJ48oeyjlxDkbj4BYnFph0JP1x4FTMZSCYTGyfNu38A9knTp7XW8VLzmygGs7sclkeXpyzerZUsQ6UkDNZcB2vLgbni5l8Fex8uOAHxcGru_0VAzHUEAifKeg6fp3mVzLwsv-30lvwtdTjE1ccWSRAvEtd0-7eSbzWqICgDzCOqL23yY2eZPdUpJW856yAwETz2puG2otoeoEUBEkiDIX8WU__ImEy089EGXwF2VYlXP06o8x-7D5gNhA8M5xAgszuATyY_XCWw-PiMZmZkioYSFx_BDsFaonyzCmhH7Ckmy4z7NKDtJCaO51L-hsDKSJ6H6MCMGcNGPSIep2aVtAo0sKiQlV2poJqMhkv-hUl5LSPLc8jX5Br44IYaoVpjN_KfyCig5kI6107xvcWHx2upS1AOCDr3pIni02Ah6DSR5Hywe6U--4hlhmVLRKf14ClKOusoVs1Sr9DZad1T04sCWNkccbAAdfE8tRB-MqM8eMfV8mNShlf39cgnJ31lBSLX3hWGyKu88GznH03cB2dGMd7wyh-dPfJC7FuZ_4-Z6nsOuM4YaS7MF2h3hyq5R0IrtsA864u-90usbpVgK5EPHxle_dKM7urqmVcwwDp0dS_DH0R0p1_FzZXwJuSwWUU59_vvoQYZ24j1ioOM71DCr2vZ6fQga-6EzWy42JmQ.ts"
+				"value": "//video-edge-e45ed0.pdx01.abs.hls.ttvnw.net/v1/segment/CsFtb_8_9HsRZD5E3IJ-kcGnRe9LrHxcmSmgh9mBSLSN3ffIf27nk7LVpUCAraOe93KmGV17umcaTW9I7_1GOoG7mLYc2ekJYZSih6d1UGXgJPXJuoW64548oV9JJ-v8q2Lq4NnFR22rPrkCdmPkjVxX3oPsJsoSJlakivvbTLKdeVIIlB8ChVO9t6YO_QupNhC0wA3392sS0J7p9u1j0MDRfCoVwGy6BFtWwEoQGTYOrJ2zxEFBtkEBg-0lp9OPO2lXFVmVQ27fwiDmXpQ8_77mKUkxdGRGJJhSSsZaUVCGdlYtJZswSY9QRTTlLWO3p2_9N1g6jTAnx8tAWWw1dQfStRNL53ULaKRP9t2F8sYCxCr9iGiYrTNpw2lTbvlVgCaPPhWt-gMCRpFUJBqrPKYAuD0UlHzCfqYL7midV4MbQe1dMUyaDHaK76i67Q3-z9fgAg3bLwRqLbBkXE-XekYPF7zzYzSlrOcqn1-_Ilc948Y45FDQPy6brOoNR11iIOZFTDCKoxV1onBpXHnbvmFYmXeE6NnvjXnhfgGvfLrhx-Gr9f9CvyEHbiLX_NzrpzyFfP5w6xrcOzEkCO572tWlNEb2L1pVoJQnXq9nO8a2nkcGefV4rczX-YgpN9kzOY0OlHtLofb1oHUddj00Xen4UAU1fF3u7a2KuvPQX1Dy1ZB6b3X25yd-V4CLmO-6oxv47E-GbSzeiOn-O9BZxT88VhaWJmuXW8T-xKHJOlJ_dayULaFBbRJklMNuVv0vynfnCvCPMQ3IXm.ts"
 			}
 		]
 	},
@@ -49050,6 +49050,21 @@
 			{
 				"weight": 0,
 				"value": "green"
+			}
+		]
+	},
+	"fce6305f-0c1e-41ad-af48-a6dfacff61b8": {
+		"name": "dart_extra_em_nyc_stand_100325_holdout",
+		"v": 45017,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
