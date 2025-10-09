@@ -31649,11 +31649,11 @@
 	},
 	"a15d7789-d167-44d0-8eea-f2e2c0250393": {
 		"name": "android_kmp_gql_chat_send",
-		"v": 44828,
+		"v": 45048,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -31661,7 +31661,7 @@
 				"value": "active_25.3"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_26.1"
 			}
 		]
@@ -49477,11 +49477,11 @@
 	},
 	"fe843191-4989-4d9f-971c-9087e57beddc": {
 		"name": "ios_kmp_gql_chat_send",
-		"v": 44508,
+		"v": 45049,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 50,
+				"weight": 0,
 				"value": "control"
 			},
 			{
@@ -49489,7 +49489,7 @@
 				"value": "active"
 			},
 			{
-				"weight": 50,
+				"weight": 100,
 				"value": "active_v25.6"
 			}
 		]
