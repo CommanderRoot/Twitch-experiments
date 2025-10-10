@@ -46480,6 +46480,21 @@
 			}
 		]
 	},
+	"ee48c2d2-3553-40d7-a292-cbe0045588c1": {
+		"name": "dart_bf6_mock_holdout",
+		"v": 45060,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 15,
+				"value": "holdout"
+			},
+			{
+				"weight": 85,
+				"value": "allowed"
+			}
+		]
+	},
 	"ee494887-fb0d-4ff5-826f-259c1d3344f8": {
 		"name": "dart_onsiteservice_write_rollout",
 		"v": 18380,
