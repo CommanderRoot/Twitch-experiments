@@ -8882,6 +8882,21 @@
 			}
 		]
 	},
+	"2f52ee00-e602-40f5-b7b2-5827b033478c": {
+		"name": "dart_dk_push_test_sondergaard_101325_holdout",
+		"v": 45065,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"2f6b028c-c2a5-462c-8daf-3bcb394839bb": {
 		"name": "android_playercore",
 		"v": 1023,
