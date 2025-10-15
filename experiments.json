@@ -14808,12 +14808,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 45066,
+		"v": 45077,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-71b126.pdx01.abs.hls.ttvnw.net/v1/segment/Ck_-v4Cj2fzmq6y4YlIrR1bDdcs1yeiIHAZStsy2qH0NJjaLPaS1V0kr9xq87SFgGY-UmX34GcpF1TxcwSNdzbP6h4zbWuOKbWwgTM6FpOzX-EQBYvl7N0NnDytBMrs5FznKnWZikgFAOW2Jv35zl9BnaMAkqRqOxbNjYBJnWSQBI8uqxbN0lSkF00EfePAAbsboCOeLIUE-Gm3hnS03EDLVUrgO0QzA2SeI0CFczQ3J-0aj8ggwzVuf-Ef0PX9gqc0VLbYv3wK7ec499Gui0Z-HWpgSWnoTK-StfNSQ-YDdGIMwnsaiejmb-_8NHKHEchj4ufVYTkKPZslqeMySBgrCBjkrr4TPEhIPebfEzPV3Auwl1BVdx2yGO9SLjcYbdLYzZO6_y9vOupNfUos5LFQm3fztBgaRyNyCbr52RAOli_-b89rd7_D4onVZYZ98_6mPv6EYp3zTgMGPtqPF6Bs13sbi2dvL7G2_9MEMiObRGJ6lx2IYPO0PTEVw5AlxY0zAYUCMHPhgYTnpNv7ZR16g8NbfkdaWumW-eD6SgPif5tyNrlbrXwCORpxAsQSx4s9RoZ6Xiad123me7v5j1caCCpiHRYWl5NwbWS7OthLAX_9nvdZDWx1vc12PdC85QgAez2M-aV-LHLVGRFhy_Kw2AxogBUiJHoymmPDz9BcsD6grGmEyYYq0eBI1OeTbwQR9A2m1OMT0XZoo2njmYw22O67oFFcVuK3dqyctqB1oUCn12jDUt9U73w2W8EIs01mts0cgo3JNgTHA9n6Z.ts"
+				"value": "//video-edge-56780a.pdx01.abs.hls.ttvnw.net/v1/segment/Ci7-GVX8FbkUWMSv938f7-EeNU6V3s4zto2pELYxH5LH3M7VioDUhC4ANHYM1eTUqFlxavGtv5q4vq9f6MxJBW6yw6yVWB6Wi16Rjx-3Y8ulPJ9PxXuniB6WMCcB2I0R8TXvj5YtcMYBlbQvMEm_TmTJHuoRMWPTWAhsCIP1QWV50qUy5YEm_3LNW5tKEd90vSrPzN4VX28ERzv38H4KgLcLWc3YGcE_chlS8vLwdPxVpXILcE3sUEUXbzuLHKjuOfv-4F3cuHRq6u2_6HaL8Q8rEadv08Q_T5Atwg6GqdtAGTmyb8yMTYI7ikpiGSMeRi-xFaJ4fLjL-oPAP9PJLy3-vZTHCUSF4m0WTCOgF_r78DMW7oe7SMQAuZUlx32nBMt9_IXDHcYrYpPoBcVRKeXAloz9DjY3RsL-f8uG79CPZJgWu_HQ7Arc29bc9vGmDMRm6vzlEXNAuIe1jMzvovyrZuaf3Xlw9mIELB_gv6Fzio2fV3QXN5KS9yuFgDI5nG_LBYob5gaOzOi6g-WPQbULrTthhg_GR2hb0ynXjX21I3MsRp1XV-p88iurs7wuCghKAuhBKimeGlrDZuDxFtkhUOYH1UE1cDSridp56dY_dqc0mXY_PdujHK5w0FxF6p6G60pzXO2gKDCfsisBp3IbGfRvTN0Wrx7bCJdgBs_utiUvDGAs9PxXGiHWIcv10W7uaUVJaPo1Q3-KELbra3zDEjVzAOV7jdSlXSdIExdxLmCJN_hmsod9L3-CFDuY_MaXN3o0JG7EGqaeKGnp-PEOJ7.ts"
 			}
 		]
 	},
@@ -19828,21 +19828,6 @@
 			},
 			{
 				"weight": 95,
-				"value": "allowed"
-			}
-		]
-	},
-	"6670b4f2-3086-41e3-bfb6-e55983dd3c45": {
-		"name": "dart_drops_push_notif_en_us_090325_holdout",
-		"v": 44757,
-		"t": 2,
-		"groups": [
-			{
-				"weight": 50,
-				"value": "holdout"
-			},
-			{
-				"weight": 50,
 				"value": "allowed"
 			}
 		]
@@ -42722,6 +42707,21 @@
 			{
 				"weight": 1,
 				"value": "SURESTREAM_OFF"
+			}
+		]
+	},
+	"dbe194e7-900a-442f-b507-36533702e4e6": {
+		"name": "dart_drops_push_notif_en_us_reroll_101425_holdout",
+		"v": 45076,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 90,
+				"value": "holdout"
+			},
+			{
+				"weight": 10,
+				"value": "allowed"
 			}
 		]
 	},
