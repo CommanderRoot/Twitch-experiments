@@ -3002,6 +3002,21 @@
 			}
 		]
 	},
+	"1002233a-3b6b-4bc1-affb-79f178a111a7": {
+		"name": "dart_squeeziegp_follow_up_recaptured_email_101425_holdout",
+		"v": 45085,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"100d91a1-08f7-4c24-8c9b-1c70fa6ff64b": {
 		"name": "ios_firefly_onboarding_user",
 		"v": 34753,
@@ -34879,6 +34894,21 @@
 			},
 			{
 				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
+	"b2be36e5-5b53-482f-84ab-d6c9a43367ae": {
+		"name": "dart_squeeziegp_follow_up_born_email_101425_holdout",
+		"v": 45086,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
 				"value": "allowed"
 			}
 		]
