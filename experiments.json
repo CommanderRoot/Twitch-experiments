@@ -25747,15 +25747,15 @@
 	},
 	"827e6f08-a783-4415-ba0a-bcfcbd458ad6": {
 		"name": "android_vertical_broadcasting",
-		"v": 43435,
+		"v": 45091,
 		"t": 1,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_24.9"
 			}
 		]
@@ -42757,15 +42757,15 @@
 	},
 	"dbf6728a-f7b9-4d00-a102-2003b45cd7a2": {
 		"name": "ios_vertical_broadcasting",
-		"v": 42937,
+		"v": 45090,
 		"t": 2,
 		"groups": [
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "control"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active"
 			}
 		]
