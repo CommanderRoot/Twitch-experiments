@@ -14823,12 +14823,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 45087,
+		"v": 45089,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-6161e5.pdx01.abs.hls.ttvnw.net/v1/segment/Cjc2_OMjgVPPM_LoB4K49LjizreZ_s2c-pXqfBQhnR5fc_nAUIFJFiIufzKBn5uZ0OwvO8fRKPdzpHuJTRzSue-M_IrAxXeVIUlXeHsegDZOV2MiH8j9SPck3E8VfjI41Ui9an6qGeM0pmwpAbE33VR0sIUB4NDzlhDDUkZhVRLfioVEqjDpBzRWTFw_wKAu3eLIeFOgucx_xoHsg3EeaA-GUj3Z-TZCcRzqNXLQyht-fBS0smy_0QQl5Ykhfz64-i3aJk9XdeuFlaHPUGWM06ueijPeRzwTcMl1jYnWJrNcWRjco7WG0J307gdfXUqaVkuehq4eS-xHS70TBrv-OQD13dm_Yywhl-UYVpg4m-poeCPtopuXqi_1ylRrC9osJgzF5Ew2BUokD1FbwHK8tyNB_Lx6G6tytDu-9ynrGBgGiN3wdKaJgKI-_rXo68LLg_6GsNNvZto4CsgwE-grF05JussMIhVksHfNO3guyiv4EopUoXiXDh2ivf_Zfdy3ZmU3c7LCnouM51NWLk3Rb5U1lsoxaWS5FrX-v0kxS5_vARaf2DB7S0CFZvzMZLYNx3qcWpWsTlaMgJadKUgB4LStPd-Sw_ecsG8uBzy5CxUjNp4r5J-XwdMdq-dwpTeJuHEWNtNjbvVyED2hnvqnCIsD92Yb-zpvXMSqT3sfZGiDDE2FEtAgDoXXRvWYCU8gCjqFCnRENTr1M3x_WJ3nhVTA7sBb-PQRyHe0_wkNMlEXD7fVEew1AL2vrEVEtBXpLTSyAP_Ihoy7.ts"
+				"value": "//video-edge-9320a4.pdx01.abs.hls.ttvnw.net/v1/segment/ClCQ3bRwmafiM92YWVBJUtuP7Tjd9e6-gAHd8zMxgfPIVeKOS1_4onrYm1hMWZKwn2AvUucsh53qf4J8YXLPFBmZn_omVHNNzr5vuyrPaRzntwDP_5kA4z8BFtVjTpmQOpcyIvn-Pp10v8fojMqpX-MfN6_4m_VqMwMPrEpSyvQUHWJ7liDykEyqgy5bE5L3wMtQb3TXiO-J5iyYwBWzxjgcFGEKw-NwKV-YfjMAp4cx7i7wQpu26U74zaBuXczP8DeAklcji1kDTJvwIcNX5ePae6RuwfmP3J-kWxhkqVSu3o-fVDlZg45nbfVQoZEMWPQH546zRcOoT6zCVMQelia8pggp8DyseghjmRYjAZdepjGcMIiAMFNBamJQ-_3oO0z4NEuf1eh0tIiQRrp85uOSs0sI2WQZZVenC7Z51zfa47sLxf8y-vZJPv5zpYTdxKrXtNWbc-iGaCMjRYxyVw7hbj76oqCSFiQdhb18t0rIYwFAPwrOkQhNbeYSLD5eSenLu5FIDpdLxiooWshXHojW6vZ79CzPDUvRjqp2KvGq7st_FQiV7EekwoxpibllEbJPERQurKp7HCeM-PequlMZeYYJJNpR2VXlKYdJMFQwHnHaWrD0q-1CpYKfcGK1l8FeWPGr-o0b1bG2oLzqmUN6RdaGy-grv7RhM9VfYv4uHt_UvhN5mjDsaq02M-7FKDV5pyoRpTvTSHTp02QsmyL3aC8831SadeaafapKlz73W41dyWFfS7DyT.ts"
 			}
 		]
 	},
@@ -43787,7 +43787,7 @@
 	},
 	"e12ef450-c05d-4069-857b-5cadb75e4a4a": {
 		"name": "ios_mdf_skan",
-		"v": 44535,
+		"v": 45088,
 		"t": 1,
 		"groups": [
 			{
@@ -43799,11 +43799,11 @@
 				"value": "active_internal"
 			},
 			{
-				"weight": 100,
+				"weight": 0,
 				"value": "active_v25.4"
 			},
 			{
-				"weight": 0,
+				"weight": 100,
 				"value": "active_v25.8"
 			}
 		]
