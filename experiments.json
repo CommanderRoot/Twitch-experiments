@@ -16769,6 +16769,21 @@
 			}
 		]
 	},
+	"56dc9d7d-0106-4176-be12-39e6e8d2a0da": {
+		"name": "dart_frightfest_cryptclipperbadge_mobile_fix_holdout",
+		"v": 45140,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"56e46a81-17d4-45ab-ae67-dfc42105d6da": {
 		"name": "dart_hypetrain_emotes_092626_push_holdout",
 		"v": 44938,
