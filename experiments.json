@@ -14842,12 +14842,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 45220,
+		"v": 45233,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-ba385e.pdx01.abs.hls.ttvnw.net/v1/segment/CgpZUec8I5Ox7nBGIbPwKwB89d3HL0tbpcLyn8ZjEd-_SVYva2uB7IOoqzvYl7jWufdTeEIIr-PUrnkn1h3m6YEd0rohPwuq9n_n7fY7UBt3MH0NPkPD5vgMEr1I78RDFrRdDXauFLB3Z_z2ziw80fM4Z1qQ4ETLrG0T9UoCVe92JL40_vaXLEP1qbpn8UjFHOxpJk71KDVxSsWGxrd6WpWXDh1tkw75c2VDa8QATOxGZAf21Wmr8NPtGJ6KglCVJhS51GiSNEzqsxFx2hY-nxE9lA6W7yw5vAkyfJ_wf5gz7Z5pbsbUpJU8KXQPqQbESuSiTJO2guCJy8ljd74IZzC5XZsOBrA6zhHEyeJUt1CX9Uh11aw-OiobOGyWHWgzxyvRJanhxgalQDGqN1gIlTyYl1FRlSXu5n4WdhTal0LmThufzXwJdLdot3J5e7z5Ic4BOAvCfYuOiDJvXJrSlfYhsnOSKUAQ1g8sqp1UL5OzVG235svyJb5UV-CTBYQLpgDRPBch4Cer7-nzmEq3cs1iJRNl7f1GUvp3hdVtlEkqd9ovBjLGJ7CCNr3wMr7Rjx_xEApkBgqE9ixPbpPU16T-sXMDcSqgauUSJywTio8M8CjgEQjZXpoI2kYA9qzDAIqW0YDlYap_k0A2PLs_BMtudIMOzyusYL_eWq0nNOlU69AhB1IliweFrw0Z5-CgvwVzHXnhcmUv9C6mfZISWc3yhfngkq28M0cRa02M3xNh0bVxNEeME58zmWGStq.ts"
+				"value": "//video-edge-cc8de8.pdx01.abs.hls.ttvnw.net/v1/segment/CunNqYv_KvnoXnkmPHPT55dIWChMVtLCF7Yu22-nkgDrgZBY0mlfF3SGf9QHB8wHNZ2vbtjuS_uJs5FTyEQ1dYD8_Hb_1pIkoa3WaxpBNwws14iqAOg_HcmymosPI_Ok-stxWxDCZopDXIdwrvh8E3t8dykjeXbA4K5rUwJG-esjS83tUkBWlaQf1aILqvHFpoJ1Esg8IvLHhhK5N5Z84OpK4KNTHTXMPJB7ZYna23K351mTY2jxj3Kzi7muAC5Fd95jCYUu7tH2TRZVMoCSeE0zq_gcL2B008rfx3x1CLPLHLljXzoHNtciKTGXJKcMrOEtgStBacTEEAZBG1IIAX9t-JhLgPoZEAs8uj_PLgtBeoJlLAf3aTZVNks4LvuXN2L3Rb0NnOGvnYuhmrvp-K498DUxOIOSYCLUt7SSSYQlj1Mf1onIeVer80azbclynw8BfvSWUmrQi_yfKGjC76r7scb-PlMaDLK80p7kdrBDrI5da1iGscuk2G5AL1fAz9A-kIOY0V6UG2K3Uozz--hE4mAB8tUvgjduP4SpzY3uEVCOL2DxTYUs6CGI19yrVEnSB1He-0XUh31FYQpg531QT6sl8Icj-wXqCztlmL8kcadZ2widh56IkVfy_aNQKHdxhPf6ESB2uJTOUHZEjdYPVucZmqZK6Vt0JVIFLtwx1u6zZvwYrXC2iIygJE6iQQnR2Z9b1lW9UWCF8u-9ULqDJEFZN6wfEcnBgVaS_4cb6kj8STbc6L3ovRPRe2xwLoylQy.ts"
 			}
 		]
 	},
@@ -19162,6 +19162,25 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"63107d5b-3b3d-406f-898a-118b601cbc14": {
+		"name": "dart_dualstreamingformat_abtest_11725_onsite",
+		"v": 45232,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
@@ -44239,6 +44258,25 @@
 			{
 				"weight": 100,
 				"value": "cloudfront"
+			}
+		]
+	},
+	"e2be47b5-8dae-45bf-b67e-006c10d33fa2": {
+		"name": "dart_dualstreamingformat_abtest_11725_email",
+		"v": 45231,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 34,
+				"value": "Variant A"
+			},
+			{
+				"weight": 33,
+				"value": "Variant B"
+			},
+			{
+				"weight": 33,
+				"value": "Variant C"
 			}
 		]
 	},
