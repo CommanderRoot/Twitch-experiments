@@ -14857,12 +14857,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 45311,
+		"v": 45322,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-53e6df.pdx01.abs.hls.ttvnw.net/v1/segment/CnsSsb-YTYRLWzOvc3gdDhiMjoUtmGbjxsEC-sXRqHq1T5Fxvesf4jv4ExlAB_W1NsHoAruwJF7FzAK76WcDiIm66rKtdboJJNtxi0dVcEfUr5g-ONN4lu2h7lrcS5NFHscLJNawvnVn-KFLYgf6n-nvX0Z8f1Z6NBF-AS0cGV8qrwrPOfzCz_coLXHT1SsDVwVDU_HfpilkV20nNrxrKq17ArnFguO1mTarsLpy5I6f1G9eTgGg21kn2OtOYmjVRe9EvcyQWaDr3y7UT3_rW55VUiVekKM-u7LcEZpKkrALxQKVGYjOnrgwQrpCrlVcBWWUh91-4roebpW_U2TYIzbtgIfkq9Or31ncB0JER5LbqkO1aTGCgVsfdevkh3vqe4Dw7nO1KA0XNO-kBRz-cNkQv1WM4Awq0IN4pJtCR3PeNNFcMd5pjpMUjYeSE7L9ny6_b9IhF5jexZr-a6Z65_msqKCpg7yIaw8iqnAvlLyBN-IfVM_bJytFv7aD6TlOR3f9DV2ya1-QilQ_bwTx7WbrtuTshWVQT8fX82l-eSQFVP6mWtlnoRDZlQCkNWKy-PQ7Ph3dMlWGsCzZ1xOdeoPEzBTq4jOJboL0DuTTf1Ja0-FMyBM0mAkJV6poGGUQ82L_DIzydyn-I0aIeuqX-50o_xqlXLQTJaC3xAq0WoLJHdcsUn41-o-mYKIZbCl9S-TkDeyiquReHj9cGTRs_MW32MADo9JRaFP9qC3OOxYBdj9MqdQ0WbSLe42qtdv.ts"
+				"value": "//video-edge-247788.pdx01.abs.hls.ttvnw.net/v1/segment/Ctc7--hb1s7aQ7_p2QBPd-jayp60Ff5MX4n7fS2-kDrDb_y2IgJiIXlHHSmU0fIbxXFGZ2GkyQjeoIAsQTzZu3Com-1Y0yqZWjTaOJpqzWztdVXaBZe-rtIIpF3txbzn7RugZrT-zwAj7uTTANOTRGI46UMuMyRAMQi2QdbFMYsCM0MXOpWBiBWvYaW-ovuRVRwtu7lg6BRkPdfEkl46F6fjASPDSiZxyZLP2qrzFFMnVVvImD7K6bsNjHA8DfTM0b5Ukb8uu97gM2ncDDUGGB4nDSUvEXVhuo12M5NKHq0MBS6m10Ll1U2pz2xfYshB7mHvBjubuRW6SKsnHPXDMgW-NmDAcghZI4IH-soR9wcOvMRGT9Lxb6L6Gv4DlI1zwhsKgZKUI81pZJ0lCguKsQkmh1AUfA5kSkejwkC5IfbRLK6427A-MISuR3ZEIbDBTnlnMvLN7OMQ8wERYlHiEDGMUGV2J2I2a_wsaHAHRVYAnQqRMqm8YOOLz6s5XuaLICZ0bJweP4tzkwNOGcyp-cgdfqriffziVL_t5r2-E4n7lhQUZQP_aQ_Ru8sSWtQ4GrDsbYAzodtc3lJw8Y1h_Oahwa6kSK_zn135Ij69WTNcQHwzUW82rOWrzPXhx20eKD6jvJkMxcS6Ld-UIScF4t76bOD2HJJNoF0XyrFx3DxG2s57ly3byjsFdm17NZdBN8bPoqfv_QH5PSpfokCuHP-RUf82AO-z387XbXUKF31SiO1h-pZ-3Ui5bCdoWxKFziuJFnUziv807.ts"
 			}
 		]
 	},
@@ -45054,6 +45054,21 @@
 			{
 				"weight": 0,
 				"value": "treatment"
+			}
+		]
+	},
+	"e6d2e1bc-ef17-4972-9ef4-f551c6b8de50": {
+		"name": "dart_discord_viewer_active_111825_holdout",
+		"v": 45321,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
 			}
 		]
 	},
