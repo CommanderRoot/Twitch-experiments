@@ -1296,6 +1296,21 @@
 			}
 		]
 	},
+	"06a56090-aa17-4ddd-9f4a-6c1a343b44ee": {
+		"name": "dart_recs_viewership_peak_push",
+		"v": 45332,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "Variant A"
+			},
+			{
+				"weight": 50,
+				"value": "Variant B"
+			}
+		]
+	},
 	"06aa0a5e-01f5-480d-8596-6bcf73a93ffe": {
 		"name": "android_email_settings",
 		"v": 9147,
