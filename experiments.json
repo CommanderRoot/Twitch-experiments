@@ -3796,6 +3796,21 @@
 			}
 		]
 	},
+	"1382fb11-bc46-4bb4-bbc7-c1a8fbd13b58": {
+		"name": "dart_eoy_promo_112125_holdout",
+		"v": 45418,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"13bab58e-d975-4d01-a255-d8925b440a77": {
 		"name": "ios_channel_points_predictions_spectator_mode",
 		"v": 14045,
