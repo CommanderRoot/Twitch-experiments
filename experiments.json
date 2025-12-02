@@ -5225,6 +5225,21 @@
 			}
 		]
 	},
+	"1b107fb0-1aa0-4a98-a389-3033cb1bbefb": {
+		"name": "dart_recap2025_recap_and_badge_batch1_1225_holdout",
+		"v": 45453,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"1b1249a5-8f97-4585-81ac-85d6b0a4f977": {
 		"name": "ios_multi_ad_format_parse_strategy",
 		"v": 19273,
@@ -23431,6 +23446,21 @@
 			{
 				"weight": 100,
 				"value": "label_only_active_13.4"
+			}
+		]
+	},
+	"76fc9396-20d2-41b6-acd8-68d501130e90": {
+		"name": "dart_recap2025_community_batch1_1225_holdout",
+		"v": 45456,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -45666,6 +45696,21 @@
 			{
 				"weight": 0,
 				"value": "active_12.7"
+			}
+		]
+	},
+	"e9c7131c-05b9-4f98-a9b4-156efc556c77": {
+		"name": "dart_recap2025_recap_and_no_badge_batch1_1225_holdout",
+		"v": 45454,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
