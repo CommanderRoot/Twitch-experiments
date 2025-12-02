@@ -1435,6 +1435,21 @@
 			}
 		]
 	},
+	"0739a682-1315-4679-8b91-a7f0ea3e4b30": {
+		"name": "dart_recap2025_recap_and_badge_batch2_1225_holdout",
+		"v": 45465,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"076af520-5b70-4249-8f25-3d500fdb9c85": {
 		"name": "android_squad_streaming",
 		"v": 31931,
@@ -23681,6 +23696,21 @@
 			{
 				"weight": 0,
 				"value": "control"
+			}
+		]
+	},
+	"781e82a6-1b80-4a62-937d-4c6c8594d0dc": {
+		"name": "dart_recap2025_recap_and_no_badge_batch2_1225_holdout",
+		"v": 45464,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
@@ -46729,6 +46759,21 @@
 			{
 				"weight": 0,
 				"value": "active_v24.4"
+			}
+		]
+	},
+	"ee3a37d7-bf0e-4115-be1b-f171c4739b32": {
+		"name": "dart_recap2025_community_batch2_1225_holdout",
+		"v": 45463,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
 			}
 		]
 	},
