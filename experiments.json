@@ -40396,6 +40396,21 @@
 			}
 		]
 	},
+	"ce3bcab0-f261-4a77-893b-1aff997a8a0c": {
+		"name": "dart_recap2025_community_batch4_1225_holdout",
+		"v": 45472,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ce3e4b28-1169-41d0-ba0e-d3bba03b1160": {
 		"name": "pur_rep_realtime_data",
 		"v": 14060,
