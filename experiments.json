@@ -37459,6 +37459,21 @@
 			}
 		]
 	},
+	"bf75573e-fe84-4402-9871-2133b676ae91": {
+		"name": "dart_winterdropfest_viewer_email_12325_holdout",
+		"v": 45485,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 20,
+				"value": "holdout"
+			},
+			{
+				"weight": 80,
+				"value": "allowed"
+			}
+		]
+	},
 	"bf79f787-cb6c-453b-94ff-a06be36b9401": {
 		"name": "ios_unified_share_sheet",
 		"v": 42205,
