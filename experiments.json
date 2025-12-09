@@ -20020,6 +20020,21 @@
 			}
 		]
 	},
+	"66e0eb19-0880-42c9-ba84-c59af0b1b2f8": {
+		"name": "dart_twitch_turbo_120925_holdout",
+		"v": 45501,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"66e3abc3-40b3-419f-8ab1-94056d3c7460": {
 		"name": "android_sub_modal_landscape",
 		"v": 25387,
