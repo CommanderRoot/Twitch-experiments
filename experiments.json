@@ -26407,6 +26407,21 @@
 			}
 		]
 	},
+	"84e0cc4f-5591-4b08-b696-99eea7c8250b": {
+		"name": "dart_fallout_firesidechat_120925_holdout",
+		"v": 45508,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"84f64c0e-e4df-4b67-ba82-689237c2e3ba": {
 		"name": "android_hermes_rollout_channel_v2",
 		"v": 42852,
