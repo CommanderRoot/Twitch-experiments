@@ -2626,6 +2626,21 @@
 			}
 		]
 	},
+	"0d8f21a8-c564-4dcc-a24b-b56ddda52fd0": {
+		"name": "dart_clips_sharing_push_120525_holdout",
+		"v": 45505,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"0d91438c-c3ee-4efc-8e27-d2bc7436c919": {
 		"name": "ios_unified_access_token",
 		"v": 13723,
@@ -14917,12 +14932,12 @@
 	},
 	"4badc757-13a7-468c-99b6-e42aef7fc286": {
 		"name": "spade_url",
-		"v": 45470,
+		"v": 45504,
 		"t": 1,
 		"groups": [
 			{
 				"weight": 1,
-				"value": "//video-edge-dead03.pdx01.abs.hls.ttvnw.net/v1/segment/Cl-XxZIriqWOYOR0SzUeaWrHkjdnvpEPmPcuo7II5g5sdZ0ZFIbnaIO-IHds--MM4nY2PMKa4fa5LR9KzMKvD9nGOkqI7hVQgf8PMltCd63e6MZvkv2cofvPIiYZH1bhsjyJ8iALtReJ3J4SBYhKQzn2eEan6Juo0aVHT5mg0WJm8xsAnZjlp8KBXpweNwJGj7F-_iVABLT7l20A0DfK5MR2eqAC2zvv0HuW756j4pUzJiVN_elcU4wmrNTnbzEf77hRYNmVlALhJC54AvGLGCLFzRSyP25O0ZUXSUskVGHesFoMAFlvjKQcAkM77k41BqfbwTse4W6W1uRYMg0-wAGOmQpJWKS789kp11NT38-T7c7wND8LEGMQEvxVzclqzACojTQkYgDM-c_OwZ8_Pzd6Fqvjn5pvIKeWFCIG1KwY-pLjpOGIJ0OkSvPf-pfyTXYpu8nvJHkCEeNAYev06ZWcpKETZhJ0m_3OKIpM1P2lG9B2PXropn_b3OtMk-MGnQJ0bHZST2CXSS2IPAlGZ34AmUb8PF2Ju4YAHEfY4F1L8nbRaC4DLBHu9ePPK-0YUopEfqg1ACMHUoMLHsUNlMtPKJHf8fsH4yxwaW57o4oEjzvnEF0kVgwc88qrx8mMxDj2PyW_xbmfl60H2Xmek9P3KXUb2QbvnTSpHSDNnNjimTg80ZIeepJJv3LkHK3rjyT6cYmPQk6w5GZUfUs0GjYPYThn-OUcN1ND3NGRKufZ_6BkBANLSuo8Q5tHcnf66-eSgFHtYFnqwKbVZjl.ts"
+				"value": "//spade.twitch.tv/track"
 			}
 		]
 	},
