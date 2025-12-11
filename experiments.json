@@ -15673,6 +15673,21 @@
 			}
 		]
 	},
+	"4f9b4427-629e-4a31-a9ea-22fce604b9af": {
+		"name": "dart_clips_sharing_push_120525_asia_holdout",
+		"v": 45522,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"4fc12e6d-00be-424d-8a17-8a2a784b6702": {
 		"name": "ios_ads_vast_parser_url_components",
 		"v": 29934,
