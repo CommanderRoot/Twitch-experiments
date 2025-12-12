@@ -6716,6 +6716,21 @@
 			}
 		]
 	},
+	"230b120b-63b8-451d-b8f8-e500c06dd74c": {
+		"name": "dart_tft_french_gift_sub_campaign_holdout",
+		"v": 45542,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"232b2bea-f1c7-4e9c-950c-d7b9d2217b54": {
 		"name": "dart_commintro2_vwr_764_awa_cmc_lrn_mis_onsite_227_holdout",
 		"v": 22089,
