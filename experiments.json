@@ -36686,6 +36686,21 @@
 			}
 		]
 	},
+	"ba2ac697-60ce-4342-9a43-1645cb36e078": {
+		"name": "dart_thegameawards_121125_holdout",
+		"v": 45533,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"ba2affad-8be4-4678-9331-a74811a4b82e": {
 		"name": "dart_tnf_nov24_holdout",
 		"v": 31304,
