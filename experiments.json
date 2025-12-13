@@ -28060,6 +28060,21 @@
 			}
 		]
 	},
+	"8d6602aa-793c-4522-8df6-c6548c7b2c4a": {
+		"name": "dart_music_nybeats_holdout",
+		"v": 45545,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 10,
+				"value": "holdout"
+			},
+			{
+				"weight": 90,
+				"value": "allowed"
+			}
+		]
+	},
 	"8d874211-cb45-4169-b0ee-ee66146cebcc": {
 		"name": "android_mdf_explicit_signals",
 		"v": 31154,
