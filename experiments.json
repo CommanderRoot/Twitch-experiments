@@ -15609,6 +15609,21 @@
 			}
 		]
 	},
+	"4f4baa50-8fb9-4d13-bafd-0a1a8b6844b1": {
+		"name": "dart_hypetrainempterefresh_creators_121925_holdout",
+		"v": 45562,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4f4cc91e-537b-4a83-8ba6-83d136551bf7": {
 		"name": "ios_esports_sub_sunset",
 		"v": 30642,
@@ -30566,6 +30581,21 @@
 			{
 				"weight": 0,
 				"value": "active_12.7_cdn_http3"
+			}
+		]
+	},
+	"996d274e-0b4a-4602-9c10-1d74065dd07c": {
+		"name": "dart_hypetrainempterefresh_viewers_121925_holdout",
+		"v": 45561,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
 			}
 		]
 	},
