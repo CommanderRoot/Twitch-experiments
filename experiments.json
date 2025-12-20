@@ -14564,6 +14564,21 @@
 			}
 		]
 	},
+	"4a5f261a-466f-4f00-95b2-9168b58216ff": {
+		"name": "dart_druski_trainingday_holdout",
+		"v": 45564,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"4a7bb40c-9114-443c-aae8-70910fa1106f": {
 		"name": "dart_apac_twn_championroad_vwr_0_dav_trn_wch_gmg_push_2212_3rdday_holdout",
 		"v": 25726,
