@@ -1356,6 +1356,21 @@
 			}
 		]
 	},
+	"06cd08b6-81a3-4dc2-b2ef-3a57b5b6acde": {
+		"name": "dart_eoepromoforviewers_announce_122325_holdout",
+		"v": 45565,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 50,
+				"value": "holdout"
+			},
+			{
+				"weight": 50,
+				"value": "allowed"
+			}
+		]
+	},
 	"06d7f651-5b2e-4d89-8344-6067b3ae6d56": {
 		"name": "android_ivs_broadcast_abr_aggressiveness",
 		"v": 20935,
