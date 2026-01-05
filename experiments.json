@@ -19055,6 +19055,21 @@
 			}
 		]
 	},
+	"6170c619-8fa3-44dc-9828-9c6a90b2b619": {
+		"name": "dart_beast_onsite_creator_holdout",
+		"v": 45572,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"61733499-8b43-42ed-a416-1a72f72af015": {
 		"name": "android_copo_predictions",
 		"v": 12460,
