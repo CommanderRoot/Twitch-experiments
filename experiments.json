@@ -36900,6 +36900,21 @@
 			}
 		]
 	},
+	"bafcf526-b7fe-4b88-933e-73e5995b7d6c": {
+		"name": "dart_tceu26_callforcontentonsite_1726_holdout",
+		"v": 45582,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"bb0a266a-39a7-4b40-82c3-24ff8801b7eb": {
 		"name": "tvapps_androidtv_httpservice",
 		"v": 10174,
