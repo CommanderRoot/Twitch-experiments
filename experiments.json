@@ -39839,6 +39839,21 @@
 			}
 		]
 	},
+	"ca17144e-f42f-442d-8005-05ab4291ff04": {
+		"name": "dart_clplimits_extended_11226_holdout",
+		"v": 45620,
+		"t": 2,
+		"groups": [
+			{
+				"weight": 5,
+				"value": "holdout"
+			},
+			{
+				"weight": 95,
+				"value": "allowed"
+			}
+		]
+	},
 	"ca305459-aec3-4d0c-b4e4-93d8cda54bba": {
 		"name": "DEMOGRAPHIC_STATS",
 		"v": 1839,
