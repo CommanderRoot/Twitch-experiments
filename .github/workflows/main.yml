@@ -18,6 +18,9 @@ jobs:
     permissions: 
       contents: write
 
+    env:
+      api_key: ${{ secrets.ASSETS_API_KEY }}
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
