@@ -11,7 +11,7 @@ fi
 # git add site_options.js && git commit -m 'Update site_options.js'
 
 # Get config
-curl --connect-timeout 10 -s --compressed 'https://assets.twitch.tv/eppo/api/flag-config/v1/config?sdkName=js-sdk-client&sdkVersion=3.1.2&apiKey=3mv-BKCSZJDyZrwfqK86har6u13NgxRh.ZWg9bTRsZHJnLmUuZXBwby5jbG91ZCZjcz1tNGxkcmc' | jq -M --tab . > config.json
+curl --connect-timeout 10 -s --compressed "https://assets.twitch.tv/eppo/api/flag-config/v1/config?sdkName=js-sdk-client&sdkVersion=3.1.2&apiKey=$api_key" | jq -M --tab . > config.json
 if [ -s config.json ]; then
 	git add config.json && git commit -m 'Update config.json'
 fi
