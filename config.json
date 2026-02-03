@@ -6647,87 +6647,6 @@
 				}
 			]
 		},
-		"identity-use-interpol-canary": {
-			"key": "identity-use-interpol-canary",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-67356",
-					"startAt": "2025-12-11T23:14:37.301Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"135762134",
-										"1351530818",
-										"228093028"
-									],
-									"operator": "ONE_OF",
-									"attribute": "id"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"135762134",
-										"1351530818",
-										"228093028"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "identity-use-interpol-canary-67356-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-67349",
-					"startAt": "2025-11-12T21:10:02.651Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"together-for-good-2025-banner": {
 			"key": "together-for-good-2025-banner",
 			"enabled": true,
@@ -8537,7 +8456,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
