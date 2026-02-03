@@ -6848,6 +6848,37 @@
 				}
 			]
 		},
+		"twilight_bits_get_or_not": {
+			"key": "twilight_bits_get_or_not",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-88019",
+					"startAt": "2026-02-01T02:48:33.569Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"vods_cooldown": {
 			"key": "vods_cooldown",
 			"enabled": true,
