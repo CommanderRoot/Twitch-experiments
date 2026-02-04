@@ -8053,6 +8053,73 @@
 				}
 			]
 		},
+		"default-crown-tab": {
+			"key": "default-crown-tab",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-88718",
+					"startAt": "2026-02-03T20:12:51.916Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "default-crown-tab-88718-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "default-crown-tab-88718-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-88715",
+					"startAt": "2026-02-03T20:11:50.861Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"one-thousand-gift-bundle": {
 			"key": "one-thousand-gift-bundle",
 			"enabled": true,
@@ -8453,6 +8520,37 @@
 				{
 					"key": "allocation-85526",
 					"startAt": "2026-01-21T21:25:48.393Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"invite-v3-tag": {
+			"key": "invite-v3-tag",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-81776",
+					"startAt": "2026-01-06T21:53:08.543Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
