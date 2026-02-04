@@ -5824,7 +5824,7 @@
 				},
 				{
 					"key": "allocation-87920",
-					"startAt": "2026-01-30T20:12:48.966Z",
+					"startAt": "2026-02-04T22:04:17.307Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5832,7 +5832,8 @@
 								{
 									"value": [
 										"twitch-internal-test-request-gdads",
-										"twitch-internal-test-request"
+										"twitch-internal-test-request",
+										"twitch-internal-test-request-l3"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
@@ -5928,6 +5929,37 @@
 				{
 					"key": "allocation-84509",
 					"startAt": "2026-01-16T20:17:38.325Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"watch_streaks_visibility": {
+			"key": "watch_streaks_visibility",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-87091",
+					"startAt": "2026-01-28T01:27:23.709Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
