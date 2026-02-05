@@ -5940,6 +5940,37 @@
 				}
 			]
 		},
+		"disco_robot_cycle": {
+			"key": "disco_robot_cycle",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-84277",
+					"startAt": "2026-01-15T23:51:46.684Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"watch_streaks_visibility": {
 			"key": "watch_streaks_visibility",
 			"enabled": true,
@@ -6393,37 +6424,6 @@
 				{
 					"key": "allocation-82264",
 					"startAt": "2026-01-08T19:31:31.001Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"disco_robot_cycle": {
-			"key": "disco_robot_cycle",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-84277",
-					"startAt": "2026-01-15T23:51:46.684Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -8524,7 +8524,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -9033,7 +9033,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-01-27T15:36:35.130Z",
+					"startAt": "2026-02-05T17:38:54.016Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9050,20 +9050,6 @@
 					],
 					"splits": [
 						{
-							"variationKey": "base",
-							"shards": [
-								{
-									"salt": "ivs-player-core-distribution-45890-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
 							"variationKey": "variant-a",
 							"shards": [
 								{
@@ -9071,7 +9057,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9999
+											"end": 9500
 										}
 									]
 								}
@@ -9084,21 +9070,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 9999,
-											"end": 9999
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant-m",
-							"shards": [
-								{
-									"salt": "ivs-player-core-distribution-45890-split",
-									"ranges": [
-										{
-											"start": 9999,
+											"start": 9500,
 											"end": 10000
 										}
 									]
