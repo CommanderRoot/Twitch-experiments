@@ -8532,6 +8532,37 @@
 				}
 			]
 		},
+		"delicious_snacks": {
+			"key": "delicious_snacks",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-88779",
+					"startAt": "2026-02-03T22:21:38.800Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"creator_promotions_controls": {
 			"key": "creator_promotions_controls",
 			"enabled": true,
@@ -9033,7 +9064,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-02-05T17:38:54.016Z",
+					"startAt": "2026-02-05T18:29:16.175Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9057,7 +9088,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 7500
 										}
 									]
 								}
@@ -9070,7 +9101,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 7500,
 											"end": 10000
 										}
 									]
