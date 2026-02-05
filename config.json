@@ -6087,6 +6087,45 @@
 				}
 			]
 		},
+		"simplify_checkout_full": {
+			"key": "simplify_checkout_full",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				},
+				"newtext-withoutgiftcard": {
+					"key": "newtext-withoutgiftcard",
+					"value": "newtext-withoutgiftcard"
+				},
+				"newtext": {
+					"key": "newtext",
+					"value": "newtext"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-65872",
+					"startAt": "2025-11-06T18:49:38.404Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"twitch-rival-turbo-sda": {
 			"key": "twitch-rival-turbo-sda",
 			"enabled": true,
@@ -6354,6 +6393,37 @@
 				{
 					"key": "allocation-82264",
 					"startAt": "2026-01-08T19:31:31.001Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"disco_robot_cycle": {
+			"key": "disco_robot_cycle",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-84277",
+					"startAt": "2026-01-15T23:51:46.684Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -8424,6 +8494,37 @@
 					"splits": [
 						{
 							"variationKey": "variant",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"disco_robot_hair": {
+			"key": "disco_robot_hair",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-88738",
+					"startAt": "2026-02-03T21:07:44.834Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
