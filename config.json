@@ -6918,6 +6918,42 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-89527",
+					"startAt": "2026-02-05T19:07:11.007Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "twilight_bits_get_or_not-89527-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "twilight_bits_get_or_not-89527-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-88019",
 					"startAt": "2026-02-01T02:48:33.569Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
