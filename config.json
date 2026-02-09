@@ -5826,6 +5826,60 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-90261",
+					"startAt": "2026-02-09T23:03:35.818Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US",
+										"UK",
+										"DE",
+										"FR",
+										"IT",
+										"ES"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "pause-ads-trigger-90261-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "pause-ads-trigger-90261-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-87073",
 					"startAt": "2026-01-28T00:58:54.516Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
