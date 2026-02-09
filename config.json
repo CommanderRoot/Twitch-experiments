@@ -5789,7 +5789,7 @@
 			"allocations": [
 				{
 					"key": "allocation-87920",
-					"startAt": "2026-02-04T22:04:17.307Z",
+					"startAt": "2026-02-09T18:32:24.144Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5798,7 +5798,8 @@
 									"value": [
 										"twitch-internal-test-request-gdads",
 										"twitch-internal-test-request",
-										"twitch-internal-test-request-l3"
+										"twitch-internal-test-request-l3",
+										"non-fas-test-request"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
@@ -8562,6 +8563,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"bigmotes": {
+			"key": "bigmotes",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-88761",
+					"startAt": "2026-02-03T21:36:00.358Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
