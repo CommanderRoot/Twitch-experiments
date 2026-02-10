@@ -5044,6 +5044,73 @@
 				}
 			]
 		},
+		"turbo-february-experiments": {
+			"key": "turbo-february-experiments",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"turbo-signup-upsell": {
+					"key": "turbo-signup-upsell",
+					"value": "turbo-signup-upsell"
+				},
+				"turbo-acquisition": {
+					"key": "turbo-acquisition",
+					"value": "turbo-acquisition"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-90217",
+					"startAt": "2026-02-09T21:35:17.252Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "turbo-signup-upsell",
+							"shards": [
+								{
+									"salt": "turbo-february-experiments-90217-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "turbo-acquisition",
+							"shards": [
+								{
+									"salt": "turbo-february-experiments-90217-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-90214",
+					"startAt": "2026-02-09T21:35:13.371Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "turbo-signup-upsell",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"progressive_discounts": {
 			"key": "progressive_discounts",
 			"enabled": true,
@@ -8842,6 +8909,129 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"go-turbo-go": {
+			"key": "go-turbo-go",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"TreatmentA": {
+					"key": "TreatmentA",
+					"value": "TreatmentA"
+				},
+				"TreatmentB": {
+					"key": "TreatmentB",
+					"value": "TreatmentB"
+				},
+				"TreatmentC": {
+					"key": "TreatmentC",
+					"value": "TreatmentC"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-86621",
+					"startAt": "2026-02-10T00:38:49.867Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"turbo-february-experiments"
+									],
+									"operator": "ONE_OF",
+									"attribute": "dependent_flag"
+								},
+								{
+									"value": [
+										"turbo-signup-upsell"
+									],
+									"operator": "ONE_OF",
+									"attribute": "variation_served"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "go-turbo-go-86621-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentA",
+							"shards": [
+								{
+									"salt": "go-turbo-go-86621-split",
+									"ranges": [
+										{
+											"start": 2500,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentB",
+							"shards": [
+								{
+									"salt": "go-turbo-go-86621-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 7500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentC",
+							"shards": [
+								{
+									"salt": "go-turbo-go-86621-split",
+									"ranges": [
+										{
+											"start": 7500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-86618",
+					"startAt": "2026-01-27T00:45:53.887Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
