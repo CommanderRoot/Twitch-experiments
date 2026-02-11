@@ -9089,14 +9089,15 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-02-04T20:31:14.841Z",
+					"startAt": "2026-02-11T16:09:22.224Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1438067518"
+										"1438067518",
+										"1396680507"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
