@@ -6664,6 +6664,37 @@
 				}
 			]
 		},
+		"icymi-storyboards": {
+			"key": "icymi-storyboards",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-91338",
+					"startAt": "2026-02-12T18:50:54.902Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"omsdk_ad_measurement": {
 			"key": "omsdk_ad_measurement",
 			"enabled": true,
