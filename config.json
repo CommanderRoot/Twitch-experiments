@@ -4430,37 +4430,6 @@
 				}
 			]
 		},
-		"project_coconut_subs_callout_dates_Q3_2025": {
-			"key": "project_coconut_subs_callout_dates_Q3_2025",
-			"enabled": true,
-			"variationType": "JSON",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "{\n  \"start_date\": \"2025-08-29T17:00:00Z\",\n  \"end_date\": \"2025-10-01T17:00:00Z\"\n}"
-				},
-				"test": {
-					"key": "test",
-					"value": "{\n  \"start_date\": \"2026-01-01T00:00:00Z\",\n  \"end_date\": \"2126-01-01T00:00:00Z\"\n}"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-89164",
-					"startAt": "2026-02-04T21:14:51.713Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"disco-stream-manager-video-preview-portrait": {
 			"key": "disco-stream-manager-video-preview-portrait",
 			"enabled": true,
@@ -8691,37 +8660,6 @@
 				}
 			]
 		},
-		"project_coconut_bonus_gifts_callout_dates_Q3_2025": {
-			"key": "project_coconut_bonus_gifts_callout_dates_Q3_2025",
-			"enabled": true,
-			"variationType": "JSON",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "\n{\n  \"start_date\": \"2025-08-29T17:00:00Z\",\n  \"end_date\": \"2025-10-01T17:00:00Z\"\n}"
-				},
-				"test": {
-					"key": "test",
-					"value": "{\n  \"start_date\": \"2026-01-01T00:00:00Z\",\n  \"end_date\": \"2126-01-01T00:00:00Z\"\n}"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-89168",
-					"startAt": "2026-02-04T21:36:37.764Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"bigmotes": {
 			"key": "bigmotes",
 			"enabled": true,
@@ -9376,6 +9314,73 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"twilight_bits_get_or_not_v2": {
+			"key": "twilight_bits_get_or_not_v2",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-91133",
+					"startAt": "2026-02-12T00:10:16.979Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "twilight_bits_get_or_not_v2-91133-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "twilight_bits_get_or_not_v2-91133-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-91127",
+					"startAt": "2026-02-12T00:07:10.294Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
