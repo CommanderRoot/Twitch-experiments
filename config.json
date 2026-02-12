@@ -6664,37 +6664,6 @@
 				}
 			]
 		},
-		"icymi-storyboards": {
-			"key": "icymi-storyboards",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-91338",
-					"startAt": "2026-02-12T18:50:54.902Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"omsdk_ad_measurement": {
 			"key": "omsdk_ad_measurement",
 			"enabled": true,
@@ -8691,6 +8660,37 @@
 				}
 			]
 		},
+		"icy-surfboards": {
+			"key": "icy-surfboards",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-91417",
+					"startAt": "2026-02-12T20:52:57.460Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"bigmotes": {
 			"key": "bigmotes",
 			"enabled": true,
@@ -8746,6 +8746,53 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"checkout-regional-card-icons": {
+			"key": "checkout-regional-card-icons",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				},
+				"jcb": {
+					"key": "jcb",
+					"value": "jcb"
+				},
+				"nubank": {
+					"key": "nubank",
+					"value": "nubank"
+				},
+				"cartesbancaires": {
+					"key": "cartesbancaires",
+					"value": "cartesbancaires"
+				},
+				"unionpay": {
+					"key": "unionpay",
+					"value": "unionpay"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-90246",
+					"startAt": "2026-02-09T22:14:14.988Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
