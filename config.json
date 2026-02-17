@@ -6396,21 +6396,12 @@
 			"allocations": [
 				{
 					"key": "allocation-58360",
-					"startAt": "2025-12-19T22:54:08.039Z",
+					"startAt": "2026-02-17T21:25:43.553Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "pre-affiliate-2fa-skip-58360-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "pre-affiliate-2fa-skip-58360-split",
 									"ranges": [
@@ -6425,15 +6416,6 @@
 						{
 							"variationKey": "false",
 							"shards": [
-								{
-									"salt": "pre-affiliate-2fa-skip-58360-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "pre-affiliate-2fa-skip-58360-split",
 									"ranges": [
