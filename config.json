@@ -6396,7 +6396,7 @@
 			"allocations": [
 				{
 					"key": "allocation-58360",
-					"startAt": "2026-02-17T21:25:43.553Z",
+					"startAt": "2026-02-17T21:46:35.807Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -6407,7 +6407,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 9998
 										}
 									]
 								}
@@ -6420,7 +6420,7 @@
 									"salt": "pre-affiliate-2fa-skip-58360-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 9998,
 											"end": 10000
 										}
 									]
