@@ -5867,7 +5867,7 @@
 				},
 				{
 					"key": "allocation-90261",
-					"startAt": "2026-02-09T23:03:35.818Z",
+					"startAt": "2026-02-18T18:18:47.923Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5879,7 +5879,8 @@
 										"DE",
 										"FR",
 										"IT",
-										"ES"
+										"ES",
+										"GB"
 									],
 									"operator": "ONE_OF",
 									"attribute": "country"
