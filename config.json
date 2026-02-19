@@ -9510,6 +9510,33 @@
 				}
 			]
 		},
+		"creator_promotions_unlock_schedule": {
+			"key": "creator_promotions_unlock_schedule",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\n    \"hours\": 24,\n    \"promos\": 3,\n    \"dates\": [\"2026-05-01T07:00:00Z\", \"2026-08-01T07:00:00Z\", \"2026-11-01T07:00:00Z\", \"2027-02-01T08:00:00Z\"]\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-90621",
+					"startAt": "2026-02-10T21:40:24.700Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"sub_only_live_tiers_allowlist": {
 			"key": "sub_only_live_tiers_allowlist",
 			"enabled": true,
