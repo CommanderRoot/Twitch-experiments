@@ -9509,6 +9509,37 @@
 					"doLog": false
 				}
 			]
+		},
+		"sub_only_live_tiers_allowlist": {
+			"key": "sub_only_live_tiers_allowlist",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\n  \"channels\": [\"ccm_test\",\"tw_pa_kauh\",\"specialbigpanda\",\"qa_partner2\",\"diedragondie\",\"starladder_cs_en\",\"nagzz21\",\"leyley\",\"farrell___\",\"reeveski\",\"impactwrestling\",\"seekaysee\",\"jacklifear\",\"doubletoasted\",\"cellbit\",\"qa_asd_partner\"]\n}"
+				},
+				"control-bf012": {
+					"key": "control-bf012",
+					"value": "{\n  \"channels\": [\n    \"ccm_test\",\n    \"tw_pa_kauh\",\n    \"specialbigpanda\",\n    \"qa_partner2\",\n    \"diedragondie\",\n    \"starladder_cs_en\",\n    \"leyley\",\n    \"farrell___\",\n    \"reeveski\",\n    \"impactwrestling\",\n    \"seekaysee\",\n    \"jacklifear\",\n    \"doubletoasted\",\n    \"cellbit\",\n    \"qa_asd_partner\",\n    \"nagzz\"\n  ]\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-92983",
+					"startAt": "2026-02-19T20:34:16.746Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control-bf012",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
 		}
 	}
 }
