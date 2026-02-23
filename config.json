@@ -5760,7 +5760,7 @@
 				},
 				{
 					"key": "allocation-90261",
-					"startAt": "2026-02-18T18:18:47.923Z",
+					"startAt": "2026-02-23T19:21:28.501Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5790,7 +5790,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9000
+											"end": 5000
 										}
 									]
 								}
@@ -5803,7 +5803,7 @@
 									"salt": "pause-ads-trigger-90261-split",
 									"ranges": [
 										{
-											"start": 9000,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -8595,6 +8595,53 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"Elevate-Prime-2026": {
+			"key": "Elevate-Prime-2026",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"Subscribe Button Copy": {
+					"key": "Subscribe Button Copy",
+					"value": "subscribe-button-copy"
+				},
+				"Support Panel Prime Elevation": {
+					"key": "Support Panel Prime Elevation",
+					"value": "support-panel-prime-elevation"
+				},
+				"Banner/Chat Callout": {
+					"key": "Banner/Chat Callout",
+					"value": "banner-callout"
+				},
+				"One-Click Prime Button": {
+					"key": "One-Click Prime Button",
+					"value": "oneclick-prime-button"
+				},
+				"DART Notification": {
+					"key": "DART Notification",
+					"value": "dart-notification"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-88870",
+					"startAt": "2026-02-04T01:37:30.948Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
