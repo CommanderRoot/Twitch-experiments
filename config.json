@@ -5760,27 +5760,8 @@
 				},
 				{
 					"key": "allocation-90261",
-					"startAt": "2026-02-23T19:21:28.501Z",
+					"startAt": "2026-02-24T21:26:59.348Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"US",
-										"UK",
-										"DE",
-										"FR",
-										"IT",
-										"ES",
-										"GB"
-									],
-									"operator": "ONE_OF",
-									"attribute": "country"
-								}
-							]
-						}
-					],
 					"splits": [
 						{
 							"variationKey": "control",
@@ -7264,7 +7245,7 @@
 			"allocations": [
 				{
 					"key": "allocation-64163",
-					"startAt": "2025-12-19T22:05:33.151Z",
+					"startAt": "2026-02-24T21:34:32.002Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7290,7 +7271,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "us-bazooka",
+							"variationKey": "amazon-basics-multi-asin",
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-64163-split",
