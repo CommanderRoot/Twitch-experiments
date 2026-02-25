@@ -5760,8 +5760,26 @@
 				},
 				{
 					"key": "allocation-90261",
-					"startAt": "2026-02-24T21:26:59.348Z",
+					"startAt": "2026-02-25T00:45:23.980Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US",
+										"GB",
+										"DE",
+										"FR",
+										"IT",
+										"ES"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
 					"splits": [
 						{
 							"variationKey": "control",
