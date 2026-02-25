@@ -8016,6 +8016,62 @@
 					"doLog": true
 				},
 				{
+					"key": "allocation-94513",
+					"startAt": "2026-02-25T20:02:34.156Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								},
+								{
+									"value": [
+										"campaign.3A59d4CpbSi0dsDBaRyvQquQknr"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-94513-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "b0fssz97z3",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-94513-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-47181",
 					"startAt": "2025-08-25T21:58:29.101Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -8992,7 +9048,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-02-25T19:55:53.667Z",
+					"startAt": "2026-02-25T20:06:03.655Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9008,7 +9064,8 @@
 										"1449092837",
 										"1449093399",
 										"824877176",
-										"1450238538"
+										"1450238538",
+										"1450245404"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
