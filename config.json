@@ -8402,21 +8402,12 @@
 			"allocations": [
 				{
 					"key": "allocation-93276",
-					"startAt": "2026-02-26T22:01:43.395Z",
+					"startAt": "2026-02-26T22:31:49.129Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "icy-surfboards-93276-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "icy-surfboards-93276-split",
 									"ranges": [
