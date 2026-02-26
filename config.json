@@ -5760,26 +5760,8 @@
 				},
 				{
 					"key": "allocation-90261",
-					"startAt": "2026-02-25T00:45:23.980Z",
+					"startAt": "2026-02-26T19:12:05.679Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"US",
-										"GB",
-										"DE",
-										"FR",
-										"IT",
-										"ES"
-									],
-									"operator": "ONE_OF",
-									"attribute": "country"
-								}
-							]
-						}
-					],
 					"splits": [
 						{
 							"variationKey": "control",
@@ -6860,73 +6842,6 @@
 				{
 					"key": "allocation-67343",
 					"startAt": "2025-11-12T20:45:09.686Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"twilight_bits_get_or_not": {
-			"key": "twilight_bits_get_or_not",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-89527",
-					"startAt": "2026-02-05T19:07:11.007Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "twilight_bits_get_or_not-89527-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "twilight_bits_get_or_not-89527-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-88019",
-					"startAt": "2026-02-01T02:48:33.569Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -9282,73 +9197,6 @@
 					"splits": [
 						{
 							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"twilight_bits_get_or_not_v2": {
-			"key": "twilight_bits_get_or_not_v2",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-91133",
-					"startAt": "2026-02-12T00:10:16.979Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "twilight_bits_get_or_not_v2-91133-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "twilight_bits_get_or_not_v2-91133-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-91127",
-					"startAt": "2026-02-12T00:07:10.294Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "treatment",
 							"shards": []
 						}
 					],
