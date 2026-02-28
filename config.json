@@ -5898,7 +5898,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -8352,37 +8352,6 @@
 				}
 			]
 		},
-		"disco_robot_hair": {
-			"key": "disco_robot_hair",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-88738",
-					"startAt": "2026-02-03T21:07:44.834Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"icy-surfboards": {
 			"key": "icy-surfboards",
 			"enabled": true,
@@ -9488,6 +9457,37 @@
 				{
 					"key": "allocation-94816",
 					"startAt": "2026-02-26T17:12:17.598Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"disco_robot_hair": {
+			"key": "disco_robot_hair",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-88738",
+					"startAt": "2026-02-03T21:07:44.834Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
