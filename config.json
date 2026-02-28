@@ -6906,73 +6906,6 @@
 				}
 			]
 		},
-		"twilight_bits_repeat_buyer_promo": {
-			"key": "twilight_bits_repeat_buyer_promo",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-88025",
-					"startAt": "2026-02-01T02:49:31.523Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "twilight_bits_repeat_buyer_promo-88025-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "twilight_bits_repeat_buyer_promo-88025-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-88022",
-					"startAt": "2026-02-01T02:49:29.977Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"gift_badge_progression_start": {
 			"key": "gift_badge_progression_start",
 			"enabled": true,
@@ -8588,6 +8521,10 @@
 				"banner-callout-one-click": {
 					"key": "banner-callout-one-click",
 					"value": "oneclick-banner-callout"
+				},
+				"ineligible": {
+					"key": "ineligible",
+					"value": "ineligible"
 				}
 			},
 			"totalShards": 10000,
