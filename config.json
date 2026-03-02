@@ -8458,61 +8458,6 @@
 				}
 			]
 		},
-		"Elevate-Prime-2026": {
-			"key": "Elevate-Prime-2026",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"Subscribe Button Copy": {
-					"key": "Subscribe Button Copy",
-					"value": "subscribe-button-copy"
-				},
-				"Support Panel Prime Elevation": {
-					"key": "Support Panel Prime Elevation",
-					"value": "support-panel-prime-elevation"
-				},
-				"Banner/Chat Callout": {
-					"key": "Banner/Chat Callout",
-					"value": "banner-callout"
-				},
-				"One-Click Prime Button": {
-					"key": "One-Click Prime Button",
-					"value": "oneclick-prime-button"
-				},
-				"DART Notification": {
-					"key": "DART Notification",
-					"value": "dart-notification"
-				},
-				"banner-callout-one-click": {
-					"key": "banner-callout-one-click",
-					"value": "oneclick-banner-callout"
-				},
-				"ineligible": {
-					"key": "ineligible",
-					"value": "ineligible"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-88870",
-					"startAt": "2026-02-04T01:37:30.948Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"delicious_snacks": {
 			"key": "delicious_snacks",
 			"enabled": true,
