@@ -1330,7 +1330,7 @@
 				},
 				{
 					"key": "allocation-46726",
-					"startAt": "2025-08-28T20:58:54.169Z",
+					"startAt": "2026-03-03T23:06:47.154Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1341,6 +1341,17 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "staff"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"1372911340"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
 								}
 							]
 						}
@@ -1671,6 +1682,10 @@
 				"control-w-turbo-cw-progression": {
 					"key": "control-w-turbo-cw-progression",
 					"value": "{\n  \"payments_banners\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"62428d9c-87f6-48f4-a22c-0ce3f256b7a9\",\n    \"9ca648f3-6cba-4ed7-9ebe-08fc40ad5362\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"735aa1de-8e67-441b-8558-fb114ed55cb3\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\"\n  ]\n}"
+				},
+				"control-w-cw-progression": {
+					"key": "control-w-cw-progression",
+					"value": "{\n  \"payments_banners\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"62428d9c-87f6-48f4-a22c-0ce3f256b7a9\",\n    \"9ca648f3-6cba-4ed7-9ebe-08fc40ad5362\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\"\n  ]\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -1682,7 +1697,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control-w-turbov3",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
