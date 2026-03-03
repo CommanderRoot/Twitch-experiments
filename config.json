@@ -9616,6 +9616,37 @@
 				}
 			]
 		},
+		"condensed-form-checkout": {
+			"key": "condensed-form-checkout",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-94616",
+					"startAt": "2026-02-25T23:36:53.969Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"social_auth_mweb_callback": {
 			"key": "social_auth_mweb_callback",
 			"enabled": true,
