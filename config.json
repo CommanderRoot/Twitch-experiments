@@ -1692,6 +1692,42 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-96346",
+					"startAt": "2026-03-04T02:17:41.128Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "live_payments_banners-96346-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control-w-cw-progression",
+							"shards": [
+								{
+									"salt": "live_payments_banners-96346-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-44049",
 					"startAt": "2025-08-06T23:30:06.261Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
