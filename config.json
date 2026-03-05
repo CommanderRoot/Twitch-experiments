@@ -5907,6 +5907,41 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-96855",
+					"startAt": "2026-03-05T04:46:35.460Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"214277256"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "pause-ads-trigger-96855-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-90261",
 					"startAt": "2026-02-26T19:12:05.679Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
