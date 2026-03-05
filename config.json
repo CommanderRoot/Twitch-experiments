@@ -8135,7 +8135,7 @@
 				},
 				{
 					"key": "allocation-94513",
-					"startAt": "2026-02-25T20:02:34.156Z",
+					"startAt": "2026-03-05T20:45:29.020Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8149,7 +8149,8 @@
 								},
 								{
 									"value": [
-										"campaign.3A59d4CpbSi0dsDBaRyvQquQknr"
+										"campaign.3A59d4CpbSi0dsDBaRyvQquQknr",
+										"campaign.3AXNvIoBQCcpULL9giqmu9b9LWg"
 									],
 									"operator": "ONE_OF",
 									"attribute": "campaign_id"
@@ -9250,7 +9251,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-03-05T20:04:07.079Z",
+					"startAt": "2026-03-05T21:06:04.846Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9287,7 +9288,8 @@
 										"555021990",
 										"1454407535",
 										"731996864",
-										"1311085245"
+										"1311085245",
+										"1454449401"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
