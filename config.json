@@ -6224,6 +6224,58 @@
 			"entityId": 144,
 			"allocations": [
 				{
+					"key": "allocation-97090",
+					"startAt": "2026-03-05T19:53:42.034Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"7cefc8101022a548",
+										"QxFLSxvyEjtNBHCaqTHq7h33GqPo71pB"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"96406412",
+										"414821568",
+										"953430106",
+										"910483002",
+										"910733463",
+										"445306531"
+									],
+									"operator": "ONE_OF",
+									"attribute": "userID"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "variant",
+							"shards": [
+								{
+									"salt": "cdml-ung-ossmd-97090-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-70979",
 					"startAt": "2025-11-24T23:16:53.073Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -9198,7 +9250,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-03-05T18:25:55.262Z",
+					"startAt": "2026-03-05T19:54:29.250Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9233,7 +9285,8 @@
 										"135530901",
 										"1337915542",
 										"555021990",
-										"1454407535"
+										"1454407535",
+										"731996864"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
