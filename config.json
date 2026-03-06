@@ -6276,6 +6276,204 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-97506",
+					"startAt": "2026-03-09T18:00:00.000Z",
+					"endAt": "2026-03-09T20:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "cdml-ung-ossmd-97506-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "cdml-ung-ossmd-97506-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant",
+							"shards": [
+								{
+									"salt": "cdml-ung-ossmd-97506-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "cdml-ung-ossmd-97506-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-97506",
+					"startAt": "2026-03-09T20:00:00.000Z",
+					"endAt": "2026-03-09T21:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "cdml-ung-ossmd-97506-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 4000
+										}
+									]
+								},
+								{
+									"salt": "cdml-ung-ossmd-97506-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant",
+							"shards": [
+								{
+									"salt": "cdml-ung-ossmd-97506-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 4000
+										}
+									]
+								},
+								{
+									"salt": "cdml-ung-ossmd-97506-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-97506",
+					"startAt": "2026-03-09T21:00:00.000Z",
+					"endAt": "2026-03-09T22:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "cdml-ung-ossmd-97506-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 8000
+										}
+									]
+								},
+								{
+									"salt": "cdml-ung-ossmd-97506-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant",
+							"shards": [
+								{
+									"salt": "cdml-ung-ossmd-97506-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 8000
+										}
+									]
+								},
+								{
+									"salt": "cdml-ung-ossmd-97506-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-97506",
+					"startAt": "2026-03-09T22:00:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "cdml-ung-ossmd-97506-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant",
+							"shards": [
+								{
+									"salt": "cdml-ung-ossmd-97506-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-70979",
 					"startAt": "2025-11-24T23:16:53.073Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
