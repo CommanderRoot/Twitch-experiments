@@ -7243,45 +7243,6 @@
 				}
 			]
 		},
-		"expiring_gift_promotion_dates": {
-			"key": "expiring_gift_promotion_dates",
-			"enabled": true,
-			"variationType": "JSON",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "{\n    \"ios_banner_url\":\"\",\n    \"start_at\": \"\",\n    \"end_at\": \"\",\n    \"promotion_name\": \"\",\n    \"discount_percent\": 35,\n    \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				},
-				"thanksgiving-2025": {
-					"key": "thanksgiving-2025",
-					"value": "{\n    \"ios_banner_url\":\"commerce/subtember-banner/gifts\",\n    \"start_at\": \"2025-11-26T18:00:00Z\",\n    \"end_at\": \"2025-12-01T18:00:00Z\",\n    \"promotion_name\": \"Nov2025Promotion\",\n    \"discount_percent\": 35,\n    \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				},
-				"swap-in-place-testing": {
-					"key": "swap-in-place-testing",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2025-11-11T18:00:00Z\",\n  \"end_at\": \"2027-12-09T18:00:00Z\",\n  \"promotion_name\": \"TestPromotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				},
-				"decenber-2025": {
-					"key": "decenber-2025",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2025-12-23T18:00:00Z\",\n  \"end_at\": \"2026-01-02T18:00:00Z\",\n  \"promotion_name\": \"Dec2025Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-67997",
-					"startAt": "2025-11-14T19:18:44.271Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "decenber-2025",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"sponsored_shopping_release": {
 			"key": "sponsored_shopping_release",
 			"enabled": true,
@@ -10031,6 +9992,49 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"expiring_gift_promotion_dates": {
+			"key": "expiring_gift_promotion_dates",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\n    \"ios_banner_url\":\"\",\n    \"start_at\": \"\",\n    \"end_at\": \"\",\n    \"promotion_name\": \"\",\n    \"discount_percent\": 35,\n    \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"thanksgiving-2025": {
+					"key": "thanksgiving-2025",
+					"value": "{\n    \"ios_banner_url\":\"commerce/subtember-banner/gifts\",\n    \"start_at\": \"2025-11-26T18:00:00Z\",\n    \"end_at\": \"2025-12-01T18:00:00Z\",\n    \"promotion_name\": \"Nov2025Promotion\",\n    \"discount_percent\": 35,\n    \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"swap-in-place-testing": {
+					"key": "swap-in-place-testing",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2025-11-11T18:00:00Z\",\n  \"end_at\": \"2027-12-09T18:00:00Z\",\n  \"promotion_name\": \"TestPromotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"decenber-2025": {
+					"key": "decenber-2025",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2025-12-23T18:00:00Z\",\n  \"end_at\": \"2026-01-02T18:00:00Z\",\n  \"promotion_name\": \"Dec2025Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"march-2026-beta-testing": {
+					"key": "march-2026-beta-testing",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-03-05T18:00:00Z\",\n  \"end_at\": \"2026-03-30T04:00:00Z\",\n  \"promotion_name\": \"March2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-67997",
+					"startAt": "2025-11-14T19:18:44.271Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "decenber-2025",
 							"shards": []
 						}
 					],
