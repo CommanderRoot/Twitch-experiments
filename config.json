@@ -10088,6 +10088,70 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-97908",
+					"startAt": "2026-03-09T21:10:07.737Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "gift_badge_progression_v2-97908-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment1",
+							"shards": [
+								{
+									"salt": "gift_badge_progression_v2-97908-split",
+									"ranges": [
+										{
+											"start": 2500,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment2",
+							"shards": [
+								{
+									"salt": "gift_badge_progression_v2-97908-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 7500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment3",
+							"shards": [
+								{
+									"salt": "gift_badge_progression_v2-97908-split",
+									"ranges": [
+										{
+											"start": 7500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-96286",
 					"startAt": "2026-03-03T22:29:54.345Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
