@@ -6873,60 +6873,6 @@
 				},
 				{
 					"key": "allocation-97506",
-					"startAt": "2026-03-09T20:00:00.000Z",
-					"endAt": "2026-03-09T21:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "cdml-ung-ossmd-97506-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 4000
-										}
-									]
-								},
-								{
-									"salt": "cdml-ung-ossmd-97506-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant",
-							"shards": [
-								{
-									"salt": "cdml-ung-ossmd-97506-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 4000
-										}
-									]
-								},
-								{
-									"salt": "cdml-ung-ossmd-97506-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-97506",
 					"startAt": "2026-03-09T21:00:00.000Z",
 					"endAt": "2026-03-09T22:00:00.000Z",
 					"splits": [
@@ -7413,31 +7359,9 @@
 				},
 				{
 					"key": "allocation-57656",
-					"startAt": "2026-01-14T17:23:39.775Z",
+					"startAt": "2026-03-09T20:47:20.048Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"635105656"
-									],
-									"operator": "ONE_OF",
-									"attribute": "channelID"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"786035040"
-									],
-									"operator": "ONE_OF",
-									"attribute": "channelID"
-								}
-							]
-						},
 						{
 							"conditions": [
 								{
@@ -7467,60 +7391,6 @@
 						}
 					],
 					"doLog": false
-				},
-				{
-					"key": "allocation-57657",
-					"startAt": "2025-10-03T21:33:21.950Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "omsdk_ad_measurement-57657-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "omsdk_ad_measurement-57657-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "omsdk_ad_measurement-57657-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "omsdk_ad_measurement-57657-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
 				},
 				{
 					"key": "allocation-53181",
@@ -10185,6 +10055,45 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"gift_badge_progression_v2": {
+			"key": "gift_badge_progression_v2",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment1": {
+					"key": "treatment1",
+					"value": "treatment1"
+				},
+				"treatment2": {
+					"key": "treatment2",
+					"value": "treatment2"
+				},
+				"treatment3": {
+					"key": "treatment3",
+					"value": "treatment3"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-96286",
+					"startAt": "2026-03-03T22:29:54.345Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
