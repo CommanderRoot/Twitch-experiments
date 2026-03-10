@@ -4735,77 +4735,6 @@
 				}
 			]
 		},
-		"ivs-web-broadcast-distribution": {
-			"key": "ivs-web-broadcast-distribution",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"base": {
-					"key": "base",
-					"value": "base"
-				},
-				"variant-a": {
-					"key": "variant-a",
-					"value": "variant-a"
-				},
-				"variant-b": {
-					"key": "variant-b",
-					"value": "variant-b"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-48233",
-					"startAt": "2026-03-03T18:06:36.413Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "variant-a",
-							"shards": [
-								{
-									"salt": "ivs-web-broadcast-distribution-48233-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9999
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant-b",
-							"shards": [
-								{
-									"salt": "ivs-web-broadcast-distribution-48233-split",
-									"ranges": [
-										{
-											"start": 9999,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-47731",
-					"startAt": "2025-08-27T19:05:45.085Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "base",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"icvow_post_play_recs": {
 			"key": "icvow_post_play_recs",
 			"enabled": true,
@@ -10069,6 +9998,77 @@
 					"splits": [
 						{
 							"variationKey": "treatment",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"ivs-web-broadcast-distribution": {
+			"key": "ivs-web-broadcast-distribution",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"base": {
+					"key": "base",
+					"value": "base"
+				},
+				"variant-a": {
+					"key": "variant-a",
+					"value": "variant-a"
+				},
+				"variant-b": {
+					"key": "variant-b",
+					"value": "variant-b"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-48233",
+					"startAt": "2026-03-10T18:23:26.706Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "variant-a",
+							"shards": [
+								{
+									"salt": "ivs-web-broadcast-distribution-48233-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant-b",
+							"shards": [
+								{
+									"salt": "ivs-web-broadcast-distribution-48233-split",
+									"ranges": [
+										{
+											"start": 9500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-47731",
+					"startAt": "2025-08-27T19:05:45.085Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "base",
 							"shards": []
 						}
 					],
