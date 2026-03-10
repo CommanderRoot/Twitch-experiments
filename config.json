@@ -1926,37 +1926,6 @@
 				}
 			]
 		},
-		"candlelight-theater-m1-no-skyline": {
-			"key": "candlelight-theater-m1-no-skyline",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-70794",
-					"startAt": "2025-11-24T17:22:49.634Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"holiday-hoopla-2025-collab-treatments": {
 			"key": "holiday-hoopla-2025-collab-treatments",
 			"enabled": true,
