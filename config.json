@@ -4837,103 +4837,6 @@
 				}
 			]
 		},
-		"new-olv-banners": {
-			"key": "new-olv-banners",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-96757",
-					"startAt": "2026-03-04T21:44:29.896Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"true"
-									],
-									"operator": "ONE_OF",
-									"attribute": "staff"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "new-olv-banners-96757-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-96748",
-					"startAt": "2026-03-04T22:38:25.820Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "new-olv-banners-96748-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								},
-								{
-									"salt": "new-olv-banners-96748-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-87016",
-					"startAt": "2026-01-27T21:55:20.718Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"chat-reliability-connection-heartbeat-interval": {
 			"key": "chat-reliability-connection-heartbeat-interval",
 			"enabled": true,
@@ -9682,7 +9585,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-03-10T19:42:44.359Z",
+					"startAt": "2026-03-10T20:55:23.215Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9736,7 +9639,8 @@
 										"1380052562",
 										"1388836594",
 										"1457209307",
-										"1457238729"
+										"1457238729",
+										"1457296172"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -10043,6 +9947,103 @@
 					"splits": [
 						{
 							"variationKey": "base",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"new-olv-banners": {
+			"key": "new-olv-banners",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-96757",
+					"startAt": "2026-03-04T21:44:29.896Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "new-olv-banners-96757-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-96748",
+					"startAt": "2026-03-10T20:47:34.637Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "new-olv-banners-96748-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								},
+								{
+									"salt": "new-olv-banners-96748-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-87016",
+					"startAt": "2026-01-27T21:55:20.718Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
