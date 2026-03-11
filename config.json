@@ -10136,6 +10136,37 @@
 				}
 			]
 		},
+		"pine-shadow-atlas": {
+			"key": "pine-shadow-atlas",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-98369",
+					"startAt": "2026-03-10T23:29:58.220Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"Subtember-Gift-Matching-banner": {
 			"key": "Subtember-Gift-Matching-banner",
 			"enabled": true,
