@@ -9636,6 +9636,41 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-99272",
+					"startAt": "2026-03-13T17:54:44.850Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1"
+									],
+									"operator": "ONE_OF",
+									"attribute": "v3_rollout"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "invite-v3-tag-99272-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-89136",
 					"startAt": "2026-02-04T20:30:10.314Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
