@@ -10012,21 +10012,12 @@
 				},
 				{
 					"key": "allocation-96748",
-					"startAt": "2026-03-11T20:38:56.043Z",
+					"startAt": "2026-03-13T20:19:19.461Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "new-olv-banners-96748-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "new-olv-banners-96748-split",
 									"ranges": [
