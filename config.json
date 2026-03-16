@@ -8534,7 +8534,7 @@
 			"allocations": [
 				{
 					"key": "allocation-95673",
-					"startAt": "2026-03-03T18:05:54.704Z",
+					"startAt": "2026-03-16T16:37:53.610Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8558,21 +8558,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "Subscribe Button Copy",
-							"shards": [
-								{
-									"salt": "Elevate-Prime-2026-95673-split",
-									"ranges": [
-										{
-											"start": 2000,
-											"end": 4000
+											"end": 2500
 										}
 									]
 								}
@@ -8585,8 +8571,8 @@
 									"salt": "Elevate-Prime-2026-95673-split",
 									"ranges": [
 										{
-											"start": 4000,
-											"end": 6000
+											"start": 2500,
+											"end": 5000
 										}
 									]
 								}
@@ -8599,8 +8585,8 @@
 									"salt": "Elevate-Prime-2026-95673-split",
 									"ranges": [
 										{
-											"start": 6000,
-											"end": 8000
+											"start": 5000,
+											"end": 7500
 										}
 									]
 								}
@@ -8613,7 +8599,7 @@
 									"salt": "Elevate-Prime-2026-95673-split",
 									"ranges": [
 										{
-											"start": 8000,
+											"start": 7500,
 											"end": 10000
 										}
 									]
@@ -9789,7 +9775,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-03-11T17:22:36.783Z",
+					"startAt": "2026-03-16T15:45:36.552Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -9800,7 +9786,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 0
 										}
 									]
 								}
@@ -9813,7 +9799,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
