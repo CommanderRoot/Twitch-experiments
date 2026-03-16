@@ -9314,7 +9314,7 @@
 			"allocations": [
 				{
 					"key": "allocation-98694",
-					"startAt": "2026-03-16T19:53:09.559Z",
+					"startAt": "2026-03-16T20:29:14.523Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9328,7 +9328,18 @@
 										"1385081352",
 										"1385384395",
 										"1386685013",
-										"80140262"
+										"80140262",
+										"1370017524",
+										"1352652588",
+										"1379604783",
+										"1383774314",
+										"1383777754",
+										"597493823",
+										"481808304",
+										"139228206",
+										"1343613135",
+										"94206976",
+										"823168817"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -9392,6 +9403,91 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"buy-and-cheer-bits": {
+			"key": "buy-and-cheer-bits",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"bits-bundle-button": {
+					"key": "bits-bundle-button",
+					"value": "bits-bundle-button"
+				},
+				"cheer-instantly": {
+					"key": "cheer-instantly",
+					"value": "cheer-instantly"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-97051",
+					"startAt": "2026-03-05T18:19:54.484Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "buy-and-cheer-bits-97051-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "bits-bundle-button",
+							"shards": [
+								{
+									"salt": "buy-and-cheer-bits-97051-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "cheer-instantly",
+							"shards": [
+								{
+									"salt": "buy-and-cheer-bits-97051-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-97048",
+					"startAt": "2026-03-05T18:19:51.581Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
