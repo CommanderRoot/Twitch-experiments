@@ -9251,6 +9251,70 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-100259",
+					"startAt": "2026-03-17T21:54:02.090Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "condensed-form-checkout-100259-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "condensed-regional",
+							"shards": [
+								{
+									"salt": "condensed-form-checkout-100259-split",
+									"ranges": [
+										{
+											"start": 2500,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "regional",
+							"shards": [
+								{
+									"salt": "condensed-form-checkout-100259-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 7500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "condensed",
+							"shards": [
+								{
+									"salt": "condensed-form-checkout-100259-split",
+									"ranges": [
+										{
+											"start": 7500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-94616",
 					"startAt": "2026-02-25T23:36:53.969Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -9516,14 +9580,13 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-03-17T21:28:33.650Z",
+					"startAt": "2026-03-17T22:09:17.897Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1438067518",
 										"1396680507",
 										"1354806072",
 										"716240994",
@@ -9572,7 +9635,8 @@
 										"1457704260",
 										"1457621313",
 										"1457782959",
-										"1461983107"
+										"1461983107",
+										"1461999655"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
