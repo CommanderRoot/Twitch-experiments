@@ -9885,7 +9885,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-03-16T15:45:36.552Z",
+					"startAt": "2026-03-17T14:22:50.021Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -9896,7 +9896,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								}
@@ -9909,7 +9909,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 500,
 											"end": 10000
 										}
 									]
