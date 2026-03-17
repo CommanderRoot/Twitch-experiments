@@ -9314,7 +9314,7 @@
 			"allocations": [
 				{
 					"key": "allocation-99896",
-					"startAt": "2026-03-16T21:56:14.711Z",
+					"startAt": "2026-03-17T18:05:38.221Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9434,15 +9434,15 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-97051",
-					"startAt": "2026-03-05T18:19:54.484Z",
+					"key": "allocation-100129",
+					"startAt": "2026-03-17T18:02:53.485Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "buy-and-cheer-bits-97051-split",
+									"salt": "buy-and-cheer-bits-100129-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -9456,7 +9456,7 @@
 							"variationKey": "bits-bundle-button",
 							"shards": [
 								{
-									"salt": "buy-and-cheer-bits-97051-split",
+									"salt": "buy-and-cheer-bits-100129-split",
 									"ranges": [
 										{
 											"start": 3333,
@@ -9470,7 +9470,7 @@
 							"variationKey": "cheer-instantly",
 							"shards": [
 								{
-									"salt": "buy-and-cheer-bits-97051-split",
+									"salt": "buy-and-cheer-bits-100129-split",
 									"ranges": [
 										{
 											"start": 6666,
@@ -9516,7 +9516,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-03-16T21:27:41.849Z",
+					"startAt": "2026-03-17T17:54:51.181Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9584,7 +9584,8 @@
 								{
 									"value": [
 										"1461419377",
-										"1461435318"
+										"1461435318",
+										"1457951343"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
