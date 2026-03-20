@@ -2257,6 +2257,10 @@
 				"march-2026-beta-testing": {
 					"key": "march-2026-beta-testing",
 					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-03-05T18:00:00Z\",\n  \"end_at\": \"2026-03-30T04:00:00Z\",\n  \"promotion_name\": \"March2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"march-2026": {
+					"key": "march-2026",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-03-26T18:00:00Z\",\n  \"end_at\": \"2026-03-30T04:00:00Z\",\n  \"promotion_name\": \"March2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -2268,7 +2272,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "decenber-2025",
+							"variationKey": "march-2026",
 							"shards": []
 						}
 					],
