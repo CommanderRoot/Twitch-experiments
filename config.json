@@ -10071,8 +10071,8 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-101253",
-					"startAt": "2026-03-19T20:26:47.589Z",
+					"key": "allocation-101537",
+					"startAt": "2026-03-20T20:10:21.387Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10089,7 +10089,16 @@
 										"927646671",
 										"133552225",
 										"573205812",
-										"117591990"
+										"117591990",
+										"1457849637",
+										"92803194",
+										"109058996",
+										"1457854892",
+										"160231719",
+										"1457929979",
+										"1371540404",
+										"1463682318",
+										"231466740"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -10113,7 +10122,7 @@
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "gamelift_page_release-101253-split",
+									"salt": "gamelift_page_release-101537-split",
 									"ranges": [
 										{
 											"start": 0,
