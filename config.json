@@ -1945,6 +1945,37 @@
 				}
 			]
 		},
+		"ios-orientation-portal": {
+			"key": "ios-orientation-portal",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-100493",
+					"startAt": "2026-03-18T15:35:58.036Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"disco_night_blooming_cereus": {
 			"key": "disco_night_blooming_cereus",
 			"enabled": true,
