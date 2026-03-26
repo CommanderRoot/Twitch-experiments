@@ -748,6 +748,37 @@
 				}
 			]
 		},
+		"Viewer-Card-Turbo": {
+			"key": "Viewer-Card-Turbo",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-101876",
+					"startAt": "2026-03-23T18:47:39.410Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"twilight_p_4": {
 			"key": "twilight_p_4",
 			"enabled": true,
@@ -9708,7 +9739,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-03-25T23:51:18.786Z",
+					"startAt": "2026-03-26T17:28:34.952Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9808,7 +9839,8 @@
 										"1466867952",
 										"1466869304",
 										"1466894320",
-										"1467003576"
+										"1467003576",
+										"1467461138"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
