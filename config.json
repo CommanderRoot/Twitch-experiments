@@ -766,6 +766,42 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-103112",
+					"startAt": "2026-03-26T22:54:51.075Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Viewer-Card-Turbo-103112-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "Viewer-Card-Turbo-103112-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-101876",
 					"startAt": "2026-03-23T18:47:39.410Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -9743,7 +9779,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-03-26T17:28:34.952Z",
+					"startAt": "2026-03-26T23:07:06.495Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9844,7 +9880,8 @@
 										"1466869304",
 										"1466894320",
 										"1467003576",
-										"1467461138"
+										"1467461138",
+										"1467590012"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
