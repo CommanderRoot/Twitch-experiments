@@ -1188,44 +1188,6 @@
 				}
 			]
 		},
-		"reichsta_test2": {
-			"key": "reichsta_test2",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"c": {
-					"key": "c",
-					"value": "c"
-				},
-				"c2": {
-					"key": "c2",
-					"value": "c2"
-				},
-				"t": {
-					"key": "t",
-					"value": "t"
-				},
-				"11_20_25": {
-					"key": "11_20_25",
-					"value": "11_20_25"
-				}
-			},
-			"totalShards": 10000,
-			"allocations": [
-				{
-					"key": "allocation-14953",
-					"startAt": "2025-01-09T19:56:02.663Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "11_20_25",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"seal-sheep-bear": {
 			"key": "seal-sheep-bear",
 			"enabled": true,
