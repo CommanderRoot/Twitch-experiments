@@ -7203,6 +7203,77 @@
 				}
 			]
 		},
+		"next-up": {
+			"key": "next-up",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"variant1": {
+					"key": "variant1",
+					"value": "variant1"
+				},
+				"variant2": {
+					"key": "variant2",
+					"value": "variant2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-88644",
+					"startAt": "2026-02-10T15:54:24.846Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "variant1",
+							"shards": [
+								{
+									"salt": "next-up-88644-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant2",
+							"shards": [
+								{
+									"salt": "next-up-88644-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-88641",
+					"startAt": "2026-02-03T18:09:54.045Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"trusted_payer_program_de": {
 			"key": "trusted_payer_program_de",
 			"enabled": true,
