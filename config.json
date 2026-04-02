@@ -2145,7 +2145,7 @@
 			"allocations": [
 				{
 					"key": "allocation-105161",
-					"startAt": "2026-04-02T21:28:59.365Z",
+					"startAt": "2026-04-02T21:52:42.678Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2165,15 +2165,6 @@
 							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "Elevate-Prime-2026-105161-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
 									"salt": "Elevate-Prime-2026-105161-split",
 									"ranges": [
 										{
@@ -2188,15 +2179,6 @@
 							"variationKey": "One-Click Prime Button",
 							"shards": [
 								{
-									"salt": "Elevate-Prime-2026-105161-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
 									"salt": "Elevate-Prime-2026-105161-split",
 									"ranges": [
 										{
@@ -2210,15 +2192,6 @@
 						{
 							"variationKey": "banner-callout-one-click",
 							"shards": [
-								{
-									"salt": "Elevate-Prime-2026-105161-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "Elevate-Prime-2026-105161-split",
 									"ranges": [
@@ -2235,7 +2208,7 @@
 				},
 				{
 					"key": "allocation-105162",
-					"startAt": "2026-04-02T21:29:06.302Z",
+					"startAt": "2026-04-02T21:52:31.271Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2255,15 +2228,6 @@
 							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "Elevate-Prime-2026-105162-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
 									"salt": "Elevate-Prime-2026-105162-split",
 									"ranges": [
 										{
@@ -2278,15 +2242,6 @@
 							"variationKey": "One-Click Prime Button",
 							"shards": [
 								{
-									"salt": "Elevate-Prime-2026-105162-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
 									"salt": "Elevate-Prime-2026-105162-split",
 									"ranges": [
 										{
@@ -2300,15 +2255,6 @@
 						{
 							"variationKey": "banner-callout-one-click",
 							"shards": [
-								{
-									"salt": "Elevate-Prime-2026-105162-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "Elevate-Prime-2026-105162-split",
 									"ranges": [
