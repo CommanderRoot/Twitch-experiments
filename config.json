@@ -2106,6 +2106,237 @@
 				}
 			]
 		},
+		"Elevate-Prime-2026": {
+			"key": "Elevate-Prime-2026",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"Subscribe Button Copy": {
+					"key": "Subscribe Button Copy",
+					"value": "subscribe-button-copy"
+				},
+				"Support Panel Prime Elevation": {
+					"key": "Support Panel Prime Elevation",
+					"value": "support-panel-prime-elevation"
+				},
+				"Banner/Chat Callout": {
+					"key": "Banner/Chat Callout",
+					"value": "banner-callout"
+				},
+				"One-Click Prime Button": {
+					"key": "One-Click Prime Button",
+					"value": "oneclick-prime-button"
+				},
+				"DART Notification": {
+					"key": "DART Notification",
+					"value": "dart-notification"
+				},
+				"banner-callout-one-click": {
+					"key": "banner-callout-one-click",
+					"value": "oneclick-banner-callout"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-105161",
+					"startAt": "2026-04-02T21:28:59.365Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "Elevate-Prime-2026-105161-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "Elevate-Prime-2026-105161-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "One-Click Prime Button",
+							"shards": [
+								{
+									"salt": "Elevate-Prime-2026-105161-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "Elevate-Prime-2026-105161-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "banner-callout-one-click",
+							"shards": [
+								{
+									"salt": "Elevate-Prime-2026-105161-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "Elevate-Prime-2026-105161-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-105162",
+					"startAt": "2026-04-02T21:29:06.302Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"DE"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "Elevate-Prime-2026-105162-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "Elevate-Prime-2026-105162-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "One-Click Prime Button",
+							"shards": [
+								{
+									"salt": "Elevate-Prime-2026-105162-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "Elevate-Prime-2026-105162-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "banner-callout-one-click",
+							"shards": [
+								{
+									"salt": "Elevate-Prime-2026-105162-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "Elevate-Prime-2026-105162-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-88870",
+					"startAt": "2026-02-04T01:37:30.948Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"disco_night_blooming_cereus": {
 			"key": "disco_night_blooming_cereus",
 			"enabled": true,
@@ -8891,57 +9122,6 @@
 					"splits": [
 						{
 							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"Elevate-Prime-2026": {
-			"key": "Elevate-Prime-2026",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"Subscribe Button Copy": {
-					"key": "Subscribe Button Copy",
-					"value": "subscribe-button-copy"
-				},
-				"Support Panel Prime Elevation": {
-					"key": "Support Panel Prime Elevation",
-					"value": "support-panel-prime-elevation"
-				},
-				"Banner/Chat Callout": {
-					"key": "Banner/Chat Callout",
-					"value": "banner-callout"
-				},
-				"One-Click Prime Button": {
-					"key": "One-Click Prime Button",
-					"value": "oneclick-prime-button"
-				},
-				"DART Notification": {
-					"key": "DART Notification",
-					"value": "dart-notification"
-				},
-				"banner-callout-one-click": {
-					"key": "banner-callout-one-click",
-					"value": "oneclick-banner-callout"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-88870",
-					"startAt": "2026-02-04T01:37:30.948Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
 							"shards": []
 						}
 					],
