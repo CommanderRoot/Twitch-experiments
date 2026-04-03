@@ -7858,7 +7858,7 @@
 				},
 				"elf-04-2026": {
 					"key": "elf-04-2026",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0G1GZS1RV\",\n    \"B0DHRQXYCH\",\n    \"B0C7W6GW8P\",\n    \"B0D442G15L\"\n  ],\n  \"tracking_id\": {\n    \"72291714\": \"chelseabytes\"\n  }\n}"
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0G1GZS1RV\",\n    \"B0DHRQXYCH\",\n    \"B0C7W6GW8P\",\n    \"B0D442G15L\"\n  ],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -9980,60 +9980,6 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
-				{
-					"key": "allocation-105023",
-					"startAt": "2026-04-02T16:54:06.863Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "enable-google-pay-web-105023-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "enable-google-pay-web-105023-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "enable-google-pay-web-105023-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "enable-google-pay-web-105023-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
 				{
 					"key": "allocation-96658",
 					"startAt": "2026-03-04T18:50:06.729Z",
