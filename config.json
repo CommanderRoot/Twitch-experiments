@@ -7855,6 +7855,10 @@
 				"b0fssz97z3": {
 					"key": "b0fssz97z3",
 					"value": "{\"asin\": \"B0FSSZ97Z3\", \"asins\": [], \"tracking_id\": {}}"
+				},
+				"elf-04-2026": {
+					"key": "elf-04-2026",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0G1GZS1RV\",\n    \"B0DHRQXYCH\",\n    \"B0C7W6GW8P\",\n    \"B0D442G15L\"\n  ],\n  \"tracking_id\": {\n    \"72291714\": \"chelseabytes\"\n  }\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -8655,6 +8659,68 @@
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-94513-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-105365",
+					"startAt": "2026-04-03T17:42:21.044Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3BloKuxfZm0V04cu2qt5oh6aRnG",
+										"campaign.3BRezTqtaFU9hsFivXfBsCl4KwK",
+										"campaign.3BSH1sXTTzy5Atc4csSGn2KOaHe",
+										"campaign.3BSIYsoghrtEsRCsYMoV0M14IAF",
+										"campaign.3BPjQ7Cz2QCSZghshYHNXyr82TD",
+										"campaign.3BlET6pnrK4BSKkUqC7ZHoXyBmN"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-105365-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-04-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-105365-split",
 									"ranges": [
 										{
 											"start": 1000,
