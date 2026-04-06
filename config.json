@@ -1225,6 +1225,132 @@
 				}
 			]
 		},
+		"one-click-checkout-expansion": {
+			"key": "one-click-checkout-expansion",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-105366",
+					"startAt": "2026-04-03T17:52:42.834Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US",
+										"DE",
+										"FR",
+										"GB",
+										"IT",
+										"NL",
+										"NO",
+										"ES",
+										"CA",
+										"AU",
+										"JP",
+										"NZ",
+										"HK",
+										"CH",
+										"DK",
+										"AT",
+										"SE",
+										"PL",
+										"BE",
+										"FI",
+										"PR",
+										"CZ",
+										"PT",
+										"IE",
+										"HU"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "one-click-checkout-expansion-105366-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-101959",
+					"startAt": "2026-03-23T21:24:26.815Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "one-click-checkout-expansion-101959-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "one-click-checkout-expansion-101959-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-101956",
+					"startAt": "2026-03-23T21:24:22.569Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"jumanji-branding": {
 			"key": "jumanji-branding",
 			"enabled": true,
