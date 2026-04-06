@@ -9520,7 +9520,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-04-01T18:58:08.488Z",
+					"startAt": "2026-04-06T12:30:10.691Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9537,6 +9537,20 @@
 					],
 					"splits": [
 						{
+							"variationKey": "base",
+							"shards": [
+								{
+									"salt": "ivs-player-core-distribution-45890-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
 							"variationKey": "variant-a",
 							"shards": [
 								{
@@ -9544,7 +9558,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 0
 										}
 									]
 								}
@@ -9557,7 +9571,21 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
+											"end": 9999
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant-m",
+							"shards": [
+								{
+									"salt": "ivs-player-core-distribution-45890-split",
+									"ranges": [
+										{
+											"start": 9999,
 											"end": 10000
 										}
 									]
