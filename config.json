@@ -698,6 +698,37 @@
 				}
 			]
 		},
+		"social_auth_restricted_origins_v2": {
+			"key": "social_auth_restricted_origins_v2",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\"origins\": [\"https://m.twitch.tv\",\"https://www.twitch.tv\",\"https://dashboard.twitch.tv\", \"https://experiments-uxr-obssocialauth-zsivgju5.release.twitch.tv\", \"https://www-pr48952.twitch.tech\", \"https://experiments-darkrosecountrygold.release.twitch.tv\", \"https://uxr-noredirect-callback-837d5266.release.twitch.tv\"]}\n\n\n\n"
+				},
+				"variant": {
+					"key": "variant",
+					"value": "{\n  \"origins\": [\n    \"https://m.twitch.tv\",\n    \"https://www.twitch.tv\",\n    \"https://dashboard.twitch.tv\"\n  ]\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-80546",
+					"startAt": "2025-12-20T03:42:59.386Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"do-md-ael": {
 			"key": "do-md-ael",
 			"enabled": true,
@@ -6142,37 +6173,6 @@
 					"splits": [
 						{
 							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"social_auth_restricted_origins_v2": {
-			"key": "social_auth_restricted_origins_v2",
-			"enabled": true,
-			"variationType": "JSON",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "{\n  \"origins\": [\"https://m.twitch.tv\",\"https://www.twitch.tv\",\"https://dashboard.twitch.tv\", \"https://experiments-uxr-obssocialauth-zsivgju5.release.twitch.tv\", \"https://www-pr48952.twitch.tech\", \"https://experiments-darkrosecountrygold.release.twitch.tv\"]\n}"
-				},
-				"variant": {
-					"key": "variant",
-					"value": "{\n  \"origins\": [\n    \"https://m.twitch.tv\",\n    \"https://www.twitch.tv\",\n    \"https://dashboard.twitch.tv\"\n  ]\n}"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-80546",
-					"startAt": "2025-12-20T03:42:59.386Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
 							"shards": []
 						}
 					],
