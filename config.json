@@ -890,6 +890,10 @@
 				"control-w-cw-progression": {
 					"key": "control-w-cw-progression",
 					"value": "{\n  \"payments_banners\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"62428d9c-87f6-48f4-a22c-0ce3f256b7a9\",\n    \"9ca648f3-6cba-4ed7-9ebe-08fc40ad5362\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\"\n  ]\n}"
+				},
+				"control-w-eur-payouts-devstaging": {
+					"key": "control-w-eur-payouts-devstaging",
+					"value": "{\n  \"payments_banners\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"62428d9c-87f6-48f4-a22c-0ce3f256b7a9\",\n    \"9ca648f3-6cba-4ed7-9ebe-08fc40ad5362\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"0337671a-eb27-4d4c-8966-1c3c83634d7c\",\n    \"f29150a6-3d1e-4df4-9012-bc471d6ee57e\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\"\n  ]\n}"
 				}
 			},
 			"totalShards": 10000,
