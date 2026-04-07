@@ -1289,21 +1289,12 @@
 				},
 				{
 					"key": "allocation-101959",
-					"startAt": "2026-04-06T23:58:20.760Z",
+					"startAt": "2026-04-07T21:15:57.759Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "one-click-checkout-expansion-101959-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "one-click-checkout-expansion-101959-split",
 									"ranges": [
@@ -1318,15 +1309,6 @@
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "one-click-checkout-expansion-101959-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "one-click-checkout-expansion-101959-split",
 									"ranges": [
