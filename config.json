@@ -901,6 +901,45 @@
 				}
 			]
 		},
+		"ios_candlelight_com_t2_t3_subs": {
+			"key": "ios_candlelight_com_t2_t3_subs",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"newUI": {
+					"key": "newUI",
+					"value": "newUI"
+				},
+				"newUIPlusT2T3Subs": {
+					"key": "newUIPlusT2T3Subs",
+					"value": "newUIPlusT2T3Subs"
+				},
+				"addT2T3Subs": {
+					"key": "addT2T3Subs",
+					"value": "addT2T3Subs"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-106256",
+					"startAt": "2026-04-07T23:42:05.152Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"live_payments_banners": {
 			"key": "live_payments_banners",
 			"enabled": true,
@@ -2827,21 +2866,12 @@
 			"allocations": [
 				{
 					"key": "allocation-106554-holdout-gondor-notification-holdout-q1-2026",
-					"startAt": "2026-04-08T21:18:02.754Z",
+					"startAt": "2026-04-08T21:37:25.765Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "smart_notification_experiment_3_2026-106554-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								},
 								{
 									"salt": "smart_notification_experiment_3_2026-106554-split",
 									"ranges": [
@@ -2865,15 +2895,6 @@
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "smart_notification_experiment_3_2026-106554-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								},
 								{
 									"salt": "smart_notification_experiment_3_2026-106554-split",
 									"ranges": [
@@ -2899,21 +2920,12 @@
 				},
 				{
 					"key": "allocation-106554",
-					"startAt": "2026-04-08T21:18:02.754Z",
+					"startAt": "2026-04-08T21:37:25.765Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "smart_notification_experiment_3_2026-106554-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								},
 								{
 									"salt": "smart_notification_experiment_3_2026-106554-split",
 									"ranges": [
@@ -2928,15 +2940,6 @@
 						{
 							"variationKey": "VariantA",
 							"shards": [
-								{
-									"salt": "smart_notification_experiment_3_2026-106554-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								},
 								{
 									"salt": "smart_notification_experiment_3_2026-106554-split",
 									"ranges": [
@@ -10621,7 +10624,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-04-06T16:25:55.114Z",
+					"startAt": "2026-04-08T21:29:16.292Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10746,7 +10749,8 @@
 										"1472151577",
 										"1472149863",
 										"1472177231",
-										"1475850440"
+										"1475850440",
+										"1477665684"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
