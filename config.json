@@ -2808,6 +2808,198 @@
 				}
 			]
 		},
+		"smart_notification_experiment_3_2026": {
+			"key": "smart_notification_experiment_3_2026",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"VariantA": {
+					"key": "VariantA",
+					"value": "VariantA"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-106554-holdout-gondor-notification-holdout-q1-2026",
+					"startAt": "2026-04-08T21:18:02.754Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "smart_notification_experiment_3_2026-106554-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								},
+								{
+									"salt": "smart_notification_experiment_3_2026-106554-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								},
+								{
+									"salt": "gondor-notification-holdout-q1-2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "smart_notification_experiment_3_2026-106554-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								},
+								{
+									"salt": "smart_notification_experiment_3_2026-106554-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								},
+								{
+									"salt": "gondor-notification-holdout-q1-2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-106554",
+					"startAt": "2026-04-08T21:18:02.754Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "smart_notification_experiment_3_2026-106554-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								},
+								{
+									"salt": "smart_notification_experiment_3_2026-106554-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "VariantA",
+							"shards": [
+								{
+									"salt": "smart_notification_experiment_3_2026-106554-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								},
+								{
+									"salt": "smart_notification_experiment_3_2026-106554-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-103392",
+					"startAt": "2026-03-27T18:58:28.378Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"516627682"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "VariantA",
+							"shards": [
+								{
+									"salt": "smart_notification_experiment_3_2026-103392-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-100563",
+					"startAt": "2026-03-18T18:05:44.524Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"sub_only_live_tiers_allowlist": {
 			"key": "sub_only_live_tiers_allowlist",
 			"enabled": true,
