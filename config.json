@@ -974,48 +974,12 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-96346",
-					"startAt": "2026-03-04T02:17:41.128Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "live_payments_banners-96346-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "control-w-cw-progression",
-							"shards": [
-								{
-									"salt": "live_payments_banners-96346-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-44049",
 					"startAt": "2025-08-06T23:30:06.261Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "control-w-cw-progression",
 							"shards": []
 						}
 					],
@@ -10091,7 +10055,7 @@
 				},
 				{
 					"key": "allocation-45891",
-					"startAt": "2026-03-12T21:14:22.910Z",
+					"startAt": "2026-04-09T20:55:18.942Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10129,7 +10093,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 9999
 										}
 									]
 								}
@@ -10142,7 +10106,7 @@
 									"salt": "ivs-player-core-distribution-45891-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 9999,
 											"end": 9999
 										}
 									]
@@ -10918,8 +10882,8 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-101955",
-					"startAt": "2026-03-23T21:16:00.079Z",
+					"key": "allocation-107071",
+					"startAt": "2026-04-09T21:22:14.731Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10936,41 +10900,13 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "confirm-default-payment-101955-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "confirm-default-payment-101955-split",
+									"salt": "confirm-default-payment-107071-split",
 									"ranges": [
 										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "skip-sub-modal",
-							"shards": [
-								{
-									"salt": "confirm-default-payment-101955-split",
-									"ranges": [
-										{
-											"start": 6666,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -10978,7 +10914,7 @@
 							]
 						}
 					],
-					"doLog": true
+					"doLog": false
 				},
 				{
 					"key": "allocation-97863",
