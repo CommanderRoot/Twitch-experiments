@@ -9196,6 +9196,62 @@
 					"doLog": true
 				},
 				{
+					"key": "allocation-107117",
+					"startAt": "2026-04-09T23:04:37.821Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3BoQCxY3h7H0HnulM6R6HWEpaj9"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-107117-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "garnier-04-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-107117-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-47181",
 					"startAt": "2025-08-25T21:58:29.101Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
