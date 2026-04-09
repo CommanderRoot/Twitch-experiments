@@ -2210,6 +2210,37 @@
 				}
 			]
 		},
+		"twilight_bits_one_click_checkout_top_nav": {
+			"key": "twilight_bits_one_click_checkout_top_nav",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-84509",
+					"startAt": "2026-01-16T20:17:38.325Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"left-nav-hype-train-freshness-rollout": {
 			"key": "left-nav-hype-train-freshness-rollout",
 			"enabled": true,
@@ -7135,37 +7166,6 @@
 					"splits": [
 						{
 							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"twilight_bits_one_click_checkout_top_nav": {
-			"key": "twilight_bits_one_click_checkout_top_nav",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-84509",
-					"startAt": "2026-01-16T20:17:38.325Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "treatment",
 							"shards": []
 						}
 					],
