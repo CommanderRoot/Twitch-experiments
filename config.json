@@ -489,18 +489,27 @@
 			"allocations": [
 				{
 					"key": "allocation-105799",
-					"startAt": "2026-04-06T21:16:21.273Z",
+					"startAt": "2026-04-10T18:26:56.524Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
 								{
+									"salt": "single-step-checkout-105799-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
 									"salt": "single-step-checkout-105799-split",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 9900
 										}
 									]
 								}
@@ -510,10 +519,19 @@
 							"variationKey": "treatment",
 							"shards": [
 								{
+									"salt": "single-step-checkout-105799-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
 									"salt": "single-step-checkout-105799-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 9900,
 											"end": 10000
 										}
 									]
@@ -11300,7 +11318,7 @@
 			"allocations": [
 				{
 					"key": "allocation-101537",
-					"startAt": "2026-04-10T17:10:57.648Z",
+					"startAt": "2026-04-10T18:33:38.722Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11337,7 +11355,8 @@
 										"461758565",
 										"175515336",
 										"174999020",
-										"49085819"
+										"49085819",
+										"1316472399"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
