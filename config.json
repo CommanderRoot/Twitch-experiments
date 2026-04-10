@@ -7898,77 +7898,6 @@
 				}
 			]
 		},
-		"next-up": {
-			"key": "next-up",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"variant1": {
-					"key": "variant1",
-					"value": "variant1"
-				},
-				"variant2": {
-					"key": "variant2",
-					"value": "variant2"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-88644",
-					"startAt": "2026-02-10T15:54:24.846Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "variant1",
-							"shards": [
-								{
-									"salt": "next-up-88644-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant2",
-							"shards": [
-								{
-									"salt": "next-up-88644-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-88641",
-					"startAt": "2026-02-03T18:09:54.045Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"trusted_payer_program_de": {
 			"key": "trusted_payer_program_de",
 			"enabled": true,
@@ -8320,7 +8249,7 @@
 				},
 				"garnier-04-2026": {
 					"key": "garnier-04-2026",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0GHBS1VY3\",\n    \"B0GGTJVX11\",\n    \"B07S1BV1R3\",\n    \"B09M1BT18X\",\n    \"B0CQ33K4LM\",\n    \"B0BQP54JLZ\",\n    \"B0BQNZTQLK\",\n    \"B0GFXSV4PF\",\n    \"B0GFXYCXH1\"\n  ],\n  \"tracking_id\": {}\n}"
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0GHBS1VY3\",\n    \"B0GGTJVX11\",\n    \"B07S1BV1R3\",\n    \"B09M1BT18X\",\n    \"B0CQ33K4LM\",\n    \"B0BQP54JLZ\",\n    \"B0BQNZTQLK\",\n    \"B0GFXSV4PF\",\n    \"B0GFXYCXH1\"\n  ],\n  \"tracking_id\": {\n      \"61770627\": \"bobajenny_\"\n  }\n}"
 				}
 			},
 			"totalShards": 10000,
