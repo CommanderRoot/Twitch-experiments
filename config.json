@@ -288,6 +288,37 @@
 				}
 			]
 		},
+		"twilight_bits_repeat_buyer_promo": {
+			"key": "twilight_bits_repeat_buyer_promo",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-88022",
+					"startAt": "2026-02-01T02:49:29.977Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"disco_very_tall_lamp": {
 			"key": "disco_very_tall_lamp",
 			"enabled": true,
@@ -8047,73 +8078,6 @@
 				{
 					"key": "allocation-67716",
 					"startAt": "2025-11-13T20:43:50.331Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"twilight_bits_repeat_buyer_promo": {
-			"key": "twilight_bits_repeat_buyer_promo",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-95638",
-					"startAt": "2026-03-02T17:12:44.662Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "twilight_bits_repeat_buyer_promo-95638-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "twilight_bits_repeat_buyer_promo-95638-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-88022",
-					"startAt": "2026-02-01T02:49:29.977Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
