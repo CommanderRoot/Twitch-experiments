@@ -245,6 +245,94 @@
 				}
 			]
 		},
+		"connections-via-gql": {
+			"key": "connections-via-gql",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-108483",
+					"startAt": "2026-04-14T22:55:09.399Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"135762134"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"5alluyJWaQ62rOLOM80rNBOGBNbxYfGi"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"135762134"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "connections-via-gql-108483-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-107701",
+					"startAt": "2026-04-13T15:41:17.279Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"two-column-checkout": {
 			"key": "two-column-checkout",
 			"enabled": true,
@@ -11184,7 +11272,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-04-06T14:53:51.435Z",
+					"startAt": "2026-04-14T22:43:26.330Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -11195,7 +11283,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								}
@@ -11208,7 +11296,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 500,
 											"end": 10000
 										}
 									]
