@@ -797,7 +797,7 @@
 			"allocations": [
 				{
 					"key": "allocation-36681",
-					"startAt": "2025-12-10T21:34:33.975Z",
+					"startAt": "2026-04-14T21:40:29.640Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1413,6 +1413,59 @@
 				{
 					"key": "allocation-101956",
 					"startAt": "2026-03-23T21:24:22.569Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"rev-estimator": {
+			"key": "rev-estimator",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-108533",
+					"startAt": "2026-04-14T22:28:45.071Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "rev-estimator-108533-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-108529",
+					"startAt": "2026-04-14T21:44:54.342Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
