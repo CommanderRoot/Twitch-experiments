@@ -2766,6 +2766,41 @@
 				}
 			]
 		},
+		"candlelight-landscape-ingress": {
+			"key": "candlelight-landscape-ingress",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"android": {
+					"key": "android",
+					"value": "android"
+				},
+				"both": {
+					"key": "both",
+					"value": "both"
+				},
+				"control": {
+					"key": "control",
+					"value": "control"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-102795",
+					"startAt": "2026-03-26T00:15:33.415Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "android",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"initial-buffer-duration-ttv": {
 			"key": "initial-buffer-duration-ttv",
 			"enabled": true,
