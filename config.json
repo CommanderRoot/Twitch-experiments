@@ -2294,6 +2294,37 @@
 				}
 			]
 		},
+		"apple-pay-reauth-checkout": {
+			"key": "apple-pay-reauth-checkout",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-109005",
+					"startAt": "2026-04-15T23:31:54.496Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"apple-clementine": {
 			"key": "apple-clementine",
 			"enabled": true,
@@ -10797,7 +10828,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-04-08T21:29:16.292Z",
+					"startAt": "2026-04-15T23:43:10.100Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10923,7 +10954,8 @@
 										"1472149863",
 										"1472177231",
 										"1475850440",
-										"1477665684"
+										"1477665684",
+										"1482799571"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
