@@ -2594,6 +2594,225 @@
 				}
 			]
 		},
+		"gamelift_page_release": {
+			"key": "gamelift_page_release",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-94142",
+					"startAt": "2026-02-24T21:51:31.151Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "NOT_ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-94142-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-101537",
+					"startAt": "2026-04-16T17:12:48.947Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"714650202",
+										"47449781",
+										"825113452",
+										"1016611616",
+										"1364518509",
+										"38027213",
+										"1064816520",
+										"927646671",
+										"133552225",
+										"573205812",
+										"117591990",
+										"1457849637",
+										"92803194",
+										"109058996",
+										"1457854892",
+										"160231719",
+										"1457929979",
+										"1371540404",
+										"1463682318",
+										"231466740",
+										"137228545",
+										"176070299",
+										"103811294",
+										"412379486",
+										"103522124",
+										"21622759",
+										"412613184",
+										"461758565",
+										"175515336",
+										"174999020",
+										"49085819",
+										"1316472399",
+										"1482006360",
+										"232857387",
+										"1478260908",
+										"119316908",
+										"1461263554",
+										"1461260999",
+										"1461240520",
+										"1483073600"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-101537-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-98358",
+					"startAt": "2026-03-10T22:44:51.789Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-98358-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "gamelift_page_release-98358-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-92621",
+					"startAt": "2026-02-18T18:41:39.666Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-92621-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-92621-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-92618",
+					"startAt": "2026-02-18T18:41:38.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"holiday-hoopla-2025-collab-treatments": {
 			"key": "holiday-hoopla-2025-collab-treatments",
 			"enabled": true,
@@ -10187,7 +10406,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-04-06T12:30:10.691Z",
+					"startAt": "2026-04-16T17:23:17.194Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10204,20 +10423,6 @@
 					],
 					"splits": [
 						{
-							"variationKey": "base",
-							"shards": [
-								{
-									"salt": "ivs-player-core-distribution-45890-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
 							"variationKey": "variant-a",
 							"shards": [
 								{
@@ -10225,7 +10430,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								}
@@ -10238,21 +10443,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 0,
-											"end": 9999
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant-m",
-							"shards": [
-								{
-									"salt": "ivs-player-core-distribution-45890-split",
-									"ranges": [
-										{
-											"start": 9999,
+											"start": 500,
 											"end": 10000
 										}
 									]
@@ -10264,7 +10455,7 @@
 				},
 				{
 					"key": "allocation-45891",
-					"startAt": "2026-04-09T20:55:18.942Z",
+					"startAt": "2026-04-16T17:23:36.440Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10302,7 +10493,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9999
+											"end": 0
 										}
 									]
 								}
@@ -10315,7 +10506,7 @@
 									"salt": "ivs-player-core-distribution-45891-split",
 									"ranges": [
 										{
-											"start": 9999,
+											"start": 0,
 											"end": 9999
 										}
 									]
@@ -11496,224 +11687,6 @@
 					"splits": [
 						{
 							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"gamelift_page_release": {
-			"key": "gamelift_page_release",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-101537",
-					"startAt": "2026-04-16T16:52:44.329Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"714650202",
-										"47449781",
-										"825113452",
-										"1016611616",
-										"1364518509",
-										"38027213",
-										"1064816520",
-										"927646671",
-										"133552225",
-										"573205812",
-										"117591990",
-										"1457849637",
-										"92803194",
-										"109058996",
-										"1457854892",
-										"160231719",
-										"1457929979",
-										"1371540404",
-										"1463682318",
-										"231466740",
-										"137228545",
-										"176070299",
-										"103811294",
-										"412379486",
-										"103522124",
-										"21622759",
-										"412613184",
-										"461758565",
-										"175515336",
-										"174999020",
-										"49085819",
-										"1316472399",
-										"1482006360",
-										"232857387",
-										"1478260908",
-										"119316908",
-										"1461263554",
-										"1461260999",
-										"1461240520"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"true"
-									],
-									"operator": "ONE_OF",
-									"attribute": "staff"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-101537-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-94142",
-					"startAt": "2026-02-24T21:51:31.151Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"US",
-										"CA"
-									],
-									"operator": "NOT_ONE_OF",
-									"attribute": "country"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-94142-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-98358",
-					"startAt": "2026-03-10T22:44:51.789Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-98358-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "gamelift_page_release-98358-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-92621",
-					"startAt": "2026-02-18T18:41:39.666Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-92621-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-92621-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-92618",
-					"startAt": "2026-02-18T18:41:38.000Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
 							"shards": []
 						}
 					],
