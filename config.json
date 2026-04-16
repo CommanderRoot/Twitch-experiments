@@ -111,37 +111,6 @@
 				}
 			]
 		},
-		"mweb-prime": {
-			"key": "mweb-prime",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-103163",
-					"startAt": "2026-03-27T05:44:00.318Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"enable-google-pay-web": {
 			"key": "enable-google-pay-web",
 			"enabled": true,
@@ -10406,7 +10375,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-04-16T18:39:39.760Z",
+					"startAt": "2026-04-16T21:35:19.744Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10430,7 +10399,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2500
+											"end": 5000
 										}
 									]
 								}
@@ -10443,7 +10412,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 2500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -11019,7 +10988,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-04-16T16:40:58.429Z",
+					"startAt": "2026-04-16T21:26:07.585Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11064,7 +11033,7 @@
 										"1472436631",
 										"862792790",
 										"1472494756",
-										"1483055079"
+										"1483156102"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
