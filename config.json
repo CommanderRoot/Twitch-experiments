@@ -2263,37 +2263,6 @@
 				}
 			]
 		},
-		"apple-pay-reauth-checkout": {
-			"key": "apple-pay-reauth-checkout",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-109005",
-					"startAt": "2026-04-15T23:31:54.496Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"apple-clementine": {
 			"key": "apple-clementine",
 			"enabled": true,
@@ -3493,6 +3462,118 @@
 				{
 					"key": "allocation-100563",
 					"startAt": "2026-03-18T18:05:44.524Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"apple-pay-reauth-checkout-string": {
+			"key": "apple-pay-reauth-checkout-string",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"SelectScreen": {
+					"key": "SelectScreen",
+					"value": "SelectScreen"
+				},
+				"OnlyApplePay": {
+					"key": "OnlyApplePay",
+					"value": "OnlyApplePay"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-109384",
+					"startAt": "2026-04-16T23:26:35.319Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "apple-pay-reauth-checkout-string-109384-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "apple-pay-reauth-checkout-string-109384-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "SelectScreen",
+							"shards": [
+								{
+									"salt": "apple-pay-reauth-checkout-string-109384-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "apple-pay-reauth-checkout-string-109384-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "OnlyApplePay",
+							"shards": [
+								{
+									"salt": "apple-pay-reauth-checkout-string-109384-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "apple-pay-reauth-checkout-string-109384-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-109381",
+					"startAt": "2026-04-16T23:26:12.350Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
