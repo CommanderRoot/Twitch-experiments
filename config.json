@@ -111,6 +111,37 @@
 				}
 			]
 		},
+		"mweb-prime-entity": {
+			"key": "mweb-prime-entity",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-109702",
+					"startAt": "2026-04-17T20:31:25.751Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"enable-google-pay-web": {
 			"key": "enable-google-pay-web",
 			"enabled": true,
@@ -11073,14 +11104,13 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-04-16T21:26:07.585Z",
+					"startAt": "2026-04-17T20:24:43.348Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1463107357",
 										"1463450155",
 										"1463551975",
 										"1465608446",
@@ -11118,7 +11148,8 @@
 										"1472436631",
 										"862792790",
 										"1472494756",
-										"1483156102"
+										"1483156102",
+										"1483835553"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
