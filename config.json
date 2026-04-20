@@ -1070,6 +1070,37 @@
 				}
 			]
 		},
+		"bits-cheer-visibilty": {
+			"key": "bits-cheer-visibilty",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-110040",
+					"startAt": "2026-04-20T17:58:11.754Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"Viewer-Card-Turbo": {
 			"key": "Viewer-Card-Turbo",
 			"enabled": true,
@@ -11247,7 +11278,7 @@
 				},
 				{
 					"key": "allocation-99272",
-					"startAt": "2026-03-21T04:21:28.761Z",
+					"startAt": "2026-04-20T18:11:13.976Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11271,7 +11302,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 2000
 										}
 									]
 								},
@@ -11291,7 +11322,7 @@
 				},
 				{
 					"key": "allocation-89136",
-					"startAt": "2026-03-30T20:27:43.044Z",
+					"startAt": "2026-04-20T18:11:24.589Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -11302,7 +11333,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 500
+											"end": 1000
 										}
 									]
 								},
