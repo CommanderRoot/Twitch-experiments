@@ -984,45 +984,6 @@
 				}
 			]
 		},
-		"ios_candlelight_com_t2_t3_subs": {
-			"key": "ios_candlelight_com_t2_t3_subs",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"newUI": {
-					"key": "newUI",
-					"value": "newUI"
-				},
-				"newUIPlusT2T3Subs": {
-					"key": "newUIPlusT2T3Subs",
-					"value": "newUIPlusT2T3Subs"
-				},
-				"addT2T3Subs": {
-					"key": "addT2T3Subs",
-					"value": "addT2T3Subs"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-106256",
-					"startAt": "2026-04-07T23:42:05.152Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"live_payments_banners": {
 			"key": "live_payments_banners",
 			"enabled": true,
@@ -1168,6 +1129,37 @@
 				}
 			]
 		},
+		"ios_candlelight_com_t2_t3_subs": {
+			"key": "ios_candlelight_com_t2_t3_subs",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-110132",
+					"startAt": "2026-04-20T19:57:29.791Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"twilight_p_4": {
 			"key": "twilight_p_4",
 			"enabled": true,
@@ -1268,6 +1260,72 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"premium-events": {
+			"key": "premium-events",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-110147",
+					"startAt": "2026-04-20T20:11:20.528Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"687317764"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "premium-events-110147-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-110144",
+					"startAt": "2026-04-20T20:07:35.672Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -1749,6 +1807,37 @@
 				{
 					"key": "allocation-34867",
 					"startAt": "2025-06-12T21:57:25.854Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"checkout-refactor": {
+			"key": "checkout-refactor",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-106683",
+					"startAt": "2026-04-08T22:22:11.395Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
