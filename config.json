@@ -3508,6 +3508,37 @@
 				}
 			]
 		},
+		"pine-shadow-atlas-compose": {
+			"key": "pine-shadow-atlas-compose",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-110707",
+					"startAt": "2026-04-21T22:28:14.461Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"apple-clementine": {
 			"key": "apple-clementine",
 			"enabled": true,
