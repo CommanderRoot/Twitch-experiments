@@ -2804,22 +2804,48 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-98358",
-					"startAt": "2026-03-10T22:44:51.789Z",
+					"key": "allocation-110270",
+					"startAt": "2026-04-17T16:45:52.813Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"reanimal"
+									],
+									"operator": "NOT_ONE_OF",
+									"attribute": "game_title"
+								}
+							]
+						}
+					],
 					"splits": [
 						{
-							"variationKey": "treatment",
+							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "gamelift_page_release-98358-traffic",
+									"salt": "gamelift_page_release-110270-split",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 10000
 										}
 									]
-								},
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-98358",
+					"startAt": "2026-04-21T04:33:05.360Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
 								{
 									"salt": "gamelift_page_release-98358-split",
 									"ranges": [
