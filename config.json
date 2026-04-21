@@ -572,7 +572,7 @@
 			"allocations": [
 				{
 					"key": "allocation-105799",
-					"startAt": "2026-04-17T22:24:20.251Z",
+					"startAt": "2026-04-21T17:07:28.262Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -583,7 +583,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 9000
 										}
 									]
 								}
@@ -596,7 +596,7 @@
 									"salt": "single-step-checkout-105799-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 9000,
 											"end": 10000
 										}
 									]
@@ -9850,6 +9850,66 @@
 					"doLog": true
 				},
 				{
+					"key": "allocation-110510",
+					"startAt": "2026-04-21T17:31:41.217Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3C5RQEaRkh6l1mlRultcAAKTwfC",
+										"campaign.3C5CpgHubfoz47dfVmC4BSja7NU",
+										"campaign.3C5TD4Zqxr4k2Fk184a5PKsulia",
+										"campaign.3CBaTgbktak9oOh59p4WRoOAg6m",
+										"campaign.3CBLkiHreEUPiPatAjOoJV6A4Pu"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-110510-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-04-17-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-110510-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-47181",
 					"startAt": "2025-08-25T21:58:29.101Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -11249,7 +11309,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-04-20T07:17:28.269Z",
+					"startAt": "2026-04-21T17:06:38.281Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11339,7 +11399,6 @@
 										"1456369718",
 										"1456371149",
 										"1456621877",
-										"1456622499",
 										"1456677968",
 										"1457009262",
 										"1457199244",
