@@ -2684,7 +2684,7 @@
 			"allocations": [
 				{
 					"key": "allocation-94142",
-					"startAt": "2026-02-24T21:51:31.151Z",
+					"startAt": "2026-04-21T15:43:13.633Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2702,7 +2702,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "gamelift_page_release-94142-split",
@@ -2840,11 +2840,11 @@
 				},
 				{
 					"key": "allocation-98358",
-					"startAt": "2026-04-21T04:33:05.360Z",
+					"startAt": "2026-04-21T15:44:12.178Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "gamelift_page_release-98358-split",
@@ -2902,7 +2902,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": []
 						}
 					],
