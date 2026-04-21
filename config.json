@@ -2111,6 +2111,1118 @@
 				}
 			]
 		},
+		"sponsored_shopping_release": {
+			"key": "sponsored_shopping_release",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\n  \"asin\": \"\",\n  \"tracking_id\": {},\n  \"asins\": []\n}"
+				},
+				"b0cl8w1hzq": {
+					"key": "b0cl8w1hzq",
+					"value": "{\n  \"asin\": \"B0CL8W1HZQ\",\n  \"tracking_id\": \"\"\n}"
+				},
+				"b00wt26ux8": {
+					"key": "b00wt26ux8",
+					"value": "{\n    \"asin\": \"B00WT26UX8\",\n    \"tracking_id\": {},\n    \"asins\": []\n}"
+				},
+				"b082tpdtm2": {
+					"key": "b082tpdtm2",
+					"value": "{\n  \"asin\": \"B082TPDTM2\",\n  \"tracking_id\": {\n      \"274625\":\"swiftor\",\n      \"72291714\":\"chelseabytes\"\n  },\n  \"asins\": []\n}"
+				},
+				"b086pkmz21": {
+					"key": "b086pkmz21",
+					"value": "{\n  \"asin\": \"B086PKMZ21\",\n  \"tracking_id\": {},\n  \"asins\": []\n}"
+				},
+				"b0f2wxqz9w": {
+					"key": "b0f2wxqz9w",
+					"value": "{\n  \"asin\": \"B0F2WXQZ9W\",\n  \"tracking_id\": {}\n}"
+				},
+				"multi-asin-test": {
+					"key": "multi-asin-test",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0CCTHVRZY\", \"B0BTXZJYB7\", \"B0BTX3QR46\", \"B0BTX19RSY\", \"B09HH93G5N\", \"B0CCTN6HDN\", \"B0CCTHVS1D\", \"B0CCTKQ2MB\"],\n  \"tracking_id\": {}\n}"
+				},
+				"amazon-basics-multi-asin": {
+					"key": "amazon-basics-multi-asin",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0CCTHVRZY\", \"B0BTXZJYB7\", \"B09HHBQKW5\", \"B0BTX3QR46\", \"B0BTX19RSY\", \"B09HH93G5N\", \"B0CCTN6HDN\", \"B0CCTHVS1D\", \"B0CCTKQ2MB\"],\n  \"tracking_id\": {}\n}"
+				},
+				"amazon-basics-single-asin": {
+					"key": "amazon-basics-single-asin",
+					"value": "{\n  \"asin\": \"B0CCTHVRZY\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
+				},
+				"elf-multi-asin": {
+					"key": "elf-multi-asin",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0DZPCPN3Q\",\n    \"B0FMXNJGM9\",\n    \"B0FPM7GPLH\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"elf-multi-asin-ca": {
+					"key": "elf-multi-asin-ca",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0DZPCPN3Q\", \"B0CMYMCJ4C\"],\n  \"tracking_id\": {}\n}"
+				},
+				"fazedemo": {
+					"key": "fazedemo",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0CLZ26Y7Y\",\n    \"B0CLYZRZSS\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"nyx": {
+					"key": "nyx",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0BL94TDYQ\",\n    \"B08M58SWB1\",\n    \"B0DK7TXTGY\",\n    \"B079YSXCD8\",\n    \"B00B4YY1GU\",\n    \"B09F749ZPR\",\n    \"B00BKH9HRE\",\n    \"B0CRSWM6SD\",\n    \"B0B5MG6PHQ\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"dove-mencare": {
+					"key": "dove-mencare",
+					"value": "{\n  \"asin\": \"B0CT9XT8TS\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
+				},
+				"ca-dove-mencare": {
+					"key": "ca-dove-mencare",
+					"value": "{\n  \"asin\": \"B0DLJ68268\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
+				},
+				"us-bissell": {
+					"key": "us-bissell",
+					"value": "{\n  \"asin\": \"B0DJMP6T3N\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
+				},
+				"loreal": {
+					"key": "loreal",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B07GVCVYB9\",\n    \"B002JDUMFO\",\n    \"B084W319N1\",\n    \"B0DKG9CMH8\",\n    \"B07QC43BXB\",\n    \"B074PTZCNW\",\n    \"B0B64GY9MC\",\n    \"B08D7J83PZ\",\n    \"B0DZPFGHPW\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"us-revlon": {
+					"key": "us-revlon",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0FSNXPVXG\",\n    \"B0FSPGSL9K\",\n    \"B0FSQ649Z3\",\n    \"B0FSP123PL\",\n    \"B0FSPNRX2D\",\n    \"B0FSNXFZG3\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"us-razer": {
+					"key": "us-razer",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0CXGTGPZQ\",\n    \"B0DW18XKPV\",\n    \"B0DW1JBR3P\",\n    \"B0CXGMPLWK\",\n    \"B0DB6QT8K6\",\n    \"B0CXGL6G6N\",\n    \"B0CXH48G17\",\n    \"B0CCX2DMXV\",\n    \"B0FP47DNFQ\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"revlon": {
+					"key": "revlon",
+					"value": "{\n    \"asin\": \"\",\n    \"asins\": [\n        \"B0FSNXPVXG\",\n        \"B0FSPGSL9K\",\n        \"B0FSQ649Z3\",\n        \"B0FSP123PL\",\n        \"B0FSPNRX2D\",\n        \"B0FSNXFZG3\"\n    ],\n    \"tracking_id\": {}\n}"
+				},
+				"meta-quest": {
+					"key": "meta-quest",
+					"value": "{\n  \"asin\": \"B0CD1JTBSC\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
+				},
+				"us-bazooka": {
+					"key": "us-bazooka",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0FCXYDB6C\",\n    \"B0FBFSLYTH\",\n    \"B0FBFSLYTJ\",\n    \"B08SPCSW6V\",\n    \"B08QW9PTM8\",\n    \"B0FCY1MVNJ\",\n    \"B0FBFQR3Q3\",\n    \"B0FBF71VY4\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"b0fssz97z3": {
+					"key": "b0fssz97z3",
+					"value": "{\"asin\": \"B0FSSZ97Z3\", \"asins\": [], \"tracking_id\": {}}"
+				},
+				"elf-04-2026": {
+					"key": "elf-04-2026",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0G1GZS1RV\",\n    \"B0DHRQXYCH\",\n    \"B0C7W6GW8P\",\n    \"B0D442G15L\"\n  ],\n  \"tracking_id\": {\n    \"1076022569\": \".ventress\",\n    \"176505811\": \"wadelady\",\n    \"449451531\": \"cooperscharms\"\n  }\n}"
+				},
+				"garnier-04-2026": {
+					"key": "garnier-04-2026",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0GHBS1VY3\",\n    \"B0GGTJVX11\",\n    \"B07S1BV1R3\",\n    \"B09M1BT18X\",\n    \"B0CQ33K4LM\",\n    \"B0BQP54JLZ\",\n    \"B0BQNZTQLK\",\n    \"B0GFXSV4PF\",\n    \"B0GFXYCXH1\"\n  ],\n  \"tracking_id\": {\n      \"61770627\": \"bobajenny_\"\n  }\n}"
+				},
+				"elf-04-17-26": {
+					"key": "elf-04-17-26",
+					"value": "{\n    \"asin\": \"\",\n    \"asins\": [\"B0G1GZS1RV\",\"B0DHRQXYCH\",\"B0C7W6GW8P\",\"B0D442G15L\"],\n    \"tracking_id\": {}\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-64163",
+					"startAt": "2026-02-24T21:34:32.002Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.35IvEBvz9Im01aZYU7BlXrHJhh4",
+										"campaign.35Udb4ulryaqzXfwfhWzPVEkDoH",
+										"campaign.36f8anz68gQ0nQ2NeC50XCyNCns"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "amazon-basics-multi-asin",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-64163-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-64397",
+					"startAt": "2025-12-10T17:36:05.304Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.34WJwmHn3KEmetrOOvoFZOXopJi",
+										"campaign.35Udb4ulryaqzXfwfhWzPVEkDoH",
+										"campaign.36f8anz68gQ0nQ2NeC50XCyNCns"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "amazon-basics-multi-asin",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-64397-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-64519",
+					"startAt": "2025-10-31T15:46:39.953Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.32cGPH0NNmh7EU5apSG1k0YT5CL"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-64519-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-multi-asin",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-64519-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-64520",
+					"startAt": "2025-10-31T15:47:58.471Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.32cGPH0NNmh7EU5apSG1k0YT5CL"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-64520-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-multi-asin-ca",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-64520-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-68111",
+					"startAt": "2025-11-15T01:44:25.300Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.35AiCbp1S2ZWQaG6tyPO8gOtKa5"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-68111-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "dove-mencare",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-68111-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-68112",
+					"startAt": "2025-11-15T01:44:37.028Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.35RTwn6cxMnTUL0y9dooUH6j5fd"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-68112-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "dove-mencare",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-68112-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-68895",
+					"startAt": "2025-11-17T21:05:30.937Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.35LdHln1d14PC7n2Zw8DFwNylKF"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-68895-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "us-bissell",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-68895-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-68904",
+					"startAt": "2025-11-26T23:13:39.314Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.34WhRVsKoTbRvR2t9UYDs4v6t2N"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "us-razer",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-68904-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-70777",
+					"startAt": "2025-11-24T17:07:11.922Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.35vv5a0jSiyjQi1w8h9Vc0y4OPC"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-70777-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "dove-mencare",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-70777-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-71423",
+					"startAt": "2025-11-25T22:53:05.139Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.35mJLhP0BJWUgMtPlUOFFLfcECs"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-71423-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "us-revlon",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-71423-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-71775",
+					"startAt": "2025-11-26T22:59:43.734Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.361W2vm05ojSrBgNwIJbrZwP4R1"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-71775-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "us-razer",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-71775-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-110510",
+					"startAt": "2026-04-21T17:41:49.307Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3C5RQEaRkh6l1mlRultcAAKTwfC",
+										"campaign.3C5CpgHubfoz47dfVmC4BSja7NU",
+										"campaign.3C5TD4Zqxr4k2Fk184a5PKsulia",
+										"campaign.3CBaTgbktak9oOh59p4WRoOAg6m",
+										"campaign.3CBLkiHreEUPiPatAjOoJV6A4Pu"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-110510-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-04-17-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-110510-split",
+									"ranges": [
+										{
+											"start": 1,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-75020",
+					"startAt": "2025-12-22T19:38:17.898Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.36Zau1ul9MLJIPyiQYaD7KmMMuD",
+										"campaign.37D4ZjUsrC2TolRCdTqKiMn6riT"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-75020-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "revlon",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-75020-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-79335",
+					"startAt": "2025-12-18T22:21:23.157Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.36vkzf2dEYJXGFhCAuSOyTvf7R3",
+										"campaign.372J8kSiU3HzRch6EvAVdUjtTMg"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-79335-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "meta-quest",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-79335-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-80537",
+					"startAt": "2025-12-20T01:23:23.935Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3757QsZz3q15M3VvvXwn5fYkDkc",
+										"campaign.3757SdetUP4TT1kjxSkGE8BrLGN"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-80537-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "us-bazooka",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-80537-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-94513",
+					"startAt": "2026-03-05T20:45:29.020Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								},
+								{
+									"value": [
+										"campaign.3A59d4CpbSi0dsDBaRyvQquQknr",
+										"campaign.3AXNvIoBQCcpULL9giqmu9b9LWg"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-94513-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "b0fssz97z3",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-94513-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-105365",
+					"startAt": "2026-04-03T17:42:21.044Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3BloKuxfZm0V04cu2qt5oh6aRnG",
+										"campaign.3BRezTqtaFU9hsFivXfBsCl4KwK",
+										"campaign.3BSH1sXTTzy5Atc4csSGn2KOaHe",
+										"campaign.3BSIYsoghrtEsRCsYMoV0M14IAF",
+										"campaign.3BPjQ7Cz2QCSZghshYHNXyr82TD",
+										"campaign.3BlET6pnrK4BSKkUqC7ZHoXyBmN"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-105365-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-04-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-105365-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-107117",
+					"startAt": "2026-04-09T23:04:37.821Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3BoQCxY3h7H0HnulM6R6HWEpaj9"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-107117-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "garnier-04-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-107117-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-47181",
+					"startAt": "2025-08-25T21:58:29.101Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"aspiring-tortoise-mcc": {
 			"key": "aspiring-tortoise-mcc",
 			"enabled": true,
@@ -8800,1118 +9912,6 @@
 				{
 					"key": "allocation-68022",
 					"startAt": "2025-11-14T20:20:47.460Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"sponsored_shopping_release": {
-			"key": "sponsored_shopping_release",
-			"enabled": true,
-			"variationType": "JSON",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "{\n  \"asin\": \"\",\n  \"tracking_id\": {},\n  \"asins\": []\n}"
-				},
-				"b0cl8w1hzq": {
-					"key": "b0cl8w1hzq",
-					"value": "{\n  \"asin\": \"B0CL8W1HZQ\",\n  \"tracking_id\": \"\"\n}"
-				},
-				"b00wt26ux8": {
-					"key": "b00wt26ux8",
-					"value": "{\n    \"asin\": \"B00WT26UX8\",\n    \"tracking_id\": {},\n    \"asins\": []\n}"
-				},
-				"b082tpdtm2": {
-					"key": "b082tpdtm2",
-					"value": "{\n  \"asin\": \"B082TPDTM2\",\n  \"tracking_id\": {\n      \"274625\":\"swiftor\",\n      \"72291714\":\"chelseabytes\"\n  },\n  \"asins\": []\n}"
-				},
-				"b086pkmz21": {
-					"key": "b086pkmz21",
-					"value": "{\n  \"asin\": \"B086PKMZ21\",\n  \"tracking_id\": {},\n  \"asins\": []\n}"
-				},
-				"b0f2wxqz9w": {
-					"key": "b0f2wxqz9w",
-					"value": "{\n  \"asin\": \"B0F2WXQZ9W\",\n  \"tracking_id\": {}\n}"
-				},
-				"multi-asin-test": {
-					"key": "multi-asin-test",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0CCTHVRZY\", \"B0BTXZJYB7\", \"B0BTX3QR46\", \"B0BTX19RSY\", \"B09HH93G5N\", \"B0CCTN6HDN\", \"B0CCTHVS1D\", \"B0CCTKQ2MB\"],\n  \"tracking_id\": {}\n}"
-				},
-				"amazon-basics-multi-asin": {
-					"key": "amazon-basics-multi-asin",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0CCTHVRZY\", \"B0BTXZJYB7\", \"B09HHBQKW5\", \"B0BTX3QR46\", \"B0BTX19RSY\", \"B09HH93G5N\", \"B0CCTN6HDN\", \"B0CCTHVS1D\", \"B0CCTKQ2MB\"],\n  \"tracking_id\": {}\n}"
-				},
-				"amazon-basics-single-asin": {
-					"key": "amazon-basics-single-asin",
-					"value": "{\n  \"asin\": \"B0CCTHVRZY\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
-				},
-				"elf-multi-asin": {
-					"key": "elf-multi-asin",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0DZPCPN3Q\",\n    \"B0FMXNJGM9\",\n    \"B0FPM7GPLH\"\n  ],\n  \"tracking_id\": {}\n}"
-				},
-				"elf-multi-asin-ca": {
-					"key": "elf-multi-asin-ca",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0DZPCPN3Q\", \"B0CMYMCJ4C\"],\n  \"tracking_id\": {}\n}"
-				},
-				"fazedemo": {
-					"key": "fazedemo",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0CLZ26Y7Y\",\n    \"B0CLYZRZSS\"\n  ],\n  \"tracking_id\": {}\n}"
-				},
-				"nyx": {
-					"key": "nyx",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0BL94TDYQ\",\n    \"B08M58SWB1\",\n    \"B0DK7TXTGY\",\n    \"B079YSXCD8\",\n    \"B00B4YY1GU\",\n    \"B09F749ZPR\",\n    \"B00BKH9HRE\",\n    \"B0CRSWM6SD\",\n    \"B0B5MG6PHQ\"\n  ],\n  \"tracking_id\": {}\n}"
-				},
-				"dove-mencare": {
-					"key": "dove-mencare",
-					"value": "{\n  \"asin\": \"B0CT9XT8TS\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
-				},
-				"ca-dove-mencare": {
-					"key": "ca-dove-mencare",
-					"value": "{\n  \"asin\": \"B0DLJ68268\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
-				},
-				"us-bissell": {
-					"key": "us-bissell",
-					"value": "{\n  \"asin\": \"B0DJMP6T3N\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
-				},
-				"loreal": {
-					"key": "loreal",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B07GVCVYB9\",\n    \"B002JDUMFO\",\n    \"B084W319N1\",\n    \"B0DKG9CMH8\",\n    \"B07QC43BXB\",\n    \"B074PTZCNW\",\n    \"B0B64GY9MC\",\n    \"B08D7J83PZ\",\n    \"B0DZPFGHPW\"\n  ],\n  \"tracking_id\": {}\n}"
-				},
-				"us-revlon": {
-					"key": "us-revlon",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0FSNXPVXG\",\n    \"B0FSPGSL9K\",\n    \"B0FSQ649Z3\",\n    \"B0FSP123PL\",\n    \"B0FSPNRX2D\",\n    \"B0FSNXFZG3\"\n  ],\n  \"tracking_id\": {}\n}"
-				},
-				"us-razer": {
-					"key": "us-razer",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0CXGTGPZQ\",\n    \"B0DW18XKPV\",\n    \"B0DW1JBR3P\",\n    \"B0CXGMPLWK\",\n    \"B0DB6QT8K6\",\n    \"B0CXGL6G6N\",\n    \"B0CXH48G17\",\n    \"B0CCX2DMXV\",\n    \"B0FP47DNFQ\"\n  ],\n  \"tracking_id\": {}\n}"
-				},
-				"revlon": {
-					"key": "revlon",
-					"value": "{\n    \"asin\": \"\",\n    \"asins\": [\n        \"B0FSNXPVXG\",\n        \"B0FSPGSL9K\",\n        \"B0FSQ649Z3\",\n        \"B0FSP123PL\",\n        \"B0FSPNRX2D\",\n        \"B0FSNXFZG3\"\n    ],\n    \"tracking_id\": {}\n}"
-				},
-				"meta-quest": {
-					"key": "meta-quest",
-					"value": "{\n  \"asin\": \"B0CD1JTBSC\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
-				},
-				"us-bazooka": {
-					"key": "us-bazooka",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0FCXYDB6C\",\n    \"B0FBFSLYTH\",\n    \"B0FBFSLYTJ\",\n    \"B08SPCSW6V\",\n    \"B08QW9PTM8\",\n    \"B0FCY1MVNJ\",\n    \"B0FBFQR3Q3\",\n    \"B0FBF71VY4\"\n  ],\n  \"tracking_id\": {}\n}"
-				},
-				"b0fssz97z3": {
-					"key": "b0fssz97z3",
-					"value": "{\"asin\": \"B0FSSZ97Z3\", \"asins\": [], \"tracking_id\": {}}"
-				},
-				"elf-04-2026": {
-					"key": "elf-04-2026",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0G1GZS1RV\",\n    \"B0DHRQXYCH\",\n    \"B0C7W6GW8P\",\n    \"B0D442G15L\"\n  ],\n  \"tracking_id\": {\n    \"1076022569\": \".ventress\",\n    \"176505811\": \"wadelady\",\n    \"449451531\": \"cooperscharms\"\n  }\n}"
-				},
-				"garnier-04-2026": {
-					"key": "garnier-04-2026",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0GHBS1VY3\",\n    \"B0GGTJVX11\",\n    \"B07S1BV1R3\",\n    \"B09M1BT18X\",\n    \"B0CQ33K4LM\",\n    \"B0BQP54JLZ\",\n    \"B0BQNZTQLK\",\n    \"B0GFXSV4PF\",\n    \"B0GFXYCXH1\"\n  ],\n  \"tracking_id\": {\n      \"61770627\": \"bobajenny_\"\n  }\n}"
-				},
-				"elf-04-17-26": {
-					"key": "elf-04-17-26",
-					"value": "{\n    \"asins\": [\"B0G1GZS1RV\",\"B0DHRQXYCH\",\"B0C7W6GW8P\",\"B0D442G15L\"],\n    \"tracking_id\": {}\n}"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-64163",
-					"startAt": "2026-02-24T21:34:32.002Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.35IvEBvz9Im01aZYU7BlXrHJhh4",
-										"campaign.35Udb4ulryaqzXfwfhWzPVEkDoH",
-										"campaign.36f8anz68gQ0nQ2NeC50XCyNCns"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "amazon-basics-multi-asin",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-64163-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-64397",
-					"startAt": "2025-12-10T17:36:05.304Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.34WJwmHn3KEmetrOOvoFZOXopJi",
-										"campaign.35Udb4ulryaqzXfwfhWzPVEkDoH",
-										"campaign.36f8anz68gQ0nQ2NeC50XCyNCns"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"CA"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "amazon-basics-multi-asin",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-64397-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-64519",
-					"startAt": "2025-10-31T15:46:39.953Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.32cGPH0NNmh7EU5apSG1k0YT5CL"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-64519-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf-multi-asin",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-64519-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-64520",
-					"startAt": "2025-10-31T15:47:58.471Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.32cGPH0NNmh7EU5apSG1k0YT5CL"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"CA"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-64520-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf-multi-asin-ca",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-64520-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-68111",
-					"startAt": "2025-11-15T01:44:25.300Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.35AiCbp1S2ZWQaG6tyPO8gOtKa5"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-68111-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "dove-mencare",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-68111-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-68112",
-					"startAt": "2025-11-15T01:44:37.028Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.35RTwn6cxMnTUL0y9dooUH6j5fd"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-68112-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "dove-mencare",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-68112-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-68895",
-					"startAt": "2025-11-17T21:05:30.937Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.35LdHln1d14PC7n2Zw8DFwNylKF"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-68895-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "us-bissell",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-68895-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-68904",
-					"startAt": "2025-11-26T23:13:39.314Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.34WhRVsKoTbRvR2t9UYDs4v6t2N"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "us-razer",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-68904-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-70777",
-					"startAt": "2025-11-24T17:07:11.922Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.35vv5a0jSiyjQi1w8h9Vc0y4OPC"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-70777-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "dove-mencare",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-70777-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-71423",
-					"startAt": "2025-11-25T22:53:05.139Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.35mJLhP0BJWUgMtPlUOFFLfcECs"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-71423-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "us-revlon",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-71423-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-71775",
-					"startAt": "2025-11-26T22:59:43.734Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.361W2vm05ojSrBgNwIJbrZwP4R1"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US",
-										"CA"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-71775-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "us-razer",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-71775-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-75020",
-					"startAt": "2025-12-22T19:38:17.898Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.36Zau1ul9MLJIPyiQYaD7KmMMuD",
-										"campaign.37D4ZjUsrC2TolRCdTqKiMn6riT"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-75020-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "revlon",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-75020-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-79335",
-					"startAt": "2025-12-18T22:21:23.157Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.36vkzf2dEYJXGFhCAuSOyTvf7R3",
-										"campaign.372J8kSiU3HzRch6EvAVdUjtTMg"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-79335-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "meta-quest",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-79335-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-80537",
-					"startAt": "2025-12-20T01:23:23.935Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.3757QsZz3q15M3VvvXwn5fYkDkc",
-										"campaign.3757SdetUP4TT1kjxSkGE8BrLGN"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-80537-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "us-bazooka",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-80537-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-94513",
-					"startAt": "2026-03-05T20:45:29.020Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								},
-								{
-									"value": [
-										"campaign.3A59d4CpbSi0dsDBaRyvQquQknr",
-										"campaign.3AXNvIoBQCcpULL9giqmu9b9LWg"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-94513-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "b0fssz97z3",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-94513-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-105365",
-					"startAt": "2026-04-03T17:42:21.044Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.3BloKuxfZm0V04cu2qt5oh6aRnG",
-										"campaign.3BRezTqtaFU9hsFivXfBsCl4KwK",
-										"campaign.3BSH1sXTTzy5Atc4csSGn2KOaHe",
-										"campaign.3BSIYsoghrtEsRCsYMoV0M14IAF",
-										"campaign.3BPjQ7Cz2QCSZghshYHNXyr82TD",
-										"campaign.3BlET6pnrK4BSKkUqC7ZHoXyBmN"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US",
-										"CA"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-105365-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf-04-2026",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-105365-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-107117",
-					"startAt": "2026-04-09T23:04:37.821Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.3BoQCxY3h7H0HnulM6R6HWEpaj9"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"CA"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-107117-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "garnier-04-2026",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-107117-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-110510",
-					"startAt": "2026-04-21T17:31:41.217Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"campaign.3C5RQEaRkh6l1mlRultcAAKTwfC",
-										"campaign.3C5CpgHubfoz47dfVmC4BSja7NU",
-										"campaign.3C5TD4Zqxr4k2Fk184a5PKsulia",
-										"campaign.3CBaTgbktak9oOh59p4WRoOAg6m",
-										"campaign.3CBLkiHreEUPiPatAjOoJV6A4Pu"
-									],
-									"operator": "ONE_OF",
-									"attribute": "campaign_id"
-								},
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "marketplace"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-110510-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf-04-17-26",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-110510-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-47181",
-					"startAt": "2025-08-25T21:58:29.101Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
