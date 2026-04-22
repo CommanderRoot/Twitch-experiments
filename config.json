@@ -273,6 +273,42 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-111254",
+					"startAt": "2026-04-22T22:56:35.075Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "connections-via-gql-111254-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "connections-via-gql-111254-split",
+									"ranges": [
+										{
+											"start": 100,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-107701",
 					"startAt": "2026-04-13T15:41:17.279Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
