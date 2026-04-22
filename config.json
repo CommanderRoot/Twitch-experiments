@@ -228,7 +228,7 @@
 			"allocations": [
 				{
 					"key": "allocation-108483",
-					"startAt": "2026-04-14T22:55:09.399Z",
+					"startAt": "2026-04-22T21:57:06.114Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -238,29 +238,18 @@
 										"135762134"
 									],
 									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"5alluyJWaQ62rOLOM80rNBOGBNbxYfGi"
-									],
-									"operator": "ONE_OF",
-									"attribute": "device_id"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"135762134"
-									],
-									"operator": "ONE_OF",
 									"attribute": "id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"1457077688"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
 								}
 							]
 						}
