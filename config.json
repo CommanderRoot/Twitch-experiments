@@ -4871,21 +4871,12 @@
 			"allocations": [
 				{
 					"key": "allocation-109384",
-					"startAt": "2026-04-22T20:47:50.932Z",
+					"startAt": "2026-04-23T23:38:10.160Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "apple-pay-reauth-checkout-string-109384-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1500
-										}
-									]
-								},
 								{
 									"salt": "apple-pay-reauth-checkout-string-109384-split",
 									"ranges": [
@@ -4901,15 +4892,6 @@
 							"variationKey": "SelectScreen",
 							"shards": [
 								{
-									"salt": "apple-pay-reauth-checkout-string-109384-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1500
-										}
-									]
-								},
-								{
 									"salt": "apple-pay-reauth-checkout-string-109384-split",
 									"ranges": [
 										{
@@ -4923,15 +4905,6 @@
 						{
 							"variationKey": "OnlyApplePay",
 							"shards": [
-								{
-									"salt": "apple-pay-reauth-checkout-string-109384-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1500
-										}
-									]
-								},
 								{
 									"salt": "apple-pay-reauth-checkout-string-109384-split",
 									"ranges": [
