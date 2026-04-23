@@ -4817,6 +4817,37 @@
 				}
 			]
 		},
+		"mobile-web-platform-detail": {
+			"key": "mobile-web-platform-detail",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-111273",
+					"startAt": "2026-04-23T02:28:35.368Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"apple-pay-reauth-checkout-string": {
 			"key": "apple-pay-reauth-checkout-string",
 			"enabled": true,
