@@ -3815,42 +3815,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-94142",
-					"startAt": "2026-04-21T15:54:02.696Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"US",
-										"CA"
-									],
-									"operator": "NOT_ONE_OF",
-									"attribute": "country"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-94142-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-101537",
 					"startAt": "2026-04-21T15:49:10.203Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -3922,6 +3886,78 @@
 							"shards": [
 								{
 									"salt": "gamelift_page_release-101537-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-111711",
+					"startAt": "2026-04-23T21:10:06.034Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"412613184",
+										"416261291"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-111711-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-94142",
+					"startAt": "2026-04-21T15:54:02.696Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "NOT_ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-94142-split",
 									"ranges": [
 										{
 											"start": 0,
