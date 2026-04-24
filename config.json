@@ -111,6 +111,37 @@
 				}
 			]
 		},
+		"snapchat-connection": {
+			"key": "snapchat-connection",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-111527",
+					"startAt": "2026-04-23T16:54:17.986Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"mweb-prime-entity": {
 			"key": "mweb-prime-entity",
 			"enabled": true,
