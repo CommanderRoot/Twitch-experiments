@@ -1322,6 +1322,37 @@
 				}
 			]
 		},
+		"candlelight_skyline": {
+			"key": "candlelight_skyline",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-112099",
+					"startAt": "2026-04-24T23:09:14.985Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"reactions-for-clips-viewer": {
 			"key": "reactions-for-clips-viewer",
 			"enabled": true,
