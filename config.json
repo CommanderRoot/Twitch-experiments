@@ -173,6 +173,73 @@
 				}
 			]
 		},
+		"progressive_discounts_v2": {
+			"key": "progressive_discounts_v2",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-111588",
+					"startAt": "2026-04-23T17:56:43.139Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "progressive_discounts_v2-111588-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "progressive_discounts_v2-111588-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-111583",
+					"startAt": "2026-04-23T17:56:26.817Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"enable-google-pay-web": {
 			"key": "enable-google-pay-web",
 			"enabled": true,
