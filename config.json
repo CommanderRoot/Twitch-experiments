@@ -3457,6 +3457,37 @@
 				}
 			]
 		},
+		"noredirect_callback_desktop_web": {
+			"key": "noredirect_callback_desktop_web",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-112481",
+					"startAt": "2026-04-27T19:22:53.592Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"disco-homepage-carousel-skip-fpl": {
 			"key": "disco-homepage-carousel-skip-fpl",
 			"enabled": true,
@@ -10674,8 +10705,8 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-86621",
-					"startAt": "2026-02-10T00:38:49.867Z",
+					"key": "allocation-112960",
+					"startAt": "2026-04-28T20:06:17.849Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10699,55 +10730,13 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "go-turbo-go-86621-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentA",
-							"shards": [
-								{
-									"salt": "go-turbo-go-86621-split",
-									"ranges": [
-										{
-											"start": 2500,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentB",
-							"shards": [
-								{
-									"salt": "go-turbo-go-86621-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 7500
-										}
-									]
-								}
-							]
-						},
-						{
 							"variationKey": "TreatmentC",
 							"shards": [
 								{
-									"salt": "go-turbo-go-86621-split",
+									"salt": "go-turbo-go-112960-split",
 									"ranges": [
 										{
-											"start": 7500,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -10755,7 +10744,7 @@
 							]
 						}
 					],
-					"doLog": true
+					"doLog": false
 				},
 				{
 					"key": "allocation-86618",
@@ -11071,21 +11060,8 @@
 			"allocations": [
 				{
 					"key": "allocation-95873",
-					"startAt": "2026-03-03T00:03:26.921Z",
+					"startAt": "2026-04-28T20:19:34.324Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"795439542"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
 					"splits": [
 						{
 							"variationKey": "true",
@@ -11100,6 +11076,18 @@
 									]
 								}
 							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-112967",
+					"startAt": "2026-04-28T20:19:48.816Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
 						}
 					],
 					"doLog": false
