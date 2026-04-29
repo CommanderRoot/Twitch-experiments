@@ -258,6 +258,28 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-113429",
+					"startAt": "2026-04-29T23:00:52.397Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "enable-google-pay-web-113429-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-105406",
 					"startAt": "2026-04-06T22:36:06.124Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -5111,6 +5133,28 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-113430",
+					"startAt": "2026-04-29T23:02:33.803Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "apple-pay-reauth-checkout-string-113430-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-109384",
 					"startAt": "2026-04-23T23:38:10.160Z",
