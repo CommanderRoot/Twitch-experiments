@@ -1985,6 +1985,37 @@
 			"entityId": 145,
 			"allocations": [
 				{
+					"key": "allocation-113335",
+					"startAt": "2026-04-29T20:09:32.111Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "bits-cheer-visibility-113335-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								},
+								{
+									"salt": "bits-cheer-visibility-113335-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-110480",
 					"startAt": "2026-04-21T16:13:54.098Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
