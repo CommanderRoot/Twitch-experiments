@@ -3661,6 +3661,37 @@
 				}
 			]
 		},
+		"noredirect_callback_third_party": {
+			"key": "noredirect_callback_third_party",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-112487",
+					"startAt": "2026-04-27T19:25:57.322Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"disco-homepage-carousel-skip-fpl": {
 			"key": "disco-homepage-carousel-skip-fpl",
 			"enabled": true,
