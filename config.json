@@ -1794,6 +1794,77 @@
 				}
 			]
 		},
+		"next-up": {
+			"key": "next-up",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"variant1": {
+					"key": "variant1",
+					"value": "variant1"
+				},
+				"variant2": {
+					"key": "variant2",
+					"value": "variant2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-88644",
+					"startAt": "2026-02-10T15:54:24.846Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "variant1",
+							"shards": [
+								{
+									"salt": "next-up-88644-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant2",
+							"shards": [
+								{
+									"salt": "next-up-88644-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-88641",
+					"startAt": "2026-02-03T18:09:54.045Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"jumanji-branding": {
 			"key": "jumanji-branding",
 			"enabled": true,
@@ -11613,7 +11684,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-04-30T05:04:55.518Z",
+					"startAt": "2026-04-30T14:51:52.565Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11701,7 +11772,8 @@
 										"1487367787",
 										"1487392766",
 										"884897785",
-										"1490331101"
+										"1490331101",
+										"1490635049"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -12130,7 +12202,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-04-28T14:40:21.509Z",
+					"startAt": "2026-04-30T13:39:34.677Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12141,7 +12213,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 5000
 										}
 									]
 								}
@@ -12154,7 +12226,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
