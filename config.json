@@ -3848,6 +3848,42 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-113650",
+					"startAt": "2026-04-30T17:20:24.872Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"780384994",
+										"981537436"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "pine-shadow-atlas-compose-113650-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-110707",
 					"startAt": "2026-04-21T22:28:14.461Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
