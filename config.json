@@ -3483,6 +3483,81 @@
 				}
 			]
 		},
+		"sponsorships_demand_channel": {
+			"key": "sponsorships_demand_channel",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-113697",
+					"startAt": "2026-04-30T19:51:59.838Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1240603437",
+										"800194984",
+										"1452839365",
+										"812422938",
+										"924967423",
+										"924967880",
+										"924968044",
+										"264051522",
+										"119316908",
+										"232857387"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "sponsorships_demand_channel-113697-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-112395",
+					"startAt": "2026-04-27T17:30:50.815Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"aspiring-tortoise-mcc": {
 			"key": "aspiring-tortoise-mcc",
 			"enabled": true,
@@ -3622,7 +3697,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
