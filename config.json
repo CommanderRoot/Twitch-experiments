@@ -4035,6 +4035,37 @@
 				}
 			]
 		},
+		"Predictions-pubsub-topic-migration": {
+			"key": "Predictions-pubsub-topic-migration",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-113859",
+					"startAt": "2026-05-01T09:21:30.621Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"ads_seasonal_banner2025": {
 			"key": "ads_seasonal_banner2025",
 			"enabled": true,
