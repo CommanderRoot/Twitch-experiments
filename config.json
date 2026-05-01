@@ -2371,6 +2371,190 @@
 				}
 			]
 		},
+		"goals_in_leaderboard": {
+			"key": "goals_in_leaderboard",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"Treatment1": {
+					"key": "Treatment1",
+					"value": "Treatment1"
+				},
+				"Treatment2": {
+					"key": "Treatment2",
+					"value": "Treatment2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-113762",
+					"startAt": "2026-04-30T22:29:43.636Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "goals_in_leaderboard-113762-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-113760-holdout-leaderboard-web-holdout",
+					"startAt": "2026-04-30T22:25:06.783Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "goals_in_leaderboard-113760-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								},
+								{
+									"salt": "leaderboard-web-holdout-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "goals_in_leaderboard-113760-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								},
+								{
+									"salt": "leaderboard-web-holdout-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "goals_in_leaderboard-113760-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								},
+								{
+									"salt": "leaderboard-web-holdout-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-113760",
+					"startAt": "2026-04-30T22:25:06.783Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "goals_in_leaderboard-113760-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "Treatment1",
+							"shards": [
+								{
+									"salt": "goals_in_leaderboard-113760-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "Treatment2",
+							"shards": [
+								{
+									"salt": "goals_in_leaderboard-113760-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-113752",
+					"startAt": "2026-04-30T22:09:33.052Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"ivs-player-core-distribution": {
 			"key": "ivs-player-core-distribution",
 			"enabled": true,
@@ -2398,7 +2582,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-05-01T13:56:12.511Z",
+					"startAt": "2026-05-01T17:05:57.492Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2422,7 +2606,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 7500
 										}
 									]
 								}
@@ -2435,7 +2619,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 7500,
 											"end": 10000
 										}
 									]
@@ -12024,7 +12208,7 @@
 				},
 				{
 					"key": "allocation-99272",
-					"startAt": "2026-04-20T18:11:13.976Z",
+					"startAt": "2026-05-01T17:07:02.753Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12048,7 +12232,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2000
+											"end": 5000
 										}
 									]
 								},
@@ -12068,7 +12252,7 @@
 				},
 				{
 					"key": "allocation-89136",
-					"startAt": "2026-04-24T17:39:58.654Z",
+					"startAt": "2026-05-01T17:07:30.489Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12079,7 +12263,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2000
+											"end": 5000
 										}
 									]
 								},
