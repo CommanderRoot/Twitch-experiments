@@ -747,6 +747,193 @@
 				}
 			]
 		},
+		"ios_prominent_entry_point_copy": {
+			"key": "ios_prominent_entry_point_copy",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment1": {
+					"key": "treatment1",
+					"value": "treatment1"
+				},
+				"treatment2": {
+					"key": "treatment2",
+					"value": "treatment2"
+				},
+				"treatment3": {
+					"key": "treatment3",
+					"value": "treatment3"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-113406",
+					"startAt": "2026-04-29T22:24:35.769Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-113406-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-102171",
+					"startAt": "2026-03-24T16:09:49.065Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "27.9.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": 27.9,
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment3",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-102171-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-73080",
+					"startAt": "2026-01-26T19:03:27.951Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "27.9.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": 27.9,
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-73080-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment1",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-73080-split",
+									"ranges": [
+										{
+											"start": 2500,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment2",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-73080-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 7500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment3",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-73080-split",
+									"ranges": [
+										{
+											"start": 7500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-73077",
+					"startAt": "2025-12-03T19:54:46.800Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"ivs-client-web-new-updateidle": {
 			"key": "ivs-client-web-new-updateidle",
 			"enabled": true,
@@ -11897,7 +12084,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-05-01T13:57:03.266Z",
+					"startAt": "2026-05-04T20:58:40.608Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11952,7 +12139,7 @@
 										"1462901864",
 										"1463799545",
 										"1466380178",
-										"1491140251"
+										"892298654"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -12678,6 +12865,45 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"android_prominent_entry_point_copy": {
+			"key": "android_prominent_entry_point_copy",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment1": {
+					"key": "treatment1",
+					"value": "treatment1"
+				},
+				"treatment2": {
+					"key": "treatment2",
+					"value": "treatment2"
+				},
+				"treatment3": {
+					"key": "treatment3",
+					"value": "treatment3"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-98339",
+					"startAt": "2026-03-10T21:56:03.120Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
