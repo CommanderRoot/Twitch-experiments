@@ -480,6 +480,37 @@
 				}
 			]
 		},
+		"pre-affiliate-row": {
+			"key": "pre-affiliate-row",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-114730",
+					"startAt": "2026-05-04T20:47:07.734Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"disco_very_tall_lamp": {
 			"key": "disco_very_tall_lamp",
 			"enabled": true,
@@ -2269,6 +2300,37 @@
 				}
 			]
 		},
+		"badge-rewards-single-campaign": {
+			"key": "badge-rewards-single-campaign",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-115006",
+					"startAt": "2026-05-05T17:47:32.928Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"checkout-refactor": {
 			"key": "checkout-refactor",
 			"enabled": true,
@@ -2293,6 +2355,91 @@
 				{
 					"key": "allocation-106683",
 					"startAt": "2026-04-08T22:22:11.395Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"single-step-apple-pay": {
+			"key": "single-step-apple-pay",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-115031",
+					"startAt": "2026-05-05T18:43:55.720Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "single-step-apple-pay-115031-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "single-step-apple-pay-115031-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "single-step-apple-pay-115031-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "single-step-apple-pay-115031-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-115028",
+					"startAt": "2026-05-05T18:43:34.977Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -2906,6 +3053,10 @@
 				"elf-04-17-26": {
 					"key": "elf-04-17-26",
 					"value": "{\n    \"asin\": \"\",\n    \"asins\": [\"B0G1GZS1RV\",\"B0DHRQXYCH\",\"B0C7W6GW8P\",\"B0D442G15L\"],\n    \"tracking_id\": {}\n}"
+				},
+				"bodyarmor-05-11-26": {
+					"key": "bodyarmor-05-11-26",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B01EFDEKW6\",\n    \"B01EFDEOEA\",\n    \"B00KO899SC\",\n    \"B07LBKPWT6\"\n  ],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -3887,6 +4038,63 @@
 									"ranges": [
 										{
 											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-115034",
+					"startAt": "2026-05-05T18:55:43.587Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3CxC0lszKR8MRYggotOcdE0lbqB"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-115034-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "bodyarmor-05-11-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-115034-split",
+									"ranges": [
+										{
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -12996,7 +13204,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
