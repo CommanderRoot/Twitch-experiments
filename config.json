@@ -2660,7 +2660,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-05-01T22:21:07.918Z",
+					"startAt": "2026-05-05T13:47:12.663Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2684,7 +2684,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 0
 										}
 									]
 								}
@@ -2697,7 +2697,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -12786,7 +12786,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-04-30T13:39:34.677Z",
+					"startAt": "2026-05-05T15:31:21.573Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12797,7 +12797,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 0
 										}
 									]
 								}
@@ -12810,7 +12810,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
