@@ -4154,14 +4154,15 @@
 				},
 				{
 					"key": "allocation-115034",
-					"startAt": "2026-05-05T18:55:43.587Z",
+					"startAt": "2026-05-06T22:50:25.326Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"campaign.3CxC0lszKR8MRYggotOcdE0lbqB"
+										"campaign.3CxC0lszKR8MRYggotOcdE0lbqB",
+										"campaign.3DKD35FBrHqyt3EJ3rsiO97y4i4"
 									],
 									"operator": "ONE_OF",
 									"attribute": "campaign_id"
