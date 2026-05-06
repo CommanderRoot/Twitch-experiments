@@ -4348,14 +4348,20 @@
 			"allocations": [
 				{
 					"key": "allocation-115626",
-					"startAt": "2026-05-06T16:55:28.287Z",
+					"startAt": "2026-05-06T19:23:33.218Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"twitch-internal-test-request"
+										"twitch-internal-test-request",
+										"twitch-internal-test-request-3m",
+										"twitch-internal-test-request-4m",
+										"twitch-internal-test-request-4m-squeezeback",
+										"twitch-internal-test-request-3m-squeezeback",
+										"twitch-internal-test-request-3m-olv",
+										"twitch-internal-test-request-4m-olv"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
@@ -4846,7 +4852,8 @@
 										"1290332340",
 										"414673216",
 										"804921426",
-										"981537436"
+										"981537436",
+										"89614178"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -5177,6 +5184,39 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-115620",
+					"startAt": "2026-05-06T19:05:44.482Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": true,
+									"operator": "IS_NULL",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "outstream-trigger-cooldown-115620-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-115619",
 					"startAt": "2026-05-06T16:26:03.670Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -5211,39 +5251,6 @@
 						}
 					],
 					"doLog": true
-				},
-				{
-					"key": "allocation-115620",
-					"startAt": "2026-05-06T16:28:56.518Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": true,
-									"operator": "IS_NULL",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "outstream-trigger-cooldown-115620-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
 				},
 				{
 					"key": "allocation-115616",
@@ -12554,7 +12561,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-05-04T20:58:40.608Z",
+					"startAt": "2026-05-06T19:02:57.940Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12609,7 +12616,7 @@
 										"1462901864",
 										"1463799545",
 										"1466380178",
-										"892298654"
+										"1493798305"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -13353,7 +13360,8 @@
 										"1290332340",
 										"414673216",
 										"804921426",
-										"981537436"
+										"981537436",
+										"89614178"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
