@@ -498,6 +498,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-116162",
+					"startAt": "2026-05-07T20:11:06.762Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1494485871"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "pre-affiliate-row-116162-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-114730",
 					"startAt": "2026-05-04T20:47:07.734Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -4576,7 +4611,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -4607,7 +4642,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -6185,6 +6220,41 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"candle_shop": {
+			"key": "candle_shop",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				},
+				"treatment_with_popular": {
+					"key": "treatment_with_popular",
+					"value": "treatment_with_popular"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-105183",
+					"startAt": "2026-04-02T22:35:25.524Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -12811,7 +12881,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-05-06T19:02:57.940Z",
+					"startAt": "2026-05-07T20:17:12.218Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12866,7 +12936,7 @@
 										"1462901864",
 										"1463799545",
 										"1466380178",
-										"1493798305"
+										"1494485871"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
