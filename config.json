@@ -5474,7 +5474,7 @@
 			"allocations": [
 				{
 					"key": "allocation-101537",
-					"startAt": "2026-04-21T15:49:10.203Z",
+					"startAt": "2026-05-08T23:07:50.467Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5530,10 +5530,14 @@
 							"conditions": [
 								{
 									"value": [
-										"true"
+										"412613184",
+										"416261291",
+										"1477166521",
+										"197905240",
+										"1493402051"
 									],
 									"operator": "ONE_OF",
-									"attribute": "staff"
+									"attribute": "user_id"
 								}
 							]
 						}
@@ -5597,7 +5601,7 @@
 				},
 				{
 					"key": "allocation-94142",
-					"startAt": "2026-04-21T15:54:02.696Z",
+					"startAt": "2026-05-08T23:03:56.579Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5609,6 +5613,17 @@
 									],
 									"operator": "NOT_ONE_OF",
 									"attribute": "country"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"reanimal"
+									],
+									"operator": "NOT_ONE_OF",
+									"attribute": "game_title"
 								}
 							]
 						}
@@ -5687,60 +5702,6 @@
 						}
 					],
 					"doLog": false
-				},
-				{
-					"key": "allocation-92621",
-					"startAt": "2026-04-21T15:46:39.204Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-92621-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "gamelift_page_release-92621-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-92621-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "gamelift_page_release-92621-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
 				},
 				{
 					"key": "allocation-92618",
@@ -13080,7 +13041,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-05-07T22:46:23.616Z",
+					"startAt": "2026-05-08T22:13:18.196Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -13169,7 +13130,8 @@
 										"1487392766",
 										"884897785",
 										"1490331101",
-										"1490635049"
+										"1490635049",
+										"1494969929"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
