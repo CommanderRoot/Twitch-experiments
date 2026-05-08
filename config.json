@@ -6367,6 +6367,56 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-116560",
+					"startAt": "2026-05-08T19:59:46.830Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "candle_shop-116560-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "candle_shop-116560-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment_with_popular",
+							"shards": [
+								{
+									"salt": "candle_shop-116560-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-105183",
 					"startAt": "2026-04-02T22:35:25.524Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
