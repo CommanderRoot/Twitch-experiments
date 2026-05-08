@@ -980,6 +980,68 @@
 				}
 			]
 		},
+		"iOS-NavBar-BotomSheet-Coordination": {
+			"key": "iOS-NavBar-BotomSheet-Coordination",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-116216",
+					"startAt": "2026-05-07T22:02:04.169Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"Android-NavBar-BotomSheet-Coordination": {
+			"key": "Android-NavBar-BotomSheet-Coordination",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-116219",
+					"startAt": "2026-05-07T22:14:50.513Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"ivs-client-web-new-updateidle": {
 			"key": "ivs-client-web-new-updateidle",
 			"enabled": true,
