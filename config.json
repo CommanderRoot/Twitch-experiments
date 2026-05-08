@@ -4412,6 +4412,37 @@
 				}
 			]
 		},
+		"Android-T2T3-Subs": {
+			"key": "Android-T2T3-Subs",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-116601",
+					"startAt": "2026-05-08T21:38:07.252Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"sponsorships_demand_channel": {
 			"key": "sponsorships_demand_channel",
 			"enabled": true,
