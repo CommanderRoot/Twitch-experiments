@@ -18512,21 +18512,12 @@
 				},
 				{
 					"key": "allocation-89136",
-					"startAt": "2026-05-11T20:59:35.066Z",
+					"startAt": "2026-05-11T22:01:07.936Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "invite-v3-tag-89136-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 7500
-										}
-									]
-								},
 								{
 									"salt": "invite-v3-tag-89136-split",
 									"ranges": [
