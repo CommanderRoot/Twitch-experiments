@@ -2386,6 +2386,108 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-117366",
+					"startAt": "2026-05-12T18:35:09.069Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"267893713",
+										"1312881092",
+										"1383306683"
+									],
+									"operator": "ONE_OF",
+									"attribute": "channelID"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"267893713",
+										"1312881092",
+										"1383306683"
+									],
+									"operator": "ONE_OF",
+									"attribute": "channelId"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"267893713",
+										"1312881092",
+										"1383306683"
+									],
+									"operator": "ONE_OF",
+									"attribute": "channel_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"267893713",
+										"1312881092",
+										"1383306683"
+									],
+									"operator": "ONE_OF",
+									"attribute": "entity_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"267893713",
+										"1312881092",
+										"1383306683"
+									],
+									"operator": "ONE_OF",
+									"attribute": "entityId"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"267893713",
+										"1312881092",
+										"1383306683"
+									],
+									"operator": "ONE_OF",
+									"attribute": "entityID"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "badge-rewards-single-campaign-117366-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-115006",
 					"startAt": "2026-05-05T17:47:32.928Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -11464,6 +11566,68 @@
 				}
 			]
 		},
+		"Android-NavBar-BotomSheet-Coordination": {
+			"key": "Android-NavBar-BotomSheet-Coordination",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-116219",
+					"startAt": "2026-05-07T22:14:50.513Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"iOS-NavBar-BotomSheet-Coordination": {
+			"key": "iOS-NavBar-BotomSheet-Coordination",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-116216",
+					"startAt": "2026-05-07T22:02:04.169Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"disco_night_blooming_cereus": {
 			"key": "disco_night_blooming_cereus",
 			"enabled": true,
@@ -18851,7 +19015,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-05-05T15:31:21.573Z",
+					"startAt": "2026-05-12T17:32:38.579Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -18862,7 +19026,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								}
@@ -18875,7 +19039,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 500,
 											"end": 10000
 										}
 									]
