@@ -2387,7 +2387,7 @@
 			"allocations": [
 				{
 					"key": "allocation-117366",
-					"startAt": "2026-05-12T18:52:47.674Z",
+					"startAt": "2026-05-12T21:24:57.715Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2400,7 +2400,7 @@
 										"800432929"
 									],
 									"operator": "ONE_OF",
-									"attribute": "channelID"
+									"attribute": "userID"
 								}
 							]
 						},
@@ -2414,7 +2414,7 @@
 										"800432929"
 									],
 									"operator": "ONE_OF",
-									"attribute": "channelId"
+									"attribute": "user_id"
 								}
 							]
 						},
@@ -2428,49 +2428,7 @@
 										"800432929"
 									],
 									"operator": "ONE_OF",
-									"attribute": "channel_id"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"267893713",
-										"1312881092",
-										"1383306683",
-										"800432929"
-									],
-									"operator": "ONE_OF",
-									"attribute": "entity_id"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"267893713",
-										"1312881092",
-										"1383306683",
-										"800432929"
-									],
-									"operator": "ONE_OF",
-									"attribute": "entityId"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"267893713",
-										"1312881092",
-										"1383306683",
-										"800432929"
-									],
-									"operator": "ONE_OF",
-									"attribute": "entityID"
+									"attribute": "userId"
 								}
 							]
 						}
@@ -10853,7 +10811,7 @@
 			"allocations": [
 				{
 					"key": "allocation-101537",
-					"startAt": "2026-05-08T23:07:50.467Z",
+					"startAt": "2026-05-12T20:35:25.212Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10898,7 +10856,8 @@
 										"1461263554",
 										"1461260999",
 										"1461240520",
-										"1483073600"
+										"1483073600",
+										"1016611616"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
