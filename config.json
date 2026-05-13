@@ -5509,7 +5509,7 @@
 			"allocations": [
 				{
 					"key": "allocation-116964",
-					"startAt": "2026-05-11T20:04:24.890Z",
+					"startAt": "2026-05-13T01:54:05.219Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10762,7 +10762,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": [
 								{
 									"salt": "autopub-recaps-116964-split",
