@@ -568,21 +568,12 @@
 				},
 				{
 					"key": "allocation-117737",
-					"startAt": "2026-05-13T16:52:02.930Z",
+					"startAt": "2026-05-13T18:18:32.257Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "pre-affiliate-row-117737-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "pre-affiliate-row-117737-split",
 									"ranges": [
