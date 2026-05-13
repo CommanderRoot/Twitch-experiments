@@ -10779,6 +10779,41 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-117511",
+					"startAt": "2026-05-12T23:52:42.103Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"90997863"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "autopub-recaps-117511-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-116956",
 					"startAt": "2026-05-11T19:27:03.740Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
