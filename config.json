@@ -791,7 +791,7 @@
 			"variations": {
 				"control": {
 					"key": "control",
-					"value": "{\n  \"startDate\": \"2026-05-14T00:00:00-07:00\",\n  \"endDate\": \"2026-05-20T23:59:00-07:00\",\n  \"countries\": [\n    \"US\",\n    \"CA\",\n    \"AT\",\n    \"BE\",\n    \"BG\",\n    \"HR\",\n    \"CY\",\n    \"CZ\",\n    \"DK\",\n    \"EE\",\n    \"FI\",\n    \"FR\",\n    \"DE\",\n    \"GR\",\n    \"HU\",\n    \"IS\",\n    \"IE\",\n    \"IT\",\n    \"LV\",\n    \"LI\",\n    \"LT\",\n    \"LU\",\n    \"MT\",\n    \"NL\",\n    \"NO\",\n    \"PL\"\n  ],\n  \"showBottomBanner\": true\n}"
+					"value": "{\n  \"startDate\": \"2026-05-14T00:00:00-07:00\",\n  \"endDate\": \"2026-05-20T23:59:00-07:00\",\n  \"countries\": [\n    \"US\",\n    \"CA\",\n    \"AT\",\n    \"BE\",\n    \"BG\",\n    \"HR\",\n    \"CY\",\n    \"CZ\",\n    \"DK\",\n    \"EE\",\n    \"FI\",\n    \"FR\",\n    \"DE\",\n    \"GR\",\n    \"HU\",\n    \"IS\",\n    \"IE\",\n    \"IT\",\n    \"LV\",\n    \"LI\",\n    \"LT\",\n    \"LU\",\n    \"MT\",\n    \"NL\",\n    \"NO\",\n    \"PL\"\n  ],\n  \"showBottomBanner\": false\n}"
 				},
 				"may2026": {
 					"key": "may2026",
