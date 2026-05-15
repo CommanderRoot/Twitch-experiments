@@ -1648,6 +1648,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-118592",
+					"startAt": "2026-05-15T21:18:08.074Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "ios_candlelight_com_t2_t3_subs-118592-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-110132",
 					"startAt": "2026-04-20T19:57:29.791Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -2403,24 +2438,15 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-116542",
-					"startAt": "2026-05-13T16:35:24.773Z",
+					"key": "allocation-118585",
+					"startAt": "2026-05-15T21:04:54.972Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "checkout-refactor-116542-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "checkout-refactor-116542-split",
+									"salt": "checkout-refactor-118585-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -2434,16 +2460,7 @@
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "checkout-refactor-116542-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "checkout-refactor-116542-split",
+									"salt": "checkout-refactor-118585-split",
 									"ranges": [
 										{
 											"start": 5000,
