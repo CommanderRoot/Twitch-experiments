@@ -259,12 +259,21 @@
 			"allocations": [
 				{
 					"key": "allocation-113429",
-					"startAt": "2026-04-29T23:00:52.397Z",
+					"startAt": "2026-05-15T22:24:52.508Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": [
+								{
+									"salt": "enable-google-pay-web-113429-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
 								{
 									"salt": "enable-google-pay-web-113429-split",
 									"ranges": [
@@ -278,42 +287,6 @@
 						}
 					],
 					"doLog": false
-				},
-				{
-					"key": "allocation-105406",
-					"startAt": "2026-04-06T22:36:06.124Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "enable-google-pay-web-105406-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "enable-google-pay-web-105406-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
 				},
 				{
 					"key": "allocation-96658",
