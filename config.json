@@ -240,68 +240,6 @@
 				}
 			]
 		},
-		"enable-google-pay-web": {
-			"key": "enable-google-pay-web",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"false": {
-					"key": "false",
-					"value": false
-				},
-				"true": {
-					"key": "true",
-					"value": true
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-113429",
-					"startAt": "2026-05-15T22:24:52.508Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "enable-google-pay-web-113429-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "enable-google-pay-web-113429-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-96658",
-					"startAt": "2026-03-04T18:50:06.729Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"connections-via-gql": {
 			"key": "connections-via-gql",
 			"enabled": true,
@@ -595,6 +533,68 @@
 				{
 					"key": "allocation-75513",
 					"startAt": "2025-12-12T00:17:55.810Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"enable-google-pay-web": {
+			"key": "enable-google-pay-web",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"false": {
+					"key": "false",
+					"value": false
+				},
+				"true": {
+					"key": "true",
+					"value": true
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-118616",
+					"startAt": "2026-05-15T22:25:16.975Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "enable-google-pay-web-118616-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "enable-google-pay-web-118616-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-96658",
+					"startAt": "2026-03-04T18:50:06.729Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
