@@ -3085,28 +3085,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-113762",
-					"startAt": "2026-04-30T22:29:43.636Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "goals_in_leaderboard-113762-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-119034",
 					"startAt": "2026-05-18T22:06:21.076Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
