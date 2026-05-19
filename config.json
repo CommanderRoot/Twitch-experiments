@@ -1144,7 +1144,7 @@
 			"allocations": [
 				{
 					"key": "allocation-46725",
-					"startAt": "2025-08-22T16:18:40.243Z",
+					"startAt": "2026-05-19T18:21:44.881Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -1155,7 +1155,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -1279,6 +1279,37 @@
 					"splits": [
 						{
 							"variationKey": "treatment",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"targeted-gift-discount-web-ui": {
+			"key": "targeted-gift-discount-web-ui",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-116272",
+					"startAt": "2026-05-08T04:01:17.104Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
