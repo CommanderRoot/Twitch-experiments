@@ -562,46 +562,16 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-118616",
-					"startAt": "2026-05-15T22:25:16.975Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "enable-google-pay-web-118616-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "enable-google-pay-web-118616-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-119708",
-					"startAt": "2026-05-20T17:18:12.546Z",
+					"startAt": "2026-05-20T20:38:00.030Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1482198971"
+										"1482198971",
+										"1501520474"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -626,6 +596,60 @@
 						}
 					],
 					"doLog": false
+				},
+				{
+					"key": "allocation-119830",
+					"startAt": "2026-05-20T21:30:34.981Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "enable-google-pay-web-119830-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "enable-google-pay-web-119830-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "enable-google-pay-web-119830-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "enable-google-pay-web-119830-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
 				},
 				{
 					"key": "allocation-96658",
@@ -2586,7 +2610,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": []
 						}
 					],
@@ -3175,7 +3199,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-05-20T19:33:52.173Z",
+					"startAt": "2026-05-20T20:34:08.643Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3199,7 +3223,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2500
+											"end": 5000
 										}
 									]
 								}
@@ -3212,7 +3236,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 2500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -7322,50 +7346,31 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-113085",
-					"startAt": "2026-04-29T03:19:18.958Z",
+					"key": "allocation-119826",
+					"startAt": "2026-05-20T20:38:25.849Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
+					"rules": [
 						{
-							"variationKey": "control",
-							"shards": [
+							"conditions": [
 								{
-									"salt": "single-step-google-pay-113085-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "single-step-google-pay-113085-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
+									"value": [
+										"1501520474"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
 								}
 							]
-						},
+						}
+					],
+					"splits": [
 						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "single-step-google-pay-113085-traffic",
+									"salt": "single-step-google-pay-119826-split",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "single-step-google-pay-113085-split",
-									"ranges": [
-										{
-											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -7373,7 +7378,7 @@
 							]
 						}
 					],
-					"doLog": true
+					"doLog": false
 				},
 				{
 					"key": "allocation-113082",
@@ -7381,7 +7386,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": []
 						}
 					],
@@ -11450,24 +11455,24 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-64380",
-					"startAt": "2025-12-15T23:30:15.086Z",
+					"key": "allocation-119829",
+					"startAt": "2026-05-20T21:30:43.324Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "enable-apple-pay-web-64380-traffic",
+									"salt": "enable-apple-pay-web-119829-traffic",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 2000
 										}
 									]
 								},
 								{
-									"salt": "enable-apple-pay-web-64380-split",
+									"salt": "enable-apple-pay-web-119829-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -11481,16 +11486,16 @@
 							"variationKey": "false",
 							"shards": [
 								{
-									"salt": "enable-apple-pay-web-64380-traffic",
+									"salt": "enable-apple-pay-web-119829-traffic",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 2000
 										}
 									]
 								},
 								{
-									"salt": "enable-apple-pay-web-64380-split",
+									"salt": "enable-apple-pay-web-119829-split",
 									"ranges": [
 										{
 											"start": 5000,
