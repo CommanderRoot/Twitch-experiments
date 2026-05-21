@@ -443,6 +443,28 @@
 					"key": "allocation-119883",
 					"startAt": "2026-07-31T22:28:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "24.7.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"twilight"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								}
+							]
+						}
+					],
 					"splits": [
 						{
 							"variationKey": "control",
