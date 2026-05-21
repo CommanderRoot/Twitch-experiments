@@ -7422,42 +7422,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-118336",
-					"startAt": "2026-05-15T04:23:37.215Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "cspon-channel-skins-v3-118336-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "cspon-channel-skins-v3-118336-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-118333",
 					"startAt": "2026-05-15T04:23:36.119Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
