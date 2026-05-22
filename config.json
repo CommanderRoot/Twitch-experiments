@@ -777,7 +777,7 @@
 			"allocations": [
 				{
 					"key": "allocation-119745",
-					"startAt": "2026-05-20T17:59:19.490Z",
+					"startAt": "2026-05-22T21:25:37.055Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -794,7 +794,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "shadow",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "sda_use_gql-119745-split",
