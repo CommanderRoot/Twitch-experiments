@@ -2525,21 +2525,12 @@
 			"allocations": [
 				{
 					"key": "allocation-119054",
-					"startAt": "2026-05-20T16:23:12.729Z",
+					"startAt": "2026-05-22T00:40:30.693Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "checkout-refactor-119054-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
 								{
 									"salt": "checkout-refactor-119054-split",
 									"ranges": [
@@ -2554,15 +2545,6 @@
 						{
 							"variationKey": "treatment-single-step",
 							"shards": [
-								{
-									"salt": "checkout-refactor-119054-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
 								{
 									"salt": "checkout-refactor-119054-split",
 									"ranges": [
