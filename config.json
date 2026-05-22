@@ -4439,7 +4439,7 @@
 				},
 				"bodyarmor-05-11-26": {
 					"key": "bodyarmor-05-11-26",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B01EFDEKW6\",\n    \"B01EFDEOEA\",\n    \"B00KO899SC\",\n    \"B07LBKPWT6\"\n  ],\n  \"tracking_id\": {}\n}"
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B01EFDEKW6\",\n    \"B01EFDEOEA\",\n    \"B00KO899SC\",\n    \"B07LBKPWT6\"\n  ],\n  \"tracking_id\": {\n      \"133333248\": \"demon10b-20\"\n  }\n}"
 				},
 				"elf-05-05-26": {
 					"key": "elf-05-05-26",
@@ -12801,6 +12801,81 @@
 				{
 					"key": "allocation-69001",
 					"startAt": "2025-11-18T01:20:43.297Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"pulsar-analytics-shadow": {
+			"key": "pulsar-analytics-shadow",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-118637",
+					"startAt": "2026-05-15T23:51:08.289Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "pulsar-analytics-shadow-118637-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								},
+								{
+									"salt": "pulsar-analytics-shadow-118637-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-79228",
+					"startAt": "2025-12-16T08:16:32.693Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
