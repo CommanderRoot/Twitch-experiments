@@ -447,7 +447,7 @@
 						{
 							"conditions": [
 								{
-									"value": "24.7.0",
+									"value": "29.7.0",
 									"operator": "GTE",
 									"attribute": "app_version"
 								}
