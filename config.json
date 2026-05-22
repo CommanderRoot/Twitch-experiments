@@ -2404,6 +2404,72 @@
 				}
 			]
 		},
+		"modiversary-callout": {
+			"key": "modiversary-callout",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-102109",
+					"startAt": "2026-03-24T13:22:20.549Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "modiversary-callout-102109-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-102097",
+					"startAt": "2026-03-24T13:14:52.802Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"unheard_unicorn_t3": {
 			"key": "unheard_unicorn_t3",
 			"enabled": true,
@@ -4308,6 +4374,10 @@
 				"elf-05-05-26": {
 					"key": "elf-05-05-26",
 					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0G1GZS1RV\",\n    \"B0DHRQXYCH\",\n    \"B0C7W6GW8P\",\n    \"B0D442G15L\"\n  ],\n  \"tracking_id\": {\n    \"144313101\": \"influencer-628a305d\"\n  }\n}"
+				},
+				"forza6-05-22-26": {
+					"key": "forza6-05-22-26",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n      \"B0GLJC6XL7\",\n      \"B0GHC1548X\"\n  ],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -5417,6 +5487,63 @@
 					"doLog": true
 				},
 				{
+					"key": "allocation-120532",
+					"startAt": "2026-05-22T17:33:48.268Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3E2OQJz6VyoUCFDsScLAYmppx1o",
+										"campaign.3E2LnxX0T6KM11nO6737ThSLouS"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace "
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-120532-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "forza6-05-22-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-120532-split",
+									"ranges": [
+										{
+											"start": 1,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-47181",
 					"startAt": "2025-08-25T21:58:29.101Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -5454,6 +5581,37 @@
 					"splits": [
 						{
 							"variationKey": "treatment",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"targeted-gift-discount-web-ui": {
+			"key": "targeted-gift-discount-web-ui",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-116272",
+					"startAt": "2026-05-08T04:01:17.104Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -5781,7 +5939,7 @@
 			"allocations": [
 				{
 					"key": "allocation-101537",
-					"startAt": "2026-05-18T18:04:46.784Z",
+					"startAt": "2026-05-22T17:22:03.991Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5849,7 +6007,9 @@
 										"1494633636",
 										"1494636242",
 										"71980528",
-										"1500536076"
+										"1500536076",
+										"427785799",
+										"469978115"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
