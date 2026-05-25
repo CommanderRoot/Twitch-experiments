@@ -2728,43 +2728,12 @@
 			"allocations": [
 				{
 					"key": "allocation-118879",
-					"startAt": "2026-05-25T14:00:00.000Z",
-					"endAt": "2026-05-31T14:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "next-up-118879-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-118879",
-					"startAt": "2026-05-31T14:00:00.000Z",
+					"startAt": "2026-05-25T15:04:25.260Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "variant1",
 							"shards": [
-								{
-									"salt": "next-up-118879-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "next-up-118879-split",
 									"ranges": [
