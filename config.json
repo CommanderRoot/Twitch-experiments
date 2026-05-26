@@ -1852,60 +1852,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-121164",
-					"startAt": "2026-05-26T21:41:31.442Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": 29.7,
-									"operator": "GTE",
-									"attribute": "app_version"
-								},
-								{
-									"value": [
-										"true"
-									],
-									"operator": "ONE_OF",
-									"attribute": "staff"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "ios_candlelight_com_t2_t3_subs-121164-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "ios_candlelight_com_t2_t3_subs-121164-split",
-									"ranges": [
-										{
-											"start": 1000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-110132",
 					"startAt": "2026-04-20T19:57:29.791Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -5641,6 +5587,62 @@
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-120532-split",
+									"ranges": [
+										{
+											"start": 1,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-121172",
+					"startAt": "2026-05-26T21:57:10.801Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3EGQ37aT32geERsKJuuSqjE7kLP"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-121172-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf05-28-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-121172-split",
 									"ranges": [
 										{
 											"start": 1,
