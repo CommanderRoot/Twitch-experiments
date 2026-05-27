@@ -1672,43 +1672,8 @@
 			"entityId": 144,
 			"allocations": [
 				{
-					"key": "allocation-119745",
-					"startAt": "2026-05-26T20:27:21.268Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"1016611616"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "shadow",
-							"shards": [
-								{
-									"salt": "sda_use_gql-119745-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-121159",
-					"startAt": "2026-05-26T21:23:41.996Z",
+					"startAt": "2026-05-27T05:54:14.733Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1719,6 +1684,17 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"3b3f2e6ba5bc42de"
+									],
+									"operator": "ONE_OF",
+									"attribute": "deviceID"
 								}
 							]
 						}
