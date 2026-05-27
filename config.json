@@ -2038,6 +2038,37 @@
 				}
 			]
 		},
+		"pine-shadow-atlas-reaction-sync": {
+			"key": "pine-shadow-atlas-reaction-sync",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-121160",
+					"startAt": "2026-05-26T21:28:20.844Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"candlelight_skyline": {
 			"key": "candlelight_skyline",
 			"enabled": true,
