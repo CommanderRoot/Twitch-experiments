@@ -905,6 +905,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-121197",
+					"startAt": "2026-05-27T00:33:51.100Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1400681942"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "allow_dj_clips-121197-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-121028",
 					"startAt": "2026-05-26T17:22:06.199Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
