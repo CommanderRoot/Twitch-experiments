@@ -1673,14 +1673,14 @@
 			"allocations": [
 				{
 					"key": "allocation-121159",
-					"startAt": "2026-05-27T05:54:14.733Z",
+					"startAt": "2026-05-28T20:19:35.402Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"3b3f2e6ba5bc42de"
+										"0bwNER6j9MhjhLfiTVpwpt7MxOspeK6h"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
@@ -1691,7 +1691,7 @@
 							"conditions": [
 								{
 									"value": [
-										"3b3f2e6ba5bc42de"
+										"0bwNER6j9MhjhLfiTVpwpt7MxOspeK6h"
 									],
 									"operator": "ONE_OF",
 									"attribute": "deviceID"
@@ -1716,6 +1716,42 @@
 						}
 					],
 					"doLog": false
+				},
+				{
+					"key": "allocation-122435",
+					"startAt": "2026-05-28T20:35:29.807Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sda_use_gql-122435-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9990
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "shadow",
+							"shards": [
+								{
+									"salt": "sda_use_gql-122435-split",
+									"ranges": [
+										{
+											"start": 9990,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
 				},
 				{
 					"key": "allocation-114746",
@@ -4437,8 +4473,20 @@
 					"key": "forza6-05-22-26",
 					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n      \"B0GLJC6XL7\",\n      \"B0GHC1548X\"\n  ],\n  \"tracking_id\": {}\n}"
 				},
+				"forza05-28-26": {
+					"key": "forza05-28-26",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": \"B0GHCJ1WLV\",\n  \"tracking_id\": {}\n}"
+				},
 				"elf05-28-26": {
 					"key": "elf05-28-26",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0G1GZS1RV\",\n    \"B0DHRQXYCH\",\n    \"B0C7W6GW8P\",\n    \"B0D442G15L\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"forza05-28-262": {
+					"key": "forza05-28-262",
+					"value": "{\n  \"asin\": \"B0GHCJ1WLV\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
+				},
+				"elfmoreplants": {
+					"key": "elfmoreplants",
 					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0G1GZS1RV\",\n    \"B0DHRQXYCH\",\n    \"B0C7W6GW8P\",\n    \"B0D442G15L\"\n  ],\n  \"tracking_id\": {}\n}"
 				}
 			},
@@ -5607,7 +5655,7 @@
 				},
 				{
 					"key": "allocation-121172",
-					"startAt": "2026-05-26T21:57:10.801Z",
+					"startAt": "2026-05-28T21:34:32.062Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5621,7 +5669,8 @@
 								},
 								{
 									"value": [
-										"US"
+										"US",
+										"CA"
 									],
 									"operator": "ONE_OF",
 									"attribute": "marketplace"
@@ -5649,6 +5698,62 @@
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-121172-split",
+									"ranges": [
+										{
+											"start": 1,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-122451",
+					"startAt": "2026-05-28T20:55:11.442Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3EMki1DQf37htoltu3zq1ZMGMAf"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-122451-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "forza05-28-262",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-122451-split",
 									"ranges": [
 										{
 											"start": 1,
