@@ -2920,42 +2920,6 @@
 			"entityId": 145,
 			"allocations": [
 				{
-					"key": "allocation-114053",
-					"startAt": "2026-05-01T18:13:43.847Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "bits-cheer-visibility-114053-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "bits-cheer-visibility-114053-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-110480",
 					"startAt": "2026-04-21T16:13:54.098Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -3613,7 +3577,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -5996,7 +5960,7 @@
 			"allocations": [
 				{
 					"key": "allocation-121163",
-					"startAt": "2026-05-26T21:29:44.921Z",
+					"startAt": "2026-05-28T19:31:08.487Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -6024,6 +5988,87 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
+								},
+								{
+									"value": [
+										"ios",
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								},
+								{
+									"value": "29.6.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"104354422",
+										"48276979",
+										"1437558751",
+										"158937397",
+										"1437983493",
+										"780384994",
+										"657402127",
+										"176749346",
+										"121650561",
+										"856674156",
+										"1240503223",
+										"801633250",
+										"887968459",
+										"1290332340",
+										"414673216",
+										"804921426",
+										"981537436",
+										"89614178"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								},
+								{
+									"value": [
+										"twilight"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"104354422",
+										"48276979",
+										"1437558751",
+										"158937397",
+										"1437983493",
+										"780384994",
+										"657402127",
+										"176749346",
+										"121650561",
+										"856674156",
+										"1240503223",
+										"801633250",
+										"887968459",
+										"1290332340",
+										"414673216",
+										"804921426",
+										"981537436",
+										"89614178"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								},
+								{
+									"value": true,
+									"operator": "IS_NULL",
+									"attribute": "client_app"
 								}
 							]
 						}
@@ -6347,7 +6392,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -12010,48 +12055,12 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-97506",
-					"startAt": "2026-03-09T22:00:00.000Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "cdml-ung-ossmd-97506-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant",
-							"shards": [
-								{
-									"salt": "cdml-ung-ossmd-97506-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-70979",
 					"startAt": "2025-11-24T23:16:53.073Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "variant",
 							"shards": []
 						}
 					],
