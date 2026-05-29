@@ -1650,87 +1650,6 @@
 				}
 			]
 		},
-		"sda_use_gql": {
-			"key": "sda_use_gql",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				},
-				"shadow": {
-					"key": "shadow",
-					"value": "shadow"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-121159",
-					"startAt": "2026-05-28T20:19:35.402Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"0bwNER6j9MhjhLfiTVpwpt7MxOspeK6h"
-									],
-									"operator": "ONE_OF",
-									"attribute": "device_id"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"0bwNER6j9MhjhLfiTVpwpt7MxOspeK6h"
-									],
-									"operator": "ONE_OF",
-									"attribute": "deviceID"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "shadow",
-							"shards": [
-								{
-									"salt": "sda_use_gql-121159-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-114746",
-					"startAt": "2026-05-04T21:01:55.657Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"live_payments_banners": {
 			"key": "live_payments_banners",
 			"enabled": true,
@@ -4603,6 +4522,10 @@
 				"elfmoreplants": {
 					"key": "elfmoreplants",
 					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0G1GZS1RV\",\n    \"B0DHRQXYCH\",\n    \"B0C7W6GW8P\",\n    \"B0D442G15L\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"forza05-28-26-32a81": {
+					"key": "forza05-28-26-32a81",
+					"value": "{\n  \"asin\": \"B0GHCJ1WLV\",\n  \"asins\": [],\n  \"tracking_id\": {\n      \"90018770\": \"squishymuffinz\"\n  }\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -5713,7 +5636,7 @@
 				},
 				{
 					"key": "allocation-120532",
-					"startAt": "2026-05-22T17:33:48.268Z",
+					"startAt": "2026-05-29T15:27:26.973Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5721,7 +5644,8 @@
 								{
 									"value": [
 										"campaign.3E2OQJz6VyoUCFDsScLAYmppx1o",
-										"campaign.3E2LnxX0T6KM11nO6737ThSLouS"
+										"campaign.3E2LnxX0T6KM11nO6737ThSLouS",
+										"campaign.3EMn29v5dxVSDK6IxAn8XCM4UkY"
 									],
 									"operator": "ONE_OF",
 									"attribute": "campaign_id"
@@ -5827,7 +5751,7 @@
 				},
 				{
 					"key": "allocation-122451",
-					"startAt": "2026-05-28T20:55:11.442Z",
+					"startAt": "2026-05-29T15:38:14.254Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5865,7 +5789,7 @@
 							]
 						},
 						{
-							"variationKey": "forza05-28-262",
+							"variationKey": "forza05-28-26-32a81",
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-122451-split",
