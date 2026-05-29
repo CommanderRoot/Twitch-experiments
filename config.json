@@ -1718,42 +1718,6 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-122435",
-					"startAt": "2026-05-28T20:35:29.807Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sda_use_gql-122435-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9990
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "shadow",
-							"shards": [
-								{
-									"salt": "sda_use_gql-122435-split",
-									"ranges": [
-										{
-											"start": 9990,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-114746",
 					"startAt": "2026-05-04T21:01:55.657Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
