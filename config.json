@@ -4371,6 +4371,37 @@
 				}
 			]
 		},
+		"funny-potato-cat": {
+			"key": "funny-potato-cat",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-122487",
+					"startAt": "2026-05-28T21:54:48.532Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"apple-clementine": {
 			"key": "apple-clementine",
 			"enabled": true,
