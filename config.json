@@ -14830,7 +14830,7 @@
 				},
 				{
 					"key": "allocation-122917",
-					"startAt": "2026-05-30T09:22:54.082Z",
+					"startAt": "2026-05-30T10:18:21.899Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14849,15 +14849,6 @@
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "modiversary-callout-122917-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3500
-										}
-									]
-								},
 								{
 									"salt": "modiversary-callout-122917-split",
 									"ranges": [
