@@ -317,6 +317,72 @@
 				}
 			]
 		},
+		"watch_streaks_setting": {
+			"key": "watch_streaks_setting",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-119341",
+					"startAt": "2026-05-19T18:23:49.191Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"48276979"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "watch_streaks_setting-119341-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-119037",
+					"startAt": "2026-05-18T22:22:27.590Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"two-column-checkout": {
 			"key": "two-column-checkout",
 			"enabled": true,
@@ -1615,6 +1681,123 @@
 				}
 			]
 		},
+		"sda_use_gql": {
+			"key": "sda_use_gql",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				},
+				"shadow": {
+					"key": "shadow",
+					"value": "shadow"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-121159",
+					"startAt": "2026-05-28T20:19:35.402Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"0bwNER6j9MhjhLfiTVpwpt7MxOspeK6h"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"0bwNER6j9MhjhLfiTVpwpt7MxOspeK6h"
+									],
+									"operator": "ONE_OF",
+									"attribute": "deviceID"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "shadow",
+							"shards": [
+								{
+									"salt": "sda_use_gql-121159-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-123246",
+					"startAt": "2026-06-01T20:34:45.299Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sda_use_gql-123246-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9990
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "shadow",
+							"shards": [
+								{
+									"salt": "sda_use_gql-123246-split",
+									"ranges": [
+										{
+											"start": 9990,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-114746",
+					"startAt": "2026-05-04T21:01:55.657Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"live_payments_banners": {
 			"key": "live_payments_banners",
 			"enabled": true,
@@ -1655,6 +1838,37 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"blatantly-bulky-recycling-captains": {
+			"key": "blatantly-bulky-recycling-captains",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-123223",
+					"startAt": "2026-06-01T20:21:55.750Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -2263,7 +2477,7 @@
 			"allocations": [
 				{
 					"key": "allocation-112152",
-					"startAt": "2026-06-01T17:00:00.000Z",
+					"startAt": "2026-06-01T21:39:05.438Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -2274,7 +2488,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9900
+											"end": 9000
 										}
 									]
 								}
@@ -2287,7 +2501,7 @@
 									"salt": "pelly-rollout-112152-split",
 									"ranges": [
 										{
-											"start": 9900,
+											"start": 9000,
 											"end": 10000
 										}
 									]
@@ -5494,7 +5708,7 @@
 				},
 				{
 					"key": "allocation-115034",
-					"startAt": "2026-05-06T22:50:25.326Z",
+					"startAt": "2026-06-01T21:11:18.789Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5509,8 +5723,7 @@
 								},
 								{
 									"value": [
-										"US",
-										"CA"
+										"US"
 									],
 									"operator": "ONE_OF",
 									"attribute": "marketplace"
@@ -6869,62 +7082,12 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-116560",
-					"startAt": "2026-05-08T19:59:46.830Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "candle_shop-116560-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "candle_shop-116560-split",
-									"ranges": [
-										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment_with_popular",
-							"shards": [
-								{
-									"salt": "candle_shop-116560-split",
-									"ranges": [
-										{
-											"start": 6666,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-105183",
 					"startAt": "2026-04-02T22:35:25.524Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment_with_popular",
 							"shards": []
 						}
 					],
