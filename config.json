@@ -1220,6 +1220,37 @@
 				}
 			]
 		},
+		"checkout_redesign": {
+			"key": "checkout_redesign",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-116232",
+					"startAt": "2026-05-07T23:24:38.518Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"am_baseline_enabled": {
 			"key": "am_baseline_enabled",
 			"enabled": true,
@@ -2213,6 +2244,73 @@
 				}
 			]
 		},
+		"pelly-rollout": {
+			"key": "pelly-rollout",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-112152",
+					"startAt": "2026-06-01T17:00:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "pelly-rollout-112152-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9900
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "pelly-rollout-112152-split",
+									"ranges": [
+										{
+											"start": 9900,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-112149",
+					"startAt": "2026-04-26T02:09:01.670Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"parco-web": {
 			"key": "parco-web",
 			"enabled": true,
@@ -2548,59 +2646,6 @@
 					"splits": [
 						{
 							"variationKey": "treatment",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"next-up": {
-			"key": "next-up",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"variant1": {
-					"key": "variant1",
-					"value": "variant1"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-118879",
-					"startAt": "2026-05-25T15:04:25.260Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "variant1",
-							"shards": [
-								{
-									"salt": "next-up-118879-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-88641",
-					"startAt": "2026-02-03T18:09:54.045Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -8038,6 +8083,45 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"hilarious-hairy-hyenas": {
+			"key": "hilarious-hairy-hyenas",
+			"enabled": true,
+			"variationType": "NUMERIC",
+			"variations": {
+				"10": {
+					"key": "10",
+					"value": 10
+				},
+				"30": {
+					"key": "30",
+					"value": 30
+				},
+				"60": {
+					"key": "60",
+					"value": 60
+				},
+				"120": {
+					"key": "120",
+					"value": 120
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 1026,
+			"allocations": [
+				{
+					"key": "allocation-122847",
+					"startAt": "2026-05-29T21:08:29.165Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "10",
 							"shards": []
 						}
 					],
