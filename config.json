@@ -1943,6 +1943,37 @@
 				}
 			]
 		},
+		"pineapple-candy-snail": {
+			"key": "pineapple-candy-snail",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-123311",
+					"startAt": "2026-06-01T22:49:44.418Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"ios_candlelight_com_t2_t3_subs": {
 			"key": "ios_candlelight_com_t2_t3_subs",
 			"enabled": true,
@@ -2477,7 +2508,7 @@
 			"allocations": [
 				{
 					"key": "allocation-112152",
-					"startAt": "2026-06-01T21:39:05.438Z",
+					"startAt": "2026-06-01T22:58:57.659Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -2488,7 +2519,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9000
+											"end": 8500
 										}
 									]
 								}
@@ -2501,7 +2532,7 @@
 									"salt": "pelly-rollout-112152-split",
 									"ranges": [
 										{
-											"start": 9000,
+											"start": 8500,
 											"end": 10000
 										}
 									]
@@ -8284,7 +8315,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "10",
+							"variationKey": "120",
 							"shards": []
 						}
 					],
