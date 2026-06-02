@@ -4493,6 +4493,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-123332",
+					"startAt": "2026-06-01T23:42:14.960Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"852541026"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "funny-potato-cat-123332-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-122487",
 					"startAt": "2026-05-28T21:54:48.532Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
