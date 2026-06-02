@@ -3863,6 +3863,77 @@
 				}
 			]
 		},
+		"ivs-web-broadcast-distribution": {
+			"key": "ivs-web-broadcast-distribution",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"base": {
+					"key": "base",
+					"value": "base"
+				},
+				"variant-a": {
+					"key": "variant-a",
+					"value": "variant-a"
+				},
+				"variant-b": {
+					"key": "variant-b",
+					"value": "variant-b"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-48233",
+					"startAt": "2026-06-02T13:45:13.883Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "variant-a",
+							"shards": [
+								{
+									"salt": "ivs-web-broadcast-distribution-48233-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant-b",
+							"shards": [
+								{
+									"salt": "ivs-web-broadcast-distribution-48233-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-47731",
+					"startAt": "2025-08-27T19:05:45.085Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "base",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"hide-venmo-web": {
 			"key": "hide-venmo-web",
 			"enabled": true,
@@ -4782,6 +4853,10 @@
 				"forza05-28-26-32a81": {
 					"key": "forza05-28-26-32a81",
 					"value": "{\n  \"asin\": \"B0GHCJ1WLV\",\n  \"asins\": [],\n  \"tracking_id\": {\n      \"90018770\": \"squishymuffinz\"\n  }\n}"
+				},
+				"nike-demo": {
+					"key": "nike-demo",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0H1R2HJ8N\",\n    \"B0H1QSM9YF\",\n    \"B0H1R22SRR\"\n  ],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -4789,7 +4864,7 @@
 			"allocations": [
 				{
 					"key": "allocation-64163",
-					"startAt": "2026-02-24T21:34:32.002Z",
+					"startAt": "2026-06-02T14:04:43.108Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4798,7 +4873,8 @@
 									"value": [
 										"campaign.35IvEBvz9Im01aZYU7BlXrHJhh4",
 										"campaign.35Udb4ulryaqzXfwfhWzPVEkDoH",
-										"campaign.36f8anz68gQ0nQ2NeC50XCyNCns"
+										"campaign.36f8anz68gQ0nQ2NeC50XCyNCns",
+										"campaign.3EaF36tr9pQ58OPCYrWuAP6vo2g"
 									],
 									"operator": "ONE_OF",
 									"attribute": "campaign_id"
@@ -14801,77 +14877,6 @@
 					"splits": [
 						{
 							"variationKey": "treatment",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"ivs-web-broadcast-distribution": {
-			"key": "ivs-web-broadcast-distribution",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"base": {
-					"key": "base",
-					"value": "base"
-				},
-				"variant-a": {
-					"key": "variant-a",
-					"value": "variant-a"
-				},
-				"variant-b": {
-					"key": "variant-b",
-					"value": "variant-b"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-48233",
-					"startAt": "2026-05-29T21:04:53.337Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "variant-a",
-							"shards": [
-								{
-									"salt": "ivs-web-broadcast-distribution-48233-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant-b",
-							"shards": [
-								{
-									"salt": "ivs-web-broadcast-distribution-48233-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-47731",
-					"startAt": "2025-08-27T19:05:45.085Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "base",
 							"shards": []
 						}
 					],
