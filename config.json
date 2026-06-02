@@ -2507,32 +2507,27 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-112152",
-					"startAt": "2026-06-01T22:58:57.659Z",
+					"key": "allocation-123660",
+					"startAt": "2026-06-02T17:20:11.969Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "pelly-rollout-112152-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 8500
-										}
-									]
-								}
-							]
-						},
 						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "pelly-rollout-112152-split",
+									"salt": "pelly-rollout-123660-traffic",
 									"ranges": [
 										{
-											"start": 8500,
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "pelly-rollout-123660-split",
+									"ranges": [
+										{
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -2540,7 +2535,7 @@
 							]
 						}
 					],
-					"doLog": true
+					"doLog": false
 				},
 				{
 					"key": "allocation-112149",
@@ -4748,7 +4743,7 @@
 				},
 				"amazon-basics-multi-asin": {
 					"key": "amazon-basics-multi-asin",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0CCTHVRZY\", \"B0BTXZJYB7\", \"B09HHBQKW5\", \"B0BTX3QR46\", \"B0BTX19RSY\", \"B09HH93G5N\", \"B0CCTN6HDN\", \"B0CCTHVS1D\", \"B0CCTKQ2MB\"],\n  \"tracking_id\": {}\n}"
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0CCTHVRZY\", \"B0BTXZJYB7\", \"B09HHBQKW5\", \"B0BTX3QR46\", \"B0BTX19RSY\", \"B09HH93G5N\", \"B0CCTN6HDN\", \"B0CCTHVS1D\", \"B0CCTKQ2MB\", \"B0DZPCPN3Q\", \"B0FMXNJGM9\", \"B0FPM7GPLH\"],\n  \"tracking_id\": {}\n}"
 				},
 				"amazon-basics-single-asin": {
 					"key": "amazon-basics-single-asin",
@@ -6701,6 +6696,41 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"live_notification_campaigns": {
+			"key": "live_notification_campaigns",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\"\n  ]\n}"
+				},
+				"control-dev-staging": {
+					"key": "control-dev-staging",
+					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\"\n  ]\n}"
+				},
+				"empty": {
+					"key": "empty",
+					"value": "{\n    \"campaigns\": []\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-112833",
+					"startAt": "2026-04-28T17:38:47.419Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
