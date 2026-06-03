@@ -5463,7 +5463,7 @@
 				},
 				"nike-demo": {
 					"key": "nike-demo",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0H1R2HJ8N\",\n    \"B0H1QSM9YF\",\n    \"B0H1R22SRR\"\n  ],\n  \"tracking_id\": {}\n}"
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0H3QTFMG4\",\n    \"B0H3R31LBB\",\n    \"B0H3QZBYF9\"\n  ],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -5529,7 +5529,7 @@
 				},
 				{
 					"key": "allocation-64163",
-					"startAt": "2026-06-02T14:04:43.108Z",
+					"startAt": "2026-06-03T13:40:20.582Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5556,7 +5556,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "amazon-basics-multi-asin",
+							"variationKey": "nike-demo",
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-64163-split",
