@@ -227,21 +227,25 @@
 			"allocations": [
 				{
 					"key": "allocation-124288",
-					"startAt": "2026-06-03T19:20:39.870Z",
+					"startAt": "2026-06-03T19:58:19.643Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
 					"splits": [
 						{
 							"variationKey": "both",
 							"shards": [
-								{
-									"salt": "Candlelight-Hype-Train-Landscape-Availability-String-124288-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "Candlelight-Hype-Train-Landscape-Availability-String-124288-split",
 									"ranges": [
@@ -1315,6 +1319,68 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"seal-cat-cow": {
+			"key": "seal-cat-cow",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-124448",
+					"startAt": "2026-06-03T22:04:13.835Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "seal-cat-cow-124448-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								},
+								{
+									"salt": "seal-cat-cow-124448-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-112568",
+					"startAt": "2026-04-27T21:38:04.102Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -4503,37 +4569,6 @@
 					"splits": [
 						{
 							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"seal-cat-cow": {
-			"key": "seal-cat-cow",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-112568",
-					"startAt": "2026-04-27T21:38:04.102Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
 							"shards": []
 						}
 					],
