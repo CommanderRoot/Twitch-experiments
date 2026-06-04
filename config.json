@@ -823,6 +823,72 @@
 				}
 			]
 		},
+		"premium-events-sponsorship-costream": {
+			"key": "premium-events-sponsorship-costream",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-124413",
+					"startAt": "2026-06-03T20:51:08.895Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"657055705"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "premium-events-sponsorship-costream-124413-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-124404",
+					"startAt": "2026-06-03T20:34:28.099Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"enable-google-pay-web": {
 			"key": "enable-google-pay-web",
 			"enabled": true,
@@ -2343,9 +2409,20 @@
 			"allocations": [
 				{
 					"key": "allocation-110147",
-					"startAt": "2026-04-20T20:11:20.528Z",
+					"startAt": "2026-06-04T18:41:59.262Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"657055705"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						},
 						{
 							"conditions": [
 								{
@@ -14297,6 +14374,72 @@
 				{
 					"key": "allocation-94202",
 					"startAt": "2026-02-25T01:43:12.267Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"funny-potato-cat-boy": {
+			"key": "funny-potato-cat-boy",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-124467",
+					"startAt": "2026-06-03T22:24:58.765Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"852541026"
+									],
+									"operator": "ONE_OF",
+									"attribute": "channel_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "funny-potato-cat-boy-124467-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-124136",
+					"startAt": "2026-06-03T16:23:49.022Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
