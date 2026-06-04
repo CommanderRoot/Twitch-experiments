@@ -2762,7 +2762,7 @@
 			"allocations": [
 				{
 					"key": "allocation-123660",
-					"startAt": "2026-06-04T16:27:48.993Z",
+					"startAt": "2026-06-04T23:05:50.397Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -2773,7 +2773,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 4000
+											"end": 5000
 										}
 									]
 								},
@@ -4663,7 +4663,7 @@
 			"allocations": [
 				{
 					"key": "allocation-122420",
-					"startAt": "2026-06-02T22:31:16.430Z",
+					"startAt": "2026-06-04T23:23:32.417Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -4674,7 +4674,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9900
+											"end": 9500
 										}
 									]
 								}
@@ -4687,7 +4687,7 @@
 									"salt": "adedge_privacy_ad_drop-122420-split",
 									"ranges": [
 										{
-											"start": 9900,
+											"start": 9500,
 											"end": 10000
 										}
 									]
