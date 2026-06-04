@@ -2685,7 +2685,7 @@
 			"allocations": [
 				{
 					"key": "allocation-123660",
-					"startAt": "2026-06-02T21:43:12.080Z",
+					"startAt": "2026-06-04T16:27:48.993Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -2696,7 +2696,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 3300
+											"end": 4000
 										}
 									]
 								},
@@ -5555,7 +5555,7 @@
 				},
 				"nike-demo": {
 					"key": "nike-demo",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0H3QTFMG4\",\n    \"B0H3R31LBB\",\n    \"B0H3QZBYF9\"\n  ],\n  \"tracking_id\": {}\n}"
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0FPCF76NB\",\n    \"B0FPCC52SK\",\n    \"B0FPCHZ4K7\",\n    \"B0FPCG2J22\"\n  ],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -7851,6 +7851,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-124790",
+					"startAt": "2026-06-04T16:13:35.648Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "both",
+							"shards": [
+								{
+									"salt": "Candlelight-Hype-Train-Landscape-124790-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-109392",
 					"startAt": "2026-06-03T19:19:14.066Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -7960,7 +7995,7 @@
 			"allocations": [
 				{
 					"key": "allocation-123888",
-					"startAt": "2026-06-04T00:06:08.762Z",
+					"startAt": "2026-06-04T16:11:58.538Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7981,9 +8016,10 @@
 										"587714777",
 										"138478905",
 										"279313887",
-										"825113452"
+										"825113452",
+										"103522124"
 									],
-									"operator": "NOT_ONE_OF",
+									"operator": "ONE_OF",
 									"attribute": "user_id"
 								}
 							]
@@ -7991,7 +8027,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "gamelift_page_release-123888-split",
@@ -8009,7 +8045,7 @@
 				},
 				{
 					"key": "allocation-101537",
-					"startAt": "2026-05-29T18:38:40.347Z",
+					"startAt": "2026-06-04T16:12:20.990Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8059,6 +8095,13 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
+								},
+								{
+									"value": [
+										"proto"
+									],
+									"operator": "NOT_ONE_OF",
+									"attribute": "game_title"
 								}
 							]
 						},
@@ -8080,10 +8123,18 @@
 										"1500536076",
 										"427785799",
 										"469978115",
-										"49085819"
+										"49085819",
+										"65753187"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
+								},
+								{
+									"value": [
+										"proto"
+									],
+									"operator": "NOT_ONE_OF",
+									"attribute": "game_title"
 								}
 							]
 						}
@@ -14250,72 +14301,6 @@
 					"splits": [
 						{
 							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"funny-potato-cat-boy": {
-			"key": "funny-potato-cat-boy",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-124467",
-					"startAt": "2026-06-03T22:24:58.765Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"852541026"
-									],
-									"operator": "ONE_OF",
-									"attribute": "channel_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "funny-potato-cat-boy-124467-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-124136",
-					"startAt": "2026-06-03T16:23:49.022Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
 							"shards": []
 						}
 					],
