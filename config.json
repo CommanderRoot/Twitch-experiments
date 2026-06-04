@@ -7960,7 +7960,7 @@
 			"allocations": [
 				{
 					"key": "allocation-123888",
-					"startAt": "2026-06-03T22:54:43.187Z",
+					"startAt": "2026-06-04T00:06:08.762Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7980,7 +7980,8 @@
 										"1494900593",
 										"587714777",
 										"138478905",
-										"279313887"
+										"279313887",
+										"825113452"
 									],
 									"operator": "NOT_ONE_OF",
 									"attribute": "user_id"
@@ -8301,7 +8302,7 @@
 				}
 			},
 			"totalShards": 10000,
-			"entityId": 143,
+			"entityId": 144,
 			"allocations": [
 				{
 					"key": "allocation-118333",
