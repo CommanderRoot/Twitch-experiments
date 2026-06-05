@@ -2762,21 +2762,12 @@
 			"allocations": [
 				{
 					"key": "allocation-123660",
-					"startAt": "2026-06-05T01:42:20.414Z",
+					"startAt": "2026-06-05T03:48:13.674Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "pelly-rollout-123660-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 8500
-										}
-									]
-								},
 								{
 									"salt": "pelly-rollout-123660-split",
 									"ranges": [
@@ -2797,7 +2788,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": []
 						}
 					],
@@ -4663,7 +4654,7 @@
 			"allocations": [
 				{
 					"key": "allocation-122420",
-					"startAt": "2026-06-05T01:10:52.471Z",
+					"startAt": "2026-06-05T05:42:14.944Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -4674,7 +4665,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 7500
+											"end": 2500
 										}
 									]
 								}
@@ -4687,7 +4678,7 @@
 									"salt": "adedge_privacy_ad_drop-122420-split",
 									"ranges": [
 										{
-											"start": 7500,
+											"start": 2500,
 											"end": 10000
 										}
 									]
