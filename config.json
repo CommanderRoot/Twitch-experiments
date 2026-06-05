@@ -7209,37 +7209,6 @@
 				}
 			]
 		},
-		"mobile-web-platform-detail": {
-			"key": "mobile-web-platform-detail",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-111273",
-					"startAt": "2026-04-23T02:28:35.368Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"Candlelight-Hype-Train-Landscape": {
 			"key": "Candlelight-Hype-Train-Landscape",
 			"enabled": true,
@@ -7808,6 +7777,60 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-125504",
+					"startAt": "2026-06-05T22:27:50.066Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "opt_in",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
 				{
 					"key": "allocation-118202",
 					"startAt": "2026-05-14T19:24:00.368Z",
@@ -12056,37 +12079,6 @@
 				{
 					"key": "allocation-68022",
 					"startAt": "2025-11-14T20:20:47.460Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"twilight_bits_more_get_bits_buttons": {
-			"key": "twilight_bits_more_get_bits_buttons",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-74427",
-					"startAt": "2025-12-09T18:51:15.026Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
