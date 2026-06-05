@@ -4653,32 +4653,18 @@
 			"entityId": 144,
 			"allocations": [
 				{
-					"key": "allocation-122420",
-					"startAt": "2026-06-05T05:42:14.944Z",
+					"key": "allocation-125119",
+					"startAt": "2026-06-05T07:11:52.219Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "adedge_privacy_ad_drop-122420-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								}
-							]
-						},
 						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "adedge_privacy_ad_drop-122420-split",
+									"salt": "adedge_privacy_ad_drop-125119-split",
 									"ranges": [
 										{
-											"start": 2500,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -4686,7 +4672,7 @@
 							]
 						}
 					],
-					"doLog": true
+					"doLog": false
 				},
 				{
 					"key": "allocation-122417",
