@@ -4869,6 +4869,37 @@
 				}
 			]
 		},
+		"disco-bender-terminator": {
+			"key": "disco-bender-terminator",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-122831",
+					"startAt": "2026-05-29T20:40:25.043Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"targeted-gift-discount-web-ui": {
 			"key": "targeted-gift-discount-web-ui",
 			"enabled": true,
@@ -7972,37 +8003,6 @@
 					"splits": [
 						{
 							"variationKey": "treatment",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"disco-bender-terminator": {
-			"key": "disco-bender-terminator",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-122831",
-					"startAt": "2026-05-29T20:40:25.043Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
 							"shards": []
 						}
 					],
