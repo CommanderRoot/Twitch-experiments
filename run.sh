@@ -17,7 +17,7 @@ if [ -s config.json ]; then
 fi
 
 # Get global badges
-curl --connect-timeout 10 -s --compressed --request POST --header 'Client-Id: kimne78kx3ncx6brgo4mv6wki5h1ko' --header 'Content-Type: application/json' --data '{"query":"query GetGlobalBadges { badges { id setID version title description imageURL onClickAction clickURL }}","operationName":"GetGlobalBadges","variables":{}}' 'https://gql.twitch.tv/gql' | jq -M --tab 'del(.extensions)|.data.badges|sort_by(.title)' > global_badges.json
+curl --connect-timeout 10 -s --compressed --request POST --header 'Client-Id: kimne78kx3ncx6brgo4mv6wki5h1ko' --header 'Content-Type: application/json' --data '{"query":"query GetGlobalBadges { badges { id setID version title description imageURL onClickAction clickURL }}","operationName":"GetGlobalBadges","variables":{}}' 'https://gql.twitch.tv/gql' | jq -M --tab '.data.badges|sort_by(.title, .setID)' > global_badges.json
 if [ -s global_badges.json ]; then
 	git add global_badges.json && git commit -m 'Update global_badges.json'
 fi
