@@ -4145,7 +4145,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -4730,6 +4730,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"funny-potato-cat-mobile": {
+			"key": "funny-potato-cat-mobile",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-124889",
+					"startAt": "2026-06-04T18:45:24.445Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -7412,7 +7443,7 @@
 			"allocations": [
 				{
 					"key": "allocation-123888",
-					"startAt": "2026-06-05T00:10:34.343Z",
+					"startAt": "2026-06-08T20:57:37.300Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7439,7 +7470,8 @@
 										"1493402051",
 										"573205812",
 										"714650202",
-										"412379486"
+										"412379486",
+										"103811294"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
