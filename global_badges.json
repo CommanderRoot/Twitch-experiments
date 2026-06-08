@@ -2290,16 +2290,6 @@
 		"clickURL": "https://www.twitch.tv/overwatchleague"
 	},
 	{
-		"id": "b3ZlcndhdGNoLWxlYWd1ZS1pbnNpZGVyXzIwMTlCOzU7",
-		"setID": "overwatch-league-insider_2019B",
-		"version": "5",
-		"title": "OWL All-Access Pass 2019",
-		"description": "OWL All-Access Pass 2019",
-		"imageURL": "https://static-cdn.jtvnw.net/badges/v1/be87fd6d-1560-4e33-9ba4-2401b58d901f/1",
-		"onClickAction": "VISIT_URL",
-		"clickURL": "https://www.twitch.tv/overwatchleague"
-	},
-	{
 		"id": "b3ZlcndhdGNoLWxlYWd1ZS1pbnNpZGVyXzIwMTlCOzQ7",
 		"setID": "overwatch-league-insider_2019B",
 		"version": "4",
@@ -2336,6 +2326,16 @@
 		"title": "OWL All-Access Pass 2019",
 		"description": "OWL All-Access Pass 2019",
 		"imageURL": "https://static-cdn.jtvnw.net/badges/v1/c5860811-d714-4413-9433-d6b1c9fc803c/1",
+		"onClickAction": "VISIT_URL",
+		"clickURL": "https://www.twitch.tv/overwatchleague"
+	},
+	{
+		"id": "b3ZlcndhdGNoLWxlYWd1ZS1pbnNpZGVyXzIwMTlCOzU7",
+		"setID": "overwatch-league-insider_2019B",
+		"version": "5",
+		"title": "OWL All-Access Pass 2019",
+		"description": "OWL All-Access Pass 2019",
+		"imageURL": "https://static-cdn.jtvnw.net/badges/v1/be87fd6d-1560-4e33-9ba4-2401b58d901f/1",
 		"onClickAction": "VISIT_URL",
 		"clickURL": "https://www.twitch.tv/overwatchleague"
 	},
@@ -2880,6 +2880,16 @@
 		"clickURL": null
 	},
 	{
+		"id": "c29jaWFsLXNoYXJpbmc7MTs=",
+		"setID": "social-sharing",
+		"version": "1",
+		"title": "Social Media Badge",
+		"description": "This user earned a Icon badge for reaching 100 views on their social posts.",
+		"imageURL": "https://static-cdn.jtvnw.net/badges/v1/d2030c7e-c400-4605-a2cf-ce32bd06af8f/1",
+		"onClickAction": null,
+		"clickURL": null
+	},
+	{
 		"id": "c29jaWFsLXNoYXJpbmc7Mzs=",
 		"setID": "social-sharing",
 		"version": "3",
@@ -2896,16 +2906,6 @@
 		"title": "Social Media Badge",
 		"description": "This user earned a Pro badge for reaching 10000 views on their social posts.",
 		"imageURL": "https://static-cdn.jtvnw.net/badges/v1/fcca0804-1da5-4d00-ab06-7677676d4d8e/1",
-		"onClickAction": null,
-		"clickURL": null
-	},
-	{
-		"id": "c29jaWFsLXNoYXJpbmc7MTs=",
-		"setID": "social-sharing",
-		"version": "1",
-		"title": "Social Media Badge",
-		"description": "This user earned a Icon badge for reaching 100 views on their social posts.",
-		"imageURL": "https://static-cdn.jtvnw.net/badges/v1/d2030c7e-c400-4605-a2cf-ce32bd06af8f/1",
 		"onClickAction": null,
 		"clickURL": null
 	},
