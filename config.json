@@ -4604,41 +4604,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-122490",
-					"startAt": "2026-06-09T20:54:37.185Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"255679584"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "liveup_push_notification_high_relevance_grouping-122490-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-126329",
 					"startAt": "2026-06-09T20:56:05.892Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -7309,7 +7274,7 @@
 			"allocations": [
 				{
 					"key": "allocation-125400",
-					"startAt": "2026-06-09T20:49:42.139Z",
+					"startAt": "2026-06-09T22:29:21.548Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -7320,7 +7285,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 3000
+											"end": 5000
 										}
 									]
 								}
@@ -7333,7 +7298,7 @@
 									"salt": "brand_lift_v0-125400-split",
 									"ranges": [
 										{
-											"start": 3000,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -7514,6 +7479,41 @@
 				{
 					"key": "allocation-100563",
 					"startAt": "2026-03-18T18:05:44.524Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"huge-hungry-hippos": {
+			"key": "huge-hungry-hippos",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"24_hr_local_storage": {
+					"key": "24_hr_local_storage",
+					"value": "24_hr_local_storage"
+				},
+				"session_storage": {
+					"key": "session_storage",
+					"value": "session_storage"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-125969",
+					"startAt": "2026-06-08T21:50:10.574Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -7783,7 +7783,7 @@
 				},
 				{
 					"key": "allocation-101537",
-					"startAt": "2026-06-04T21:44:04.609Z",
+					"startAt": "2026-06-09T22:08:25.557Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7829,7 +7829,8 @@
 										"1461260999",
 										"1461240520",
 										"1483073600",
-										"1016611616"
+										"1016611616",
+										"163607265"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -7863,7 +7864,8 @@
 										"427785799",
 										"469978115",
 										"49085819",
-										"65753187"
+										"65753187",
+										"182868405"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -13624,6 +13626,37 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"stream_quality_widgets_dashboard": {
+			"key": "stream_quality_widgets_dashboard",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-121859",
+					"startAt": "2026-05-27T21:26:55.705Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
