@@ -7160,7 +7160,7 @@
 			"allocations": [
 				{
 					"key": "allocation-125400",
-					"startAt": "2026-06-05T20:01:29.393Z",
+					"startAt": "2026-06-09T19:12:41.257Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -7171,7 +7171,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 100
+											"end": 1500
 										}
 									]
 								}
@@ -7184,7 +7184,7 @@
 									"salt": "brand_lift_v0-125400-split",
 									"ranges": [
 										{
-											"start": 100,
+											"start": 1500,
 											"end": 10000
 										}
 									]
