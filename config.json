@@ -581,6 +581,72 @@
 				}
 			]
 		},
+		"social_auth_settings_page": {
+			"key": "social_auth_settings_page",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-126249",
+					"startAt": "2026-06-09T16:15:55.337Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"PL"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "social_auth_settings_page-126249-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-119848",
+					"startAt": "2026-05-20T21:21:54.552Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"gifting-auto-celebrations": {
 			"key": "gifting-auto-celebrations",
 			"enabled": true,
@@ -4539,14 +4605,15 @@
 			"allocations": [
 				{
 					"key": "allocation-122490",
-					"startAt": "2026-05-28T22:03:19.190Z",
+					"startAt": "2026-06-09T17:24:51.788Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"255679584"
+										"255679584",
+										"130939584"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -7074,6 +7141,73 @@
 				}
 			]
 		},
+		"brand_lift_v0": {
+			"key": "brand_lift_v0",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-125400",
+					"startAt": "2026-06-05T20:01:29.393Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "brand_lift_v0-125400-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "brand_lift_v0-125400-split",
+									"ranges": [
+										{
+											"start": 100,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-85918",
+					"startAt": "2026-01-22T23:28:24.225Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"smart_notification_experiment_3_2026": {
 			"key": "smart_notification_experiment_3_2026",
 			"enabled": true,
@@ -7443,7 +7577,7 @@
 			"allocations": [
 				{
 					"key": "allocation-123888",
-					"startAt": "2026-06-08T20:57:37.300Z",
+					"startAt": "2026-06-09T17:39:01.006Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7471,7 +7605,8 @@
 										"573205812",
 										"714650202",
 										"412379486",
-										"103811294"
+										"103811294",
+										"1374201479"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
