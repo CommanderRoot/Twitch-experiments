@@ -4605,15 +4605,14 @@
 			"allocations": [
 				{
 					"key": "allocation-122490",
-					"startAt": "2026-06-09T17:24:51.788Z",
+					"startAt": "2026-06-09T20:54:37.185Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"255679584",
-										"130939584"
+										"255679584"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -4638,6 +4637,125 @@
 						}
 					],
 					"doLog": false
+				},
+				{
+					"key": "allocation-126329",
+					"startAt": "2026-06-09T20:56:05.892Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"255679584"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "liveup_push_notification_high_relevance_grouping-126329-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "liveup_push_notification_high_relevance_grouping-126329-split",
+									"ranges": [
+										{
+											"start": 100,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-126330",
+					"startAt": "2026-06-09T20:55:34.007Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"49128729",
+										"657402127",
+										"887968459",
+										"740017425",
+										"856674156",
+										"23429329",
+										"600230252",
+										"255679584",
+										"84410157",
+										"772993767",
+										"516627682",
+										"72251025",
+										"134158252",
+										"1391104520",
+										"1391104840",
+										"59759544",
+										"130939584",
+										"446871600",
+										"20354020",
+										"487226745",
+										"72182602",
+										"1383209811"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "liveup_push_notification_high_relevance_grouping-126330-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "liveup_push_notification_high_relevance_grouping-126330-split",
+									"ranges": [
+										{
+											"start": 100,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
 				},
 				{
 					"key": "allocation-122485",
@@ -4867,6 +4985,37 @@
 					"splits": [
 						{
 							"variationKey": "120000",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"toyota-public-recycling-captain-modular": {
+			"key": "toyota-public-recycling-captain-modular",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-126283",
+					"startAt": "2026-06-09T18:23:10.893Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -7160,7 +7309,7 @@
 			"allocations": [
 				{
 					"key": "allocation-125400",
-					"startAt": "2026-06-09T19:12:41.257Z",
+					"startAt": "2026-06-09T20:49:42.139Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -7171,7 +7320,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1500
+											"end": 3000
 										}
 									]
 								}
@@ -7184,7 +7333,7 @@
 									"salt": "brand_lift_v0-125400-split",
 									"ranges": [
 										{
-											"start": 1500,
+											"start": 3000,
 											"end": 10000
 										}
 									]
@@ -12539,7 +12688,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
