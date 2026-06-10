@@ -2924,7 +2924,7 @@
 			"allocations": [
 				{
 					"key": "allocation-108514",
-					"startAt": "2026-06-05T11:58:47.602Z",
+					"startAt": "2026-06-10T00:31:33.479Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2934,7 +2934,8 @@
 										"686753492",
 										"1507749329",
 										"1051986708",
-										"1508172426"
+										"1508172426",
+										"55696719"
 									],
 									"operator": "ONE_OF",
 									"attribute": "userID"
@@ -4055,7 +4056,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-06-02T13:45:13.883Z",
+					"startAt": "2026-06-10T00:10:14.739Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -4066,7 +4067,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								}
@@ -4079,7 +4080,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 500,
 											"end": 10000
 										}
 									]
