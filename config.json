@@ -2518,14 +2518,15 @@
 			"allocations": [
 				{
 					"key": "allocation-110147",
-					"startAt": "2026-06-04T18:41:59.262Z",
+					"startAt": "2026-06-10T22:34:05.767Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"657055705"
+										"657055705",
+										"119316908"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -2568,7 +2569,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -2924,7 +2925,7 @@
 			"allocations": [
 				{
 					"key": "allocation-108514",
-					"startAt": "2026-06-10T21:50:22.590Z",
+					"startAt": "2026-06-10T22:57:17.314Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2937,7 +2938,9 @@
 										"1508172426",
 										"55696719",
 										"23429329",
-										"922981550"
+										"922981550",
+										"1510659505",
+										"1510665110"
 									],
 									"operator": "ONE_OF",
 									"attribute": "userID"
@@ -3978,7 +3981,7 @@
 			"allocations": [
 				{
 					"key": "allocation-113697",
-					"startAt": "2026-05-19T16:35:00.857Z",
+					"startAt": "2026-06-10T22:35:53.552Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3995,7 +3998,8 @@
 										"264051522",
 										"119316908",
 										"232857387",
-										"108706200"
+										"108706200",
+										"478423395"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -4620,7 +4624,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "no-events",
+							"variationKey": "1-event",
 							"shards": []
 						}
 					],
