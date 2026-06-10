@@ -7900,6 +7900,48 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-126403",
+					"startAt": "2026-06-09T23:48:24.811Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								},
+								{
+									"value": [
+										"dragonage"
+									],
+									"operator": "ONE_OF",
+									"attribute": "game_title"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-126403-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-94142",
 					"startAt": "2026-05-29T20:29:14.478Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
