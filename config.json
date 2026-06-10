@@ -4587,6 +4587,45 @@
 				}
 			]
 		},
+		"promoted-events-config": {
+			"key": "promoted-events-config",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"no-events": {
+					"key": "no-events",
+					"value": "[]"
+				},
+				"1-event": {
+					"key": "1-event",
+					"value": "[{\"slug\":\"football-fest\",\"position\":0}]\n"
+				},
+				"2-events": {
+					"key": "2-events",
+					"value": "[\n  { \"slug\": \"esports-world-cup\", \"position\": 0, \"sponsored\": true },\n  { \"slug\": \"test-event\", \"position\": 3 }\n]\n"
+				},
+				"1-event-test-party": {
+					"key": "1-event-test-party",
+					"value": "[{\"slug\":\"demo-event\",\"position\":0}]\n"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-122461",
+					"startAt": "2026-05-28T21:07:18.868Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "no-events",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"liveup_push_notification_high_relevance_grouping": {
 			"key": "liveup_push_notification_high_relevance_grouping",
 			"enabled": true,
@@ -7275,7 +7314,7 @@
 			"allocations": [
 				{
 					"key": "allocation-125400",
-					"startAt": "2026-06-09T22:29:21.548Z",
+					"startAt": "2026-06-10T17:58:47.939Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -7286,7 +7325,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 7500
 										}
 									]
 								}
@@ -7299,7 +7338,7 @@
 									"salt": "brand_lift_v0-125400-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 7500,
 											"end": 10000
 										}
 									]
