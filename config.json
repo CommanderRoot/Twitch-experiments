@@ -2925,7 +2925,7 @@
 			"allocations": [
 				{
 					"key": "allocation-108514",
-					"startAt": "2026-06-10T23:36:27.059Z",
+					"startAt": "2026-06-12T20:45:00.060Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11436,6 +11436,37 @@
 							"shards": [
 								{
 									"salt": "cake-tea-chat-126758-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-128868",
+					"startAt": "2026-06-12T20:50:28.797Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "cake-tea-chat-128868-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "cake-tea-chat-128868-split",
 									"ranges": [
 										{
 											"start": 0,
