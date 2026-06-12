@@ -7994,7 +7994,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-06-11T19:02:25.481Z",
+					"startAt": "2026-06-12T15:08:09.196Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8032,7 +8032,7 @@
 									"ranges": [
 										{
 											"start": 98,
-											"end": 7450
+											"end": 5000
 										}
 									]
 								}
@@ -8045,7 +8045,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 7450,
+											"start": 5000,
 											"end": 9901
 										}
 									]
@@ -8179,8 +8179,8 @@
 			"allocations": [
 				{
 					"key": "allocation-125504",
-					"startAt": "2026-06-05T22:27:50.066Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
+					"startAt": "2026-06-15T17:00:00.000Z",
+					"endAt": "2026-06-15T17:05:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
@@ -8190,7 +8190,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 1000
 										}
 									]
 								},
@@ -8213,10 +8213,262 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 1000
 										}
 									]
 								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-125504",
+					"startAt": "2026-06-15T17:05:00.000Z",
+					"endAt": "2026-06-15T17:10:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "opt_in",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-125504",
+					"startAt": "2026-06-15T17:10:00.000Z",
+					"endAt": "2026-06-15T17:15:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 4000
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "opt_in",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 4000
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-125504",
+					"startAt": "2026-06-15T17:15:00.000Z",
+					"endAt": "2026-06-15T17:20:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 6000
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "opt_in",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 6000
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-125504",
+					"startAt": "2026-06-15T17:20:00.000Z",
+					"endAt": "2026-06-15T17:25:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 8000
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "opt_in",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 8000
+										}
+									]
+								},
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-125504",
+					"startAt": "2026-06-15T17:25:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "zillion-zipping-zebras-125504-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "opt_in",
+							"shards": [
 								{
 									"salt": "zillion-zipping-zebras-125504-split",
 									"ranges": [
