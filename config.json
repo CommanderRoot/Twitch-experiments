@@ -11450,21 +11450,12 @@
 				},
 				{
 					"key": "allocation-128868",
-					"startAt": "2026-06-12T20:50:28.797Z",
+					"startAt": "2026-06-12T21:11:49.856Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "cake-tea-chat-128868-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
 								{
 									"salt": "cake-tea-chat-128868-split",
 									"ranges": [
@@ -11485,7 +11476,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
