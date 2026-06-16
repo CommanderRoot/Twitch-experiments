@@ -1100,7 +1100,7 @@
 										"40819772",
 										"162436978",
 										"668632822",
-										"1337836906"
+										"596698560"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -1617,7 +1617,7 @@
 			"allocations": [
 				{
 					"key": "allocation-125355",
-					"startAt": "2026-06-15T21:49:18.418Z",
+					"startAt": "2026-06-16T22:30:18.852Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1628,7 +1628,8 @@
 										"52846770",
 										"89614178",
 										"48276979",
-										"101795822"
+										"101795822",
+										"1501520166"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -2775,7 +2776,7 @@
 			"allocations": [
 				{
 					"key": "allocation-108514",
-					"startAt": "2026-06-16T18:51:59.065Z",
+					"startAt": "2026-06-16T22:42:41.360Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2795,7 +2796,8 @@
 										"544934002",
 										"1467036921",
 										"1513496658",
-										"482643750"
+										"482643750",
+										"1513973851"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -7395,7 +7397,7 @@
 				},
 				{
 					"key": "allocation-101537",
-					"startAt": "2026-06-09T22:08:25.557Z",
+					"startAt": "2026-06-16T22:26:00.395Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7477,7 +7479,9 @@
 										"469978115",
 										"49085819",
 										"65753187",
-										"182868405"
+										"182868405",
+										"1513947890",
+										"1513948316"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -8330,57 +8334,6 @@
 					"splits": [
 						{
 							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"expiring_gift_promotion_dates": {
-			"key": "expiring_gift_promotion_dates",
-			"enabled": true,
-			"variationType": "JSON",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "{\n    \"ios_banner_url\":\"\",\n    \"start_at\": \"\",\n    \"end_at\": \"\",\n    \"promotion_name\": \"\",\n    \"discount_percent\": 35,\n    \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				},
-				"thanksgiving-2025": {
-					"key": "thanksgiving-2025",
-					"value": "{\n    \"ios_banner_url\":\"commerce/subtember-banner/gifts\",\n    \"start_at\": \"2025-11-26T18:00:00Z\",\n    \"end_at\": \"2025-12-01T18:00:00Z\",\n    \"promotion_name\": \"Nov2025Promotion\",\n    \"discount_percent\": 35,\n    \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				},
-				"swap-in-place-testing": {
-					"key": "swap-in-place-testing",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2025-11-11T18:00:00Z\",\n  \"end_at\": \"2027-12-09T18:00:00Z\",\n  \"promotion_name\": \"TestPromotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				},
-				"decenber-2025": {
-					"key": "decenber-2025",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2025-12-23T18:00:00Z\",\n  \"end_at\": \"2026-01-02T18:00:00Z\",\n  \"promotion_name\": \"Dec2025Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				},
-				"march-2026-beta-testing": {
-					"key": "march-2026-beta-testing",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-03-05T18:00:00Z\",\n  \"end_at\": \"2026-03-30T04:00:00Z\",\n  \"promotion_name\": \"March2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				},
-				"march-2026": {
-					"key": "march-2026",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-03-26T18:00:00Z\",\n  \"end_at\": \"2026-03-30T04:00:00Z\",\n  \"promotion_name\": \"March2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				},
-				"march-2026-new": {
-					"key": "march-2026-new",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-03-26T18:00:00Z\",\n  \"end_at\": \"2026-03-30T03:00:00Z\",\n  \"promotion_name\": \"March2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-67997",
-					"startAt": "2025-11-14T19:18:44.271Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "march-2026-new",
 							"shards": []
 						}
 					],
@@ -13345,6 +13298,72 @@
 				}
 			]
 		},
+		"eu_right_of_withdrawal_enabled": {
+			"key": "eu_right_of_withdrawal_enabled",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-130073",
+					"startAt": "2026-06-16T23:06:35.937Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1285233454"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "eu_right_of_withdrawal_enabled-130073-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-128887",
+					"startAt": "2026-06-12T21:08:40.695Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"pause-ads-trigger": {
 			"key": "pause-ads-trigger",
 			"enabled": true,
@@ -13578,45 +13597,6 @@
 					"splits": [
 						{
 							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"android_prominent_entry_point_copy": {
-			"key": "android_prominent_entry_point_copy",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment1": {
-					"key": "treatment1",
-					"value": "treatment1"
-				},
-				"treatment2": {
-					"key": "treatment2",
-					"value": "treatment2"
-				},
-				"treatment3": {
-					"key": "treatment3",
-					"value": "treatment3"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-98339",
-					"startAt": "2026-03-10T21:56:03.120Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -14078,6 +14058,61 @@
 				}
 			]
 		},
+		"expiring_gift_promotion_dates": {
+			"key": "expiring_gift_promotion_dates",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\n    \"ios_banner_url\":\"\",\n    \"start_at\": \"\",\n    \"end_at\": \"\",\n    \"promotion_name\": \"\",\n    \"discount_percent\": 35,\n    \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"thanksgiving-2025": {
+					"key": "thanksgiving-2025",
+					"value": "{\n    \"ios_banner_url\":\"commerce/subtember-banner/gifts\",\n    \"start_at\": \"2025-11-26T18:00:00Z\",\n    \"end_at\": \"2025-12-01T18:00:00Z\",\n    \"promotion_name\": \"Nov2025Promotion\",\n    \"discount_percent\": 35,\n    \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"swap-in-place-testing": {
+					"key": "swap-in-place-testing",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2025-11-11T18:00:00Z\",\n  \"end_at\": \"2027-12-09T18:00:00Z\",\n  \"promotion_name\": \"TestPromotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"decenber-2025": {
+					"key": "decenber-2025",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2025-12-23T18:00:00Z\",\n  \"end_at\": \"2026-01-02T18:00:00Z\",\n  \"promotion_name\": \"Dec2025Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"march-2026-beta-testing": {
+					"key": "march-2026-beta-testing",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-03-05T18:00:00Z\",\n  \"end_at\": \"2026-03-30T04:00:00Z\",\n  \"promotion_name\": \"March2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"march-2026": {
+					"key": "march-2026",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-03-26T18:00:00Z\",\n  \"end_at\": \"2026-03-30T04:00:00Z\",\n  \"promotion_name\": \"March2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"march-2026-new": {
+					"key": "march-2026-new",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-03-26T18:00:00Z\",\n  \"end_at\": \"2026-03-30T03:00:00Z\",\n  \"promotion_name\": \"March2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"junejuly-2026": {
+					"key": "junejuly-2026",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-25T17:00:00Z\",\n  \"end_at\": \"2026-07-04T06:59:00Z\",\n  \"promotion_name\": \"JuneJuly2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-67997",
+					"startAt": "2025-11-14T19:18:44.271Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "march-2026-new",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"ios_prominent_entry_point_copy": {
 			"key": "ios_prominent_entry_point_copy",
 			"enabled": true,
@@ -14266,6 +14301,57 @@
 				{
 					"key": "allocation-73077",
 					"startAt": "2025-12-03T19:54:46.800Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"android_prominent_entry_point_copy": {
+			"key": "android_prominent_entry_point_copy",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment1": {
+					"key": "treatment1",
+					"value": "treatment1"
+				},
+				"treatment2": {
+					"key": "treatment2",
+					"value": "treatment2"
+				},
+				"treatment3": {
+					"key": "treatment3",
+					"value": "treatment3"
+				},
+				"treatment4": {
+					"key": "treatment4",
+					"value": "treatment4"
+				},
+				"treatment5": {
+					"key": "treatment5",
+					"value": "treatment5"
+				},
+				"treatment6": {
+					"key": "treatment6",
+					"value": "treatment6"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-98339",
+					"startAt": "2026-03-10T21:56:03.120Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
