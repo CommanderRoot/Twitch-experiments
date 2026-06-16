@@ -370,14 +370,15 @@
 			"allocations": [
 				{
 					"key": "allocation-119341",
-					"startAt": "2026-05-19T18:23:49.191Z",
+					"startAt": "2026-06-16T21:19:24.042Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"48276979"
+										"48276979",
+										"89614178"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -1014,6 +1015,131 @@
 				}
 			]
 		},
+		"twilight_help_link_redirect_contact_us": {
+			"key": "twilight_help_link_redirect_contact_us",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"https://help.twitch.tv/s/contactsupport": {
+					"key": "https://help.twitch.tv/s/contactsupport",
+					"value": "https://help.twitch.tv/s/contactsupport"
+				},
+				"control": {
+					"key": "control",
+					"value": "control"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-119912",
+					"startAt": "2026-06-16T21:03:04.812Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "https://help.twitch.tv/s/contactsupport",
+							"shards": [
+								{
+									"salt": "twilight_help_link_redirect_contact_us-119912-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "twilight_help_link_redirect_contact_us-119912-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "twilight_help_link_redirect_contact_us-119912-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "twilight_help_link_redirect_contact_us-119912-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-130020",
+					"startAt": "2026-06-16T21:01:43.180Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"520144197",
+										"28983784",
+										"40819772",
+										"162436978",
+										"668632822",
+										"1337836906"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "https://help.twitch.tv/s/contactsupport",
+							"shards": [
+								{
+									"salt": "twilight_help_link_redirect_contact_us-130020-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-119909",
+					"startAt": "2026-05-21T01:02:29.615Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"mweb-skylight-channel-live": {
 			"key": "mweb-skylight-channel-live",
 			"enabled": true,
@@ -1185,193 +1311,6 @@
 				{
 					"key": "allocation-101653",
 					"startAt": "2026-03-23T03:12:34.977Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"ios_prominent_entry_point_copy": {
-			"key": "ios_prominent_entry_point_copy",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment1": {
-					"key": "treatment1",
-					"value": "treatment1"
-				},
-				"treatment2": {
-					"key": "treatment2",
-					"value": "treatment2"
-				},
-				"treatment3": {
-					"key": "treatment3",
-					"value": "treatment3"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-113406",
-					"startAt": "2026-04-29T22:24:35.769Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "ios_prominent_entry_point_copy-113406-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-102171",
-					"startAt": "2026-03-24T16:09:49.065Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": "27.9.0",
-									"operator": "GTE",
-									"attribute": "app_version"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": 27.9,
-									"operator": "GTE",
-									"attribute": "app_version"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment3",
-							"shards": [
-								{
-									"salt": "ios_prominent_entry_point_copy-102171-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-73080",
-					"startAt": "2026-01-26T19:03:27.951Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": "27.9.0",
-									"operator": "GTE",
-									"attribute": "app_version"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": 27.9,
-									"operator": "GTE",
-									"attribute": "app_version"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "ios_prominent_entry_point_copy-73080-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment1",
-							"shards": [
-								{
-									"salt": "ios_prominent_entry_point_copy-73080-split",
-									"ranges": [
-										{
-											"start": 2500,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment2",
-							"shards": [
-								{
-									"salt": "ios_prominent_entry_point_copy-73080-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 7500
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment3",
-							"shards": [
-								{
-									"salt": "ios_prominent_entry_point_copy-73080-split",
-									"ranges": [
-										{
-											"start": 7500,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-73077",
-					"startAt": "2025-12-03T19:54:46.800Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -13836,330 +13775,6 @@
 			"allocations": [
 				{
 					"key": "allocation-129914",
-					"startAt": "2026-06-16T21:00:00.000Z",
-					"endAt": "2026-06-16T21:05:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "opt_in",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-129914",
-					"startAt": "2026-06-16T21:05:00.000Z",
-					"endAt": "2026-06-16T21:10:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "opt_in",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-129914",
-					"startAt": "2026-06-16T21:10:00.000Z",
-					"endAt": "2026-06-16T21:15:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "opt_in",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-129914",
-					"startAt": "2026-06-16T21:15:00.000Z",
-					"endAt": "2026-06-16T21:20:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 4000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "opt_in",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 4000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-129914",
-					"startAt": "2026-06-16T21:20:00.000Z",
-					"endAt": "2026-06-16T21:25:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "opt_in",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-129914",
-					"startAt": "2026-06-16T21:25:00.000Z",
-					"endAt": "2026-06-16T21:30:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 7000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "opt_in",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 7000
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-129914",
 					"startAt": "2026-06-16T21:30:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
@@ -14456,6 +14071,205 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"ios_prominent_entry_point_copy": {
+			"key": "ios_prominent_entry_point_copy",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment1": {
+					"key": "treatment1",
+					"value": "treatment1"
+				},
+				"treatment2": {
+					"key": "treatment2",
+					"value": "treatment2"
+				},
+				"treatment3": {
+					"key": "treatment3",
+					"value": "treatment3"
+				},
+				"treatment4": {
+					"key": "treatment4",
+					"value": "treatment4"
+				},
+				"treatment5": {
+					"key": "treatment5",
+					"value": "treatment5"
+				},
+				"treatment6": {
+					"key": "treatment6",
+					"value": "treatment6"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-113406",
+					"startAt": "2026-04-29T22:24:35.769Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-113406-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-102171",
+					"startAt": "2026-03-24T16:09:49.065Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "27.9.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": 27.9,
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment3",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-102171-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-73080",
+					"startAt": "2026-01-26T19:03:27.951Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "27.9.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": 27.9,
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-73080-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment1",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-73080-split",
+									"ranges": [
+										{
+											"start": 2500,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment2",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-73080-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 7500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment3",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-73080-split",
+									"ranges": [
+										{
+											"start": 7500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-73077",
+					"startAt": "2025-12-03T19:54:46.800Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
