@@ -600,21 +600,8 @@
 			"allocations": [
 				{
 					"key": "allocation-126249",
-					"startAt": "2026-06-09T16:15:55.337Z",
+					"startAt": "2026-06-16T17:07:26.992Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"PL"
-									],
-									"operator": "ONE_OF",
-									"attribute": "country"
-								}
-							]
-						}
-					],
 					"splits": [
 						{
 							"variationKey": "true",
@@ -7760,21 +7747,8 @@
 			"allocations": [
 				{
 					"key": "allocation-101829",
-					"startAt": "2026-03-23T21:11:20.903Z",
+					"startAt": "2026-06-16T17:06:38.028Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"PL"
-									],
-									"operator": "ONE_OF",
-									"attribute": "country"
-								}
-							]
-						}
-					],
 					"splits": [
 						{
 							"variationKey": "true",
@@ -14059,6 +14033,37 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"candlelight-virtualize-chat": {
+			"key": "candlelight-virtualize-chat",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-129848",
+					"startAt": "2026-06-16T16:41:30.342Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
