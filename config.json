@@ -5271,91 +5271,6 @@
 				}
 			]
 		},
-		"zillion-zipping-zebras": {
-			"key": "zillion-zipping-zebras",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"opt_in": {
-					"key": "opt_in",
-					"value": "opt_in"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-125504",
-					"startAt": "2026-06-15T17:16:10.060Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-125504-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-125504-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "opt_in",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-125504-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "zillion-zipping-zebras-125504-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-118202",
-					"startAt": "2026-05-14T19:24:00.368Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"disco-bender-terminator-partner": {
 			"key": "disco-bender-terminator-partner",
 			"enabled": true,
@@ -14113,6 +14028,37 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"zillion-zipping-zebras": {
+			"key": "zillion-zipping-zebras",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"opt_in": {
+					"key": "opt_in",
+					"value": "opt_in"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-118202",
+					"startAt": "2026-05-14T19:24:00.368Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
