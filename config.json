@@ -4277,6 +4277,10 @@
 				"1-event-test-party": {
 					"key": "1-event-test-party",
 					"value": "[{\"slug\":\"demo-event\",\"position\":0}]\n"
+				},
+				"1-event-football-fest-pos-2": {
+					"key": "1-event-football-fest-pos-2",
+					"value": "[\n  {\n    \"slug\": \"football-fest\",\n    \"position\": 1\n  }\n]"
 				}
 			},
 			"totalShards": 10000,
