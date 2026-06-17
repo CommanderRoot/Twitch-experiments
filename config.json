@@ -635,95 +635,6 @@
 				}
 			]
 		},
-		"gifting-auto-celebrations": {
-			"key": "gifting-auto-celebrations",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-119883",
-					"startAt": "2026-07-31T22:28:00.000Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": "29.7.0",
-									"operator": "GTE",
-									"attribute": "app_version"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"twilight"
-									],
-									"operator": "ONE_OF",
-									"attribute": "client_app"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "gifting-auto-celebrations-119883-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "gifting-auto-celebrations-119883-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-119880",
-					"startAt": "2026-05-20T22:28:11.713Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"pre-affiliate-row": {
 			"key": "pre-affiliate-row",
 			"enabled": true,
@@ -8039,14 +7950,18 @@
 			"allocations": [
 				{
 					"key": "allocation-126330",
-					"startAt": "2026-06-15T18:43:37.805Z",
+					"startAt": "2026-06-17T18:38:47.465Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"84392688"
+										"84392688",
+										"49023890",
+										"28173",
+										"268669435",
+										"197529157"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -14129,7 +14044,7 @@
 				},
 				"junejuly-2026": {
 					"key": "junejuly-2026",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-25T17:00:00Z\",\n  \"end_at\": \"2026-07-04T06:59:00Z\",\n  \"promotion_name\": \"JuneJuly2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-17T17:00:00Z\",\n  \"end_at\": \"2026-06-18T06:59:00Z\",\n  \"promotion_name\": \"JuneJuly2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -14419,6 +14334,95 @@
 					"splits": [
 						{
 							"variationKey": "300000",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"gifting-auto-celebrations": {
+			"key": "gifting-auto-celebrations",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-119883",
+					"startAt": "2026-06-17T20:30:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "29.7.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"twilight"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "gifting-auto-celebrations-119883-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gifting-auto-celebrations-119883-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-119880",
+					"startAt": "2026-05-20T22:28:11.713Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
