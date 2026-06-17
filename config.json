@@ -4223,6 +4223,10 @@
 				"1-event-football-fest-pos-2": {
 					"key": "1-event-football-fest-pos-2",
 					"value": "[\n  {\n    \"slug\": \"football-fest\",\n    \"position\": 1\n  }\n]"
+				},
+				"esl": {
+					"key": "esl",
+					"value": "[\n    {\n        \"slug\": \"iem-cologne-2026\",\n        \"position\": 0\n    },\n    {\n        \"slug\": \"football-fest\",\n        \"position\": 1\n    }\n]"
 				}
 			},
 			"totalShards": 10000,
@@ -4234,7 +4238,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "1-event",
+							"variationKey": "esl",
 							"shards": []
 						}
 					],
