@@ -3824,7 +3824,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -3855,7 +3855,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -5351,7 +5351,7 @@
 				},
 				"nike-demo": {
 					"key": "nike-demo",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0FPCF76NB\",\n    \"B0FPCC52SK\",\n    \"B0FPCHZ4K7\",\n    \"B0FPCG2J22\"\n  ],\n  \"tracking_id\": {}\n}"
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0FPCF76NB\",\n    \"B0FPCC52SK\",\n    \"B0FPCHZ4K7\",\n    \"B0FPCG2J22\",\n    \"B0H3QTFMG4\",\n    \"B0H3R31LBB\",\n    \"B0H3QZBYF9\"\n  ],\n  \"tracking_id\": {}\n}"
 				},
 				"nike-06-2026": {
 					"key": "nike-06-2026",
