@@ -13220,7 +13220,7 @@
 			"allocations": [
 				{
 					"key": "allocation-130073",
-					"startAt": "2026-06-18T19:55:50.631Z",
+					"startAt": "2026-06-18T22:17:55.066Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -13228,7 +13228,8 @@
 								{
 									"value": [
 										"1285233454",
-										"43311783"
+										"43311783",
+										"605930764"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -13997,7 +13998,7 @@
 				},
 				"junejuly-2026": {
 					"key": "junejuly-2026",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-17T17:00:00Z\",\n  \"end_at\": \"2026-06-18T06:59:00Z\",\n  \"promotion_name\": \"JuneJuly2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-17T17:00:00Z\",\n  \"end_at\": \"2026-06-20T06:59:00Z\",\n  \"promotion_name\": \"JuneJuly2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
 				}
 			},
 			"totalShards": 10000,
