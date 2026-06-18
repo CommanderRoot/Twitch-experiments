@@ -955,7 +955,7 @@
 				{
 					"key": "allocation-130323",
 					"startAt": "2026-06-17T19:00:00.000Z",
-					"endAt": "2026-06-22T19:00:00.000Z",
+					"endAt": "2026-06-19T19:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "https://help.twitch.tv/s/contactsupport",
@@ -985,8 +985,8 @@
 				},
 				{
 					"key": "allocation-130323",
-					"startAt": "2026-06-22T19:00:00.000Z",
-					"endAt": "2026-06-24T19:00:00.000Z",
+					"startAt": "2026-06-19T19:00:00.000Z",
+					"endAt": "2026-06-22T19:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "https://help.twitch.tv/s/contactsupport",
@@ -1016,7 +1016,7 @@
 				},
 				{
 					"key": "allocation-130323",
-					"startAt": "2026-06-24T19:00:00.000Z",
+					"startAt": "2026-06-22T19:00:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -8108,7 +8108,7 @@
 			"allocations": [
 				{
 					"key": "allocation-126330",
-					"startAt": "2026-06-17T18:38:47.465Z",
+					"startAt": "2026-06-18T18:56:16.287Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8119,7 +8119,12 @@
 										"49023890",
 										"28173",
 										"268669435",
-										"197529157"
+										"197529157",
+										"1066780186",
+										"430307811",
+										"1433698144",
+										"1383209811",
+										"1513463752"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -8170,7 +8175,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 100
+											"end": 0
 										}
 									]
 								}
@@ -8183,7 +8188,7 @@
 									"salt": "liveup_push_notification_high_relevance_grouping-126330-split",
 									"ranges": [
 										{
-											"start": 100,
+											"start": 0,
 											"end": 10000
 										}
 									]
