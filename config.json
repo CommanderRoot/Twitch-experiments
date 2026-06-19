@@ -3793,7 +3793,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -13257,21 +13257,12 @@
 				},
 				{
 					"key": "allocation-132106",
-					"startAt": "2026-06-19T01:09:49.798Z",
+					"startAt": "2026-06-19T02:50:16.384Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "eu_right_of_withdrawal_enabled-132106-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
 								{
 									"salt": "eu_right_of_withdrawal_enabled-132106-split",
 									"ranges": [
