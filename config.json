@@ -13256,6 +13256,37 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-132106",
+					"startAt": "2026-06-19T01:09:49.798Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "eu_right_of_withdrawal_enabled-132106-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "eu_right_of_withdrawal_enabled-132106-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-128887",
 					"startAt": "2026-06-12T21:08:40.695Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
