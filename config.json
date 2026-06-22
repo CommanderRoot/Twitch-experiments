@@ -3708,37 +3708,6 @@
 				}
 			]
 		},
-		"noredirect_callback_mobile_web": {
-			"key": "noredirect_callback_mobile_web",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-112484",
-					"startAt": "2026-04-27T19:25:38.253Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"noredirect_callback_third_party": {
 			"key": "noredirect_callback_third_party",
 			"enabled": true,
@@ -4238,7 +4207,7 @@
 			"allocations": [
 				{
 					"key": "allocation-129197",
-					"startAt": "2026-06-16T17:46:48.228Z",
+					"startAt": "2026-06-22T15:32:38.341Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4249,6 +4218,17 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"852541026"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
 								}
 							]
 						}
@@ -7861,7 +7841,7 @@
 			"allocations": [
 				{
 					"key": "allocation-126330",
-					"startAt": "2026-06-18T18:56:16.287Z",
+					"startAt": "2026-06-22T16:13:12.082Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7877,7 +7857,8 @@
 										"430307811",
 										"1433698144",
 										"1383209811",
-										"1513463752"
+										"1513463752",
+										"1515580037"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -7951,6 +7932,28 @@
 						}
 					],
 					"doLog": true
+				},
+				{
+					"key": "allocation-132570",
+					"startAt": "2026-06-22T17:53:37.907Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "liveup_push_notification_high_relevance_grouping-132570-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
 				},
 				{
 					"key": "allocation-122485",
@@ -14426,6 +14429,37 @@
 				{
 					"key": "allocation-112099",
 					"startAt": "2026-04-24T23:09:14.985Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"noredirect_callback_mobile_web": {
+			"key": "noredirect_callback_mobile_web",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-112484",
+					"startAt": "2026-04-27T19:25:38.253Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
