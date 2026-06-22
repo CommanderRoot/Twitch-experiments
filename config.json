@@ -8158,14 +8158,17 @@
 			"allocations": [
 				{
 					"key": "allocation-132666",
-					"startAt": "2026-06-22T20:33:23.931Z",
+					"startAt": "2026-06-22T21:17:59.612Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"794180236"
+										"794180236",
+										"180353298",
+										"852541026",
+										"873888652"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -8179,6 +8182,44 @@
 							"shards": [
 								{
 									"salt": "seal-cat-cow-mcc-132666-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-132711",
+					"startAt": "2026-06-22T21:34:52.882Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"794180236",
+										"180353298",
+										"852541026",
+										"873888652"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "seal-cat-cow-mcc-132711-split",
 									"ranges": [
 										{
 											"start": 0,
