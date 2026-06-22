@@ -954,37 +954,6 @@
 				},
 				{
 					"key": "allocation-130323",
-					"startAt": "2026-06-19T19:00:00.000Z",
-					"endAt": "2026-06-22T19:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "https://help.twitch.tv/s/contactsupport",
-							"shards": [
-								{
-									"salt": "twilight_help_link_redirect_contact_us-130323-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "twilight_help_link_redirect_contact_us-130323-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-130323",
 					"startAt": "2026-06-22T19:00:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
@@ -6972,6 +6941,114 @@
 				}
 			]
 		},
+		"outstream-trigger-cooldown": {
+			"key": "outstream-trigger-cooldown",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment_3m": {
+					"key": "treatment_3m",
+					"value": "treatment_3m"
+				},
+				"treatment_4m": {
+					"key": "treatment_4m",
+					"value": "treatment_4m"
+				},
+				"debug_5s": {
+					"key": "debug_5s",
+					"value": "debug_90s"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-115620",
+					"startAt": "2026-05-06T19:05:44.482Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": true,
+									"operator": "IS_NULL",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "outstream-trigger-cooldown-115620-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-115619",
+					"startAt": "2026-05-06T16:26:03.670Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment_3m",
+							"shards": [
+								{
+									"salt": "outstream-trigger-cooldown-115619-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment_4m",
+							"shards": [
+								{
+									"salt": "outstream-trigger-cooldown-115619-split",
+									"ranges": [
+										{
+											"start": 2500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-115616",
+					"startAt": "2026-05-06T16:22:07.068Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"huge-hungry-hippos": {
 			"key": "huge-hungry-hippos",
 			"enabled": true,
@@ -8079,6 +8156,41 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-132666",
+					"startAt": "2026-06-22T20:33:23.931Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"794180236"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "seal-cat-cow-mcc-132666-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-125984",
 					"startAt": "2026-06-08T22:10:38.331Z",
@@ -13992,7 +14104,7 @@
 				},
 				"junejuly-2026": {
 					"key": "junejuly-2026",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-17T17:00:00Z\",\n  \"end_at\": \"2026-06-20T06:59:00Z\",\n  \"promotion_name\": \"JuneJuly2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-20T17:00:00Z\",\n  \"end_at\": \"2026-06-23T06:59:00Z\",\n  \"promotion_name\": \"JuneJuly2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
 				}
 			},
 			"totalShards": 10000,
