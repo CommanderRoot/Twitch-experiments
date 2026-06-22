@@ -1446,167 +1446,6 @@
 				}
 			]
 		},
-		"ws-left-nav": {
-			"key": "ws-left-nav",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-125355",
-					"startAt": "2026-06-16T22:30:18.852Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"795439542",
-										"52846770",
-										"89614178",
-										"48276979",
-										"101795822",
-										"1501520166"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "ws-left-nav-125355-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-123234-holdout-viewer-progression-2026",
-					"startAt": "2026-06-01T20:27:33.539Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "ws-left-nav-123234-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "viewer-progression-2026-holdout-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 700
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "ws-left-nav-123234-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								},
-								{
-									"salt": "viewer-progression-2026-holdout-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 700
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-123234",
-					"startAt": "2026-06-01T20:27:33.539Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "ws-left-nav-123234-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "ws-left-nav-123234-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-123230",
-					"startAt": "2026-06-01T20:25:26.962Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"social_auth_restricted_origins_v2": {
 			"key": "social_auth_restricted_origins_v2",
 			"enabled": true,
@@ -14146,6 +13985,10 @@
 				"junejuly-2026": {
 					"key": "junejuly-2026",
 					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-20T17:00:00Z\",\n  \"end_at\": \"2026-06-23T06:59:00Z\",\n  \"promotion_name\": \"JuneJuly2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"junejuly-2026-77ab6": {
+					"key": "junejuly-2026-77ab6",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-25T17:00:00Z\",\n  \"end_at\": \"2026-07-04T06:59:00Z\",\n  \"promotion_name\": \"JuneJuly2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -14617,6 +14460,167 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"ws-left-nav": {
+			"key": "ws-left-nav",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-125355",
+					"startAt": "2026-06-16T22:30:18.852Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"795439542",
+										"52846770",
+										"89614178",
+										"48276979",
+										"101795822",
+										"1501520166"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "ws-left-nav-125355-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-123234-holdout-viewer-progression-2026",
+					"startAt": "2026-06-01T20:27:33.539Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ws-left-nav-123234-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								},
+								{
+									"salt": "viewer-progression-2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ws-left-nav-123234-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								},
+								{
+									"salt": "viewer-progression-2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 700
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-123234",
+					"startAt": "2026-06-01T20:27:33.539Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ws-left-nav-123234-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "ws-left-nav-123234-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-123230",
+					"startAt": "2026-06-01T20:25:26.962Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
