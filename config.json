@@ -2432,7 +2432,7 @@
 			"allocations": [
 				{
 					"key": "allocation-108514",
-					"startAt": "2026-06-23T21:48:25.659Z",
+					"startAt": "2026-06-23T22:23:02.049Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2467,7 +2467,10 @@
 										"1515906161",
 										"26555211",
 										"1515905878",
-										"1515907270"
+										"1515907270",
+										"1515909228",
+										"273108533",
+										"95431987"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -14830,6 +14833,37 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"pine-shadow-atlas-spotlight": {
+			"key": "pine-shadow-atlas-spotlight",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-133313",
+					"startAt": "2026-06-23T22:02:57.786Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
