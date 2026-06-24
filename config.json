@@ -2432,7 +2432,7 @@
 			"allocations": [
 				{
 					"key": "allocation-103810",
-					"startAt": "2026-06-24T17:51:54.985Z",
+					"startAt": "2026-06-24T19:55:34.758Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2456,7 +2456,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 9000
 										}
 									]
 								}
@@ -2469,7 +2469,7 @@
 									"salt": "hlsjs_playback_adapter-103810-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 9000,
 											"end": 10000
 										}
 									]
@@ -5456,7 +5456,7 @@
 				},
 				{
 					"key": "allocation-64163",
-					"startAt": "2026-06-03T13:40:20.582Z",
+					"startAt": "2026-06-24T19:53:14.209Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5465,7 +5465,6 @@
 									"value": [
 										"campaign.35IvEBvz9Im01aZYU7BlXrHJhh4",
 										"campaign.35Udb4ulryaqzXfwfhWzPVEkDoH",
-										"campaign.36f8anz68gQ0nQ2NeC50XCyNCns",
 										"campaign.3EaF36tr9pQ58OPCYrWuAP6vo2g"
 									],
 									"operator": "ONE_OF",
@@ -6167,14 +6166,15 @@
 				},
 				{
 					"key": "allocation-133796",
-					"startAt": "2026-06-24T16:52:31.910Z",
+					"startAt": "2026-06-24T19:53:26.431Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"campaign.3FYBe4STls5ejB9lapccfswUPkg"
+										"campaign.3FYBe4STls5ejB9lapccfswUPkg",
+										"campaign.36f8anz68gQ0nQ2NeC50XCyNCns"
 									],
 									"operator": "ONE_OF",
 									"attribute": "campaign_id"
@@ -7679,6 +7679,50 @@
 							"shards": [
 								{
 									"salt": "gamelift_page_release-126403-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-133901",
+					"startAt": "2026-06-24T20:16:33.157Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US",
+										"CA",
+										"GB"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								},
+								{
+									"value": [
+										"dragonage"
+									],
+									"operator": "ONE_OF",
+									"attribute": "game_title"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-133901-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -14170,7 +14214,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-06-24T18:02:50.858Z",
+					"startAt": "2026-06-24T19:07:36.413Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14208,7 +14252,7 @@
 									"ranges": [
 										{
 											"start": 98,
-											"end": 2549
+											"end": 5000
 										}
 									]
 								}
@@ -14221,7 +14265,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 2549,
+											"start": 5000,
 											"end": 9901
 										}
 									]
