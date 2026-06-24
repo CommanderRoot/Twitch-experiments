@@ -3043,91 +3043,6 @@
 				}
 			]
 		},
-		"purple_pineapple": {
-			"key": "purple_pineapple",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-117757",
-					"startAt": "2026-08-01T17:05:00.000Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "purple_pineapple-117757-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 100
-										}
-									]
-								},
-								{
-									"salt": "purple_pineapple-117757-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9900
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "purple_pineapple-117757-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 100
-										}
-									]
-								},
-								{
-									"salt": "purple_pineapple-117757-split",
-									"ranges": [
-										{
-											"start": 9900,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-117754",
-					"startAt": "2026-05-13T17:05:51.193Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"condensed-form-checkout": {
 			"key": "condensed-form-checkout",
 			"enabled": true,
@@ -14864,6 +14779,72 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"purple_pineapple": {
+			"key": "purple_pineapple",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-133353",
+					"startAt": "2026-06-24T00:35:18.866Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"172341005"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "purple_pineapple-133353-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-117754",
+					"startAt": "2026-05-13T17:05:51.193Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
