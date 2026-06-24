@@ -14805,14 +14805,15 @@
 			"allocations": [
 				{
 					"key": "allocation-133353",
-					"startAt": "2026-06-24T00:35:18.866Z",
+					"startAt": "2026-06-24T06:59:01.258Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"172341005"
+										"172341005",
+										"125586556"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
