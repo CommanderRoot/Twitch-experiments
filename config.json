@@ -2432,7 +2432,7 @@
 			"allocations": [
 				{
 					"key": "allocation-108514",
-					"startAt": "2026-06-23T22:23:02.049Z",
+					"startAt": "2026-06-24T16:57:12.594Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2470,7 +2470,8 @@
 										"1515907270",
 										"1515909228",
 										"273108533",
-										"95431987"
+										"95431987",
+										"1515847315"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -3962,6 +3963,10 @@
 				"esl": {
 					"key": "esl",
 					"value": "[\n    {\n        \"slug\": \"iem-cologne-2026\",\n        \"position\": 0\n    },\n    {\n        \"slug\": \"football-fest\",\n        \"position\": 1\n    }\n]"
+				},
+				"evo-football-fest": {
+					"key": "evo-football-fest",
+					"value": "[\n  {\n    \"slug\": \"evo-2026\",\n    \"position\": 0\n  },\n  {\n    \"slug\": \"football-fest\",\n    \"position\": 1\n  }\n]"
 				}
 			},
 			"totalShards": 10000,
@@ -3973,7 +3978,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "esl",
+							"variationKey": "evo-football-fest",
 							"shards": []
 						}
 					],
@@ -5137,6 +5142,10 @@
 				"nike-06-2026": {
 					"key": "nike-06-2026",
 					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0H3QZBYF9\",\n    \"B0H3QTFMG4\",\n    \"B0H3R31LBB\",\n    \"B0FPCF76NB\",\n    \"B0FPCC52SK\",\n    \"B0FPCHZ4K7\",\n    \"B0FPCG2J22\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"nike-06-27-2026": {
+					"key": "nike-06-27-2026",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0H3QZBYF9\",\n    \"B0H3QTFMG4\",\n    \"B0H3R31LBB\"\n  ],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -5959,6 +5968,63 @@
 									"ranges": [
 										{
 											"start": 1,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-133796",
+					"startAt": "2026-06-24T16:52:31.910Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3FYBe4STls5ejB9lapccfswUPkg"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-133796-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "nike-06-27-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-133796-split",
+									"ranges": [
+										{
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -12420,7 +12486,7 @@
 			"allocations": [
 				{
 					"key": "allocation-122759",
-					"startAt": "2026-05-29T17:43:31.309Z",
+					"startAt": "2026-06-24T16:26:44.553Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12444,7 +12510,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2500
+											"end": 9999
 										}
 									]
 								}
@@ -12457,7 +12523,7 @@
 									"salt": "pulsar-analytics-shadow-122759-split",
 									"ranges": [
 										{
-											"start": 2500,
+											"start": 9999,
 											"end": 10000
 										}
 									]
@@ -13879,7 +13945,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-06-16T17:53:02.836Z",
+					"startAt": "2026-06-24T15:15:02.386Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -13903,7 +13969,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 98
 										}
 									]
 								}
@@ -13916,8 +13982,8 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 0,
-											"end": 0
+											"start": 98,
+											"end": 1078
 										}
 									]
 								}
@@ -13930,8 +13996,8 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 0,
-											"end": 9999
+											"start": 1078,
+											"end": 9901
 										}
 									]
 								}
@@ -13944,7 +14010,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 9999,
+											"start": 9901,
 											"end": 10000
 										}
 									]
