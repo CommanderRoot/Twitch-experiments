@@ -14990,6 +14990,37 @@
 				}
 			]
 		},
+		"second_tier_jiffy_pop": {
+			"key": "second_tier_jiffy_pop",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\n  \"enabled\": false,\n  \"components\": {\n    \"keyboard\": false,\n    \"upsell\": false,\n    \"subModal\": false,\n    \"hidePreference\": false,\n    \"errorMessages\": false\n  }\n}"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "{\n  \"enabled\": true,\n  \"components\": {\n    \"keyboard\": true,\n    \"upsell\": true,\n    \"subModal\": true,\n    \"hidePreference\": true,\n    \"errorMessages\": true\n  }\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-121052",
+					"startAt": "2026-05-26T18:08:46.248Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"purple_pineapple": {
 			"key": "purple_pineapple",
 			"enabled": true,
