@@ -4198,21 +4198,12 @@
 				},
 				{
 					"key": "allocation-134218",
-					"startAt": "2026-06-25T15:42:19.764Z",
+					"startAt": "2026-06-25T16:00:34.017Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "funny-potato-cat-mobile-134218-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								},
 								{
 									"salt": "funny-potato-cat-mobile-134218-split",
 									"ranges": [
@@ -4233,7 +4224,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -14350,7 +14341,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "march-2026-new",
+							"variationKey": "junejuly-2026-77ab6",
 							"shards": []
 						}
 					],
