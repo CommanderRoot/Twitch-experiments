@@ -8449,6 +8449,37 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-134350",
+					"startAt": "2026-06-25T20:06:12.394Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "seal-cat-cow-mcc-134350-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "seal-cat-cow-mcc-134350-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-125984",
 					"startAt": "2026-06-08T22:10:38.331Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
