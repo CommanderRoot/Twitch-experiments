@@ -4197,6 +4197,37 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-134218",
+					"startAt": "2026-06-25T15:42:19.764Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "funny-potato-cat-mobile-134218-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "funny-potato-cat-mobile-134218-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-124889",
 					"startAt": "2026-06-04T18:45:24.445Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
