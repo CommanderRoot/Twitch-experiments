@@ -3361,42 +3361,6 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-134774",
-					"startAt": "2026-06-26T20:28:26.398Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "outstream-ads-manager-trigger-134774-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "outstream-ads-manager-trigger-134774-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-115139",
 					"startAt": "2026-05-05T22:56:51.371Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -15451,57 +15415,6 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
-				{
-					"key": "allocation-134624",
-					"startAt": "2026-06-26T21:52:54.711Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"US"
-									],
-									"operator": "ONE_OF",
-									"attribute": "country"
-								},
-								{
-									"value": [
-										"en"
-									],
-									"operator": "ONE_OF",
-									"attribute": "langauge"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "search-trending-channels-134624-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "search-trending-channels-134624-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
 				{
 					"key": "allocation-134617",
 					"startAt": "2026-06-26T15:38:32.854Z",
