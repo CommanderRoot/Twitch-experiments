@@ -3361,6 +3361,42 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-134774",
+					"startAt": "2026-06-26T20:28:26.398Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "outstream-ads-manager-trigger-134774-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "outstream-ads-manager-trigger-134774-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-115139",
 					"startAt": "2026-05-05T22:56:51.371Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -3397,7 +3433,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-06-25T18:26:56.471Z",
+					"startAt": "2026-06-26T19:41:26.956Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -3408,7 +3444,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 5000
 										}
 									]
 								}
@@ -3421,7 +3457,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
