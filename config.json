@@ -7628,8 +7628,55 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-134650",
+					"startAt": "2026-07-02T02:28:44.804Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"103811294",
+										"1477166521",
+										"1517205719",
+										"1517205698",
+										"1517207135",
+										"1517208889"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								},
+								{
+									"value": [
+										"palworld"
+									],
+									"operator": "ONE_OF",
+									"attribute": "game_title"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-134650-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-94142",
-					"startAt": "2026-05-29T20:29:14.478Z",
+					"startAt": "2026-07-02T02:24:41.147Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7638,7 +7685,8 @@
 									"value": [
 										"US",
 										"CA",
-										"NL"
+										"NL",
+										"JP"
 									],
 									"operator": "NOT_ONE_OF",
 									"attribute": "country"
@@ -7685,46 +7733,6 @@
 							"shards": [
 								{
 									"salt": "gamelift_page_release-98358-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-134650",
-					"startAt": "2026-07-01T17:26:03.165Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"103811294",
-										"1477166521",
-										"1517205719",
-										"1517205698",
-										"1517207135",
-										"1517208889"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-134650-split",
 									"ranges": [
 										{
 											"start": 0,
