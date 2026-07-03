@@ -1560,42 +1560,6 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-123246",
-					"startAt": "2026-06-01T20:34:45.299Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sda_use_gql-123246-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9990
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "shadow",
-							"shards": [
-								{
-									"salt": "sda_use_gql-123246-split",
-									"ranges": [
-										{
-											"start": 9990,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-114746",
 					"startAt": "2026-05-04T21:01:55.657Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -7629,7 +7593,7 @@
 				},
 				{
 					"key": "allocation-134650",
-					"startAt": "2026-07-02T02:28:44.804Z",
+					"startAt": "2026-07-03T16:36:43.320Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7641,7 +7605,8 @@
 										"1517205719",
 										"1517205698",
 										"1517207135",
-										"1517208889"
+										"1517208889",
+										"92803194"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
