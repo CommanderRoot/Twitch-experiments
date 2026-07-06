@@ -1320,6 +1320,108 @@
 				}
 			]
 		},
+		"targeted_reactivated_users_promo": {
+			"key": "targeted_reactivated_users_promo",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-123260",
+					"startAt": "2026-07-06T21:20:51.572Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1165723565"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user-id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "targeted_reactivated_users_promo-123260-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-123250",
+					"startAt": "2026-06-01T20:43:47.239Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "targeted_reactivated_users_promo-123250-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "targeted_reactivated_users_promo-123250-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-123247",
+					"startAt": "2026-06-01T20:34:58.829Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"do-md-ael": {
 			"key": "do-md-ael",
 			"enabled": true,
@@ -14786,6 +14888,72 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"frozen-reactivation-enabled": {
+			"key": "frozen-reactivation-enabled",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"enabled": {
+					"key": "enabled",
+					"value": "enabled"
+				},
+				"disabled": {
+					"key": "disabled",
+					"value": "disabled"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-132054",
+					"startAt": "2026-07-06T21:20:22.261Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1165723565"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user-id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "enabled",
+							"shards": [
+								{
+									"salt": "frozen-reactivation-enabled-132054-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-132050",
+					"startAt": "2026-06-18T20:40:42.841Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "disabled",
 							"shards": []
 						}
 					],
