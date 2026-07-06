@@ -3361,7 +3361,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-06-26T19:41:26.956Z",
+					"startAt": "2026-07-06T15:19:54.039Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -3372,7 +3372,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 0
 										}
 									]
 								}
@@ -3385,7 +3385,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -3994,6 +3994,10 @@
 				"evo-football-fest": {
 					"key": "evo-football-fest",
 					"value": "[\n  {\n    \"slug\": \"evo-2026\",\n    \"position\": 0\n  },\n  {\n    \"slug\": \"football-fest\",\n    \"position\": 1\n  }\n]"
+				},
+				"ewc-football-fest": {
+					"key": "ewc-football-fest",
+					"value": "[\n  {\n    \"slug\": \"ewc-2026\",\n    \"position\": 0\n  },\n  {\n    \"slug\": \"football-fest\",\n    \"position\": 1\n  }\n]"
 				}
 			},
 			"totalShards": 10000,
@@ -4005,7 +4009,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "evo-football-fest",
+							"variationKey": "ewc-football-fest",
 							"shards": []
 						}
 					],
