@@ -1698,6 +1698,37 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-137782",
+					"startAt": "2026-07-07T22:33:10.336Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "sda_use_gql-137782-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								},
+								{
+									"salt": "sda_use_gql-137782-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-114746",
 					"startAt": "2026-05-04T21:01:55.657Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
