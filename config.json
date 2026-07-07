@@ -1941,13 +1941,13 @@
 				},
 				{
 					"key": "allocation-137529",
-					"startAt": "2026-07-07T16:41:07.950Z",
+					"startAt": "2026-07-07T20:28:56.473Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
-									"value": 30,
+									"value": "30.0.0",
 									"operator": "GTE",
 									"attribute": "app_version"
 								}
