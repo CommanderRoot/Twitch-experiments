@@ -1168,6 +1168,42 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-137545",
+					"startAt": "2026-07-07T17:03:06.219Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "checkout_redesign-137545-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "checkout_redesign-137545-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-116232",
 					"startAt": "2026-05-07T23:24:38.518Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -1869,8 +1905,8 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-122842",
-					"startAt": "2026-05-29T20:54:15.609Z",
+					"key": "allocation-137544",
+					"startAt": "2026-07-07T16:59:40.976Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1890,7 +1926,7 @@
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "ios_candlelight_com_t2_t3_subs-122842-split",
+									"salt": "ios_candlelight_com_t2_t3_subs-137544-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -1902,6 +1938,53 @@
 						}
 					],
 					"doLog": false
+				},
+				{
+					"key": "allocation-137529",
+					"startAt": "2026-07-07T16:41:07.950Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": 30,
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "ios_candlelight_com_t2_t3_subs-137529-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "ios_candlelight_com_t2_t3_subs-137529-split",
+									"ranges": [
+										{
+											"start": 1000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
 				},
 				{
 					"key": "allocation-110132",
