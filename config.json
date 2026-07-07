@@ -7521,7 +7521,7 @@
 				},
 				{
 					"key": "allocation-123888",
-					"startAt": "2026-06-09T17:39:01.006Z",
+					"startAt": "2026-07-07T18:29:30.188Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7550,7 +7550,9 @@
 										"714650202",
 										"412379486",
 										"103811294",
-										"1374201479"
+										"1374201479",
+										"119316908",
+										"610099225"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -14294,7 +14296,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-06-30T17:43:17.298Z",
+					"startAt": "2026-07-07T19:16:13.408Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14318,7 +14320,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								}
@@ -14331,35 +14333,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 0,
-											"end": 9999
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant-b",
-							"shards": [
-								{
-									"salt": "ivs-player-core-distribution-45890-split",
-									"ranges": [
-										{
-											"start": 9999,
-											"end": 9999
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant-m",
-							"shards": [
-								{
-									"salt": "ivs-player-core-distribution-45890-split",
-									"ranges": [
-										{
-											"start": 9999,
+											"start": 500,
 											"end": 10000
 										}
 									]
@@ -15651,6 +15625,37 @@
 				{
 					"key": "allocation-134617",
 					"startAt": "2026-06-26T15:38:32.854Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"ws-orange-background": {
+			"key": "ws-orange-background",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-136956",
+					"startAt": "2026-07-06T15:17:29.906Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
