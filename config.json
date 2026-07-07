@@ -1698,27 +1698,32 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-137782",
-					"startAt": "2026-07-07T22:33:10.336Z",
+					"key": "allocation-137799",
+					"startAt": "2026-07-07T22:39:40.602Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sda_use_gql-137799-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9900
+										}
+									]
+								}
+							]
+						},
 						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "sda_use_gql-137782-traffic",
+									"salt": "sda_use_gql-137799-split",
 									"ranges": [
 										{
-											"start": 0,
-											"end": 100
-										}
-									]
-								},
-								{
-									"salt": "sda_use_gql-137782-split",
-									"ranges": [
-										{
-											"start": 0,
+											"start": 9900,
 											"end": 10000
 										}
 									]
@@ -1726,7 +1731,7 @@
 							]
 						}
 					],
-					"doLog": false
+					"doLog": true
 				},
 				{
 					"key": "allocation-114746",
