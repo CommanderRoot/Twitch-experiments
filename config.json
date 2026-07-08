@@ -1734,7 +1734,7 @@
 				},
 				{
 					"key": "allocation-137799",
-					"startAt": "2026-07-08T19:33:53.655Z",
+					"startAt": "2026-07-08T21:47:01.529Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -1745,7 +1745,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 100
+											"end": 9900
 										}
 									]
 								}
@@ -1758,7 +1758,7 @@
 									"salt": "sda_use_gql-137799-split",
 									"ranges": [
 										{
-											"start": 100,
+											"start": 9900,
 											"end": 10000
 										}
 									]
@@ -15616,6 +15616,37 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"nopixel-rp-week-recaps": {
+			"key": "nopixel-rp-week-recaps",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-137852",
+					"startAt": "2026-07-08T01:41:59.737Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
