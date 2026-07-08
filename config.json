@@ -1699,7 +1699,7 @@
 				},
 				{
 					"key": "allocation-137799",
-					"startAt": "2026-07-08T14:16:40.626Z",
+					"startAt": "2026-07-08T19:33:53.655Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -1710,7 +1710,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 8500
+											"end": 100
 										}
 									]
 								}
@@ -1723,7 +1723,7 @@
 									"salt": "sda_use_gql-137799-split",
 									"ranges": [
 										{
-											"start": 8500,
+											"start": 100,
 											"end": 10000
 										}
 									]
@@ -15587,91 +15587,6 @@
 				}
 			]
 		},
-		"dart_push_notifications_ttl_experiment": {
-			"key": "dart_push_notifications_ttl_experiment",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-134425",
-					"startAt": "2026-06-25T21:54:10.119Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "dart_push_notifications_ttl_experiment-134425-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "dart_push_notifications_ttl_experiment-134425-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "dart_push_notifications_ttl_experiment-134425-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "dart_push_notifications_ttl_experiment-134425-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-134422",
-					"startAt": "2026-06-25T21:53:43.131Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"search-trending-channels": {
 			"key": "search-trending-channels",
 			"enabled": true,
@@ -15696,6 +15611,236 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"dart_push_notifications_ttl_experiment": {
+			"key": "dart_push_notifications_ttl_experiment",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-134425",
+					"startAt": "2026-07-08T18:46:36.283Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"49128729",
+										"657402127",
+										"887968459",
+										"740017425",
+										"856674156",
+										"23429329",
+										"600230252",
+										"255679584",
+										"84410157",
+										"772993767",
+										"516627682",
+										"72251025",
+										"134158252",
+										"1391104520",
+										"1391104840",
+										"59759544",
+										"130939584",
+										"446871600",
+										"20354020",
+										"487226745",
+										"72182602",
+										"1383209811",
+										"953430106",
+										"794603078",
+										"1514336788"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "dart_push_notifications_ttl_experiment-134425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "dart_push_notifications_ttl_experiment-134425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-138158-holdout-gondor-notification-holdout-q1-2026",
+					"startAt": "2026-07-08T18:45:42.105Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "dart_push_notifications_ttl_experiment-138158-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "dart_push_notifications_ttl_experiment-138158-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								},
+								{
+									"salt": "gondor-notification-holdout-q1-2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "dart_push_notifications_ttl_experiment-138158-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "dart_push_notifications_ttl_experiment-138158-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								},
+								{
+									"salt": "gondor-notification-holdout-q1-2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-138158",
+					"startAt": "2026-07-08T18:45:42.105Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "dart_push_notifications_ttl_experiment-138158-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "dart_push_notifications_ttl_experiment-138158-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "dart_push_notifications_ttl_experiment-138158-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "dart_push_notifications_ttl_experiment-138158-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-134422",
+					"startAt": "2026-06-25T21:53:43.131Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
