@@ -15883,6 +15883,68 @@
 					"doLog": false
 				}
 			]
+		},
+		"farkleberry-raspberry-strawberry-hover": {
+			"key": "farkleberry-raspberry-strawberry-hover",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-138321",
+					"startAt": "2026-07-08T22:48:58.558Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"category_cheer_prefix": {
+			"key": "category_cheer_prefix",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"cheer": {
+					"key": "cheer",
+					"value": "cheer"
+				},
+				"rockstar": {
+					"key": "rockstar",
+					"value": "rockstar"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-131879",
+					"startAt": "2026-06-18T16:30:42.861Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "cheer",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
 		}
 	}
 }
