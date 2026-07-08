@@ -14363,7 +14363,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-07-08T13:57:22.968Z",
+					"startAt": "2026-07-08T17:46:06.971Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14387,7 +14387,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2500
+											"end": 5000
 										}
 									]
 								}
@@ -14400,7 +14400,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 2500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
