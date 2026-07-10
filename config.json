@@ -14696,14 +14696,15 @@
 			"allocations": [
 				{
 					"key": "allocation-139145",
-					"startAt": "2026-07-09T23:43:37.695Z",
+					"startAt": "2026-07-10T18:17:13.279Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1497472095"
+										"1497472095",
+										"510915581"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -14730,6 +14731,42 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-139571",
+					"startAt": "2026-07-10T18:26:21.304Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1493445985",
+										"772993530"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment5",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-139571-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-113406",
 					"startAt": "2026-04-29T22:24:35.769Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -14739,6 +14776,41 @@
 							"shards": [
 								{
 									"salt": "ios_prominent_entry_point_copy-113406-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-139575",
+					"startAt": "2026-07-10T18:20:14.179Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1493445985"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment5",
+							"shards": [
+								{
+									"salt": "ios_prominent_entry_point_copy-139575-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -15748,21 +15820,12 @@
 				},
 				{
 					"key": "allocation-138158-holdout-gondor-notification-holdout-q1-2026",
-					"startAt": "2026-07-09T23:59:06.641Z",
+					"startAt": "2026-07-10T17:35:38.862Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "dart_push_notifications_ttl_experiment-138158-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 500
-										}
-									]
-								},
 								{
 									"salt": "dart_push_notifications_ttl_experiment-138158-split",
 									"ranges": [
@@ -15786,15 +15849,6 @@
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "dart_push_notifications_ttl_experiment-138158-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 500
-										}
-									]
-								},
 								{
 									"salt": "dart_push_notifications_ttl_experiment-138158-split",
 									"ranges": [
@@ -15820,21 +15874,12 @@
 				},
 				{
 					"key": "allocation-138158",
-					"startAt": "2026-07-09T23:59:06.641Z",
+					"startAt": "2026-07-10T17:35:38.862Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "dart_push_notifications_ttl_experiment-138158-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 500
-										}
-									]
-								},
 								{
 									"salt": "dart_push_notifications_ttl_experiment-138158-split",
 									"ranges": [
@@ -15849,15 +15894,6 @@
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "dart_push_notifications_ttl_experiment-138158-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 500
-										}
-									]
-								},
 								{
 									"salt": "dart_push_notifications_ttl_experiment-138158-split",
 									"ranges": [
