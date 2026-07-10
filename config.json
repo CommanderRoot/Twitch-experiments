@@ -1630,122 +1630,6 @@
 				}
 			]
 		},
-		"sda_use_gql": {
-			"key": "sda_use_gql",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				},
-				"shadow": {
-					"key": "shadow",
-					"value": "shadow"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-121159",
-					"startAt": "2026-05-28T20:19:35.402Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"0bwNER6j9MhjhLfiTVpwpt7MxOspeK6h"
-									],
-									"operator": "ONE_OF",
-									"attribute": "device_id"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"0bwNER6j9MhjhLfiTVpwpt7MxOspeK6h"
-									],
-									"operator": "ONE_OF",
-									"attribute": "deviceID"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "shadow",
-							"shards": [
-								{
-									"salt": "sda_use_gql-121159-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-138187",
-					"startAt": "2026-07-08T19:59:26.082Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"0689370e48e3871b"
-									],
-									"operator": "ONE_OF",
-									"attribute": "device_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sda_use_gql-138187-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-114746",
-					"startAt": "2026-05-04T21:01:55.657Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"live_payments_banners": {
 			"key": "live_payments_banners",
 			"enabled": true,
@@ -14771,7 +14655,7 @@
 			"allocations": [
 				{
 					"key": "allocation-139145",
-					"startAt": "2026-07-09T22:45:31.058Z",
+					"startAt": "2026-07-09T23:43:37.695Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14788,7 +14672,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "treatment5",
+							"variationKey": "treatment6",
 							"shards": [
 								{
 									"salt": "ios_prominent_entry_point_copy-139145-split",
@@ -15823,7 +15707,7 @@
 				},
 				{
 					"key": "allocation-138158-holdout-gondor-notification-holdout-q1-2026",
-					"startAt": "2026-07-08T18:45:42.105Z",
+					"startAt": "2026-07-09T23:59:06.641Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -15834,7 +15718,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -15866,7 +15750,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -15895,7 +15779,7 @@
 				},
 				{
 					"key": "allocation-138158",
-					"startAt": "2026-07-08T18:45:42.105Z",
+					"startAt": "2026-07-09T23:59:06.641Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -15906,7 +15790,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -15929,7 +15813,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -16016,6 +15900,76 @@
 					"splits": [
 						{
 							"variationKey": "cheer",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"sda_use_gql": {
+			"key": "sda_use_gql",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				},
+				"shadow": {
+					"key": "shadow",
+					"value": "shadow"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-138187",
+					"startAt": "2026-07-08T19:59:26.082Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"0689370e48e3871b"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sda_use_gql-138187-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-114746",
+					"startAt": "2026-05-04T21:01:55.657Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
 							"shards": []
 						}
 					],
