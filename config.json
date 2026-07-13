@@ -3654,7 +3654,7 @@
 			"allocations": [
 				{
 					"key": "allocation-134442",
-					"startAt": "2026-07-13T20:36:17.116Z",
+					"startAt": "2026-07-13T21:55:35.684Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3665,7 +3665,13 @@
 										"204450568",
 										"793034361",
 										"106953899",
-										"783872617"
+										"783872617",
+										"1513918890",
+										"702591128",
+										"793012933",
+										"1265528788",
+										"823168817",
+										"513668668"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -8801,6 +8807,94 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"search-olv": {
+			"key": "search-olv",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-139468",
+					"startAt": "2026-07-10T16:45:34.181Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "search-olv-139468-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-139467",
+					"startAt": "2026-07-10T16:45:04.756Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "search-olv-139467-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-122873",
+					"startAt": "2026-05-29T22:09:59.815Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -16036,7 +16130,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
