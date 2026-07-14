@@ -8787,6 +8787,37 @@
 				}
 			]
 		},
+		"bright-coral-drum": {
+			"key": "bright-coral-drum",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-122862",
+					"startAt": "2026-05-29T21:43:57.136Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"twilight-watch-streak-leftnav": {
 			"key": "twilight-watch-streak-leftnav",
 			"enabled": true,
