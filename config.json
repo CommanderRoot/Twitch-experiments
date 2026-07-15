@@ -14872,6 +14872,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-142324",
+					"startAt": "2026-07-15T15:03:58.013Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1123750936"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment5",
+							"shards": [
+								{
+									"salt": "android_prominent_entry_point_copy-142324-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-98339",
 					"startAt": "2026-03-10T21:56:03.120Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
