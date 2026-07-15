@@ -3968,7 +3968,7 @@
 			"allocations": [
 				{
 					"key": "allocation-139856",
-					"startAt": "2026-07-13T16:31:53.866Z",
+					"startAt": "2026-07-15T16:36:26.738Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -3979,7 +3979,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 8000
+											"end": 4000
 										}
 									]
 								}
@@ -3992,7 +3992,7 @@
 									"salt": "sub_cancel_appeal_model-139856-split",
 									"ranges": [
 										{
-											"start": 8000,
+											"start": 4000,
 											"end": 9000
 										}
 									]
@@ -14697,7 +14697,7 @@
 			"allocations": [
 				{
 					"key": "allocation-139964",
-					"startAt": "2026-07-13T22:43:07.964Z",
+					"startAt": "2026-07-15T16:44:30.456Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14705,7 +14705,7 @@
 								{
 									"value": 30.1,
 									"operator": "GTE",
-									"attribute": "client_app"
+									"attribute": "app_version"
 								},
 								{
 									"value": [
@@ -14728,7 +14728,7 @@
 								{
 									"value": "30.1.0",
 									"operator": "GTE",
-									"attribute": "client_app"
+									"attribute": "app_version"
 								},
 								{
 									"value": [
@@ -16321,6 +16321,72 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"v2-to-v3-upgrade": {
+			"key": "v2-to-v3-upgrade",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-142439",
+					"startAt": "2026-07-15T16:42:03.657Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"716240994"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "v2-to-v3-upgrade-142439-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-142434",
+					"startAt": "2026-07-15T16:39:50.335Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
 							"shards": []
 						}
 					],
