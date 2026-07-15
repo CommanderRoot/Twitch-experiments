@@ -15861,6 +15861,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-142616",
+					"startAt": "2026-07-15T20:12:22.427Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"462914113"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "nopixel-rp-week-recaps-142616-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-137852",
 					"startAt": "2026-07-08T01:41:59.737Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
