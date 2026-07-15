@@ -8789,7 +8789,7 @@
 				},
 				{
 					"key": "allocation-139467",
-					"startAt": "2026-07-14T21:16:24.714Z",
+					"startAt": "2026-07-15T22:13:39.952Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -8800,7 +8800,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 500
+											"end": 1000
 										}
 									]
 								},
@@ -15861,8 +15861,8 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-142616",
-					"startAt": "2026-07-15T20:12:22.427Z",
+					"key": "allocation-142692",
+					"startAt": "2026-07-15T22:27:21.334Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15882,7 +15882,7 @@
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "nopixel-rp-week-recaps-142616-split",
+									"salt": "nopixel-rp-week-recaps-142692-split",
 									"ranges": [
 										{
 											"start": 0,
