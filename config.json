@@ -3529,7 +3529,7 @@
 			"allocations": [
 				{
 					"key": "allocation-134442",
-					"startAt": "2026-07-13T22:04:43.412Z",
+					"startAt": "2026-07-15T19:12:55.701Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3547,7 +3547,8 @@
 										"1265528788",
 										"823168817",
 										"513668668",
-										"657060282"
+										"657060282",
+										"1520406884"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -16458,6 +16459,72 @@
 				{
 					"key": "allocation-142506",
 					"startAt": "2026-07-15T18:03:31.394Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"stream-signup-v2": {
+			"key": "stream-signup-v2",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-142536",
+					"startAt": "2026-07-15T18:25:49.941Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "stream-signup-v2-142536-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-142531",
+					"startAt": "2026-07-15T18:24:28.738Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
