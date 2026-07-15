@@ -7694,6 +7694,50 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-142478",
+					"startAt": "2026-07-15T17:21:54.720Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"worldoftanks",
+										"wargaming"
+									],
+									"operator": "ONE_OF",
+									"attribute": "game_title"
+								},
+								{
+									"value": [
+										"103811294",
+										"1364518509"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-142478-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-126403",
 					"startAt": "2026-07-08T20:02:21.517Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -16387,6 +16431,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"twilight_donut_kimchi": {
+			"key": "twilight_donut_kimchi",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-142506",
+					"startAt": "2026-07-15T18:03:31.394Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
