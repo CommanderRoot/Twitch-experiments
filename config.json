@@ -5091,7 +5091,7 @@
 				},
 				"amazon-basics-multi-asin": {
 					"key": "amazon-basics-multi-asin",
-					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0CCTHVRZY\", \"B0BTXZJYB7\", \"B09HHBQKW5\", \"B0BTX3QR46\", \"B0BTX19RSY\", \"B09HH93G5N\", \"B0CCTN6HDN\", \"B0CCTHVS1D\", \"B0CCTKQ2MB\", \"B0DZPCPN3Q\", \"B0FMXNJGM9\", \"B0FPM7GPLH\"],\n  \"tracking_id\": {}\n}"
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0CCTHVRZY\", \"B0BTXZJYB7\", \"B09HHBQKW5\", \"B0BTX3QR46\", \"B0BTX19RSY\", \"B09HH93G5N\", \"B0CCTN6HDN\", \"B0CCTHVS1D\", \"B0CCTKQ2MB\"],\n  \"tracking_id\": {}\n}"
 				},
 				"amazon-basics-single-asin": {
 					"key": "amazon-basics-single-asin",
@@ -15733,7 +15733,7 @@
 			"allocations": [
 				{
 					"key": "allocation-133353",
-					"startAt": "2026-07-10T19:47:30.833Z",
+					"startAt": "2026-07-16T21:31:54.585Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15743,7 +15743,8 @@
 										"172341005",
 										"125586556",
 										"1466824788",
-										"555021990"
+										"555021990",
+										"1365159516"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
