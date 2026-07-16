@@ -7120,6 +7120,364 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-143127",
+					"startAt": "2026-07-16T22:00:00.000Z",
+					"endAt": "2026-07-17T16:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "24_hr_local_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "session_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-143127",
+					"startAt": "2026-07-17T16:00:00.000Z",
+					"endAt": "2026-07-17T17:30:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "24_hr_local_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "session_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-143127",
+					"startAt": "2026-07-17T17:30:00.000Z",
+					"endAt": "2026-07-17T19:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 4000
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "24_hr_local_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 4000
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "session_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 4000
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-143127",
+					"startAt": "2026-07-17T19:00:00.000Z",
+					"endAt": "2026-07-17T21:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 7000
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "24_hr_local_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 7000
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "session_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 7000
+										}
+									]
+								},
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-143127",
+					"startAt": "2026-07-17T21:00:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "24_hr_local_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "session_storage",
+							"shards": [
+								{
+									"salt": "huge-hungry-hippos-143127-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-125969",
 					"startAt": "2026-06-08T21:50:10.574Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
