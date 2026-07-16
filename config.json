@@ -15737,7 +15737,7 @@
 			"allocations": [
 				{
 					"key": "allocation-142692",
-					"startAt": "2026-07-16T00:36:10.382Z",
+					"startAt": "2026-07-16T17:29:25.585Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15749,6 +15749,13 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
 								}
 							]
 						}
