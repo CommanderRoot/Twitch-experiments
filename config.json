@@ -14356,42 +14356,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-129914",
-					"startAt": "2026-06-16T21:30:00.000Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "opt_in",
-							"shards": [
-								{
-									"salt": "zillion-zipping-zebras-129914-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-118202",
 					"startAt": "2026-05-14T19:24:00.368Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -15970,7 +15934,7 @@
 			"allocations": [
 				{
 					"key": "allocation-142692",
-					"startAt": "2026-07-17T16:52:48.521Z",
+					"startAt": "2026-07-17T21:46:13.503Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15979,7 +15943,8 @@
 									"value": [
 										"462914113",
 										"725071112",
-										"740017425"
+										"740017425",
+										"955766119"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
