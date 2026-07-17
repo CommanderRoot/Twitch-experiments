@@ -7183,83 +7183,6 @@
 			"allocations": [
 				{
 					"key": "allocation-143127",
-					"startAt": "2026-07-17T17:30:00.000Z",
-					"endAt": "2026-07-17T19:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "huge-hungry-hippos-143127-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 4000
-										}
-									]
-								},
-								{
-									"salt": "huge-hungry-hippos-143127-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "24_hr_local_storage",
-							"shards": [
-								{
-									"salt": "huge-hungry-hippos-143127-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 4000
-										}
-									]
-								},
-								{
-									"salt": "huge-hungry-hippos-143127-split",
-									"ranges": [
-										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "session_storage",
-							"shards": [
-								{
-									"salt": "huge-hungry-hippos-143127-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 4000
-										}
-									]
-								},
-								{
-									"salt": "huge-hungry-hippos-143127-split",
-									"ranges": [
-										{
-											"start": 6666,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-143127",
 					"startAt": "2026-07-17T19:00:00.000Z",
 					"endAt": "2026-07-17T21:00:00.000Z",
 					"splits": [
@@ -15095,6 +15018,90 @@
 						}
 					],
 					"doLog": false
+				},
+				{
+					"key": "allocation-143506",
+					"startAt": "2026-07-17T18:43:36.085Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": 30.4,
+									"operator": "GTE",
+									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": "30.4.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment5",
+							"shards": [
+								{
+									"salt": "android_prominent_entry_point_copy-143506-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment6",
+							"shards": [
+								{
+									"salt": "android_prominent_entry_point_copy-143506-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
 				},
 				{
 					"key": "allocation-98339",
