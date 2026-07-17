@@ -3403,7 +3403,7 @@
 			"allocations": [
 				{
 					"key": "allocation-134442",
-					"startAt": "2026-07-15T19:12:55.701Z",
+					"startAt": "2026-07-17T19:47:35.327Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3422,7 +3422,8 @@
 										"823168817",
 										"513668668",
 										"657060282",
-										"1520406884"
+										"1520406884",
+										"1521002911"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -16194,41 +16195,18 @@
 					"doLog": true
 				},
 				{
-					"key": "allocation-138158-holdout-gondor-notification-holdout-q1-2026",
-					"startAt": "2026-07-10T17:35:38.862Z",
+					"key": "allocation-143572-gondor-notification-holdout-q1-2026",
+					"startAt": "2026-07-17T20:13:56.892Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "dart_push_notifications_ttl_experiment-138158-split",
+									"salt": "dart_push_notifications_ttl_experiment-143572-split",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "gondor-notification-holdout-q1-2026-holdout-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "dart_push_notifications_ttl_experiment-138158-split",
-									"ranges": [
-										{
-											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -16241,22 +16219,9 @@
 											"end": 1000
 										}
 									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-138158",
-					"startAt": "2026-07-10T17:35:38.862Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
+								},
 								{
-									"salt": "dart_push_notifications_ttl_experiment-138158-split",
+									"salt": "gondor-notification-holdout-q1-2026-holdout-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -16264,13 +16229,35 @@
 										}
 									]
 								}
-							]
+							],
+							"extraLogging": {
+								"holdoutKey": "gondor-notification-holdout-q1-2026",
+								"holdoutVariation": "status_quo"
+							}
 						},
 						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "dart_push_notifications_ttl_experiment-138158-split",
+									"salt": "dart_push_notifications_ttl_experiment-143572-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								},
+								{
+									"salt": "gondor-notification-holdout-q1-2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "gondor-notification-holdout-q1-2026-holdout-split",
 									"ranges": [
 										{
 											"start": 5000,
@@ -16278,10 +16265,36 @@
 										}
 									]
 								}
-							]
+							],
+							"extraLogging": {
+								"holdoutKey": "gondor-notification-holdout-q1-2026",
+								"holdoutVariation": "all_shipped"
+							}
 						}
 					],
 					"doLog": true
+				},
+				{
+					"key": "allocation-143572",
+					"startAt": "2026-07-17T20:13:56.892Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "dart_push_notifications_ttl_experiment-143572-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
 				},
 				{
 					"key": "allocation-134422",
