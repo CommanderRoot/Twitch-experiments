@@ -5208,6 +5208,10 @@
 				"nike-06-27-2026": {
 					"key": "nike-06-27-2026",
 					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0H3QZBYF9\",\n    \"B0H3QTFMG4\",\n    \"B0H3R31LBB\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"pur-07-19-2026": {
+					"key": "pur-07-19-2026",
+					"value": "{\n  \"asin\": \"B07CRSK5KX\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -5330,7 +5334,7 @@
 				},
 				{
 					"key": "allocation-64163",
-					"startAt": "2026-06-24T19:53:14.209Z",
+					"startAt": "2026-07-17T17:09:57.972Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5339,7 +5343,8 @@
 									"value": [
 										"campaign.35IvEBvz9Im01aZYU7BlXrHJhh4",
 										"campaign.35Udb4ulryaqzXfwfhWzPVEkDoH",
-										"campaign.3EaF36tr9pQ58OPCYrWuAP6vo2g"
+										"campaign.3EaF36tr9pQ58OPCYrWuAP6vo2g",
+										"campaign.3GdizO3pAGPFJRJSvUygN8OQOWU"
 									],
 									"operator": "ONE_OF",
 									"attribute": "campaign_id"
@@ -5356,7 +5361,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "nike-demo",
+							"variationKey": "multi-asin-test",
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-64163-split",
@@ -6087,6 +6092,63 @@
 									"ranges": [
 										{
 											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-143408",
+					"startAt": "2026-07-17T17:11:59.034Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3GdPIuFd7X64WI6fw8JaWp8vO8m"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-143408-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "pur-07-19-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-143408-split",
+									"ranges": [
+										{
+											"start": 1,
 											"end": 10000
 										}
 									]
@@ -7119,83 +7181,6 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
-				{
-					"key": "allocation-143127",
-					"startAt": "2026-07-17T16:00:00.000Z",
-					"endAt": "2026-07-17T17:30:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "huge-hungry-hippos-143127-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								},
-								{
-									"salt": "huge-hungry-hippos-143127-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "24_hr_local_storage",
-							"shards": [
-								{
-									"salt": "huge-hungry-hippos-143127-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								},
-								{
-									"salt": "huge-hungry-hippos-143127-split",
-									"ranges": [
-										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "session_storage",
-							"shards": [
-								{
-									"salt": "huge-hungry-hippos-143127-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								},
-								{
-									"salt": "huge-hungry-hippos-143127-split",
-									"ranges": [
-										{
-											"start": 6666,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
 				{
 					"key": "allocation-143127",
 					"startAt": "2026-07-17T17:30:00.000Z",
@@ -16054,7 +16039,7 @@
 			"allocations": [
 				{
 					"key": "allocation-142692",
-					"startAt": "2026-07-17T16:42:48.918Z",
+					"startAt": "2026-07-17T16:52:48.521Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -16067,6 +16052,14 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
+								},
+								{
+									"value": [
+										"US",
+										"us"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
 								}
 							]
 						}
