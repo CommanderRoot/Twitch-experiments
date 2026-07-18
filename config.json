@@ -16318,6 +16318,42 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-143646",
+					"startAt": "2026-07-18T03:59:33.179Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"28296201",
+										"69621550"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sda_use_gql-143646-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-139860",
 					"startAt": "2026-07-14T00:20:58.859Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
