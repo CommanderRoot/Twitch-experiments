@@ -3403,7 +3403,7 @@
 			"allocations": [
 				{
 					"key": "allocation-134442",
-					"startAt": "2026-07-17T19:47:35.327Z",
+					"startAt": "2026-07-20T21:55:46.112Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3423,7 +3423,8 @@
 										"513668668",
 										"657060282",
 										"1520406884",
-										"1521002911"
+										"1521002911",
+										"1123750936"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -17003,6 +17004,103 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"pineapple_gate": {
+			"key": "pineapple_gate",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-144290",
+					"startAt": "2026-07-20T21:31:46.274Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"172341005"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "pineapple_gate-144290-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-144287",
+					"startAt": "2026-07-20T21:30:35.143Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"olv_sequential_bidding_enabled": {
+			"key": "olv_sequential_bidding_enabled",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-144292",
+					"startAt": "2026-07-20T21:54:55.591Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
