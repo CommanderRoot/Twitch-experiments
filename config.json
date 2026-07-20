@@ -8242,7 +8242,7 @@
 			"allocations": [
 				{
 					"key": "allocation-129261",
-					"startAt": "2026-06-15T17:35:48.302Z",
+					"startAt": "2026-07-20T19:20:40.591Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8253,6 +8253,19 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "staff"
+								},
+								{
+									"value": [
+										"en-us",
+										"en",
+										"de-de",
+										"es-es",
+										"es",
+										"fr",
+										"pt"
+									],
+									"operator": "ONE_OF",
+									"attribute": "language"
 								}
 							]
 						}
