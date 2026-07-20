@@ -14875,43 +14875,8 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-142324",
-					"startAt": "2026-07-15T15:03:58.013Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"1123750936"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment5",
-							"shards": [
-								{
-									"salt": "android_prominent_entry_point_copy-142324-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-143506",
-					"startAt": "2026-07-17T18:43:36.085Z",
+					"key": "allocation-143839",
+					"startAt": "2026-07-20T14:10:27.228Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14963,14 +14928,46 @@
 					],
 					"splits": [
 						{
-							"variationKey": "treatment5",
+							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "android_prominent_entry_point_copy-143506-split",
+									"salt": "android_prominent_entry_point_copy-143839-traffic",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 1500
+										}
+									]
+								},
+								{
+									"salt": "android_prominent_entry_point_copy-143839-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment5",
+							"shards": [
+								{
+									"salt": "android_prominent_entry_point_copy-143839-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1500
+										}
+									]
+								},
+								{
+									"salt": "android_prominent_entry_point_copy-143839-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
 										}
 									]
 								}
@@ -14980,10 +14977,19 @@
 							"variationKey": "treatment6",
 							"shards": [
 								{
-									"salt": "android_prominent_entry_point_copy-143506-split",
+									"salt": "android_prominent_entry_point_copy-143839-traffic",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
+											"end": 1500
+										}
+									]
+								},
+								{
+									"salt": "android_prominent_entry_point_copy-143839-split",
+									"ranges": [
+										{
+											"start": 6666,
 											"end": 10000
 										}
 									]
