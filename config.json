@@ -6095,14 +6095,15 @@
 				},
 				{
 					"key": "allocation-143408",
-					"startAt": "2026-07-17T17:11:59.034Z",
+					"startAt": "2026-07-21T17:53:24.589Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"campaign.3GdPIuFd7X64WI6fw8JaWp8vO8m"
+										"campaign.3GdPIuFd7X64WI6fw8JaWp8vO8m",
+										"campaign.3GoglQyH9vA1oaA5vtx1WPZmucj"
 									],
 									"operator": "ONE_OF",
 									"attribute": "campaign_id"
@@ -15922,7 +15923,7 @@
 			"allocations": [
 				{
 					"key": "allocation-142692",
-					"startAt": "2026-07-21T01:11:36.372Z",
+					"startAt": "2026-07-21T17:12:45.509Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15930,7 +15931,8 @@
 								{
 									"value": [
 										"725071112",
-										"955766119"
+										"955766119",
+										"462914113"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -15952,49 +15954,6 @@
 							"shards": [
 								{
 									"salt": "nopixel-rp-week-recaps-142692-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-144358",
-					"startAt": "2026-07-21T01:09:38.553Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"E531DB9B56064EE7A4AC64749181BD51"
-									],
-									"operator": "ONE_OF",
-									"attribute": "device_id"
-								},
-								{
-									"value": [
-										"US",
-										"us"
-									],
-									"operator": "ONE_OF",
-									"attribute": "country"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "nopixel-rp-week-recaps-144358-split",
 									"ranges": [
 										{
 											"start": 0,
