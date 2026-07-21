@@ -15922,14 +15922,13 @@
 			"allocations": [
 				{
 					"key": "allocation-142692",
-					"startAt": "2026-07-17T22:47:27.154Z",
+					"startAt": "2026-07-21T01:11:36.372Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"462914113",
 										"725071112",
 										"955766119"
 									],
@@ -15953,6 +15952,49 @@
 							"shards": [
 								{
 									"salt": "nopixel-rp-week-recaps-142692-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-144358",
+					"startAt": "2026-07-21T01:09:38.553Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"E531DB9B56064EE7A4AC64749181BD51"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								},
+								{
+									"value": [
+										"US",
+										"us"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "nopixel-rp-week-recaps-144358-split",
 									"ranges": [
 										{
 											"start": 0,
