@@ -15171,37 +15171,6 @@
 				}
 			]
 		},
-		"candlelight_skyline": {
-			"key": "candlelight_skyline",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-112099",
-					"startAt": "2026-04-24T23:09:14.985Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"frozen-reactivation-enabled": {
 			"key": "frozen-reactivation-enabled",
 			"enabled": true,
@@ -16566,6 +16535,91 @@
 				{
 					"key": "allocation-139463",
 					"startAt": "2026-07-10T16:38:01.120Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"ads-on-preaffiliates": {
+			"key": "ads-on-preaffiliates",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-139570",
+					"startAt": "2026-07-10T18:18:11.954Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ads-on-preaffiliates-139570-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "ads-on-preaffiliates-139570-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "ads-on-preaffiliates-139570-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "ads-on-preaffiliates-139570-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-139567",
+					"startAt": "2026-07-10T18:17:40.901Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
