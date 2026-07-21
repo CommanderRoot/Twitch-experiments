@@ -15923,7 +15923,7 @@
 			"allocations": [
 				{
 					"key": "allocation-142692",
-					"startAt": "2026-07-21T17:12:45.509Z",
+					"startAt": "2026-07-21T18:31:01.389Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15931,8 +15931,7 @@
 								{
 									"value": [
 										"725071112",
-										"955766119",
-										"462914113"
+										"955766119"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -15954,6 +15953,41 @@
 							"shards": [
 								{
 									"salt": "nopixel-rp-week-recaps-142692-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-144766",
+					"startAt": "2026-07-21T18:30:54.461Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"E531DB9B56064EE7A4AC64749181BD51"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "nopixel-rp-week-recaps-144766-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -16743,6 +16777,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"checkout-promotion-banner": {
+			"key": "checkout-promotion-banner",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-142474",
+					"startAt": "2026-07-15T17:16:39.743Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
