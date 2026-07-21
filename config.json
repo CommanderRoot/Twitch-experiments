@@ -15967,7 +15967,7 @@
 				},
 				{
 					"key": "allocation-144766",
-					"startAt": "2026-07-21T18:30:54.461Z",
+					"startAt": "2026-07-21T18:42:51.819Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15978,6 +15978,14 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
+								},
+								{
+									"value": [
+										"US",
+										"us"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
 								}
 							]
 						}
