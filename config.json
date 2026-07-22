@@ -3871,14 +3871,15 @@
 			"allocations": [
 				{
 					"key": "allocation-117937",
-					"startAt": "2026-06-17T20:51:31.664Z",
+					"startAt": "2026-07-22T22:17:53.963Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1364586344"
+										"1364586344",
+										"83232866"
 									],
 									"operator": "ONE_OF",
 									"attribute": "channelID"
@@ -8844,7 +8845,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "withouttax",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
