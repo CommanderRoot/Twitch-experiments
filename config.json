@@ -2333,6 +2333,77 @@
 				}
 			]
 		},
+		"next-up": {
+			"key": "next-up",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"variant1": {
+					"key": "variant1",
+					"value": "variant1"
+				},
+				"variant2": {
+					"key": "variant2",
+					"value": "variant2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-144960",
+					"startAt": "2026-07-21T21:03:38.310Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "variant1",
+							"shards": [
+								{
+									"salt": "next-up-144960-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant2",
+							"shards": [
+								{
+									"salt": "next-up-144960-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-88641",
+					"startAt": "2026-02-03T18:09:54.045Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"single-step-apple-pay": {
 			"key": "single-step-apple-pay",
 			"enabled": true,
@@ -3938,27 +4009,11 @@
 				},
 				"1-event": {
 					"key": "1-event",
-					"value": "[{\"slug\":\"football-fest\",\"position\":0}]\n"
-				},
-				"2-events": {
-					"key": "2-events",
-					"value": "[\n  { \"slug\": \"esports-world-cup\", \"position\": 0, \"sponsored\": true },\n  { \"slug\": \"test-event\", \"position\": 3 }\n]\n"
-				},
-				"1-event-test-party": {
-					"key": "1-event-test-party",
-					"value": "[{\"slug\":\"demo-event\",\"position\":0}]\n"
-				},
-				"1-event-football-fest-pos-2": {
-					"key": "1-event-football-fest-pos-2",
-					"value": "[\n  {\n    \"slug\": \"football-fest\",\n    \"position\": 1\n  }\n]"
+					"value": "[\n  {\n    \"slug\": \"ewc-2026\",\n    \"position\": 1\n  },\n  {\n    \"slug\": \"kings-world-cup-clubs-2026\",\n    \"position\": 0\n  }\n]"
 				},
 				"esl": {
 					"key": "esl",
 					"value": "[\n    {\n        \"slug\": \"iem-cologne-2026\",\n        \"position\": 0\n    },\n    {\n        \"slug\": \"football-fest\",\n        \"position\": 1\n    }\n]"
-				},
-				"evo-football-fest": {
-					"key": "evo-football-fest",
-					"value": "[\n  {\n    \"slug\": \"evo-2026\",\n    \"position\": 0\n  },\n  {\n    \"slug\": \"football-fest\",\n    \"position\": 1\n  }\n]"
 				},
 				"ewc-football-fest": {
 					"key": "ewc-football-fest",
@@ -3968,6 +4023,28 @@
 			"totalShards": 10000,
 			"entityId": 144,
 			"allocations": [
+				{
+					"key": "allocation-145632",
+					"startAt": "2026-07-25T10:00:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "1-event",
+							"shards": [
+								{
+									"salt": "promoted-events-config-145632-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-122461",
 					"startAt": "2026-05-28T21:07:18.868Z",
@@ -14724,7 +14801,7 @@
 			"allocations": [
 				{
 					"key": "allocation-143839",
-					"startAt": "2026-07-20T14:10:27.228Z",
+					"startAt": "2026-07-22T20:15:46.502Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14783,7 +14860,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1500
+											"end": 0
 										}
 									]
 								},
@@ -14806,7 +14883,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1500
+											"end": 0
 										}
 									]
 								},
@@ -14829,7 +14906,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1500
+											"end": 0
 										}
 									]
 								},
@@ -15760,7 +15837,7 @@
 			"allocations": [
 				{
 					"key": "allocation-142692",
-					"startAt": "2026-07-22T00:46:02.562Z",
+					"startAt": "2026-07-22T20:11:48.865Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15769,7 +15846,8 @@
 									"value": [
 										"725071112",
 										"955766119",
-										"740017425"
+										"740017425",
+										"1211809153"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -17064,7 +17142,7 @@
 				},
 				{
 					"key": "allocation-145030",
-					"startAt": "2026-07-21T22:13:49.512Z",
+					"startAt": "2026-07-22T20:12:32.250Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -17080,7 +17158,7 @@
 										"801633250"
 									],
 									"operator": "ONE_OF",
-									"attribute": "user_id"
+									"attribute": "id"
 								}
 							]
 						}
