@@ -14539,7 +14539,7 @@
 			"allocations": [
 				{
 					"key": "allocation-139964",
-					"startAt": "2026-07-15T16:44:30.456Z",
+					"startAt": "2026-07-22T15:59:03.765Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14594,15 +14594,6 @@
 							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "ios_prominent_entry_point_copy-139964-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1500
-										}
-									]
-								},
-								{
 									"salt": "ios_prominent_entry_point_copy-139964-split",
 									"ranges": [
 										{
@@ -14617,15 +14608,6 @@
 							"variationKey": "treatment5",
 							"shards": [
 								{
-									"salt": "ios_prominent_entry_point_copy-139964-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1500
-										}
-									]
-								},
-								{
 									"salt": "ios_prominent_entry_point_copy-139964-split",
 									"ranges": [
 										{
@@ -14639,15 +14621,6 @@
 						{
 							"variationKey": "treatment6",
 							"shards": [
-								{
-									"salt": "ios_prominent_entry_point_copy-139964-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 1500
-										}
-									]
-								},
 								{
 									"salt": "ios_prominent_entry_point_copy-139964-split",
 									"ranges": [
@@ -17056,6 +17029,107 @@
 				{
 					"key": "allocation-144851",
 					"startAt": "2026-07-21T20:29:48.179Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"mobile-mvr": {
+			"key": "mobile-mvr",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-144763",
+					"startAt": "2026-07-21T18:18:48.840Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "mobile-mvr-144763-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-145464",
+					"startAt": "2026-07-22T16:40:56.440Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"686753492"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "mobile-mvr-145464-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-144759",
+					"startAt": "2026-07-21T18:18:15.877Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
