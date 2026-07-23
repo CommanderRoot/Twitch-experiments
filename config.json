@@ -11033,7 +11033,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -12485,7 +12485,7 @@
 				},
 				{
 					"key": "allocation-139860",
-					"startAt": "2026-07-20T16:38:31.067Z",
+					"startAt": "2026-07-23T20:10:47.599Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12496,7 +12496,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 7000
+											"end": 9998
 										}
 									]
 								}
@@ -12509,8 +12509,8 @@
 									"salt": "sda_use_gql-139860-split",
 									"ranges": [
 										{
-											"start": 7000,
-											"end": 10000
+											"start": 9998,
+											"end": 9999
 										}
 									]
 								}
@@ -15692,42 +15692,6 @@
 						}
 					],
 					"doLog": false
-				},
-				{
-					"key": "allocation-123250",
-					"startAt": "2026-06-01T20:43:47.239Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "targeted_reactivated_users_promo-123250-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "targeted_reactivated_users_promo-123250-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
 				},
 				{
 					"key": "allocation-146051-holdout-promotion_holdout",
