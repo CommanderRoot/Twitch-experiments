@@ -5712,7 +5712,7 @@
 				},
 				{
 					"key": "allocation-142478",
-					"startAt": "2026-07-22T23:37:56.518Z",
+					"startAt": "2026-07-27T16:01:58.539Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5733,7 +5733,8 @@
 										"16175263",
 										"412613184",
 										"51832746",
-										"58193296"
+										"58193296",
+										"1520310489"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -13446,6 +13447,37 @@
 				}
 			]
 		},
+		"shopping_improvements": {
+			"key": "shopping_improvements",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-124197",
+					"startAt": "2026-06-03T18:00:12.386Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"signup-with-google": {
 			"key": "signup-with-google",
 			"enabled": true,
@@ -14143,6 +14175,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"sponsored_shopping_recognition": {
+			"key": "sponsored_shopping_recognition",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-134894",
+					"startAt": "2026-06-27T20:21:20.863Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
