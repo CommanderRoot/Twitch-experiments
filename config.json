@@ -5151,21 +5151,12 @@
 				},
 				{
 					"key": "allocation-146187",
-					"startAt": "2026-07-27T21:38:02.935Z",
+					"startAt": "2026-07-27T22:30:22.966Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "enabled",
 							"shards": [
-								{
-									"salt": "frozen-reactivation-enabled-146187-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "frozen-reactivation-enabled-146187-split",
 									"ranges": [
@@ -10319,6 +10310,42 @@
 						}
 					],
 					"doLog": false
+				},
+				{
+					"key": "allocation-147037",
+					"startAt": "2026-07-27T22:18:51.196Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "outstream-ads-manager-trigger-147037-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "outstream-ads-manager-trigger-147037-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
 				},
 				{
 					"key": "allocation-115139",
