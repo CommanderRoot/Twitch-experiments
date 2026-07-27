@@ -5151,7 +5151,7 @@
 				},
 				{
 					"key": "allocation-146187",
-					"startAt": "2026-07-27T20:07:56.963Z",
+					"startAt": "2026-07-27T20:26:20.795Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -5162,7 +5162,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 500
+											"end": 1000
 										}
 									]
 								},
@@ -13536,7 +13536,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -14271,7 +14271,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
