@@ -7660,7 +7660,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -10327,7 +10327,7 @@
 				},
 				{
 					"key": "allocation-147037",
-					"startAt": "2026-07-27T22:18:51.196Z",
+					"startAt": "2026-07-28T16:36:18.285Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -10338,7 +10338,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9000
+											"end": 7500
 										}
 									]
 								}
@@ -10351,7 +10351,7 @@
 									"salt": "outstream-ads-manager-trigger-147037-split",
 									"ranges": [
 										{
-											"start": 9000,
+											"start": 7500,
 											"end": 10000
 										}
 									]
