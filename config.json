@@ -1818,6 +1818,37 @@
 				}
 			]
 		},
+		"block-trusted-dob-update": {
+			"key": "block-trusted-dob-update",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-147538",
+					"startAt": "2026-07-28T19:45:16.389Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"brand_lift_v0": {
 			"key": "brand_lift_v0",
 			"enabled": true,
@@ -2513,6 +2544,49 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"checkout-benefit": {
+			"key": "checkout-benefit",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"TreatmentA": {
+					"key": "TreatmentA",
+					"value": "TreatmentA"
+				},
+				"TreatmentB": {
+					"key": "TreatmentB",
+					"value": "TreatmentB"
+				},
+				"TreatmentC": {
+					"key": "TreatmentC",
+					"value": "TreatmentC"
+				},
+				"TreatmentD": {
+					"key": "TreatmentD",
+					"value": "TreatmentD"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-143929",
+					"startAt": "2026-07-20T17:47:37.706Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -10257,7 +10331,7 @@
 				},
 				{
 					"key": "allocation-147037",
-					"startAt": "2026-07-28T16:36:18.285Z",
+					"startAt": "2026-07-28T21:33:59.658Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -10268,7 +10342,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 7500
+											"end": 5000
 										}
 									]
 								}
@@ -10281,7 +10355,7 @@
 									"salt": "outstream-ads-manager-trigger-147037-split",
 									"ranges": [
 										{
-											"start": 7500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -11792,7 +11866,7 @@
 			"allocations": [
 				{
 					"key": "allocation-133353",
-					"startAt": "2026-07-24T00:11:41.137Z",
+					"startAt": "2026-07-28T21:24:38.247Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11805,7 +11879,8 @@
 										"555021990",
 										"1365159516",
 										"510915581",
-										"1275471239"
+										"1275471239",
+										"1513956027"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
