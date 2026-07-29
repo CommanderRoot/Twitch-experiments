@@ -2351,7 +2351,8 @@
 										"953430106",
 										"910483002",
 										"910733463",
-										"445306531"
+										"445306531",
+										"801184076"
 									],
 									"operator": "ONE_OF",
 									"attribute": "userID"
@@ -4290,6 +4291,72 @@
 				}
 			]
 		},
+		"disco_ffs_ios_web": {
+			"key": "disco_ffs_ios_web",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-150224",
+					"startAt": "2026-07-29T22:50:57.662Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"228281745"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "disco_ffs_ios_web-150224-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-133316",
+					"startAt": "2026-06-23T22:13:11.025Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"disco_happy_sherbert": {
 			"key": "disco_happy_sherbert",
 			"enabled": true,
@@ -4885,7 +4952,7 @@
 				},
 				"ios-july-promo-banners": {
 					"key": "ios-july-promo-banners",
-					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-25T17:00:00Z\",\n  \"end_at\": \"2026-07-30T06:59:00Z\",\n  \"promotion_name\": \"MobileBannersPromotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-25T17:00:00Z\",\n  \"end_at\": \"2026-08-30T06:59:00Z\",\n  \"promotion_name\": \"MobileBannersPromotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -14011,6 +14078,72 @@
 					"splits": [
 						{
 							"variationKey": "treatment",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"skip-partner-invite-on-upgrade": {
+			"key": "skip-partner-invite-on-upgrade",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-150037",
+					"startAt": "2026-07-29T18:48:35.879Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"716240994"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "skip-partner-invite-on-upgrade-150037-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-150033",
+					"startAt": "2026-07-29T18:47:17.593Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
