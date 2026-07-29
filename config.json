@@ -495,6 +495,37 @@
 				}
 			]
 		},
+		"Recommended-Follows-Client-Auto-Follow": {
+			"key": "Recommended-Follows-Client-Auto-Follow",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-150164",
+					"startAt": "2026-07-29T20:49:09.830Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"Subtember-2025-Last-call-banner": {
 			"key": "Subtember-2025-Last-call-banner",
 			"enabled": true,
@@ -9654,6 +9685,37 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"nimble-narwhal-mobile": {
+			"key": "nimble-narwhal-mobile",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-150124",
+					"startAt": "2026-07-29T19:55:46.325Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
