@@ -7628,41 +7628,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-147625",
-					"startAt": "2026-07-28T22:38:53.049Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"1123750936"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "ios_prominent_entry_point_copy-147625-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-139964",
 					"startAt": "2026-07-22T15:59:03.765Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
