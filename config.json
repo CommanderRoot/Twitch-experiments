@@ -3340,7 +3340,7 @@
 				},
 				{
 					"key": "allocation-145030",
-					"startAt": "2026-07-31T19:48:07.232Z",
+					"startAt": "2026-08-03T17:23:39.531Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3355,7 +3355,22 @@
 										"780384994",
 										"801633250",
 										"22389274",
-										"139043545"
+										"139043545",
+										"66478830",
+										"804921426",
+										"214663879",
+										"89614178",
+										"772993767",
+										"19571752",
+										"1323644908",
+										"532732877",
+										"435548939",
+										"648589051",
+										"1518658375",
+										"1333350086",
+										"1365159516",
+										"55696719",
+										"40017619"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -3382,47 +3397,12 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-146572",
-					"startAt": "2026-07-24T21:45:13.529Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"EN"
-									],
-									"operator": "ONE_OF",
-									"attribute": "broadcaster_language"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "cranky-camel-146572-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-144809",
 					"startAt": "2026-07-21T19:02:04.732Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -15722,6 +15702,68 @@
 				{
 					"key": "allocation-112395",
 					"startAt": "2026-04-27T17:30:50.815Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"sponsorships_demand_channel_checkout": {
+			"key": "sponsorships_demand_channel_checkout",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-152931",
+					"startAt": "2026-08-03T13:20:29.313Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"sponsorships_demand_channel_create": {
+			"key": "sponsorships_demand_channel_create",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-152928",
+					"startAt": "2026-08-03T13:19:49.746Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
