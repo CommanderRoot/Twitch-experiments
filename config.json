@@ -8797,6 +8797,37 @@
 				}
 			]
 		},
+		"marlin-chatbot-mweb": {
+			"key": "marlin-chatbot-mweb",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-150228",
+					"startAt": "2026-07-29T23:21:47.913Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"mitten-prism-canoe": {
 			"key": "mitten-prism-canoe",
 			"enabled": true,
@@ -14106,6 +14137,37 @@
 							"shards": [
 								{
 									"salt": "skip-partner-invite-on-upgrade-150037-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-153260",
+					"startAt": "2026-08-03T21:49:54.822Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "skip-partner-invite-on-upgrade-153260-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								},
+								{
+									"salt": "skip-partner-invite-on-upgrade-153260-split",
 									"ranges": [
 										{
 											"start": 0,
