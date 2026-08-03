@@ -6103,95 +6103,6 @@
 				}
 			]
 		},
-		"gifting-auto-celebrations": {
-			"key": "gifting-auto-celebrations",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-119883",
-					"startAt": "2026-06-17T20:30:00.000Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": "29.7.0",
-									"operator": "GTE",
-									"attribute": "app_version"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"twilight"
-									],
-									"operator": "ONE_OF",
-									"attribute": "client_app"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "gifting-auto-celebrations-119883-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "gifting-auto-celebrations-119883-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-119880",
-					"startAt": "2026-05-20T22:28:11.713Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"go-turbo-go": {
 			"key": "go-turbo-go",
 			"enabled": true,
@@ -14139,6 +14050,37 @@
 				{
 					"key": "allocation-150033",
 					"startAt": "2026-07-29T18:47:17.593Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"sleepy-seal-mobile": {
+			"key": "sleepy-seal-mobile",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-153132",
+					"startAt": "2026-08-03T18:55:18.878Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
