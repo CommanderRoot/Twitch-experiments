@@ -16104,6 +16104,41 @@
 				}
 			]
 		},
+		"subtember-2026": {
+			"key": "subtember-2026",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\"value\": \"control\"}"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "{\n  \"sponsor1\": {\n    \"sponsor_name\": \"state-farm\",\n    \"start_at\": \"2026-08-28T17:00:00Z\",\n    \"end_at\": \"2026-09-08T17:00:00Z\"\n  },\n  \"sponsor2\": {\n    \"sponsor_name\": \"unknown\",\n    \"start_at\": \"2026-09-08T17:00:00Z\",\n    \"end_at\": \"2026-09-25T17:00:00Z\"\n  },\n  \"sponsor3\": {\n    \"sponsor_name\": \"minecraft\",\n    \"start_at\": \"2026-09-25T17:00:00Z\",\n    \"end_at\": \"2026-10-01T17:00:00Z\",\n    \"banner_url\": \"https://www.twitch.tv/wv/commerce/subtember-banner/gifts\"\n  }\n}"
+				},
+				"test": {
+					"key": "test",
+					"value": "{\n  \"sponsor1\": {\n    \"sponsor_name\": \"test\",\n    \"start_at\": \"2026-08-05T17:00:00Z\",\n    \"end_at\": \"2026-09-25T17:00:00Z\"\n  }\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-154401",
+					"startAt": "2026-08-05T22:10:28.531Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"support_panel_simplification": {
 			"key": "support_panel_simplification",
 			"enabled": true,
@@ -17836,6 +17871,75 @@
 				{
 					"key": "allocation-146205",
 					"startAt": "2026-07-23T23:36:55.638Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"ws-leaderboard-gate": {
+			"key": "ws-leaderboard-gate",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-154367",
+					"startAt": "2026-08-05T21:15:53.999Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"454229488",
+										"781870240",
+										"87227463",
+										"1501520166"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "ws-leaderboard-gate-154367-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-154360",
+					"startAt": "2026-08-05T21:14:22.594Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
