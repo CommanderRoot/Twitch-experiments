@@ -16115,7 +16115,7 @@
 				},
 				"treatment": {
 					"key": "treatment",
-					"value": "{\n  \"sponsor1\": {\n    \"sponsor_name\": \"state-farm\",\n    \"start_at\": \"2026-08-28T17:00:00Z\",\n    \"end_at\": \"2026-09-08T17:00:00Z\"\n  },\n  \"sponsor2\": {\n    \"sponsor_name\": \"unknown\",\n    \"start_at\": \"2026-09-08T17:00:00Z\",\n    \"end_at\": \"2026-09-25T17:00:00Z\"\n  },\n  \"sponsor3\": {\n    \"sponsor_name\": \"minecraft\",\n    \"start_at\": \"2026-09-25T17:00:00Z\",\n    \"end_at\": \"2026-10-01T17:00:00Z\",\n    \"banner_url\": \"https://www.twitch.tv/wv/commerce/subtember-banner/gifts\"\n  }\n}"
+					"value": "{\n  \"sponsor1\": {\n    \"sponsor_name\": \"State Farm\",\n    \"start_at\": \"2026-08-28T17:00:00Z\",\n    \"end_at\": \"2026-09-08T17:00:00Z\"\n  },\n  \"sponsor2\": {\n    \"sponsor_name\": \"unknown\",\n    \"start_at\": \"2026-09-08T17:00:00Z\",\n    \"end_at\": \"2026-09-25T17:00:00Z\"\n  },\n  \"sponsor3\": {\n    \"sponsor_name\": \"Minecraft\",\n    \"start_at\": \"2026-09-25T17:00:00Z\",\n    \"end_at\": \"2026-10-01T17:00:00Z\",\n    \"banner_url\": \"https://www.twitch.tv/wv/commerce/subtember-banner/gifts\"\n  }\n}"
 				},
 				"test": {
 					"key": "test",
