@@ -14,7 +14,7 @@ jobs:
   cronjob_update:
     name: Cronjob update
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     permissions: 
       contents: write
 
