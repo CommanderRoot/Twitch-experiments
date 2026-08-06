@@ -557,6 +557,45 @@
 				}
 			]
 		},
+		"Subtember-2026-Sponsor-Banner": {
+			"key": "Subtember-2026-Sponsor-Banner",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"state-farm": {
+					"key": "state-farm",
+					"value": "state-farm"
+				},
+				"sponsor2": {
+					"key": "sponsor2",
+					"value": "sponsor2"
+				},
+				"minecraft": {
+					"key": "minecraft",
+					"value": "minecraft"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-154427",
+					"startAt": "2026-08-06T00:08:24.311Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"TURBO_CROSS_SELL_backend_experiment_flag": {
 			"key": "TURBO_CROSS_SELL_backend_experiment_flag",
 			"enabled": true,
@@ -14253,6 +14292,58 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-154425",
+					"startAt": "2026-08-05T23:53:24.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"104354422",
+										"48276979",
+										"1437558751",
+										"158937397",
+										"1437983493",
+										"780384994",
+										"657402127",
+										"176749346",
+										"121650561",
+										"856674156",
+										"1240503223",
+										"801633250",
+										"887968459",
+										"1290332340",
+										"414673216",
+										"804921426",
+										"981537436",
+										"89614178"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "sleepy-seal-mobile-154425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-153132",
 					"startAt": "2026-08-03T18:55:18.878Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -16097,41 +16188,6 @@
 					"splits": [
 						{
 							"variationKey": "control-bf012",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"subtember-2026": {
-			"key": "subtember-2026",
-			"enabled": true,
-			"variationType": "JSON",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "{\"value\": \"control\"}"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "{\n  \"sponsor1\": {\n    \"sponsor_name\": \"State Farm\",\n    \"start_at\": \"2026-08-28T17:00:00Z\",\n    \"end_at\": \"2026-09-08T17:00:00Z\"\n  },\n  \"sponsor2\": {\n    \"sponsor_name\": \"unknown\",\n    \"start_at\": \"2026-09-08T17:00:00Z\",\n    \"end_at\": \"2026-09-25T17:00:00Z\"\n  },\n  \"sponsor3\": {\n    \"sponsor_name\": \"Minecraft\",\n    \"start_at\": \"2026-09-25T17:00:00Z\",\n    \"end_at\": \"2026-10-01T17:00:00Z\",\n    \"banner_url\": \"https://www.twitch.tv/wv/commerce/subtember-banner/gifts\"\n  }\n}"
-				},
-				"test": {
-					"key": "test",
-					"value": "{\n  \"sponsor1\": {\n    \"sponsor_name\": \"test\",\n    \"start_at\": \"2026-08-05T17:00:00Z\",\n    \"end_at\": \"2026-09-25T17:00:00Z\"\n  }\n}"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-154401",
-					"startAt": "2026-08-05T22:10:28.531Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
 							"shards": []
 						}
 					],
