@@ -9868,7 +9868,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -12081,7 +12081,7 @@
 			"allocations": [
 				{
 					"key": "allocation-133353",
-					"startAt": "2026-08-05T20:33:45.843Z",
+					"startAt": "2026-08-06T18:30:46.667Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12100,7 +12100,9 @@
 										"30340070",
 										"119316908",
 										"36849319",
-										"1333270952"
+										"1333270952",
+										"1457162270",
+										"754354653"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -14231,21 +14233,12 @@
 				},
 				{
 					"key": "allocation-153260",
-					"startAt": "2026-08-03T21:49:54.822Z",
+					"startAt": "2026-08-06T18:54:28.093Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "skip-partner-invite-on-upgrade-153260-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "skip-partner-invite-on-upgrade-153260-split",
 									"ranges": [
