@@ -12242,7 +12242,7 @@
 				},
 				{
 					"key": "allocation-155110",
-					"startAt": "2026-08-07T16:46:17.003Z",
+					"startAt": "2026-08-07T17:02:58.899Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12259,7 +12259,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "treatment",
+							"variationKey": "control",
 							"shards": [
 								{
 									"salt": "purple_pineapple-155110-split",
