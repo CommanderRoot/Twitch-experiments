@@ -17972,7 +17972,7 @@
 			"allocations": [
 				{
 					"key": "allocation-150211",
-					"startAt": "2026-08-05T20:53:37.374Z",
+					"startAt": "2026-08-07T00:32:06.889Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -17986,6 +17986,20 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"1501520166",
+										"781870240",
+										"454229488",
+										"87227463"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
 								}
 							]
 						}
