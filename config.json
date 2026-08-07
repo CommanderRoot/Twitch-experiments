@@ -12194,7 +12194,7 @@
 			"allocations": [
 				{
 					"key": "allocation-133353",
-					"startAt": "2026-08-06T18:30:46.667Z",
+					"startAt": "2026-08-07T16:46:37.449Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12208,7 +12208,6 @@
 										"510915581",
 										"1275471239",
 										"1513956027",
-										"172341005",
 										"184650462",
 										"30340070",
 										"119316908",
@@ -12229,6 +12228,41 @@
 							"shards": [
 								{
 									"salt": "purple_pineapple-133353-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-155110",
+					"startAt": "2026-08-07T16:46:17.003Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"\"todo\""
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "purple_pineapple-155110-split",
 									"ranges": [
 										{
 											"start": 0,
