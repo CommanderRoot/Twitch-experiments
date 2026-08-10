@@ -6222,20 +6222,11 @@
 				},
 				{
 					"key": "allocation-133901",
-					"startAt": "2026-06-24T20:16:33.157Z",
+					"startAt": "2026-08-10T22:53:01.024Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
-								{
-									"value": [
-										"US",
-										"CA",
-										"GB"
-									],
-									"operator": "ONE_OF",
-									"attribute": "country"
-								},
 								{
 									"value": [
 										"dragonage"
@@ -6273,15 +6264,6 @@
 							"conditions": [
 								{
 									"value": [
-										"US",
-										"CA",
-										"GB"
-									],
-									"operator": "ONE_OF",
-									"attribute": "country"
-								},
-								{
-									"value": [
 										"palworld"
 									],
 									"operator": "ONE_OF",
@@ -6310,30 +6292,18 @@
 				},
 				{
 					"key": "allocation-94142",
-					"startAt": "2026-07-02T02:24:41.147Z",
+					"startAt": "2026-08-10T22:58:51.611Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"US",
-										"CA",
-										"NL",
-										"JP"
+										"reanimal",
+										"dragonage",
+										"palworld"
 									],
-									"operator": "NOT_ONE_OF",
-									"attribute": "country"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"reanimal"
-									],
-									"operator": "NOT_ONE_OF",
+									"operator": "ONE_OF",
 									"attribute": "game_title"
 								}
 							]
@@ -6341,32 +6311,10 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-94142-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-98358",
-					"startAt": "2026-04-21T15:44:12.178Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "gamelift_page_release-98358-split",
+									"salt": "gamelift_page_release-94142-split",
 									"ranges": [
 										{
 											"start": 0,
