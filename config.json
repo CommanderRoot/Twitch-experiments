@@ -17614,6 +17614,126 @@
 				}
 			]
 		},
+		"wallet-add-payment-method": {
+			"key": "wallet-add-payment-method",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"Variant 1": {
+					"key": "Variant 1",
+					"value": "Variant 1"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-155255",
+					"startAt": "2026-08-07T21:16:54.294Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1165723565"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "Variant 1",
+							"shards": [
+								{
+									"salt": "wallet-add-payment-method-155255-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-155254",
+					"startAt": "2026-08-10T21:04:56.771Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "wallet-add-payment-method-155254-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "wallet-add-payment-method-155254-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "Variant 1",
+							"shards": [
+								{
+									"salt": "wallet-add-payment-method-155254-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "wallet-add-payment-method-155254-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-155251",
+					"startAt": "2026-08-07T21:14:01.199Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"wallet-page-redesign": {
 			"key": "wallet-page-redesign",
 			"enabled": true,
