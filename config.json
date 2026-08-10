@@ -1284,7 +1284,7 @@
 			"allocations": [
 				{
 					"key": "allocation-155657",
-					"startAt": "2026-08-10T17:54:44.167Z",
+					"startAt": "2026-08-10T18:31:23.148Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1319,15 +1319,14 @@
 				},
 				{
 					"key": "allocation-155663",
-					"startAt": "2026-08-10T17:55:41.781Z",
+					"startAt": "2026-08-10T18:27:06.889Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1497341635",
-										"686753492"
+										"1497341635"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -2233,7 +2232,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "android",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
