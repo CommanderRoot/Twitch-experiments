@@ -2038,6 +2038,41 @@
 			"entityId": 145,
 			"allocations": [
 				{
+					"key": "allocation-156114",
+					"startAt": "2026-08-11T15:00:20.712Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1400681942"
+									],
+									"operator": "ONE_OF",
+									"attribute": "channel_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "bright-coral-drum-156114-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-122862",
 					"startAt": "2026-05-29T21:43:57.136Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
