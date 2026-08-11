@@ -6749,6 +6749,58 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-156213",
+					"startAt": "2026-08-11T17:31:00.851Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US",
+										"CA",
+										"AU",
+										"NZ"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "hide-xsolla-checkout-156213-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "hide-xsolla-checkout-156213-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-154753",
 					"startAt": "2026-08-06T19:49:56.431Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
