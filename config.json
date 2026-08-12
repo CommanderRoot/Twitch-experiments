@@ -1732,6 +1732,72 @@
 				}
 			]
 		},
+		"audibubble": {
+			"key": "audibubble",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-156457",
+					"startAt": "2026-08-12T02:24:23.634Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"172341005"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "audibubble-156457-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-156454",
+					"startAt": "2026-08-12T02:23:06.883Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"autopub-recaps": {
 			"key": "autopub-recaps",
 			"enabled": true,
@@ -14864,6 +14930,37 @@
 				{
 					"key": "allocation-153132",
 					"startAt": "2026-08-03T18:55:18.878Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"sleepy-seal-quick-create": {
+			"key": "sleepy-seal-quick-create",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-156846",
+					"startAt": "2026-08-12T19:43:03.320Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
