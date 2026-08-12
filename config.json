@@ -11282,6 +11282,37 @@
 				}
 			]
 		},
+		"pinata_2026_web": {
+			"key": "pinata_2026_web",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-156413",
+					"startAt": "2026-08-11T23:49:01.283Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"pine-shadow-atlas": {
 			"key": "pine-shadow-atlas",
 			"enabled": true,
@@ -14140,6 +14171,41 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"show-your-rank": {
+			"key": "show-your-rank",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"GoalsFirst": {
+					"key": "GoalsFirst",
+					"value": "GoalsFirst"
+				},
+				"LeaderboardFirst": {
+					"key": "LeaderboardFirst",
+					"value": "LeaderboardFirst"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-156410",
+					"startAt": "2026-08-11T23:30:19.721Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
