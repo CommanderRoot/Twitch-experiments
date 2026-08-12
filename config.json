@@ -557,6 +557,37 @@
 				}
 			]
 		},
+		"Subtember-2026-Dates": {
+			"key": "Subtember-2026-Dates",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"null": {
+					"key": "null",
+					"value": "null"
+				},
+				"2026-10-01T17:00:00Z": {
+					"key": "2026-10-01T17:00:00Z",
+					"value": "2026-10-01T17:00:00Z"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-156701",
+					"startAt": "2026-08-12T15:58:50.880Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "2026-10-01T17:00:00Z",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"Subtember-2026-Sponsor-Banner": {
 			"key": "Subtember-2026-Sponsor-Banner",
 			"enabled": true,
@@ -17345,7 +17376,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
