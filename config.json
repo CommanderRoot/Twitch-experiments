@@ -1466,6 +1466,76 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-157998",
+					"startAt": "2026-08-14T02:50:48.328Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": 30.9,
+									"operator": "GTE",
+									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": "30.9.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment6",
+							"shards": [
+								{
+									"salt": "android_prominent_entry_point_copy-157998-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-143839",
 					"startAt": "2026-07-22T20:15:46.502Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
