@@ -18290,6 +18290,28 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-158321",
+					"startAt": "2026-08-14T22:05:55.214Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "wallet-add-payment-method-158321-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-155254",
 					"startAt": "2026-08-10T21:04:56.771Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
