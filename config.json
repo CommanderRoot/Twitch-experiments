@@ -11175,7 +11175,7 @@
 				},
 				{
 					"key": "allocation-157910",
-					"startAt": "2026-08-13T22:01:11.730Z",
+					"startAt": "2026-08-14T17:38:33.478Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -11186,7 +11186,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 7500
+											"end": 5000
 										}
 									]
 								}
@@ -11199,7 +11199,7 @@
 									"salt": "outstream-ads-manager-trigger-157910-split",
 									"ranges": [
 										{
-											"start": 7500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
