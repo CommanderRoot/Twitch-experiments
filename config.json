@@ -8708,7 +8708,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-08-14T19:31:30.737Z",
+					"startAt": "2026-08-17T20:16:49.145Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -8719,7 +8719,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 1
 										}
 									]
 								}
@@ -8732,8 +8732,8 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 5000,
-											"end": 10000
+											"start": 1,
+											"end": 9999
 										}
 									]
 								}
@@ -9944,6 +9944,37 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"monkey-blueberry-soda": {
+			"key": "monkey-blueberry-soda",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-158699",
+					"startAt": "2026-08-17T17:46:38.436Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
