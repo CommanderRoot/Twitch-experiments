@@ -11413,7 +11413,7 @@
 			"allocations": [
 				{
 					"key": "allocation-158667",
-					"startAt": "2026-08-17T17:26:41.013Z",
+					"startAt": "2026-08-17T17:44:08.080Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11429,6 +11429,14 @@
 									"value": "30.8.0",
 									"operator": "GTE",
 									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"ios",
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
 								}
 							]
 						}
@@ -11439,6 +11447,48 @@
 							"shards": [
 								{
 									"salt": "passkey-enabled-158667-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-158695",
+					"startAt": "2026-08-17T17:44:34.902Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"PL"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								},
+								{
+									"value": [
+										"web"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "passkey-enabled-158695-split",
 									"ranges": [
 										{
 											"start": 0,
