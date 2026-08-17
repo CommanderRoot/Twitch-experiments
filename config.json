@@ -11413,7 +11413,7 @@
 			"allocations": [
 				{
 					"key": "allocation-158667",
-					"startAt": "2026-08-17T17:44:08.080Z",
+					"startAt": "2026-08-17T18:13:51.400Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11424,11 +11424,6 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "country"
-								},
-								{
-									"value": "30.8.0",
-									"operator": "GTE",
-									"attribute": "app_version"
 								},
 								{
 									"value": [
@@ -11461,7 +11456,7 @@
 				},
 				{
 					"key": "allocation-158695",
-					"startAt": "2026-08-17T17:44:34.902Z",
+					"startAt": "2026-08-17T17:51:15.043Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11475,7 +11470,8 @@
 								},
 								{
 									"value": [
-										"web"
+										"web",
+										"mobile_web"
 									],
 									"operator": "ONE_OF",
 									"attribute": "platform"
