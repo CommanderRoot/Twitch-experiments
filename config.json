@@ -8597,7 +8597,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-07-10T15:55:35.537Z",
+					"startAt": "2026-08-18T22:34:04.993Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8614,20 +8614,6 @@
 					],
 					"splits": [
 						{
-							"variationKey": "base",
-							"shards": [
-								{
-									"salt": "ivs-player-core-distribution-45890-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
 							"variationKey": "variant-a",
 							"shards": [
 								{
@@ -8635,6 +8621,20 @@
 									"ranges": [
 										{
 											"start": 0,
+											"end": 9500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant-b",
+							"shards": [
+								{
+									"salt": "ivs-player-core-distribution-45890-split",
+									"ranges": [
+										{
+											"start": 9500,
 											"end": 10000
 										}
 									]
@@ -12328,21 +12328,12 @@
 				},
 				{
 					"key": "allocation-159394",
-					"startAt": "2026-08-18T21:59:27.203Z",
+					"startAt": "2026-08-18T22:34:56.966Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "podded_non_channel_page_olv-159394-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "podded_non_channel_page_olv-159394-split",
 									"ranges": [
@@ -14803,7 +14794,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -15775,7 +15766,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
