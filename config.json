@@ -6762,73 +6762,6 @@
 				}
 			]
 		},
-		"gif_keyboard_channel_rollout": {
-			"key": "gif_keyboard_channel_rollout",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 145,
-			"allocations": [
-				{
-					"key": "allocation-154609",
-					"startAt": "2026-08-06T16:24:16.804Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "gif_keyboard_channel_rollout-154609-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "gif_keyboard_channel_rollout-154609-split",
-									"ranges": [
-										{
-											"start": 9000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-154600",
-					"startAt": "2026-08-06T16:12:07.523Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"gift_badge_progression": {
 			"key": "gift_badge_progression",
 			"enabled": true,
@@ -12359,6 +12292,37 @@
 							"shards": [
 								{
 									"salt": "podded_non_channel_page_olv-157858-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-159394",
+					"startAt": "2026-08-18T20:53:24.186Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "podded_non_channel_page_olv-159394-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "podded_non_channel_page_olv-159394-split",
 									"ranges": [
 										{
 											"start": 0,
