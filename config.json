@@ -5362,6 +5362,33 @@
 				}
 			]
 		},
+		"dvd_drop_campaigns": {
+			"key": "dvd_drop_campaigns",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"dvddropcampaigns": {
+					"key": "dvddropcampaigns",
+					"value": "{\"campaigns\": [\"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\"19f00aac-6679-4e10-b36c-881beb654e52\"], \"enabled\": true, \"testUsers\":[]} "
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-158981",
+					"startAt": "2026-08-18T04:33:20.227Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "dvddropcampaigns",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"enable-apple-pay-web": {
 			"key": "enable-apple-pay-web",
 			"enabled": true,
