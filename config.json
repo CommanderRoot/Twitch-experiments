@@ -3053,6 +3053,42 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-159413",
+					"startAt": "2026-08-18T21:36:42.308Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "checkout-benefit-bits-159413-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentA",
+							"shards": [
+								{
+									"salt": "checkout-benefit-bits-159413-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-156900",
 					"startAt": "2026-08-12T20:26:19.008Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -12306,7 +12342,7 @@
 				},
 				{
 					"key": "allocation-159394",
-					"startAt": "2026-08-18T20:53:24.186Z",
+					"startAt": "2026-08-18T21:24:01.230Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12317,7 +12353,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1000
+											"end": 2500
 										}
 									]
 								},
