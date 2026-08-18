@@ -6761,6 +6761,73 @@
 				}
 			]
 		},
+		"gif_keyboard_channel_rollout": {
+			"key": "gif_keyboard_channel_rollout",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-154609",
+					"startAt": "2026-08-06T16:24:16.804Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "gif_keyboard_channel_rollout-154609-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gif_keyboard_channel_rollout-154609-split",
+									"ranges": [
+										{
+											"start": 9000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-154600",
+					"startAt": "2026-08-06T16:12:07.523Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"gift_badge_progression": {
 			"key": "gift_badge_progression",
 			"enabled": true,
@@ -16865,7 +16932,7 @@
 			"allocations": [
 				{
 					"key": "allocation-113697",
-					"startAt": "2026-08-18T19:21:17.610Z",
+					"startAt": "2026-08-18T20:11:11.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -16886,7 +16953,9 @@
 										"478423395",
 										"444253619",
 										"1397721709",
-										"33044548"
+										"33044548",
+										"932570484",
+										"468465221"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
