@@ -13886,6 +13886,37 @@
 				}
 			]
 		},
+		"sda_use_multiformat": {
+			"key": "sda_use_multiformat",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-159005",
+					"startAt": "2026-08-18T08:02:37.657Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"sda_waterfall_split": {
 			"key": "sda_waterfall_split",
 			"enabled": true,
