@@ -16865,7 +16865,7 @@
 			"allocations": [
 				{
 					"key": "allocation-113697",
-					"startAt": "2026-08-12T21:15:18.667Z",
+					"startAt": "2026-08-18T19:21:17.610Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -16885,7 +16885,8 @@
 										"108706200",
 										"478423395",
 										"444253619",
-										"1397721709"
+										"1397721709",
+										"33044548"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -16899,6 +16900,88 @@
 							"shards": [
 								{
 									"salt": "sponsorships_demand_channel-113697-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-159346",
+					"startAt": "2026-08-18T19:16:11.299Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"156218233",
+										"1471972613"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "sponsorships_demand_channel-159346-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-159347",
+					"startAt": "2026-08-18T19:18:31.108Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"160427",
+										"128023816",
+										"112925634",
+										"136246463",
+										"1517297638",
+										"71281952",
+										"38961964",
+										"423576932",
+										"135153400",
+										"23319307",
+										"65158718",
+										"584902510"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "sponsorships_demand_channel-159347-split",
 									"ranges": [
 										{
 											"start": 0,
