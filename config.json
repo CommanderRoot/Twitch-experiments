@@ -4325,6 +4325,67 @@
 				}
 			]
 		},
+		"cspon-dual-format-campaign-id": {
+			"key": "cspon-dual-format-campaign-id",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				},
+				"campaign.3HuiF2uIy8qpV9fL7Uy0jAu00Nw": {
+					"key": "campaign.3HuiF2uIy8qpV9fL7Uy0jAu00Nw",
+					"value": "campaign.3HuiF2uIy8qpV9fL7Uy0jAu00Nw"
+				},
+				"campaign.3i9aqa1qgtffvarzcaezzjyryrq": {
+					"key": "campaign.3i9aqa1qgtffvarzcaezzjyryrq",
+					"value": "campaign.3i9aqa1qgtffvarzcaezzjyryrq"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-160155",
+					"startAt": "2026-08-20T17:00:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "campaign.3i9aqa1qgtffvarzcaezzjyryrq",
+							"shards": [
+								{
+									"salt": "cspon-dual-format-campaign-id-160155-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-157982",
+					"startAt": "2026-08-14T00:31:01.331Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"cta-button": {
 			"key": "cta-button",
 			"enabled": true,
