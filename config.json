@@ -6363,7 +6363,7 @@
 				},
 				{
 					"key": "allocation-123888",
-					"startAt": "2026-08-18T22:04:25.802Z",
+					"startAt": "2026-08-19T17:17:35.104Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -6380,7 +6380,8 @@
 										"37027965",
 										"727503307",
 										"796421056",
-										"469239177"
+										"469239177",
+										"1530696507"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -11499,7 +11500,7 @@
 			"allocations": [
 				{
 					"key": "allocation-158667",
-					"startAt": "2026-08-19T15:58:54.603Z",
+					"startAt": "2026-08-19T17:00:34.841Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11545,6 +11546,29 @@
 									"value": "30.8.2",
 									"operator": "GTE",
 									"attribute": "mobile_app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"PL"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								},
+								{
+									"value": "30.8.2",
+									"operator": "GTE",
+									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"ios"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
 								}
 							]
 						}
