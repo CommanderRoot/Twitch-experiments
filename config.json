@@ -1016,14 +1016,14 @@
 			"allocations": [
 				{
 					"key": "allocation-144658",
-					"startAt": "2026-08-13T17:04:59.330Z",
+					"startAt": "2026-08-19T22:45:50.915Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"0"
+										"1145439815"
 									],
 									"operator": "ONE_OF",
 									"attribute": "channel_id"
