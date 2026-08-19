@@ -53,6 +53,52 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-160104",
+					"startAt": "2026-08-19T20:48:21.067Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"513668668"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Android-T2T3-Subs-160104-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-116601",
 					"startAt": "2026-05-08T21:38:07.252Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -19443,7 +19489,7 @@
 				}
 			},
 			"totalShards": 10000,
-			"entityId": 143,
+			"entityId": 144,
 			"allocations": [
 				{
 					"key": "allocation-144851",
