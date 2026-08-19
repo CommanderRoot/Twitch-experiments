@@ -1537,13 +1537,13 @@
 				},
 				{
 					"key": "allocation-143839",
-					"startAt": "2026-07-22T20:15:46.502Z",
+					"startAt": "2026-08-19T19:56:57.444Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
-									"value": 30.4,
+									"value": 30.9,
 									"operator": "GTE",
 									"attribute": "app_version"
 								},
@@ -1566,7 +1566,7 @@
 						{
 							"conditions": [
 								{
-									"value": "30.4.0",
+									"value": "30.9.0",
 									"operator": "GTE",
 									"attribute": "app_version"
 								},
@@ -3965,7 +3965,7 @@
 			"allocations": [
 				{
 					"key": "allocation-144812",
-					"startAt": "2026-07-21T19:02:32.737Z",
+					"startAt": "2026-08-19T20:04:52.376Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -3976,7 +3976,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -19451,7 +19451,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
