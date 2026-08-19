@@ -11499,7 +11499,7 @@
 			"allocations": [
 				{
 					"key": "allocation-158667",
-					"startAt": "2026-08-19T15:57:38.763Z",
+					"startAt": "2026-08-19T15:58:54.603Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11521,7 +11521,7 @@
 								{
 									"value": "30.8.2",
 									"operator": "GTE",
-									"attribute": "app_version"
+									"attribute": "mobile_app_version"
 								}
 							]
 						},
@@ -11544,7 +11544,7 @@
 								{
 									"value": "30.8.2",
 									"operator": "GTE",
-									"attribute": "app_version"
+									"attribute": "mobile_app_version"
 								}
 							]
 						}
