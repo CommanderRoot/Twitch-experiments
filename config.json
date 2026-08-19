@@ -5403,6 +5403,10 @@
 			"enabled": true,
 			"variationType": "JSON",
 			"variations": {
+				"dvddropcampaigns-5ff3d": {
+					"key": "dvddropcampaigns-5ff3d",
+					"value": "{\n  \"campaigns\": [\n    \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n    \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n    \"19f00aac-6679-4e10-b36c-881beb654e52\"\n  ],\n  \"enabled\": false,\n  \"testUsers\": []\n}"
+				},
 				"dvddropcampaigns": {
 					"key": "dvddropcampaigns",
 					"value": "{\"campaigns\": [\"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\"19f00aac-6679-4e10-b36c-881beb654e52\"], \"enabled\": true, \"testUsers\":[]} "
@@ -5417,7 +5421,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "dvddropcampaigns",
+							"variationKey": "dvddropcampaigns-5ff3d",
 							"shards": []
 						}
 					],
@@ -11469,6 +11473,150 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"passkey-enabled": {
+			"key": "passkey-enabled",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-158667",
+					"startAt": "2026-08-19T15:57:38.763Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"PL"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								},
+								{
+									"value": [
+										"ios"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								},
+								{
+									"value": "30.8.2",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"PL"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								},
+								{
+									"value": "30.8.2",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "passkey-enabled-158667-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-158695",
+					"startAt": "2026-08-17T17:51:15.043Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"PL"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								},
+								{
+									"value": [
+										"web",
+										"mobile_web"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "passkey-enabled-158695-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-128957",
+					"startAt": "2026-06-13T00:05:44.292Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
