@@ -639,6 +639,37 @@
 				}
 			]
 		},
+		"Recommended-Follows-Client-Follow-Callout": {
+			"key": "Recommended-Follows-Client-Follow-Callout",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-160790",
+					"startAt": "2026-08-20T20:39:14.700Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"Subtember-2025-Last-call-banner": {
 			"key": "Subtember-2025-Last-call-banner",
 			"enabled": true,
@@ -1083,7 +1114,7 @@
 			"allocations": [
 				{
 					"key": "allocation-144658",
-					"startAt": "2026-08-19T22:45:50.915Z",
+					"startAt": "2026-08-20T20:25:44.974Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1094,6 +1125,13 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "channel_id"
+								},
+								{
+									"value": [
+										"1145439815"
+									],
+									"operator": "ONE_OF",
+									"attribute": "channelID"
 								}
 							]
 						}
@@ -19012,44 +19050,13 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-158321",
-					"startAt": "2026-08-14T22:05:55.214Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "wallet-add-payment-method-158321-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-155254",
-					"startAt": "2026-08-10T21:04:56.771Z",
+					"startAt": "2026-08-20T20:09:14.241Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "wallet-add-payment-method-155254-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "wallet-add-payment-method-155254-split",
 									"ranges": [
@@ -19064,15 +19071,6 @@
 						{
 							"variationKey": "Variant 1",
 							"shards": [
-								{
-									"salt": "wallet-add-payment-method-155254-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "wallet-add-payment-method-155254-split",
 									"ranges": [
