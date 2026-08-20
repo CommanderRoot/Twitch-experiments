@@ -17493,6 +17493,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-160890",
+					"startAt": "2026-08-20T22:44:15.260Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1240603437"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "sponsorships_demand_channel_checkout-160890-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-152931",
 					"startAt": "2026-08-03T13:20:29.313Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
