@@ -662,7 +662,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -1114,7 +1114,7 @@
 			"allocations": [
 				{
 					"key": "allocation-144658",
-					"startAt": "2026-08-20T20:25:44.974Z",
+					"startAt": "2026-08-20T20:47:34.401Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1125,13 +1125,6 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "channel_id"
-								},
-								{
-									"value": [
-										"1145439815"
-									],
-									"operator": "ONE_OF",
-									"attribute": "channelID"
 								}
 							]
 						}
@@ -4259,6 +4252,42 @@
 						}
 					],
 					"doLog": false
+				},
+				{
+					"key": "allocation-160800",
+					"startAt": "2026-08-20T20:53:25.550Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "cranky-camel-160800-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "cranky-camel-160800-split",
+									"ranges": [
+										{
+											"start": 100,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
 				},
 				{
 					"key": "allocation-144809",
