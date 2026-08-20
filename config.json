@@ -560,13 +560,13 @@
 			"allocations": [
 				{
 					"key": "allocation-160716",
-					"startAt": "2026-07-29T21:02:47.998Z",
+					"startAt": "2026-08-20T18:43:32.298Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
-									"value": "27.2.0",
+									"value": "30.9.0",
 									"operator": "GTE",
 									"attribute": "app_version"
 								},
@@ -593,7 +593,7 @@
 						{
 							"conditions": [
 								{
-									"value": "30.7.0",
+									"value": 30.9,
 									"operator": "GTE",
 									"attribute": "app_version"
 								},
@@ -631,7 +631,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -2257,21 +2257,12 @@
 			"allocations": [
 				{
 					"key": "allocation-157849",
-					"startAt": "2026-08-13T20:08:14.898Z",
+					"startAt": "2026-08-20T18:57:43.107Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "block-trusted-dob-update-157849-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "block-trusted-dob-update-157849-split",
 									"ranges": [
