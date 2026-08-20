@@ -559,6 +559,73 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-160716",
+					"startAt": "2026-07-29T21:02:47.998Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "27.2.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"ios"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"twilight"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": "30.7.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Recommended-Follows-Client-Auto-Follow-160716-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-150164",
 					"startAt": "2026-07-29T20:49:09.830Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
