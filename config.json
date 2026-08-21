@@ -7021,7 +7021,7 @@
 				},
 				{
 					"key": "allocation-94142",
-					"startAt": "2026-08-10T22:58:51.611Z",
+					"startAt": "2026-08-21T18:48:46.437Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7030,7 +7030,8 @@
 									"value": [
 										"reanimal",
 										"dragonage",
-										"palworld"
+										"palworld",
+										"wotheat"
 									],
 									"operator": "ONE_OF",
 									"attribute": "game_title"
@@ -18995,6 +18996,41 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-161227",
+					"startAt": "2026-08-21T18:51:37.036Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"ios"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "ultralight_com_goals_and_badge_progress-161227-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-161042",
 					"startAt": "2026-08-21T12:25:31.087Z",
