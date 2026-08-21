@@ -19013,6 +19013,37 @@
 				}
 			]
 		},
+		"ultralight_com_goals_and_badge_progress": {
+			"key": "ultralight_com_goals_and_badge_progress",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-161042",
+					"startAt": "2026-08-21T12:25:31.087Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"v2-to-v3-upgrade": {
 			"key": "v2-to-v3-upgrade",
 			"enabled": true,
