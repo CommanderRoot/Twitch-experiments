@@ -8344,7 +8344,7 @@
 				},
 				{
 					"key": "allocation-89136",
-					"startAt": "2026-08-24T17:46:35.202Z",
+					"startAt": "2026-08-24T18:36:12.047Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8352,7 +8352,8 @@
 								{
 									"value": [
 										"1420689251",
-										"1532834559"
+										"1532834559",
+										"1532846041"
 									],
 									"operator": "NOT_ONE_OF",
 									"attribute": "user_id"
@@ -15261,6 +15262,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"shouts-phase1d-rollout": {
+			"key": "shouts-phase1d-rollout",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-162025",
+					"startAt": "2026-08-24T18:23:00.256Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
