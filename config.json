@@ -2282,6 +2282,37 @@
 				}
 			]
 		},
+		"bits-cheer-visibility-v2": {
+			"key": "bits-cheer-visibility-v2",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-162226",
+					"startAt": "2026-08-25T04:03:07.660Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"blatantly-bulky-recycling-captains": {
 			"key": "blatantly-bulky-recycling-captains",
 			"enabled": true,
