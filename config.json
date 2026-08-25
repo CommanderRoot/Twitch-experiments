@@ -2457,6 +2457,41 @@
 			"entityId": 145,
 			"allocations": [
 				{
+					"key": "allocation-162723",
+					"startAt": "2026-08-25T20:33:12.777Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1400681942"
+									],
+									"operator": "ONE_OF",
+									"attribute": "channel_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "bright-coral-drum-162723-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-122862",
 					"startAt": "2026-05-29T21:43:57.136Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -19096,6 +19131,37 @@
 				{
 					"key": "allocation-53174",
 					"startAt": "2025-09-17T20:35:54.721Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"twilight_sub_free_trial": {
+			"key": "twilight_sub_free_trial",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-162698",
+					"startAt": "2026-08-25T20:12:37.021Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
