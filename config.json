@@ -54,7 +54,7 @@
 			"allocations": [
 				{
 					"key": "allocation-160104",
-					"startAt": "2026-08-19T20:48:21.067Z",
+					"startAt": "2026-08-25T17:45:02.491Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -73,6 +73,17 @@
 								{
 									"value": [
 										"513668668"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"818132351"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -6701,7 +6712,7 @@
 				},
 				{
 					"key": "allocation-123888",
-					"startAt": "2026-08-19T17:17:35.104Z",
+					"startAt": "2026-08-25T17:44:19.266Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -6719,7 +6730,9 @@
 										"727503307",
 										"796421056",
 										"469239177",
-										"1530696507"
+										"1530696507",
+										"463938213",
+										"1305388098"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
