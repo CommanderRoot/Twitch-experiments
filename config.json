@@ -14509,62 +14509,8 @@
 			"entityId": 144,
 			"allocations": [
 				{
-					"key": "allocation-160917",
-					"startAt": "2026-08-25T20:43:57.486Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sda_use_multiformat-160917-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "sda_use_multiformat-160917-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "sda_use_multiformat-160917-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "sda_use_multiformat-160917-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-160920",
-					"startAt": "2026-08-25T20:44:50.763Z",
+					"startAt": "2026-08-25T21:08:34.260Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14572,7 +14518,10 @@
 								{
 									"value": [
 										"1016611616",
-										"714650202"
+										"714650202",
+										"1029078864",
+										"46527267",
+										"1064816520"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
