@@ -7332,13 +7332,13 @@
 					"key": "control",
 					"value": "control"
 				},
-				"channel-clips-reel-and-penalize-tag-section": {
-					"key": "channel-clips-reel-and-penalize-tag-section",
-					"value": "channel-clips-reel-and-penalize-tag-section"
+				"clips-shelf-then-vods-shelf": {
+					"key": "clips-shelf-then-vods-shelf",
+					"value": "clips-shelf-then-vods-shelf"
 				},
-				"penalize-exact-tag-match-section-only": {
-					"key": "penalize-exact-tag-match-section-only",
-					"value": "penalize-exact-tag-match-section-only"
+				"vods-shelf-then-clips-shelf": {
+					"key": "vods-shelf-then-clips-shelf",
+					"value": "vods-shelf-then-clips-shelf"
 				}
 			},
 			"totalShards": 10000,
