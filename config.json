@@ -54,7 +54,7 @@
 			"allocations": [
 				{
 					"key": "allocation-160104",
-					"startAt": "2026-08-26T18:42:14.628Z",
+					"startAt": "2026-08-26T20:34:59.374Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -74,7 +74,8 @@
 									"value": [
 										"513668668",
 										"1265528788",
-										"818132351"
+										"818132351",
+										"833690784"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -2763,7 +2764,7 @@
 			"allocations": [
 				{
 					"key": "allocation-157865",
-					"startAt": "2026-08-26T17:30:38.467Z",
+					"startAt": "2026-08-26T20:15:28.378Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2777,7 +2778,11 @@
 										"772993767",
 										"852541026",
 										"121650561",
-										"90997863"
+										"90997863",
+										"180353298",
+										"19571752",
+										"734564764",
+										"1336338915"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -6301,6 +6306,73 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"first-stream-anniversary-event": {
+			"key": "first-stream-anniversary-event",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-159255",
+					"startAt": "2026-08-18T17:32:42.257Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "first-stream-anniversary-event-159255-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "first-stream-anniversary-event-159255-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-144946",
+					"startAt": "2026-07-21T20:54:54.171Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -18036,7 +18108,7 @@
 			"allocations": [
 				{
 					"key": "allocation-139856",
-					"startAt": "2026-07-15T16:36:26.738Z",
+					"startAt": "2026-08-26T20:56:51.799Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -18047,7 +18119,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 4000
+											"end": 1000
 										}
 									]
 								}
@@ -18060,7 +18132,7 @@
 									"salt": "sub_cancel_appeal_model-139856-split",
 									"ranges": [
 										{
-											"start": 4000,
+											"start": 1000,
 											"end": 9000
 										}
 									]
