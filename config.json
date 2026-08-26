@@ -11478,6 +11478,91 @@
 				}
 			]
 		},
+		"onboarding-2fa-ui": {
+			"key": "onboarding-2fa-ui",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"v2": {
+					"key": "v2",
+					"value": "v2"
+				},
+				"v3-2fa": {
+					"key": "v3-2fa",
+					"value": "v3-2fa"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-161116",
+					"startAt": "2026-08-26T02:35:45.238Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v2",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v3-2fa",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-161113",
+					"startAt": "2026-08-21T15:55:26.282Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"one-click-checkout-expansion": {
 			"key": "one-click-checkout-expansion",
 			"enabled": true,
