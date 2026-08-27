@@ -4034,17 +4034,18 @@
 			"allocations": [
 				{
 					"key": "allocation-160163",
-					"startAt": "2026-08-19T23:41:50.976Z",
+					"startAt": "2026-08-27T19:04:49.945Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"517824208"
+										"1hu73ciafqaecoeuriy1ub8r2qedd5g",
+										"3odg4l1sk8797tf3an749s5qkkw7cf"
 									],
 									"operator": "ONE_OF",
-									"attribute": "user_id"
+									"attribute": "client_id"
 								}
 							]
 						}
@@ -4070,6 +4071,73 @@
 				{
 					"key": "allocation-160160",
 					"startAt": "2026-08-19T23:34:40.469Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"consolelog_allowlist": {
+			"key": "consolelog_allowlist",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 1026,
+			"allocations": [
+				{
+					"key": "allocation-161783",
+					"startAt": "2026-08-24T15:53:16.437Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1hu73ciafqaecoeuriy1ub8r2qedd5g",
+										"3odg4l1sk8797tf3an749s5qkkw7cf"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "consolelog_allowlist-161783-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-161373",
+					"startAt": "2026-08-22T03:33:22.456Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -9418,7 +9486,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "withouttax",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -12996,6 +13064,37 @@
 				{
 					"key": "allocation-157853",
 					"startAt": "2026-08-13T20:10:44.134Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"pokemon_worlds_2026_premium_event_topnav": {
+			"key": "pokemon_worlds_2026_premium_event_topnav",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-162510",
+					"startAt": "2026-08-25T15:49:18.758Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -18592,12 +18691,66 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-163790",
+					"startAt": "2026-08-27T17:20:59.581Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "tax-br-required-163790-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 4000
+										}
+									]
+								},
+								{
+									"salt": "tax-br-required-163790-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "tax-br-required-163790-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 4000
+										}
+									]
+								},
+								{
+									"salt": "tax-br-required-163790-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-158254",
 					"startAt": "2026-08-14T20:32:31.962Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
