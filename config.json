@@ -1614,7 +1614,7 @@
 			"allocations": [
 				{
 					"key": "allocation-162090",
-					"startAt": "2026-08-26T16:25:00.571Z",
+					"startAt": "2026-08-26T21:36:54.196Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1622,7 +1622,6 @@
 								{
 									"value": [
 										"1165723565",
-										"1000351895",
 										"1533598380"
 									],
 									"operator": "ONE_OF",
@@ -11393,6 +11392,37 @@
 				}
 			]
 		},
+		"offline-channel-page-redesign": {
+			"key": "offline-channel-page-redesign",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-163321",
+					"startAt": "2026-08-26T22:08:42.995Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"olv_sequential_bidding_enabled": {
 			"key": "olv_sequential_bidding_enabled",
 			"enabled": true,
@@ -17595,7 +17625,7 @@
 			"allocations": [
 				{
 					"key": "allocation-113697",
-					"startAt": "2026-08-20T15:45:08.770Z",
+					"startAt": "2026-08-26T21:30:55.819Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
