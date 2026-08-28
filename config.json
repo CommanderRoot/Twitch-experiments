@@ -7289,7 +7289,7 @@
 				},
 				{
 					"key": "allocation-94142",
-					"startAt": "2026-08-21T18:48:46.437Z",
+					"startAt": "2026-08-28T16:02:40.469Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7299,7 +7299,8 @@
 										"reanimal",
 										"dragonage",
 										"palworld",
-										"wotheat"
+										"wotheat",
+										"crimsondesert"
 									],
 									"operator": "ONE_OF",
 									"attribute": "game_title"
@@ -13619,51 +13620,25 @@
 					"key": "no-events",
 					"value": "[]"
 				},
-				"1-event": {
-					"key": "1-event",
-					"value": "[\n  {\n    \"slug\": \"ewc-2026\",\n    \"position\": 1\n  },\n  {\n    \"slug\": \"kings-world-cup-clubs-2026\",\n    \"position\": 0\n  }\n]"
-				},
 				"esl": {
 					"key": "esl",
 					"value": "[\n    {\n        \"slug\": \"iem-cologne-2026\",\n        \"position\": 0\n    },\n    {\n        \"slug\": \"football-fest\",\n        \"position\": 1\n    }\n]"
 				},
-				"ewc-football-fest": {
-					"key": "ewc-football-fest",
-					"value": "[\n  {\n    \"slug\": \"ewc-2026\",\n    \"position\": 0\n  },\n  {\n    \"slug\": \"football-fest\",\n    \"position\": 1\n  }\n]"
+				"pokemon-worlds": {
+					"key": "pokemon-worlds",
+					"value": "[\n  {\n    \"slug\": \"2026pokemon-worlds\",\n    \"position\": 0\n  }\n]"
 				}
 			},
 			"totalShards": 10000,
 			"entityId": 144,
 			"allocations": [
 				{
-					"key": "allocation-145632",
-					"startAt": "2026-07-25T10:00:00.000Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "1-event",
-							"shards": [
-								{
-									"salt": "promoted-events-config-145632-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-122461",
 					"startAt": "2026-05-28T21:07:18.868Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "ewc-football-fest",
+							"variationKey": "pokemon-worlds",
 							"shards": []
 						}
 					],
