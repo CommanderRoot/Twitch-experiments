@@ -54,7 +54,7 @@
 			"allocations": [
 				{
 					"key": "allocation-160104",
-					"startAt": "2026-08-26T20:34:59.374Z",
+					"startAt": "2026-08-28T02:34:46.644Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -75,7 +75,8 @@
 										"513668668",
 										"1265528788",
 										"818132351",
-										"833690784"
+										"833690784",
+										"1377624955"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -1614,7 +1615,7 @@
 			"allocations": [
 				{
 					"key": "allocation-162090",
-					"startAt": "2026-08-26T21:36:54.196Z",
+					"startAt": "2026-08-27T23:37:51.202Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1632,7 +1633,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "treatment5",
+							"variationKey": "treatment6",
 							"shards": [
 								{
 									"salt": "android_prominent_entry_point_copy-162090-split",
@@ -2363,6 +2364,37 @@
 				{
 					"key": "allocation-147538",
 					"startAt": "2026-07-28T19:45:16.389Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"brand_lift_global_expansion": {
+			"key": "brand_lift_global_expansion",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-164069",
+					"startAt": "2026-08-27T22:30:00.520Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -8834,7 +8866,7 @@
 			"allocations": [
 				{
 					"key": "allocation-139964",
-					"startAt": "2026-07-22T15:59:03.765Z",
+					"startAt": "2026-08-27T22:50:58.258Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8893,21 +8925,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment5",
-							"shards": [
-								{
-									"salt": "ios_prominent_entry_point_copy-139964-split",
-									"ranges": [
-										{
-											"start": 3333,
-											"end": 6666
+											"end": 200
 										}
 									]
 								}
@@ -8920,7 +8938,7 @@
 									"salt": "ios_prominent_entry_point_copy-139964-split",
 									"ranges": [
 										{
-											"start": 6666,
+											"start": 200,
 											"end": 10000
 										}
 									]
@@ -9462,7 +9480,7 @@
 				},
 				"control-dev-staging": {
 					"key": "control-dev-staging",
-					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\"\n  ]\n}"
+					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\",\n    \"342e15d5-b088-42d3-a847-1250cf348056\"\n  ]\n}"
 				},
 				"empty": {
 					"key": "empty",
@@ -13092,6 +13110,59 @@
 			"totalShards": 10000,
 			"entityId": 144,
 			"allocations": [
+				{
+					"key": "allocation-164135",
+					"startAt": "2026-08-28T16:00:00.000Z",
+					"endAt": "2026-08-31T06:59:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "pokemon_worlds_2026_premium_event_topnav-164135-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-164135",
+					"startAt": "2026-08-31T06:59:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "pokemon_worlds_2026_premium_event_topnav-164135-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "pokemon_worlds_2026_premium_event_topnav-164135-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-162510",
 					"startAt": "2026-08-25T15:49:18.758Z",
