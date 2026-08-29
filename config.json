@@ -564,7 +564,7 @@
 			"allocations": [
 				{
 					"key": "allocation-160716",
-					"startAt": "2026-08-20T18:43:32.298Z",
+					"startAt": "2026-08-28T21:44:22.566Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -597,7 +597,7 @@
 						{
 							"conditions": [
 								{
-									"value": 30.9,
+									"value": "30.9.0",
 									"operator": "GTE",
 									"attribute": "app_version"
 								},
@@ -606,7 +606,7 @@
 										"android"
 									],
 									"operator": "ONE_OF",
-									"attribute": "client_app"
+									"attribute": "platform"
 								}
 							]
 						}
@@ -767,7 +767,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "state-farm",
 							"shards": []
 						}
 					],
@@ -2339,6 +2339,41 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-164453",
+					"startAt": "2026-08-28T21:08:12.120Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1281836487"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "block-trusted-dob-update-164453-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-157849",
 					"startAt": "2026-08-20T18:57:43.107Z",
@@ -9481,7 +9516,7 @@
 				},
 				"control-dev-staging": {
 					"key": "control-dev-staging",
-					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\",\n    \"342e15d5-b088-42d3-a847-1250cf348056\"\n  ]\n}"
+					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\",\n    \"342e15d5-b088-42d3-a847-1250cf348056\",\n    \"984ec6cf-e579-4dbc-b7dd-ceb200d0db90\",\n    \"804ce2c5-7e20-4a54-9334-6ec6d95caf6c\"\n  ]\n}"
 				},
 				"empty": {
 					"key": "empty",
@@ -10576,6 +10611,91 @@
 				}
 			]
 		},
+		"multi-month-billing-cycle-layout": {
+			"key": "multi-month-billing-cycle-layout",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment-rows": {
+					"key": "treatment-rows",
+					"value": "treatment-rows"
+				},
+				"treatment-upsell-toggle": {
+					"key": "treatment-upsell-toggle",
+					"value": "treatment-upsell-toggle"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-150719",
+					"startAt": "2026-07-30T22:31:57.580Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "multi-month-billing-cycle-layout-150719-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment-rows",
+							"shards": [
+								{
+									"salt": "multi-month-billing-cycle-layout-150719-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment-upsell-toggle",
+							"shards": [
+								{
+									"salt": "multi-month-billing-cycle-layout-150719-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-150716",
+					"startAt": "2026-07-30T22:31:56.281Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"mweb-android-intent-deeplink": {
 			"key": "mweb-android-intent-deeplink",
 			"enabled": true,
@@ -11633,6 +11753,225 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"onboarding-2fa-ui": {
+			"key": "onboarding-2fa-ui",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"v2": {
+					"key": "v2",
+					"value": "v2"
+				},
+				"v3-2fa": {
+					"key": "v3-2fa",
+					"value": "v3-2fa"
+				},
+				"v3-control": {
+					"key": "v3-control",
+					"value": "v3-control"
+				},
+				"v3-test": {
+					"key": "v3-test",
+					"value": "v3-test"
+				},
+				"v2-test": {
+					"key": "v2-test",
+					"value": "v2-test"
+				},
+				"v3-2fa-test": {
+					"key": "v3-2fa-test",
+					"value": "v3-2fa-test"
+				},
+				"v3-control-test": {
+					"key": "v3-control-test",
+					"value": "v3-control-test"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-162817",
+					"startAt": "2026-08-26T17:00:28.311Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1533389399",
+										"1533607235",
+										"1483055079"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-162817-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v2",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-162817-split",
+									"ranges": [
+										{
+											"start": 9,
+											"end": 9990
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v3-2fa",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-162817-split",
+									"ranges": [
+										{
+											"start": 9990,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-164246",
+					"startAt": "2026-08-28T16:18:13.332Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"invitation_create"
+									],
+									"operator": "ONE_OF",
+									"attribute": "source"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "v3-test",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-164246-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v2-test",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-164246-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-161116",
+					"startAt": "2026-08-28T16:19:01.303Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v3-2fa-test",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v3-control-test",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 9999
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-161113",
+					"startAt": "2026-08-21T15:55:26.282Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -13665,7 +14004,7 @@
 			"allocations": [
 				{
 					"key": "allocation-133353",
-					"startAt": "2026-08-13T04:40:53.852Z",
+					"startAt": "2026-08-28T20:37:01.631Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -13687,7 +14026,8 @@
 										"1457162270",
 										"754354653",
 										"592011877",
-										"172341005"
+										"172341005",
+										"489684071"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -13794,6 +14134,41 @@
 					"splits": [
 						{
 							"variationKey": "120000",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"raspberry-tiger-ranch": {
+			"key": "raspberry-tiger-ranch",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment-a": {
+					"key": "treatment-a",
+					"value": "treatment-a"
+				},
+				"treatment-b": {
+					"key": "treatment-b",
+					"value": "treatment-b"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-164460",
+					"startAt": "2026-08-28T21:26:35.350Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment-a",
 							"shards": []
 						}
 					],
