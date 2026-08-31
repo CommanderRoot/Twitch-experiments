@@ -1099,6 +1099,37 @@
 				}
 			]
 		},
+		"ads-display-creative-safeframe-isolation": {
+			"key": "ads-display-creative-safeframe-isolation",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-165047",
+					"startAt": "2026-08-31T22:46:58.119Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"ads-on-preaffiliates": {
 			"key": "ads-on-preaffiliates",
 			"enabled": true,
@@ -2557,28 +2588,15 @@
 			"entityId": 145,
 			"allocations": [
 				{
-					"key": "allocation-162723",
-					"startAt": "2026-08-25T20:33:12.777Z",
+					"key": "allocation-164993",
+					"startAt": "2026-08-31T22:37:06.815Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"1400681942"
-									],
-									"operator": "ONE_OF",
-									"attribute": "channel_id"
-								}
-							]
-						}
-					],
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "bright-coral-drum-162723-split",
+									"salt": "bright-coral-drum-164993-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -2597,7 +2615,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -2686,6 +2704,72 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"campfire-kettle": {
+			"key": "campfire-kettle",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-165008",
+					"startAt": "2026-08-03T20:18:12.590Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "campfire-kettle-165008-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-150203",
+					"startAt": "2026-07-29T21:45:02.498Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -2947,7 +3031,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -11870,7 +11954,7 @@
 			"allocations": [
 				{
 					"key": "allocation-162817",
-					"startAt": "2026-08-26T17:00:28.311Z",
+					"startAt": "2026-08-31T20:17:44.683Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11879,7 +11963,8 @@
 									"value": [
 										"1533389399",
 										"1533607235",
-										"1483055079"
+										"1483055079",
+										"1535871355"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -11896,21 +11981,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "v2",
-							"shards": [
-								{
-									"salt": "onboarding-2fa-ui-162817-split",
-									"ranges": [
-										{
-											"start": 9,
-											"end": 9990
+											"end": 99
 										}
 									]
 								}
@@ -11923,7 +11994,7 @@
 									"salt": "onboarding-2fa-ui-162817-split",
 									"ranges": [
 										{
-											"start": 9990,
+											"start": 99,
 											"end": 10000
 										}
 									]
@@ -11935,14 +12006,15 @@
 				},
 				{
 					"key": "allocation-164246",
-					"startAt": "2026-08-28T16:18:13.332Z",
+					"startAt": "2026-08-31T20:29:55.396Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"invitation_create"
+										"invitation_create",
+										"invite_creation"
 									],
 									"operator": "ONE_OF",
 									"attribute": "source"
@@ -15194,6 +15266,50 @@
 							"shards": [
 								{
 									"salt": "sda_use_multiformat-160920-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-165057",
+					"startAt": "2026-08-31T23:03:24.781Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "sda_use_multiformat-165057-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								},
+								{
+									"salt": "sda_use_multiformat-165057-split",
 									"ranges": [
 										{
 											"start": 0,
