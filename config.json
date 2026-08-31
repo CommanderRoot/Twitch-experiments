@@ -12486,55 +12486,8 @@
 			"allocations": [
 				{
 					"key": "allocation-158667",
-					"startAt": "2026-08-31T18:36:38.143Z",
+					"startAt": "2026-08-31T19:30:31.664Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"ios",
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								},
-								{
-									"value": "30.8.2",
-									"operator": "GTE",
-									"attribute": "mobile_app_version"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"android",
-										"ios"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								},
-								{
-									"value": 30.9,
-									"operator": "GTE",
-									"attribute": "mobile_app_version"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"ios"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
 					"splits": [
 						{
 							"variationKey": "true",
@@ -12555,22 +12508,8 @@
 				},
 				{
 					"key": "allocation-158695",
-					"startAt": "2026-08-31T16:19:08.405Z",
+					"startAt": "2026-08-31T19:31:46.206Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"web",
-										"mobile_web"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
 					"splits": [
 						{
 							"variationKey": "true",
@@ -12595,7 +12534,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
