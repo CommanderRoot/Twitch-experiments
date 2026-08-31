@@ -13452,28 +13452,6 @@
 			"allocations": [
 				{
 					"key": "allocation-164135",
-					"startAt": "2026-08-28T16:00:00.000Z",
-					"endAt": "2026-08-31T06:59:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "pokemon_worlds_2026_premium_event_topnav-164135-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-164135",
 					"startAt": "2026-08-31T06:59:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
