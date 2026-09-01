@@ -10684,6 +10684,42 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-165452",
+					"startAt": "2026-09-01T21:09:00.382Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "monkey-blueberry-soda-165452-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "monkey-blueberry-soda-165452-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-158699",
 					"startAt": "2026-08-17T17:46:38.436Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -17274,6 +17310,10 @@
 				"zachstechturf": {
 					"key": "zachstechturf",
 					"value": "{\n    \"asins\": [\"B0GK1M1N4V\", \"B0GK1FMZWB\", \"B0GP839YVJ\", \"B0GJSFFLXZ\", \"B0GJDLQV1N\", \"B0GHYGLNTT\"]\n}"
+				},
+				"patty": {
+					"key": "patty",
+					"value": "{\n    \"asins\": [\"B0GK1M1N4V\", \"B0GK1FMZWB\", \"B0GP839YVJ\", \"B0GJSFFLXZ\", \"B0GJDLQV1N\", \"B0GHYGLNTT\"]\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -18785,6 +18825,595 @@
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-165068-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-165425",
+					"startAt": "2026-09-01T20:06:22.799Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3Ijvk7G53kikAffF6u9LPVuvzPV"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "b0cl8w1hzq",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "b00wt26ux8",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "b082tpdtm2",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "b086pkmz21",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "b0f2wxqz9w",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "multi-asin-test",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "amazon-basics-multi-asin",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "amazon-basics-single-asin",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-multi-asin",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-multi-asin-ca",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "fazedemo",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "nyx",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "dove-mencare",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "ca-dove-mencare",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "us-bissell",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "loreal",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "us-revlon",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "us-razer",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "revlon",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "meta-quest",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "us-bazooka",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "b0fssz97z3",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-04-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "garnier-04-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-04-17-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "bodyarmor-05-11-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf-05-05-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "forza6-05-22-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "forza05-28-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elf05-28-26",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "forza05-28-262",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "elfmoreplants",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "forza05-28-26-32a81",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "nike-demo",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "nike-06-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "nike-06-27-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "pur-07-19-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "zachstechturf",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "patty",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-165425-split",
 									"ranges": [
 										{
 											"start": 0,
