@@ -4233,73 +4233,6 @@
 				}
 			]
 		},
-		"console_logs": {
-			"key": "console_logs",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-160163",
-					"startAt": "2026-08-27T19:04:49.945Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"1hu73ciafqaecoeuriy1ub8r2qedd5g",
-										"3odg4l1sk8797tf3an749s5qkkw7cf"
-									],
-									"operator": "ONE_OF",
-									"attribute": "client_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "console_logs-160163-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-160160",
-					"startAt": "2026-08-19T23:34:40.469Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"consolelog_allowlist": {
 			"key": "consolelog_allowlist",
 			"enabled": true,
@@ -4319,18 +4252,20 @@
 			"allocations": [
 				{
 					"key": "allocation-161783",
-					"startAt": "2026-08-24T15:53:16.437Z",
+					"startAt": "2026-09-01T17:07:39.361Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1hu73ciafqaecoeuriy1ub8r2qedd5g",
-										"3odg4l1sk8797tf3an749s5qkkw7cf"
+										"57047445",
+										"517824208",
+										"40876073",
+										"11148817"
 									],
 									"operator": "ONE_OF",
-									"attribute": "client_id"
+									"attribute": "user_id"
 								}
 							]
 						}
@@ -4487,7 +4422,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
