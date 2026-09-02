@@ -2096,6 +2096,72 @@
 				}
 			]
 		},
+		"auto-raid-eligible:": {
+			"key": "auto-raid-eligible:",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-163909",
+					"startAt": "2026-08-27T18:57:02.870Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "auto-raid-eligible:-163909-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-162713",
+					"startAt": "2026-08-25T20:29:05.823Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"autopub-recaps": {
 			"key": "autopub-recaps",
 			"enabled": true,
