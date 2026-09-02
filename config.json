@@ -7127,7 +7127,7 @@
 				},
 				{
 					"key": "allocation-134650",
-					"startAt": "2026-07-16T16:38:40.622Z",
+					"startAt": "2026-09-02T04:04:43.475Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7158,7 +7158,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "treatment",
+							"variationKey": "control",
 							"shards": [
 								{
 									"salt": "gamelift_page_release-134650-split",
@@ -7363,7 +7363,7 @@
 				},
 				{
 					"key": "allocation-126403",
-					"startAt": "2026-07-08T20:02:21.517Z",
+					"startAt": "2026-09-02T03:28:20.259Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7377,8 +7377,7 @@
 								},
 								{
 									"value": [
-										"dragonage",
-										"palworld"
+										"dragonage"
 									],
 									"operator": "ONE_OF",
 									"attribute": "game_title"
@@ -7441,7 +7440,7 @@
 				},
 				{
 					"key": "allocation-138651",
-					"startAt": "2026-07-10T03:30:00.000Z",
+					"startAt": "2026-09-02T03:28:01.945Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7458,7 +7457,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "treatment",
+							"variationKey": "control",
 							"shards": [
 								{
 									"salt": "gamelift_page_release-138651-split",
@@ -7476,7 +7475,7 @@
 				},
 				{
 					"key": "allocation-94142",
-					"startAt": "2026-08-28T16:02:40.469Z",
+					"startAt": "2026-09-02T03:25:10.166Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -7485,7 +7484,6 @@
 									"value": [
 										"reanimal",
 										"dragonage",
-										"palworld",
 										"wotheat",
 										"crimsondesert"
 									],
