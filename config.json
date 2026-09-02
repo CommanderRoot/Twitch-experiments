@@ -2115,9 +2115,20 @@
 			"allocations": [
 				{
 					"key": "allocation-163909",
-					"startAt": "2026-08-27T18:57:02.870Z",
+					"startAt": "2026-09-02T17:51:26.098Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"172341005"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						},
 						{
 							"conditions": [
 								{
@@ -2136,6 +2147,41 @@
 							"shards": [
 								{
 									"salt": "auto-raid-eligible:-163909-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-165821",
+					"startAt": "2026-09-02T17:51:05.442Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "is_acquired_creator"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "auto-raid-eligible:-165821-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -2817,6 +2863,41 @@
 							"shards": [
 								{
 									"salt": "campfire-kettle-165008-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-165862",
+					"startAt": "2026-09-02T18:47:16.626Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"232694709"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "campfire-kettle-165862-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -17166,11 +17247,11 @@
 				},
 				"zachstechturf": {
 					"key": "zachstechturf",
-					"value": "{\n    \"asins\": [\"B0GK1M1N4V\", \"B0GK1FMZWB\", \"B0GP839YVJ\", \"B0GJSFFLXZ\", \"B0GJDLQV1N\", \"B0GHYGLNTT\"]\n}"
+					"value": "{\n    \"asin\": \"\",\n    \"asins\": [\"B0GK1M1N4V\", \"B0GK1FMZWB\", \"B0GP839YVJ\", \"B0GJSFFLXZ\", \"B0GJDLQV1N\", \"B0GHYGLNTT\"],\n    \"tracking_id\": {}\n}"
 				},
 				"patty": {
 					"key": "patty",
-					"value": "{\n    \"asins\": [\"B0GK1M1N4V\", \"B0GK1FMZWB\", \"B0GP839YVJ\", \"B0GJSFFLXZ\", \"B0GJDLQV1N\", \"B0GHYGLNTT\"]\n}"
+					"value": "{\n    \"asin\": \"\",\n    \"asins\": [\"B0GK1M1N4V\", \"B0GK1FMZWB\", \"B0GP839YVJ\", \"B0GJSFFLXZ\", \"B0GJDLQV1N\", \"B0GHYGLNTT\"],\n    \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -18120,7 +18201,7 @@
 				},
 				{
 					"key": "allocation-165068",
-					"startAt": "2026-08-31T23:47:32.847Z",
+					"startAt": "2026-09-02T17:34:51.961Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -18131,7 +18212,7 @@
 										"campaign.3Igs4AclbDFA2fS6JorXZvQ0PkT"
 									],
 									"operator": "ONE_OF",
-									"attribute": "campaign_id "
+									"attribute": "campaign_id"
 								},
 								{
 									"value": [
@@ -18147,524 +18228,6 @@
 					"splits": [
 						{
 							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "b0cl8w1hzq",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "b00wt26ux8",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "b082tpdtm2",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "b086pkmz21",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "b0f2wxqz9w",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "multi-asin-test",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "amazon-basics-multi-asin",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "amazon-basics-single-asin",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf-multi-asin",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf-multi-asin-ca",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "fazedemo",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "nyx",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "dove-mencare",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "ca-dove-mencare",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "us-bissell",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "loreal",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "us-revlon",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "us-razer",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "revlon",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "meta-quest",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "us-bazooka",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "b0fssz97z3",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf-04-2026",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "garnier-04-2026",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf-04-17-26",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "bodyarmor-05-11-26",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf-05-05-26",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "forza6-05-22-26",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "forza05-28-26",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elf05-28-26",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "forza05-28-262",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "elfmoreplants",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "forza05-28-26-32a81",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "nike-demo",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "nike-06-2026",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "nike-06-27-2026",
-							"shards": [
-								{
-									"salt": "sponsored_shopping_release-165068-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "pur-07-19-2026",
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-165068-split",
@@ -19297,6 +18860,37 @@
 				}
 			]
 		},
+		"sponsorship_dsa_web_enabled": {
+			"key": "sponsorship_dsa_web_enabled",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-164767",
+					"startAt": "2026-08-31T17:10:31.184Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"sponsorships_demand_channel": {
 			"key": "sponsorships_demand_channel",
 			"enabled": true,
@@ -19618,7 +19212,7 @@
 			"allocations": [
 				{
 					"key": "allocation-158790",
-					"startAt": "2026-09-02T16:44:39.490Z",
+					"startAt": "2026-09-02T18:23:07.835Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -19642,7 +19236,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1000
+											"end": 5000
 										}
 									]
 								},
