@@ -6472,6 +6472,37 @@
 				}
 			]
 		},
+		"family-center-identity-update": {
+			"key": "family-center-identity-update",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-165053",
+					"startAt": "2026-08-31T22:54:07.008Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"farkleberry-raspberry-strawberry": {
 			"key": "farkleberry-raspberry-strawberry",
 			"enabled": true,
@@ -9568,7 +9599,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-09-01T16:46:02.569Z",
+					"startAt": "2026-09-02T19:51:25.805Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -9579,7 +9610,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 5000
 										}
 									]
 								}
@@ -9592,7 +9623,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -12020,6 +12051,215 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"onboarding-2fa-ui": {
+			"key": "onboarding-2fa-ui",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"v2": {
+					"key": "v2",
+					"value": "v2"
+				},
+				"v3-2fa": {
+					"key": "v3-2fa",
+					"value": "v3-2fa"
+				},
+				"v3-control": {
+					"key": "v3-control",
+					"value": "v3-control"
+				},
+				"v3-arm2": {
+					"key": "v3-arm2",
+					"value": "v3-arm2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-162817",
+					"startAt": "2026-08-31T20:17:44.683Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1533389399",
+										"1533607235",
+										"1483055079",
+										"1535871355"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-162817-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 99
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v3-2fa",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-162817-split",
+									"ranges": [
+										{
+											"start": 99,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-164246",
+					"startAt": "2026-09-02T15:13:01.269Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"invitation_create",
+										"invite_creation"
+									],
+									"operator": "ONE_OF",
+									"attribute": "source"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-164246-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 7500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v2",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-164246-split",
+									"ranges": [
+										{
+											"start": 7500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-161116",
+					"startAt": "2026-09-02T15:08:28.114Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v3-2fa",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v3-control",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v3-arm2",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-161116-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-161113",
+					"startAt": "2026-08-21T15:55:26.282Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -16103,6 +16343,41 @@
 			"entityId": 145,
 			"allocations": [
 				{
+					"key": "allocation-165917",
+					"startAt": "2026-09-02T20:12:51.726Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1528070654"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "shouts-phase1d-rollout-165917-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-162025",
 					"startAt": "2026-08-24T18:23:00.256Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -19212,7 +19487,7 @@
 			"allocations": [
 				{
 					"key": "allocation-158790",
-					"startAt": "2026-09-02T18:23:07.835Z",
+					"startAt": "2026-09-02T20:10:16.800Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -19231,15 +19506,6 @@
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "sprig-sdk-load-158790-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "sprig-sdk-load-158790-split",
 									"ranges": [
