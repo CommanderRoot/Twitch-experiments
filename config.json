@@ -2115,14 +2115,15 @@
 			"allocations": [
 				{
 					"key": "allocation-163909",
-					"startAt": "2026-09-02T17:51:26.098Z",
+					"startAt": "2026-09-03T00:06:13.259Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"172341005"
+										"172341005",
+										"135530901"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
