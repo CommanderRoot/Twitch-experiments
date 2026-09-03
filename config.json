@@ -1407,6 +1407,132 @@
 				}
 			]
 		},
+		"affiliate-reengagement-banner": {
+			"key": "affiliate-reengagement-banner",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-166386",
+					"startAt": "2026-09-03T22:42:35.415Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1528793821",
+										"526767505",
+										"1521042067",
+										"1531429729",
+										"1536859637",
+										"1535871355",
+										"1536864494"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "affiliate-reengagement-banner-166386-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-164038",
+					"startAt": "2026-09-03T21:25:18.999Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "affiliate-reengagement-banner-164038-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "affiliate-reengagement-banner-164038-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "affiliate-reengagement-banner-164038-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "affiliate-reengagement-banner-164038-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-164035",
+					"startAt": "2026-08-27T21:30:23.239Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"am_baseline_enabled": {
 			"key": "am_baseline_enabled",
 			"enabled": true,
@@ -5693,37 +5819,6 @@
 				}
 			]
 		},
-		"disco-homepage-carousel-skip-fpl-v2": {
-			"key": "disco-homepage-carousel-skip-fpl-v2",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-75395",
-					"startAt": "2025-12-11T19:13:58.493Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"disco-stream-manager-video-preview-portrait": {
 			"key": "disco-stream-manager-video-preview-portrait",
 			"enabled": true,
@@ -9855,6 +9950,10 @@
 				"withouttax": {
 					"key": "withouttax",
 					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\",\n    \"e082adf3-4e0f-400b-b94a-37ed68f05c64\"\n  ]\n}"
+				},
+				"control-reenagagement-banner": {
+					"key": "control-reenagagement-banner",
+					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\",\n    \"db2cbdb2-a1a0-4534-8785-57d62170ed9d\"\n  ]\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -9866,7 +9965,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "control-reenagagement-banner",
 							"shards": []
 						}
 					],
@@ -12217,6 +12316,55 @@
 									"ranges": [
 										{
 											"start": 99,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-166391",
+					"startAt": "2026-09-03T21:39:46.227Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1536853355"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-166391-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9999
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "v2",
+							"shards": [
+								{
+									"salt": "onboarding-2fa-ui-166391-split",
+									"ranges": [
+										{
+											"start": 9999,
 											"end": 10000
 										}
 									]
