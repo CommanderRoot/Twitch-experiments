@@ -54,7 +54,7 @@
 			"allocations": [
 				{
 					"key": "allocation-160104",
-					"startAt": "2026-08-28T02:34:46.644Z",
+					"startAt": "2026-09-04T00:45:48.167Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -76,7 +76,9 @@
 										"1265528788",
 										"818132351",
 										"833690784",
-										"1377624955"
+										"1377624955",
+										"1536873500",
+										"1536889289"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -9965,7 +9967,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control-reenagagement-banner",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -15664,7 +15666,7 @@
 				},
 				{
 					"key": "allocation-165057",
-					"startAt": "2026-09-02T23:44:06.142Z",
+					"startAt": "2026-09-03T23:33:46.593Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15688,7 +15690,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1000
+											"end": 2000
 										}
 									]
 								},
