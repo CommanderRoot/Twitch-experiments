@@ -1491,21 +1491,12 @@
 				},
 				{
 					"key": "allocation-164038",
-					"startAt": "2026-09-03T21:25:18.999Z",
+					"startAt": "2026-09-03T22:00:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "affiliate-reengagement-banner-164038-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "affiliate-reengagement-banner-164038-split",
 									"ranges": [
@@ -1520,15 +1511,6 @@
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "affiliate-reengagement-banner-164038-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "affiliate-reengagement-banner-164038-split",
 									"ranges": [
@@ -8493,95 +8475,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-41307",
-					"startAt": "2025-07-22T22:12:49.325Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"true"
-									],
-									"operator": "ONE_OF",
-									"attribute": "staff"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "icvow_bccr-41307-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-46996",
-					"startAt": "2025-08-25T17:00:36.515Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "icvow_bccr-46996-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "icvow_bccr-46996-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "icvow_bccr-46996-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "icvow_bccr-46996-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-40866",
 					"startAt": "2025-07-18T21:53:54.871Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -9989,7 +9882,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "control-reenagagement-banner",
 							"shards": []
 						}
 					],
