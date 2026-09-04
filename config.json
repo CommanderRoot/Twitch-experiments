@@ -53,6 +53,28 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-166816",
+					"startAt": "2026-09-04T19:21:21.384Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Android-T2T3-Subs-166816-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-160104",
 					"startAt": "2026-09-04T00:45:48.167Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -12053,37 +12075,6 @@
 				}
 			]
 		},
-		"odpl-sc-ex": {
-			"key": "odpl-sc-ex",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-107818",
-					"startAt": "2026-04-13T19:27:11.754Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"offline-channel-page-redesign": {
 			"key": "offline-channel-page-redesign",
 			"enabled": true,
@@ -14398,6 +14389,10 @@
 				"pokemon-worlds": {
 					"key": "pokemon-worlds",
 					"value": "[\n  {\n    \"slug\": \"2026pokemon-worlds\",\n    \"position\": 0\n  }\n]"
+				},
+				"no-pixel": {
+					"key": "no-pixel",
+					"value": "[\n  {\n    \"slug\": \"nopixel-v\",\n    \"position\": 0\n  }\n]"
 				}
 			},
 			"totalShards": 10000,
@@ -14409,7 +14404,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "pokemon-worlds",
+							"variationKey": "no-pixel",
 							"shards": []
 						}
 					],
@@ -14436,7 +14431,7 @@
 			"allocations": [
 				{
 					"key": "allocation-133353",
-					"startAt": "2026-08-28T20:37:01.631Z",
+					"startAt": "2026-09-04T19:19:11.782Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14459,7 +14454,8 @@
 										"754354653",
 										"592011877",
 										"172341005",
-										"489684071"
+										"489684071",
+										"48276979"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -17247,37 +17243,6 @@
 					"splits": [
 						{
 							"variationKey": "VariantA",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"snapchat-connection": {
-			"key": "snapchat-connection",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-111527",
-					"startAt": "2026-04-23T16:54:17.986Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
 							"shards": []
 						}
 					],
