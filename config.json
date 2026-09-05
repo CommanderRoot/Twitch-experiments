@@ -54,8 +54,19 @@
 			"allocations": [
 				{
 					"key": "allocation-166816",
-					"startAt": "2026-09-04T19:21:21.384Z",
+					"startAt": "2026-09-05T18:51:45.873Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "31.0.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
 					"splits": [
 						{
 							"variationKey": "true",
