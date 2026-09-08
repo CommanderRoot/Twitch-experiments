@@ -3396,9 +3396,9 @@
 					"key": "cheer",
 					"value": "cheer"
 				},
-				"rockstar": {
-					"key": "rockstar",
-					"value": "rockstar"
+				"nopixel": {
+					"key": "nopixel",
+					"value": "nopixel"
 				}
 			},
 			"totalShards": 10000,
@@ -3410,7 +3410,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "cheer",
+							"variationKey": "nopixel",
 							"shards": []
 						}
 					],
@@ -5604,6 +5604,37 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"default-crown-tab": {
+			"key": "default-crown-tab",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-88715",
+					"startAt": "2026-02-03T20:11:50.861Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -21225,14 +21256,16 @@
 			"allocations": [
 				{
 					"key": "allocation-167419",
-					"startAt": "2026-09-08T15:45:49.304Z",
+					"startAt": "2026-09-08T21:00:46.628Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1536818472"
+										"1536818472",
+										"1492861624",
+										"1538547533"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -21243,11 +21276,12 @@
 							"conditions": [
 								{
 									"value": [
-										"1",
-										"true"
+										"1536818472",
+										"1492861624",
+										"1538547533"
 									],
 									"operator": "ONE_OF",
-									"attribute": "staff"
+									"attribute": "id"
 								}
 							]
 						},
@@ -21255,10 +21289,11 @@
 							"conditions": [
 								{
 									"value": [
-										"1536818472"
+										"true",
+										"1"
 									],
 									"operator": "ONE_OF",
-									"attribute": "id"
+									"attribute": "staff"
 								}
 							]
 						}
@@ -21885,6 +21920,72 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"web_winback_reminder_query": {
+			"key": "web_winback_reminder_query",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-167547",
+					"startAt": "2026-09-08T18:30:19.135Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1513488887"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "web_winback_reminder_query-167547-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-167541",
+					"startAt": "2026-09-08T18:26:39.449Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
