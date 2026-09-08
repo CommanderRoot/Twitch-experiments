@@ -1461,8 +1461,43 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-167753",
+					"startAt": "2026-09-08T22:59:25.631Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1536864494"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "affiliate-reengagement-banner-167753-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-166386",
-					"startAt": "2026-09-03T22:42:35.415Z",
+					"startAt": "2026-09-08T22:53:59.795Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1474,8 +1509,7 @@
 										"1521042067",
 										"1531429729",
 										"1536859637",
-										"1535871355",
-										"1536864494"
+										"1535871355"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -9767,6 +9801,95 @@
 				}
 			]
 		},
+		"lantern-parade": {
+			"key": "lantern-parade",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-167665",
+					"startAt": "2026-09-08T20:59:59.014Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "lantern-parade-167665-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-167664",
+					"startAt": "2026-09-08T20:58:46.846Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "lantern-parade-167664-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "lantern-parade-167664-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-167661",
+					"startAt": "2026-09-08T20:58:45.383Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"leaderboard_holdout": {
 			"key": "leaderboard_holdout",
 			"enabled": true,
@@ -15599,7 +15722,7 @@
 				},
 				{
 					"key": "allocation-165057",
-					"startAt": "2026-09-06T12:51:37.700Z",
+					"startAt": "2026-09-08T21:40:24.656Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -15623,7 +15746,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 2000
 										}
 									]
 								},
@@ -21256,7 +21379,7 @@
 			"allocations": [
 				{
 					"key": "allocation-167419",
-					"startAt": "2026-09-08T21:00:46.628Z",
+					"startAt": "2026-09-08T21:45:30.577Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -21265,7 +21388,9 @@
 									"value": [
 										"1536818472",
 										"1492861624",
-										"1538547533"
+										"1538547533",
+										"1336338915",
+										"1526794738"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -21278,7 +21403,9 @@
 									"value": [
 										"1536818472",
 										"1492861624",
-										"1538547533"
+										"1538547533",
+										"1336338915",
+										"1526794738"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
