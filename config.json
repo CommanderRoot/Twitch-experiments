@@ -8441,46 +8441,18 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-143127",
-					"startAt": "2026-07-17T21:00:00.000Z",
+					"key": "allocation-168126",
+					"startAt": "2026-09-09T17:19:29.437Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "huge-hungry-hippos-143127-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "24_hr_local_storage",
-							"shards": [
-								{
-									"salt": "huge-hungry-hippos-143127-split",
-									"ranges": [
-										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
 						{
 							"variationKey": "session_storage",
 							"shards": [
 								{
-									"salt": "huge-hungry-hippos-143127-split",
+									"salt": "huge-hungry-hippos-168126-split",
 									"ranges": [
 										{
-											"start": 6666,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -8488,7 +8460,7 @@
 							]
 						}
 					],
-					"doLog": true
+					"doLog": false
 				},
 				{
 					"key": "allocation-125969",
@@ -11803,7 +11775,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -11927,7 +11899,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "treatment",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -21379,17 +21351,13 @@
 			"allocations": [
 				{
 					"key": "allocation-167419",
-					"startAt": "2026-09-08T21:45:30.577Z",
+					"startAt": "2026-09-09T16:33:23.445Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1536818472",
-										"1492861624",
-										"1538547533",
-										"1336338915",
 										"1526794738"
 									],
 									"operator": "ONE_OF",
@@ -21401,10 +21369,6 @@
 							"conditions": [
 								{
 									"value": [
-										"1536818472",
-										"1492861624",
-										"1538547533",
-										"1336338915",
 										"1526794738"
 									],
 									"operator": "ONE_OF",
@@ -21442,6 +21406,42 @@
 						}
 					],
 					"doLog": false
+				},
+				{
+					"key": "allocation-168056",
+					"startAt": "2026-09-09T17:21:14.473Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "vidprod-connections-via-gql-168056-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "vidprod-connections-via-gql-168056-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
 				},
 				{
 					"key": "allocation-166344",
@@ -22831,15 +22831,15 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-154824",
-					"startAt": "2026-08-06T23:00:00.000Z",
+					"key": "allocation-168067",
+					"startAt": "2026-09-09T16:25:01.925Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "opt_in",
+							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "zillion-zipping-zebras-154824-split",
+									"salt": "zillion-zipping-zebras-168067-split",
 									"ranges": [
 										{
 											"start": 0,
