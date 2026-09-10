@@ -1184,37 +1184,6 @@
 			"entityId": 144,
 			"allocations": [
 				{
-					"key": "allocation-168860",
-					"startAt": "2026-09-10T19:24:23.994Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "ads-display-creative-safeframe-isolation-168860-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								},
-								{
-									"salt": "ads-display-creative-safeframe-isolation-168860-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-165047",
 					"startAt": "2026-08-31T22:46:58.119Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -3985,48 +3954,12 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-153719",
-					"startAt": "2026-08-04T20:27:18.867Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "checkout-promotion-banner-153719-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "checkout-promotion-banner-153719-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-142474",
 					"startAt": "2026-07-15T17:16:39.743Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": []
 						}
 					],
@@ -5380,7 +5313,7 @@
 			"allocations": [
 				{
 					"key": "allocation-118948",
-					"startAt": "2026-07-30T20:59:21.201Z",
+					"startAt": "2026-09-10T20:20:33.178Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -5391,7 +5324,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9000
+											"end": 7500
 										}
 									]
 								}
@@ -5404,7 +5337,7 @@
 									"salt": "cw-for-subscription-purchase-118948-split",
 									"ranges": [
 										{
-											"start": 9000,
+											"start": 7500,
 											"end": 10000
 										}
 									]
@@ -9885,28 +9818,6 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
-				{
-					"key": "allocation-167665",
-					"startAt": "2026-09-08T20:59:59.014Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "lantern-parade-167665-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
 				{
 					"key": "allocation-167664",
 					"startAt": "2026-09-08T20:58:46.846Z",
@@ -14496,6 +14407,42 @@
 			"totalShards": 10000,
 			"entityId": 144,
 			"allocations": [
+				{
+					"key": "allocation-168886",
+					"startAt": "2026-09-10T20:25:55.842Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "no-events",
+							"shards": [
+								{
+									"salt": "promoted-events-config-168886-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "no-pixel",
+							"shards": [
+								{
+									"salt": "promoted-events-config-168886-split",
+									"ranges": [
+										{
+											"start": 500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
 				{
 					"key": "allocation-122461",
 					"startAt": "2026-05-28T21:07:18.868Z",
@@ -19917,6 +19864,14 @@
 				"treatment": {
 					"key": "treatment",
 					"value": "treatment"
+				},
+				"spotlight": {
+					"key": "spotlight",
+					"value": "spotlight"
+				},
+				"livedeals": {
+					"key": "livedeals",
+					"value": "livedeals"
 				}
 			},
 			"totalShards": 10000,
@@ -19924,7 +19879,7 @@
 			"allocations": [
 				{
 					"key": "allocation-164880",
-					"startAt": "2026-09-09T21:59:53.993Z",
+					"startAt": "2026-09-10T21:34:43.554Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -19955,13 +19910,27 @@
 							]
 						},
 						{
-							"variationKey": "treatment",
+							"variationKey": "spotlight",
 							"shards": [
 								{
 									"salt": "spotlight_leftnav-164880-split",
 									"ranges": [
 										{
 											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "livedeals",
+							"shards": [
+								{
+									"salt": "spotlight_leftnav-164880-split",
+									"ranges": [
+										{
+											"start": 5000,
 											"end": 10000
 										}
 									]
