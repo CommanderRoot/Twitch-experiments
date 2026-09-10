@@ -1184,6 +1184,37 @@
 			"entityId": 144,
 			"allocations": [
 				{
+					"key": "allocation-168860",
+					"startAt": "2026-09-10T19:24:23.994Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "ads-display-creative-safeframe-isolation-168860-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								},
+								{
+									"salt": "ads-display-creative-safeframe-isolation-168860-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-165047",
 					"startAt": "2026-08-31T22:46:58.119Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -17872,6 +17903,10 @@
 				"patty": {
 					"key": "patty",
 					"value": "{\n    \"asin\": \"\",\n    \"asins\": [\"B0GK1M1N4V\", \"B0GK1FMZWB\", \"B0GP839YVJ\", \"B0GJSFFLXZ\", \"B0GJDLQV1N\", \"B0GHYGLNTT\"],\n    \"tracking_id\": {}\n}"
+				},
+				"sandisk-09-02-2026": {
+					"key": "sandisk-09-02-2026",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0GK1M1N4V\",\n    \"B0GK1FMZWB\",\n    \"B0GP839YVJ\",\n    \"B0GJSFFLXZ\",\n    \"B0GJDLQV1N\",\n    \"B0GHYGLNTT\"\n  ],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -19457,6 +19492,63 @@
 									"ranges": [
 										{
 											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-168807",
+					"startAt": "2026-09-10T18:17:02.693Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3InnIz9RKYqhFLYsKswVnf7zRnH",
+										"campaign.3IpT6HXkElxQp3FC3JWzzsB5RXw"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-168807-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "sandisk-09-02-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-168807-split",
+									"ranges": [
+										{
+											"start": 1,
 											"end": 10000
 										}
 									]
