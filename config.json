@@ -11604,6 +11604,37 @@
 				}
 			]
 		},
+		"nielsen-dtvr-nba-schedule": {
+			"key": "nielsen-dtvr-nba-schedule",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"schedule": {
+					"key": "schedule",
+					"value": "{\"value\": \"control\"}"
+				},
+				"testschedule": {
+					"key": "testschedule",
+					"value": "[[102931781,1768521600,1768532400],[647832291,1769130000,1769140800],[168843586,1769733000,1769743800]]"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-168911",
+					"startAt": "2026-09-10T21:10:26.589Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "testschedule",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"nimble-narwhal-mobile": {
 			"key": "nimble-narwhal-mobile",
 			"enabled": true,
@@ -13248,6 +13279,37 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"phone_reuse_check_disabled": {
+			"key": "phone_reuse_check_disabled",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-164298",
+					"startAt": "2026-08-28T16:28:51.901Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -15737,14 +15799,15 @@
 				},
 				{
 					"key": "allocation-165057",
-					"startAt": "2026-09-09T20:02:11.865Z",
+					"startAt": "2026-09-10T23:49:44.211Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"US"
+										"US",
+										"CA"
 									],
 									"operator": "ONE_OF",
 									"attribute": "country"
@@ -15756,15 +15819,6 @@
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "sda_use_multiformat-165057-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "sda_use_multiformat-165057-split",
 									"ranges": [
@@ -15828,6 +15882,54 @@
 						}
 					],
 					"doLog": true
+				},
+				{
+					"key": "allocation-169092",
+					"startAt": "2026-09-10T22:47:11.020Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"GB",
+										"FR",
+										"ES",
+										"DE",
+										"IT"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "sda_use_multiformat-169092-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1000
+										}
+									]
+								},
+								{
+									"salt": "sda_use_multiformat-169092-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
 				},
 				{
 					"key": "allocation-160914",
