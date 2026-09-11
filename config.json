@@ -11620,6 +11620,10 @@
 				"testschedule2": {
 					"key": "testschedule2",
 					"value": "{\"schedule\":[[123456789,1767225600,1798761600]]}"
+				},
+				"testschedule3": {
+					"key": "testschedule3",
+					"value": "{\"schedule\":[[\"123456789\",1767225600,1798761600]]}"
 				}
 			},
 			"totalShards": 10000,
@@ -11631,7 +11635,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "testschedule2",
+							"variationKey": "testschedule3",
 							"shards": []
 						}
 					],
@@ -13397,6 +13401,138 @@
 							"shards": [
 								{
 									"salt": "phone_reuse_check_disabled-169489-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-169547",
+					"startAt": "2026-09-11T21:35:25.221Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"web"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "phone_reuse_check_disabled-169547-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "phone_reuse_check_disabled-169547-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-169556",
+					"startAt": "2026-09-11T21:35:07.773Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"backend_passport"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "phone_reuse_check_disabled-169556-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "phone_reuse_check_disabled-169556-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-169557",
+					"startAt": "2026-09-11T21:36:56.320Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"backend_users"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "phone_reuse_check_disabled-169557-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "phone_reuse_check_disabled-169557-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -16975,6 +17111,133 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-169513-holdout-leaderboard-web-holdout",
+					"startAt": "2026-09-11T20:06:05.864Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "show-your-rank-169513-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								},
+								{
+									"salt": "leaderboard-web-holdout-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "show-your-rank-169513-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								},
+								{
+									"salt": "leaderboard-web-holdout-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "show-your-rank-169513-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								},
+								{
+									"salt": "leaderboard-web-holdout-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-169513",
+					"startAt": "2026-09-11T20:06:05.864Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "show-your-rank-169513-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "GoalsFirst",
+							"shards": [
+								{
+									"salt": "show-your-rank-169513-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "LeaderboardFirst",
+							"shards": [
+								{
+									"salt": "show-your-rank-169513-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-156410",
 					"startAt": "2026-08-11T23:30:19.721Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -18062,6 +18325,10 @@
 				"sandisk-09-02-2026": {
 					"key": "sandisk-09-02-2026",
 					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\n    \"B0GK1M1N4V\",\n    \"B0GK1FMZWB\",\n    \"B0GP839YVJ\",\n    \"B0GJSFFLXZ\",\n    \"B0GJDLQV1N\",\n    \"B0GHYGLNTT\"\n  ],\n  \"tracking_id\": {}\n}"
+				},
+				"non-prime-product-cat-food": {
+					"key": "non-prime-product-cat-food",
+					"value": "{\n    \"asin\": \"B00513J4MQ\",\n    \"asins\": [],\n    \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -20087,14 +20354,15 @@
 			"allocations": [
 				{
 					"key": "allocation-164880",
-					"startAt": "2026-09-10T21:34:43.554Z",
+					"startAt": "2026-09-11T20:15:04.217Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"test-device-id"
+										"test-device-id",
+										"test-spotlight-device-id"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
@@ -20104,20 +20372,6 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "spotlight_leftnav-164880-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								}
-							]
-						},
-						{
 							"variationKey": "spotlight",
 							"shards": [
 								{
@@ -20125,7 +20379,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 9999
 										}
 									]
 								}
@@ -20138,7 +20392,7 @@
 									"salt": "spotlight_leftnav-164880-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 9999,
 											"end": 10000
 										}
 									]
@@ -20147,6 +20401,41 @@
 						}
 					],
 					"doLog": true
+				},
+				{
+					"key": "allocation-169520",
+					"startAt": "2026-09-11T20:14:30.499Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"test-livedeals-device-id"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "livedeals",
+							"shards": [
+								{
+									"salt": "spotlight_leftnav-169520-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
 				},
 				{
 					"key": "allocation-164877",
@@ -20252,6 +20541,37 @@
 				{
 					"key": "allocation-158782",
 					"startAt": "2026-08-17T19:34:10.319Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"stream-events-UL-gate": {
+			"key": "stream-events-UL-gate",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-169081",
+					"startAt": "2026-09-10T22:18:38.121Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
