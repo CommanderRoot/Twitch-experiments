@@ -11616,6 +11616,10 @@
 				"testschedule": {
 					"key": "testschedule",
 					"value": "[[102931781,1768521600,1768532400],[647832291,1769130000,1769140800],[168843586,1769733000,1769743800]]"
+				},
+				"testschedule2": {
+					"key": "testschedule2",
+					"value": "{\"schedule\":[[123456789,1767225600,1798761600]]}"
 				}
 			},
 			"totalShards": 10000,
@@ -11627,7 +11631,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "testschedule",
+							"variationKey": "testschedule2",
 							"shards": []
 						}
 					],
