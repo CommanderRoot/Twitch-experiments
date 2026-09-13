@@ -15136,14 +15136,14 @@
 				},
 				{
 					"key": "allocation-155110",
-					"startAt": "2026-08-07T17:02:58.899Z",
+					"startAt": "2026-09-13T21:07:35.216Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"\"todo\""
+										"500128827"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -15153,7 +15153,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "purple_pineapple-155110-split",
