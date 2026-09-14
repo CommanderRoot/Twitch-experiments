@@ -4781,7 +4781,7 @@
 				},
 				{
 					"key": "allocation-145030",
-					"startAt": "2026-08-26T18:08:44.472Z",
+					"startAt": "2026-09-14T19:32:20.161Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4813,7 +4813,8 @@
 										"55696719",
 										"40017619",
 										"1507749329",
-										"922981550"
+										"922981550",
+										"1521956094"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -4841,7 +4842,7 @@
 				},
 				{
 					"key": "allocation-160800",
-					"startAt": "2026-08-26T17:44:03.940Z",
+					"startAt": "2026-09-14T19:50:47.835Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -4852,7 +4853,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1500
+											"end": 4500
 										}
 									]
 								}
@@ -4865,7 +4866,7 @@
 									"salt": "cranky-camel-160800-split",
 									"ranges": [
 										{
-											"start": 1500,
+											"start": 4500,
 											"end": 10000
 										}
 									]
@@ -11655,6 +11656,10 @@
 				"testschedule3": {
 					"key": "testschedule3",
 					"value": "{\"schedule\":[[\"123456789\",1767225600,1798761600]]}"
+				},
+				"testschedule4": {
+					"key": "testschedule4",
+					"value": "{\n  \"schedule\": [\n    [\n      \"124721630\",\n      1767225600,\n      1798761600\n    ]\n  ]\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -11666,7 +11671,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "testschedule3",
+							"variationKey": "testschedule4",
 							"shards": []
 						}
 					],
@@ -13137,6 +13142,10 @@
 				"treatment": {
 					"key": "treatment",
 					"value": "treatment"
+				},
+				"default-variation": {
+					"key": "default-variation",
+					"value": "default-variation"
 				}
 			},
 			"totalShards": 10000,
@@ -13184,7 +13193,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "default-variation",
 							"shards": [
 								{
 									"salt": "palo-verde-wren-169590-split",
@@ -13207,7 +13216,7 @@
 							]
 						},
 						{
-							"variationKey": "control",
+							"variationKey": "default-variation",
 							"shards": [
 								{
 									"salt": "palo-verde-wren-169590-split",
@@ -13274,7 +13283,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "default-variation",
 							"shards": []
 						}
 					],
@@ -18702,6 +18711,10 @@
 				"non-prime-product-cat-food": {
 					"key": "non-prime-product-cat-food",
 					"value": "{\n    \"asin\": \"B00513J4MQ\",\n    \"asins\": [],\n    \"tracking_id\": {}\n}"
+				},
+				"minecraft-dungeons-sept-2026": {
+					"key": "minecraft-dungeons-sept-2026",
+					"value": "{\n  \"asin\": \"B0H4MS18QK\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -20582,14 +20595,15 @@
 			"allocations": [
 				{
 					"key": "allocation-160890",
-					"startAt": "2026-08-20T22:44:15.260Z",
+					"startAt": "2026-09-14T19:44:19.229Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1240603437"
+										"1240603437",
+										"1471972613"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -20674,6 +20688,41 @@
 							"shards": [
 								{
 									"salt": "sponsorships_demand_channel_create-159706-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-170025",
+					"startAt": "2026-09-14T19:10:50.543Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1471972613"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "sponsorships_demand_channel_create-170025-split",
 									"ranges": [
 										{
 											"start": 0,
