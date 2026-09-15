@@ -4555,48 +4555,12 @@
 			"entityId": 144,
 			"allocations": [
 				{
-					"key": "allocation-170717",
-					"startAt": "2026-09-15T20:14:02.974Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "consent-canonical-authorize-data-170717-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 100
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "consent-canonical-authorize-data-170717-split",
-									"ranges": [
-										{
-											"start": 100,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-170162",
 					"startAt": "2026-09-14T22:54:59.374Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -5509,7 +5473,8 @@
 										"1383209811",
 										"953430106",
 										"794603078",
-										"1514336788"
+										"1514336788",
+										"453366344"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -10286,7 +10251,8 @@
 										"1383209811",
 										"953430106",
 										"794603078",
-										"1514336788"
+										"1514336788",
+										"453366344"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
