@@ -3077,7 +3077,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-09-03T17:09:46.157Z",
+					"startAt": "2026-09-14T23:32:28.581Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3108,7 +3108,8 @@
 										"31953269",
 										"15666801",
 										"8272681",
-										"39214310"
+										"39214310",
+										"1534696457"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -4496,6 +4497,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"consent-canonical-authorize-data": {
+			"key": "consent-canonical-authorize-data",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-170162",
+					"startAt": "2026-09-14T22:54:59.374Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -11641,24 +11673,8 @@
 			"enabled": true,
 			"variationType": "JSON",
 			"variations": {
-				"schedule": {
-					"key": "schedule",
-					"value": "{\"value\": \"control\"}"
-				},
 				"testschedule": {
 					"key": "testschedule",
-					"value": "[[102931781,1768521600,1768532400],[647832291,1769130000,1769140800],[168843586,1769733000,1769743800]]"
-				},
-				"testschedule2": {
-					"key": "testschedule2",
-					"value": "{\"schedule\":[[123456789,1767225600,1798761600]]}"
-				},
-				"testschedule3": {
-					"key": "testschedule3",
-					"value": "{\"schedule\":[[\"123456789\",1767225600,1798761600]]}"
-				},
-				"testschedule4": {
-					"key": "testschedule4",
 					"value": "{\n  \"schedule\": [\n    [\n      \"124721630\",\n      1767225600,\n      1798761600\n    ]\n  ]\n}"
 				}
 			},
@@ -11671,7 +11687,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "testschedule4",
+							"variationKey": "testschedule",
 							"shards": []
 						}
 					],
