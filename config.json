@@ -2851,6 +2851,37 @@
 				}
 			]
 		},
+		"br-address-compliance": {
+			"key": "br-address-compliance",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-171087",
+					"startAt": "2026-09-16T16:54:37.135Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"brand_lift_global_expansion": {
 			"key": "brand_lift_global_expansion",
 			"enabled": true,
@@ -13181,167 +13212,6 @@
 				}
 			]
 		},
-		"palo-verde-wren": {
-			"key": "palo-verde-wren",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				},
-				"default-variation": {
-					"key": "default-variation",
-					"value": "default-variation"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-169591",
-					"startAt": "2026-09-11T22:07:30.348Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"55696719",
-										"702554981"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169591-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-169590-holdout-viewer-progression-2026",
-					"startAt": "2026-09-11T22:06:25.522Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "default-variation",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169590-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "viewer-progression-2026-holdout-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 700
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "default-variation",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169590-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								},
-								{
-									"salt": "viewer-progression-2026-holdout-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 700
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-169590",
-					"startAt": "2026-09-11T22:06:25.522Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169590-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169590-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-169586",
-					"startAt": "2026-09-11T22:04:35.519Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "default-variation",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"parco-signup-web": {
 			"key": "parco-signup-web",
 			"enabled": true,
@@ -16223,6 +16093,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"savvy-part-2": {
+			"key": "savvy-part-2",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-171094",
+					"startAt": "2026-09-16T17:05:37.508Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
