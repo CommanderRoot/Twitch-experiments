@@ -13718,7 +13718,7 @@
 			"allocations": [
 				{
 					"key": "allocation-169489",
-					"startAt": "2026-09-11T19:23:19.895Z",
+					"startAt": "2026-09-16T17:44:34.036Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -13726,7 +13726,11 @@
 								{
 									"value": [
 										"E3EC19267CD44C50AF270E97D00EFB2D",
-										"6aace49b8a3f49e9ad069d9929256480"
+										"6aace49b8a3f49e9ad069d9929256480",
+										"c7f4825b087e45dfac7be74b9b990631",
+										"3B153D94C32F4A9EB7AB7FD2D- F5B5D4E",
+										"BCCD7FA52ECC40469DA6EB- F573B32A95",
+										"4C717824F2A94DB781D01FE4A70B-B62B"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
@@ -16093,37 +16097,6 @@
 					"splits": [
 						{
 							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"savvy-part-2": {
-			"key": "savvy-part-2",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-171094",
-					"startAt": "2026-09-16T17:05:37.508Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
 							"shards": []
 						}
 					],
