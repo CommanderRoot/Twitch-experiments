@@ -3178,7 +3178,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-09-15T21:08:47.206Z",
+					"startAt": "2026-09-17T00:00:50.447Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3211,7 +3211,8 @@
 										"8272681",
 										"39214310",
 										"1534696457",
-										"1320203015"
+										"1320203015",
+										"1455608728"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -3685,6 +3686,45 @@
 					"splits": [
 						{
 							"variationKey": "variant",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"channel_sub_free_trial": {
+			"key": "channel_sub_free_trial",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"max_trials_1": {
+					"key": "max_trials_1",
+					"value": "max_trials_1"
+				},
+				"max_trials_3": {
+					"key": "max_trials_3",
+					"value": "max_trials_3"
+				},
+				"max_trials_5": {
+					"key": "max_trials_5",
+					"value": "max_trials_5"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-171435",
+					"startAt": "2026-09-16T22:39:14.982Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -12468,14 +12508,15 @@
 			"allocations": [
 				{
 					"key": "allocation-168405",
-					"startAt": "2026-09-09T22:50:58.157Z",
+					"startAt": "2026-09-16T22:24:27.904Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1538907291"
+										"1538907291",
+										"1536859637"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -12770,7 +12811,7 @@
 			"allocations": [
 				{
 					"key": "allocation-171415",
-					"startAt": "2026-09-16T22:13:43.798Z",
+					"startAt": "2026-09-16T22:25:29.568Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12784,8 +12825,7 @@
 								},
 								{
 									"value": [
-										"v2",
-										"v3-arm2"
+										"v3-2fa"
 									],
 									"operator": "ONE_OF",
 									"attribute": "variation_served"
@@ -12795,17 +12835,8 @@
 					],
 					"splits": [
 						{
-							"variationKey": "address",
+							"variationKey": "address-tax-classification",
 							"shards": [
-								{
-									"salt": "onboarding-address-collection-171415-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "onboarding-address-collection-171415-split",
 									"ranges": [
@@ -12822,7 +12853,7 @@
 				},
 				{
 					"key": "allocation-169518",
-					"startAt": "2026-09-11T20:07:47.765Z",
+					"startAt": "2026-09-16T22:26:12.660Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12841,6 +12872,15 @@
 						{
 							"variationKey": "address",
 							"shards": [
+								{
+									"salt": "onboarding-address-collection-169518-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
 								{
 									"salt": "onboarding-address-collection-169518-split",
 									"ranges": [
@@ -21114,6 +21154,37 @@
 				{
 					"key": "allocation-169081",
 					"startAt": "2026-09-10T22:18:38.121Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"stream-flc-source-migration": {
+			"key": "stream-flc-source-migration",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-171422",
+					"startAt": "2026-09-16T22:31:41.604Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
