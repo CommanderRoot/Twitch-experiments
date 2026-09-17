@@ -3236,7 +3236,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-09-17T00:00:50.447Z",
+					"startAt": "2026-09-17T23:00:35.022Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3270,7 +3270,8 @@
 										"39214310",
 										"1534696457",
 										"1320203015",
-										"1455608728"
+										"1455608728",
+										"484533313"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -4010,6 +4011,84 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-171911",
+					"startAt": "2026-09-17T21:59:18.736Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "checkout-benefit-171911-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentA",
+							"shards": [
+								{
+									"salt": "checkout-benefit-171911-split",
+									"ranges": [
+										{
+											"start": 2000,
+											"end": 4000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentB",
+							"shards": [
+								{
+									"salt": "checkout-benefit-171911-split",
+									"ranges": [
+										{
+											"start": 4000,
+											"end": 6000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentC",
+							"shards": [
+								{
+									"salt": "checkout-benefit-171911-split",
+									"ranges": [
+										{
+											"start": 6000,
+											"end": 8000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentD",
+							"shards": [
+								{
+									"salt": "checkout-benefit-171911-split",
+									"ranges": [
+										{
+											"start": 8000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
 				{
 					"key": "allocation-143929",
 					"startAt": "2026-07-20T17:47:37.706Z",
@@ -6897,7 +6976,7 @@
 				},
 				{
 					"key": "allocation-169909",
-					"startAt": "2026-09-16T21:24:06.307Z",
+					"startAt": "2026-09-17T22:19:45.837Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -6908,7 +6987,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 3900
+											"end": 7400
 										}
 									]
 								},
@@ -11884,6 +11963,37 @@
 				}
 			]
 		},
+		"nielsen-dtvr-nba-schedule": {
+			"key": "nielsen-dtvr-nba-schedule",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"testschedule": {
+					"key": "testschedule",
+					"value": "{\n  \"schedule\": [\n    [\n      \"124721630\",\n      1767225600,\n      1798761600\n    ]\n  ]\n}"
+				},
+				"newnametestschedule": {
+					"key": "newnametestschedule",
+					"value": "{\n  \"schedule\": [\n    [\n      \"124721630\",\n      1767225600,\n      1798761600\n    ]\n  ]\n}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-168911",
+					"startAt": "2026-09-10T21:10:26.589Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "newnametestschedule",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"nimble-narwhal-mobile": {
 			"key": "nimble-narwhal-mobile",
 			"enabled": true,
@@ -14056,7 +14166,7 @@
 			"allocations": [
 				{
 					"key": "allocation-169489",
-					"startAt": "2026-09-17T19:02:22.870Z",
+					"startAt": "2026-09-17T22:46:35.945Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14069,7 +14179,11 @@
 										"BCCD7FA52ECC40469DA6EB- F573B32A95",
 										"4C717824F2A94DB781D01FE4A70B-B62B",
 										"bc27308c3c34a9c92eddef73a3058d20",
-										"95ee910f35c84fa9b8c9a97822ac55a3"
+										"95ee910f35c84fa9b8c9a97822ac55a3",
+										"3B153D94C32F4A9EB7AB7FD2DF5B5D4E",
+										"4C717824F2A94DB781D01FE4A70BB62B",
+										"BCCD7FA52ECC40469DA6EBF573B32A95",
+										"BCCD7F52ECC40469DA6EBF573B32A95"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
