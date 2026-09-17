@@ -1259,21 +1259,12 @@
 				},
 				{
 					"key": "allocation-171704",
-					"startAt": "2026-09-17T17:15:22.483Z",
+					"startAt": "2026-09-17T21:21:13.857Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "ads-display-creative-safeframe-isolation-171704-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2500
-										}
-									]
-								},
 								{
 									"salt": "ads-display-creative-safeframe-isolation-171704-split",
 									"ranges": [
@@ -11893,33 +11884,6 @@
 				}
 			]
 		},
-		"nielsen-dtvr-nba-schedule": {
-			"key": "nielsen-dtvr-nba-schedule",
-			"enabled": true,
-			"variationType": "JSON",
-			"variations": {
-				"testschedule": {
-					"key": "testschedule",
-					"value": "{\n  \"schedule\": [\n    [\n      \"124721630\",\n      1767225600,\n      1798761600\n    ]\n  ]\n}"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-168911",
-					"startAt": "2026-09-10T21:10:26.589Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "testschedule",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"nimble-narwhal-mobile": {
 			"key": "nimble-narwhal-mobile",
 			"enabled": true,
@@ -14092,7 +14056,7 @@
 			"allocations": [
 				{
 					"key": "allocation-169489",
-					"startAt": "2026-09-16T17:44:34.036Z",
+					"startAt": "2026-09-17T19:02:22.870Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14101,10 +14065,11 @@
 									"value": [
 										"E3EC19267CD44C50AF270E97D00EFB2D",
 										"6aace49b8a3f49e9ad069d9929256480",
-										"c7f4825b087e45dfac7be74b9b990631",
 										"3B153D94C32F4A9EB7AB7FD2D- F5B5D4E",
 										"BCCD7FA52ECC40469DA6EB- F573B32A95",
-										"4C717824F2A94DB781D01FE4A70B-B62B"
+										"4C717824F2A94DB781D01FE4A70B-B62B",
+										"bc27308c3c34a9c92eddef73a3058d20",
+										"95ee910f35c84fa9b8c9a97822ac55a3"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
