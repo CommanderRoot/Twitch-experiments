@@ -8360,21 +8360,12 @@
 			"allocations": [
 				{
 					"key": "allocation-168366",
-					"startAt": "2026-09-09T21:42:58.125Z",
+					"startAt": "2026-09-18T16:04:10.545Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "gruesome-grepping-gopher-168366-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "gruesome-grepping-gopher-168366-split",
 									"ranges": [
@@ -8390,15 +8381,6 @@
 							"variationKey": "clips-shelf-then-vods-shelf",
 							"shards": [
 								{
-									"salt": "gruesome-grepping-gopher-168366-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
 									"salt": "gruesome-grepping-gopher-168366-split",
 									"ranges": [
 										{
@@ -8412,15 +8394,6 @@
 						{
 							"variationKey": "vods-shelf-then-clips-shelf",
 							"shards": [
-								{
-									"salt": "gruesome-grepping-gopher-168366-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "gruesome-grepping-gopher-168366-split",
 									"ranges": [
@@ -9950,7 +9923,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-08-25T16:46:58.520Z",
+					"startAt": "2026-09-18T17:25:58.392Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9974,7 +9947,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								}
@@ -9987,7 +9960,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 500,
 											"end": 10000
 										}
 									]
@@ -10111,7 +10084,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-09-16T19:53:34.683Z",
+					"startAt": "2026-09-18T17:29:10.541Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -10122,7 +10095,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 9999
 										}
 									]
 								}
@@ -10135,7 +10108,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 9999,
 											"end": 10000
 										}
 									]
@@ -19037,6 +19010,10 @@
 				"minecraft-dungeons-sept-2026": {
 					"key": "minecraft-dungeons-sept-2026",
 					"value": "{\n  \"asin\": \"B0H4MS18QK\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
+				},
+				"digital-test": {
+					"key": "digital-test",
+					"value": "{\n  \"asin\": \"B0H1SKSZGH\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -20676,6 +20653,63 @@
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-168807-split",
+									"ranges": [
+										{
+											"start": 1,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-172185",
+					"startAt": "2026-09-18T16:10:13.907Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3JKncAx6LHSpEW2psY2z7Gsjn3Y"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-172185-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "minecraft-dungeons-sept-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-172185-split",
 									"ranges": [
 										{
 											"start": 1,
