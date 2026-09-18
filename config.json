@@ -6922,6 +6922,91 @@
 				}
 			]
 		},
+		"ext-bits-refills": {
+			"key": "ext-bits-refills",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-172342",
+					"startAt": "2026-09-18T20:35:19.568Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ext-bits-refills-172342-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "ext-bits-refills-172342-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "ext-bits-refills-172342-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "ext-bits-refills-172342-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-172341",
+					"startAt": "2026-09-18T20:33:04.051Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"family-center-identity-update": {
 			"key": "family-center-identity-update",
 			"enabled": true,
@@ -10347,6 +10432,10 @@
 				"control-reenagagement-banner": {
 					"key": "control-reenagagement-banner",
 					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\",\n    \"db2cbdb2-a1a0-4534-8785-57d62170ed9d\"\n  ]\n}"
+				},
+				"with-tax-expiration-banner": {
+					"key": "with-tax-expiration-banner",
+					"value": "{\n  \"campaigns\": [\n    \"be58b12b-62f8-4d42-a10d-584f26fea066\",\n    \"84fbe278-60aa-40b9-b97e-46a0a66439ea\",\n    \"b4a49c67-2625-4cc5-80d6-ae2a75830159\",\n    \"280cd8f8-0b5c-4adf-bb3f-c1bc1d82814d\",\n    \"bf3d6aee-0e31-4068-97ee-2b5adf4b9d0d\",\n    \"8f0b6c2f-0c2b-4c71-9c52-9e6c3b4e2a91\",\n    \"c59d4fda-c460-457c-acfd-33a0423ba93c\",\n    \"8fced223-2493-453c-8a8d-6316908c0eeb\",\n    \"db2cbdb2-a1a0-4534-8785-57d62170ed9d\",\n    \"342e15d5-b088-42d3-a847-1250cf348056\",\n    \"804ce2c5-7e20-4a54-9334-6ec6d95caf6c\"\n  ]\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -12839,7 +12928,7 @@
 				},
 				{
 					"key": "allocation-161116",
-					"startAt": "2026-09-02T15:08:28.114Z",
+					"startAt": "2026-09-18T20:38:10.355Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12857,28 +12946,14 @@
 							]
 						},
 						{
-							"variationKey": "v3-2fa",
-							"shards": [
-								{
-									"salt": "onboarding-2fa-ui-161116-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
 							"variationKey": "v3-control",
 							"shards": [
 								{
 									"salt": "onboarding-2fa-ui-161116-split",
 									"ranges": [
 										{
-											"start": 3333,
-											"end": 6666
+											"start": 0,
+											"end": 5000
 										}
 									]
 								}
@@ -12891,7 +12966,7 @@
 									"salt": "onboarding-2fa-ui-161116-split",
 									"ranges": [
 										{
-											"start": 6666,
+											"start": 5000,
 											"end": 10000
 										}
 									]
