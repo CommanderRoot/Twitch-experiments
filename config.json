@@ -14214,7 +14214,7 @@
 			"allocations": [
 				{
 					"key": "allocation-169489",
-					"startAt": "2026-09-18T21:10:18.848Z",
+					"startAt": "2026-09-18T23:36:12.257Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14229,7 +14229,10 @@
 										"3B153D94C32F4A9EB7AB7FD2DF5B5D4E",
 										"4C717824F2A94DB781D01FE4A70BB62B",
 										"BCCD7FA52ECC40469DA6EBF573B32A95",
-										"BCCD7F52ECC40469DA6EBF573B32A95"
+										"BCCD7F52ECC40469DA6EBF573B32A95",
+										"bc27308c3c34a9c92eddef73a3058d20",
+										"95ee910f35c84fa9b8c9a97822ac55a3",
+										"c7f4825b087e45dfac7be74b9b990631"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
