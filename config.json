@@ -4182,6 +4182,84 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-172843",
+					"startAt": "2026-09-21T21:11:24.185Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "checkout-benefit-gift-172843-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentA",
+							"shards": [
+								{
+									"salt": "checkout-benefit-gift-172843-split",
+									"ranges": [
+										{
+											"start": 2000,
+											"end": 4000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentB",
+							"shards": [
+								{
+									"salt": "checkout-benefit-gift-172843-split",
+									"ranges": [
+										{
+											"start": 4000,
+											"end": 6000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentC",
+							"shards": [
+								{
+									"salt": "checkout-benefit-gift-172843-split",
+									"ranges": [
+										{
+											"start": 6000,
+											"end": 8000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "TreatmentE",
+							"shards": [
+								{
+									"salt": "checkout-benefit-gift-172843-split",
+									"ranges": [
+										{
+											"start": 8000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-154759",
 					"startAt": "2026-08-06T20:02:34.495Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -5569,7 +5647,7 @@
 			"allocations": [
 				{
 					"key": "allocation-118948",
-					"startAt": "2026-09-10T20:20:33.178Z",
+					"startAt": "2026-09-21T20:56:31.196Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -5580,7 +5658,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 7500
+											"end": 5000
 										}
 									]
 								}
@@ -5593,7 +5671,7 @@
 									"salt": "cw-for-subscription-purchase-118948-split",
 									"ranges": [
 										{
-											"start": 7500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -10416,7 +10494,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control-reenagagement-banner",
+							"variationKey": "with-tax-expiration-banner",
 							"shards": []
 						}
 					],
@@ -12581,7 +12659,7 @@
 				},
 				{
 					"key": "allocation-172696",
-					"startAt": "2026-09-21T17:28:20.065Z",
+					"startAt": "2026-09-21T20:17:03.385Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12592,7 +12670,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 100
+											"end": 2500
 										}
 									]
 								},
@@ -13099,7 +13177,7 @@
 				},
 				{
 					"key": "allocation-169519",
-					"startAt": "2026-09-17T10:22:08.253Z",
+					"startAt": "2026-09-21T22:07:16.423Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -13108,7 +13186,9 @@
 									"value": [
 										"1536864494",
 										"1541612836",
-										"1536859637"
+										"1536859637",
+										"1333270952",
+										"1543192529"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
