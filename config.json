@@ -1258,28 +1258,6 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-171704",
-					"startAt": "2026-09-17T21:21:13.857Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "ads-display-creative-safeframe-isolation-171704-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-165047",
 					"startAt": "2026-08-31T22:46:58.119Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -7061,21 +7039,12 @@
 				},
 				{
 					"key": "allocation-169909",
-					"startAt": "2026-09-17T22:19:45.837Z",
+					"startAt": "2026-09-21T17:58:42.928Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "family-center-identity-update-169909-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 7400
-										}
-									]
-								},
 								{
 									"salt": "family-center-identity-update-169909-split",
 									"ranges": [
@@ -7096,7 +7065,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -10008,7 +9977,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-09-18T17:25:58.392Z",
+					"startAt": "2026-09-21T17:39:15.374Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10032,7 +10001,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 500
+											"end": 5000
 										}
 									]
 								}
@@ -10045,7 +10014,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -12611,6 +12580,37 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-172696",
+					"startAt": "2026-09-21T17:28:20.065Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "omsdk_ad_measurement-172696-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								},
+								{
+									"salt": "omsdk_ad_measurement-172696-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-53181",
 					"startAt": "2025-09-17T20:47:09.153Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -12878,7 +12878,7 @@
 				},
 				{
 					"key": "allocation-164246",
-					"startAt": "2026-09-02T15:13:01.269Z",
+					"startAt": "2026-09-21T18:01:14.258Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12903,7 +12903,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 7500
+											"end": 9000
 										}
 									]
 								}
@@ -12916,7 +12916,7 @@
 									"salt": "onboarding-2fa-ui-164246-split",
 									"ranges": [
 										{
-											"start": 7500,
+											"start": 9000,
 											"end": 10000
 										}
 									]
@@ -13540,167 +13540,6 @@
 					"splits": [
 						{
 							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"palo-verde-wren": {
-			"key": "palo-verde-wren",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				},
-				"default-variation": {
-					"key": "default-variation",
-					"value": "default-variation"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-169591",
-					"startAt": "2026-09-11T22:07:30.348Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"55696719",
-										"702554981"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169591-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-169590-holdout-viewer-progression-2026",
-					"startAt": "2026-09-11T22:06:25.522Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "default-variation",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169590-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "viewer-progression-2026-holdout-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 700
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "default-variation",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169590-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								},
-								{
-									"salt": "viewer-progression-2026-holdout-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 700
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-169590",
-					"startAt": "2026-09-11T22:06:25.522Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169590-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "palo-verde-wren-169590-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-169586",
-					"startAt": "2026-09-11T22:04:35.519Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "default-variation",
 							"shards": []
 						}
 					],
@@ -21324,7 +21163,7 @@
 			"allocations": [
 				{
 					"key": "allocation-158790",
-					"startAt": "2026-09-02T20:10:16.800Z",
+					"startAt": "2026-09-21T17:27:04.796Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -21343,6 +21182,15 @@
 						{
 							"variationKey": "true",
 							"shards": [
+								{
+									"salt": "sprig-sdk-load-158790-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
 								{
 									"salt": "sprig-sdk-load-158790-split",
 									"ranges": [
