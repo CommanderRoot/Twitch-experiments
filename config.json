@@ -861,6 +861,10 @@
 				"minecraft": {
 					"key": "minecraft",
 					"value": "minecraft"
+				},
+				"minecraft-sub-discounts": {
+					"key": "minecraft-sub-discounts",
+					"value": "minecraft-sub-discounts"
 				}
 			},
 			"totalShards": 10000,
@@ -5210,7 +5214,7 @@
 				},
 				{
 					"key": "allocation-160800",
-					"startAt": "2026-09-14T19:50:47.835Z",
+					"startAt": "2026-09-22T18:44:09.750Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -5221,7 +5225,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 4500
+											"end": 9999
 										}
 									]
 								}
@@ -5234,7 +5238,7 @@
 									"salt": "cranky-camel-160800-split",
 									"ranges": [
 										{
-											"start": 4500,
+											"start": 9999,
 											"end": 10000
 										}
 									]
@@ -5250,7 +5254,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -8761,7 +8765,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -12843,7 +12847,7 @@
 				},
 				{
 					"key": "allocation-172696",
-					"startAt": "2026-09-21T20:17:03.385Z",
+					"startAt": "2026-09-22T18:49:05.698Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12854,7 +12858,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2500
+											"end": 7500
 										}
 									]
 								},
