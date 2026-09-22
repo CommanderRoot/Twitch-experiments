@@ -5695,6 +5695,140 @@
 				}
 			]
 		},
+		"cw-shelf-position-following-web": {
+			"key": "cw-shelf-position-following-web",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-173008",
+					"startAt": "2026-09-22T05:21:10.476Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"55696719",
+										"702554981"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-following-web-173008-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-172930",
+					"startAt": "2026-09-21T23:48:01.624Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"cw-shelf-position-home-web": {
+			"key": "cw-shelf-position-home-web",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-173009",
+					"startAt": "2026-09-22T05:22:42.326Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"55696719",
+										"702554981"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-home-web-173009-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-172934",
+					"startAt": "2026-09-21T23:49:31.833Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"cw-xsolla-banner": {
 			"key": "cw-xsolla-banner",
 			"enabled": true,
@@ -8490,6 +8624,56 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-172958",
+					"startAt": "2026-09-22T01:26:03.766Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "gruesome-grepping-gopher-172958-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "clips-shelf-then-vods-shelf",
+							"shards": [
+								{
+									"salt": "gruesome-grepping-gopher-172958-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "vods-shelf-then-clips-shelf",
+							"shards": [
+								{
+									"salt": "gruesome-grepping-gopher-172958-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
 				{
 					"key": "allocation-168366",
 					"startAt": "2026-09-18T16:04:10.545Z",
@@ -20662,7 +20846,7 @@
 				},
 				{
 					"key": "allocation-172185",
-					"startAt": "2026-09-18T16:10:13.907Z",
+					"startAt": "2026-09-22T01:27:51.690Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -20676,8 +20860,7 @@
 								},
 								{
 									"value": [
-										"US",
-										"CA"
+										"US"
 									],
 									"operator": "ONE_OF",
 									"attribute": "marketplace"
