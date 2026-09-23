@@ -16420,6 +16420,37 @@
 				}
 			]
 		},
+		"recycled-starfruit-to-raspberry": {
+			"key": "recycled-starfruit-to-raspberry",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-164758",
+					"startAt": "2026-08-31T17:00:26.897Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"recycling-captain": {
 			"key": "recycling-captain",
 			"enabled": true,
@@ -19250,6 +19281,10 @@
 				"digital-test": {
 					"key": "digital-test",
 					"value": "{\n  \"asin\": \"B0H1SKSZGH\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
+				},
+				"sandisk-10-2026": {
+					"key": "sandisk-10-2026",
+					"value": "{\n  \"asin\": \"B0H8XY7QWY\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -20945,6 +20980,63 @@
 							"shards": [
 								{
 									"salt": "sponsored_shopping_release-172185-split",
+									"ranges": [
+										{
+											"start": 1,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-173487",
+					"startAt": "2026-09-22T22:36:59.509Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3Jgi7nne7Y3RXlT2FMmvCjvWe2d"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US",
+										"CA"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-173487-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "sandisk-10-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-173487-split",
 									"ranges": [
 										{
 											"start": 1,
