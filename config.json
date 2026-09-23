@@ -178,7 +178,7 @@
 			"allocations": [
 				{
 					"key": "allocation-164366",
-					"startAt": "2026-09-16T22:14:58.811Z",
+					"startAt": "2026-09-23T21:17:16.915Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -188,12 +188,11 @@
 										"23692195",
 										"1330915091",
 										"1514119281",
-										"1514124582",
 										"856430024",
 										"857447735"
 									],
 									"operator": "ONE_OF",
-									"attribute": "user_id"
+									"attribute": "id"
 								}
 							]
 						}
@@ -240,6 +239,41 @@
 							"shards": [
 								{
 									"salt": "CW-Rewards-159421-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-174098",
+					"startAt": "2026-09-23T21:17:26.179Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1514124582"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "1_10",
+							"shards": [
+								{
+									"salt": "CW-Rewards-174098-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -1382,7 +1416,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -5849,6 +5883,216 @@
 				}
 			]
 		},
+		"cw-shelf-position-following-web": {
+			"key": "cw-shelf-position-following-web",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-173008",
+					"startAt": "2026-09-22T23:56:29.660Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"55696719",
+										"702554981",
+										"1095331031",
+										"1528070654"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-following-web-173008-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-173968",
+					"startAt": "2026-09-23T18:49:00.428Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-following-web-173968-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-following-web-173968-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-172930",
+					"startAt": "2026-09-21T23:48:01.624Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"cw-shelf-position-home-web": {
+			"key": "cw-shelf-position-home-web",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-173009",
+					"startAt": "2026-09-22T23:57:05.244Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"55696719",
+										"702554981",
+										"1095331031",
+										"1528070654"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-home-web-173009-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-173967",
+					"startAt": "2026-09-23T18:48:43.185Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-home-web-173967-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-home-web-173967-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-172934",
+					"startAt": "2026-09-21T23:49:31.833Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"cw-xsolla-banner": {
 			"key": "cw-xsolla-banner",
 			"enabled": true,
@@ -7531,48 +7775,12 @@
 			"entityId": 145,
 			"allocations": [
 				{
-					"key": "allocation-159255",
-					"startAt": "2026-08-18T17:32:42.257Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "first-stream-anniversary-event-159255-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "first-stream-anniversary-event-159255-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-144946",
 					"startAt": "2026-07-21T20:54:54.171Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -16912,6 +17120,37 @@
 				}
 			]
 		},
+		"savvy-part-2": {
+			"key": "savvy-part-2",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-171094",
+					"startAt": "2026-09-16T17:05:37.508Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"scarcity-creator-badges": {
 			"key": "scarcity-creator-badges",
 			"enabled": true,
@@ -18152,7 +18391,7 @@
 			"allocations": [
 				{
 					"key": "allocation-165917",
-					"startAt": "2026-09-23T17:10:17.362Z",
+					"startAt": "2026-09-23T18:37:00.112Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -18166,7 +18405,8 @@
 										"657402127",
 										"176749346",
 										"114128858",
-										"1437983493"
+										"1437983493",
+										"911239544"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
