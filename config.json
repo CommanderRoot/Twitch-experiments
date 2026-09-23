@@ -177,6 +177,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-174108",
+					"startAt": "2026-09-23T22:12:26.612Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"856430024"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": ".05",
+							"shards": [
+								{
+									"salt": "CW-Rewards-174108-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-164366",
 					"startAt": "2026-09-23T21:17:16.915Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -22026,7 +22061,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
