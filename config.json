@@ -178,14 +178,15 @@
 			"allocations": [
 				{
 					"key": "allocation-174108",
-					"startAt": "2026-09-23T22:12:26.612Z",
+					"startAt": "2026-09-24T01:07:37.600Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"856430024"
+										"856430024",
+										"23692195"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -213,14 +214,13 @@
 				},
 				{
 					"key": "allocation-164366",
-					"startAt": "2026-09-23T21:17:16.915Z",
+					"startAt": "2026-09-24T01:18:30.599Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"23692195",
 										"1330915091",
 										"1514119281",
 										"856430024",
@@ -16069,6 +16069,10 @@
 				"no-pixel": {
 					"key": "no-pixel",
 					"value": "[\n  {\n    \"slug\": \"nopixel-v\",\n    \"position\": 0\n  }\n]"
+				},
+				"no-pixel-and-valorant": {
+					"key": "no-pixel-and-valorant",
+					"value": "[\n  {\n    \"slug\": \"nopixel-v\",\n    \"position\": 0\n  },\n    {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 1\n  }\n]\n\n"
 				}
 			},
 			"totalShards": 10000,
