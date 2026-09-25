@@ -13052,6 +13052,56 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-175494",
+					"startAt": "2026-09-25T22:18:55.006Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "ocp-more-rows-home-175494-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "arm_1",
+							"shards": [
+								{
+									"salt": "ocp-more-rows-home-175494-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "arm_2",
+							"shards": [
+								{
+									"salt": "ocp-more-rows-home-175494-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-171442",
 					"startAt": "2026-09-16T23:00:48.654Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
