@@ -255,42 +255,6 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-159421",
-					"startAt": "2026-08-20T17:10:26.732Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"BR",
-										"TR"
-									],
-									"operator": "ONE_OF",
-									"attribute": "creator_country"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "CW-Rewards-159421-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-174098",
 					"startAt": "2026-09-24T20:41:43.393Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -18511,7 +18475,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
