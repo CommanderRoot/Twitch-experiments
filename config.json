@@ -1031,7 +1031,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "minecraft-sub-discounts",
+							"variationKey": "minecraft",
 							"shards": []
 						}
 					],
@@ -13030,6 +13030,41 @@
 				}
 			]
 		},
+		"ocp-more-rows-home": {
+			"key": "ocp-more-rows-home",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"arm_1": {
+					"key": "arm_1",
+					"value": "arm_1"
+				},
+				"arm_2": {
+					"key": "arm_2",
+					"value": "arm_2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-171442",
+					"startAt": "2026-09-16T23:00:48.654Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"offline-channel-page-redesign": {
 			"key": "offline-channel-page-redesign",
 			"enabled": true,
@@ -21486,7 +21521,7 @@
 			"allocations": [
 				{
 					"key": "allocation-174207",
-					"startAt": "2026-09-24T07:09:01.281Z",
+					"startAt": "2026-09-25T20:01:33.009Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -21497,7 +21532,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9999
+											"end": 0
 										}
 									]
 								}
@@ -21510,7 +21545,7 @@
 									"salt": "sponsorship_gifted_drops-174207-split",
 									"ranges": [
 										{
-											"start": 9999,
+											"start": 0,
 											"end": 10000
 										}
 									]
