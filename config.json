@@ -256,7 +256,7 @@
 				},
 				{
 					"key": "allocation-174098",
-					"startAt": "2026-09-24T20:41:43.393Z",
+					"startAt": "2026-09-28T15:55:07.655Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -266,7 +266,8 @@
 										"1514124582",
 										"555021990",
 										"1513481388",
-										"1457704260"
+										"1457704260",
+										"1461999655"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -14760,7 +14761,7 @@
 			"allocations": [
 				{
 					"key": "allocation-169489",
-					"startAt": "2026-09-18T23:36:12.257Z",
+					"startAt": "2026-09-28T19:58:51.394Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14769,16 +14770,14 @@
 									"value": [
 										"E3EC19267CD44C50AF270E97D00EFB2D",
 										"6aace49b8a3f49e9ad069d9929256480",
-										"3B153D94C32F4A9EB7AB7FD2D- F5B5D4E",
-										"BCCD7FA52ECC40469DA6EB- F573B32A95",
-										"4C717824F2A94DB781D01FE4A70B-B62B",
 										"3B153D94C32F4A9EB7AB7FD2DF5B5D4E",
 										"4C717824F2A94DB781D01FE4A70BB62B",
-										"BCCD7FA52ECC40469DA6EBF573B32A95",
 										"BCCD7F52ECC40469DA6EBF573B32A95",
 										"bc27308c3c34a9c92eddef73a3058d20",
 										"95ee910f35c84fa9b8c9a97822ac55a3",
-										"c7f4825b087e45dfac7be74b9b990631"
+										"c7f4825b087e45dfac7be74b9b990631",
+										"895a57c8c9484a2f9244b41fad427b4d",
+										"9ab9a8d79a0d438d989d5b8e5c919ab9"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
@@ -16753,6 +16752,37 @@
 				}
 			]
 		},
+		"recycled-auto-plum-starfruit": {
+			"key": "recycled-auto-plum-starfruit",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-164754",
+					"startAt": "2026-08-31T16:57:18.809Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"recycled-cherry-papaya": {
 			"key": "recycled-cherry-papaya",
 			"enabled": true,
@@ -16808,6 +16838,37 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"recycled-craps-0ut": {
+			"key": "recycled-craps-0ut",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"2026-10-06T00:00:00.000Z": {
+					"key": "2026-10-06T00:00:00.000Z",
+					"value": "2026-10-06T00:00:00.000Z"
+				},
+				"2026-09-06T00:00:00.000Z": {
+					"key": "2026-09-06T00:00:00.000Z",
+					"value": "2026-09-06T00:00:00.000Z"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-170220",
+					"startAt": "2026-09-15T03:47:57.494Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "2026-10-06T00:00:00.000Z",
 							"shards": []
 						}
 					],
