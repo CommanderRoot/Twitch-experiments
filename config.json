@@ -16857,6 +16857,10 @@
 				"2026-09-06T00:00:00.000Z": {
 					"key": "2026-09-06T00:00:00.000Z",
 					"value": "2026-09-06T00:00:00.000Z"
+				},
+				"2026-10-20T00:00:00.000Z": {
+					"key": "2026-10-20T00:00:00.000Z",
+					"value": "2026-10-20T00:00:00.000Z"
 				}
 			},
 			"totalShards": 10000,
@@ -16868,7 +16872,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "2026-10-06T00:00:00.000Z",
+							"variationKey": "2026-10-20T00:00:00.000Z",
 							"shards": []
 						}
 					],
@@ -16896,6 +16900,37 @@
 				{
 					"key": "allocation-164748",
 					"startAt": "2026-08-31T16:54:25.590Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"recycled-custard-violent-pear": {
+			"key": "recycled-custard-violent-pear",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-164751",
+					"startAt": "2026-08-31T16:56:05.591Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -17595,7 +17630,7 @@
 				},
 				{
 					"key": "allocation-168323",
-					"startAt": "2026-09-24T17:14:17.845Z",
+					"startAt": "2026-09-29T00:55:09.343Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -17616,15 +17651,6 @@
 							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "sda_use_multiformat-168323-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
-								{
 									"salt": "sda_use_multiformat-168323-split",
 									"ranges": [
 										{
@@ -17638,15 +17664,6 @@
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "sda_use_multiformat-168323-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
 								{
 									"salt": "sda_use_multiformat-168323-split",
 									"ranges": [
@@ -22045,6 +22062,41 @@
 			"entityId": 144,
 			"allocations": [
 				{
+					"key": "allocation-169520",
+					"startAt": "2026-09-11T20:14:30.499Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"test-livedeals-device-id"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "livedeals",
+							"shards": [
+								{
+									"salt": "spotlight_leftnav-169520-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-164880",
 					"startAt": "2026-09-11T20:15:04.217Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -22093,41 +22145,6 @@
 						}
 					],
 					"doLog": true
-				},
-				{
-					"key": "allocation-169520",
-					"startAt": "2026-09-11T20:14:30.499Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"test-livedeals-device-id"
-									],
-									"operator": "ONE_OF",
-									"attribute": "device_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "livedeals",
-							"shards": [
-								{
-									"salt": "spotlight_leftnav-169520-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
 				},
 				{
 					"key": "allocation-164877",
@@ -23925,6 +23942,28 @@
 							"shards": [
 								{
 									"salt": "wallet-add-payment-method-155255-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-176074",
+					"startAt": "2026-09-28T21:26:53.521Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "wallet-add-payment-method-176074-split",
 									"ranges": [
 										{
 											"start": 0,
