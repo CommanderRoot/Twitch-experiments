@@ -6050,7 +6050,7 @@
 			"allocations": [
 				{
 					"key": "allocation-173009",
-					"startAt": "2026-09-22T23:57:05.244Z",
+					"startAt": "2026-09-29T16:36:15.633Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -6060,7 +6060,8 @@
 										"55696719",
 										"702554981",
 										"1095331031",
-										"1528070654"
+										"1528070654",
+										"125460382"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -14804,96 +14805,8 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-169547",
-					"startAt": "2026-09-12T04:11:14.852Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"web"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "phone_reuse_check_disabled-169547-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "phone_reuse_check_disabled-169547-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-169556",
-					"startAt": "2026-09-12T04:11:45.065Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"backend_passport"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "phone_reuse_check_disabled-169556-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "phone_reuse_check_disabled-169556-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-169557",
-					"startAt": "2026-09-11T21:36:56.320Z",
+					"startAt": "2026-09-29T16:13:40.544Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14913,16 +14826,77 @@
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "phone_reuse_check_disabled-169557-traffic",
+									"salt": "phone_reuse_check_disabled-169557-split",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 10000
 										}
 									]
-								},
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-169556",
+					"startAt": "2026-09-29T17:32:17.547Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
 								{
-									"salt": "phone_reuse_check_disabled-169557-split",
+									"value": [
+										"backend_passport"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "phone_reuse_check_disabled-169556-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-169547",
+					"startAt": "2026-09-29T18:31:52.971Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"web"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "phone_reuse_check_disabled-169547-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -22324,7 +22298,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
