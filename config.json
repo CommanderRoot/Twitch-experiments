@@ -865,37 +865,6 @@
 				}
 			]
 		},
-		"Recommended-Follows-Client-Follow-Callout": {
-			"key": "Recommended-Follows-Client-Follow-Callout",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-160790",
-					"startAt": "2026-08-20T20:39:14.700Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"Subtember-2025-Last-call-banner": {
 			"key": "Subtember-2025-Last-call-banner",
 			"enabled": true,
