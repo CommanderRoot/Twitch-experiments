@@ -865,6 +865,136 @@
 				}
 			]
 		},
+		"Recommended-Follows-Client-Follow-Callout": {
+			"key": "Recommended-Follows-Client-Follow-Callout",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-176589",
+					"startAt": "2026-09-29T20:44:03.768Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "31.5.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"ios"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"twilight"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": "31.5.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								},
+								{
+									"value": [
+										"android"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Recommended-Follows-Client-Follow-Callout-176589-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "Recommended-Follows-Client-Follow-Callout-176589-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9999
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "Recommended-Follows-Client-Follow-Callout-176589-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "Recommended-Follows-Client-Follow-Callout-176589-split",
+									"ranges": [
+										{
+											"start": 9999,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-160790",
+					"startAt": "2026-08-20T20:39:14.700Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"Subtember-2025-Last-call-banner": {
 			"key": "Subtember-2025-Last-call-banner",
 			"enabled": true,
@@ -2073,270 +2203,6 @@
 					"splits": [
 						{
 							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"android_prominent_entry_point_copy": {
-			"key": "android_prominent_entry_point_copy",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment1": {
-					"key": "treatment1",
-					"value": "treatment1"
-				},
-				"treatment2": {
-					"key": "treatment2",
-					"value": "treatment2"
-				},
-				"treatment3": {
-					"key": "treatment3",
-					"value": "treatment3"
-				},
-				"treatment4": {
-					"key": "treatment4",
-					"value": "treatment4"
-				},
-				"treatment5": {
-					"key": "treatment5",
-					"value": "treatment5"
-				},
-				"treatment6": {
-					"key": "treatment6",
-					"value": "treatment6"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-162090",
-					"startAt": "2026-08-27T23:37:51.202Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"1165723565",
-										"1533598380"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment6",
-							"shards": [
-								{
-									"salt": "android_prominent_entry_point_copy-162090-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-157998",
-					"startAt": "2026-08-24T15:50:18.241Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": 30.9,
-									"operator": "GTE",
-									"attribute": "app_version"
-								},
-								{
-									"value": [
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "client_app"
-								},
-								{
-									"value": [
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": "30.9.0",
-									"operator": "GTE",
-									"attribute": "app_version"
-								},
-								{
-									"value": [
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "client_app"
-								},
-								{
-									"value": [
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment6",
-							"shards": [
-								{
-									"salt": "android_prominent_entry_point_copy-157998-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "android_prominent_entry_point_copy-157998-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-143839",
-					"startAt": "2026-08-26T18:28:07.975Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": 30.9,
-									"operator": "GTE",
-									"attribute": "app_version"
-								},
-								{
-									"value": [
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "client_app"
-								},
-								{
-									"value": [
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": "30.9.0",
-									"operator": "GTE",
-									"attribute": "app_version"
-								},
-								{
-									"value": [
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "client_app"
-								},
-								{
-									"value": [
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "android_prominent_entry_point_copy-143839-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment5",
-							"shards": [
-								{
-									"salt": "android_prominent_entry_point_copy-143839-split",
-									"ranges": [
-										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment6",
-							"shards": [
-								{
-									"salt": "android_prominent_entry_point_copy-143839-split",
-									"ranges": [
-										{
-											"start": 6666,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-98339",
-					"startAt": "2026-03-10T21:56:03.120Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -9369,8 +9235,8 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-156213",
-					"startAt": "2026-08-11T17:31:00.851Z",
+					"key": "allocation-177484",
+					"startAt": "2026-09-30T19:57:49.531Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9390,27 +9256,13 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "hide-xsolla-checkout-156213-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "hide-xsolla-checkout-156213-split",
+									"salt": "hide-xsolla-checkout-177484-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -9418,7 +9270,7 @@
 							]
 						}
 					],
-					"doLog": true
+					"doLog": false
 				},
 				{
 					"key": "allocation-154753",
@@ -9554,7 +9406,7 @@
 			"allocations": [
 				{
 					"key": "allocation-177162",
-					"startAt": "2026-09-30T18:28:29.253Z",
+					"startAt": "2026-09-30T20:50:33.226Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9563,7 +9415,8 @@
 									"value": [
 										"432489746",
 										"49424513",
-										"408646225"
+										"408646225",
+										"67679985"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -24064,6 +23917,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"velvet-orchid-compass": {
+			"key": "velvet-orchid-compass",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-177535",
+					"startAt": "2026-09-30T20:57:45.920Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
