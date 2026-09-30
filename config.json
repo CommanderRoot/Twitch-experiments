@@ -178,7 +178,7 @@
 			"allocations": [
 				{
 					"key": "allocation-174108",
-					"startAt": "2026-09-24T23:02:58.409Z",
+					"startAt": "2026-09-30T18:32:01.106Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -186,7 +186,6 @@
 								{
 									"value": [
 										"856430024",
-										"23692195",
 										"135530901",
 										"1457704260"
 									],
@@ -216,7 +215,7 @@
 				},
 				{
 					"key": "allocation-164366",
-					"startAt": "2026-09-24T18:13:36.347Z",
+					"startAt": "2026-09-30T18:32:19.077Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -228,7 +227,8 @@
 										"856430024",
 										"857447735",
 										"1333270952",
-										"1485220721"
+										"1485220721",
+										"23692195"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -1886,6 +1886,37 @@
 				}
 			]
 		},
+		"amazon-live-carousel": {
+			"key": "amazon-live-carousel",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-177108",
+					"startAt": "2026-09-30T15:52:46.197Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"aml-ui": {
 			"key": "aml-ui",
 			"enabled": true,
@@ -2601,6 +2632,107 @@
 				{
 					"key": "allocation-162713",
 					"startAt": "2026-08-25T20:29:05.823Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"auto-raid-testing-tmp": {
+			"key": "auto-raid-testing-tmp",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-177190",
+					"startAt": "2026-09-30T17:12:47.939Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"135530901"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "auto-raid-testing-tmp-177190-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-177194",
+					"startAt": "2026-09-30T17:14:29.616Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "is_acquired_creator"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "auto-raid-testing-tmp-177194-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-177187",
+					"startAt": "2026-09-30T17:04:04.922Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -9403,6 +9535,74 @@
 				}
 			]
 		},
+		"host-train-channel-allowlist": {
+			"key": "host-train-channel-allowlist",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-177162",
+					"startAt": "2026-09-30T18:28:29.253Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"432489746",
+										"49424513",
+										"408646225"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "host-train-channel-allowlist-177162-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-174998",
+					"startAt": "2026-09-24T23:34:14.879Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"huge-hungry-hippos": {
 			"key": "huge-hungry-hippos",
 			"enabled": true,
@@ -16074,6 +16274,18 @@
 				"no-pixel-and-valorant": {
 					"key": "no-pixel-and-valorant",
 					"value": "[\n  {\n    \"slug\": \"nopixel-v\",\n    \"position\": 0\n  },\n    {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 1\n  }\n]\n\n"
+				},
+				"valorant-stream-a-ween": {
+					"key": "valorant-stream-a-ween",
+					"value": "[\n  {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 0\n  },\n    {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 1\n  }\n]\n"
+				},
+				"epl-valorant-stream-a-ween": {
+					"key": "epl-valorant-stream-a-ween",
+					"value": "[\n  {\n    \"slug\": \"epl-katowice-2026\",\n    \"position\": 0\n  },  \n  {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 1\n  },\n  {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 2\n  }\n]"
+				},
+				"shopping-valorant-stream-a-ween": {
+					"key": "shopping-valorant-stream-a-ween",
+					"value": "[\n  {\n    \"slug\": \"shopping-2026\",\n    \"position\": 0\n  },  \n  {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 1\n  },\n  {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 2\n  }\n]"
 				}
 			},
 			"totalShards": 10000,
@@ -16116,15 +16328,15 @@
 					"doLog": true
 				},
 				{
-					"key": "allocation-168886",
-					"startAt": "2026-09-10T20:25:55.842Z",
+					"key": "allocation-177218",
+					"startAt": "2026-10-01T07:00:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "no-events",
 							"shards": [
 								{
-									"salt": "promoted-events-config-168886-split",
+									"salt": "promoted-events-config-177218-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -16135,10 +16347,46 @@
 							]
 						},
 						{
-							"variationKey": "no-pixel",
+							"variationKey": "valorant-stream-a-ween",
 							"shards": [
 								{
-									"salt": "promoted-events-config-168886-split",
+									"salt": "promoted-events-config-177218-split",
+									"ranges": [
+										{
+											"start": 500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-177219",
+					"startAt": "2026-10-03T07:00:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "no-events",
+							"shards": [
+								{
+									"salt": "promoted-events-config-177219-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "epl-valorant-stream-a-ween",
+							"shards": [
+								{
+									"salt": "promoted-events-config-177219-split",
 									"ranges": [
 										{
 											"start": 500,
@@ -16157,7 +16405,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "no-pixel",
+							"variationKey": "no-events",
 							"shards": []
 						}
 					],
