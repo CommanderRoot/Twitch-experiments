@@ -1049,7 +1049,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "2026-10-01T17:00:00Z",
+							"variationKey": "null",
 							"shards": []
 						}
 					],
@@ -1088,7 +1088,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "sponsor2",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -1131,7 +1131,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "minecraft",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -21728,7 +21728,7 @@
 			"allocations": [
 				{
 					"key": "allocation-174207",
-					"startAt": "2026-09-25T20:01:33.009Z",
+					"startAt": "2026-10-01T17:25:10.474Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -21739,7 +21739,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 9999
 										}
 									]
 								}
@@ -21752,7 +21752,7 @@
 									"salt": "sponsorship_gifted_drops-174207-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 9999,
 											"end": 10000
 										}
 									]
