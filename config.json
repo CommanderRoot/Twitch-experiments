@@ -9208,6 +9208,56 @@
 					"doLog": true
 				},
 				{
+					"key": "allocation-179296",
+					"startAt": "2026-10-02T20:32:33.138Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "gruesome-grepping-gopher-179296-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "clips-shelf-then-vods-shelf",
+							"shards": [
+								{
+									"salt": "gruesome-grepping-gopher-179296-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "vods-shelf-then-clips-shelf",
+							"shards": [
+								{
+									"salt": "gruesome-grepping-gopher-179296-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-154846",
 					"startAt": "2026-08-06T23:18:27.211Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -20172,7 +20222,7 @@
 				},
 				"digital-test": {
 					"key": "digital-test",
-					"value": "{\n  \"asin\": \"B0H1SKSZGH\",\n  \"asins\": [],\n  \"tracking_id\": {}\n}"
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0H1SKSZGH\",\"B0FZMXHNSW\"],\n  \"tracking_id\": {}\n}"
 				},
 				"sandisk-10-2026": {
 					"key": "sandisk-10-2026",
