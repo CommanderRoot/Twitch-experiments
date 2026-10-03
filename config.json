@@ -2953,14 +2953,15 @@
 				},
 				{
 					"key": "allocation-173448",
-					"startAt": "2026-09-22T21:36:51.261Z",
+					"startAt": "2026-10-03T04:02:16.038Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"941199283"
+										"941199283",
+										"270954519"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
