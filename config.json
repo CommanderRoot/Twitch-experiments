@@ -294,6 +294,106 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-180950",
+					"startAt": "2026-10-06T21:32:53.057Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "CW-Rewards-180950-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "CW-Rewards-180950-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": ".05",
+							"shards": [
+								{
+									"salt": "CW-Rewards-180950-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "CW-Rewards-180950-split",
+									"ranges": [
+										{
+											"start": 2500,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": ".1",
+							"shards": [
+								{
+									"salt": "CW-Rewards-180950-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "CW-Rewards-180950-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 7500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "1_10",
+							"shards": [
+								{
+									"salt": "CW-Rewards-180950-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								},
+								{
+									"salt": "CW-Rewards-180950-split",
+									"ranges": [
+										{
+											"start": 7500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-159402",
 					"startAt": "2026-08-18T21:14:29.123Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -23201,21 +23301,12 @@
 				},
 				{
 					"key": "allocation-180300",
-					"startAt": "2026-10-06T17:54:31.502Z",
+					"startAt": "2026-10-06T20:43:18.914Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "livedeals",
 							"shards": [
-								{
-									"salt": "spotlight_leftnav-180300-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 7500
-										}
-									]
-								},
 								{
 									"salt": "spotlight_leftnav-180300-split",
 									"ranges": [
