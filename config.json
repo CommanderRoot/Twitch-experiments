@@ -884,7 +884,7 @@
 			"allocations": [
 				{
 					"key": "allocation-176589",
-					"startAt": "2026-10-05T18:08:52.825Z",
+					"startAt": "2026-10-05T18:29:58.503Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -936,15 +936,6 @@
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "Recommended-Follows-Client-Follow-Callout-176589-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
 									"salt": "Recommended-Follows-Client-Follow-Callout-176589-split",
 									"ranges": [
 										{
@@ -958,15 +949,6 @@
 						{
 							"variationKey": "false",
 							"shards": [
-								{
-									"salt": "Recommended-Follows-Client-Follow-Callout-176589-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "Recommended-Follows-Client-Follow-Callout-176589-split",
 									"ranges": [
@@ -2033,6 +2015,41 @@
 			"totalShards": 10000,
 			"entityId": 144,
 			"allocations": [
+				{
+					"key": "allocation-180072",
+					"startAt": "2026-10-05T22:27:24.679Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"US"
+									],
+									"operator": "NOT_ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "amazon-live-carousel-180072-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-178843",
 					"startAt": "2026-10-01T22:11:15.461Z",
@@ -6138,6 +6155,28 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-179863",
+					"startAt": "2026-10-05T18:32:33.584Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "spm-required",
+							"shards": [
+								{
+									"salt": "cw-for-subscription-purchase-179863-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-118948",
 					"startAt": "2026-09-21T20:56:31.196Z",
@@ -22800,6 +22839,10 @@
 				"livedeals": {
 					"key": "livedeals",
 					"value": "livedeals"
+				},
+				"liveshopping": {
+					"key": "liveshopping",
+					"value": "liveshopping"
 				}
 			},
 			"totalShards": 10000,
