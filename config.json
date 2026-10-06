@@ -2908,6 +2908,37 @@
 				}
 			]
 		},
+		"automod-noise-enabled": {
+			"key": "automod-noise-enabled",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-180387",
+					"startAt": "2026-10-06T14:40:49.557Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"autopub-recaps": {
 			"key": "autopub-recaps",
 			"enabled": true,
@@ -11305,7 +11336,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-10-05T16:26:37.762Z",
+					"startAt": "2026-10-06T16:22:15.692Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -11316,7 +11347,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 0
 										}
 									]
 								}
@@ -11329,7 +11360,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -11559,7 +11590,7 @@
 			"allocations": [
 				{
 					"key": "allocation-179769",
-					"startAt": "2026-10-05T16:58:32.282Z",
+					"startAt": "2026-10-06T17:03:48.906Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11575,7 +11606,8 @@
 										"687317764",
 										"671844619",
 										"55196436",
-										"1548187897"
+										"1548187897",
+										"754354653"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -11603,21 +11635,12 @@
 				},
 				{
 					"key": "allocation-179761",
-					"startAt": "2026-10-05T16:35:32.982Z",
+					"startAt": "2026-10-06T14:50:28.846Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "live-shopping-leftnav-exp-179761-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "live-shopping-leftnav-exp-179761-split",
 									"ranges": [
@@ -11632,15 +11655,6 @@
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "live-shopping-leftnav-exp-179761-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "live-shopping-leftnav-exp-179761-split",
 									"ranges": [
@@ -13279,6 +13293,77 @@
 				{
 					"key": "allocation-87016",
 					"startAt": "2026-01-27T21:55:20.718Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"next-up": {
+			"key": "next-up",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"variant1": {
+					"key": "variant1",
+					"value": "variant1"
+				},
+				"variant2": {
+					"key": "variant2",
+					"value": "variant2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-144960",
+					"startAt": "2026-07-21T21:03:38.310Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "variant1",
+							"shards": [
+								{
+									"salt": "next-up-144960-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "variant2",
+							"shards": [
+								{
+									"salt": "next-up-144960-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-88641",
+					"startAt": "2026-02-03T18:09:54.045Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -20777,6 +20862,10 @@
 				"xbox-10-26": {
 					"key": "xbox-10-26",
 					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0H27DR9SY\",\"B0H4MNY7TD\",\"B0H4MZPQ93\"],\n  \"tracking_id\": {}\n}"
+				},
+				"jlab-10-2026": {
+					"key": "jlab-10-2026",
+					"value": "{\n  \"asin\": \"\",\n  \"asins\": [\"B0GSCD86LT\",\"B0GSCCMJNJ\",\"B0GS7FQ41K\"],\n  \"tracking_id\": {}\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -22542,6 +22631,64 @@
 					"doLog": true
 				},
 				{
+					"key": "allocation-180550",
+					"startAt": "2026-10-06T16:35:40.457Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"campaign.3K9PXV38Jy1mvlWBqYE1W7P5uYd",
+										"campaign.3K9RbIsKOhctfox3ezuSDZGtL0d",
+										"campaign.3K9QnurkOE1oeBDpuphGFNPLczt"
+									],
+									"operator": "ONE_OF",
+									"attribute": "campaign_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "marketplace"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-180550-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "jlab-10-2026",
+							"shards": [
+								{
+									"salt": "sponsored_shopping_release-180550-split",
+									"ranges": [
+										{
+											"start": 1,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-47181",
 					"startAt": "2025-08-25T21:58:29.101Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -23012,10 +23159,6 @@
 				"livedeals": {
 					"key": "livedeals",
 					"value": "livedeals"
-				},
-				"liveshopping": {
-					"key": "liveshopping",
-					"value": "liveshopping"
 				}
 			},
 			"totalShards": 10000,
@@ -23057,58 +23200,8 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-164880",
-					"startAt": "2026-09-11T20:15:04.217Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"test-device-id",
-										"test-spotlight-device-id"
-									],
-									"operator": "ONE_OF",
-									"attribute": "device_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "spotlight",
-							"shards": [
-								{
-									"salt": "spotlight_leftnav-164880-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 9999
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "livedeals",
-							"shards": [
-								{
-									"salt": "spotlight_leftnav-164880-split",
-									"ranges": [
-										{
-											"start": 9999,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-180300",
-					"startAt": "2026-10-06T13:09:31.139Z",
+					"startAt": "2026-10-06T17:54:31.502Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -23119,7 +23212,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 7500
 										}
 									]
 								},
