@@ -2720,6 +2720,115 @@
 				}
 			]
 		},
+		"auto-raid-rollout": {
+			"key": "auto-raid-rollout",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"Control": {
+					"key": "Control",
+					"value": "Control"
+				},
+				"DarkLaunch": {
+					"key": "DarkLaunch",
+					"value": "DarkLaunch"
+				},
+				"On": {
+					"key": "On",
+					"value": "On"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-180179",
+					"startAt": "2026-10-06T02:34:06.057Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"172341005",
+										"135530901",
+										"698192450",
+										"176749346",
+										"1513956027"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "On",
+							"shards": [
+								{
+									"salt": "auto-raid-rollout-180179-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-180180",
+					"startAt": "2026-10-06T02:34:34.424Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "is_acquired_creator"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "Control",
+							"shards": [
+								{
+									"salt": "auto-raid-rollout-180180-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-180175",
+					"startAt": "2026-10-06T02:30:40.130Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "Control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"autopub-recaps": {
 			"key": "autopub-recaps",
 			"enabled": true,
