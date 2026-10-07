@@ -18403,6 +18403,41 @@
 			"entityId": 144,
 			"allocations": [
 				{
+					"key": "allocation-181001",
+					"startAt": "2026-10-06T23:01:24.374Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1016611616"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "sda_use_gql-181001-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-138187",
 					"startAt": "2026-07-08T19:59:26.082Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
