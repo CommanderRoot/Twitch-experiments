@@ -295,21 +295,12 @@
 				},
 				{
 					"key": "allocation-180950",
-					"startAt": "2026-10-06T21:32:53.057Z",
+					"startAt": "2026-10-07T18:44:32.855Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "CW-Rewards-180950-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
 								{
 									"salt": "CW-Rewards-180950-split",
 									"ranges": [
@@ -325,15 +316,6 @@
 							"variationKey": ".05",
 							"shards": [
 								{
-									"salt": "CW-Rewards-180950-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
-								{
 									"salt": "CW-Rewards-180950-split",
 									"ranges": [
 										{
@@ -348,15 +330,6 @@
 							"variationKey": ".1",
 							"shards": [
 								{
-									"salt": "CW-Rewards-180950-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
-								{
 									"salt": "CW-Rewards-180950-split",
 									"ranges": [
 										{
@@ -370,15 +343,6 @@
 						{
 							"variationKey": "1_10",
 							"shards": [
-								{
-									"salt": "CW-Rewards-180950-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								},
 								{
 									"salt": "CW-Rewards-180950-split",
 									"ranges": [
@@ -2295,7 +2259,7 @@
 				},
 				{
 					"key": "allocation-180284",
-					"startAt": "2026-10-06T12:03:45.519Z",
+					"startAt": "2026-10-07T16:51:31.839Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2327,7 +2291,6 @@
 										"1524626235",
 										"1519210697",
 										"1526042022",
-										"59511939",
 										"1263412413",
 										"1547693336",
 										"1548032312",
@@ -3842,7 +3805,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-06T04:52:18.647Z",
+					"startAt": "2026-10-07T19:10:25.235Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3879,7 +3842,20 @@
 										"1455608728",
 										"484533313",
 										"707373963",
-										"1538921010"
+										"1538921010",
+										"136589087",
+										"235048802",
+										"566361631",
+										"110137646",
+										"268782559",
+										"745803764",
+										"79181647",
+										"1127587993",
+										"185442990",
+										"1092240326",
+										"824956189",
+										"438057148",
+										"760320027"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -17105,6 +17081,42 @@
 			"entityId": 144,
 			"allocations": [
 				{
+					"key": "allocation-177218",
+					"startAt": "2026-10-08T00:00:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "no-events",
+							"shards": [
+								{
+									"salt": "promoted-events-config-177218-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "valorant-stream-a-ween",
+							"shards": [
+								{
+									"salt": "promoted-events-config-177218-split",
+									"ranges": [
+										{
+											"start": 500,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-179771",
 					"startAt": "2026-10-06T13:02:22.547Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -17128,42 +17140,6 @@
 							"shards": [
 								{
 									"salt": "promoted-events-config-179771-split",
-									"ranges": [
-										{
-											"start": 500,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-177218",
-					"startAt": "2026-10-01T07:00:00.000Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "no-events",
-							"shards": [
-								{
-									"salt": "promoted-events-config-177218-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 500
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "valorant-stream-a-ween",
-							"shards": [
-								{
-									"salt": "promoted-events-config-177218-split",
 									"ranges": [
 										{
 											"start": 500,
@@ -25316,28 +25292,6 @@
 							"shards": [
 								{
 									"salt": "wallet-add-payment-method-155255-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-176074",
-					"startAt": "2026-10-01T23:37:30.264Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "wallet-add-payment-method-176074-split",
 									"ranges": [
 										{
 											"start": 0,
