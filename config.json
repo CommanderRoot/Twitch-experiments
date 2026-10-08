@@ -2259,7 +2259,7 @@
 				},
 				{
 					"key": "allocation-180284",
-					"startAt": "2026-10-07T16:51:31.839Z",
+					"startAt": "2026-10-07T22:22:59.701Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2309,7 +2309,8 @@
 										"1548501365",
 										"1547655002",
 										"1548123581",
-										"1548219579"
+										"1548219579",
+										"1551022471"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -14838,6 +14839,74 @@
 				}
 			]
 		},
+		"open-invite": {
+			"key": "open-invite",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-181753",
+					"startAt": "2026-10-07T22:23:25.375Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"172341005",
+										"707373963",
+										"1538921010"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "open-invite-181753-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-181750",
+					"startAt": "2026-10-07T22:09:37.656Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"outstream-ads-manager-trigger": {
 			"key": "outstream-ads-manager-trigger",
 			"enabled": true,
@@ -19632,28 +19701,6 @@
 			"allocations": [
 				{
 					"key": "allocation-179792",
-					"startAt": "2026-10-06T12:00:00.000Z",
-					"endAt": "2026-10-08T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "shopping_topnav-179792-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-179792",
 					"startAt": "2026-10-08T00:00:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
@@ -19743,6 +19790,37 @@
 					"splits": [
 						{
 							"variationKey": "live-shopping-test",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"shouts-clear-inbox-on-open": {
+			"key": "shouts-clear-inbox-on-open",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-181734",
+					"startAt": "2026-10-07T21:51:30.895Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
