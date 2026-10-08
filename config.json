@@ -6849,7 +6849,8 @@
 										"953430106",
 										"794603078",
 										"1514336788",
-										"453366344"
+										"453366344",
+										"1433698144"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -11961,7 +11962,8 @@
 										"953430106",
 										"794603078",
 										"1514336788",
-										"453366344"
+										"453366344",
+										"1433698144"
 									],
 									"operator": "ONE_OF",
 									"attribute": "id"
@@ -17129,36 +17131,28 @@
 					"key": "no-pixel",
 					"value": "[\n  {\n    \"slug\": \"nopixel-v\",\n    \"position\": 0\n  }\n]"
 				},
-				"no-pixel-and-valorant": {
-					"key": "no-pixel-and-valorant",
-					"value": "[\n  {\n    \"slug\": \"nopixel-v\",\n    \"position\": 0\n  },\n    {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 1\n  }\n]\n\n"
-				},
-				"valorant-stream-a-ween": {
-					"key": "valorant-stream-a-ween",
-					"value": "[\n  {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 0\n  },\n    {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 1\n  }\n]\n"
-				},
 				"epl-valorant-stream-a-ween": {
 					"key": "epl-valorant-stream-a-ween",
 					"value": "[\n  {\n    \"slug\": \"epl-katowice-2026\",\n    \"position\": 0\n  },  \n  {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 1\n  },\n  {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 2\n  }\n]"
 				},
-				"shopping-valorant-stream-a-ween": {
-					"key": "shopping-valorant-stream-a-ween",
-					"value": "[\n  {\n    \"slug\": \"shopping-2026\",\n    \"position\": 0\n  },  \n  {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 1\n  },\n  {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 2\n  }\n]"
+				"valorant-epl-stream-a-ween": {
+					"key": "valorant-epl-stream-a-ween",
+					"value": "[\n  {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 0\n  },  \n  {\n    \"slug\": \"epl-katowice-2026\",\n    \"position\": 1\n  },\n  {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 2\n  }\n]"
 				}
 			},
 			"totalShards": 10000,
 			"entityId": 144,
 			"allocations": [
 				{
-					"key": "allocation-177218",
-					"startAt": "2026-10-08T00:00:00.000Z",
+					"key": "allocation-182202",
+					"startAt": "2026-10-09T15:00:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "no-events",
 							"shards": [
 								{
-									"salt": "promoted-events-config-177218-split",
+									"salt": "promoted-events-config-182202-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -17169,10 +17163,10 @@
 							]
 						},
 						{
-							"variationKey": "valorant-stream-a-ween",
+							"variationKey": "epl-valorant-stream-a-ween",
 							"shards": [
 								{
-									"salt": "promoted-events-config-177218-split",
+									"salt": "promoted-events-config-182202-split",
 									"ranges": [
 										{
 											"start": 500,
@@ -17186,15 +17180,15 @@
 					"doLog": true
 				},
 				{
-					"key": "allocation-179771",
-					"startAt": "2026-10-06T13:02:22.547Z",
+					"key": "allocation-177218",
+					"startAt": "2026-10-08T16:58:03.261Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "no-events",
 							"shards": [
 								{
-									"salt": "promoted-events-config-179771-split",
+									"salt": "promoted-events-config-177218-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -17205,10 +17199,10 @@
 							]
 						},
 						{
-							"variationKey": "shopping-valorant-stream-a-ween",
+							"variationKey": "valorant-epl-stream-a-ween",
 							"shards": [
 								{
-									"salt": "promoted-events-config-179771-split",
+									"salt": "promoted-events-config-177218-split",
 									"ranges": [
 										{
 											"start": 500,
