@@ -23421,12 +23421,21 @@
 				},
 				{
 					"key": "allocation-180300",
-					"startAt": "2026-10-06T20:43:18.914Z",
+					"startAt": "2026-10-08T04:05:31.558Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "livedeals",
 							"shards": [
+								{
+									"salt": "spotlight_leftnav-180300-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
 								{
 									"salt": "spotlight_leftnav-180300-split",
 									"ranges": [
