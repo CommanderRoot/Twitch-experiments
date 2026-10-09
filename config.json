@@ -9750,7 +9750,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -13978,12 +13978,21 @@
 			"allocations": [
 				{
 					"key": "allocation-175494",
-					"startAt": "2026-09-25T22:18:55.006Z",
+					"startAt": "2026-10-09T18:31:36.847Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
+								{
+									"salt": "ocp-more-rows-home-175494-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
 								{
 									"salt": "ocp-more-rows-home-175494-split",
 									"ranges": [
@@ -13999,6 +14008,15 @@
 							"variationKey": "arm_1",
 							"shards": [
 								{
+									"salt": "ocp-more-rows-home-175494-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
 									"salt": "ocp-more-rows-home-175494-split",
 									"ranges": [
 										{
@@ -14012,6 +14030,15 @@
 						{
 							"variationKey": "arm_2",
 							"shards": [
+								{
+									"salt": "ocp-more-rows-home-175494-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
 								{
 									"salt": "ocp-more-rows-home-175494-split",
 									"ranges": [
@@ -15797,186 +15824,6 @@
 					"splits": [
 						{
 							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"phone_reuse_check_disabled": {
-			"key": "phone_reuse_check_disabled",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-169489",
-					"startAt": "2026-09-28T19:58:51.394Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"E3EC19267CD44C50AF270E97D00EFB2D",
-										"6aace49b8a3f49e9ad069d9929256480",
-										"3B153D94C32F4A9EB7AB7FD2DF5B5D4E",
-										"4C717824F2A94DB781D01FE4A70BB62B",
-										"BCCD7F52ECC40469DA6EBF573B32A95",
-										"bc27308c3c34a9c92eddef73a3058d20",
-										"95ee910f35c84fa9b8c9a97822ac55a3",
-										"c7f4825b087e45dfac7be74b9b990631",
-										"895a57c8c9484a2f9244b41fad427b4d",
-										"9ab9a8d79a0d438d989d5b8e5c919ab9"
-									],
-									"operator": "ONE_OF",
-									"attribute": "device_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "phone_reuse_check_disabled-169489-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-169557",
-					"startAt": "2026-09-29T16:13:40.544Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"backend_users"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "phone_reuse_check_disabled-169557-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-169556",
-					"startAt": "2026-09-29T17:32:17.547Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"backend_passport"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "phone_reuse_check_disabled-169556-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-169547",
-					"startAt": "2026-09-29T18:31:52.971Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"web"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "phone_reuse_check_disabled-169547-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-164298",
-					"startAt": "2026-08-28T16:28:51.901Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -17781,6 +17628,37 @@
 				{
 					"key": "allocation-39426",
 					"startAt": "2025-07-11T16:06:22.521Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"really-fat-lego-weasel": {
+			"key": "really-fat-lego-weasel",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-182261",
+					"startAt": "2026-10-08T18:11:33.831Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
