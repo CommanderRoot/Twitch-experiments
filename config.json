@@ -8248,7 +8248,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -22847,7 +22847,7 @@
 				},
 				{
 					"key": "allocation-180550",
-					"startAt": "2026-10-06T16:35:40.457Z",
+					"startAt": "2026-10-09T16:13:24.006Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -22876,6 +22876,15 @@
 							"variationKey": "control",
 							"shards": [
 								{
+									"salt": "sponsored_shopping_release-180550-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
 									"salt": "sponsored_shopping_release-180550-split",
 									"ranges": [
 										{
@@ -22889,6 +22898,15 @@
 						{
 							"variationKey": "jlab-10-2026",
 							"shards": [
+								{
+									"salt": "sponsored_shopping_release-180550-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
 								{
 									"salt": "sponsored_shopping_release-180550-split",
 									"ranges": [
