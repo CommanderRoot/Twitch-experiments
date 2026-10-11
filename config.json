@@ -19689,21 +19689,12 @@
 			"allocations": [
 				{
 					"key": "allocation-182998",
-					"startAt": "2026-10-10T01:00:47.379Z",
+					"startAt": "2026-10-11T02:09:58.930Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "shouts-clear-inbox-on-open-182998-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 8500
-										}
-									]
-								},
 								{
 									"salt": "shouts-clear-inbox-on-open-182998-split",
 									"ranges": [
