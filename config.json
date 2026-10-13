@@ -15344,6 +15344,87 @@
 				}
 			]
 		},
+		"parco-signup-web-exp": {
+			"key": "parco-signup-web-exp",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-174262",
+					"startAt": "2026-10-13T09:26:49.462Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"3MdOk60RdWRTTswku7bEbOH3BSIrXL43",
+										"ccade2ea506d4b16b1cf91f10aef9d52"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "parco-signup-web-exp-174262-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 99
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "parco-signup-web-exp-174262-split",
+									"ranges": [
+										{
+											"start": 99,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-174259",
+					"startAt": "2026-09-24T09:17:58.217Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"parco-web": {
 			"key": "parco-web",
 			"enabled": true,
@@ -16986,21 +17067,25 @@
 				"valorant-epl-stream-a-ween": {
 					"key": "valorant-epl-stream-a-ween",
 					"value": "[\n  {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 0\n  },  \n  {\n    \"slug\": \"epl-katowice-2026\",\n    \"position\": 1\n  },\n  {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 2\n  }\n]"
+				},
+				"epl-stream-a-ween-shopping": {
+					"key": "epl-stream-a-ween-shopping",
+					"value": "[\n  {\n    \"slug\": \"epl-katowice-2026\",\n    \"position\": 0\n  },\n  {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 1\n },\n {\n    \"slug\": \"shopping-2026\",\n    \"position\": 12\n }\n]"
 				}
 			},
 			"totalShards": 10000,
 			"entityId": 144,
 			"allocations": [
 				{
-					"key": "allocation-182202",
-					"startAt": "2026-10-09T15:00:00.000Z",
+					"key": "allocation-183982",
+					"startAt": "2026-10-13T15:15:45.913Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "no-events",
 							"shards": [
 								{
-									"salt": "promoted-events-config-182202-split",
+									"salt": "promoted-events-config-183982-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -17011,46 +17096,10 @@
 							]
 						},
 						{
-							"variationKey": "epl-valorant-stream-a-ween",
+							"variationKey": "epl-stream-a-ween-shopping",
 							"shards": [
 								{
-									"salt": "promoted-events-config-182202-split",
-									"ranges": [
-										{
-											"start": 500,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-177218",
-					"startAt": "2026-10-08T16:58:03.261Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "no-events",
-							"shards": [
-								{
-									"salt": "promoted-events-config-177218-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 500
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "valorant-epl-stream-a-ween",
-							"shards": [
-								{
-									"salt": "promoted-events-config-177218-split",
+									"salt": "promoted-events-config-183982-split",
 									"ranges": [
 										{
 											"start": 500,
