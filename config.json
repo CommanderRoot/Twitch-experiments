@@ -7809,6 +7809,37 @@
 				}
 			]
 		},
+		"email_login_enabled": {
+			"key": "email_login_enabled",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-167550",
+					"startAt": "2026-09-08T18:39:42.269Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"enable-apple-pay-web": {
 			"key": "enable-apple-pay-web",
 			"enabled": true,
@@ -11355,7 +11386,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-09-23T16:40:06.362Z",
+					"startAt": "2026-10-13T21:50:31.356Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -13146,6 +13177,72 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"mweb-ios-deferred-deeplink": {
+			"key": "mweb-ios-deferred-deeplink",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-184303",
+					"startAt": "2026-10-13T21:49:08.494Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"8c140e04c26e488e823d52a28061f7f8"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "mweb-ios-deferred-deeplink-184303-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-143157",
+					"startAt": "2026-07-16T23:05:35.601Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -18516,27 +18613,18 @@
 				},
 				{
 					"key": "allocation-139860",
-					"startAt": "2026-08-31T18:23:45.122Z",
+					"startAt": "2026-10-13T22:18:37.752Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "sda_use_gql-139860-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
 									"salt": "sda_use_gql-139860-split",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9998
+											"end": 9000
 										}
 									]
 								}
@@ -18546,20 +18634,11 @@
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "sda_use_gql-139860-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
 									"salt": "sda_use_gql-139860-split",
 									"ranges": [
 										{
-											"start": 9998,
-											"end": 9999
+											"start": 9000,
+											"end": 10000
 										}
 									]
 								}
