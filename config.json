@@ -5698,7 +5698,7 @@
 			"allocations": [
 				{
 					"key": "allocation-108483",
-					"startAt": "2026-04-22T21:57:06.114Z",
+					"startAt": "2026-10-14T20:15:16.526Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5726,7 +5726,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": [
 								{
 									"salt": "connections-via-gql-108483-split",
