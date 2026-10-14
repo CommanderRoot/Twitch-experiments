@@ -3841,7 +3841,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-08T21:14:20.943Z",
+					"startAt": "2026-10-14T18:46:28.803Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3892,7 +3892,32 @@
 										"824956189",
 										"438057148",
 										"760320027",
-										"1374768175"
+										"1374768175",
+										"149027250",
+										"124994203",
+										"139846687",
+										"188188331",
+										"273395168"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"39676449",
+										"534115006",
+										"934118380",
+										"101078712",
+										"125009084",
+										"1032634908",
+										"119342406",
+										"631575597",
+										"98755400",
+										"56926114"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -5265,6 +5290,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"clip-watch-duration-tracking": {
+			"key": "clip-watch-duration-tracking",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-184964",
+					"startAt": "2026-10-14T18:53:19.628Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -7820,11 +7876,11 @@
 			"variations": {
 				"dvddropcampaigns-5ff3d": {
 					"key": "dvddropcampaigns-5ff3d",
-					"value": "  {\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": false,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n      \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n      \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    }\n  }"
+					"value": "  {\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": false,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"\",\n    \"nightsOutCampaigns\": [],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    }\n  }"
 				},
 				"dvddropcampaigns": {
 					"key": "dvddropcampaigns",
-					"value": "  {\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": true,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n      \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n      \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    }\n  }"
+					"value": "  {\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": true,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"\",\n    \"nightsOutCampaigns\": [],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    }\n  }"
 				}
 			},
 			"totalShards": 10000,
@@ -18214,6 +18270,37 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"rhianna-spokane": {
+			"key": "rhianna-spokane",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-184859",
+					"startAt": "2026-10-14T16:41:12.364Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
