@@ -2924,6 +2924,41 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-184419",
+					"startAt": "2026-10-14T03:42:35.139Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "is_alpha"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "Control",
+							"shards": [
+								{
+									"salt": "auto-raid-rollout-184419-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-180180",
 					"startAt": "2026-10-06T02:34:34.424Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -26780,15 +26815,36 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-168067",
-					"startAt": "2026-09-09T16:25:01.925Z",
+					"key": "allocation-184368",
+					"startAt": "2026-10-14T00:28:21.268Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"96406412",
+										"414821568",
+										"953430106",
+										"910483002",
+										"910733463",
+										"445306531",
+										"801184076",
+										"425002214",
+										"125059328"
+									],
+									"operator": "ONE_OF",
+									"attribute": "userID"
+								}
+							]
+						}
+					],
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "opt_in",
 							"shards": [
 								{
-									"salt": "zillion-zipping-zebras-168067-split",
+									"salt": "zillion-zipping-zebras-184368-split",
 									"ranges": [
 										{
 											"start": 0,
