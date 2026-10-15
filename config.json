@@ -3918,7 +3918,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-15T01:23:44.083Z",
+					"startAt": "2026-10-15T22:00:38.445Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3995,7 +3995,8 @@
 										"631575597",
 										"98755400",
 										"56926114",
-										"1546755321"
+										"1546755321",
+										"75591285"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -7997,7 +7998,7 @@
 			"allocations": [
 				{
 					"key": "allocation-185671",
-					"startAt": "2026-10-15T19:33:42.695Z",
+					"startAt": "2026-10-15T21:29:32.700Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8014,7 +8015,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "email_login_enabled-185671-split",
