@@ -15614,6 +15614,148 @@
 				}
 			]
 		},
+		"parco-signup-android-exp": {
+			"key": "parco-signup-android-exp",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				},
+				"control2": {
+					"key": "control2",
+					"value": "control2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-174258",
+					"startAt": "2026-10-14T12:15:59.883Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "parco-signup-android-exp-174258-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control2",
+							"shards": [
+								{
+									"salt": "parco-signup-android-exp-174258-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-174255",
+					"startAt": "2026-09-24T09:15:47.310Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"parco-signup-ios-exp": {
+			"key": "parco-signup-ios-exp",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				},
+				"control2": {
+					"key": "control2",
+					"value": "control2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-184589",
+					"startAt": "2026-10-14T12:14:49.390Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "parco-signup-ios-exp-184589-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control2",
+							"shards": [
+								{
+									"salt": "parco-signup-ios-exp-184589-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-174250",
+					"startAt": "2026-09-24T09:10:01.440Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"parco-signup-web-exp": {
 			"key": "parco-signup-web-exp",
 			"enabled": true,
@@ -17435,21 +17577,12 @@
 			"allocations": [
 				{
 					"key": "allocation-183982",
-					"startAt": "2026-10-13T17:12:57.395Z",
+					"startAt": "2026-10-15T14:08:52.616Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "no-events",
 							"shards": [
-								{
-									"salt": "promoted-events-config-183982-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "promoted-events-config-183982-split",
 									"ranges": [
@@ -17464,15 +17597,6 @@
 						{
 							"variationKey": "epl-stream-a-ween-shopping",
 							"shards": [
-								{
-									"salt": "promoted-events-config-183982-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "promoted-events-config-183982-split",
 									"ranges": [
