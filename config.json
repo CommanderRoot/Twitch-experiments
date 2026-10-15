@@ -684,6 +684,37 @@
 				}
 			]
 		},
+		"Luna-Game-Shelf": {
+			"key": "Luna-Game-Shelf",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-184926",
+					"startAt": "2026-10-14T18:13:31.398Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"Luna-play-button": {
 			"key": "Luna-play-button",
 			"enabled": true,
@@ -7965,6 +7996,41 @@
 			"entityId": 144,
 			"allocations": [
 				{
+					"key": "allocation-185671",
+					"startAt": "2026-10-15T19:33:42.695Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"585372eacf9c2341"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "email_login_enabled-185671-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-167550",
 					"startAt": "2026-09-08T18:39:42.269Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -12499,6 +12565,37 @@
 				{
 					"key": "allocation-43721",
 					"startAt": "2025-08-05T20:09:01.599Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"luna-left-nav": {
+			"key": "luna-left-nav",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-185608",
+					"startAt": "2026-10-15T18:38:57.047Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -19005,7 +19102,7 @@
 				},
 				{
 					"key": "allocation-139860",
-					"startAt": "2026-10-13T22:18:37.752Z",
+					"startAt": "2026-10-15T18:23:50.134Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -19016,7 +19113,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9000
+											"end": 8000
 										}
 									]
 								}
@@ -19029,7 +19126,7 @@
 									"salt": "sda_use_gql-139860-split",
 									"ranges": [
 										{
-											"start": 9000,
+											"start": 8000,
 											"end": 10000
 										}
 									]
