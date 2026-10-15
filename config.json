@@ -11555,7 +11555,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-10-14T16:26:00.389Z",
+					"startAt": "2026-10-15T16:24:20.881Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11579,7 +11579,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 5000
 										}
 									]
 								}
@@ -11592,7 +11592,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -13165,42 +13165,6 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
-				{
-					"key": "allocation-165452",
-					"startAt": "2026-09-01T21:09:00.382Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "monkey-blueberry-soda-165452-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "monkey-blueberry-soda-165452-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
 				{
 					"key": "allocation-158699",
 					"startAt": "2026-08-17T17:46:38.436Z",
@@ -16333,14 +16297,17 @@
 			"allocations": [
 				{
 					"key": "allocation-185183",
-					"startAt": "2026-10-15T03:06:13.567Z",
+					"startAt": "2026-10-15T16:48:50.654Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1312878005"
+										"1312878005",
+										"1547190548",
+										"718729402",
+										"1312881092"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -17809,7 +17776,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "treatment-a",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
