@@ -1257,6 +1257,49 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-185168",
+					"startAt": "2026-10-15T00:33:23.725Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"twilight"
+									],
+									"operator": "ONE_OF",
+									"attribute": "client_app"
+								},
+								{
+									"value": [
+										"US",
+										"us"
+									],
+									"operator": "NOT_ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "TURBO_CROSS_SELL_backend_experiment_flag-185168-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-120336",
 					"startAt": "2026-10-15T00:31:42.774Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -2777,7 +2820,7 @@
 			"allocations": [
 				{
 					"key": "allocation-163909",
-					"startAt": "2026-10-14T22:43:17.103Z",
+					"startAt": "2026-10-15T04:20:23.795Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2789,7 +2832,9 @@
 										"698192450",
 										"176749346",
 										"1513956027",
-										"711643185"
+										"711643185",
+										"142009905",
+										"1558381563"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -3842,7 +3887,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-14T18:46:28.803Z",
+					"startAt": "2026-10-15T01:23:44.083Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3918,7 +3963,8 @@
 										"119342406",
 										"631575597",
 										"98755400",
-										"56926114"
+										"56926114",
+										"1546755321"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -7925,6 +7971,37 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"email_reuse_check_disabled": {
+			"key": "email_reuse_check_disabled",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-185118",
+					"startAt": "2026-10-14T21:58:24.249Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -16084,6 +16161,103 @@
 				{
 					"key": "allocation-68810",
 					"startAt": "2025-11-17T18:13:11.812Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"percolite-luna-channel-shelf": {
+			"key": "percolite-luna-channel-shelf",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-185183",
+					"startAt": "2026-10-15T03:06:13.567Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1312878005"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "percolite-luna-channel-shelf-185183-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-185184",
+					"startAt": "2026-10-15T03:02:26.370Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "percolite-luna-channel-shelf-185184-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "percolite-luna-channel-shelf-185184-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-185179",
+					"startAt": "2026-10-15T02:41:48.093Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
