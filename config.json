@@ -2963,7 +2963,7 @@
 			"allocations": [
 				{
 					"key": "allocation-180179",
-					"startAt": "2026-10-06T02:34:06.057Z",
+					"startAt": "2026-10-16T20:12:09.659Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -2974,7 +2974,8 @@
 										"135530901",
 										"698192450",
 										"176749346",
-										"1513956027"
+										"1513956027",
+										"1513481388"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -3001,8 +3002,51 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-186350",
+					"startAt": "2026-10-16T20:41:14.026Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"172341005",
+										"1528793821",
+										"555021990",
+										"184650462",
+										"44362559",
+										"796183535",
+										"1466826017",
+										"1333270952",
+										"1145472417"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "On",
+							"shards": [
+								{
+									"salt": "auto-raid-rollout-186350-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-184419",
-					"startAt": "2026-10-16T16:24:15.627Z",
+					"startAt": "2026-10-16T19:22:15.549Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3019,7 +3063,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "DarkLaunch",
+							"variationKey": "Control",
 							"shards": [
 								{
 									"salt": "auto-raid-rollout-184419-split",
