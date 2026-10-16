@@ -18270,6 +18270,44 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-185817",
+					"startAt": "2026-10-16T00:03:28.872Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"702554981",
+										"1250569403",
+										"55696719",
+										"176749346"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "really-fat-lego-weasel-185817-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-182261",
 					"startAt": "2026-10-08T18:11:33.831Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
