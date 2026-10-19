@@ -8109,8 +8109,43 @@
 				}
 			},
 			"totalShards": 10000,
-			"entityId": 143,
+			"entityId": 144,
 			"allocations": [
+				{
+					"key": "allocation-186608",
+					"startAt": "2026-10-19T06:55:44.625Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"724916bf01595635888"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "email_reuse_check_disabled-186608-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-185118",
 					"startAt": "2026-10-14T21:58:24.249Z",
@@ -15856,6 +15891,77 @@
 				{
 					"key": "allocation-174250",
 					"startAt": "2026-09-24T09:10:01.440Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"parco-signup-mweb-exp": {
+			"key": "parco-signup-mweb-exp",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				},
+				"control2": {
+					"key": "control2",
+					"value": "control2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-186738",
+					"startAt": "2026-10-19T13:34:21.593Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "parco-signup-mweb-exp-186738-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "control2",
+							"shards": [
+								{
+									"salt": "parco-signup-mweb-exp-186738-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-186735",
+					"startAt": "2026-10-19T13:33:59.770Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
