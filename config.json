@@ -5474,18 +5474,27 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-184085",
-					"startAt": "2026-10-13T17:23:00.982Z",
+					"key": "allocation-186980",
+					"startAt": "2026-10-19T18:46:20.474Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"80140262"
+										"web"
 									],
 									"operator": "ONE_OF",
-									"attribute": "user_id"
+									"attribute": "platform"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": "31.7.0",
+									"operator": "GTE",
+									"attribute": "app_version"
 								}
 							]
 						}
@@ -5495,10 +5504,24 @@
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "commerce-indicators-SECBD-184085-split",
+									"salt": "commerce-indicators-SECBD-186980-split",
 									"ranges": [
 										{
 											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "commerce-indicators-SECBD-186980-split",
+									"ranges": [
+										{
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -5506,7 +5529,7 @@
 							]
 						}
 					],
-					"doLog": false
+					"doLog": true
 				},
 				{
 					"key": "allocation-176772",
@@ -5540,28 +5563,24 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-184083",
-					"startAt": "2026-10-13T17:22:10.192Z",
+					"key": "allocation-186981",
+					"startAt": "2026-10-19T19:26:20.596Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"80140262"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "commerce-indicators-holdout-v2-184083-split",
+									"salt": "commerce-indicators-holdout-v2-186981-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 100
+										}
+									]
+								},
+								{
+									"salt": "commerce-indicators-holdout-v2-186981-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -8492,21 +8511,12 @@
 			"allocations": [
 				{
 					"key": "allocation-172342",
-					"startAt": "2026-09-18T20:35:19.568Z",
+					"startAt": "2026-10-19T17:00:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "ext-bits-refills-172342-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "ext-bits-refills-172342-split",
 									"ranges": [
@@ -8521,15 +8531,6 @@
 						{
 							"variationKey": "treatment",
 							"shards": [
-								{
-									"salt": "ext-bits-refills-172342-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
 								{
 									"salt": "ext-bits-refills-172342-split",
 									"ranges": [
@@ -9520,48 +9521,23 @@
 				},
 				{
 					"key": "allocation-142478",
-					"startAt": "2026-08-19T22:10:31.474Z",
+					"startAt": "2026-10-19T16:44:02.113Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"worldoftanks",
-										"wargaming",
-										"wotheat"
+										"fc26"
 									],
 									"operator": "ONE_OF",
 									"attribute": "game_title"
 								},
 								{
 									"value": [
-										"103811294",
-										"1364518509",
-										"1520885501",
-										"16175263",
-										"412613184",
-										"51832746",
-										"58193296",
-										"1520310489",
-										"267887821",
-										"92803194",
-										"109058996",
-										"1457854892",
-										"1482006360",
-										"160231719",
-										"1457929979",
-										"1371540404",
-										"1463682318",
-										"231466740",
-										"137228545",
 										"1483073600",
-										"1483075903",
-										"163607265",
-										"573205812",
-										"182868405",
-										"415883462",
-										"1530933516"
+										"1485967550",
+										"1485348863"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -11706,7 +11682,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-10-15T16:24:20.881Z",
+					"startAt": "2026-10-19T15:47:44.986Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11730,7 +11706,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 0
 										}
 									]
 								}
@@ -11743,7 +11719,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -11867,7 +11843,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-10-17T06:07:35.844Z",
+					"startAt": "2026-10-19T15:48:17.959Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -11878,7 +11854,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 9999
 										}
 									]
 								}
@@ -11891,7 +11867,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 9999,
 											"end": 10000
 										}
 									]
