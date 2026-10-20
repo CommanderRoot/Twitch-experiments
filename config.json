@@ -8142,7 +8142,7 @@
 			"allocations": [
 				{
 					"key": "allocation-186608",
-					"startAt": "2026-10-19T06:55:44.625Z",
+					"startAt": "2026-10-20T04:55:44.800Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8153,6 +8153,17 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"1526362147"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
 								}
 							]
 						}
