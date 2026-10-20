@@ -18615,6 +18615,39 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-189340",
+					"startAt": "2026-10-20T16:17:29.650Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "31.7.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "recycled-auto-plum-starfruit-189340-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-164754",
 					"startAt": "2026-08-31T16:57:18.809Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -18646,6 +18679,72 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-189393",
+					"startAt": "2026-10-20T16:36:38.678Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "00$",
+									"operator": "MATCHES",
+									"attribute": "user_id"
+								},
+								{
+									"value": "31.7.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": "00$",
+									"operator": "MATCHES",
+									"attribute": "user_id"
+								},
+								{
+									"value": [
+										"web"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"true",
+										"TRUE"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "recycled-cherry-papaya-189393-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-164785",
 					"startAt": "2026-08-31T17:30:10.533Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -18676,6 +18775,28 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-189331",
+					"startAt": "2026-10-20T16:11:53.187Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "recycled-craps-0-189331-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-164744",
 					"startAt": "2026-08-31T16:52:57.038Z",
@@ -18774,6 +18895,39 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-189342",
+					"startAt": "2026-10-20T16:18:49.573Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "31.7.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "recycled-custard-violent-pear-189342-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-164751",
 					"startAt": "2026-08-31T16:56:05.591Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -18804,6 +18958,39 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-189339",
+					"startAt": "2026-10-20T16:16:08.323Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": "31.7.0",
+									"operator": "GTE",
+									"attribute": "app_version"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "recycled-starfruit-to-raspberry-189339-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-164758",
 					"startAt": "2026-08-31T17:00:26.897Z",
