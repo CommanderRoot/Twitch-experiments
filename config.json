@@ -3976,7 +3976,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-19T22:27:18.394Z",
+					"startAt": "2026-10-20T18:09:38.870Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4055,7 +4055,9 @@
 										"56926114",
 										"1546755321",
 										"75591285",
-										"183534164"
+										"183534164",
+										"1539109029",
+										"1555182028"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -5574,7 +5576,7 @@
 			"allocations": [
 				{
 					"key": "allocation-186981",
-					"startAt": "2026-10-19T22:22:37.764Z",
+					"startAt": "2026-10-20T19:08:58.549Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -5585,7 +5587,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 100
+											"end": 2000
 										}
 									]
 								},
@@ -8142,14 +8144,18 @@
 			"allocations": [
 				{
 					"key": "allocation-186608",
-					"startAt": "2026-10-20T04:55:44.800Z",
+					"startAt": "2026-10-20T20:02:57.253Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"724916bf01595635888"
+										"724916bf01595635888",
+										"6aace49b8a3f49e9ad069d9929256480",
+										"585372eacf9c2341",
+										"5alluyJWaQ62rOLOM80rNBOGBNbxYfGi",
+										"7858733C1D714505AA56D3FE167A5B97"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
@@ -8160,7 +8166,9 @@
 							"conditions": [
 								{
 									"value": [
-										"1526362147"
+										"1526362147",
+										"1501680947",
+										"1538547533"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -9542,7 +9550,7 @@
 				},
 				{
 					"key": "allocation-142478",
-					"startAt": "2026-10-19T20:33:57.899Z",
+					"startAt": "2026-10-20T17:03:48.967Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9561,7 +9569,9 @@
 										"1485348863",
 										"103522124",
 										"1565661893",
-										"103811294"
+										"103811294",
+										"267887821",
+										"1565658464"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -16435,6 +16445,37 @@
 				}
 			]
 		},
+		"payout_plus_grant_onboarding_prompt": {
+			"key": "payout_plus_grant_onboarding_prompt",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-186465",
+					"startAt": "2026-10-17T00:21:20.962Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"pelly-gate": {
 			"key": "pelly-gate",
 			"enabled": true,
@@ -18680,16 +18721,11 @@
 			"allocations": [
 				{
 					"key": "allocation-189393",
-					"startAt": "2026-10-20T16:36:38.678Z",
+					"startAt": "2026-10-20T19:03:27.994Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
-								{
-									"value": "00$",
-									"operator": "MATCHES",
-									"attribute": "user_id"
-								},
 								{
 									"value": "31.7.0",
 									"operator": "GTE",
@@ -18700,28 +18736,11 @@
 						{
 							"conditions": [
 								{
-									"value": "00$",
-									"operator": "MATCHES",
-									"attribute": "user_id"
-								},
-								{
 									"value": [
 										"web"
 									],
 									"operator": "ONE_OF",
 									"attribute": "platform"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": [
-										"true",
-										"TRUE"
-									],
-									"operator": "ONE_OF",
-									"attribute": "staff"
 								}
 							]
 						}
