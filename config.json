@@ -11826,7 +11826,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-10-19T15:47:44.986Z",
+					"startAt": "2026-10-20T16:04:52.250Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11850,7 +11850,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								}
@@ -11863,7 +11863,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 500,
 											"end": 10000
 										}
 									]
@@ -11987,7 +11987,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-10-19T15:48:17.959Z",
+					"startAt": "2026-10-20T16:05:09.102Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -11998,7 +11998,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9999
+											"end": 9500
 										}
 									]
 								}
@@ -12011,7 +12011,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 9999,
+											"start": 9500,
 											"end": 10000
 										}
 									]
@@ -18620,7 +18620,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -18748,7 +18748,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -18779,7 +18779,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -18810,7 +18810,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
