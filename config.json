@@ -4649,6 +4649,42 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-189708",
+					"startAt": "2026-10-20T20:10:23.161Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"513668668",
+										"1265528788"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "max_trials_5",
+							"shards": [
+								{
+									"salt": "channel_sub_free_trial-189708-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-171435",
 					"startAt": "2026-09-16T22:39:14.982Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -5576,7 +5612,7 @@
 			"allocations": [
 				{
 					"key": "allocation-186981",
-					"startAt": "2026-10-20T19:08:58.549Z",
+					"startAt": "2026-10-20T20:26:26.147Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -5587,7 +5623,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2000
+											"end": 1000
 										}
 									]
 								},
@@ -8144,7 +8180,7 @@
 			"allocations": [
 				{
 					"key": "allocation-186608",
-					"startAt": "2026-10-20T20:02:57.253Z",
+					"startAt": "2026-10-20T21:25:13.208Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8155,7 +8191,9 @@
 										"6aace49b8a3f49e9ad069d9929256480",
 										"585372eacf9c2341",
 										"5alluyJWaQ62rOLOM80rNBOGBNbxYfGi",
-										"7858733C1D714505AA56D3FE167A5B97"
+										"7858733C1D714505AA56D3FE167A5B97",
+										"E35BDAD7FADC462E8C23EB960EFCE8F8",
+										"E35BDAD7FADC462E8C23EB960E-FCE8F8"
 									],
 									"operator": "ONE_OF",
 									"attribute": "device_id"
@@ -18630,7 +18668,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -26118,6 +26156,42 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-189707",
+					"startAt": "2026-10-20T20:08:00.328Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"513668668",
+										"1265528788"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "twilight_sub_free_trial-189707-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-162698",
 					"startAt": "2026-08-25T20:12:37.021Z",
