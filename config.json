@@ -3976,7 +3976,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-20T18:09:38.870Z",
+					"startAt": "2026-10-21T20:25:57.056Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4057,7 +4057,8 @@
 										"75591285",
 										"183534164",
 										"1539109029",
-										"1555182028"
+										"1555182028",
+										"699566459"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -5710,7 +5711,7 @@
 			"allocations": [
 				{
 					"key": "allocation-186981",
-					"startAt": "2026-10-20T20:26:26.147Z",
+					"startAt": "2026-10-21T18:14:08.698Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -5721,7 +5722,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1000
+											"end": 0
 										}
 									]
 								},
@@ -19882,6 +19883,28 @@
 							"shards": [
 								{
 									"salt": "sda_use_multiformat-160920-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-190387",
+					"startAt": "2026-10-21T18:27:47.847Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sda_use_multiformat-190387-split",
 									"ranges": [
 										{
 											"start": 0,
