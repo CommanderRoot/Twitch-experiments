@@ -11972,7 +11972,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-10-20T16:04:52.250Z",
+					"startAt": "2026-10-21T16:43:21.266Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11996,7 +11996,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 500
+											"end": 5000
 										}
 									]
 								}
@@ -12009,7 +12009,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -12133,7 +12133,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-10-20T16:05:09.102Z",
+					"startAt": "2026-10-21T16:43:30.498Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12144,7 +12144,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 5000
 										}
 									]
 								}
@@ -12157,7 +12157,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -16952,7 +16952,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -25078,6 +25078,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"streamevents-timezone-fix": {
+			"key": "streamevents-timezone-fix",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-190105",
+					"startAt": "2026-10-21T14:11:13.574Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
