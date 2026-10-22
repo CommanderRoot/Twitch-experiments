@@ -702,6 +702,45 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-191620",
+					"startAt": "2026-10-22T22:42:46.973Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1312878005",
+										"1547190548",
+										"718729402",
+										"1052152000",
+										"267893713"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Luna-Game-Shelf-191620-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-184926",
 					"startAt": "2026-10-14T18:13:31.398Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -732,6 +771,45 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-191619",
+					"startAt": "2026-10-22T22:42:38.221Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1312878005",
+										"718729402",
+										"1547190548",
+										"1052152000",
+										"267893713"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Luna-play-button-191619-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-166360",
 					"startAt": "2026-09-03T20:34:53.408Z",
@@ -11542,7 +11620,7 @@
 			"allocations": [
 				{
 					"key": "allocation-139964",
-					"startAt": "2026-08-27T22:50:58.258Z",
+					"startAt": "2026-10-22T22:11:25.379Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11554,7 +11632,8 @@
 								},
 								{
 									"value": [
-										"ios"
+										"ios",
+										"ultralight"
 									],
 									"operator": "ONE_OF",
 									"attribute": "client_app"
@@ -11577,7 +11656,8 @@
 								},
 								{
 									"value": [
-										"ios"
+										"ios",
+										"ultralight"
 									],
 									"operator": "ONE_OF",
 									"attribute": "client_app"
@@ -12788,6 +12868,45 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-191621",
+					"startAt": "2026-10-22T22:42:55.512Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1312878005",
+										"1547190548",
+										"718729402",
+										"1052152000",
+										"267893713"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "luna-left-nav-191621-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-185608",
 					"startAt": "2026-10-15T18:38:57.047Z",
@@ -16696,7 +16815,7 @@
 			"allocations": [
 				{
 					"key": "allocation-185183",
-					"startAt": "2026-10-15T16:48:50.654Z",
+					"startAt": "2026-10-22T22:43:05.179Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -16706,7 +16825,8 @@
 										"1312878005",
 										"1547190548",
 										"718729402",
-										"1312881092"
+										"1052152000",
+										"267893713"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
