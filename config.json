@@ -8028,6 +8028,33 @@
 				}
 			]
 		},
+		"drops-brand-channel-exclusion": {
+			"key": "drops-brand-channel-exclusion",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{ \"channels\": [\"185710460\", \"207813352\", \"684811030\", \"803160003\", \"880087260\", \"732405841\"] }"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-190727",
+					"startAt": "2026-10-21T23:52:20.482Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"drops_improvements": {
 			"key": "drops_improvements",
 			"enabled": true,
