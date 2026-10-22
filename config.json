@@ -3006,50 +3006,6 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-186350",
-					"startAt": "2026-10-19T03:23:57.085Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"172341005",
-										"1528793821",
-										"555021990",
-										"184650462",
-										"44362559",
-										"796183535",
-										"1466826017",
-										"1333270952",
-										"1145472417",
-										"142009905"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "On",
-							"shards": [
-								{
-									"salt": "auto-raid-rollout-186350-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-184419",
 					"startAt": "2026-10-16T19:22:15.549Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -14134,6 +14090,10 @@
 				"newnametestschedule": {
 					"key": "newnametestschedule",
 					"value": "{\n  \"schedule\": [\n    [\n      \"124721630\",\n      1767225600,\n      1798761600\n    ]\n  ]\n}"
+				},
+				"prodschedule1": {
+					"key": "prodschedule1",
+					"value": "{\n    \"schedule\": [\n        [\"211234859\", 1792789200, 1792814400], \n        [\"139251406\", 1792789200, 1792814400]\n    ]\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -14145,7 +14105,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "newnametestschedule",
+							"variationKey": "prodschedule1",
 							"shards": []
 						}
 					],
@@ -17883,6 +17843,91 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"prime-crown-icon": {
+			"key": "prime-crown-icon",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"controller": {
+					"key": "controller",
+					"value": "controller"
+				},
+				"luna": {
+					"key": "luna",
+					"value": "luna"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-191406",
+					"startAt": "2026-10-22T18:20:32.705Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "prime-crown-icon-191406-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "controller",
+							"shards": [
+								{
+									"salt": "prime-crown-icon-191406-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "luna",
+							"shards": [
+								{
+									"salt": "prime-crown-icon-191406-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-178140",
+					"startAt": "2026-10-01T17:37:28.169Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -22040,6 +22085,72 @@
 				}
 			]
 		},
+		"social_gift_subs": {
+			"key": "social_gift_subs",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-183050",
+					"startAt": "2026-10-10T01:21:17.037Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "social_gift_subs-183050-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-183047",
+					"startAt": "2026-10-10T01:17:44.863Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"spender_rewards_campaigns": {
 			"key": "spender_rewards_campaigns",
 			"enabled": true,
@@ -25080,7 +25191,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -25326,6 +25437,37 @@
 				{
 					"key": "allocation-177465",
 					"startAt": "2026-09-30T19:34:00.054Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"sugar-coated-onion": {
+			"key": "sugar-coated-onion",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-191455",
+					"startAt": "2026-10-22T19:32:17.435Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
