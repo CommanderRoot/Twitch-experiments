@@ -4010,7 +4010,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-22T16:25:23.218Z",
+					"startAt": "2026-10-23T19:36:50.747Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4106,7 +4106,8 @@
 							"conditions": [
 								{
 									"value": [
-										"1498731773"
+										"1498731773",
+										"1565603852"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -9760,6 +9761,48 @@
 							"shards": [
 								{
 									"salt": "gamelift_page_release-94142-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-192015",
+					"startAt": "2026-10-23T19:05:09.438Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"wendyquest"
+									],
+									"operator": "ONE_OF",
+									"attribute": "game_title"
+								},
+								{
+									"value": [
+										"1568877287"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gamelift_page_release-192015-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -21219,7 +21262,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -25994,42 +26037,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-163790",
-					"startAt": "2026-09-24T22:23:28.432Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "tax-br-required-163790-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 8000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "tax-br-required-163790-split",
-									"ranges": [
-										{
-											"start": 8000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-158254",
 					"startAt": "2026-08-14T20:32:31.962Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -26449,6 +26456,91 @@
 				{
 					"key": "allocation-119909",
 					"startAt": "2026-05-21T01:02:29.615Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"twilight_outstream_trigger": {
+			"key": "twilight_outstream_trigger",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-192100",
+					"startAt": "2026-10-23T19:42:29.719Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "twilight_outstream_trigger-192100-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "twilight_outstream_trigger-192100-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "twilight_outstream_trigger-192100-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "twilight_outstream_trigger-192100-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-192097",
+					"startAt": "2026-10-23T19:06:31.313Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
