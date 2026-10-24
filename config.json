@@ -14053,6 +14053,37 @@
 				}
 			]
 		},
+		"mweb-upsell-defer-first-page": {
+			"key": "mweb-upsell-defer-first-page",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-189002",
+					"startAt": "2026-10-19T22:31:14.617Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"nav-focus-report": {
 			"key": "nav-focus-report",
 			"enabled": true,
