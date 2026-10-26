@@ -703,7 +703,7 @@
 			"allocations": [
 				{
 					"key": "allocation-191620",
-					"startAt": "2026-10-22T22:42:46.973Z",
+					"startAt": "2026-10-26T20:52:19.595Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -714,7 +714,8 @@
 										"1547190548",
 										"718729402",
 										"1052152000",
-										"267893713"
+										"267893713",
+										"1392173794"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -773,7 +774,7 @@
 			"allocations": [
 				{
 					"key": "allocation-191619",
-					"startAt": "2026-10-22T22:42:38.221Z",
+					"startAt": "2026-10-26T20:52:12.828Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -784,7 +785,8 @@
 										"718729402",
 										"1547190548",
 										"1052152000",
-										"267893713"
+										"267893713",
+										"1392173794"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -3740,6 +3742,42 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-193133",
+					"startAt": "2026-10-26T21:36:31.892Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "br-address-compliance-193133-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "br-address-compliance-193133-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-171087",
 					"startAt": "2026-09-16T16:54:37.135Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -4010,7 +4048,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-26T16:38:21.478Z",
+					"startAt": "2026-10-26T21:09:36.851Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4110,7 +4148,8 @@
 										"1565603852",
 										"1516664922",
 										"1548964405",
-										"1591486657"
+										"1591486657",
+										"1592057005"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -8147,11 +8186,11 @@
 			"variations": {
 				"dvddropcampaigns-5ff3d": {
 					"key": "dvddropcampaigns-5ff3d",
-					"value": "{\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": false,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n      \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n      \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    }\n  }"
+					"value": "  {\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": false,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n      \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n      \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionTracks\": [\"pokemon#aebee668-75ca-4626-99f5-168d369d217b\"],\n    \"gta6\": {},\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    }\n  }"
 				},
 				"dvddropcampaigns": {
 					"key": "dvddropcampaigns",
-					"value": "{\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": true,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n      \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n      \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    }\n  }"
+					"value": "  {\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": true,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n      \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n      \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionTracks\": [\"pokemon#aebee668-75ca-4626-99f5-168d369d217b\"],\n    \"gta6\": {},\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    }\n  }"
 				}
 			},
 			"totalShards": 10000,
@@ -9946,6 +9985,42 @@
 							"shards": [
 								{
 									"salt": "gift_live_followers_100-190608-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-193065",
+					"startAt": "2026-10-26T21:23:14.639Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"49424513",
+										"449842776"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "glf100_nudges",
+							"shards": [
+								{
+									"salt": "gift_live_followers_100-193065-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -12949,7 +13024,7 @@
 			"allocations": [
 				{
 					"key": "allocation-191621",
-					"startAt": "2026-10-22T22:42:55.512Z",
+					"startAt": "2026-10-26T20:52:28.631Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12960,7 +13035,8 @@
 										"1547190548",
 										"718729402",
 										"1052152000",
-										"267893713"
+										"267893713",
+										"1392173794"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -16926,7 +17002,7 @@
 			"allocations": [
 				{
 					"key": "allocation-185183",
-					"startAt": "2026-10-22T22:43:05.179Z",
+					"startAt": "2026-10-26T20:52:37.840Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -16937,7 +17013,8 @@
 										"1547190548",
 										"718729402",
 										"1052152000",
-										"267893713"
+										"267893713",
+										"1392173794"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
