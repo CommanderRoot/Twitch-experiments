@@ -16197,7 +16197,7 @@
 			"allocations": [
 				{
 					"key": "allocation-184589",
-					"startAt": "2026-10-14T12:14:49.390Z",
+					"startAt": "2026-10-26T09:10:53.707Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -16215,7 +16215,7 @@
 							]
 						},
 						{
-							"variationKey": "control2",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "parco-signup-ios-exp-184589-split",
@@ -16268,7 +16268,7 @@
 			"allocations": [
 				{
 					"key": "allocation-186738",
-					"startAt": "2026-10-19T13:34:21.593Z",
+					"startAt": "2026-10-26T09:11:13.059Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -16286,7 +16286,7 @@
 							]
 						},
 						{
-							"variationKey": "control2",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "parco-signup-mweb-exp-186738-split",
@@ -16339,7 +16339,7 @@
 			"allocations": [
 				{
 					"key": "allocation-174262",
-					"startAt": "2026-10-14T11:52:19.308Z",
+					"startAt": "2026-10-26T09:10:42.336Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -16357,7 +16357,7 @@
 							]
 						},
 						{
-							"variationKey": "control2",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "parco-signup-web-exp-174262-split",
