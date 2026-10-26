@@ -4010,7 +4010,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-23T20:13:39.327Z",
+					"startAt": "2026-10-26T16:38:21.478Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4108,7 +4108,9 @@
 									"value": [
 										"1498731773",
 										"1565603852",
-										"1516664922"
+										"1516664922",
+										"1548964405",
+										"1591486657"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -4358,7 +4360,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -11973,7 +11975,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-10-21T16:43:21.266Z",
+					"startAt": "2026-10-26T15:59:02.027Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11997,7 +11999,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 9999
 										}
 									]
 								}
@@ -12010,7 +12012,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 9999,
 											"end": 10000
 										}
 									]
@@ -12134,7 +12136,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-10-21T16:43:30.498Z",
+					"startAt": "2026-10-26T15:59:27.803Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -12145,7 +12147,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 0
 										}
 									]
 								}
@@ -12158,7 +12160,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -16126,7 +16128,7 @@
 			"allocations": [
 				{
 					"key": "allocation-174258",
-					"startAt": "2026-10-14T12:15:59.883Z",
+					"startAt": "2026-10-26T16:26:08.165Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -16144,7 +16146,7 @@
 							]
 						},
 						{
-							"variationKey": "control2",
+							"variationKey": "treatment",
 							"shards": [
 								{
 									"salt": "parco-signup-android-exp-174258-split",
@@ -16680,7 +16682,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -22414,7 +22416,7 @@
 				}
 			},
 			"totalShards": 10000,
-			"entityId": 145,
+			"entityId": 143,
 			"allocations": [
 				{
 					"key": "allocation-183050",
@@ -25103,6 +25105,41 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-192766",
+					"startAt": "2026-10-26T16:29:51.127Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"119316908"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "sponsorships_demand_channel_find_creators-192766-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-190536",
 					"startAt": "2026-10-21T20:12:54.564Z",
