@@ -9766,7 +9766,7 @@
 			"allocations": [
 				{
 					"key": "allocation-132800",
-					"startAt": "2026-10-22T16:48:20.341Z",
+					"startAt": "2026-10-27T23:32:36.859Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9781,7 +9781,12 @@
 										"714650202",
 										"103522124",
 										"412379486",
-										"103811294"
+										"103811294",
+										"1485348863",
+										"92803194",
+										"1565661893",
+										"267887821",
+										"1485967550"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -10292,14 +10297,14 @@
 			"allocations": [
 				{
 					"key": "allocation-190608",
-					"startAt": "2026-10-21T21:11:34.004Z",
+					"startAt": "2026-10-28T01:34:45.563Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"106953899"
+										"449842776"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -10327,7 +10332,7 @@
 				},
 				{
 					"key": "allocation-193065",
-					"startAt": "2026-10-26T21:23:14.639Z",
+					"startAt": "2026-10-28T01:35:06.711Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10335,7 +10340,7 @@
 								{
 									"value": [
 										"49424513",
-										"449842776"
+										"106953899"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -17521,37 +17526,6 @@
 				}
 			]
 		},
-		"pine-shadow-atlas-c-callout": {
-			"key": "pine-shadow-atlas-c-callout",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-115106",
-					"startAt": "2026-05-05T21:34:36.966Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"pine-shadow-atlas-cliff": {
 			"key": "pine-shadow-atlas-cliff",
 			"enabled": true,
@@ -21927,6 +21901,37 @@
 				{
 					"key": "allocation-181734",
 					"startAt": "2026-10-07T21:51:30.895Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"shouts-emote-picker": {
+			"key": "shouts-emote-picker",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-193936",
+					"startAt": "2026-10-27T23:03:43.129Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
