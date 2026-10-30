@@ -4052,42 +4052,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-193133",
-					"startAt": "2026-10-26T21:36:31.892Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "br-address-compliance-193133-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "br-address-compliance-193133-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-171087",
 					"startAt": "2026-09-16T16:54:37.135Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -4358,7 +4322,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-29T21:42:23.991Z",
+					"startAt": "2026-10-30T17:56:50.427Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4470,7 +4434,11 @@
 										"669293849",
 										"499684802",
 										"637839766",
-										"1597935146"
+										"1597935146",
+										"167495178",
+										"412671040",
+										"47909109",
+										"43029902"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -9980,7 +9948,7 @@
 				},
 				{
 					"key": "allocation-142478",
-					"startAt": "2026-10-22T23:33:32.897Z",
+					"startAt": "2026-10-30T18:24:49.043Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10005,7 +9973,11 @@
 										"160231719",
 										"182868405",
 										"1568877287",
-										"522104138"
+										"522104138",
+										"1463682318",
+										"1371540404",
+										"137228545",
+										"559104037"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -10331,7 +10303,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -10469,6 +10441,83 @@
 						}
 					],
 					"doLog": false
+				},
+				{
+					"key": "allocation-196071",
+					"startAt": "2026-10-30T21:21:45.916Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "gift_live_followers_100-196071-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								},
+								{
+									"salt": "gift_live_followers_100-196071-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "glf100",
+							"shards": [
+								{
+									"salt": "gift_live_followers_100-196071-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								},
+								{
+									"salt": "gift_live_followers_100-196071-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "glf100_nudges",
+							"shards": [
+								{
+									"salt": "gift_live_followers_100-196071-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								},
+								{
+									"salt": "gift_live_followers_100-196071-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
 				},
 				{
 					"key": "allocation-190477",
@@ -19559,6 +19608,230 @@
 				}
 			]
 		},
+		"recycled-citrus-anon-exp": {
+			"key": "recycled-citrus-anon-exp",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment-1": {
+					"key": "treatment-1",
+					"value": "treatment-1"
+				},
+				"treatment-2": {
+					"key": "treatment-2",
+					"value": "treatment-2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-196069",
+					"startAt": "2026-10-30T20:33:16.278Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "recycled-citrus-anon-exp-196069-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "recycled-citrus-anon-exp-196069-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment-1",
+							"shards": [
+								{
+									"salt": "recycled-citrus-anon-exp-196069-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "recycled-citrus-anon-exp-196069-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment-2",
+							"shards": [
+								{
+									"salt": "recycled-citrus-anon-exp-196069-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "recycled-citrus-anon-exp-196069-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-196066",
+					"startAt": "2026-10-30T20:32:59.174Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"recycled-citrus-exp": {
+			"key": "recycled-citrus-exp",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment-1": {
+					"key": "treatment-1",
+					"value": "treatment-1"
+				},
+				"treatment-2": {
+					"key": "treatment-2",
+					"value": "treatment-2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-196063",
+					"startAt": "2026-10-30T20:26:30.976Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "recycled-citrus-exp-196063-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "recycled-citrus-exp-196063-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment-1",
+							"shards": [
+								{
+									"salt": "recycled-citrus-exp-196063-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "recycled-citrus-exp-196063-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment-2",
+							"shards": [
+								{
+									"salt": "recycled-citrus-exp-196063-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "recycled-citrus-exp-196063-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-196060",
+					"startAt": "2026-10-30T20:24:39.443Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"recycled-citrus-shelf": {
 			"key": "recycled-citrus-shelf",
 			"enabled": true,
@@ -28572,6 +28845,91 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"web-clips-feed": {
+			"key": "web-clips-feed",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-195950",
+					"startAt": "2026-10-30T18:25:13.869Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "web-clips-feed-195950-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "web-clips-feed-195950-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "web-clips-feed-195950-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "web-clips-feed-195950-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-195947",
+					"startAt": "2026-10-30T18:11:36.242Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
