@@ -800,6 +800,37 @@
 				}
 			]
 		},
+		"Emote-Leveling-Channel-Banner": {
+			"key": "Emote-Leveling-Channel-Banner",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-195783",
+					"startAt": "2026-10-30T14:35:29.634Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"Emote-Leveling-Opt-Out-Campaign-ID": {
 			"key": "Emote-Leveling-Opt-Out-Campaign-ID",
 			"enabled": true,
