@@ -6017,12 +6017,21 @@
 			"allocations": [
 				{
 					"key": "allocation-186981",
-					"startAt": "2026-10-29T20:08:05.643Z",
+					"startAt": "2026-10-30T00:34:26.504Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
+								{
+									"salt": "commerce-indicators-holdout-v2-186981-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 1500
+										}
+									]
+								},
 								{
 									"salt": "commerce-indicators-holdout-v2-186981-split",
 									"ranges": [
@@ -19508,6 +19517,37 @@
 				{
 					"key": "allocation-164785",
 					"startAt": "2026-08-31T17:30:10.533Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"recycled-citrus-shelf": {
+			"key": "recycled-citrus-shelf",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-164795",
+					"startAt": "2026-08-31T17:52:44.326Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
