@@ -2841,6 +2841,28 @@
 			"entityId": 144,
 			"allocations": [
 				{
+					"key": "allocation-196103",
+					"startAt": "2026-10-30T22:40:42.834Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "amazon-live-star-ratings-196103-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-190735",
 					"startAt": "2026-10-22T00:15:37.363Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -6016,7 +6038,7 @@
 			"allocations": [
 				{
 					"key": "allocation-186981",
-					"startAt": "2026-10-30T00:34:26.504Z",
+					"startAt": "2026-10-31T00:30:36.834Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -6027,7 +6049,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1500
+											"end": 3500
 										}
 									]
 								},
@@ -10444,21 +10466,12 @@
 				},
 				{
 					"key": "allocation-196071",
-					"startAt": "2026-10-30T21:21:45.916Z",
+					"startAt": "2026-10-30T22:54:22.823Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
-								{
-									"salt": "gift_live_followers_100-196071-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "gift_live_followers_100-196071-split",
 									"ranges": [
@@ -10474,15 +10487,6 @@
 							"variationKey": "glf100",
 							"shards": [
 								{
-									"salt": "gift_live_followers_100-196071-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
 									"salt": "gift_live_followers_100-196071-split",
 									"ranges": [
 										{
@@ -10496,15 +10500,6 @@
 						{
 							"variationKey": "glf100_nudges",
 							"shards": [
-								{
-									"salt": "gift_live_followers_100-196071-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
 								{
 									"salt": "gift_live_followers_100-196071-split",
 									"ranges": [
@@ -14876,6 +14871,10 @@
 				"prodschedule1": {
 					"key": "prodschedule1",
 					"value": "{\n    \"schedule\": [\n        [\"211234859\", 1792789200, 1792814400], \n        [\"139251406\", 1792789200, 1792814400]\n    ]\n}"
+				},
+				"prodschedule2": {
+					"key": "prodschedule2",
+					"value": "{\"schedule\": [[\"54051059\", 1793395800, 1793421000], [\"195942193\", 1793395800, 1793421000]]}"
 				}
 			},
 			"totalShards": 10000,
@@ -14887,7 +14886,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "prodschedule1",
+							"variationKey": "prodschedule2",
 							"shards": []
 						}
 					],
@@ -17559,6 +17558,106 @@
 				{
 					"key": "allocation-185179",
 					"startAt": "2026-10-15T02:41:48.093Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"percolite-luna-remote-play-channel-shelf": {
+			"key": "percolite-luna-remote-play-channel-shelf",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-196098",
+					"startAt": "2026-10-30T23:14:32.180Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1308285572",
+										"1312878005",
+										"731749662",
+										"119316908"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "percolite-luna-remote-play-channel-shelf-196098-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-196099",
+					"startAt": "2026-10-30T22:01:29.488Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "percolite-luna-remote-play-channel-shelf-196099-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "percolite-luna-remote-play-channel-shelf-196099-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-196091",
+					"startAt": "2026-10-30T21:33:24.258Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -28018,6 +28117,37 @@
 					"splits": [
 						{
 							"variationKey": "spm_left_card_opened",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"ultralight-activity-shouts": {
+			"key": "ultralight-activity-shouts",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-196104",
+					"startAt": "2026-10-30T22:29:56.785Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
