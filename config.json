@@ -6038,21 +6038,12 @@
 			"allocations": [
 				{
 					"key": "allocation-186981",
-					"startAt": "2026-10-31T00:30:36.834Z",
+					"startAt": "2026-10-31T04:06:59.360Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
-								{
-									"salt": "commerce-indicators-holdout-v2-186981-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3500
-										}
-									]
-								},
 								{
 									"salt": "commerce-indicators-holdout-v2-186981-split",
 									"ranges": [
