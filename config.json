@@ -843,6 +843,10 @@
 				"40245355-7aea-446b-b325-4eea1352f41e": {
 					"key": "40245355-7aea-446b-b325-4eea1352f41e",
 					"value": "40245355-7aea-446b-b325-4eea1352f41e"
+				},
+				"90e9f167-1d71-4791-b021-0ac27b1a6e2f": {
+					"key": "90e9f167-1d71-4791-b021-0ac27b1a6e2f",
+					"value": "90e9f167-1d71-4791-b021-0ac27b1a6e2f"
 				}
 			},
 			"totalShards": 10000,
@@ -16014,7 +16018,7 @@
 			"allocations": [
 				{
 					"key": "allocation-169519",
-					"startAt": "2026-10-29T18:59:12.199Z",
+					"startAt": "2026-11-02T18:46:35.442Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -16043,7 +16047,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "address",
+							"variationKey": "address-tax-classification",
 							"shards": [
 								{
 									"salt": "onboarding-address-collection-169519-split",
@@ -16061,18 +16065,18 @@
 				},
 				{
 					"key": "allocation-169517",
-					"startAt": "2026-10-29T19:06:19.139Z",
+					"startAt": "2026-11-02T18:45:26.658Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "address",
+							"variationKey": "address-tax-classification",
 							"shards": [
 								{
 									"salt": "onboarding-address-collection-169517-split",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9999
+											"end": 5000
 										}
 									]
 								}
@@ -16085,7 +16089,7 @@
 									"salt": "onboarding-address-collection-169517-split",
 									"ranges": [
 										{
-											"start": 9999,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -18869,7 +18873,7 @@
 				},
 				"no-pixel": {
 					"key": "no-pixel",
-					"value": "[\n  {\n    \"slug\": \"nopixel-v\",\n    \"position\": 0\n  }\n]"
+					"value": "[\n  {\n    \"slug\": \"shopping-2026\",\n    \"position\": 12\n  }\n]"
 				},
 				"epl-valorant-stream-a-ween": {
 					"key": "epl-valorant-stream-a-ween",
@@ -18889,7 +18893,7 @@
 			"allocations": [
 				{
 					"key": "allocation-183982",
-					"startAt": "2026-10-15T14:08:52.616Z",
+					"startAt": "2026-11-02T16:34:52.423Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -18907,7 +18911,7 @@
 							]
 						},
 						{
-							"variationKey": "epl-stream-a-ween-shopping",
+							"variationKey": "no-pixel",
 							"shards": [
 								{
 									"salt": "promoted-events-config-183982-split",
