@@ -2048,6 +2048,72 @@
 				}
 			]
 		},
+		"ads-on-preaffiliates": {
+			"key": "ads-on-preaffiliates",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-144658",
+					"startAt": "2026-08-20T20:47:34.401Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1145439815"
+									],
+									"operator": "ONE_OF",
+									"attribute": "channel_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "ads-on-preaffiliates-144658-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-139567",
+					"startAt": "2026-07-10T18:17:40.901Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"ads_seasonal_banner2025": {
 			"key": "ads_seasonal_banner2025",
 			"enabled": true,
@@ -3353,7 +3419,7 @@
 			"allocations": [
 				{
 					"key": "allocation-180179",
-					"startAt": "2026-10-16T20:12:09.659Z",
+					"startAt": "2026-11-03T18:12:49.998Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3365,7 +3431,8 @@
 										"698192450",
 										"176749346",
 										"1513956027",
-										"1513481388"
+										"1513481388",
+										"1099236961"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -4282,7 +4349,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-10-30T17:56:50.427Z",
+					"startAt": "2026-11-03T18:53:13.327Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4398,7 +4465,9 @@
 										"167495178",
 										"412671040",
 										"47909109",
-										"43029902"
+										"43029902",
+										"1547683173",
+										"779701397"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -7587,6 +7656,127 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"cw-shelf-position-home-web-ga": {
+			"key": "cw-shelf-position-home-web-ga",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-197510-holdout-continue_watching_holdout_2026",
+					"startAt": "2026-11-03T21:29:01.940Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-home-web-ga-197510-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9999
+										}
+									]
+								},
+								{
+									"salt": "continue_watching_holdout_2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 800
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-home-web-ga-197510-split",
+									"ranges": [
+										{
+											"start": 9999,
+											"end": 10000
+										}
+									]
+								},
+								{
+									"salt": "continue_watching_holdout_2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 800
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-197510",
+					"startAt": "2026-11-03T21:29:01.940Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-home-web-ga-197510-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9999
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "cw-shelf-position-home-web-ga-197510-split",
+									"ranges": [
+										{
+											"start": 9999,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-197502",
+					"startAt": "2026-11-03T21:25:37.983Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -11060,7 +11250,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -14449,6 +14639,172 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"mweb-offline-home-clips": {
+			"key": "mweb-offline-home-clips",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"clips_first": {
+					"key": "clips_first",
+					"value": "clips_first"
+				},
+				"vod_autoplay": {
+					"key": "vod_autoplay",
+					"value": "vod_autoplay"
+				},
+				"clips_first_autoplay": {
+					"key": "clips_first_autoplay",
+					"value": "clips_first_autoplay"
+				},
+				"header_only": {
+					"key": "header_only",
+					"value": "header_only"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-186169",
+					"startAt": "2026-11-03T20:09:10.101Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "mweb-offline-home-clips-186169-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "mweb-offline-home-clips-186169-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 2000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "clips_first",
+							"shards": [
+								{
+									"salt": "mweb-offline-home-clips-186169-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "mweb-offline-home-clips-186169-split",
+									"ranges": [
+										{
+											"start": 2000,
+											"end": 4000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "vod_autoplay",
+							"shards": [
+								{
+									"salt": "mweb-offline-home-clips-186169-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "mweb-offline-home-clips-186169-split",
+									"ranges": [
+										{
+											"start": 4000,
+											"end": 6000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "clips_first_autoplay",
+							"shards": [
+								{
+									"salt": "mweb-offline-home-clips-186169-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "mweb-offline-home-clips-186169-split",
+									"ranges": [
+										{
+											"start": 6000,
+											"end": 8000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "header_only",
+							"shards": [
+								{
+									"salt": "mweb-offline-home-clips-186169-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "mweb-offline-home-clips-186169-split",
+									"ranges": [
+										{
+											"start": 8000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-186166",
+					"startAt": "2026-10-16T14:51:22.234Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -22557,6 +22913,73 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"show-ideal-web": {
+			"key": "show-ideal-web",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-197380",
+					"startAt": "2026-11-03T19:38:52.163Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"812422938",
+										"1165723565"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "show-ideal-web-197380-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-197377",
+					"startAt": "2026-11-03T19:36:09.318Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
