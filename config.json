@@ -4349,7 +4349,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-11-03T18:53:13.327Z",
+					"startAt": "2026-11-03T22:23:32.519Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4467,7 +4467,8 @@
 										"47909109",
 										"43029902",
 										"1547683173",
-										"779701397"
+										"779701397",
+										"90037149"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -21162,6 +21163,37 @@
 				}
 			]
 		},
+		"savvy-part-2-all-broadcasts": {
+			"key": "savvy-part-2-all-broadcasts",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-197595",
+					"startAt": "2026-11-03T23:37:05.599Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"savvy-part-2-all-users": {
 			"key": "savvy-part-2-all-users",
 			"enabled": true,
@@ -23902,7 +23934,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
