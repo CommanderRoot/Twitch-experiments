@@ -20211,6 +20211,76 @@
 				}
 			]
 		},
+		"recycled-citrus-cat-exp": {
+			"key": "recycled-citrus-cat-exp",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment-1": {
+					"key": "treatment-1",
+					"value": "treatment-1"
+				},
+				"treatment-2": {
+					"key": "treatment-2",
+					"value": "treatment-2"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 1026,
+			"allocations": [
+				{
+					"key": "allocation-197663",
+					"startAt": "2026-11-04T04:11:37.092Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"world-of-warcraft"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "recycled-citrus-cat-exp-197663-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-197653",
+					"startAt": "2026-11-04T03:08:22.460Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"recycled-citrus-exp": {
 			"key": "recycled-citrus-exp",
 			"enabled": true,
