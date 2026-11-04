@@ -4349,7 +4349,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-11-03T22:23:32.519Z",
+					"startAt": "2026-11-04T17:30:43.537Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4468,7 +4468,8 @@
 										"43029902",
 										"1547683173",
 										"779701397",
-										"90037149"
+										"90037149",
+										"1606991061"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -5695,6 +5696,118 @@
 					"splits": [
 						{
 							"variationKey": "treatment-single-step",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"checkout_payment_method_order": {
+			"key": "checkout_payment_method_order",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"card_first": {
+					"key": "card_first",
+					"value": "card_first"
+				},
+				"paypal_first_apm": {
+					"key": "paypal_first_apm",
+					"value": "paypal_first_apm"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-191641",
+					"startAt": "2026-11-04T19:21:48.891Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "checkout_payment_method_order-191641-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "checkout_payment_method_order-191641-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "card_first",
+							"shards": [
+								{
+									"salt": "checkout_payment_method_order-191641-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "checkout_payment_method_order-191641-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "paypal_first_apm",
+							"shards": [
+								{
+									"salt": "checkout_payment_method_order-191641-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "checkout_payment_method_order-191641-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-191638",
+					"startAt": "2026-10-22T22:49:55.549Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -7615,32 +7728,18 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-173967",
-					"startAt": "2026-09-23T18:48:43.185Z",
+					"key": "allocation-198227",
+					"startAt": "2026-11-04T19:12:51.651Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "cw-shelf-position-home-web-173967-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
 						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "cw-shelf-position-home-web-173967-split",
+									"salt": "cw-shelf-position-home-web-198227-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -7648,7 +7747,7 @@
 							]
 						}
 					],
-					"doLog": true
+					"doLog": false
 				},
 				{
 					"key": "allocation-172934",
@@ -8815,8 +8914,58 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-198167",
+					"startAt": "2026-11-04T18:25:39.665Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"web",
+										"mobile_web"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "email_login_enabled-198167-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "email_login_enabled-198167-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-196672",
-					"startAt": "2026-11-03T17:06:32.557Z",
+					"startAt": "2026-11-04T17:32:47.093Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -8841,7 +8990,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2500
+											"end": 5000
 										}
 									]
 								},
@@ -10189,7 +10338,7 @@
 				},
 				{
 					"key": "allocation-142478",
-					"startAt": "2026-10-30T18:24:49.043Z",
+					"startAt": "2026-11-04T21:56:48.436Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10218,7 +10367,8 @@
 										"1463682318",
 										"1371540404",
 										"137228545",
-										"559104037"
+										"559104037",
+										"192445692"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -20234,7 +20384,7 @@
 			"allocations": [
 				{
 					"key": "allocation-197663",
-					"startAt": "2026-11-04T04:11:37.092Z",
+					"startAt": "2026-11-04T22:06:15.274Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -20251,7 +20401,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment-1",
 							"shards": [
 								{
 									"salt": "recycled-citrus-cat-exp-197663-split",
@@ -21080,6 +21230,37 @@
 				{
 					"key": "allocation-146435",
 					"startAt": "2026-07-24T17:25:51.428Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"savvy-ftue-ultralight": {
+			"key": "savvy-ftue-ultralight",
+			"enabled": true,
+			"variationType": "JSON",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "{\"accountCreatedBefore\": \"2026-11-17T08:00:00Z\", \"endsAt\": \"2026-12-17T08:00:00Z\"}"
+				},
+				"test": {
+					"key": "test",
+					"value": "{}"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-185500",
+					"startAt": "2026-10-15T16:46:10.968Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -28596,7 +28777,7 @@
 			"allocations": [
 				{
 					"key": "allocation-189707",
-					"startAt": "2026-10-26T23:16:41.956Z",
+					"startAt": "2026-11-04T20:00:21.119Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -28605,7 +28786,8 @@
 									"value": [
 										"513668668",
 										"1265528788",
-										"27640340"
+										"27640340",
+										"1375638838"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -28844,7 +29026,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "treatment",
 							"shards": []
 						}
 					],
