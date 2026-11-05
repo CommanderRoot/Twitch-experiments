@@ -4509,6 +4509,37 @@
 				}
 			]
 		},
+		"campfire-smoker": {
+			"key": "campfire-smoker",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-184357",
+					"startAt": "2026-10-13T23:31:33.360Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"candle_shop": {
 			"key": "candle_shop",
 			"enabled": true,
@@ -28985,42 +29016,6 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-162154",
-					"startAt": "2026-08-24T22:25:44.944Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "upgrade-sub-cta-162154-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "upgrade-sub-cta-162154-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
 					"key": "allocation-141893",
 					"startAt": "2026-07-14T19:17:40.655Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -29831,47 +29826,12 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-167547",
-					"startAt": "2026-09-08T18:30:19.135Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"1513488887"
-									],
-									"operator": "ONE_OF",
-									"attribute": "id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "web_winback_reminder_query-167547-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-167541",
 					"startAt": "2026-09-08T18:26:39.449Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -30222,12 +30182,102 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-198597-holdout-viewer-progression-2026",
+					"startAt": "2026-11-04T23:15:19.655Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "ws-jeopardy-web-198597-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9999
+										}
+									]
+								},
+								{
+									"salt": "viewer-progression-2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "ws-jeopardy-web-198597-split",
+									"ranges": [
+										{
+											"start": 9999,
+											"end": 10000
+										}
+									]
+								},
+								{
+									"salt": "viewer-progression-2026-holdout-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 700
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-198597",
+					"startAt": "2026-11-04T23:15:19.655Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "ws-jeopardy-web-198597-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9999
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
+								{
+									"salt": "ws-jeopardy-web-198597-split",
+									"ranges": [
+										{
+											"start": 9999,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-143569",
 					"startAt": "2026-07-17T20:13:37.345Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
