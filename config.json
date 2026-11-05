@@ -708,6 +708,37 @@
 				}
 			]
 		},
+		"Drop-new-private-callout": {
+			"key": "Drop-new-private-callout",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-199623",
+					"startAt": "2026-11-05T21:14:34.879Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"Elevate-Prime-2026": {
 			"key": "Elevate-Prime-2026",
 			"enabled": true,
@@ -1575,25 +1606,9 @@
 			"allocations": [
 				{
 					"key": "allocation-176589",
-					"startAt": "2026-10-05T18:29:58.503Z",
+					"startAt": "2026-11-05T22:05:18.556Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
-						{
-							"conditions": [
-								{
-									"value": "31.5.0",
-									"operator": "GTE",
-									"attribute": "app_version"
-								},
-								{
-									"value": [
-										"ios"
-									],
-									"operator": "ONE_OF",
-									"attribute": "client_app"
-								}
-							]
-						},
 						{
 							"conditions": [
 								{
@@ -1602,22 +1617,6 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "client_app"
-								}
-							]
-						},
-						{
-							"conditions": [
-								{
-									"value": "31.5.0",
-									"operator": "GTE",
-									"attribute": "app_version"
-								},
-								{
-									"value": [
-										"android"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
 								}
 							]
 						}
@@ -3012,6 +3011,41 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-199479",
+					"startAt": "2026-11-05T18:50:28.036Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"446246227"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "amazon-live-creator-allowlist-199479-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-177922",
 					"startAt": "2026-10-01T14:32:51.385Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -3993,84 +4027,12 @@
 			"entityId": 145,
 			"allocations": [
 				{
-					"key": "allocation-174807",
-					"startAt": "2026-09-24T20:10:22.105Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "birthday-creator-event-174807-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "false",
-							"shards": [
-								{
-									"salt": "birthday-creator-event-174807-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-173448",
-					"startAt": "2026-10-03T04:02:16.038Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"941199283",
-										"270954519"
-									],
-									"operator": "ONE_OF",
-									"attribute": "id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "birthday-creator-event-173448-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-166927",
 					"startAt": "2026-09-04T23:49:09.412Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -4547,7 +4509,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-11-05T17:12:08.977Z",
+					"startAt": "2026-11-05T22:00:22.037Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4669,7 +4631,9 @@
 										"90037149",
 										"1606991061",
 										"1182647167",
-										"860050533"
+										"860050533",
+										"1335762436",
+										"75583189"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -6319,7 +6283,7 @@
 				}
 			},
 			"totalShards": 10000,
-			"entityId": 143,
+			"entityId": 144,
 			"allocations": [
 				{
 					"key": "allocation-184964",
@@ -9066,7 +9030,7 @@
 				},
 				"dvddropcampaigns": {
 					"key": "dvddropcampaigns",
-					"value": "  {\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": true,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n      \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n      \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionTracks\": [\"pokemon#aebee668-75ca-4626-99f5-168d369d217b\"],\n    \"gta6\": {},\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    }\n  }"
+					"value": "  {\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": true,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n      \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n      \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    },\n    \"gta6\": {\n      \"orderedDailyChest\": \"30ccdb02-d162-11f1-a983-0a58a9feac02\",\n      \"enabled\": true,\n      \"starterCampaign\": \"b7669f9e-c69c-4a9b-a3b2-36266c1bdfc0\",\n      \"progressCampaign\": \"b7669f9e-c69c-4a9b-a3b2-36266c1bdfc0\",\n      \"ultimateReward\": \"8aada31e-d18c-11f1-a5bd-0a58a9feac02\",\n      \"emoteRewards\": {\n        \"9ccb8dd4-bc49-11f1-8088-fe672861178e\": \"emotesv2_7d9b976f733e41fab643a746f48b5b90\",\n        \"425b56a4-b929-11f1-b74d-fe672861178e\": \"emotesv2_42a4b5d8570b45619b68d1caf5b97d70\",\n        \"9cbf1b12-bc49-11f1-8088-fe672861178e\": \"emotesv2_d07e2bc9117940c09e322652d7e7e0a7\"\n      }\n    }\n  }"
 				}
 			},
 			"totalShards": 10000,
@@ -10940,8 +10904,8 @@
 				}
 			]
 		},
-		"gift-sub-visibility": {
-			"key": "gift-sub-visibility",
+		"gift-sub-visibility-channel-exp": {
+			"key": "gift-sub-visibility-channel-exp",
 			"enabled": true,
 			"variationType": "BOOLEAN",
 			"variations": {
@@ -10955,11 +10919,11 @@
 				}
 			},
 			"totalShards": 10000,
-			"entityId": 143,
+			"entityId": 145,
 			"allocations": [
 				{
-					"key": "allocation-198666",
-					"startAt": "2026-11-05T03:12:03.863Z",
+					"key": "allocation-199688",
+					"startAt": "2026-11-05T22:36:58.658Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -18393,7 +18357,7 @@
 			"allocations": [
 				{
 					"key": "allocation-196098",
-					"startAt": "2026-10-30T23:14:32.180Z",
+					"startAt": "2026-11-05T19:07:28.643Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -18403,7 +18367,16 @@
 										"1308285572",
 										"1312878005",
 										"731749662",
-										"119316908"
+										"119316908",
+										"718729402",
+										"1547190548",
+										"1052152000",
+										"267893713",
+										"1392173794",
+										"1523004703",
+										"747377519",
+										"1543198714",
+										"824140245"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -20647,7 +20620,7 @@
 			"allocations": [
 				{
 					"key": "allocation-197663",
-					"startAt": "2026-11-04T22:06:15.274Z",
+					"startAt": "2026-11-05T22:31:16.555Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -20660,6 +20633,17 @@
 									"attribute": "id"
 								}
 							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"124846679"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
 						}
 					],
 					"splits": [
@@ -20668,6 +20652,249 @@
 							"shards": [
 								{
 									"salt": "recycled-citrus-cat-exp-197663-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-199602",
+					"startAt": "2026-11-05T22:43:47.587Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"just-chatting",
+										"minecraft",
+										"valorant",
+										"dota-2",
+										"aion-2",
+										"deadlock-1",
+										"apex-legends",
+										"tibia",
+										"arc-raiders",
+										"art",
+										"retro",
+										"pokemon-champions",
+										"the-witcher-3-wild-hunt",
+										"genshin-impact",
+										"pokemon-go",
+										"clive-barkers-hellraiser-revival",
+										"maplestory",
+										"asmr",
+										"black-desert",
+										"probably-stolen",
+										"project-zomboid",
+										"castlevania-belmonts-curse",
+										"r-e-p-o",
+										"hearthstone",
+										"valheim",
+										"games-demos",
+										"co-working-and-studying",
+										"moon-sweepers",
+										"warframe",
+										"clash-royale",
+										"rust",
+										"red-dead-redemption-2",
+										"dayz",
+										"marvel-rivals",
+										"escape-from-tarkov",
+										"roblox",
+										"tom-clancys-rainbow-six-siege",
+										"scam-with-your-friends",
+										"war-thunder",
+										"trackmania",
+										"nba-2k27",
+										"old-school-runescape",
+										"talk-shows-and-podcasts",
+										"animals-aquariums-and-zoos",
+										"food-and-drink",
+										"nintendo-switch-sports-resort",
+										"alien-isolation",
+										"disney-dreamlight-valley",
+										"dressmaker-1"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"resident-evil-requiem",
+										"farming-simulator-25",
+										"makers-and-crafting",
+										"goddess-of-victory-nikke",
+										"bloodborne",
+										"software-and-game-development",
+										"monster-hunter-wilds",
+										"dark-souls-remastered",
+										"the-witcher-3-wild-hunt-remastered",
+										"terraria",
+										"queens-domain",
+										"slay-the-spire-ii",
+										"zenless-zone-zero",
+										"invokyr",
+										"star-wars-galactic-racer",
+										"dark-souls-iii",
+										"among-us",
+										"geometry-dash",
+										"chess-1",
+										"tekken-8",
+										"le-mans-ultimate",
+										"dungeons-and-dragons",
+										"peak-2025",
+										"terrible-lizards",
+										"call-of-duty",
+										"the-legend-of-zelda-ocarina-of-time",
+										"fire-emblem-fortunes-weave",
+										"osu",
+										"madden-nfl-27",
+										"dark-and-darker",
+										"dont-starve-together",
+										"the-sims-4",
+										"soma",
+										"sekiro-shadows-die-twice",
+										"the-quarry",
+										"dark-souls-ii-scholar-of-the-first-sin",
+										"super-mario-odyssey",
+										"resident-evil-village",
+										"playable-archive",
+										"euro-truck-simulator-2",
+										"quarantine-zone-the-last-check",
+										"how-to-fish",
+										"super-mario-maker-2",
+										"the-legend-of-zelda-majoras-mask",
+										"fallout-76",
+										"grand-theft-auto-iv",
+										"the-elder-scrolls-v-skyrim",
+										"silent-hill-2-2024",
+										"helldivers-ii",
+										"dead-space"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"guild-wars-2",
+										"dawnwalker",
+										"super-smash-bros-ultimate",
+										"escape-the-backrooms",
+										"lies-of-p",
+										"ea-sports-fc-26",
+										"palworld",
+										"onimusha-way-of-the-sword",
+										"super-mario-64",
+										"fears-to-fathom-scratch-creek",
+										"jackbox-party-packs",
+										"microsoft-flight-simulator-2024",
+										"meccha-chameleon",
+										"species-unknown",
+										"f1-25",
+										"visage",
+										"deltarune",
+										"until-dawn-2024",
+										"alan-wake-ii",
+										"resident-evil-2014",
+										"waterpark-simulator-2",
+										"no-mans-sky",
+										"hogwarts-legacy",
+										"pokemon-unite",
+										"the-wolf-among-us-remastered",
+										"the-last-of-us-part-ii-remastered",
+										"active-matter",
+										"ghosts-of-tabor",
+										"the-other-side-1",
+										"monster-hunter-world",
+										"funnel-runners",
+										"demonologist",
+										"sons-of-the-forest",
+										"halo-the-master-chief-collection",
+										"super-battle-golf",
+										"mass-effect-legendary-edition",
+										"forza-horizon-6",
+										"efootball",
+										"finals-week",
+										"big-walk",
+										"for-honor",
+										"the-cabin-game",
+										"my-hero-ultra-rumble",
+										"the-legend-of-zelda-breath-of-the-wild",
+										"risk-of-rain-2",
+										"no-more-room-in-hell-2",
+										"wwe-2k26",
+										"call-of-duty-black-ops-7",
+										"predecessor",
+										"ea-sports-college-football-27"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"bendy-and-the-ink-machine",
+										"five-nights-at-frickbears-3",
+										"persona-5-royal",
+										"ghost-janitors",
+										"mayor-bones-proudly-presents-ghost-towns-1001st-annual-pumpkin-festival",
+										"call-of-duty-mobile",
+										"buckshot-roulette",
+										"labyrinthine",
+										"the-evil-within",
+										"little-nightmares-iii",
+										"dying-light",
+										"mortal-kombat-1",
+										"wizard101",
+										"ready-or-not",
+										"gran-turismo-7",
+										"fallout-new-vegas",
+										"ea-sports-madden-nfl-26",
+										"arma-reforger",
+										"rematch",
+										"marvels-spider-man-2",
+										"thehunter-call-of-the-wild",
+										"call-of-duty-4-modern-warfare",
+										"call-of-duty-black-ops-6",
+										"strinova",
+										"nascar-26",
+										"gang-beasts",
+										"skate",
+										"arma-3",
+										"gta-la-heist",
+										"undisputed"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment-2",
+							"shards": [
+								{
+									"salt": "recycled-citrus-cat-exp-199602-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -20892,6 +21119,73 @@
 					"splits": [
 						{
 							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"recycled-citrus-viewer-exp": {
+			"key": "recycled-citrus-viewer-exp",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-199539",
+					"startAt": "2026-11-05T22:38:22.166Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "recycled-citrus-viewer-exp-199539-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "recycled-citrus-viewer-exp-199539-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
+					"key": "allocation-199536",
+					"startAt": "2026-11-05T19:41:31.279Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
 							"shards": []
 						}
 					],
@@ -21511,7 +21805,7 @@
 			"variations": {
 				"control": {
 					"key": "control",
-					"value": "{\"accountCreatedBefore\": \"2026-11-17T08:00:00Z\", \"endsAt\": \"2026-12-17T08:00:00Z\"}"
+					"value": "{\"accountCreatedBefore\": \"2026-11-25T08:00:00Z\", \"endsAt\": \"2026-12-23T08:00:00Z\"}"
 				},
 				"test": {
 					"key": "test",
@@ -21723,7 +22017,7 @@
 				}
 			},
 			"totalShards": 10000,
-			"entityId": 143,
+			"entityId": 144,
 			"allocations": [
 				{
 					"key": "allocation-186219",
@@ -23554,56 +23848,6 @@
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
-				{
-					"key": "allocation-173826",
-					"startAt": "2026-09-23T16:58:42.114Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "show-your-rank-173826-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "GoalsFirst",
-							"shards": [
-								{
-									"salt": "show-your-rank-173826-split",
-									"ranges": [
-										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "LeaderboardFirst",
-							"shards": [
-								{
-									"salt": "show-your-rank-173826-split",
-									"ranges": [
-										{
-											"start": 6666,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
 				{
 					"key": "allocation-156410",
 					"startAt": "2026-08-11T23:30:19.721Z",
@@ -27821,7 +28065,7 @@
 				},
 				{
 					"key": "allocation-178817",
-					"startAt": "2026-10-01T19:18:39.212Z",
+					"startAt": "2026-11-05T18:09:10.957Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -27832,7 +28076,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 1000
+											"end": 5000
 										}
 									]
 								}
@@ -27845,7 +28089,7 @@
 									"salt": "substitute-teacher-178817-split",
 									"ranges": [
 										{
-											"start": 1000,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -29040,7 +29284,7 @@
 			"allocations": [
 				{
 					"key": "allocation-189707",
-					"startAt": "2026-11-04T20:00:21.119Z",
+					"startAt": "2026-11-05T21:42:11.335Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -29050,7 +29294,10 @@
 										"513668668",
 										"1265528788",
 										"27640340",
-										"1375638838"
+										"1375638838",
+										"823168817",
+										"1513918890",
+										"1534168373"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
