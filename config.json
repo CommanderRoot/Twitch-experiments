@@ -1044,14 +1044,17 @@
 			"allocations": [
 				{
 					"key": "allocation-198729",
-					"startAt": "2026-11-05T05:40:22.844Z",
+					"startAt": "2026-11-06T19:35:31.375Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1295227503"
+										"1295227503",
+										"591646063",
+										"452977866",
+										"161311554"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -1110,14 +1113,17 @@
 			"allocations": [
 				{
 					"key": "allocation-198766",
-					"startAt": "2026-11-05T06:10:53.984Z",
+					"startAt": "2026-11-06T19:35:39.798Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1383651397"
+										"1295227503",
+										"591646063",
+										"452977866",
+										"161311554"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -1176,14 +1182,17 @@
 			"allocations": [
 				{
 					"key": "allocation-198723",
-					"startAt": "2026-11-05T05:38:57.112Z",
+					"startAt": "2026-11-06T19:35:23.240Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"1295227503"
+										"1295227503",
+										"591646063",
+										"452977866",
+										"161311554"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -4509,7 +4518,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-11-05T22:00:22.037Z",
+					"startAt": "2026-11-06T19:06:29.713Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4633,7 +4642,9 @@
 										"1182647167",
 										"860050533",
 										"1335762436",
-										"75583189"
+										"75583189",
+										"624448702",
+										"1607062702"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -9109,6 +9120,56 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-198167",
+					"startAt": "2026-11-06T21:27:22.356Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"web",
+										"mobile_web"
+									],
+									"operator": "ONE_OF",
+									"attribute": "platform"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "email_login_enabled-198167-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 5000
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "email_login_enabled-198167-split",
+									"ranges": [
+										{
+											"start": 5000,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-167550",
 					"startAt": "2026-09-08T18:39:42.269Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -13071,7 +13132,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-10-26T15:59:02.027Z",
+					"startAt": "2026-11-06T17:59:19.038Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -13095,7 +13156,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9999
+											"end": 9500
 										}
 									]
 								}
@@ -13108,7 +13169,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 9999,
+											"start": 9500,
 											"end": 10000
 										}
 									]
@@ -13232,7 +13293,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-10-26T15:59:27.803Z",
+					"startAt": "2026-11-06T18:00:05.531Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -13243,7 +13304,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								}
@@ -13256,7 +13317,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 500,
 											"end": 10000
 										}
 									]
@@ -29222,7 +29283,7 @@
 			"allocations": [
 				{
 					"key": "allocation-189707",
-					"startAt": "2026-11-05T23:20:32.437Z",
+					"startAt": "2026-11-06T21:10:36.897Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -29238,7 +29299,8 @@
 										"1534168373",
 										"49424513",
 										"1516129474",
-										"669163175"
+										"669163175",
+										"1607989008"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
