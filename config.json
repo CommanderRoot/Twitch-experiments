@@ -9109,101 +9109,6 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-198167",
-					"startAt": "2026-11-04T18:25:39.665Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"web",
-										"mobile_web"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "email_login_enabled-198167-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "email_login_enabled-198167-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-196672",
-					"startAt": "2026-11-04T17:32:47.093Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"web",
-										"mobile_web"
-									],
-									"operator": "ONE_OF",
-									"attribute": "platform"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "email_login_enabled-196672-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								},
-								{
-									"salt": "email_login_enabled-196672-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-167550",
 					"startAt": "2026-09-08T18:39:42.269Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -19734,7 +19639,7 @@
 			"allocations": [
 				{
 					"key": "allocation-133353",
-					"startAt": "2026-10-06T04:40:16.520Z",
+					"startAt": "2026-11-06T02:19:47.049Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -19758,7 +19663,8 @@
 										"172341005",
 										"489684071",
 										"48276979",
-										"707373963"
+										"707373963",
+										"139228206"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -29284,7 +29190,7 @@
 			"allocations": [
 				{
 					"key": "allocation-189707",
-					"startAt": "2026-11-05T21:42:11.335Z",
+					"startAt": "2026-11-05T23:20:32.437Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -29297,7 +29203,10 @@
 										"1375638838",
 										"823168817",
 										"1513918890",
-										"1534168373"
+										"1534168373",
+										"49424513",
+										"1516129474",
+										"669163175"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
