@@ -3257,6 +3257,37 @@
 				}
 			]
 		},
+		"amplify-raid-channel-exp": {
+			"key": "amplify-raid-channel-exp",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-200518",
+					"startAt": "2026-11-07T15:35:01.229Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"android_moderation_settings": {
 			"key": "android_moderation_settings",
 			"enabled": true,
