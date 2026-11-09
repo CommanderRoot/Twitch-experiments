@@ -4553,7 +4553,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-11-06T22:46:13.914Z",
+					"startAt": "2026-11-09T18:20:49.852Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4680,7 +4680,8 @@
 										"75583189",
 										"624448702",
 										"1607062702",
-										"1556116038"
+										"1556116038",
+										"838830486"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -7808,111 +7809,6 @@
 				}
 			]
 		},
-		"cw-shelf-position-following-web": {
-			"key": "cw-shelf-position-following-web",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-173008",
-					"startAt": "2026-09-22T23:56:29.660Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"55696719",
-										"702554981",
-										"1095331031",
-										"1528070654"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "cw-shelf-position-following-web-173008-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-173968",
-					"startAt": "2026-09-23T18:49:00.428Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "cw-shelf-position-following-web-173968-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "cw-shelf-position-following-web-173968-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-172930",
-					"startAt": "2026-09-21T23:48:01.624Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"cw-shelf-position-home-web": {
 			"key": "cw-shelf-position-home-web",
 			"enabled": true,
@@ -9303,7 +9199,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -13175,7 +13071,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-11-06T17:59:19.038Z",
+					"startAt": "2026-11-09T19:52:39.007Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -13199,7 +13095,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 9500
+											"end": 5000
 										}
 									]
 								}
@@ -13212,7 +13108,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 9500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -13336,7 +13232,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-11-06T18:00:05.531Z",
+					"startAt": "2026-11-09T19:51:58.887Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -13347,7 +13243,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 500
+											"end": 5000
 										}
 									]
 								}
@@ -13360,7 +13256,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -15067,7 +14963,7 @@
 			"allocations": [
 				{
 					"key": "allocation-186169",
-					"startAt": "2026-11-03T20:09:10.101Z",
+					"startAt": "2026-11-09T20:02:59.652Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -15078,7 +14974,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -15101,7 +14997,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -15124,7 +15020,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -15147,7 +15043,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -15170,7 +15066,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -23380,7 +23276,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
@@ -23725,7 +23621,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
