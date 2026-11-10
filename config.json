@@ -1071,8 +1071,43 @@
 				}
 			},
 			"totalShards": 10000,
-			"entityId": 144,
+			"entityId": 143,
 			"allocations": [
+				{
+					"key": "allocation-201363",
+					"startAt": "2026-11-10T03:14:36.515Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"1295227503"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Hype-Train-GTA-VI-Skip-Category-Check-201363-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-198690",
 					"startAt": "2026-11-05T04:47:49.304Z",
@@ -1104,6 +1139,41 @@
 			"totalShards": 10000,
 			"entityId": 144,
 			"allocations": [
+				{
+					"key": "allocation-201362",
+					"startAt": "2026-11-10T03:13:52.457Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"2680711da4e749a4b2b8e2a421fcc9a5"
+									],
+									"operator": "ONE_OF",
+									"attribute": "device_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Hype-Train-GTA-VI-Theme-201362-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
 				{
 					"key": "allocation-198687",
 					"startAt": "2026-11-05T04:46:46.190Z",
@@ -12183,7 +12253,7 @@
 			"allocations": [
 				{
 					"key": "allocation-89137",
-					"startAt": "2026-10-02T17:00:03.764Z",
+					"startAt": "2026-11-10T07:17:54.384Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -12323,7 +12393,8 @@
 										"1483156102",
 										"1483835553",
 										"1486808783",
-										"1490833243"
+										"1490833243",
+										"1608664663"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
