@@ -27923,6 +27923,56 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-201666",
+					"startAt": "2026-11-10T16:05:03.083Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "sub-modal-personalization-201666-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 3333
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "personalized",
+							"shards": [
+								{
+									"salt": "sub-modal-personalization-201666-split",
+									"ranges": [
+										{
+											"start": 3333,
+											"end": 6666
+										}
+									]
+								}
+							]
+						},
+						{
+							"variationKey": "personalized_plus",
+							"shards": [
+								{
+									"salt": "sub-modal-personalization-201666-split",
+									"ranges": [
+										{
+											"start": 6666,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": true
+				},
+				{
 					"key": "allocation-168239",
 					"startAt": "2026-09-09T18:57:36.719Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -30386,7 +30436,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": []
 						}
 					],
