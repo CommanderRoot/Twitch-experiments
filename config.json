@@ -24101,6 +24101,37 @@
 				}
 			]
 		},
+		"shouts-upcapped-r-and-m": {
+			"key": "shouts-upcapped-r-and-m",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 145,
+			"allocations": [
+				{
+					"key": "allocation-203458",
+					"startAt": "2026-11-12T17:48:55.958Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"show-ideal-web": {
 			"key": "show-ideal-web",
 			"enabled": true,
