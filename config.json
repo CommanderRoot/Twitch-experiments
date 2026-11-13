@@ -19779,7 +19779,7 @@
 				},
 				"epl-valorant-stream-a-ween": {
 					"key": "epl-valorant-stream-a-ween",
-					"value": "[\n  {\n    \"slug\": \"epl-katowice-2026\",\n    \"position\": 0\n  },  \n  {\n    \"slug\": \"valorant-champions-2026\",\n    \"position\": 1\n  },\n  {\n    \"slug\": \"stream-o-ween-2026\",\n    \"position\": 2\n  }\n]"
+					"value": "[\n  {\n    \"slug\": \"twitchcon-2026\",\n    \"position\": 0\n  },  \n  {\n    \"slug\": \"shopping-2026\",\n    \"position\": 12\n  }\n]"
 				},
 				"valorant-epl-stream-a-ween": {
 					"key": "valorant-epl-stream-a-ween",
@@ -19795,7 +19795,7 @@
 			"allocations": [
 				{
 					"key": "allocation-183982",
-					"startAt": "2026-11-02T16:34:52.423Z",
+					"startAt": "2026-11-13T15:32:40.307Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -19813,7 +19813,7 @@
 							]
 						},
 						{
-							"variationKey": "no-pixel",
+							"variationKey": "epl-valorant-stream-a-ween",
 							"shards": [
 								{
 									"salt": "promoted-events-config-183982-split",
