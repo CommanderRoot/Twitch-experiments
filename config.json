@@ -1075,7 +1075,7 @@
 			"allocations": [
 				{
 					"key": "allocation-201363",
-					"startAt": "2026-11-10T03:14:36.515Z",
+					"startAt": "2026-11-12T22:32:14.621Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1086,6 +1086,17 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"1295227503"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
 								}
 							]
 						}
@@ -1137,21 +1148,32 @@
 				}
 			},
 			"totalShards": 10000,
-			"entityId": 144,
+			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-201362",
-					"startAt": "2026-11-10T03:13:52.457Z",
+					"key": "allocation-203639",
+					"startAt": "2026-11-12T22:32:32.580Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"2680711da4e749a4b2b8e2a421fcc9a5"
+										"1295227503"
 									],
 									"operator": "ONE_OF",
-									"attribute": "device_id"
+									"attribute": "user_id"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"1295227503"
+									],
+									"operator": "ONE_OF",
+									"attribute": "id"
 								}
 							]
 						}
@@ -1161,7 +1183,7 @@
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "Hype-Train-GTA-VI-Theme-201362-split",
+									"salt": "Hype-Train-GTA-VI-Theme-203639-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -1253,6 +1275,37 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-203723",
+					"startAt": "2026-11-12T22:34:32.993Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Luna-Game-Shelf-203723-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								},
+								{
+									"salt": "Luna-Game-Shelf-203723-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-184926",
 					"startAt": "2026-10-14T18:13:31.398Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -1318,6 +1371,37 @@
 							"shards": [
 								{
 									"salt": "Luna-play-button-191619-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-203607",
+					"startAt": "2026-11-12T22:34:12.363Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Luna-play-button-203607-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9000
+										}
+									]
+								},
+								{
+									"salt": "Luna-play-button-203607-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -4511,7 +4595,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-11-09T20:53:02.617Z",
+					"startAt": "2026-11-12T21:47:03.568Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -4638,7 +4722,8 @@
 										"624448702",
 										"1607062702",
 										"1556116038",
-										"838830486"
+										"838830486",
+										"237261456"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -14126,6 +14211,37 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-203724",
+					"startAt": "2026-11-12T22:34:53.752Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "luna-left-nav-203724-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								},
+								{
+									"salt": "luna-left-nav-203724-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-185608",
 					"startAt": "2026-10-15T18:38:57.047Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -18326,7 +18442,7 @@
 				},
 				{
 					"key": "allocation-185184",
-					"startAt": "2026-10-15T03:02:26.370Z",
+					"startAt": "2026-11-12T22:35:11.718Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -18337,7 +18453,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -18438,7 +18554,7 @@
 				},
 				{
 					"key": "allocation-196099",
-					"startAt": "2026-10-30T22:01:29.488Z",
+					"startAt": "2026-11-12T22:35:21.419Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -18449,7 +18565,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 0
+											"end": 500
 										}
 									]
 								},
@@ -29060,37 +29176,6 @@
 					"splits": [
 						{
 							"variationKey": "true",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"together-for-good-2025-banner": {
-			"key": "together-for-good-2025-banner",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-67359",
-					"startAt": "2025-11-12T21:39:23.366Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
 							"shards": []
 						}
 					],
