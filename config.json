@@ -1185,7 +1185,7 @@
 			"allocations": [
 				{
 					"key": "allocation-191620",
-					"startAt": "2026-11-10T23:54:32.407Z",
+					"startAt": "2026-11-16T20:25:17.843Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1204,7 +1204,8 @@
 										"824140245",
 										"766447404",
 										"122951235",
-										"885155183"
+										"885155183",
+										"1609319632"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -1231,27 +1232,32 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-203723",
-					"startAt": "2026-11-12T22:34:32.993Z",
+					"key": "allocation-205426",
+					"startAt": "2026-11-17T01:31:12.312Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "Luna-Game-Shelf-203723-traffic",
+									"salt": "Luna-Game-Shelf-205426-split",
 									"ranges": [
 										{
 											"start": 0,
 											"end": 500
 										}
 									]
-								},
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
 								{
-									"salt": "Luna-Game-Shelf-203723-split",
+									"salt": "Luna-Game-Shelf-205426-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 500,
 											"end": 10000
 										}
 									]
@@ -1259,7 +1265,7 @@
 							]
 						}
 					],
-					"doLog": false
+					"doLog": true
 				},
 				{
 					"key": "allocation-184926",
@@ -1294,7 +1300,7 @@
 			"allocations": [
 				{
 					"key": "allocation-191619",
-					"startAt": "2026-11-10T23:54:13.117Z",
+					"startAt": "2026-11-16T20:25:12.703Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1313,7 +1319,8 @@
 										"824140245",
 										"766447404",
 										"122951235",
-										"885155183"
+										"885155183",
+										"1609319632"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -11483,6 +11490,125 @@
 				}
 			]
 		},
+		"gta6-iguana-max-delay-minutes": {
+			"key": "gta6-iguana-max-delay-minutes",
+			"enabled": true,
+			"variationType": "INTEGER",
+			"variations": {
+				"3": {
+					"key": "3",
+					"value": 3
+				},
+				"30": {
+					"key": "30",
+					"value": 30
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-204390",
+					"startAt": "2026-11-13T20:25:00.128Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "30",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"gta6-iguana-min-delay-minutes": {
+			"key": "gta6-iguana-min-delay-minutes",
+			"enabled": true,
+			"variationType": "INTEGER",
+			"variations": {
+				"1": {
+					"key": "1",
+					"value": 1
+				},
+				"10": {
+					"key": "10",
+					"value": 10
+				},
+				"15": {
+					"key": "15",
+					"value": 2
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-204387",
+					"startAt": "2026-11-13T20:17:30.482Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "10",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"gta6-takeover": {
+			"key": "gta6-takeover",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-205422",
+					"startAt": "2026-11-18T10:55:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "gta6-takeover-205422-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-198581",
+					"startAt": "2026-11-04T22:53:25.312Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"guest_star_batch_invite": {
 			"key": "guest_star_batch_invite",
 			"enabled": true,
@@ -14123,7 +14249,7 @@
 			"allocations": [
 				{
 					"key": "allocation-191621",
-					"startAt": "2026-11-10T23:54:40.815Z",
+					"startAt": "2026-11-16T20:25:24.085Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14142,7 +14268,8 @@
 										"824140245",
 										"766447404",
 										"122951235",
-										"885155183"
+										"885155183",
+										"1609319632"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -15591,42 +15718,6 @@
 			"totalShards": 10000,
 			"entityId": 144,
 			"allocations": [
-				{
-					"key": "allocation-144960",
-					"startAt": "2026-07-21T21:03:38.310Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "variant1",
-							"shards": [
-								{
-									"salt": "next-up-144960-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 5000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "variant2",
-							"shards": [
-								{
-									"salt": "next-up-144960-split",
-									"ranges": [
-										{
-											"start": 5000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
 				{
 					"key": "allocation-88641",
 					"startAt": "2026-02-03T18:09:54.045Z",
@@ -18352,7 +18443,7 @@
 			"allocations": [
 				{
 					"key": "allocation-185183",
-					"startAt": "2026-11-10T23:54:47.652Z",
+					"startAt": "2026-11-16T20:25:29.744Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -18372,7 +18463,8 @@
 										"824140245",
 										"766447404",
 										"122951235",
-										"885155183"
+										"885155183",
+										"1609319632"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -18462,7 +18554,7 @@
 			"allocations": [
 				{
 					"key": "allocation-196098",
-					"startAt": "2026-11-10T23:54:53.784Z",
+					"startAt": "2026-11-16T20:25:35.490Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -18484,7 +18576,8 @@
 										"824140245",
 										"766447404",
 										"122951235",
-										"885155183"
+										"885155183",
+										"1609319632"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -22103,6 +22196,37 @@
 				{
 					"key": "allocation-145491",
 					"startAt": "2026-07-22T17:51:07.283Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"ru_recurly_disabled": {
+			"key": "ru_recurly_disabled",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-205345",
+					"startAt": "2026-11-16T22:10:29.411Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
