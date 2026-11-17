@@ -1185,7 +1185,7 @@
 			"allocations": [
 				{
 					"key": "allocation-191620",
-					"startAt": "2026-11-16T20:25:17.843Z",
+					"startAt": "2026-11-17T19:08:49.089Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1205,7 +1205,8 @@
 										"766447404",
 										"122951235",
 										"885155183",
-										"1609319632"
+										"1609319632",
+										"54493048"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -1219,6 +1220,37 @@
 							"shards": [
 								{
 									"salt": "Luna-Game-Shelf-191620-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-203723",
+					"startAt": "2026-11-12T22:34:32.993Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Luna-Game-Shelf-203723-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 500
+										}
+									]
+								},
+								{
+									"salt": "Luna-Game-Shelf-203723-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -9479,6 +9511,10 @@
 				"ios-july-promo-banners": {
 					"key": "ios-july-promo-banners",
 					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-06-25T17:00:00Z\",\n  \"end_at\": \"2026-08-30T06:59:00Z\",\n  \"promotion_name\": \"MobileBannersPromotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
+				},
+				"thanksgiving-2026": {
+					"key": "thanksgiving-2026",
+					"value": "{\n  \"ios_banner_url\": \"commerce/subtember-banner/gifts\",\n  \"start_at\": \"2026-11-25T18:00:00Z\",\n  \"end_at\": \"2026-12-01T00:00:00Z\", \n  \"promotion_name\": \"Nov2026Promotion\",\n  \"discount_percent\": 35,\n  \"legal_URL\": \"https://legal.twitch.com/legal/gift-discount1\"\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -9490,7 +9526,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "junejuly-2026-77ab6",
+							"variationKey": "control",
 							"shards": []
 						}
 					],
