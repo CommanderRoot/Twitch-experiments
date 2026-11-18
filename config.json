@@ -1153,6 +1153,28 @@
 					"doLog": false
 				},
 				{
+					"key": "allocation-206178",
+					"startAt": "2026-11-18T11:00:00.000Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Hype-Train-GTA-VI-Theme-206178-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-198687",
 					"startAt": "2026-11-05T04:46:46.190Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -1220,37 +1242,6 @@
 							"shards": [
 								{
 									"salt": "Luna-Game-Shelf-191620-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-203723",
-					"startAt": "2026-11-12T22:34:32.993Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "true",
-							"shards": [
-								{
-									"salt": "Luna-Game-Shelf-203723-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 500
-										}
-									]
-								},
-								{
-									"salt": "Luna-Game-Shelf-203723-split",
 									"ranges": [
 										{
 											"start": 0,
@@ -1332,7 +1323,7 @@
 			"allocations": [
 				{
 					"key": "allocation-191619",
-					"startAt": "2026-11-16T20:25:12.703Z",
+					"startAt": "2026-11-17T19:09:21.912Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -1352,7 +1343,8 @@
 										"766447404",
 										"122951235",
 										"885155183",
-										"1609319632"
+										"1609319632",
+										"54493048"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -1379,27 +1371,32 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-203607",
-					"startAt": "2026-11-12T22:34:12.363Z",
+					"key": "allocation-206135",
+					"startAt": "2026-11-17T20:36:31.345Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "Luna-play-button-203607-traffic",
+									"salt": "Luna-play-button-206135-split",
 									"ranges": [
 										{
 											"start": 0,
 											"end": 9000
 										}
 									]
-								},
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
 								{
-									"salt": "Luna-play-button-203607-split",
+									"salt": "Luna-play-button-206135-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 9000,
 											"end": 10000
 										}
 									]
@@ -1407,7 +1404,7 @@
 							]
 						}
 					],
-					"doLog": false
+					"doLog": true
 				},
 				{
 					"key": "allocation-166360",
@@ -3732,7 +3729,7 @@
 			"allocations": [
 				{
 					"key": "allocation-180179",
-					"startAt": "2026-11-03T18:12:49.998Z",
+					"startAt": "2026-11-17T21:37:00.122Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3755,7 +3752,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "On",
+							"variationKey": "Control",
 							"shards": [
 								{
 									"salt": "auto-raid-rollout-180179-split",
@@ -3808,7 +3805,7 @@
 				},
 				{
 					"key": "allocation-180180",
-					"startAt": "2026-10-19T20:28:59.558Z",
+					"startAt": "2026-11-17T21:38:12.764Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -3825,7 +3822,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "DarkLaunch",
+							"variationKey": "Control",
 							"shards": [
 								{
 									"salt": "auto-raid-rollout-180180-traffic",
@@ -8983,7 +8980,7 @@
 				},
 				"dvddropcampaigns": {
 					"key": "dvddropcampaigns",
-					"value": "  {\n    \"campaigns\": [\n      \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n      \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n      \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": true,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n      \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n      \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionOverrides\": {\n      \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": { \"name\": \"Charmander\", \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\" },\n      \"c305b744-b790-11f1-9c20-0a58a9feac02\": { \"name\": \"Charmeleon\", \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\" },\n      \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": { \"name\": \"Bulbasaur\", \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\" },\n      \"b50ac496-b790-11f1-af88-0a58a9feac02\": { \"name\": \"Ivysaur\", \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\" },\n      \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": { \"name\": \"Squirtle\", \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\" },\n      \"daff37ac-b790-11f1-8063-0a58a9feac02\": { \"name\": \"Wartortle\", \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\" },\n      \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": { \"name\": \"Pichu\", \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\" },\n      \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": { \"name\": \"Gastly\", \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\" },\n      \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": { \"name\": \"Haunter\", \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\" }\n    },\n    \"gta6\": {\n      \"orderedDailyChest\": \"30ccdb02-d162-11f1-a983-0a58a9feac02\",\n      \"enabled\": false,\n      \"starterCampaign\": \"b7669f9e-c69c-4a9b-a3b2-36266c1bdfc0\",\n      \"progressCampaign\": \"b7669f9e-c69c-4a9b-a3b2-36266c1bdfc0\",\n      \"ultimateReward\": \"8aada31e-d18c-11f1-a5bd-0a58a9feac02\",\n      \"emoteRewards\": {\n \"9ccb8dd4-bc49-11f1-8088-fe672861178e\": \"emotesv2_fba1756b9e5f443c9725542b78f93b11\",\n  \"425b56a4-b929-11f1-b74d-fe672861178e\": \"emotesv2_a021fa5191714969829fee79badc0756\",\n  \"9cbf1b12-bc49-11f1-8088-fe672861178e\": \"emotesv2_bcdb69418a044bf982e1fed15c34ce63\"\n      }\n    }\n  }"
+					"value": "{\n    \"campaigns\": [\n        \"9bdb6607-22c2-4317-b18a-1b6924e555d6\",\n        \"92f516f7-f6d5-4fa6-909a-48c5b94d2a43\",\n        \"19f00aac-6679-4e10-b36c-881beb654e52\"\n    ],\n    \"enabled\": true,\n    \"testUsers\": [],\n    \"evolutionCampaign\": \"3e7f0c98-893c-47a7-9044-1c61173b8f94\",\n    \"nightsOutCampaigns\": [\n        \"f4f38331-8e23-49c8-ae88-48f690c8528e\",\n        \"26547ffd-3b53-474c-b9ba-766fe4dfca83\"\n    ],\n    \"duskBallReward\": \"59fcee3b-b7b0-11f1-9c20-0a58a9feac02\",\n    \"ballsTrack\": \"balls#9ff135eb-d0c5-404f-8e37-bffbdcf15436\",\n    \"evolutionOverrides\": {\n        \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\": {\n            \"name\": \"Charmander\",\n            \"imageRewardID\": \"60456d93-9661-11f1-9755-0a58a9feac02\"\n        },\n        \"c305b744-b790-11f1-9c20-0a58a9feac02\": {\n            \"name\": \"Charmeleon\",\n            \"imageRewardID\": \"80c2625f-b3b0-11f1-b4f9-0a58a9feac02\"\n        },\n        \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\": {\n            \"name\": \"Bulbasaur\",\n            \"imageRewardID\": \"53c2558e-9661-11f1-8d10-0a58a9feac02\"\n        },\n        \"b50ac496-b790-11f1-af88-0a58a9feac02\": {\n            \"name\": \"Ivysaur\",\n            \"imageRewardID\": \"8cb4c678-b3aa-11f1-bb5f-0a58a9feac02\"\n        },\n        \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\": {\n            \"name\": \"Squirtle\",\n            \"imageRewardID\": \"6fb2b2bf-9661-11f1-b7ec-0a58a9feac02\"\n        },\n        \"daff37ac-b790-11f1-8063-0a58a9feac02\": {\n            \"name\": \"Wartortle\",\n            \"imageRewardID\": \"d2bdd8bb-b790-11f1-b2a2-0a58a9feac02\"\n        },\n        \"6fa2245b-b7a0-11f1-b1c3-0a58a9feac02\": {\n            \"name\": \"Pichu\",\n            \"imageRewardID\": \"7e978af0-9661-11f1-b03f-0a58a9feac02\"\n        },\n        \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\": {\n            \"name\": \"Gastly\",\n            \"imageRewardID\": \"5130dfac-b7a5-11f1-93ac-0a58a9feac02\"\n        },\n        \"6c2583b2-b7a5-11f1-9a6f-0a58a9feac02\": {\n            \"name\": \"Haunter\",\n            \"imageRewardID\": \"61f46ca0-b7a5-11f1-af88-0a58a9feac02\"\n        }\n    },\n    \"gta6\": {\n        \"orderedDailyChest\": \"30ccdb02-d162-11f1-a983-0a58a9feac02\",\n        \"enabled\": true,\n        \"starterCampaign\": \"b7669f9e-c69c-4a9b-a3b2-36266c1bdfc0\",\n        \"progressCampaign\": \"b7669f9e-c69c-4a9b-a3b2-36266c1bdfc0\",\n        \"ultimateReward\": \"8aada31e-d18c-11f1-a5bd-0a58a9feac02\",\n        \"emoteRewards\": {\n            \"9ccb8dd4-bc49-11f1-8088-fe672861178e\": \"emotesv2_fba1756b9e5f443c9725542b78f93b11\",\n            \"425b56a4-b929-11f1-b74d-fe672861178e\": \"emotesv2_a021fa5191714969829fee79badc0756\",\n            \"9cbf1b12-bc49-11f1-8088-fe672861178e\": \"emotesv2_bcdb69418a044bf982e1fed15c34ce63\"\n        }\n    }\n}"
 				}
 			},
 			"totalShards": 10000,
@@ -10946,7 +10943,7 @@
 				},
 				{
 					"key": "allocation-193065",
-					"startAt": "2026-11-09T23:22:36.867Z",
+					"startAt": "2026-11-18T00:18:24.456Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -10962,7 +10959,8 @@
 										"793012933",
 										"513668668",
 										"794714881",
-										"711298629"
+										"711298629",
+										"1181279793"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -14285,7 +14283,7 @@
 			"allocations": [
 				{
 					"key": "allocation-191621",
-					"startAt": "2026-11-16T20:25:24.085Z",
+					"startAt": "2026-11-17T19:08:58.379Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14305,7 +14303,8 @@
 										"766447404",
 										"122951235",
 										"885155183",
-										"1609319632"
+										"1609319632",
+										"54493048"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -14332,27 +14331,32 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-203724",
-					"startAt": "2026-11-12T22:34:53.752Z",
+					"key": "allocation-206132",
+					"startAt": "2026-11-17T20:35:32.350Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "true",
 							"shards": [
 								{
-									"salt": "luna-left-nav-203724-traffic",
+									"salt": "luna-left-nav-206132-split",
 									"ranges": [
 										{
 											"start": 0,
 											"end": 500
 										}
 									]
-								},
+								}
+							]
+						},
+						{
+							"variationKey": "false",
+							"shards": [
 								{
-									"salt": "luna-left-nav-203724-split",
+									"salt": "luna-left-nav-206132-split",
 									"ranges": [
 										{
-											"start": 0,
+											"start": 500,
 											"end": 10000
 										}
 									]
@@ -14360,7 +14364,7 @@
 							]
 						}
 					],
-					"doLog": false
+					"doLog": true
 				},
 				{
 					"key": "allocation-185608",
@@ -14678,14 +14682,18 @@
 				},
 				{
 					"key": "allocation-145464",
-					"startAt": "2026-07-22T16:40:56.440Z",
+					"startAt": "2026-11-17T21:58:25.256Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"686753492"
+										"686753492",
+										"1610272930",
+										"1535894992",
+										"1610459707",
+										"1610458850"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -18479,7 +18487,7 @@
 			"allocations": [
 				{
 					"key": "allocation-185183",
-					"startAt": "2026-11-16T20:25:29.744Z",
+					"startAt": "2026-11-17T19:09:11.722Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -18500,7 +18508,8 @@
 										"766447404",
 										"122951235",
 										"885155183",
-										"1609319632"
+										"1609319632",
+										"54493048"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -18527,27 +18536,32 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-185184",
-					"startAt": "2026-11-12T22:35:11.718Z",
+					"key": "allocation-206133",
+					"startAt": "2026-11-17T20:38:13.859Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "percolite-luna-channel-shelf-206133-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9500
+										}
+									]
+								}
+							]
+						},
 						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "percolite-luna-channel-shelf-185184-traffic",
+									"salt": "percolite-luna-channel-shelf-206133-split",
 									"ranges": [
 										{
-											"start": 0,
-											"end": 500
-										}
-									]
-								},
-								{
-									"salt": "percolite-luna-channel-shelf-185184-split",
-									"ranges": [
-										{
-											"start": 0,
+											"start": 9500,
 											"end": 10000
 										}
 									]
@@ -18555,7 +18569,7 @@
 							]
 						}
 					],
-					"doLog": false
+					"doLog": true
 				},
 				{
 					"key": "allocation-185179",
@@ -18590,7 +18604,7 @@
 			"allocations": [
 				{
 					"key": "allocation-196098",
-					"startAt": "2026-11-16T20:25:35.490Z",
+					"startAt": "2026-11-17T19:09:17.091Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -18613,7 +18627,8 @@
 										"766447404",
 										"122951235",
 										"885155183",
-										"1609319632"
+										"1609319632",
+										"54493048"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -18640,27 +18655,32 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-196099",
-					"startAt": "2026-11-12T22:35:21.419Z",
+					"key": "allocation-206134",
+					"startAt": "2026-11-17T20:38:28.115Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "percolite-luna-remote-play-channel-shelf-206134-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 9500
+										}
+									]
+								}
+							]
+						},
 						{
 							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "percolite-luna-remote-play-channel-shelf-196099-traffic",
+									"salt": "percolite-luna-remote-play-channel-shelf-206134-split",
 									"ranges": [
 										{
-											"start": 0,
-											"end": 500
-										}
-									]
-								},
-								{
-									"salt": "percolite-luna-remote-play-channel-shelf-196099-split",
-									"ranges": [
-										{
-											"start": 0,
+											"start": 9500,
 											"end": 10000
 										}
 									]
@@ -18668,7 +18688,7 @@
 							]
 						}
 					],
-					"doLog": false
+					"doLog": true
 				},
 				{
 					"key": "allocation-196091",
@@ -20865,118 +20885,6 @@
 				}
 			]
 		},
-		"recycled-citrus-anon-exp": {
-			"key": "recycled-citrus-anon-exp",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment-1": {
-					"key": "treatment-1",
-					"value": "treatment-1"
-				},
-				"treatment-2": {
-					"key": "treatment-2",
-					"value": "treatment-2"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-196069",
-					"startAt": "2026-10-30T20:33:16.278Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "recycled-citrus-anon-exp-196069-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "recycled-citrus-anon-exp-196069-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment-1",
-							"shards": [
-								{
-									"salt": "recycled-citrus-anon-exp-196069-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "recycled-citrus-anon-exp-196069-split",
-									"ranges": [
-										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment-2",
-							"shards": [
-								{
-									"salt": "recycled-citrus-anon-exp-196069-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "recycled-citrus-anon-exp-196069-split",
-									"ranges": [
-										{
-											"start": 6666,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-196066",
-					"startAt": "2026-10-30T20:32:59.174Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"recycled-citrus-cat-exp": {
 			"key": "recycled-citrus-cat-exp",
 			"enabled": true,
@@ -21046,14 +20954,13 @@
 				},
 				{
 					"key": "allocation-199602",
-					"startAt": "2026-11-05T22:43:47.587Z",
+					"startAt": "2026-11-17T21:53:40.858Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"just-chatting",
 										"minecraft",
 										"valorant",
 										"dota-2",
@@ -21294,211 +21201,6 @@
 					"splits": [
 						{
 							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"recycled-citrus-exp": {
-			"key": "recycled-citrus-exp",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment-1": {
-					"key": "treatment-1",
-					"value": "treatment-1"
-				},
-				"treatment-2": {
-					"key": "treatment-2",
-					"value": "treatment-2"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-196063",
-					"startAt": "2026-10-30T20:26:30.976Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "recycled-citrus-exp-196063-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "recycled-citrus-exp-196063-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 3333
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment-1",
-							"shards": [
-								{
-									"salt": "recycled-citrus-exp-196063-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "recycled-citrus-exp-196063-split",
-									"ranges": [
-										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "treatment-2",
-							"shards": [
-								{
-									"salt": "recycled-citrus-exp-196063-traffic",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 0
-										}
-									]
-								},
-								{
-									"salt": "recycled-citrus-exp-196063-split",
-									"ranges": [
-										{
-											"start": 6666,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-196060",
-					"startAt": "2026-10-30T20:24:39.443Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"recycled-citrus-shelf": {
-			"key": "recycled-citrus-shelf",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-164795",
-					"startAt": "2026-08-31T17:52:44.326Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"recycled-citrus-shelf-anon": {
-			"key": "recycled-citrus-shelf-anon",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 144,
-			"allocations": [
-				{
-					"key": "allocation-195294",
-					"startAt": "2026-10-29T19:10:31.149Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"recycled-citrus-unbannered": {
-			"key": "recycled-citrus-unbannered",
-			"enabled": true,
-			"variationType": "BOOLEAN",
-			"variations": {
-				"true": {
-					"key": "true",
-					"value": true
-				},
-				"false": {
-					"key": "false",
-					"value": false
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-194379",
-					"startAt": "2026-10-28T16:45:43.741Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "false",
 							"shards": []
 						}
 					],
@@ -30148,6 +29850,83 @@
 					"splits": [
 						{
 							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"twilight_sub_free_trial_creator_opt_out": {
+			"key": "twilight_sub_free_trial_creator_opt_out",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-206272",
+					"startAt": "2026-11-17T23:37:02.849Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						},
+						{
+							"conditions": [
+								{
+									"value": [
+										"1265528788"
+									],
+									"operator": "ONE_OF",
+									"attribute": "user_id"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "twilight_sub_free_trial_creator_opt_out-206272-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-201852",
+					"startAt": "2026-11-10T18:18:46.555Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
