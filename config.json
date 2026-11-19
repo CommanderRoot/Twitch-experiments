@@ -19493,6 +19493,37 @@
 				}
 			]
 		},
+		"portrait-clip-grid": {
+			"key": "portrait-clip-grid",
+			"enabled": true,
+			"variationType": "STRING",
+			"variations": {
+				"control": {
+					"key": "control",
+					"value": "control"
+				},
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-207142",
+					"startAt": "2026-11-18T23:43:07.287Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"pre-affiliate-2fa-skip": {
 			"key": "pre-affiliate-2fa-skip",
 			"enabled": true,
