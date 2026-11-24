@@ -1017,6 +1017,28 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-209712",
+					"startAt": "2026-11-24T14:10:08.511Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "Emote-Leveling-Share-Impression-Sampling-209712-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-190406",
 					"startAt": "2026-10-21T18:45:06.487Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -25562,7 +25584,7 @@
 			"allocations": [
 				{
 					"key": "allocation-208471",
-					"startAt": "2026-11-23T20:37:35.742Z",
+					"startAt": "2026-11-24T07:46:30.797Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -25573,6 +25595,13 @@
 									],
 									"operator": "ONE_OF",
 									"attribute": "line_item_id"
+								},
+								{
+									"value": [
+										"US"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
 								}
 							]
 						}
