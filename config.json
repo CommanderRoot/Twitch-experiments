@@ -9044,7 +9044,7 @@
 			"allocations": [
 				{
 					"key": "allocation-208275",
-					"startAt": "2026-11-20T18:09:50.421Z",
+					"startAt": "2026-11-25T18:34:02.151Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9061,7 +9061,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": [
 								{
 									"salt": "disco_connolly-208275-split",
@@ -9282,7 +9282,7 @@
 				},
 				{
 					"key": "allocation-208278",
-					"startAt": "2026-11-20T18:10:55.635Z",
+					"startAt": "2026-11-25T18:36:36.284Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9299,7 +9299,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": [
 								{
 									"salt": "disco_man_vs_horse-208278-split",
@@ -9503,7 +9503,7 @@
 			"allocations": [
 				{
 					"key": "allocation-208276",
-					"startAt": "2026-11-20T18:10:31.875Z",
+					"startAt": "2026-11-25T18:34:13.579Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9520,7 +9520,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "true",
+							"variationKey": "false",
 							"shards": [
 								{
 									"salt": "disco_zameel-208276-split",
@@ -9896,7 +9896,7 @@
 				},
 				{
 					"key": "allocation-209063",
-					"startAt": "2026-11-24T19:46:48.206Z",
+					"startAt": "2026-11-25T18:46:07.845Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9925,7 +9925,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 7500
+											"end": 5000
 										}
 									]
 								}
@@ -9938,7 +9938,7 @@
 									"salt": "email_login_enabled-209063-split",
 									"ranges": [
 										{
-											"start": 7500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -9950,7 +9950,7 @@
 				},
 				{
 					"key": "allocation-209401",
-					"startAt": "2026-11-24T19:48:49.979Z",
+					"startAt": "2026-11-25T18:46:20.286Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -9979,7 +9979,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 7500
+											"end": 5000
 										}
 									]
 								}
@@ -9992,7 +9992,7 @@
 									"salt": "email_login_enabled-209401-split",
 									"ranges": [
 										{
-											"start": 7500,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -10412,47 +10412,12 @@
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-207056",
-					"startAt": "2026-11-18T22:10:57.189Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"1513588369"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "thanksgiving-2026",
-							"shards": [
-								{
-									"salt": "expiring_gift_promotion_dates-207056-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-67997",
 					"startAt": "2025-11-14T19:18:44.271Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "thanksgiving-2026",
 							"shards": []
 						}
 					],
@@ -14444,7 +14409,7 @@
 			"allocations": [
 				{
 					"key": "allocation-45890",
-					"startAt": "2026-11-24T16:41:02.846Z",
+					"startAt": "2026-11-25T15:33:00.237Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -14468,7 +14433,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 9999
 										}
 									]
 								}
@@ -14481,7 +14446,7 @@
 									"salt": "ivs-player-core-distribution-45890-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 9999,
 											"end": 10000
 										}
 									]
@@ -14605,7 +14570,7 @@
 			"allocations": [
 				{
 					"key": "allocation-48233",
-					"startAt": "2026-11-24T16:40:38.879Z",
+					"startAt": "2026-11-25T15:31:18.356Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -14616,7 +14581,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 5000
+											"end": 0
 										}
 									]
 								}
@@ -14629,7 +14594,7 @@
 									"salt": "ivs-web-broadcast-distribution-48233-split",
 									"ranges": [
 										{
-											"start": 5000,
+											"start": 0,
 											"end": 10000
 										}
 									]
@@ -33168,7 +33133,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "false",
+							"variationKey": "true",
 							"shards": []
 						}
 					],
