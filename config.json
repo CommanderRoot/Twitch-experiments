@@ -2858,6 +2858,82 @@
 				}
 			]
 		},
+		"aga-banner": {
+			"key": "aga-banner",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-209787",
+					"startAt": "2026-11-24T16:17:27.850Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"TR",
+										"GR"
+									],
+									"operator": "ONE_OF",
+									"attribute": "country"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "aga-banner-209787-traffic",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 0
+										}
+									]
+								},
+								{
+									"salt": "aga-banner-209787-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-209782",
+					"startAt": "2026-11-24T16:16:15.112Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"am_baseline_enabled": {
 			"key": "am_baseline_enabled",
 			"enabled": true,
@@ -5973,127 +6049,6 @@
 				}
 			]
 		},
-		"checkout-benefit": {
-			"key": "checkout-benefit",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"TreatmentA": {
-					"key": "TreatmentA",
-					"value": "TreatmentA"
-				},
-				"TreatmentB": {
-					"key": "TreatmentB",
-					"value": "TreatmentB"
-				},
-				"TreatmentC": {
-					"key": "TreatmentC",
-					"value": "TreatmentC"
-				},
-				"TreatmentD": {
-					"key": "TreatmentD",
-					"value": "TreatmentD"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-171911",
-					"startAt": "2026-09-17T21:59:18.736Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "checkout-benefit-171911-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentA",
-							"shards": [
-								{
-									"salt": "checkout-benefit-171911-split",
-									"ranges": [
-										{
-											"start": 2000,
-											"end": 4000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentB",
-							"shards": [
-								{
-									"salt": "checkout-benefit-171911-split",
-									"ranges": [
-										{
-											"start": 4000,
-											"end": 6000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentC",
-							"shards": [
-								{
-									"salt": "checkout-benefit-171911-split",
-									"ranges": [
-										{
-											"start": 6000,
-											"end": 8000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentD",
-							"shards": [
-								{
-									"salt": "checkout-benefit-171911-split",
-									"ranges": [
-										{
-											"start": 8000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-143929",
-					"startAt": "2026-07-20T17:47:37.706Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
 		"checkout-benefit-bits": {
 			"key": "checkout-benefit-bits",
 			"enabled": true,
@@ -6150,131 +6105,6 @@
 				{
 					"key": "allocation-156900",
 					"startAt": "2026-08-12T20:26:19.008Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": []
-						}
-					],
-					"doLog": false
-				}
-			]
-		},
-		"checkout-benefit-gift": {
-			"key": "checkout-benefit-gift",
-			"enabled": true,
-			"variationType": "STRING",
-			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
-				"treatment": {
-					"key": "treatment",
-					"value": "treatment"
-				},
-				"TreatmentA": {
-					"key": "TreatmentA",
-					"value": "TreatmentA"
-				},
-				"TreatmentB": {
-					"key": "TreatmentB",
-					"value": "TreatmentB"
-				},
-				"TreatmentC": {
-					"key": "TreatmentC",
-					"value": "TreatmentC"
-				},
-				"TreatmentE": {
-					"key": "TreatmentE",
-					"value": "TreatmentE"
-				}
-			},
-			"totalShards": 10000,
-			"entityId": 143,
-			"allocations": [
-				{
-					"key": "allocation-172843",
-					"startAt": "2026-09-21T21:11:24.185Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "checkout-benefit-gift-172843-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 2000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentA",
-							"shards": [
-								{
-									"salt": "checkout-benefit-gift-172843-split",
-									"ranges": [
-										{
-											"start": 2000,
-											"end": 4000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentB",
-							"shards": [
-								{
-									"salt": "checkout-benefit-gift-172843-split",
-									"ranges": [
-										{
-											"start": 4000,
-											"end": 6000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentC",
-							"shards": [
-								{
-									"salt": "checkout-benefit-gift-172843-split",
-									"ranges": [
-										{
-											"start": 6000,
-											"end": 8000
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "TreatmentE",
-							"shards": [
-								{
-									"salt": "checkout-benefit-gift-172843-split",
-									"ranges": [
-										{
-											"start": 8000,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": true
-				},
-				{
-					"key": "allocation-154759",
-					"startAt": "2026-08-06T20:02:34.495Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
