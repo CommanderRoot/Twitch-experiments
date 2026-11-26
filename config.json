@@ -17456,6 +17456,10 @@
 				"prodschedule2": {
 					"key": "prodschedule2",
 					"value": "{\"schedule\": [[\"54051059\", 1793395800, 1793421000], [\"195942193\", 1793395800, 1793421000]]}"
+				},
+				"prodschedule3": {
+					"key": "prodschedule3",
+					"value": "{\"schedule\": [[\"139251406\", 1795816800, 1795842000],[\"63000646\", 1795816800, 1795842000]]}"
 				}
 			},
 			"totalShards": 10000,
@@ -17467,7 +17471,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "prodschedule2",
+							"variationKey": "prodschedule3",
 							"shards": []
 						}
 					],
@@ -26064,6 +26068,37 @@
 					"splits": [
 						{
 							"variationKey": "true",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
+		"shouts-polls": {
+			"key": "shouts-polls",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 143,
+			"allocations": [
+				{
+					"key": "allocation-210855",
+					"startAt": "2026-11-26T03:00:13.276Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
 							"shards": []
 						}
 					],
