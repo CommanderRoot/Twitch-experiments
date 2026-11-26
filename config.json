@@ -380,7 +380,7 @@
 				},
 				{
 					"key": "allocation-180950",
-					"startAt": "2026-10-07T18:44:32.855Z",
+					"startAt": "2026-11-25T21:27:17.738Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
@@ -391,7 +391,7 @@
 									"ranges": [
 										{
 											"start": 0,
-											"end": 2500
+											"end": 3333
 										}
 									]
 								}
@@ -404,8 +404,8 @@
 									"salt": "CW-Rewards-180950-split",
 									"ranges": [
 										{
-											"start": 2500,
-											"end": 5000
+											"start": 3333,
+											"end": 6666
 										}
 									]
 								}
@@ -418,21 +418,7 @@
 									"salt": "CW-Rewards-180950-split",
 									"ranges": [
 										{
-											"start": 5000,
-											"end": 7500
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "1_10",
-							"shards": [
-								{
-									"salt": "CW-Rewards-180950-split",
-									"ranges": [
-										{
-											"start": 7500,
+											"start": 6666,
 											"end": 10000
 										}
 									]
@@ -3517,6 +3503,59 @@
 				}
 			]
 		},
+		"amazon-live-regional-product-disclaimer": {
+			"key": "amazon-live-regional-product-disclaimer",
+			"enabled": true,
+			"variationType": "BOOLEAN",
+			"variations": {
+				"true": {
+					"key": "true",
+					"value": true
+				},
+				"false": {
+					"key": "false",
+					"value": false
+				}
+			},
+			"totalShards": 10000,
+			"entityId": 144,
+			"allocations": [
+				{
+					"key": "allocation-210780",
+					"startAt": "2026-11-25T22:34:51.363Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "true",
+							"shards": [
+								{
+									"salt": "amazon-live-regional-product-disclaimer-210780-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
+					"key": "allocation-209216",
+					"startAt": "2026-11-23T20:11:01.980Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "false",
+							"shards": []
+						}
+					],
+					"doLog": false
+				}
+			]
+		},
 		"amazon-live-star-ratings": {
 			"key": "amazon-live-star-ratings",
 			"enabled": true,
@@ -5034,7 +5073,7 @@
 				},
 				{
 					"key": "allocation-165862",
-					"startAt": "2026-11-18T16:12:29.634Z",
+					"startAt": "2026-11-25T21:09:54.845Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -5163,7 +5202,8 @@
 										"1556116038",
 										"838830486",
 										"237261456",
-										"1601930257"
+										"1601930257",
+										"671092822"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
@@ -11253,28 +11293,21 @@
 				},
 				{
 					"key": "allocation-134650",
-					"startAt": "2026-10-22T16:47:15.553Z",
+					"startAt": "2026-11-25T19:35:11.198Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
 							"conditions": [
 								{
 									"value": [
-										"103811294",
-										"1477166521",
-										"1517205719",
-										"1517205698",
-										"1517207135",
-										"1517208889",
-										"92803194",
-										"1520310489"
+										"1610348114"
 									],
 									"operator": "ONE_OF",
 									"attribute": "user_id"
 								},
 								{
 									"value": [
-										"palworld"
+										"wherewindsmeet"
 									],
 									"operator": "ONE_OF",
 									"attribute": "game_title"
@@ -11471,43 +11504,8 @@
 					"doLog": false
 				},
 				{
-					"key": "allocation-138651",
-					"startAt": "2026-09-02T03:28:01.945Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"palworld"
-									],
-									"operator": "ONE_OF",
-									"attribute": "game_title"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "control",
-							"shards": [
-								{
-									"salt": "gamelift_page_release-138651-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
 					"key": "allocation-94142",
-					"startAt": "2026-09-02T03:25:10.166Z",
+					"startAt": "2026-11-25T19:34:30.706Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -11517,7 +11515,8 @@
 										"reanimal",
 										"dragonage",
 										"wotheat",
-										"crimsondesert"
+										"crimsondesert",
+										"palworld"
 									],
 									"operator": "ONE_OF",
 									"attribute": "game_title"
@@ -21141,6 +21140,41 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-210711",
+					"startAt": "2026-11-25T19:34:05.166Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "portrait-clip-grid-210711-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-207142",
 					"startAt": "2026-11-18T23:43:07.287Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -25491,13 +25525,13 @@
 			"enabled": true,
 			"variationType": "STRING",
 			"variations": {
-				"control": {
-					"key": "control",
-					"value": "control"
-				},
 				"B0GK9GDDVV,B0GK9FY4X4,B0GYZPN76K,B0HHBRGDY7": {
 					"key": "B0GK9GDDVV,B0GK9FY4X4,B0GYZPN76K,B0HHBRGDY7",
 					"value": "B0GK9GDDVV,B0GK9FY4X4,B0GYZPN76K,B0HHBRGDY7"
+				},
+				"empty-string": {
+					"key": "empty-string",
+					"value": ""
 				}
 			},
 			"totalShards": 10000,
@@ -25505,7 +25539,7 @@
 			"allocations": [
 				{
 					"key": "allocation-208471",
-					"startAt": "2026-11-24T07:46:30.797Z",
+					"startAt": "2026-11-25T22:16:36.336Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -25529,7 +25563,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "B0GK9GDDVV,B0GK9FY4X4,B0GYZPN76K,B0HHBRGDY7",
 							"shards": [
 								{
 									"salt": "shoppable_ads_asin_map_fetchads_fallback-208471-split",
@@ -25543,7 +25577,7 @@
 							]
 						},
 						{
-							"variationKey": "B0GK9GDDVV,B0GK9FY4X4,B0GYZPN76K,B0HHBRGDY7",
+							"variationKey": "empty-string",
 							"shards": [
 								{
 									"salt": "shoppable_ads_asin_map_fetchads_fallback-208471-split",
@@ -25561,7 +25595,7 @@
 				},
 				{
 					"key": "allocation-209422",
-					"startAt": "2026-11-24T16:44:58.061Z",
+					"startAt": "2026-11-25T22:17:01.672Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"rules": [
 						{
@@ -25578,7 +25612,7 @@
 					],
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "empty-string",
 							"shards": [
 								{
 									"salt": "shoppable_ads_asin_map_fetchads_fallback-209422-split",
@@ -25600,7 +25634,7 @@
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
-							"variationKey": "control",
+							"variationKey": "empty-string",
 							"shards": []
 						}
 					],
@@ -31990,6 +32024,28 @@
 			"entityId": 143,
 			"allocations": [
 				{
+					"key": "allocation-210853",
+					"startAt": "2026-11-25T23:28:24.237Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"splits": [
+						{
+							"variationKey": "control",
+							"shards": [
+								{
+									"salt": "twilight_sub_free_trial-210853-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
+				},
+				{
 					"key": "allocation-189707",
 					"startAt": "2026-11-24T23:32:35.140Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
@@ -33064,6 +33120,41 @@
 						}
 					],
 					"doLog": true
+				},
+				{
+					"key": "allocation-210712",
+					"startAt": "2026-11-25T19:34:37.013Z",
+					"endAt": "9999-12-31T00:00:00.000Z",
+					"rules": [
+						{
+							"conditions": [
+								{
+									"value": [
+										"true"
+									],
+									"operator": "ONE_OF",
+									"attribute": "staff"
+								}
+							]
+						}
+					],
+					"splits": [
+						{
+							"variationKey": "treatment",
+							"shards": [
+								{
+									"salt": "web-clips-feed-210712-split",
+									"ranges": [
+										{
+											"start": 0,
+											"end": 10000
+										}
+									]
+								}
+							]
+						}
+					],
+					"doLog": false
 				},
 				{
 					"key": "allocation-195947",
