@@ -11973,8 +11973,8 @@
 				}
 			]
 		},
-		"gifting-modal-redesign": {
-			"key": "gifting-modal-redesign",
+		"gifting-modal-redesign-v2": {
+			"key": "gifting-modal-redesign-v2",
 			"enabled": true,
 			"variationType": "STRING",
 			"variations": {
@@ -11982,94 +11982,41 @@
 					"key": "control",
 					"value": "control"
 				},
-				"3xstandard_banner": {
-					"key": "3xstandard_banner",
-					"value": "3xstandard_banner"
-				},
-				"3xcombined_banner": {
-					"key": "3xcombined_banner",
-					"value": "3xcombined_banner"
+				"treatment": {
+					"key": "treatment",
+					"value": "treatment"
 				}
 			},
 			"totalShards": 10000,
 			"entityId": 143,
 			"allocations": [
 				{
-					"key": "allocation-187138",
-					"startAt": "2026-10-19T21:19:46.755Z",
-					"endAt": "9999-12-31T00:00:00.000Z",
-					"rules": [
-						{
-							"conditions": [
-								{
-									"value": [
-										"1534168373"
-									],
-									"operator": "ONE_OF",
-									"attribute": "user_id"
-								}
-							]
-						}
-					],
-					"splits": [
-						{
-							"variationKey": "3xcombined_banner",
-							"shards": [
-								{
-									"salt": "gifting-modal-redesign-187138-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-179369",
-					"startAt": "2026-10-02T22:21:06.524Z",
+					"key": "allocation-207750",
+					"startAt": "2026-11-19T21:42:45.820Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
 							"variationKey": "control",
 							"shards": [
 								{
-									"salt": "gifting-modal-redesign-179369-split",
+									"salt": "gifting-modal-redesign-v2-207750-split",
 									"ranges": [
 										{
 											"start": 0,
-											"end": 3333
+											"end": 5000
 										}
 									]
 								}
 							]
 						},
 						{
-							"variationKey": "3xstandard_banner",
+							"variationKey": "treatment",
 							"shards": [
 								{
-									"salt": "gifting-modal-redesign-179369-split",
+									"salt": "gifting-modal-redesign-v2-207750-split",
 									"ranges": [
 										{
-											"start": 3333,
-											"end": 6666
-										}
-									]
-								}
-							]
-						},
-						{
-							"variationKey": "3xcombined_banner",
-							"shards": [
-								{
-									"salt": "gifting-modal-redesign-179369-split",
-									"ranges": [
-										{
-											"start": 6666,
+											"start": 5000,
 											"end": 10000
 										}
 									]
@@ -12080,8 +12027,8 @@
 					"doLog": true
 				},
 				{
-					"key": "allocation-169455",
-					"startAt": "2026-09-11T18:09:54.942Z",
+					"key": "allocation-207747",
+					"startAt": "2026-11-19T21:42:43.660Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
 						{
