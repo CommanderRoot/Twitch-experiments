@@ -25644,28 +25644,6 @@
 			"allocations": [
 				{
 					"key": "allocation-179792",
-					"startAt": "2026-11-27T13:00:00.000Z",
-					"endAt": "2026-11-28T02:00:00.000Z",
-					"splits": [
-						{
-							"variationKey": "treatment",
-							"shards": [
-								{
-									"salt": "shopping_topnav-179792-split",
-									"ranges": [
-										{
-											"start": 0,
-											"end": 10000
-										}
-									]
-								}
-							]
-						}
-					],
-					"doLog": false
-				},
-				{
-					"key": "allocation-179792",
 					"startAt": "2026-11-28T02:00:00.000Z",
 					"endAt": "9999-12-31T00:00:00.000Z",
 					"splits": [
